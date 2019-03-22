@@ -1,0 +1,288 @@
+Volume 6 Paper C057
+
+A Comparison of Biotic and Inorganic Sulphide Films on Alloy 400
+J.S. Lee, R.I. Ray, and B.J. Little
+
+Naval Research Laboratory, Code 7303 / 7330, Stennis Space Center, MS 39529, jason.lee@nrlssc.navy.mil
+
+Abstract
+Distribution, tenacity and chemical composition of sulphide films produced by bacteria within biofilms were compared with those produced by waterborne inorganic sulphides. Attempts were made to differentiate corrosion mechanisms of alloy 400 (70Ni-30Cu) exposed to seawater in the presence or absence of sulphate-reducing bacteria (SRB). Experiments were conducted in an anaerobic environment in the presence of inorganic sulphide and sulphate-reducing bacteria (SRB) either freely corroding or coupled to an external cathode (alloy 400) exposed to air. Sulphur concentration in the films increased in the presence of SRB as well as when samples were coupled to an external cathode. Bacteria encrusted with corrosion products and integrated into the sulphide film were only observed in the presence of SRB in addition to coupling with an external cathode. Keywords: microbiologically influenced corrosion, nickel-copper alloys, sulphate reducing bacteria, sulphide attack
+
+Introduction
+Determination of specific mechanisms for corrosion due to microbiologically mediated oxidation and reduction of sulphur is complicated by (1) the variety of potential metabolic/energy sources and by-products, (2) the coexistence of reduced and oxidized sulphur species, (3) competing reactions with inorganic and organic
+
+compounds, and (4) the versatility and adaptability of microorganisms in biofilms. The physical scale over which the sulphur cycle influences corrosion varies with environment. As illustrated in Figure 1, the complete sulphur cycle of oxidation and reduction reactions can take place in macro (bulk) environments, including sewers and polluted harbours or within the microenvironment of biofilms.
+
+Figure 1. Possible reactions within a biofilm. Sulphur cycle highlighted.
+
+Most of the literature on sulphide induced corrosion of copper and nickel alloys does not differentiate between corrosion due to waterborne sulphides and sulphides produced by sulphate-reducing bacteria (SRB) within biofilms. The problem of accelerated corrosion of copper/nickel and nickel/copper alloys by waterborne sulphides was identified in the 1970's and early 1980's [1-3]. In most cases, investigators used laboratory experiments in which 90/10 or 70/30 copper/nickel alloys were exposed to artificial or natural seawater with sodium sulphide. Gudas and Hack [4] demonstrated that inorganic sulphide films enhanced galvanic corrosion under some circumstances. In the 1980's, Syrett [5-7] demonstrated that deaerated seawater containing dissolved inorganic sulphides did not immediately lead to accelerated corrosion. Instead, a porous sulphide 2
+
+corrosion product interfered with the formation of an oxide film on subsequent exposures to oxygenated seawater. In the mid 1980's investigators recognized that most failures of copper and nickel alloys by SRB in biofilms. in actual seawater service were related to in situ sulphide production
+
+Nickel/copper alloy 400 (Monel 400), nominally containing 66.5% nickel, 31.5% copper and 1.25% iron, is used for seawater and brackish water handling because of its resistance to chloride-ion stress corrosion cracking and erosion corrosion. However, alloy 400 is prone to pitting in chloride-containing environments where the passive film can be disturbed. Under stagnant conditions chlorides penetrate the passive film at weak points and cause pitting attack. Sulphides can cause either a modification of the oxide layer as described for copper or breakdown of the oxide film of nickel alloys. Pit initiation and propagation depend on depth of exposure, temperature and presence of surface deposits. Friend [8] established that nickel/copper alloys containing more than 30% nickel formed a passive film similar in structure to that formed on pure nickel. Localized corrosion of alloy 400 in seawater service is related to stagnation and/or intermittent flow [9, 10].
+
+Experimental
+Materials Disk shaped alloy 400 coupons (1.58 cm diameter x 0.158 cm thick) were purchased with an as-mill finish (Metal Samples, Munford, Alabama, USA). Chemical composition provided with the samples can be seen in Table 1. 100 cm long wire leads were electrically attached to the back of the samples by carbon tape and silver adhesive. Connections were strengthened by applying a bead of hot-glue. Samples were embedded in EpoThin epoxy (Buehler Ltd, Lake Bluff, IL, USA) with the bare surface facing down. The epoxy created a watertight seal at the connections. Samples were wet-polished to a 1200 grit finish, sonicated in acetone for 5 minutes, rinsed with ethanol, and blown dry with nitrogen gas.
+
+3
+
+Table 1. Chemical composition of alloy 400 in wt%.
+
+Ni
+63.76
+
+Cu
+31.95
+
+Mn
+1.11
+
+Si
+0.14
+
+Fe
+2.25
+
+S
+0.003
+
+P
+0.002
+
+Al
+0.03
+
+Pb
+0.002
+
+C
+0.132
+
+Zn
+0.010
+
+Description of microbial cultures SRB used in the current study have been described previously [10-12]. They include: P10 - isolated from a 4140 steel coupon with a 5 step iron phosphate primer (no topcoat) in a constant immersion flume tank (marine water) at the Naval Surface Warfare Center (NSWC)/Ft. Lauderdale, FL. P14 - isolated from a 4140 steel coupon with a 5 step iron phosphate primer + an epoxy topcoat in a constant immersion flume tank (marine water) at NSWC/Ft. Lauderdale, FL. 49Z - isolated from a 4140 steel coupon with a zinc primer (no topcoat) in a constant immersion flume tank (marine water) at NSWC/Ft. Lauderdale, FL. CG59 - isolated from the seawater piping system of a surface ship at Long Beach Naval Station, Long Beach, CA (marine water). C130 - isolated from aluminium alloy with an epoxy primer + polyurethane topcoat from moisture trapped under the cargo ramp of a C-130 transport plane at the Naval Air Depot (Cherry Point, NC). All isolates are positive for desulfoviridin (characteristic of
+
+Desulfovibrio sp.). 100-ml stock cultures of SRB were maintained in
+
+liquid growth medium (Postgate's B) [13] supplemented with NaCl (3% w/v). Cultures were kept in glass bottles fitted with rubber septa and aluminium crimped tops and were placed in glass canisters with an anaerobic gas generating system (BBLTM Gas Pak PlusTM; Becton Dickinson Co., Sparks, MD) at 30°C until use.
+
+4
+
+Sulphide Concentration Measurements Dissolved sulphide (S2-) was determined by the methylene blue method [14]. Briefly, 0.5 ml of an amine-sulphuric acid solution and 0.15 ml of concentrated FeCl3 solution was added to 7.5 ml of fresh sample in a clean cuvette. The mixture was capped and inverted one time. After 3 minutes, 1.6 ml of 50% (NH4)2HPO4 was added and the mixture inverted one time. After 5 minutes, the cuvette was placed in a Hach Model DR/2500 spectrophotometer (Hach Co., Loveland, CO) and S2concentrations were determined by a factory-installed program (# 690) for sulphide determination. Reactor Set-up Three 1.5 litre glass jars were filled with 1350 ml of artificial seawater (ASW) (35 ppt salinity, pH = 8.2). 150 ml of Postgate's B media was also added to make a suitable environment for bacterial growth. Jars were labelled `+SRB', `uninoculated', and `aerobic'. In each of the first two jars, two mounted alloy 400 samples were placed with the exposed sample face in the vertical orientation. Three samples were similarly placed in the aerobic jar. Nitrogen gas was bubbled through the first two jars for 15 minutes to purge oxygen. The first two jars were then placed in an anaerobic hood which contained an atmosphere of 5% carbon dioxide, 10% hydrogen, and the balance nitrogen (Figure 2). A single saturated calomel reference electrode (SCE) was placed inside the anaerobic chamber in a beaker of saturated KCl solution. KCl salt bridges extending from each jar were placed into this beaker for continuous solution conductivity between the jars. Each electrode was connected to a data logger which measured the corrosion potential vs. SCE every 10 minutes. No attempt was made to insure sterile conditions throughout the experiment. The anaerobic chamber was maintained at 30 ºC which has been shown to be the optimum temperature for SRB growth [9, 15].
+
+5
+
+Figure 2. Schematic of the experimental set-up. Anaerobic chamber contained 5%
+
+carbon dioxide, 10% hydrogen, and the balance nitrogen. A septum on the outside between jars.
+
+wall of the anaerobic chamber provided access for wire connections and salt bridges
+
+Experimental Run 3 ml of each of the five SRB cultures were added to the +SRB jar. Initial dissolved sulphide concentration in the bulk solution was measured to be 3.67 ppm. An attempt was made to keep the initial to the uninoculated jar for a final concentration of 3.72 ppm sulphide. One sample from each jar in the anaerobic hood was electrically coupled (by wire) to a corresponding sample in the `aerobic' jar. After 40 hrs, bulk dissolved sulphide concentrations of the bulk solution were measured: 4.17 ppm for +SRB, 0.57 ppm for uninoculated. 4 ppm Na2S was added to uninoculated jar for a final bulk concentration of 3.67 ppm sulphide. Sulphide concentrations were taken again at t = 68, 140, and 184 hrs (concentrations are listed in Figure 3). After 70 hrs the coupled anaerobic samples were disconnected from their corresponding aerobic samples and left to freely corrode. At t = 184 6 dissolved sulphide concentration of the two jars by adding 4 ppm Na2S
+
+hrs, all samples were removed, rinsed through a series of ASW and distilled water dilutions to remove salts. Sample surfaces were examined using an environmental scanning electron microscope (ESEM), and corrosion products were characterized by energy dispersive spectroscopy (EDS).
+
+Results
+Figure 3 indicates the dependence of potential vs. time over the 184 hr experimental duration. The non-coupled sample in the aerobic jar (black curve) started at ~-550 mV and a rose to ~-300 mV over the first 18 hours. For the duration of the experiment, potential values (black curve) ranged from ­275 to ­ 425 mV. The freely corroding (not coupled) +SRB sample (blue curve) started at ­600 mV, dropped to ­ 650 mV in the first day and remained between ­650 and ­700 mV for the duration of the experiment. The freely corroding uninoculated sample (orange curve) started at ­640 mV, rose to ­570 mV over the first day, dropped to ­650 mV when sulphide was added at t = 40 hrs, and remained stable until the end of the experiment. Both coupled samples, +SRB (green curve) and uninoculated (pink curve) initially followed the potential rise of the aerobic sample (black curve) to ­400 mV over the first 18 hours. At t = 18 hours the curves began to diverge, with the aerobic sample rising to ­300 mV, the +SRB curve sample dropping to ­650 mV and the uninoculated sample dropping to ­500 mV. At 40 hrs, the bulk dissolved sulphide concentration in the uninoculated case was raised to 3.67 ppm and potential dropped to ­ 600 mV. Over the next 30 hrs, potential rose to ­550 mV. At t=68 hrs, bulk sulphide concentrations of the +SRB and uninoculated cases were 4.17 and 2.58 ppm respectively. Also at 70 hrs, the couples were disconnected and both anaerobic samples potential immediately decreased by 50 mV. Over the next day, the uninoculated sample continued to drop to ­650 mV at which time it followed the freely corroding uninoculated sample (orange curve) out to the end of the experiment, ending with potential of ­640 mV. The +SRB sample also follows this trend but matches +SRB sample which was freely corroding with a final potential = ~-660 mV. Final dissolved sulphide concentration in ppm was 1.54 (+SRB) and 1.06 (uninoculated). 7
+
+Figure 3. Potential dependence and sulphide concentrations over the course of 184 hrs. Light blue line indicates when the couples were disconnected at 40hrs. numbers with +SRB case on top and uninoculated case below. Sulphide concentrations (ppm) taken at t = 0, 40, 68, 140 and 184 are black
+
+At the conclusion of the experiment, each sample was examined visually. +SRB samples had very dark and uniform surface deposits which were very adherent, with the coupled sample being the darkest. The uninoculated samples had patching dark surface deposits which easily flaked off during removal of salts. As mentioned previously, sterile conditions were not maintained in any way. This can be seen in Figure 4, which includes ESEM micrographs of the freely corroding samples in both +SRB and uninoculated conditions. Cells can be readily seen in each picture as cylindrical dark spots indicating microorganisms not associated with any corrosion products. The blue arrow in the +SRB picture indicates an individual SRB identified by its comma shape. Microorganisms can be seen in the uninoculated case as well, but no attempt was made to determine the types. At low magnification, both cases looked very similar with numerous bacteria and the polishing lines still visible. At higher magnification differences 8
+
+arose. In the +SRB case, the micrographs indicate that the surface is completely vitrified and contained high contrast slivers (seen as white lines). EDS indicated that the white slivers were of the same composition as the surrounding darker deposit. In the uninoculated over the surface. EDS determined the +SRB surface deposit to be consisted of 2% sulphur. It should be noted that none of the microorganisms were coated by corrosion products.
+
+case, the surface was covered with small, distributed deposits spread composed of 8% sulphur, while the uninoculated distributed deposits
+
+9
+
+Figure 4. ESEM micrographs and corresponding EDS of surface deposits after 184 hrs exposure to +SRB and uninoculated conditions with freely corroding samples (not coupled) at two magnifications. Distribution, structure, and composition of
+
+sulphides can be seen to be different for the two cases. Important to notice that the arrow indicates individual SRB. No encrusted cells seen.
+
+sulphide concentration in the "+SRB' was 4x larger than the uninoculated case. Blue
+
+10
+
+Figure 5 includes ESEM micrographs of the initially coupled samples in both +SRB and uninoculated conditions. At low magnification, cells are seen as dark spots in each case indicating microorganisms not associated with any corrosion products. In the +SRB case, large cracks can be seen running through the surface deposit. In the uninoculated case, a large deposit covering the left of the image can be seen with corrosion products appearing from under the deposit. At higher magnification in the +SRB case, the surface deposit appeared vitrified with encrusted cells embedded in the deposit (blue arrow). In the uninoculated case, the surface was covered with small, distributed deposits spread over the surface with a large deposit covering the bottom part of the image. EDS determined the +SRB surface deposit to be composed of 16% sulphur, while the uninoculated distributed deposits consisted of 9% sulphur. Notice the microorganisms in the uninoculated case are associated with the corrosion products but are not encrusted.
+
+11
+
+Figure 5. ESEM micrographs and corresponding EDS of surface deposits after 184
+
+hrs exposure to +SRB and uninoculated conditions initially coupled for the first 70
+
+hrs at two magnifications. Distribution, structure, and composition of sulphides can be seen to be different for the two cases. Sulphide concentration in the "+SRB' has increased to 16%. Blue arrow indicates individual SRB encrusted with corrosion products.
+
+12
+
+Discussion
+It is well established that alloy 400 is susceptible to SRB influenced corrosion [9, 15, 16]. The process is as follows: as a result of seawater (2 gm L-1) to sulphide. The sulphides react with the microbial respiration, SRB within a biofilm reduce the sulphate in copper/nickel oxides to produce a sulphur-rich layer. Sulphide layers on alloy 400 form rapidly, causing acceleration in the corrosion rate [18] demonstrated the presence of SRB in anaerobic niches of biofilm exposed to aerobic seawater. They surmised that upon exposure to oxygenated flowing seawater the sulphide layer would peel away in patches leaving bar metal exposed, thus creating an oxygen concentration cell which would provide new metal for corrosion attack. In this model, the aerated seawater supplies oxygen as a cathodic reactant to push the corrosion rate higher. However, this is often difficult to reproduce in the laboratory because of the unpredictability of sloughing, and the subsequent destruction of the biofilm's integrity. It was with this idea that the current authors designed this experiment in which cathodic current would be supplied remotely to a sample of alloy 400 exposed to dissolved sulphides produced by SRB. This experiment was designed to simulate the affect of oxygen on the corrosion behaviour without removing the biofilm. Removal of the couple after 40 hrs (thus removing the remote cathodic current) was meant to simulate the decrease in oxygen as a closed environment transforms from aerobic to anaerobic conditions. Gouda et al. [16] studied the electrochemical behaviour of coppercontaining alloys in seawater exposed to sulphides and SRB. Using polarization resistance (Rp) and anodic polarization scans, they demonstrated that passivation of the metal surface occurred upon initial exposure of alloy 400 to an SRB environment. As seen in Figure 3, ennoblement of the coupled samples followed the rising potential of the aerobic sample over the first 18 hrs. While these data may indicate passivation of the alloy 400 surface, they more likely indicate the coupled samples were catholically controlled over this time (by the aerobic electrode), corresponding with the build-up of dark surface deposits seen on both "+SRB' and "inoculated' surfaces in the first 18 13 during its formation. Maxwell [17] and later Hamilton and Maxwell
+
+hours. This process seems to be independent of whether SRB are present or not. However, at 18 hrs, differences are observed. The +SRB potential drops from ­440 mV down to ­650 mV while the uninoculated potential drops from ­410 mV only down to ­500 mV.
+
+The difference in magnitude for the potential drops between +SRB and uninoculated cases is possibly due to the formation of a patching SRB biofilm in the +SRB case which allowed the sulphide concentration at the metal/biofilm interface to increase, thereby, decreasing the potential. In contrast, the uninoculated case which did not contain intentionally inoculated SRB, would not decrease in potential as much due to the lower sulphide concentration. Bulk sulphide concentration increasing over the first 40 hrs in the +SRB case indicated the presence of growing SRB and the presence of a dark surface film indicates the incorporation of sulphide into the alloy 400 surface oxide. However, dissolved sulphide concentration in the uninoculated case declined steeply over the first 40 hrs indicating sulphide was not being produced. It should be noticed that throughout the experiment, the potential of the coupled +SRB case was always lower than the coupled `inoculated' case. This trend was also observed in the freely corroding samples. Differences in sulphides produced by bacteria within biofilms and waterborne inorganic sulphides were identified. Sulphide layers formed in biofilms during exposure to ASW + SRB covered the entire surface of the sample. In contrast, exposure to uninoculated ASW and inorganic sulphides resulted in only localized sulphide deposits covering a fraction of the metal surface. Sulphide layers formed in biofilms were also more tenacious towards removal during rinsing with distilled water than those formed in the uninoculated case. The tenacity of the SRB sulphide layers may be due to the extra cellular polymeric substances (EPS) produced within the SRB biofilm. EPS may act as an adhesive that thereby strengthens the sulphide layer against 400 in the presence of SRB. sloughing. Lee et al. [19] found similar results in the corrosion of alloy
+
+Chemical composition of sulphide layers produced by exposure to uninoculated and SRB containing seawater also differed. Figure 6 demonstrates the difference found in sulphur concentration between 14
+
+the different cases. In the case of freely corroding samples, the +SRB corrosion products had a high sulphur concentration of 8%, while uninoculated products were composed of only 3% sulphur. In the case of the coupled samples, the sulphur concentration increased to 16 and 9% for the +SRB and uninoculated cases, respectively. The higher concentration of sulphur in the SRB containing media as probably due to the production of sulphides at the biofilm/metal interface. The higher concentration of sulphur due to coupling can be attributed to a combined affect of increased reactivity at the metal surface due to a (see below) and the attraction of bacteria to the anodic electrode by electrostatic forces [20]. Sulphur concentration in the +SRB layer is especially high considering the bulk solution had a sulphide concentration of ~4 ppm. These findings indicate a connection between bacterial activities and the resulting surface morphology found in this system. Active bacterial surface-mediated mineralisation occurs either by the direct transformation of metals (i.e., methylation, redox reactions) or by the formation of metal-reactive by-products (i.e., sulphate reduction producing sulphide). Experimental work with cultures of SRB has shown that metal ions sorbed to bacterial cells tend to be more chemically active than when they are in solution [21] and reduced iron and other base metals are commonly precipitated on dissimulatory SRB cell surfaces as sulphides [22]. driving cathodic current, increased activity of metal ions bound to SRB
+
+15
+
+Figure 6. Comparison of sulphur concentration in the corrosion layers as a function of coupling and the presence of SRB.
+
+Another observation related to the SRB on the surface of alloy 400 was that cells were encrusted in copper/nickel sulphides only when the sample was initially coupled to the external cathode and SRB were present. Bacteria require Cu and Ni as trace inorganic nutrients but excessive quantities are inhibitory or lethal. Microorganisms immobilize, mobilize or transform metals by extra cellular precipitation reactions, intracellular accumulation, oxidation and reduction reactions, methylation and demethylation, and extra cellular binding[23]. These mechanisms impede toxic metals from entering and killing the cell. Bacteria can react with soluble metals by binding and precipitating metal ions on their surface, producing minerals. Precipitation reactions can be divided into two general categories: passive and active mineralization [22]. Passive mineralisation, or surface catalysis, is caused by the net negative charge on most bacterial cell surfaces which nucleates the precipitation of metallic cations from solution. In many bacteria, capsules or slime, consisting of extra cellular polymers, represent the outermost layer of the cell surface. Capsules consist of linear polymers of polysaccharides or repeating amino acid units and contain over 90% water. They may contain anionic moieties such as carboxyl groups, and occasionally phosphate and sulphate groups, which enable them to bind metals 16
+
+[24, 25]. Bacterial extra cellular polymers have been proposed as carriers for metals in aquatic environments [26]. Binding sites for metals are also found in proteins, nucleic acids and specialized [27]. in aqueous solutions, metals ions are often hydrated and can be attracted to a number of dissolved, colloidal or solid organic or Complexing ligands may be necessary for binding of specific metals;
+
+inorganic substances [24]. Metal binding to cell surfaces is pH and temperature dependent due to their influence on metal and cell wall chemistry [28-30]. Passive metal binding by bacterial surfaces represents an electrostatic interaction; consequently, it is not [24]. Gouda et al. [9, 15] examined the susceptibility of alloy 400 towards necessary that the cells be viable, only that their surfaces remain intact
+
+microbial attack in Arabian Gulf seawater. Results indicated that SRB attack is initiated beneath black sulphur-rich deposits. The deposits were found to be mostly iron nickel sulphides. No corrosion was detected after 3 weeks of exposure under anaerobic SRB conditions, but upon addition of aerated solution, the corrosion rate increased significantly. The authors stated that failure of alloy 400 heat exchanger tubes could take place if SRB are present irrespective of their concentration. Also, their results indicated that alloy 400 is highly susceptible to SRB attack when compared to 70/30 Cu-Ni alloy, brass or N08825 under the same conditions. The mode of SRB attack was intergranular corrosion that was accompanied by selective dealloying of nickel and iron. Using EDS they found that under black iron and nickel sulphides severe intergranular corrosion had taken place. The attacked regions were copper-rich while the regions around the active sites had higher Ni concentrations. Black deposits were also found to be devoid of appreciable copper compounds which indicated preferential attack of nickel and iron. However, a green corrosion layer, found on top of these black deposits, was composed of mainly copper chloride indicating that copper corrosion took place after the initial sulphide attack. Further experiments are needed to better understand the mechanisms behind this type of corrosion such as characterization of the different minerals produced during corrosion using an x-ray diffraction 17
+
+spectrometer. EDS provides chemical composition but not phase identification. Also, a Fourier Transform infrared microscope could be used to identify organic compounds which are produced only in the presence of an SRB biofilm. Finally, removal of the corrosion products to characterize the resulting corrosion morphology in each case is a necessity.
+
+Conclusions
+Distribution, tenacity and chemical composition of sulphides produced by SRB within biofilms are different from those produced by waterborne inorganic sulphides. In an anaerobic environment, SRB within biofilms produce sulphides at the metal surface which lead to an increase in sulphur content of the corrosion products. Coupling to an external cathode exposed to aerobic conditions increase the sulphur content further. Because bacteria enmeshed in biofilms produce extra cellular polymeric materials the tenacity of sulphide layers produced by SRB may differ from those produced in the absence of SRB. In the experiments described, only the sample exposed to SRB and coupled to an external cathode had encrusted bacteria embedded within the sulphide layer.
+
+Acknowledgements
+The authors wish to thank J. Jones-Meehan for supplying the bacterial samples and K. I. Lowe for the maintaining of the bacterial cultures. The work was performed under program element 0601153N, contribution number NRL/pp/7303/03/0053.
+
+References
+1. rate of Cu-Ni alloys", J. F. North and M. J. Pryor, Corrosion Science, 10, pp.297-311, 1970. "The influence of corrosion product structure on the corrosion
+
+2.
+
+water", K. D. Efrid, Corrosion, 31, 3, pp.77-83, 1975. 18
+
+"Potential-pH diagrams for 90-10 and 70-30 Cu-Ni in sea
+
+3.
+
+heat exchanger materials in sea water", R. O. Lewis, Materials
+
+"The influence of biofouling countermeasures on corrosion of
+
+Performance, 21, 9, pp.31-38, 1982.
+
+4.
+
+and H. P. Hack, Corrosion, 35, 2, pp.67-73, 1979. 5.
+
+"Sulfide induced corrosion of copper-nickel alloys", J. P. Gudas
+
+in sulphide-polluted seawater", B. C. Syrett, Corrosion Science, 21, 3, pp.187-209, 1981.
+
+"The mechanism of accelerated corrosion of copper-nickel alloys
+
+6.
+
+sulphide and sulphide oxidation products", B. C. Syrett, D. D.
+
+"Corrosion of copper-nickel alloys in seawater polluted with
+
+MacDonald and S. S. Wing, Corrosion, 35, 9, pp.409-422, 1979. 7. "Accelerated corrosion of copper in flowing pure water
+
+pp.257-262, 1977. 8.
+
+contaminated with oxygen and sulfide", B. C. Syrett, Corrosion, 33, 7,
+
+"Corrosion of Nickel and Nickel-Based Alloys", W. Z. Friend, ed.,
+
+Houston, TX: NACE International International, 1980. 9. "Microbial-induced corrosion of Monel 400 in seawater," V. K.
+
+Gouda, I. M. Banat, W. T. Riad and S. Mansour, Paper no. 107, CORROSION / 90, NACE International, 1990. 10. "Microbiologically influenced corrosion in copper and nickel
+
+seawater piping systems", B. J. Little, P. A. Wagner, R. I. Ray and M. B. McNeil, Marine Technology Society Journal, 24, 3, pp.10-17, 1991. 11.
+
+from marine field tests and laboratory studies with marine, mixed communities containing sulfate-reducing bacteria (SRB)," J. JonesMeehan, K. L. Vasanth, R. K. Conrad, M. Fernandez, B. J. Little and R. I. Ray, In Microbiologically Influenced Corrosion Testing, ASTM STP 1232, Philadelphia, PA: American Society for Testing and Materials, 1994. 19
+
+"Corrosion resistance of several conductive caulks and sealants
+
+12.
+
+"Microbiologically influenced corrosion of epoxy- and nylon-
+
+coated steel by mixed microbial communities," M. Walch and J. JonesMeehan, Paper no. 112, CORROSION / 90, NACE International, 1990. 13. "The Sulfate Reducing Bacteria", J. R. Postgate, ed., New York,
+
+NY: Cambridge University Press, 1984. 14.
+
+Easton, In Standard Methods for the Examination of Water and 1998. 15.
+
+"Method 4550D," L. S. Clesceri, A. E. Greenberg and A. D.
+
+Wastewater, Washington, DC: American Public Health Association,
+
+"Microbiologically induced corrosion of UNS alloy 400 in
+
+Corrosion, 49, 1, pp.63-73, 1993.
+16.
+
+seawater", V. K. Gouda, I. M. Banat, W. T. Riad and S. Mansour,
+
+"The effect of sulphate-reducing bacteria on the electrochemical
+
+behavior of corrosion-resistant alloys in sea water", V. K. Gouda, H. M. 1993. 17. Shalaby and I. M. Banat, Corrosion Science, 35, 1-4, pp.683-691,
+
+"Biological and corrosion activities of sulphate-reducing bacteria
+
+within natural biofilms", S. Maxwell, Ph.D. Dissertation, Department of Microbiology, University of Aberdeen, 1983. 18. "Biological and corrosion activities of sulphate reducing bacteria
+
+within natural biofilms," W. A. Hamilton and S. Maxwell, In Biologically Induced Corrosion, Houston, TX: NACE International, 1985. 19. "Corrosion mechanisms of UNS alloy 400 in sea water," J. S. Lee,
+
+K. I. Lowe, R. I. Ray and B. J. Little, Paper no. 03214, CORROSION / 2003, NACE International International, 2003. 20. "The role of bacteria in pit propagation of carbon steel", M. J.
+
+Franklin, D. C. White, B. J. Little, R. I. Ray and R. K. Pope, Biofouling, 15, 1-3, pp.13-23, 2000.
+
+20
+
+21.
+
+"The role of sulfate-reducing bacteria in the deposition of
+
+sedimentary uranium ore", A. Mohagheghi, D. F. Updegraff and M. B. Goldhaber, Geomicrobiology Journal, 4, pp.153-173, 1985. 22.
+
+"Bacterial surface-mediated mineral formation," G. Southam, In
+
+Environmental Microbe-Metal Interactions, Washington, DC: ASM Press, 2000. 23.
+
+pp.201-223, 1990. 24.
+
+groundwaters", C. L. Brierley, Geomicrobiology Journal, 8, 3-4,
+
+"Bioremediation of metal contaminated surface and
+
+"Metal-binding capacity of bacterial surfaces and their ability to
+
+form mineralized aggregates," R. J. C. McLean and T. J. Beveridge, In Microbial Mineral Recovery, New York, NY: McGraw-Hill, Inc., 1990. 25. "Precipitation of metallic cations by the acidic
+
+exopolysaccharides from Bradyrhizobium japonicum and
+
+Bradyrhizobium chamecytisus strain BGA-1", J. Corzo, M. Leonbarrios, V. Hernandorico and A. M. Gutierreznavarro, Applied and Environmental Microbiology, 60, 12, pp.4531-4536, 1994.
+26. "Mobilization of absorbed cadmium and lead in aquifer material
+
+by bacterial extracellular polymers", J. H. Chen, L. W. Lion, W. C.
+
+Ghiorse and M. L. Shuler, Water Research, 29, 2, pp.421-430, 1995. 27. "The function of metals in microorganisms," M. N. Hughes and
+
+R. K. Poole, In Metals and Microorganisms, New York, NY: Champman and Hall, 1989. 28. "Uptake of metals by bacterial polysaccharides", J. L. Geddie and
+
+1993.
+
+I. W. Sutherland, Journal of Applied Bacteriology, 74, 4, pp.467-472,
+
+21
+
+pH effect on mechanisms and performances of uptake", E. Guibal, C.
+
+29.
+
+"Uranium biosorption by a filamentous fungus, Mucor miehei:
+
+Roulph and P. Lecloire, Water Research, 26, 8, pp.1139-1145, 1992. 30. "Heavy metals alter the electrokinetic properties of bacteria,
+
+yeasts and clay minerals", Y. E. Collins and G. Stotzky, Applied and
+
+Environmental Microbiology, 58, 5, pp.1592-1600, 1992.
+
+22
+

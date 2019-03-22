@@ -1,0 +1,344 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+Prediction of Voltages on Mitigated Pipelines Paralleling Electric Transmission Lines Using an Artificial Neural Network
+A. Al-Badi, K. Ellithy, S. Al-Alawi Department of Electrical & Computer Engineering College of Engineering, Sultan Qaboos University P.O. Box 33, Muscat 123, Oman
+e-mail: albadi@squ.edu.om
+
+Abstract
+This paper presents a technique based on the development of an artificial neural network (ANN) model for predicting the total voltage on mitigated pipelines due to the effect of the inductive and conductive ac interference under fault conditions. The pipeline shared right-of-way with high voltage power lines and it is mitigated by gradient control wires. In particular, the developed ANN predicts the mitigated pipeline voltage under different soil resistivities, fault currents and separation distances. The results indicate reasonable agreement between model prediction and calculated values. The results also demonstrate that the ANN-based model developed in this work can predict the voltage after applying mitigation system with high accuracy. The accuracy of the predicted voltage is very important to protect the overall pipeline integrity and make the pipeline and appurtenances safe for operating personnel. Keywords
+Conductive interference, Inductive interference, Pipeline Voltages, Corrosion, Mitigation, Artificial Neural Network.
+
+1. INTRODUCTION Study of interference effects from AC power lines on nearby conductors such as pipelines, railways and communication lines resulted in many papers, standard and reports [1-13]. In this paper a technique based on the development of an artificial neural network (ANN) model is used to predict the total voltage on mitigated pipelines under fault conditions.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Gas/Oil/water pipelines and power lines often use the same way to minimize land use, to reduce both
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+the installation cost and damage to the environment. Induced ac voltage on unmitigated pipeline can reach thousands of volts during fault conditions. This induced voltage is hazardous to personnel who may come in contact with the exposed structures connected with the pipelines. It can also result in damage to the pipeline and its coating. Excessive coating stress voltages (the difference between the pipeline steel potential and local soil potential) can result in puncture or degradation of coating leading to accelerated corrosion [4]. These voltages can also result in damaging the insulating flanges and cathodic protection equipment. Moreover, to elevate these problems a mitigation system should be designed. Considerable efforts have been placed on the applications of ANNs to power systems. Several interesting applications of ANNs to power system problems have been published [14-17], and it has been shown that ANNs have great potential in power system on-line and off-line applications. In this paper, an approach using an ANN is proposed to predict the voltage on mitigated pipelines built in power lines right-of-way after using the mitigation system. The multilayer feed forward ANN with the error back propagation training method is employed. The input to the ANN is the system parameters (fault current, soil resistivity, and separation distance between power lines and pipelines) and the output is the mitigated pipeline voltage. The results reported in this paper present the predicted pipeline voltage subjected to inductive and conductive coupling from an overhead power transmission lines after applying the mitigation system.
+
+2. COMPUTER SYSTEM MODEL This study is based on a typical field case study which consists of a 10 km parallelism between a well coated 16 '' pipeline and 132 kV transmission lines. Fig. 1 shows the computer circuit model used to calculate the induced voltage on the mitigated pipeline. The data required for training the ANN model
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+for the present study has been obtained using the ROW and MALZ programs [12]. The training data are given in Table 1.
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+Buried Pipeline Phase a Phase b Phase c
+
+Terminal 2
+
+Central Site
+
+Terminal 1
+
+Fig. 1 Simulated circuit model
+
+It is worth nothing that the results obtained, for the inductive component, using ROW program have been verified by the following formula [9] and good agreement has been obtained [18].
+D 5 f E f = I f   [0.0954 + j 0.2794 log ex ] Dax  8  60
+
+(1)
+
+where:
+
+E f :The induced voltage on mitigated pipeline during the fault , V / km
+I f : The fault current , A Dex : The depth of earth return path , m Dax : The separation between phase conductor and the pipeline, m
+f : frequency , Hz j : -1
+
+The depth of earth return path is given as
+
+D ex = 600
+
+
+f
+
+(2)
+
+The maximum induced potential is given by the approximated formula
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+VMax =
+where:
+
+Volume 10 Preprint 28 Ef
+
+29 March 2007
+(3)
+
+
+
+ is the propagation constant of pipe in 1/km.
+ : The soil resistivity , .m
+
+=
+
+ZY , where Z is the pipe self impedance and Y is the pipe shunt admittance per unit
+
+length.
+Table 1: Peak voltage on mitigated pipeline at different values of phase to ground fault currents If and soil resistivity  Separation (m) 100 200 400 600 800 1000 If =5kA & =100 .m 942 646 403 275 195 155.8 Peak Voltage (V) If =3kA & If =2kA & =100 .m =200 .m 361 247 153 107 79 60 708 500 310 210 150 137 If =4kA & =300 .m 1095 767 495 359 282 224
+
+2. Mitigation System
+
+In the past, different types of mitigation strategies have been employed, but many have been found to be either very expensive, as lumped grounding, or ineffective or even hazardous like cancellation wires [13]. The preferred way is the gradient control wires. These wires not only provide good grounding for the pipe and thus lower the absolute value of the pipeline potentials, they also raise earth potentials in the vicinity of the pipeline as a result the difference in potential between the pipeline and the local earth is reduced, thus providing reduced touch voltages and decreasing coating stress voltages. The gradient control wires are zinc ribbon anode and it may be placed parallel to the pipeline and connected at different intervals as shown in Fig. 2. Typical connection intervals vary from 152-609m.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+Earth Surface
+
+Pipe
+
+Zinc Ribbon Anode
+
+Fig. 2 Connection of the mitigation wire to the pipelines
+
+3. ARTIFICIAL NEURAL NETWORK
+
+Artificial Neural networks (ANN) are one of a group of intelligence technologies for data analysis that differ from other classical analysis techniques by learning about your chosen subject from the data you provide them, rather than being programmed by the user in a traditional sense. Neural networks gather their knowledge by detecting the patterns and relationships in your data, learning from relationships and adapting to change. ANNs can handle multivariable problems. They have the potential to describe highly non-linear relationships. Therefore, the application of artificial neural networks to modeling complex relationships has recently become available to capture those non-linear features that a conventional statistical technique (e.g., regression models) might overlook [19]. Heravi et al. [20] indicated that ANN provides a general framework, which can approximate any type of non-linearity in the data. In general, ANN applications in engineering have received wide acceptance [14,15,16,17]. The popularity and acceptance of this technique stems from ANNs features that are particularly attractive for data analysis. These features include handling of fragmented and noisy data; speed inherent to parallel distributed architectures, generalization capability over new data, ability to effectively incorporate a large number of input parameters, in addition to its capability
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+of modeling nonlinear systems. Despite these great features and successful performance of ANN models, there are many inconsistent reports in the literature regarding ANN performance in forecasting time series data. Zhang et al. [21] and Zhang, G. [22] indicated that the inconsistencies in
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+ANN performance may be due to the large number of factors including network structure, training methods, and sample data. These factors may affect the forecasting ability of the networks. Other factors cited in the literature are that ANN model is being a black-box method. There is no explicit form to explain and analyze the relationship between input and output variables. This causes
+
+difficulties in interpreting results from the network. In addition, there are over fitting problems associated with ANN models. These issues and others, however, became important research areas and solutions in tackling these problems are being made [23-24].
+
+The major building block for any ANN architecture is the processing element or neuron. These neurons are located in one of three types of layers: the input layer, the hidden layer, or the output layer as shown in figure 3. The input neurons receive data from the outside environment, the hidden neurons receive signals from all of the neurons in the preceding layer, and the output neurons send information back to the external environment. These neurons are connected together by a line of communication called connection. Stanley [25] indicated that the way in which the neurons are
+
+connected to each other in a network typology has a great effect on the operation and performance of the network. ANN models come in a variety of typologies or paradigms. Simpson [26] provides a coherent description of 27 different popular ANN paradigms and presents comparative analyses, applications, and implementations of these paradigms. A detailed discussion of the different neural network paradigms and their training and recall operations is out of the scope of this paper. Here only some of the relevant issues related to back-propagation network are presented. For the sake of brevity we refrain from discussing the details of neural network principles for details the reader is referred to [25-29] and for the neural network methodology refer to [30-32] for more comprehensive treatment.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+Input Layer
+
+Hidden Layer
+
+Output Layer
+
+Fig. 3 Typical back-propagation architecture
+
+3.2 ANN MODEL DEVELOPMENT Prior to conducting the network training operation using the back propagation paradigm [25-26], training sets of 60 cases were obtained from the calculated data for 132 kV line with different values of fault currents, soil resistivities and separation distances. This data set covers different situations that could possibly take place. Typical training patterns used as part of the training data set are presented in Tables 1. As shown in Fig. 4, the ANN model used in this work consists of 4 input nodes representing Fault current, Soil resistivity, separation distance, and mitigation. The output consisted of one node representing the mitigated pipeline voltage. The training process was performed using the NeuroShell® simulator [33]. After several adjustments to the network parameters, the network converged to a threshold of 0.00001 using 3 hidden nodes. The trained model prediction was in good agreement with the actual results as demonstrated by Fig. 5, hence, producing R2 value of 0.9978. This indicates that approximately 99.78% of the variation in the mitigated pipeline voltage could be explained by the four selected input variables and the data used for model development. Having trained the network successfully, the next step is to test the network in order to judge its performance and to determine whether the predicted results confirm with the actual results.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+Fault Current Soil Resistivity Separation Distance Mitigation
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+Mitigated Pipeline Voltage
+
+Input Layers
+
+Hidden Layer
+
+Output layer
+
+Fig. 4 The Architecture of the developed ANN model.
+
+9000 8000 Induced Voltage (V) 7000 6000 5000 4000 3000 2000 1000 0 1 4 7
+
+Actual
+
+Predicted
+
+10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 Case Number
+
+Fig. 5 Actual and predicted gas pipeline induced voltages for the training set.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+4. RESULTS AND DISCUSSIONS The trained model is assumed to be successful if the model gives good results for the test set. Using the 11 cases allocated for the testing set, the model-input parameters were entered consecutively for each case and a prediction for the pipeline voltage was obtained. The results were then compared with the actual results of the 11 cases in question as shown in Fig. 6. The statistical analysis of these results indicates that the R2 value for the testing set was 0.9933. This high generalization capability indicates that the ANN model predicted with 99.3% accuracy. The results of actual and predicted mitigated pipeline voltage at different fault currents and soil resistivities are shown in Fig. 7. These results also demonstrate that the ANN-based model developed in this work can be used for future analysis. The partitioning method of the connection weights of the network [34-35] was used to study the relative percent contribution of each of the input variables. The method involves partitioning the hidden-output connection weights of each hidden neuron into components associated with each input neuron. Details can be found in the above two references since detailed discussion of this method is out of the scope of this paper. Here only a simplification of the proposed algorithm is presented [36].
+
+1. For each hidden neuron h, divide the absolute value of the input-hidden layer connection weight by the sum of the absolute value of the input-hidden layer connection weight of all input neurons, i.e. For h=1 to nh, For i=1 to ni,
+
+Qih =
+
+Wih
+
+W
+i =1
+
+ni
+
+(4)
+
+ih
+
+end,
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+end.
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+2. For each input neuron i, divide the sum of the Qih for each hidden neuron by the sum for each hidden neuron of the sum for each input neuron of Qih ; multiply by 100. The relative importance of all output weights attributable to the given input variable is then obtained.
+
+RI (%) =
+
+Q
+h =1 nh ni h =1 i =1
+
+nh
+
+ih
+
+ Q
+
+X 100
+
+(5)
+
+ih
+
+end. Using this method for the ANN model, It was found that the contribution of the separation distance (d) in meter on the mitigated pipeline voltage levels was approximately 48% and the mitigation effect was 30% while the remaining 22% was attributed to soil resistivity (11.3%) and the phase current (10.1%). These clearly indicate that separation distance between the power lines and gas pipeline right-of-way should be determined carefully and power lines should be kept at a safe distance from pipelines. It also demonstrates that mitigation is an important factor in controlling the magnitude of the pipeline voltage. Fig. 7 presents a comparison between the actual and predicted mitigated pipeline voltages at different fault currents and different soil resistivities for a range of separation distances. It is clear that there is good agreement between the actual and predicted results. Hence, the ANN-based model developed in this work can predict the mitigated pipeline voltage with high accuracy. The accuracy of the predicted voltage is very important for designing suitable mitigation systems that will increase the overall pipeline integrity and make the pipeline and appurtenances safe for operating personnel.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+Mitigated pipeline Voltage (V) 3500 3000 2500 2000 1500 1000 500 0 1 2 3 4
+
+Volume 10 Preprint 28
+Actual Predicted
+
+29 March 2007
+
+5
+
+6 Case Number
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Fig. 6 Actual and predicted mitigated pipeline voltage for testing set
+
+Actual "4 kA &300ohm.m" Actual"2 kA&100ohm.m" 1000 900 800
+Mitigated pipeline Voltage (V)
+
+Predicted "4 kA&300ohm.m" Predictedl"2 kA&100ohm.m"
+
+700 600 500 400 300 200 100 0 0 100 200 300 400 500 600 700 800 900 1000
+
+Separation distance (m)
+
+Fig. 7 Mitigated pipeline voltages at different fault currents and soil resistivities
+
+5. CONCLUSION In this work an artificial neural network (ANN) model has been developed for predicting the voltage on mitigated pipelines built in overhead power lines right-of-way. The actual system parameters,
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+mitigation system, fault current, soil resistivity, and separation distance, as the ANN input and the ANN provides the predicting of mitigated pipeline voltages as its output. It was found that the neural network model consistently gives superior predictions and the results produced were good. The R-squared values were found to be high. The R-squared for the training set was of 0.9978 while the testing set was 0.9933. The high testing set R-squared value indicates a high generalization capability of the developed model.
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+The relative importance of the various input variables was also investigated. Clearly, this study indicated the potential of the neural network approach for capturing the linear and non-linear interactions between the pipeline voltage levels and the input variables used and for the identification of the relative importance of these variables
+
+APPENDIX The following summarizes all system data used in this study. These data characterize the base case.
+
+Pipeline Coating Resistance: 20000 .m 2 ( 15665 .m ) Coating thickness: 0.0036m Outer Diameter: 0.4064 m Inner Diameter: 0.39923 m Burial depth: 0.5 m Relative Resistivity: 17 (with respect to annealed copper). Relative permeability: 250 (with respect to free space). Grounding: None
+
+Overhead Transmission line
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+AAAC (single-ELM) 132 kV G.M.R: 0.7122 cm
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+Conductor outer radius: 0.94 cm Outer strand radius: 0.188 cm Number of strands: 19 Fault current (phase-to-ground fault): 5 kA
+
+System Length of parallel corridor: 10 km Soil Resistivity : 100  .m Separation distance: 100 m
+
+Mitigation System Gradient control wire: Zinc ribbon with diamond-shaped 12.7x14.28 mm (1/2 x9/6 inch). Mitigation wire resistivity: 3.47 Mitigation wire permeability: 1 REFERENCES [1] Y. Li, F. Dawalibi, and J. Ma, "Electromagnetic Interference Caused by a Power System Network and a Neighboring Pipeline", Proceedings of the 62nd Annual Meeting of the American Power Conference, Chicago, April 10-12, 2000, pp. 311-316. [2] F. Dawalibi, R. Southey, J. Ma, and Y. Li, "On the Mechanisms of Electromagnetic Interference between Electrical Power Systems and Neighboring Pipelines", NACE 2000, T10B Symposium on DC &AC Interference, Orlando, March 26-31, 2000. [3] Y. Baba, M. Ishii, "Numerical electromagnetic field analysis on lighting surge response of tower with shield wire", IEEE Transactions on Power Delivery, Vol. 15, No. 3, July 2000, pp. 10101015. [4] R. Southey, W. Ruan, and F. Dawalibi, "AC Mitigation Requirements: A Parametric Analysis", the Corrosion/2001 NACE International Conference, Texas, March 11-16, 2001. [5] K. J. Satsios, D.P. Labridis, and P.S. Dokopoulos, "The influence of nonhomogeneous earth on inductive interference caused to telecommunication cables by nearby AC electric traction lines", IEEE Transactions on Power Delivery, Vol. 15, No. 3, July 2000, pp. 1016-1020.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+[6] R.F. Allen, "Determining the effects on pipelines built in electric transmission ROW", Pipeline & Gas Journal, Feb. 2001/www.undergroundinfo.com. [7] K. Ellithy, A. H. Al-Badi, S. Al-Alawi: "An artificial neural network model for predicting electromagnetic interference effects on gas pipelines built in power lines row", International Journal of Engineering Intelligent System, Vol. 12, Dec. 2004, pp. 229-235. [8] F. Dawalibi and R. Southy. Analysis of Electrical Interference from Power Lines To Gas Pipelines Part I: Computation Methods. IEEE Transactions on Power Delivery. Vol. 4, No. 3, pp. 1840-1846, July 1999. [9] "Power Line-induced AC Potential on Natural Gas Pipelines for complex rights-of-way configuration", EPRI EL-3106, Project 742-2 Final Report, Vol. 2, May 1983. [10] ANSI/IEEE Std. 80. IEEE Guide for Safety in AC Station Grounding. 1986.
+
+[11] NACE RP-0177. Mitigation of Alternating Current and Lighting Effects On Metallic Structures and Corrosion Control Systems, 1995. [12]CDEGS Software, Safe Engineering Services & Technologies Ltd., Canada. [13] R. Southey and F. Dawalibi, " Advance in interference analysis and mitigation on pipelines", NACE International Canadian Region International Conference 95, Canada, October 31, 1995. [14] M. El-Sharkawi and D. Niebur. ,"Applications of Artificial Neural Networks to Power Systems", IEEE Intelligent Systems Applications of Power Systems, Working Group IEEE, Catalog No. 96 TP 112-0, 1996. [15] S. M. Al-Alawi and K. A. Ellithy, Tuning of SVC Damping Controllers Over a Wide Range of Load Models Using an Artificial Neural Network",. International Journal of Electric Power & Energy Systems, Vol. 22, Issue 6, pp. 405-420, June 2000. [16] Islam, S.M., S.M. Al-Alawi, Ellithy, K.A., "Forecasting Monthly Electrical Load and Energy for a Fast Growing Utility Using Artificial Neural Network", Electric Power System Research Journal, Vol. 34, No. 1, pp. 1-9, 1995. [17] S. Al-Alawi, A. H. Al-Badi, K. Ellithy, "An artificial neural network model for predicting gas pipeline induced voltage caused by power lines under fault conditions", International Journal for Computation and Mathematics in Electrical and Electronic Engineering, (COMPEL), Vol. 24, Issue 1, pp. 69-80, January 2005. [18] A. H. Al-Badi, H. Al-Rizzo" Simulation of Electromagnetic Coupling on Pipelines close to Overhead Transmission Lines: A Parametric Study", Journal of Communications Software and Systems (Journal of Communications Software and Systems (JCOMSS), Vol.1, Number 2, Dec. 2005, pp. 116-125. [19] Ruiz-Suárez, J.C., Mayora-Ibarra, O.A., Torres-Jiménez, J., Ruiz-Suárez, L.G., 1995. Short-term ozone forecasting by artificial neural networks. Advances Engineering Software 23, 143-149. [20] Heravi, S., Osborn, D.R., Birchenhall, C.R., 2004. Linear versus neural network forecasts for European industrial production series. International Journal of Forecasting 20, 435-446.
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 28
+
+29 March 2007
+
+[21] Zhang, G.P, Patuwo, E.B., Hu, M.Y., 1998. Forecasting with artificial neural networks: the state of the art. Int. J. Forecasting 14, 35-62. [22] Zhang, G. P., 2003. Time series forecasting using a hybrid ARIMA and neural network model. Neurocomputing 50, 159-175. [23] Julian D. Olden, Donald A. Jackson, Illuminating the "black box": a randomization approach for understanding variable contributions in artificial neural networks. Ecological Modelling, 154 (2002) 135-150. [24] Muriel Gevrey, Ioannis Dimopoulos, Sovan Lek. Review and comparison of methods to study the contribution of variables in artificial neural network models. Ecological Modelling 160 (2003) 249-264.
+[25] J. Stanley. Introduction to Neural Networks. Third edition, Sierra Madre, California: California Scientific Software, 1990. [26] P. K. Simpson. Artificial Neural Systems: Foundations, Paradigms, Applications, and Implementations. First Edition, Elmsford, NY, Pergamon Press, Inc., 1990. [27] D. E. Rumelhart and J. L. McClelland. Parallel Distribution Processing: Exploration in the Microstructure of Cognition. Vol. 1, Foundations, MIT Press, 1986. [28] C. Looney, Pattern Recognition Using Neural Networks, Oxford University Press, NY, 1997. [29] R. D. Reed and R. J. Marks, Neural Smithing, MIT Press, Cambridge, 1999.
+
+[30] Bishop, C. M., 1995. Neural Networks for Pattern Recognition. Clarendon Press, Oxford. [31] Lek S., Delacoste M. Baran P., Dimopoulos I., Lauga J., Aulagnier S. 1996b. Application of neural networks to modeling nonlinear relationships in ecology. Ecol. Model., 90: 39-52. [32] Olden, J.D., Jackson, D.A., 2001. Fish-habitat relationships in lakes: gaining predictive and explanatory insight by using artificial neural networks. Trans. Am. Fish. Soc., 130: 878-897.
+[33] NeuroShellTM, Neural Network Shell 2 Program. 4th edition, 1996, Ward Systems Group, Inc., 245 W. Patrick St., Frederick, MD 21701. [34] G. D. Garson. Interpreting neural-network connection weights. AI Expert. 1991, 6(7), 47-51.
+
+[35] T. C. Goh. Back-propagation neural networks for modeling complex systems. Artificial Intelligence in Engineering, 1995, 9, 143-151.
+
+[36] Gevrey, M., Dimopoulos, I, Lek, S., 2003. Review and comparison of methods to study the contribution of variables in artificial neural network models. Ecological Modelling 160, 249264.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

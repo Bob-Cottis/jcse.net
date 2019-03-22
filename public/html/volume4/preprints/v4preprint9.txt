@@ -1,0 +1,168 @@
+CATHODIC PROTECTION CONFERENCE UMIST, Manchester 10th ­ 11th February 2003
+
+Cathodic Misconceptions
+C.G. Googan
+
+Anticorrosion Engineering Limited 4 Langley Drive Bayston Hill Shrewsbury SY3 0PR chris@googan.demon.co.uk
+
+Abstract
+This paper describes some cases where elementary errors in the design, installation or operation of cathodic protection systems have subsequently lead to underperformance, or even failure. Keywords: cathodic protection, tanks, pipelines, ships, solar powered systems, on-potentials, off-potentials, CIPS, maintenance, monitoring.
+
+Introduction
+Cathodic protection (CP) involves a very simple concept. If the potential difference between a structure and its environment is made more negative then corrosion is controlled, or even stopped altogether. As has been discussed at this conference[1], the sacrificial anode version of the technique has been known since early in the 19th century; and the century had not closed before the first forays into impressed current CP were made. Despite its sound theoretical basis, CP took some time to become widely established. However, it is now applied to the majority of buried or immersed steel structures; either routinely or because regulations require it. Usually it works well; but there can be problems.
+
+1
+
+Is CP Needed?
+In many cases, for example steel pipelines transporting hazardous fluids, the decision to apply CP is imposed by the relevant national regulations. However, in other instances the responsibility for that decision rests with the owner or operator. Two contrasting examples show how, on occasions, the thinking behind the decision can become muddled. Case 1 ­ Water Storage Tank ­ Coastal Location The author's company carried out a formal corrosion risk assessment for a fertilizer complex in the Middle East. The assessment concluded that the majority of the piping and equipment fell into low or medium risk categories. Among the few exceptions were the water storage tanks which, because of the prevailing soil conditions and absence of CP, were predicted to suffer high corrosion rates. Since an adequate supply of water was essential to maintain production, the assessment concluded that the prospective failure of the tank placed it in the high risk category. It was recommended that CP be installed. In the event, the client was reluctant to accept and act upon the outcome of the report. Just under a year later the raw water storage tank perforated due to soil-side corrosion. The resulting loss of water caused a very costly two-week unscheduled interruption in production and a belated decision to install CP. Case 2- Water Storage Tank ­ Desert Location A raw water tank at an oil company desert station, described as
+
+very old, collapsed as a result of corrosion thinning of the
+installing CP systems for the internal surface (magnesium anodes) and the external base (impressed current) of the replacement tank. The need for the internal anodes had been effectively
+
+internal shell. The company's corrosion department advised
+
+demonstrated by the collapse of the original tank. However, the decision to apply CP externally was taken without having to
+2
+
+suffer the inconvenience of studying the soil conditions at the site.
+
+At about that time, this author happened to visit and took the opportunity to view the remains of the old tank in the scrap yard. Due the way the debris had been dumped, about 50% of the underside of the base could be inspected. It had originally been galvanized. There was some white dusting of zinc corrosion product and a few small rust spots. There was no general thinning of the plate from the soil side, nor any evidence of pitting attack. In other words, the original tank base had done very well for a long time in the absence of CP. This was not surprising in view of the benign soil conditions. As a result the corrosion department were persuaded to delete the requirement for external CP.
+
+Who Should Design the CP System?
+Having made a decision to apply CP, someone needs to be appointed to design the system. In an ideal world this would be a CP specialist. Unfortunately, such people are not always available, so an acceptable alternative might be a competent engineer with access to the relevant design guidelines. However, on one occasion the design was left up to the company idea. Case 3 ­ Effluent Treatment Tank. Figure 1 shows a painted steel effluent water treatment tank at a meat processing factory. The tank contained an internal weir structure fabricated in stainless steel (Figure 2). The water had a high conductivity and was well aerated (as indicated by the growth of algae). This design led to a classic case of galvanic corrosion, with a large cathode (the stainless steel weir) coupled to a small area of anode (the areas of damaged paint on the tank wall). Localized penetration of the tank soon occurred.
+
+accountant. As the following example illustrates, this was not a good
+
+3
+
+The owner sought advice from the tank manufacturer, and was informed (quite correctly) that the problem could be remedied by the installation of sacrificial anodes. A request to procure anodes was then passed over to the accountant who saved money by dispensing with the cost of involving a CP design engineer. Instead he ordered four "suitable" anodes from a yacht chandler. These were installed by the company's own maintenance fitters. Sadly, however, there was no discernable reduction in the frequency of leaks (Figure 3). This author's subsequent potential measurements confirmed that the undersized anodes were failing to exert any useful effect on the galvanic corrosion.
+
+How Should We Use Design Guidelines?
+Fortunately there are plenty of published guidelines to help engineers produce CP designs for offshore[2,3,4,5,6], coastal[7] or onshore[8,9] structures, as well as for concrete reinforcement[10]. Moreover, design houses can easily implement the published guidelines in the form of spreadsheet or Mathcad® design tools. This has the significant advantage that, providing the tool has been validated under an inhouse quality system, its results are guaranteed to be arithmetically correct. The disadvantage is that the design exercise becomes mechanical and is often carried out, checked and approved by engineers with no practical experience in CP. Moreover, because the computerised design calculations are presented with a high degree of precision, the engineers responsible are apt to lose sight of the fact that the underpinning guidelines embody a compilation of predictions about how CP system components and, more particularly, protective coatings will perform in future. It is sometimes worth remembering that these predictions are often little more than guesses endorsed by committees. The following two cases make the point that guidelines can be misleading.
+
+4
+
+Case 4 Coatings that Under-Perform Figure 4 shows a section of 6-inch EPDM rubber coated flowline installed in the North Sea some fifteen years ago. The CP was according to the accepted guidelines of the day. However, a survey carried out two years after installation showed that, despite the anodes yielding more than the design current, the line had failed to polarize to its protection potential. Subsequent investigations revealed that the cause of the provided by sacrificial anode bracelets which had been designed
+
+problem was the carbon black used as a filler in the rubber coating. Laboratory measurements showed that, although the polymer itself was expected to have a specific electrical resistivity of 1014 m, the value for the carbon-loaded coating was 10 m at atmospheric pressure, falling to 2 m at 16 bar (the water pressure at the installation depth). What is more, as expected from the galvanic series, the carbon was acting as a cathode: draining current from the anodes and potentially putting the pipeline at risk. Even before the cause of the problem could be fully elucidated it was clear that there was a need to install additional CP. This necessitated a costly retrofit using the (then) innovative approach of magnesium anode arrays connected to the pipeline via voltage limiting diodes[11].
+
+Fortunately the above case was one of only a few such instances. The lesson has been learned, and insulating coatings now have very low resistivities. It is more usual for adherence to the published coating breakdown guidelines to result in excessively conservative designs. For an offshore installation, some degree of over-design is usually justified. It represents a small increment to the capital cost, and provides insurance against the financial penalty of having to carry out remedial work sub-sea. On the other hand, over-design is less easy to justify for on-shore CP systems.
+
+5
+
+Although there are guidelines[2,6] for predicting coating breakdown and cathodic current densities for offshore structures and pipelines, there are no corresponding documents for onshore CP. In the latter cases some designers use traditional, but nonetheless arbitrary, methods such as assuming 5% coating breakdown and a bare steel current demand of 10 mA/m2. Other designers refer to less conservative historical data, for example those summarized statistically by Hewes[12]. However, it needs to be understood that historical data have been gained predominantly on pipelines coated with earlier generation materials such as asphalt, coal tar enamel or tape wraps. The modern three-layer polyolefin coatings, applied under carefully controlled factory conditions, will inevitably perform better. Although the improved durability of modern coatings is to be welcomed, it is not without its problems when it comes to designing an onshore impressed current CP system. Case 5 The Coating That Was Too Good. In 1997 the author was involved in resolving a dispute between an oil company and a CP contractor. The issue involved a new 30-inch oil trunk line passing through predominantly desert terrain. The line was protected by a good quality factory-applied polyethylene coating, plus carefully applied shrink-wrap at the field joint. CP was provided by solar powered stations, the number and output of which were calculated on the basis of coating breakdown estimates relevant to previous generation coating systems. The CP contract required that, at commissioning: · all pipe potentials were to be within the range -0.95 V to 1.4 V (vs Cu|CuSO4), with · all CP stations operational.
+
+The problem was that the output of each CP station was virtually uncontrollable at levels below about 10% of the rating. However, even this minimum level of output was so far above the need of
+6
+
+the very well coated line that the least negative "instant"
+
+current-off potentials that could be achieved were in the region of -2.5 V. Inevitably the unfortunate CP contractor found that exclusive. This case provided an illustration of the largely unquestioned practice of sizing impressed current CP systems according to the maximum (i.e. end-of-life) anticipated current demand. Whereas this is sensible for offshore systems, where retrofitting is prohibitively expensive, it is invariably uneconomic for onshore systems. It involves the excessive up-front capital expenditure of installing CP capacity that will not be needed for decades, if at all. Moreover, there is the additional cost due to the inefficiency of operating large capacity CP units at near the bottom of their rated outputs. Although it might be contractually inconvenient, it would make more sense to start with a small system appropriate to the early requirements, and then to provide supplementary CP stations where and when the CP monitoring indicated a need. the twin requirements imposed by the contract were mutually
+
+What Happens When The System is Handed Over?
+As noted, it is by no means certain that designers of a CP system will be familiar with the electrochemical principles underpinning their design. It is even less certain that the future operator of the system will have anything more than an imperfect understanding. As a matter of personal experience, many of the problems found with CP systems derive from the combination the owner's lack of understanding and the supplier's lack of motivation to impart that understanding. The following recent case is typical. Case 6 CP Only Works When It is Switched On Ships' propellers are often fabricated from a bronze alloy with good general corrosion resistance to seawater. On ships with impressed current systems, the propeller can further be protected by electrically bonding it to the cathodically protected hull through a slip-ring connector on the shaft.
+7
+
+In the case of a fast ferry constructed in 2001, however, the a material selected because of its superior mechanical
+
+propellers were made in austenitic stainless steel (UNS S31600); characteristics. Quite correctly, the vessel's designers had recognized that that particular grade of stainless steel does not possess adequate inherent corrosion resistance for seawater service. Accordingly, the design included a slip-ring device bonding the propeller into the hull's impressed current system. However, what the designers either failed to appreciate, or else failed to communicate to the builders, was that the stainless steel was at risk during the period between launch and the commissioning of the CP. In the event, the vessel lay afloat with the CP system inactive during the four month fitting out period. Unfortunately, although this period was relatively short in shipbuilding terms, it was sufficient for pitting corrosion to initiate on the propeller hubs (Figure 5). This caused a delay in the delivery of the vessel, and an acrimonious dispute between the shipyard and the buyer. The lesson was learned in time for the launch of the sister ship, for which temporary sacrificial anodes were provided to protect the propeller during outfitting (Figure 6).
+
+The Management of CP Systems.
+As a broad generalization offshore CP systems are based on sacrificial anodes. As such, the only system management involved is periodic surveying and inspection to confirm that all is well. Conversely, if problems are found, there are few remedial options other than an expensive upgrade. Consequently, there is a tendency, sometimes justified, on the part of system owners to regard sacrificial systems as "fit-and-forget". Land-based CP systems, on the other hand, are usually impressed current. Such systems need to be managed and maintained by suitably trained personnel. This fact is all too often overlooked by system owners.
+
+8
+
+Perhaps the most common example of the lack of training among operators is the persistent failure to appreciate the importance of taking account of the IR-error when measuring potentials. This is a
+
+subject considered in detail in another paper at this conference[13]. The following case is one of many examples of an operator believing that all was well, when the converse was the case. Case 7 The Importance of Off-Potential Measurements Figure 7 shows the results of a close interval potential survey (CIPS) along a high pressure gas pipeline. In the original survey the data were collected at I m intervals and plotted on sheets each showing 500 m of line. In Figure 7, however, the data for each kilometre have been averaged so that the condition of the entire 112 km of the pipeline can be seen in a single plot. Prior to the CIPS, the operator had only ever measured onpotentials at test posts 5 km apart; and was of the opinion that the line was well protected. It was only when the CIPS was carried out, and the on-potentials (green line in Figure 7) compared with the off-potentials (purple line) did it become apparent that the line was suffering a dangerous stray current interference problem. (This is revealed by the off-potentials in the region of km 60).
+
+System Maintenance
+CP field engineers can catalogue numerous instances of neglect or vandalism relating to land-based CP systems. These can range from the common fault of failing to carry out routine monitoring and maintenance, or failing to turn CP systems back on after they have been shut down for maintenance work, to more intractable problems such as the theft of hardware. The following case relates to a systematic lack of maintenance that went undetected for a considerable time. Case 8 Dead Batteries Solar power units of the type illustrated in Figure 8 provide a convenient source of electrical power for CP systems in remote
+9
+
+desert locations. However, it is not always appreciated that the but, more important, to charge the batteries (Figure 9). Unfortunately, the remote locations of these CP stations mean that it is all too easy for routine maintenance, including the topping up of battery electrolyte, to be overlooked.
+
+function of the solar panels is not only to provide the CP current
+
+In one case involving a solar powered CP system for an oil trunk line, it appears that the batteries had never been topped up. Inevitably, they eventually became completely dry. However, the problem went unnoticed for a long time; possibly several years. This was because the (infrequent) CP inspections were only carried out in the day-time, when the solar units were delivering current. Moreover, the inspectors only recorded on-potentials, which gave an unrealistically optimistic indication of the level of protection. It was only when the author's company audited the CP monitoring and inspection records that the problem came to light. Subsequent monitoring of on- and off-potentials using a data logger over a 24-hour cycle revealed under-protection, and confirmed that the sun does not shine at night!
+
+Summary
+Cathodic protection is a well established technique for controlling corrosion of buried or immersed structures. It usually works well. However, as the cases outlined above illustrate, there can be problems. Moreover, these problems could easily have been avoided with a very small investment in training the system designers in the underlying principles of CP, and educating operators about the need for effective monitoring, inspection and maintenance.
+
+10
+
+Figure 1 Effluent Water Treatment Tank
+
+Figure 2 Stainless Steel Weir in Tank
+
+11
+
+Figure 3 Result of Inadequate Internal CP
+
+Figure 4 Section of 6-inch nb flowline with 25 mm EPDM rubber coating 12
+
+Figure 5 Pitting damage to a stainless steel propeller hub ­ fast ferry newbuilding
+
+Figure 6 sacrificial anodes to protect stainless steel propeller during outfitting
+
+13
+
+0 -0.5 Potential V (cse) -1 -1.5 -2 -2.5 -3 0 20 40 60 km
+Figure 7 Potential distribution along a high pressure gas transmission line
+
+80
+
+100
+
+Figure 8 Solar Panel Array
+
+14
+
+Figure 9 Storage batteries
+
+References
+1 J.D. Scantlebury Humphrey Davy and the origins of cathodic
+
+protection. (This Conference).
+
+2 DNV RP B401 Cathodic Protection Design 1993 3 European Standard EN 12495 Cathodic protection for fixed steel
+
+offshore structures 2000
+
+4 European Standard EN 12473 General principles of cathodic
+
+protection in sea water 2000 pipelines 2001
+
+5 European Standard EN 12474 Cathodic protection of submarine 6 NORSOK Standard M-503 Common Requirements for cathodic
+
+protection Rev 2 Sep. 1997.
+
+15
+
+7 European Standard EN 13174 Cathodic protection for harbour
+
+installations 2001
+
+8 British Standard BS 7361 Cathodic protection Part 1 Code of practice
+
+for land and marine applications 1991
+
+9 European Standard EN 12954 Cathodic protection of buried or
+
+immersed metallic structures ­ general principles and applications for pipelines. 2001
+
+concrete 2000.
+
+10 European Standard EN 12696 Cathodic protection of steel in 11 W.R. Jacob and C.G. Googan High current CP retrofits for a
+
+(1998) NACE International.
+
+submarine flowline Proc. Conf. Corrosion and the Environment, Bath
+
+12 F.W. Hewes Cathodic protection of pipelines ­ underground in Booker Ellis Horwood (1986)
+
+Cathodic Protection ­ Theory and Practice ed. V. Ashworth and C.J.L.
+13 R.A. Cottis The real meaning of off-potentials (This conference)
+
+16
+

@@ -1,0 +1,196 @@
+Volume 6 Paper H045
+
+Metallic Components in Coal-Gasification Fuel Gas Paths
+P.J. Kilgallon, N.J. Simms, J.F. Norton* and J.E. Oakey
+
+Power Generation Technology Centre, Cranfield University, Cranfield, Bedfordshire, MK43 OAL, UK, n.j.simms@cranfield.ac.uk * Consultant in Corrosion Science & Technology, Hemel Hempstead, Herts, HP1 1SR
+
+Abstract
+Gasification systems offer the potential to generate electricity from coal much more efficiently and with substantially less environmental impact (i.e. lower CO2, SOx, NOx and particulate emissions) than conventional pulverised fuel combustion systems. There is a wide variety of gasification processes and fuel gas path options that continue to be investigated. However, the hot fuel gas path environments produced by all these gasification systems have the potential to be extremely aggressive for materials during plant operation and downtime periods. This paper reports on a series of tests carried out to investigate the performance of candidate materials for two types of component in hot fuel gas path environments i.e. the fuel gas cooler and metallic filter elements. One series of laboratory tests was carried out for up to 3000 hours at temperatures in the range 450-550ºC in which materials were exposed to gases that simulate both oxygen and air-blown gasification systems. The materials in these tests were exposed both bare and with a coverage of the appropriate deposit for the type of gasification system. A second series of test was carried out to investigate the downtime corrosion behaviour of candidate heatexchanger materials in which materials covered with a deposit were exposed to humid atmospheres. A third series of tests was carried out
+
+combining the first two test methods; i.e. materials were exposed
+
+alternately to high temperature fuel gas environments and downtime conditions. The performance of the materials in all these tests was assessed using standard optical and SEM/EDX techniques, as well as methods allowed the materials to be ranked in terms of their dimensional metrology. The combined results from these assessment performance in each of the types of test. The relative importance of fuel gas path components is discussed. Keywords: materials issues, gasifier, heat exchanger, filter, downtime corrosion, deposits.
+
+these different test methods in the selection of materials for different
+
+Introduction
+A number of coal gasification systems have been developed [#ref01], based on different types of gasification process, e.g. entrained flow, fixed bed, oxygen blown fluidised bed. Variations on these processes may use either oxygen or air as their oxidant in the gasifier vessel and can be controlled to give varying degrees of conversion of the coal to fuel gas, from complete (>99% conversion) to partial (e.g. 75% conversion). Once generated, the fuel gases need to be cooled and cleaned before use, e.g. being burnt in gas turbines. All gasification technologies require a heat exchanger (often called either a syngas cooler or fuel gas cooler) between the gasifier and the gas cleaning system. The function of this heat exchanger varies depending on the type of gasifier, gas cleaning requirements (e.g. hot dry cleaning or wet scrubbing) and steam cycle needs. However, gasifier hot gas path environments are potentially very aggressive for materials both during plant operation and off-line periods. This has the effect of imposing a temperature window for the safe operation of these heat exchangers (with current materials restricting their use to modest steam conditions and preventing their use as superheaters with commercially viable lives). Thus, in different gasification systems evaporators are used to produce saturated steam at 10 MPa/320 °C with metal temperatures of 320-400 °C depending on the syngas temperature [#ref02]. However, there is a drive towards raising evaporator steam conditions to 18 MPa/350 °C, with corresponding metal temperatures 2
+
+of 380-450 °C. Under these steam conditions, the use of highly
+
+alloyed materials will be required to give economically viable heat exchanger lives in gasifier hot gas paths [#ref03]. However, some gasification cycles would be more efficient (and economically viable) if this location in the hot gas path: this would involve steam at at least some superheating could be carried out by a heat exchanger in temperatures of 500-550 °C with corresponding metal temperatures of 550-600 °C [#ref02]. Both water tube and smoke tube heat exchanger designs are reported in the literature for gasifier heat exchangers. These radically diverse types of designs will have dissimilar characteristics in terms of deposit formation, due to the different gas flows around or through them. Significant differences in the hot gas path environment exist between the various gasification systems which utilise different fuels, but unfortunately these simply have the effect of changing the balance between different potential degradation modes arising. It is possible to carry out the gas cleaning by water scrubbing the cooled fuel gases, but this leads to lower cycle efficiencies and requires the provision of a scrubbing and waste-water treatment facility, which generates liquid waste for later disposal. The first generation gasification systems have been built to use water scrubbing for gas cleaning. Hot dry gas cleaning, using barrier filters to remove particulates and catalysts/sorbents to remove gaseous species (e.g. sulphur, chlorine, ammonia), offer higher cycle efficiencies as well as lower capital and operating/disposal costs. However, hot dry gas cleaning is still at the developmental stage and so only parts of the processes are included in the latest demonstration plants.
+
+There are many significant differences between the various gasification systems [#ref01], both in terms of the operation of the actual gasification process and the requirements for different downstream components with different ranges of operating conditions. These give rise to economic and efficiency differences between the systems that are beyond the scope of this paper. However, from the perspective of materials performance and optimum materials selection, the component operating conditions and the environments produced in each of the systems are critically important. 3
+
+Table 1 lists published bulk gas compositions produced by some of these gasification systems.
+
+Table 1 Gasifier Gas Compositions
+Gas Species Oxygen Blown Units Entrained Slagging Dry Feed 62-64 2-4 % 27-30 0-3 1-5 n/a 2000­12000 vpm 200-500 50-1000 Slurry Feed 35­45 10­15 27­30 15­25 0­2 n/a 2000­12000 2000­5000 50­1000 Fluidised Bed 30­40 10­15 24­28 11­20 0­2 3.5 2000­12000 200­500 50­1000 Air Blown Fluidised Bed 15-20 5-8 10-15 5-12 40-50 2-4 300­5000 500­1500 50-500
+
+CO CO2 H2 H2O N2 CH4 H2S * NH3 HCl *
+
+* Dependent on coal sulphur and chlorine content Further differences arise from the minor and trace gas species which are very important in determining materials performance, both through direct reaction and indirectly through deposit formation and subsequent reaction. The levels of these minor and trace gas species in these gasification systems are rarely reported in the published literature. The majority of the coal gasification processes which have reached the pilot and demonstration plant scale are based on pressurised oxygen blown entrained flow slagging gasifiers [#ref04] but a number of air blown pressurised fluidised bed gasification (PFBG) processes have been developed. The use of partial gasification systems results in 4
+
+hybrid cycles, in which unburnt carbon from the gasifier is burnt in a combustor to raise steam for the steam cycle [#ref05-#ref07].
+
+The overall aim of this study was to assess the potential corrosive effects of deposits formed on heat exchangers and metallic filter elements in ABGC and IGCC systems. The effects of deposits on High Temperature Gaseous Corrosion (HTGC), Downtime Corrosion (DTC) the operating conditions and materials that could produce rapid gasification plant operation. Degradation Modes The performance of materials in various simulated and real coalgasification atmospheres has been investigated by research groups in the US, Japan and Europe for more than 25 years [#ref02-#ref03, #ref08-#ref25]. The initial generic studies investigated the performance of materials in a range of highly reducing atmospheres with varying levels of sulphidation at high temperatures. Later studies have tended to concentrate on higher alloyed materials and/or lower exposure temperatures. Following plant experience, more recent studies have been targeted at increasingly realistic exposure simulations to match the degradation morphologies observed in practice [18]. Several potential degradation processes have been established during the studies carried out in these types of environment [#ref02-#ref03, #ref08-#ref25], including: · elevated temperature gas phase induced corrosion: this includes oxidation, sulphidation, carburisation/metal dusting and chlorination; · corrosion induced by surface deposits either as particles from the gasifier or by species condensing onto those particles or directly onto the component surfaces; · dewpoint corrosion: induced by high temperature deposits absorbing moisture or gaseous species (such as HCl or H2S) 5 and synergistic interactions were assessed. This work helps to identify material failures due to interactions with the deposits formed during
+
+reacting with condensing water during part-load operation (to form HCl and polythionic acids) or deposits forming on cooler gas path surfaces; · downtime corrosion: induced by high temperature deposits
+
+becoming damp during plant shut-down, gaseous species (e.g. HCl, H2S, etc.) reacting with condensed water during plant shutdown (e.g. forming HCl and polythionic acids) or hygroscopic (e.g. during the course of maintenance operations); deposits being exposed to damp air during plant shut-downs
+
+·
+
+mechanical factors, e.g. creep or fatigue, to produce synergistic degradation, e.g. creep-corrosion or corrosion-fatigue; · spallation of corrosion products: of critical importance on the clean side of the filter unit from where spalled scale may enter the gas turbine and cause erosion damage. In any gasification system, different combinations of degradation mode will be found on components along the hot gas path due to variations in operating temperature and local plant environment (deposition, local gas composition, i.e. the extent of gas clean-up, gas temperature at that point in the system, component temperature, etc.). Most studies of materials in gasifier hot gas paths (mainly heat exchangers materials) have targeted elevated temperature gas phase induced corrosion with increasing levels of realism allowing the successful development of predictive models for sulphidation / oxidation [e.g. #ref15, #ref24-#ref25]. However, pilot plant tests have shown that deposit covered components can suffer rapid failure due to both dewpoint and downtime corrosion. Thus, it is important to avoid (or at least minimise) damage by these degradation modes.
+
+interaction of any of the above degradation modes with
+
+Experimental
+Materials Table 2 gives the composition of the heat exchanger alloys and metallic filter alloys used and also lists the alloys corresponding Pitting 6
+
+Resistance Equivalent Number (PRENW (including tungsten)) as given by:
+
+PRENW =%Cr+3.3(%Mo+0.5%W) +16% N It has been established that the pitting behaviour of stainless steels can be broadly related to composition using empirical relationships such as PREN [#ref26]. Crevice corrosion is influenced by many factors and therefore PREN is generally not so useful for prediction of this type of behaviour. In the HTGC tests the AISI 316L and Hastelloy X were in the form of Sintered Metal Powder (SMP). Table 2. Compositions of Alloys (1Only tested in HTGC tests, 2not tested in HTGC tests)
+Alloy Nominal Composition (wt %) Cr 18 21 16.8 25 29 28 21.6 27 21.5 22 15.5 32 11.2 20 Bal Bal 19.9 31 Bal Bal Bal Ni Fe Bal Bal Bal Bal 9 3.5 Bal Bal 2.5 18 5.5 1.0 2.8 3.5 9.0 9 16 2.3 Mo Others 4.6Al 0.3Si 0.25Y 0.75Mn 1.5Mn 1.5Mn 1.5Si 0.5Si 0.5Cu 0.5Mn 30Co 2.7Si 1W 0.5Mn 18Co 2.4W 0.2N 2Mn 0.5Mn 1.5Co 1Si 1Mn 0.6W 3.8W 2.5Co 1Mn 0.35V 0.08Si PRENW
+
+Fecralloy1 Alloy 800H AISI 316L AISI 310 IN6901 Haynes HR160 Haynes 5562 Sanicro 282 IN 6252 Hastelloy X1 C2761
+
+18.0 21.0 24.0 25.0 29.0 29.7 38.0 38.6 51.2 52.7 74.6
+
+7
+
+High Temperature Gaseous Corrosion HTGC tests using controlled atmosphere furnaces were carried out
+
+using the parameters detailed in Table 3. Specimens were exposed to the gas compositions of which are given in Table 4. The components entrance of the furnace. The moisture was added to the hydrogen
+
+either the `high H2S' (= IGCC) or `low H2S' 1 (= ABGC) simulated gases, of the test gas were supplied from two gas cylinders and mixed at the sulphide / carbon monoxide gas stream by bubbling the gas through a heated flask containing deionised water. Table 3. Test Parameters (*High = IGCC and Low = ABGC)
+Test 1 2 3 Time (hrs) 3000 1000 Temp (°C) 450 550 550 Gas H2S Level* High High Low 1
+
+Table 4. Gas Compositions
+Gas Compositions (vol.%) Gas `High H2S' `Low H2S' 1 `Low H2S' 2 CO Bal 18.0 6.9 CO2 4.0 8.4 3.2 H2 31.0 14.7 5.6 H2S 1.00 0.02 0.01 H2O 3.0 10.4 4.0 HCl 0.04 0.06 0.12 CH4 2.5 N2 Bal Bal
+
+Simulated deposits were applied to samples with a recoat interval of were used (i.e. to match the test gas). Samples were also tested
+
+1000 hours. Either the `High H2S' 1 or `Low H2S' 1 deposits (Table 5) without an applied simulated deposit. These deposits were produced by mixing the dry deposit components together with propan-2-ol to produce a slurry. This slurry was applied to one side of the test 8
+
+specimens and the solvent evaporated before testing. After testing, maximum oxide thickness measurements were made on polished cross-sections of samples using optical microscopy. Table 5. Deposit Compositions
+Deposit Deposit Compositions (wt.%) Flyash 90 90 Char 90 90 NaCl 3.74 3.74 2 2 KCl 1 1 FeCl2 6.26 6.26 2 2 PbS 4 4 ZnS 1 1
+
+`High H2S' 1 `Low H2S' 1 `High H2S' 2 `Low H2S' 2
+
+PeristalticPump
+
+Oven
+Air
+
+30oC
+
+Samples
+
+Water
+
+Figure 1. Diagram of DTC Testing Setup.
+
+9
+
+Downtime Corrosion DTC testing was carried out using a modified EPRI downtime corrosion test using the setup shown in Figure 1. Specimens were coated with air at 30 °C for 25 hour cycles. After exposure the deposit was the `Low H2S' 1 deposit (Table 5) and were exposed to water saturated
+
+removed and the specimens cleaned and examined before the next cycle. Longer cycles were also used to investigate whether the more resistant materials had an initiation period greater than 25 hours. Damage was assessed by visual inspection and depth of attack measured microscopically [#ref27]. Synergistic Damage Samples were exposed to cycles of HTGC testing followed by DTC testing for four cycles. The furnace exposure was for 500 hours at 400ºC in the `Low H2S' 2 gas mixture (Table 4). DTC exposure was for 100 hours at 70ºC. Deposits with composition `Low H2S' 2 (Table 5) were applied prior to the furnace exposure.
+
+Results & Discussion
+High Temperature Gaseous Corrosion The results of the HTGC testing are shown in Figures 2 to 4. The maximum oxide thickness was used as the measure of damage in the HTGC tests as the sulphide layer was incorporated with the deposit. Figure 2 gives the maximum oxide thickness for the 3000 hour test at 450ºC in the simulated IGCC gas. During this test the Hastelloy X specimen (SMP) was removed after 2000 hours with a maximum oxide thickness corresponding to 100% of the metal particle size. After 3000 hours the AISI 316L (SMP) also had a maximum oxide thickness corresponding to the metal particle size. Figure 3 gives the maximum oxide thickness for the 1000 hour test at 550ºC test in the simulated IGCC gas. As above, the Hastelloy X specimen has a maximum oxide thickness corresponding to 100% of the metal particle size. Comparison of Figures 2 and 3 indicate the effect that the test temperature increase from 450 to 550 ºC had (even though the test times differ). Overall the damage to the materials is 10
+
+comparable between these tests indicating similar oxide thicknesses after 1000 hours at the higher temperature compared with those measured after 3000 hours at 450 ºC. Figure 4 gives the maximum oxide thickness for the 1000 hour test at 550ºC test in the simulated ABGC gas. Comparing Figures 3 and 4 clearly shows that the IGCC gas is far more aggressive than the ABGC gas towards the majority of the materials. However, the damage on the Fecralloy and AISI 310 samples was comparable for both gas compositions even when a deposit was present. In Figures 2-4 the effect of the applied deposits compared to the case without deposit is mixed. The deposits either cause an increase in the oxide thickness or for some alloys appears to be protective. For some alloys the effect of the deposit is severe. The data generated by this part of the work can be used for material selection and/or setting plant operating conditions. The failure criteria used for the lifetime calculations will depend on the material form and location in the system. For example, wastage of a heat exchanger or oxide/sulphide blocking of filter media pores, use different life-assessment criteria.
+140 120
+Maximum Oxide thickness (µm)
+
+100 80 60 40 20 0
+Hastelloy X AISI 316L IN 690 IN 800HT IN C276 AISI 310 Fecralloy HR 160
+
+Figure 2. High H2S gas at 450 ºC 3000 hours (Hastelloy X only 2000 hours) (Shaded is without deposits and unshaded with deposits) 11
+
+140 120
+Maximum Oxide thickness (µm)
+
+100 80 60 40 20 0
+Hastelloy X AISI 316L IN 690 IN 800HT IN C276 AISI 310 Fecralloy HR 160
+
+Figure 3. High H2S at 550ºC 1000 hours (Shaded is without deposit and unshaded with deposits)
+30
+
+25
+Maximum Oxide thickness (µm)
+
+20
+
+15
+
+10
+
+5
+
+0
+Hastelloy X AISI 316L IN 690 IN 800HT IN C276 AISI 310 Fecralloy HR 160
+
+Figure 4. Low H2S at 550ºC 1000 hours (Shaded is without deposit and unshaded with deposit) (no bar indicates <1µm) Downtime Corrosion The severity of attack on the materials tested varied significantly with Alloy 800H and AISI 316L being the most severely attacked, as shown 12
+
+in Figure 5. In general the attack was a mixture of pitting and crevice
+
+corrosion but Alloy 800H also showed intergranular attack. The other materials showed little or no attack and no effect of increasing the test cycle time from 25 to 75 hours was evident. AISI 310 had many more pits than Haynes 160 (only one pit) and Sanicro 28. Alloy 800H was very severely attacked over almost all of the exposed surface; a feature of this damage was that over areas of intense attack a thin hard black layer had formed. The attack on the AISI 316L changed from an
+
+under-deposit/crevice type observed for periods of up to 50 hours to predominately pitting after longer exposures. The ranking of the ranking well (Table 2).
+400 350 300 Damage (µm) 250 200 150 100 50 0
+Alloy 800 AISI 316L Haynes 160 AISI 310 Sanicro 28 Haynes 556 IN 625
+
+overall resistance of the materials to the DTC test matches the PRENW
+
+Figure 5. Measured Damage on Samples During DTC Testing (Bars1-3 for each material are 50, 75 and 100 hours respectively) The DTC test is more applicable to heat exchanger material testing than metallic filters. Heat exchangers have a uniform surface constructed from one or two materials that is well represented by the DTC test. Metallic filters can have many materials in various forms e.g. fibre, mesh, plate etc. in their construction. This more complex system could lead to galvanic interactions between materials, surface area effects and a more complex crevice/under-deposit system.
+
+13
+
+Synergistic Damage The data obtained in the synergistic tests are given in Figure 6. A number of the alloys have been severely damaged. This HTGC/DTC synergy is only one of the many combinations of synergistic conditions that could be expected. The complex exposure environments within gasification systems, combined with the mechanical duties of the various components, make it highly likely that other synergistic combinations of exposure variable that could lead to enhanced influences may play an additional role. There are many possible materials degradation. For example, the metallic filters would be exposed to thermal cycling due to pulse cleaning and start-up/shutdown cycles possibly leading to corrosion fatigue. Only limited studies have been carried out on such synergistic damage modes [18]. This is a topic that requires much more thorough study for gasifier hot gas path components.
+400 350 300 Damage (µm) 250 200 150 100 50 0
+Alloy 800 AISI 316L AISI 310 Haynes 160 Sanicro 28 Haynes 556 IN 625
+
+Figure 6. Damage Measured on Samples in Synergistic Tests ­ Four cycles of 500 hours at 400ºC / 100 hours at 70ºC (unshaded bar is typical and shaded bar is maximum)
+
+Conclusions
+
+14
+
+Several series of HTGC, DTC and combined HTGC/DTC tests have been carried out for conditions representing IGCC and ABGC gas coolers and metallic filters. Specific conlusions from these tests are: · In the HTGC tests in the IGCC gas changing the temperature experienced by all alloys tested. · · · · ·
+
+from 450 to 550ºC caused a significant increase in the corrosion For a number of alloys, HTGC tests with deposits was more damaging than tests without deposits. than IGCC systems. In the DTC tests, a good agreement was found for pitting corrosion with the ranking predicted by PRENW. In HTGC testing (400ºC) incorporating a DTCA period, many of the alloys showed significant damage. Alloys selected for gasification plant usage need to have a combination of both high temperature and downtime corrosion resistance. · Synergistic testing in gasification environments requires more extensive study to elucidate particularly damaging conditions being encountered during plant operation. The data indicates longer lives for components in ABGC systems
+
+References
+!ref01 T Takematsu and C W Maude (1991) - Coal Gasification for IGCC Power Generation. IEACR/37, London, UK, IEA Coal Research. !ref02 Stringer J and Wright IG (1995) ­ `Current limitations of hightemperature alloys in practical applications' Oxidation of Metals 44 (1/2) pp265-308. !ref03 Bakker WT (1995) ­ `Mixed oxidant corrosion in nonequilibrium syngas at 540 °C' EPRI Report TR-104228, March 1995. !ref04 J van Liere and W T Bakker (1993) in Materials for Coal Gasification Power Plant, Special Issue of Materials at High Temperature, 11, pp4-9. 15
+
+!ref05 I Mendez-Vigo, J Chamberlain and J Pisa (1997) in Corrosion in 14, pp15-20. !ref06 J L Blough and A Robertson (1993) in Materials for Coal
+
+Advanced Power Plants, Special Issue of Materials at High Temperatures,
+
+Gasification Power Plant, Special Issue of Materials at High Temperature, 11, pp10-14.
+
+!ref07 I Stambler (1993), Gas Turbine World, 23, pp22-27. !ref08 D M Lloyd (1989) in Research and Development of High Temperature Materials for Industry, ed. E Bullock, pp339-359, Elsevier. !ref09 J Stringer (1984) in High Temperature Materials Corrosion in Coal Gasification Atmospheres, ed. J F Norton, Elsevier. !ref10 F Gesmundo (1990) in High Temperature Materials for Power Engineering 1990, eds. E Bachelet et al, pp67-90, Kluwer. !ref11 F Gesmundo (1991) Advanced Materials for Power Engineering Components: The Corrosion of Metallic Materials in Coal Gasification Atmospheres - Analysis of Data from COST 501 (Round 1) Gasification Subgroup. EUCO/MCS/08/1991. !ref12 WT Bakker (1987) in Proceedings of Seventh EPRI Annual Conference on Coal Gasification, EPRI, Palo Alto, California, USA. !ref13 Proc. First International Workshop on Materials for Coal Gasification Power Plant, Petten, The Netherlands, June, 1993, in Materials for Coal Gasification Power Plant, Special Issue of Materials at High Temperature, 11 (1993). !ref14 Erosion/Corrosion of Advanced Materials for Coal-Fired
+
+Combined Cycle Power Generation, Final and Summary Reports on JOUF-0022 (1994).
+
+16
+
+!ref15 Simms NJ, Lowe TM, Scott INS and Oakey JE (1997) ­ `Materials for gasifier hot gas path components in advanced combined cycle Programme 1997. !ref16 Bakker WT (1993) ­ `Effect of gasifier environment on materials performance' Materials at High Temperature 11 (1-4) pp81-89 power plants' Final Report No R106 UK Cleaner Coal Technology
+
+!ref17 Perkins RA, Marsh DL and Sarosiek AM (1988) ­ `Downtime AP-5996. !ref18 Simms NJ, Bregani F, Huijbregts WMM, Kokmeijer E and Oakey JE
+
+corrosion in syngas coolers of entrained slagging gasifiers' EPRI report
+
+(1988) ­ `Coal gasification for power generation: materials studies' In Proceedings of the 6th Liege Conference on Materials for Advanced Power Engineering 1988, Part II. Eds. Lecomte-Beckers J, Schubert F and Ennis PJ, pp663-679. !ref19 Huijbregts WMM, Kokmeijer E and van Zuiten HG (1993) ­ `Sulphidation, down-time corrosion and corrosion-assisted cracking on high alloys materials in synthetic coal gasifier environments' Materials at High Temperature 11 pp58-64. !ref20 Norton JF, Maier M and Bakker WT (1999) ­ `Corrosion of heat exchanger sulfididizing environment at 550ºC' Paper No 99069 NACE '99, San Antonio, Texas, USA. 25 (7) pp27-33. alloys exposed to a non-equilibrated CO-based
+
+!ref21 Kihara S, Nakagawa K, Ohtomo A, Kato M (1987) ­ `Corrosion resistance of high-chromium steels in coal gasification atmospheres' Materials Performance 26 (6) pp9-17 !ref22 Saunders SRJ, Gohil DD and Osgerby S (1997) ­ `The combined effects of downtime corrosion and sulphidation on the degradation of commercial alloys' Second International Workshop on Corrosion in Advanced Power Plants, Tampa, Florida, USA, 3-5 March 1997, Materials at High Temperatures 14 (3) pp237-243 17
+
+!ref23 Norton JF, Maier M and Bakker WT (1997) ­ `Corrosion of 12% Cr alloys with varying Si contents in a simulated dry-feed entrained slagging gasifier environment' Second International Workshop on Corrosion in Advanced Power Plants, Tampa, Florida, USA, 3-5 March 1997, Materials at High Temperatures 14 (2) pp81-91. !ref24 Simms NJ, Nicholls JR and Oakey JEO (2001) ­ `Materials Performance in Solid Fuel Gasification Systems' Materials Science Forum, 369-372 pp947-954.
+
+!ref25 John RC, Fort WC and Tait RA (1993) - Materials at High Temperature, 11 pp124-132. !ref26 Haynes AG (1992) ­ `Duplex and high alloy corrosion resisting steels' Lloyd's Register Technical Association, London. !ref27 ASTM G46 ­ Standard Practice for `Examination and Evaluation of Pitting Corrosion'
+
+18
+

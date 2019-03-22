@@ -1,0 +1,337 @@
+Volume 6 Paper C097 Frictional Coefficients of the Passive Titanium Surfaces Evaluated with In-situ and Ex-situ Nano-scratching Tests
+
+M. Seo, Y. Kurata and M. Chiba Graduate School of Engineering, Hokkaido University, Sapporo 0608628, JAPAN seo@elechem1-mc.eng.hokudai.ac.jp
+
+Abstract
+oxidation) nano-scratching tests by using the Berkovich pyramidal
+
+In-situ (kept at 5 V or 0 V in solution) and ex-situ (in air after anodic
+
+diamond indenter were performed to evaluate the friction coefficient of the polycrystalline titanium surface anodically oxidized at 5 V (RHE) for 1 h in pH 8.4 borate solution. The friction coefficients of the titanium significantly larger than those obtained with ex-situ nano-scratching. surfaces obtained with
+
+in-situ
+
+nano-scratching
+
+were
+
+5 V (RHE) was larger than that of the titanium surface kept at 0 V (RHE). Based on the large difference in AFM images of the scratched area after in-situ and ex-situ nano-scratching and on the stick-slip like a
+
+Moreover, the in-situ friction coefficient of the titanium surface kept at
+
+phenomenon observed only during in-situ nano-scratching, it has been proposed that a series of mechano-electrochemical reaction such as the film rupture, anodic dissolution from the rupture sites and the repassivation, takes place at the moving front of the indenter tip during repassivation gives the high impedance against the movement of the indenter tip. The large friction coefficient obtained with in-situ nanoscratching was explained in terms of the promotion of the
+
+in-situ
+
+nano-scratching,
+
+and
+
+the
+
+promotion
+
+of
+
+the
+
+repassivation by the large potential difference between the titanium substrate and solution.
+
+Keywords: Nano-scratching, Friction coefficient, Mechanoelectrochemistry, Titanium, Passive film,
+
+Introduction
+environment, which is mainly brought by the stable surface oxide film, Titanium has the high corrosion resistance in oxidative
+
+i.e., passive film, and is used in the severe corrosion environment. Moreover, titanium has the excellent conformity to a living body and is used in a living body as artificial bones or joints. The physico-chemical and mechanical properties of the passive titanium surface are important for the practical uses of titanium. There have been many studies on the physico-chemical properties of the passive titanium. In contrast, there have been few studies on the mechanical properties. Nano-indentation and nano-scratching techniques have been recently developed to evaluate the mechanical properties (hardness, elastic modulus and friction coefficient) of surface thin films. Most of nano-indentation and nano-scratching tests were performed in air. The mechanical properties of the passive titanium surface kept in solution may be different from those measured in air after removal from the solution. When titanium is used in solution, it is essentially necessary to evaluate the mechanical properties of the titanium surface kept in solution. In our previous studies [1-3], nanoindentation and nano-scratching tests in solution as well as in air were performed on the passive iron and titanium surfaces kept in solution to evaluate the hardness and friction coefficient in solution and in air. In the present study, nano-scratching tests in solution (in-situ) surface kept at a constant potential in pH 8.4 borate solution to investigate more in detail the difference between the friction coefficients in solution and in air. as well as in air (ex-situ) were performed on the passive titanium
+
+Experimental
+
+2
+
+Polycrystalline titanium disk-plate with a diameter of 10 mm and a thickness of 2 mm was used for experiments. The titanium specimen was mechanically polished with alumina abrasives and then finally electropolished with a constant cell voltage of 70 V in a mixture of methanol, 2-methoxyethanol, 2-ethoxyethanol and perchloric acid at
+
+­ 75oC to remove the worked layer (Beilby layer) exisiting on the mechanically polished surface. The electrolyte solution employed was pH 8.4 A borate small solution.
+
+electrochemical cell made from Diflon was scratching specially in designed for nanosolution (in-situ). A platinum ring and wire were used as counter and reference electrodes, respectively. The potential of the platinum wire was always measured with an Ag/ AgCl reference electrode for calibration before and after every experiment. The electrode potential of the specimen was converted to a reversible hydrogen electrode (RHE). The transducer for nano-scratching (Hysitron Inc.) was attached to the AFM (Digital Instruments, Nanoscope IIIa) in which the employed for nano-scratching and attached to a tungsten rod for use in liquid. The titanium specimen was anodically oxidized at 5 V (RHE) for 1 h in pH 8.4 borate solution at 25 oC to form the anodic oxide film on it. It is known that the thickness of anodic oxide film formed on titanium at 5 V (RHE) for 1 h in pH 8.4 borate solution is about 15 nm [4]. The nano-scratching electrochemical cell was set. A Berkovich pyramidal diamond tip was
+
+in-situ
+
+Fig. 1 Schematic illustration of nano-
+
+was performed on the specimen surface kept at 5 V (RHE) in pH 8.4 borate solution after anodic oxidation. The ex-situ nano-scratching was also performed on 3
+
+the specimen taken out from the solution into air after anodic
+
+oxidation, washed with milli-Q filtered water and dried with a jet of nitrogen gas. As shown schematically in Fig. 1, the one triangle plane without
+
+ridge of the Berkovich diamond tip was moved to the lateral direction lateral force, FL, was measured as a function of scratching distance defined with dividing FL by FN. at a scratching rate of 1 µm s-1 between a distance of 2 µm and the under a constant normal force, FN. The friction coefficient, µ', is
+
+µ' = FL / FN
+
+(1)
+
+Results and Discussion
+Figures 2 and 3 show the AFM images and height-profiles of the scratched area after in-situ and ex-
+
+situ nano-scratching at a constant normal force of FN = 300 µN,
+
+respectively for the titanium surfaces anodically oxidized at 5 V (RHE) for 1 h in pH 8.4 borate solution. The grooves produced by the scratching and the resultant protrusions can be observed from these figures. It should be noted that the shapes of the grooves and protrusions are quite different between in-situ and ex-situ nanoFig. 2 a) AFM image of the nano-scratching titanium i for scratched area after in-situ surface t
+
+the
+
+scratching in spite of the same scratching conditions. In Figs. 4 and 5, the displacement in normal direction,
+
+oxidized at 5 V (RHE) for 1 h H 84 b l ti
+
+anodically d
+
+DN, and the lateral force, FL, are plotted
+as a function of displacement in lateral
+
+direction, DL, during in-situ and ex-
+
+situ nano-scratching at a constant normal force of FN = 300 µN,
+anodically oxidized at 5 V (RHE) for 1 h in pH 8.4 borate solution. The normal 4
+
+respectively, for the titanium surfaces
+
+displacement, DN, before in-situ nano-scratching is less by about 50%
+
+than that before ex-situ nano-scratching, reflecting the difference
+
+[3].
+
+between hardness obtained with in-situ and ex-situ nano-indentation In case of ex-situ nano-scratching, both DN and FL increase
+
+within a short lateral displacement, DL = 0.2 µm and attain a steady scratching, DN decreases with lateral displacement, DL, while FL state with a small fluctuation. In contrast, in case of in-situ nano-
+
+increases and attains a steady state accompanying a large periodic
+
+fluctuation. This in-situ nano-scratching behaviour is similar to a stick-slip phenomenon often observed in the system with large difference between static and dynamic friction coefficients [5]. The
+
+large periodic fluctuation in FL may not be related to the grain grain size (several µm) obtained with SEM observation of the titanium
+
+boundary of the polycrystalline titanium surface, because the average Fig. 3 a) AFM image of the nano-scratching for
+
+surface was larger than the periodic distance of about 0.5 µm. The normal displacement, i.e., scratch depth it changes from 22 nm to 10 nm during nano-scratching, while changes from 40 nm to 43 nm during
+
+scratched area after ex-situ titanium surface anodically oxidized at 5 V (RHE) for 1 h in pH 8.4 borate solution d b) H i h fil l
+
+the
+
+in-situ
+
+ex-situ nano-scratching As seen from Figs. 4 and 5, the averaged normal diplacement, DN, i.e., scratch depth during in-situ nano-
+
+scratching is almost the same as the film thickness (15 nm). On the
+
+scratching is 2.8 times as much as the film thickness. It is drawn form during in-situ nano-scratching, 80 ex-situ : in air after anodic oxidation while not only the anodic oxide film 40
+in-situ : kept at 5 V (RHE)
+
+other hand, the averaged scratch depth during ex-situ nano-
+
+scratching.
+
+but also the substrate titanium 60are removed during ex-situ nano30
+
+Normal displacement, D / nm Normal displacement, DN /Nnm
+
+the above comparison that the anodic oxide film is almost removed
+
+and ex-situ nano-scratching as a function of normal force, FN. The ex120 situ value of µ' was determined from the steady state value of FL, while 100 600 the in-situ value of µ' was determined from the average value of FL 80 between lateral displacement of 400L = 0.5 and 2 µm. In Fig. 6, the inD 60 Fig. 5 DN and FL as a function of DL 40 during DN and Fnano-scratching with Fig. 4 ex-situ L as a function of DL 2005 20 a rate of 1 µm nano-scratchingµN for during in-situ s-1 at FN = 300 with 0 0 0.0 0.5 1.0 1.5 0.5 1.0 the 0.0titanium s-1surfaceDL3001.5 for anodically a rate of 1 µm displacement,= // µm µN at FN Lateral Lateral displacement, D µm Lateral force, / / µN Lateral force, F FLµN
+L L
+
+Figure 6 shows the friction 20 coefficients, µ', obtained with in-situ
+10
+
+40 20
+
+situ value of µ' for the titanium surface kept at 0 V (RHE) after anodic
+oxidation at 5 V (RHE) for 1 h in pH 8.4 borate solution was also plotted versus normal force, FN. The in-situ values of µ' have large
+
+in-situ nano-scratching. Therefore, it is difficult to find the normal force dependence of the in-situ values because of the large fluctuation. Nevertheless, it should be remarked that the averaged in-situ values of µ' for the titanium surfaces kept at 5 V (RHE) in pH 8.4 borate solution exceed unity. Moreover, the averaged in-situ values of µ' for the
+titanium surface kept at 0 V (RHE) after anodic oxidation at 5 V (RHE) in pH 8.4 borate solution are less than those for the titanium surfaces
+
+fluctuation because of the stick-slip like phenomenon observed during
+
+values of µ' have a small fluctuation and their averaged values increase 100-800 µN.
+
+kept at 5 V (RHE) in pH 8.4 borate solution. In contrast, the ex-situ from 0.19 to 0.28 with increasing normal force in the range of FN = It is generally accepted that the lateral force, FL, consists of
+
+adhesion term, Fa and ploughing term, Fp, [6,7].
+
+FL = Fa + Fp
+is given by
+
+(2)
+
+The adhesion term, Fa,
+2.0
+
+Fa = s Ah
+strength
+
+(3),
+Friction coefficient, µ' 1.5
+
+in-situ : kept at 5 V (RHE) in-situ : kept at 0 V (RHE) ex-situ : in air after anodic oxdation
+
+where s is the shear at
+
+scratched interface of horizontal materials and Ah is the cross
+
+the
+
+1.0
+
+0.5
+
+sectional area of the indenter tip in contact with the materials surface. The hardness,
+0.0 0 200 400 Normal force, FN 600 800
+
+H, of materials is defined with dividing FN by Ah. Fa is thus given by Fa = s (FN / H )
+(4).
+
+On the other hand, the ploughing term, Fp, is represented by 6 µ' obtained with in-situ (kept at 5 V or 0 V in solution) and ex-situ (in air after anodic oxidation) as a function of FN for the Fig. 6
+
+Fp = pf Av
+
+(5),
+
+area of the indenter tip in contact with the materials surface. The ratio of Av to Ah is constant and determined by the geometry of Berkovich / Ah, Fp is eventually given by diamond indenter [7]. By taking into account the constant ratio, k = Av
+
+scratching to the lateral direction and Av is the vertical cross sectional
+
+where pf is the plastic flow pressure of materials against nano-
+
+Fp = k pf (FN / H)
+
+(6).
+
+If substituting Eqs. (4) and (6) into Eq. (2), µ' can be represented by
+
+µ' = ( s / H ) + ( k pf / H )
+
+(7).
+
+range of 200-300 MPa. In our previous results of hardness a normal force of FN = 300 µN for the titanium surface kept at 5 V
+
+The estimated shear strength, s, of polycrystalline titanium is in the
+
+measurement by nano-indentation, the in-situ value of H measured at (RHE) in pH 8.4 borate solution was about 9 GPa, while the ex-situ
+
+value of H at the same normal force was 2 GPa [3]. If the above values
+
+of H are employed for calculation of the adhesion term, the
+
+contributions of the adhesion term to µ' are 0.02-0.03 and 0.1-0.15 for in-situ and ex-situ nano-scratching at a normal force of FN = 300
+
+µN, respectively.
+
+pyramidal tip has an ideal geometry, k = 0.27, i.e., the contribution of
+
+equivalent to the hardness, H, [7]. Assuming that the Berkovich ploughing term to µ' is 0.27, irrespective of in-situ and ex-situ nano-
+
+It has been considered that the plastic flow pressure, pf, is
+
+scratching. The net friction coefficients obtained from the above calculation, therefore, are 0.29-0.30 and 0.37-0.42 for in-situ and
+
+ex-situ nano-scratching, respectively. As seen from Fig. 6, the measured in-situ value of µ' at a normal force of FN = 300 µN is 1.3,
+which is 4.4 times as much as that calculated. In contrast, the measured ex-situ value of µ' at a normal force of FN = 300 µN is 0.24,
+
+which is less by 40 % than that calculated. According to the calculation,
+
+should be negligibly small as compared with that of ploughing term. 7
+
+the contribution of adhesion term to the measured in-situ value of µ'
+
+The large deviation of the measured in-situ value of µ' from the associated with the ploughing term. Particularly, this large deviation flow pressure, pf, is not equivalent to the hardness, H. calculated value and also from the measured ex-situ value may be
+
+may be explained in terms of the ploughing term only if the plastic
+
+A series of mechano-electrochemical reaction on the titanium surface such as the film rupture, active dissolution of titanium from the substrate and the repassivation at the rupture sites would take place at the moving front of the indenter tip during in-situ nano-
+
+scratching. On the other hand, at the moving front of the indenter tip during ex-situ nano-scratching, the film rupture and oxidation, i.e.,
+
+the repassivation only by air at the rupture sites would take place.
+
+Since in case of in-situ nano-scratching, the titanium surface is kept in the passive state at 5 V or 0 V (RHE), the anodic dissolution of titanium rupture sites due to direct formation of anodic oxide or precipitation of hydrous oxide are promoted by a potential difference between the substrate titanium and the solution or a high electric field. In contrast, in case of ex-situ nano-scratching, no active dissolution occurs from the film rupture sites and the repassivation at the rupture sites is not promoted in the absence of high electric field and it is only brought by air-oxidation. The movement of the indenter tip at the front of in-situ nanofrom the film rupture sites and followed by the repassivation at the
+
+scratching will be impeded by the rapid growth of anodic oxide or the instantaneous precipitation of hydrous oxide at the rupture sites, large friction coefficient. Moreover, if newly produced anodic oxide or which increases apparently the plastic pressure, pf, and leads to the precipitated hydrous oxide at the rupture sites is strongly adhered to the moving front of the indenter tip, the indenter tip has to move accompanying the growing oxide or hydroxide, which increases not only the plastic flow pressure, pf, but also the area ratio, k, and thus contributes to the increase in friction coefficient. The sticky adhesion of oxides to the indenter tip and the high impedance against it movement are plausible as seen from the AFM images in Figs. 2 and 3. The AFM images indicate that the edge of the groove produced by in-
+
+situ nano-scratching is not linear and the distribution and size of
+8
+
+protrusions are not uniform as compared with ex-situ nano-scratching. The stick-slip like a phenomenon observed during in-situ nanogrown oxides as supported by the clear difference in AFM images between in-situ and ex-situ nano-scratching. scratching may result from the repeated adhesion and fall off of newly
+
+It is expected that the repeated adhesion and fall off of newly grown oxides becomes more significant in the lower scratching rate. Figure 7 shows the displacement in normal direction, DN, and the lateral force, FL, as a function of displacement in lateral direction, DL,
+
+during in-situ nano-scratching at a rate of 0.17 µm s-1 at a constant normal force of FN = 300 µN for the titanium surfaces anodically oxidized at 5 V (RHE) for 1 h in pH 8.4 borate solution. It is seen from Fig. 7 that the stick-slip like a phenomenon becomes more distinct, indicating the additional support of the repeated adhesion and fall off between the titanium surfaces kept at 5 V and 0 V (RHE) can be place at the moving front of the indenter. The anodic dissolution of titanium from the film rupture sites and followed by the repassivation at the rupture sites due to direct formation of anodic oxide or precipitation of hydrous oxide are more promoted at 5 V than at 0 V (RHE), because of the large potential difference or the high electric field and thus µ' for the titanium surface kept at 5 V (RHE) is larger than that for the titanium
+Normal displacement, DN / nm
+
+of newly grown oxides. The difference in measured in-situ values of µ'
+
+explained by a series of mechano-electrochemical reaction taking
+
+surface kept at 0 V (RHE). It the of has been proposed is
+
+50 40 30 20 10 in-situ : kept at 5 V (RHE)
+
+from the above discussion that strongly influenced by a series reaction taking place at the moving front of the indenter tip during in-situ nano-scratching. are needed to elucidate the Further experiments, however, mechano-electrochemical friction coefficient
+
+600 Lateral force, F / µN 400 200 0 0.0 0.5 1.0 1.5
+/ µm
+
+L
+
+2.0
+
+Lateral displacement, DL
+
+9
+
+validity of this new proposal.
+
+Conclusions
+anodic oxidation) nano-scratching tests were performed on the polycrystalline titanium surfaces anodically oxidized at 5 V (RHE) for 1 h in pH 8.4 borate solution to evaluate the friction coefficient. The following conclusions were drawn for the friction coefficients of the passive Fig. 7 DN and FL as a function of DL during in-situ nanoscratching with a rate of 0.17 tit i f di ll
+
+In-situ (kept at 5 V or 0 V in solution) and ex-situ (in air after
+
+µm s-1 at FN = 300 µN for the
+
+titanium surfaces.
+
+friction coefficient of the passive titanium surface kept at 5 V (RHE) was larger than that of the passive titanium surface kept at 0 V (RHE).
+
+those obtained with ex-situ nano-scratching. Moreover, the in-situ
+
+obtained with in-situ nano-scratching were significantly larger than
+
+The friction coefficients of the passive titanium surfaces
+
+nano-scratching indicated that the edge of the groove produced by in-
+
+The AFM images of the scratched area after in-situ and ex-situ
+
+situ nano-scratching was not linear and the distribution and size of the protrusions were not uniform as compared with ex-situ nanoscratching. The stick-slip like a phenomenon was observed only during in-situ nano-scratching, which was reflected on the AFM To explain the large friction coefficient obtained with in-situ
+
+images.
+
+nano-scratching as compared with ex-situ nano-scratching, it has been proposed that a series of mechano-electrochemical reaction such as the film rupture, active dissolution from the rupture sites and the
+
+in-situ nano-indentation, and the promotion of the repassivation by
+the large potential difference between the substrate titanium and indenter tip to increase the friction coefficient. solution gives the high impedance against the movement of the
+
+repassivation takes place at the moving front of the indenter tip during
+
+References
+10
+
+1. M. Seo and M. Chiba, Electrochim. Acta, 47, pp319-325, 2001. 2. M. Chiba and M. Seo, Corros. Sci., 44, pp2379-2391, 2002. 3. M. Seo and Y. Kurata, Electrochim. Acta, in print, 2003. 4. T. Ohtsuka, M. Masuda and N. Sato, J. Electrochem. Soc., 132, pp787-792, 1985. 5. F. Heslot, T. Baumberger, B. Perrin, B. Caroli and C. Caroli, Phys.
+
+Rev. E, 49, 6, pp4973-4988, 1994.
+
+6. F. B. Bowden and D. Tabor, The Friction and Lubrication of Solid I, Clarendon Press, Oxford, 1954. 7. D. F. Moore, Principle and Application of Tribology, Pergamon Press, Oxford, 1975.
+
+11
+

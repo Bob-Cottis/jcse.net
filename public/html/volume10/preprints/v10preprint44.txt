@@ -1,0 +1,259 @@
+ISSN 1466-8858
+
+Volume 10, Preprint Cationic Surfactants as submitted 3 August 2007 Evaluation of some Laboratory Prepared44 Corrosion Inhibitor and Biocide Hassan A. Shehata* Abd Alaa Abd El-wahab *, A. Hafiz, I. Aiad and M. Hegazy *Al-Azhar University Faculty of Science, Department of Chemistry Egyptian Petroleum Research Institute, Petrochemical Department
+
+ABSTRACT In this study some laboratory prepared cationic surfactants were evaluated as multifunctional compounds (corrosion inhibitor and biocide) the prepared materials are decyl, dodecyl, hexadecyl and octadecyl triethyl ammonium bromide. The inhibitor concentration was ranging from 0 up to 40x10-4M and the solution temperature is ranging from 25 up to 55 0C. The corrosive media was 0.5M H2SO4. The results indicate that the biocidal activity of the tested surfactants increased towards gram positive, gram-negative and fungi, so these compounds can be used as bacteriostatic and bactericidal; it was found also that the its efficiency increase as increasing the hydrophobic part. The corrosion inhibition measurements of these surfactants showed that they have higher tendency towards protection of mild steel alloys against acidic environments. The thermodynamic parameters of adsorption mainly; standard free energy Go, enthalpy Ho, and entropy So were calculated. The results obtained from surface measurements, biological activity and Polarization technique qualified the synthesized cationic surfactants to be applicable as multifunctional compounds. Key words Cationic surfactant, corrosion inhibitor, biocide, biological activity. 1. INTRODUCTION: Recently, the surface active agents are widely used as corrosion inhibitors for mild steel alloys. A lot of papers indicate industrial uses of surfactants for corrosion inhibition [1, 2]. Some organic compounds such as amines [3,4], aminothiols [5,6], acetylenic compounds [7,8], and a number of ionic surfactants such as alkyl pyridinium [9], and alkyl dimethyl ammonium bromide [10,11] have been studied. However, very few studies have been devoted to nonionic surfactant inhibitors. Some papers show the corrosion inhibition of mild steel by cationic surfactants. Since the primary action of inhibition is the adsorption of the surfactant functional group onto the metal surface [12]. The ability of a surfactant molecule to adsorb is generally directly related to its ability to aggregate to form micelles. Consequently, the critical micelle concentration cmc is a key indicator in determining the effectiveness of surfactants as corrosion inhibitors. Below the cmc, individual surfactant molecules or monomers tend to adsorb on exposed interfaces, so interfacial aggregation reduces surface tension and is related to corrosion inhibition. Above the cmc, the surface becomes covered with more than one monolayer. Thus any additional surfactant added to the solution above the cmc will lead to the formation of micelles or multiple adsorbed layers on surfaces. Consequently, the surface tension and corrosion current density are not altered significantly above the cmc. Therefore, an excellent surfactant inhibitor is one that aggregates or adsorbs at low concentrations. In other words, surfactants with low cmc values are desirable, because they adsorb at low concentrations. Above all, the critical micelle concentration cmc is an important parameter to predict surfactant performance as a corrosion inhibitor. The aim of this paper is evaluation of some prepared cationic surfactants as corrosion inhibitors and explains the inhibition mechanism of these materials, and determined the thermodynamic parameters of its adsorption on the mild steel surfaces.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 2. MATERIALS
+
+Volume TECHNIQUES: AND EXPERIMENTAL 10, Preprint 44
+
+submitted 3 August 2007
+
+2.1. Materials: All materials used in this study were laboratory prepared, the method and the structure confirming were reported elsewhere [13]. The prepared compounds are decyl, dodecyl, hexadecyl and octadecyl triethyl ammonium chloride. 2.2. Experimental Techniques: 2.2.1. Corrosion inhibition measurements: Cathodic and anodic polarization technique was used to determine the corrosion rate. The electrical set up used for polarization measurements was consisting of: an electrolytic cell, a reference electrode, a working electrode and an auxiliary electrode. The polarization current drawn from the constant current unit having the range from 1µA to 100mA. The potential of the working electrode measured using the potentiometer (EXTECH Model-3000KARL FISCHER Digital pH-mV meter). The constant cross-sectional area was grinded with different apperceive papers in the normal way, initially with course grade and gradually to binder ones, then finally with the finest grade polishing using alumina paste on mechanical polisher for finally polishing of sample surface to be mirror bright, followed by washing with distilled water then with acetone and finally with doubly distilled water, just before insertion in the electrolyte cell. Table (1): The chemical composition of steel sample. Element Fe C Mn W/W (%) 98.798 0.260 0.637 Si 0.255 P 0.031 S 0.019
+
+The tests were carryout as the following: 1. Surfactant concentrations of water solution were 0, 1, 3, 5, 7, 9, 20, and 40 x 10-4M 2. The corrosive media was 0.5 M H2SO4 and the solution temperatures were 25, 35, 45, and 55 0C. 3. For comparative study, 2 x 10-3M of the prepared surfactants was studied in 0.5 M H2SO4 at 45 0C. 2.2. 3. Antimicrobial activity: The biocidal activity of the prepared surfactants was performed against different types of bacteria (gram-positive and Gram negative), Fungi and yeast using inhibition zone technique, this was don by Micro Analytical Center, Cairo University. 3. RESULTS AND DISCUSSIONS: 3.1. Corrosion inhibition: The polarization data were mathematically treated using Tafel equation, to obtain the corrosion rate values.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 2 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+650
+
+Volume 10, Preprint 44
+25 35
+
+submitted 3 August 2007
+
+600
+
+45 55
+
+550
+
+500
+
+-E(m ) V
+
+450
+
+400
+
+350
+
+300
+
+250 5 4 3 2
+2
+
+1
+
+0
+
+-l og (i ) (Amp/cm )
+
+Fig. (1): Tafel line of the carbon steel sample in 0.5 M H2SO4 at 25, 35, 45, and 55 oC.
+900
+C10TEAB C12TEAB
+
+800
+
+C16TEAB C18TEAB
+
+700
+
+-E(m ) V
+
+600
+
+500
+
+400
+
+300
+
+200 8 6 4 2
+2
+
+0
+
+-log (i) (Amp/cm )
+
+Fig. (2): Tafel line of the carbon steel sample 0.5 M H2SO4 in presence of 2x10-3 M of the prepared surfactants at 45 oC.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 3 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Corrosion Table (2):
+
+T, 0C
+
+25
+
+35
+
+45
+
+55
+
+Volume 10, Preprint the submitted August rates and Inhibition efficiency for 44 carbon steel sample 0.5M3H2SO4 2007 of different concentrations of dodecyltriethylammonium bromide at various temperatures. Concentration of Corrosion rate, Efficiency, (%)  inhibitor, (MPY) [I] (M)x104 0.00 78.01 1.00 59.09 31.91 0.59 3.00 98.81 0.928 0.99 5.00 99.04 0.749 0.99 7.00 99.09 0.71 0.99 9.00 99.19 0.632 0.99 20.00 99.25 0.585 0.99 40.00 97.94 1.607 0.98 0.00 104.12 1.00 54.18 47.71 0.54 3.00 72.74 28.38 0.73 5.00 94.55 5.675 0.95 7.00 96.32 3.832 0.96 9.00 97.45 2.655 0.97 20.00 98.50 1.562 0.99 40.00 97.18 2.936 0.97 0.00 178.03 1.00 52.52 84.53 0.53 3.00 65.23 61.9 0.65 5.00 89.99 17.82 0.9 7.00 96.04 7.05 0.96 9.00 96.13 6.89 0.96 20.00 96.60 6.053 0.97 40.00 95.02 8.866 0.95 0.00 232.1 1.00 42.05 134.5 0.42 3.00 55.83 102.5 0.56 5.00 61.46 89.45 0.61 7.00 95.62 10.17 0.96 9.00 96.40 8.356 0.96 20.00 96.51 8.1 0.97 94.94 40.00 11.74 0.95
+
+As shown in Figs. (1, 2 ) and Table (2) it is clear that the corrosion rates decreases with increasing the concentration of inhibitor at different temperatures, this due to increasing the apparent activation energy, Ea, of the charge transfer reactions. Increasing of the temperature will enhance the rate of (H+) diffusion to the metal surface besides increasing the ionic mobility. Moreover, at lower temperatures, adsorbed hydrogen atoms block the cathodic areas. With increasing the solution temperature, adsorption of hydrogen takes place, leading to the increase of cathodic area, i. e. increasing the corrosion.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 4 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 44
+
+submitted 3 August 2007
+
+The inhibition efficiency (P %) of an inhibitor calculated from the equation no. 1 P % = (W-W\)/W x 100 (1) \ Where W and W are the corrosion rate of the carbon steel in presence and absences of inhibitor respectively at given inhibitor concentration and temperature. Adsorption of surfactants at the solid-liquid interface governed not only by the solution properties of the surfactant but also by the properties of the solid-liquid interface and interactions among the various dissolved species. Adsorption on the iron surface can explain by an electrostatic interaction between ammonium group and cathodic sites on the metallic surface [14]. For an n-alkyl triethyl ammonium ion, any variation in the electronic charge density on the central nitrogen atom will depend on the positive inductive effect of the alkyl group. This is because the steric hindrance contribution is negligible since * (polar substituent constant) for an ethyl group is zero, * is equal to * for the n-alkyl groups attached to the nitrogen atom [15]. With increasing size of the alkyl group, the electronic charge density on the nitrogen atom of the quaternary ammonium ion will increase, and the inhibiting properties of the positive head group should decrease because of a new less tightly held layer of positive ions adjacent to the adsorbed bromide ions. This opposite behavior observed may be explained by the effect of Van der Waal's forces of attraction between the alkyl chains of adjacently adsorbed positive head group ions. At high concentration levels, the positive ions could be expected to be adsorbed as closely as possible, i.e. with the triethyl group oriented onto the surface and the alkyl chains oriented away from surface. These chains would interact to form a layer above the head groups [16] the longer the alkyl chain, the greater will be the forces of attraction and hence inhibition. It is obvious that inhibition efficiency of the carbon steel sample under study increases with increasing dodecyltriethylammonium bromide concentration up to certain concentration (2x10-3M) then it decreases, this is due to increases the inhibitor molecules will be adsorbed on the metal surface. Above this concentration the inhibition efficiency decreases due to the interaction between adsorbed molecules and non adsorbed one leading to release of some adsorbed molecules therefore increase of cathodic area, so the corrosion rate increases In addition, the inhibition efficiency decreases with increasing temperature this indicating that the adsorption process of the inhibitor (Inh) on carbon steel is physical adsorption. In the following portion, we shall try to show the adsorption process of the inhibitor (Inh) on carbon steel. 3.1.1. Adsorption process of the corrosion inhibitors: The first step reaction of the corrosion process of carbon steel in H2SO4 solution with inhibitor is: Fe + Inh Fe(Inh)ads. Fen+ + ne- + Inh At low inhibitor concentrations there is not enough Fe (Inh)ads to cover the metal surface, because the inhibitor concentration is low and/or the adsorption rate is slow, metal dissolution takes place on sites free of Fe(Inh)ads. with high inhibitor concentration, a compact and coherent inhibitor over layer is formed on the carbon steel that reduces chemical attacks on the metal. For comparative study, the inhibition efficiencies of the prepared surfactants were determined at constant inhibitor concentration (2 x 10-3M) and temperature (45 oC). The inhibition efficiency of C10TEAB, C12TEAB, C16TEAB, and C18TEAB is 94.12, 96.60, 97.72, and 98.39 %, respectively. The obtained results indicate that inhibition
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 5 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 increases efficiency
+
+Volume chain length submitted August by increasing the alkyl 10, Preprint 44 because the hydrophobicity3 of the 2007 prepared surfactants increased. Figures (3) illustrate the inhibition efficiency (P %) of different concentration of dodecyltriethyl-ammonium bromide at different temperatures.. The number of S shaped curves, which are obtained, is indicating to number of layers formed by dodecyltriethylammonium bromide adsorbed molecules on the metal surface. Single Sshaped obtained for the carbon sample at 25, 35, 45, and 55 oC. It is clear that only mono layer formed on the metal surface.
+110 100 25C 35C 45C 55C
+
+E fficiency of inhibitor (% )
+
+90 80 70 60 50 40 30 5 4 3 2 1 0
+
+-log [I]
+
+Fig. (3): The inhibition efficiency of C12TEAB at different concentrations. The apparent activation energy, Ea, for the corrosion of the carbon steel sample in 0.5 M H2SO4 solution in absence and presence of different concentrations of dodecylrtiethylammonium bromide can becalculated from Arrhenius equation no 2: (2) Corrosion Rate = A exp (­Ea / RT) where "A" is the frequency factor, "R" is the universal gas constant, and "T" is the absolute temperature. A plot of logarithm of corrosion rate (log C.R.) versus reciprocal of absolute temperature (1/T) gives straight line with slope equal (­Ea / 2.303R) as shown in Fig. (3). Activation free energy, G*, calculated from the relation: Corrosion Rate = (KT/h) exp (­G*/ R) (3) where K is Boltzman constant, T is absolute temperature, h is Plank's constant, and R is universal gas constant. Activation enthalpy, H*, calculated from the relation: H*=Ea ­ nRT (4) Activation entropy, S*, calculated from the transition-state equation: Corrosion Rate = (KT/h) exp (S*/R) exp (H*/RT) (5) As shown in Table (3) the Ea value of sample with C12TEAB is more than that without it, also it is found that the Ea value increased by increasing the C12TEAB concentration. It is obvious that concentration of C12TEAB is playing a role in increasing the activation energy value, thereby indicating a more efficient inhibiting effect. The increase in the activation energy, Ea can correlate to the thickening of the electrical double layer and that the CMC at which these molecules can form aggregate [17-20]. It is obvious from positive values of G* that transition state of adsorption processes no proceeds spontaneously.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 6 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 In addition,
+
+submitted 3 August H* values are positiveVolume 10, Preprint 44 denoting that transition state of adsorption process is 2007 endothermic. All values of S* are negative in absence and presence of weak concentration (1x10-4M) of C12TEAB due to transition state of adsorption processes more order the initial state. In the presence of high concentrations (3 to 20x10-4M) of inhibitor, the system passes from a less orderly to a more orderly and hence the values of S* toward to positive values.
+
+Table (3): Activation parameters of carbon steel sample in 0.5M H2SO4 in absence and presence of different concentrations of C12TEAB at various temperatures Conc. of inh., [I] (M)x104 0.00 t oC 25 35 45 55 25 35 45 55 25 35 45 55 25 35 45 55 25 35 45 55 25 35 45 55 25 35 45 55 25 35 45 55 -log (C.R.) 1.10 1. 49 3.03 3.12 3.14 3.19 3.22 2.79 0.80 1.14 1.36 2.06 2.23 2.56 2.62 2.35 0.66 0.98 1.12 1.66 2.06 2.07 2.13 1.96 0.47 0.70 0.82 0.88 1.83 1.91 1.93 1.76 Ea G* (KJ/mol) (KJ/mol) 6.27 38.14 8.77 18.4 19.6 17.9 45.96 18.8 19.6 17.5 4.55 127.77 6.70 8.29 12.9 12.7 130.75 15.1 15.9 14.7 3.76 76.63 5.80 6.81 10.4 11.8 80.39 12.2 13.0 12.3 2.67 81.23 4.15 5.01 5.54 10.4 63.76 11.3 11.7 11.1 H* (KJ/mol) 35.66 35.58 35.50 35.41 43.48 43.40 43.32 43.23 125.3 125.2 125.1 125.0 128.3 128.2 128.1 128.0 74.15 74.07 73.99 73.90 77.91 77.83 77.75 77.66 78.75 78.67 78.59 78.5 61.28 61.2 61.12 61.03 S* (J/mol.oK) -31.13 -42.99 -76.61 -82.29 -43.99 -50.25 -55.75 -52.05 275.4 254.8 237.1 211.2 258.0 237.2 222.4 214.9 106.5 91.64 80.96 63.00 92.24 82.99 73.46 68.65 125.6 111.9 101.1 91.91 40.94 32.08 25.05 21.77
+
+1.00
+
+3.00
+
+5.00
+
+7.00
+
+9.00
+
+20.00
+
+40.00
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 7 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 3.1.2.Thermodynamic
+
+Volume 10, Preprint 44 submitted 3 August 2007 parameters of adsorption process: The adsorption of organic molecules offers a rich phenomenology [21]. Molecules of C12TEAB inhibit the corrosion process by adsorption on metal surface. The adsorption depends on the structure of the inhibitor, the type of the metal and the nature of its surface, the nature of the corrosion medium (its pH value), the temperature, and the electrochemical potential of the metal ­ solution interface. The adsorption provides information about the interaction among the adsorbed molecules themselves as well as their interaction with the electron surface. The structure of dodecyltriethylammonium bromide molecule illustrated as follow:
+C CH
+3 2
+
+H C
+
+5 2
+
+(C H
+
+2
+
+)10 C H
+
++
+2
+
+N C
+2
+
+H
+
+5
+
+Br
+
+-
+
+H
+
+5
+
+The mathematical relationship for the adsorption isotherms suggested fitting the experimental data of the present work is Langmuir equation [22], equation no. 6.  / 1 ­  = K [I] (6) where "K" is the equilibrium constant of the adsorption reaction, [I] is the inhibitor concentration in the bulk of the solution, and "" is the surface coverage. The surface coverage, , is the fraction of the surface covered by the inhibitor molecules. It calculated from the following equation no :  = 1­W\ / W (7) where W\ and W are the corrosion rates in the presence and absence of the inhibitor, respectively. Figure (6) shown plotting of ( / 1­ ) vs. [I] (Langmuir adsorption plots) for adsorption of dodecyltriethylammonium bromide on the surface of the carbon steel sample in 0.5 M H2SO4 solution. The above relations are straight lines, which indicate that the Langmuir isotherm is valid for this system. Langmuir's isotherm applied for ideal case of a physical and chemical adsorption on a smooth surface with no interaction between the adsorbed molecules. Thermodynamic parameters for adsorption process Go, So, and Ho are calculated as follow: Go = ­ RT ln K (8) R = Ideal gas constant, T = Absolute temperature, K = Binding constant. Ho = Calculated from the slope of plotting log K vs. 1 / T So Calculated from the relation: Go =  Ho ­ T So (9) Thermodynamic parameters for adsorption process recorded in Table (6). It is obvious from negative values of Go that adsorption process proceeds spontaneously. The obtained values of Go are indicating that adsorption process is physically. Generally, values of Go up to -20 KJ mol-1 are consistent with the electrostatic interaction between the charged ions and the charged metal ion (physical adsorption), while those more negative than -40 KJ mol-1 involve charge sharing or transfer from the inhibitor molecules to the metal surface to form a co-ordinate type of bond (chemisorption) [23, 24]. The free energy of adsorption of surfactants at solid-liquid interface can be considered as being the sum of a number of contributing factors, such as hydrogen bonding, electrostatic interactions, hydrophobic interactions, and such specific interactions as covalent bonding: Gads = Gelec. + GH + Ghydrophobic + Gspecific ....... Note that adsorption can occur even if some of the factors oppose it, as long as the net free energy change involved in the adsorption is negative. We presume that the inhibitors of this type are strongly adsorbed on the metal surface, when a protective film is form on the metal
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 8 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 surface, and
+
+Volume the metal 44 submitted 3 August as a result, the reaction between10, Preprint and the corrosive solution would take 2007 place only through the fine pores of the protective film, which has been formed. All values of So are negative at 25, 35, and 45 oC due to that (Fe(Inh)ads.) state more order than (Fe + Inh) state while the value of So at 55 oC is positive due to that (Fe(Inh)ads.) state less order than (Fe + Inh) state. In addition, Ho values are negative denoting that adsorption process is exothermic.
+
+Table (5): Thermodynamic parameters of adsorption-desorption process for the carbon steel sample in 0.5 M H2SO4 in presence of different concentrations of C12TEAB calculated from equilibrium constant of Langmuir equation t (oC) 25 35 45 55 - Go (KJ/mol) 8.931 10.47 11.2 12.72 Ho (KJ/mol) -11.75 So (J/mol.oK) -339.62 -154.69 -66.204 116.266
+
+3.2. Evaluation of the prepared compounds as biocide: 3.2.1.Evaluation of the prepared compounds as antimicrobial agent against pathogenic bacteria and fungi:: It has been recognized for some time that cationic surfactants bear antibacterial activity [25-29]. Investigations of structure-activity relationships have demonstrated that in addition to a cationic site, a significant lipophilic component of the surfactant is involved in optimization of activity. A series of the prepared quaternary ammonium salts containing hydrophobic chains of varying length were tested against on some pathogenic gram-positive (Staphylococcus albus, Streptococcus faecalis, Bacillus subtilis) and gram-negative (Escherichia coli) bacteria and also, some pathogenic fungi (Candida albicans, Asperigllus flavus). The results in Table (6) indicate that the synthesized QAS have antimicrobial activity and the difference in activity depends on the length of hydrophilic chains. The optimal length of the alkyl chain has been noted to be twelve carbon atoms. Optimal activity toward a variety of bacterial species for numerous structural variations of the water soluble cationic surfactants appears occur when an alkyl chain of between ten and fourteen carbon atoms is present [3034]. The mechanism of action of such cationic surfactants on bacteria is understood to be one of electrostatic interaction and physical disruption, as opposed to interference with a metabolic pathway, as is commonly the situation with antibiotic species [35]. After the cationic site of the agent attached to a significant lipophilic component binds to anionic sites of the cell wall surface it is then able to diffuse through the cell wall and bind to the membrane. Acting as a surfactant, it is able to disrupt the membrane and permit the release of electrolytes and nucleic materials, leading to cell death. The membrane activity of the surfactants depends on the character of the polar head groups (size and electric charge distribution) and hydrocarbon chains (length, saturation and multiple chains). In this study, the obtained results were comparison with the commercial antibiotic (Tetracycline as reference)
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 9 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Table (6):
+
+submitted 3 August Antimicrobial activity of Volume 10, Preprint 44 the synthesized surfactants against pathogenic bacteria 2007 and fungi. Inhibition zone diameter (mm/mg sample)
+
+Sample Water (control)
+Tetracycline
+
+Staphylococcus albus (G+)
+
+Streptococcus faecalis (G+)
+
+Bacillus subtilis (G+)
+
+Escherichia coli (G-)
+
+Candida albicans
+
+Asperigllus flavus
+
+0.0 27 16 28 22 13
+
+0.0 31 16 32 15 13
+
+0.0 30 16 27 15 13
+
+0.0 34 17 28 15 11
+
+0.0 37 20 31 20 18
+
+0.0 0.0 18 31 13 14
+
+(Reference) C10TEAB C12TEAB C16TEAB C18TEAB
+
+3.2.2.Evaluation of the prepared compounds as antimicrobial agent against sulfate reducing bacteria (SRB) by dilution method The prepared quaternary ammonium salts containing hydrophobic chains of varying length were tested against sulfate reducing bacteria. The results of antimicrobial activity of the synthesized surfactants against sulfur reducing bacteria (Desulfomonas pigra) recorded in Table (7). The results in Table (7) indicate that the newly synthesized QAS have antimicrobial activity and that the difference in activity depends on the length of hydrophobic chains. The optimal length of the alkyl chain has been noted to be ten carbon atoms. Table (7): Antimicrobial activity of the synthesized surfactants against sulfate reducing bacteria by dilution method Bacteria count (Colony/ml sample) Sample (Desulfomonas pigra) Control C10TEAB 5.87x103 C12TEAB C16TEAB C18TEAB 1.5x103 4.1x103 4.1x103 10-1 0.0 0.0 3.8x103 0.0 10-2 0.0 0.0 uncountable 0.0 10-3 0.002x103 0.8x103 uncountable 0.003x103 10-4 5.64x103 uncountable uncountable uncountable 10-5 5.82x103 Uncountable Uncountable uncountable
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 10 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 3.2.3. Evaluation
+
+Volume 10, as antimicrobial agent against sulfur August 2007 submitted 3 of the prepared compounds Preprint 44 oxidizing bacteria (SOB) by dilution method
+
+The prepared quaternary ammonium salts containing hydrophobic chains of varying length were tested against sulfur reducing bacteria. The results of antimicrobial activity of the synthesized surfactants against sulfur oxidizing bacteria (Sulfobacillus thermosulfidooxidans) recorded in Table (8). Table (8) it is obvious that the newly synthesized QAS have antimicrobial activity and that the difference in activity depends on the length of hydrophilic chains. The optimal length of the alkyl chain has been noted to be eighteen carbon atoms. Table (8): Antimicrobial activity of the synthesized surfactants against sulfur oxidizing bacteria by dilution method. Sample Control C10TEAB C12TEAB C16TEAB C18TEAB 5.31x103 5.71x103 6.2x103 6.2x103 Bacteria count (Colony/ml sample) (Sulfobacillus thermosulfidooxidans) 10-1 0.0 0.0 3.3x103 0.0 10-2 0.0 0.0 4 x103 0.0 10-3 0.004x103 0.007x103 4.3 x103 0.039x103 10-4 4.96x103 3.12x103 5.6 x103 1.33x103 10-5 5.18x103 5.78 x103 Uncountable uncountable
+
+4. REFERENCES: 1. 2. 3. 4. 5. 6. 7. 8. 9. 10. 11. 12. 13. 14. J.M. Sykes, Br. Corros. J. 25, 175, (1990). M. Elachauri, M.S. Hajji, S. Kertit, E.M. Salem, R. Coudert, Corros. Sci. 37, 381, (1995). B. Mernari, H. Elattari, M. Traisnel, F. Bentiss, M. Lagrenee, Corrosion 40, 391, (1998). L. Wang, Corros. Sci. 43, 2281, (2001). M.E. Azhar, M. Mernari, M. Traisnel, F. Bentiss, M. Lagrenee, Corros. Sci. 43, 2229, (2001). M.A. Quraishi, M.A.W. Khan, M. Ajmal, S. Muralidharan, S.V. Iyer, J. Appl. Electrochem. 26, 443, (1996). F. Bentiss, M. Traisnel, M. Lagrenee, Corros. Sci. 42, 127, (2000). L. Wang, Corros. Sci. 43, 2281, (2001). A.C. Makrides, Corrosion 29, 180, (1973). M.S. Morad, Mat. Chem. Phys. 60, 188, (1999). Y. Jianguo, W. Lin, V. Otieno-Alego, D.P. Schweinsberg, Corros. Sci. 37, 975, (1995) K. Srivasthava, P. Srivasthava, Corros. Prev. Contr. 27, 5, (1980). A. Shehata Hassan Abd Allah Abd El-wahab, A. Hafiz, I. Aiad and In press, in Egyptian J. of Petroleum . M. Hegazy,
+
+F. Branzoi, M.Branzoi, M. V.Baibarac; Popa, Adv. Master Processing Technol., 2, 752, (1997).
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 11 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858Kobayaski, 15. K.
+
+Volume 10, Preprint 44 V. Ashworth, Bashokeu Gijutus 32, 627, (1983).
+
+submitted 3 August 2007
+
+16. 17. 18. 19. 20. 21. 22. 23. 24. 25. 26. 27. 28. 29. 30. 31. 32. 33. 34. 35.
+
+R. J. Meakins, M. G. Stevens, R. J. Hunter, J. Phys.Chem., 73, 112, (1969). G. Tourillon, F. Garnier, J. Electronal. Chem., 135, 1173, (1982). R.J. Waltman, A.F. Diaz, J. Bargon J. Phys. Chem., 88, 43, (1984). J. Bukowska, K. Jackowaska, J. Electronal. Chem., 322, 347, (1992). C. Cachet, M. Keddam, V. Mariotte, R. Wiart Electrochim. Acta, 37, 2377, (1992). W. Schmikler, Interfacial Electrochemistry, Oxford Univ., Mc Graw­ Hill Book Co., New York, (1996). L. Langmuir, J. Am. Chem. Soc., 40, 1361, (1918). E. Kamis, F. Bellucci, R.M. Latanision, E.S.H. El-Ashry, Corrosion, 47, 677, (1991). F. Donahue, K. Nobe, J. Electrochem. Soc. 112, 886, (1965). M.R.J. Salton, J Gen. Physiol., 52, 227, (1968). W.B. Hugo and M. Frier, M. Appl. Microbiol., 17, 118, (1969). E. Tomlinson, M.R. Brown, and S.S. Davis, J. Med. Chern., 20, 1277, (1977). S.P. Denyer, Int. Biodeterior. Biodegrad., 36, 227, (1995). G. McDonnell and A.D. Russell, Clin. Microbiol. Rev., 12, 147, (1999). H. Nagamune, T. Maeda, K. Ohkura, K. Yamamoto, M. Nakajima, and H. Kourai, Toxicology in Vitro, 14, 139, (2000). C.R. Birnie, D. Malamud, and R.L. Schnaare, Antimicrobial Agents and Chemotherapy, 44, 2514, (2000). G. Viscardi, P. Quagliotto, C. Barolo, P. Savarino, E. Barni, and E. Fisciaro, J: argo Chem., 65, 8197, (2000). J. Pernak, J. Kalewska, H. Ksycinska, and J. Cybulski, Eur. J: Med. Chem., 36, 899, (2001). C. Campanac, L. Pineau, A. Payard, G. Baziard-Mouysset, and C. Roques, Antimicrobial Agents and Chemotherapy, 46, 1469, (2002). W. Hugo, and G. Snow, Biochemistry of Antibacterial Action, Chapman and Hall, Ltd., London, (1981).
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 12 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

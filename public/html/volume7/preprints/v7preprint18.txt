@@ -1,0 +1,200 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 18
+
+31 January 2005
+
+A Study on Electroplating of Zinc Nickel with HEDP
+Wang Zhao-Lun1 Yang Yu-Xiang2* Chen Ya-Ru2
+(1. College of applied technology, Wenzhou University, 352035, P. R. China) (2. School of Chemistry & Pharmaceutics, East China University of Science & Technology, 200237, P.R.China 3. State Key Laboratory of Coordination Chemistry, Nanjing University 210093, P.R.China)
+
+Abstract: In this paper, the electroplating of bright Zn-Ni alloy process was studied, the effect of ((1-hydroxy ethylidene) diphosphonate) acid (abbreviated as HEDP) coordinating agent, chloride content, [Zn2+ ]/[Ni2+] mole ratio, cathode current density, temperature, a class of aldehyde compound (abbreviated as ZNP additive agent) and supplementary coordinating agent on Ni content, and brightness of plating layer was discussed, the physical phase of alloy plating layer and stability of plating solution were determined. The optimum composition of plating solution for bright Zn-Ni alloy electroplating and technological condition was screened out and abnormal joint deposition mechanism was discussed. Keywords: HEDP Electroplating; Zinc nickel alloy material; abnormal joint deposition; 1.Introduction: Recently, study on the electroplating of zinc nickel alloy has attracted more and more attentions. The characteristics of Zinc nickel alloy, such as anticorrosive properties, binding ability, weld ability, capacity of hydrogen embrittlement, anti-high-temperature function, are better than those of pure zinc or pure nickel plating layer. Electrodeposited zinc nickel alloys and their coatings are the perfect coatings instead of chromium. With improvement of automation, shipping and electric cable, electrodeposited zinc nickel alloy and its composite coating also happened. Zinc-nickel plating was widely used in electron-industry, material-science, mechanic-industry, chemical-industry, automobile industry and development of function, new surface treatment technology and so on. Referring to previous literatures, plating bath of coordinating agents selected by predecessors on electroplating of zinc nickel alloy were aminosulfonic salt(equilibrium constants for coordination of nickel or zinc ion with aminosulfonic salt in the form of logarithm was NiL 5.66, NiL 2 10.20, ZnL 4.87 respectively) [2,3], sulphate and chloride system(equilibrium constant of coordination, NiL 2.3, ZnL 2.31 respectively)[2,3] , and cyanide plating bath (NiL4 31.3, ZnL4 16.72) [3,4]. In the screening out coordinating agent, the Hull experiment for above three class of coordinating agents showed that, although the zinc nickel plating layer for the former two class can be acquired, the brightness of plating layer was bad. The bright zinc nickel plating layer could be acquired in cyanide plating solution, however, as a very strong coordinating agent, CN  could easily form inner orbital type cyanide coordinated ion, which was inert to be replaced and then, hindered the anode reaction. Thus, electric current efficiency of the plating bath became low; it caused deposition speed become slower than before, and nickel could not be deposited, as a result,
+*
+
+Corresponding Author: e-mail: yxyang@ecust.edu.cn The project is supported by Shanghai municipal National Nature science Foundation, China
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 18
+
+31 January 2005
+
+zinc-nickel plating layer wasn't acquired. In addition, severe toxic cyanide plating solution may be a serious contamination to environment, properties of HEDP was analogous to cyanide, but non-poisonous, with better surface activator action, so electroplating of Zinc-Nickel alloy with HEDP plating solution was studied. 2.Experiment Procedure 2.1 Preparation of HEDP plating solution NiCl2 and ZnCl 2 salt were dissolved in HEDP, to form coordination compound first, then supplementary coordinating agent and the ZNP were added respectively. After that, the above made solution was added gradually into KCl solution (KCl was dissolved in water in advance) to form HEDP plating solution, pH was adjusted with potassium hydroxide. 2.2 Hull experiment The experiment was made in Hull bath, Zinc plate was used as anode, 6cm× 10cm steel plate as cathode, and 250ml HEDP plating solution was added into Hull bath, direct current was supplied by voltage stabilized source, ampere meter and variable resistance box were connected in series in electric circuit, so electric current density could be adjusted to 0.253A  2 by varying electric resistance. The dm experiments results were seen from Fig.7 . 2.3 Determination of nickel content of plating layer Nickel content of plating layer was determined by chelating colorimetric analysis using 722 spectrophotometry, the experiments results were seen from Fig.16 . 2.4 XRD determination of Zinc-Nickel alloy plating layer The plating layer was determined by Japan Rigaku D/max- type x ray diffractometer. Test condition, Cu target K tube voltage, 35 kV, tube current, 35 mA, , slit , DS/SS 1°. The results were seen from Fig.8. 2.5 Determination of anticorrosion properties 2.5.1 Immersion experiment of 5%NaCl (pH 6.5~7.5) Sample flake plated by 8~10 ZnNi (containing about 12% nickel) and sample m flake plated by 8~10 pure Zinc were immersed in 5%NaCl aqueous solution at the m same time. 2.5.2 Anti-salt spray experiment The 5% neutral salt spray experiment was made in GYW-1 kind high voltage salt spray test chamber, the experiment condition was as following: Salt spray flow capacity: 0.4±0.1 L/(h·m 3) Drop diameter: 520 m Temperature: 35 Tensile force: 2200N Experiment time: 300h
+
+-2© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 18
+
+31 January 2005
+
+3.Results and Discussions 3.1 The effect of Zn/Ni content mole ratio As seen from Fig.1, the relation curve between Ni content and Zn/Ni content mol ratio, Ni content in plating layer along with Zn/Ni content mole ratio in plating solution, zinc chloride and nickel chloride were main salt of zinc and nickel.
+
+14 12 10 8 6 4 2 0 0 0.5 1 [Zn]/[Ni] 1.5 2
+
+14 12 10 8 6 4 2 0 0 100 120 HEDP 140 160
+
+Ni%
+
+Fig.1. The effect of [Zn]/[Ni] ratio on Ni content of plating layer
+
+Fig.2. The effect of HEDP content in plating bath on Ni content of plating layer
+
+Accompany with the increase of Zn/Ni content mole ratio, the Ni content in alloy decreased. When Zn/Ni content mole ratio in plating solution was about 4/3 to 2.5, the brightness plating layer containing Ni 5%~16% could be obtained. 3.2 The effect of coordinating agent HEDP When HEDP coordinated with zinc and nickel ion to form ZnL and NiL coordination ions, anode was properly beneficial to dissolution, and cathode polarization increased, so a fine crystallized alloy layer was acquired. This was because that strong surface activity of HEDP led to form very stable coordination compound with zinc and nickel ions. As seen from Fig2., there was very intimate relationship between HEDP content and plating layer, as well stability of plating solution, as HEDP content was higher than 160gL, HEDP easily crystallized and separate out, as HEDP content was lower than 80 gL, the plating solution was not stable, as a result, the plating layer became murky gray, as seen from Fig.7 . This was because that stability constant of ZnL as Kstable=5.376 × 1010, and stability constant of NiHL as K stable=1.739 × 109, KZnL/KNiHL=30.9, when HEDP concentration increase, Nickel content of plating layer had a slight increase, when HEDP concentration decrease, Zinc-Nickel alloy deposited on steel plate faster than before, this led to instability of plating solution. 3.3 The effect of KCl There were intimate relationship between KCl content and appearance of plating layer in Hull experiment, as KCl content was lower than 60g/L, grayish white emerged on the side of low cathode current of steel plate, as KCl content was higher than 180g/L, KCl could easily crystallize. This showed that, KCl not only possessed electric conductivity, as well coordinating ability with zinc or nickel, but also could increase polarization of cathode; besides, it might improve quality of plating layer. According to the Hull experiment, and result from Fig.3, the appropriate component
+-3© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+Ni%
+
+ISSN 1466-8858
+
+Volume 7 Preprint 18
+
+31 January 2005
+
+of KCl in plating solution ranged from 100 to 140 g/L, and the optimum value was 120 g/L. 3.4 The effect of pH
+14 12 10 8 6 4 2 0 6.5 7 7.5 pH 8 8.5
+
+14 12 10 8 6 4 2 0 80 100 120 C(g) 140 160
+
+Fig.3. The effect of KCl content in plating bath on Ni content of plating layer
+
+Ni%
+
+Fig.4. The effect of pH in plating bath on Ni content of plating layer
+
+The pH of zinc-nickel alloy plating bath had great effect on nickel content of plating layer [6]. The results of Hull experiment showed that, when the plating solution of the optimum composition was at pH of 7~8, bright plating layer was obtained. The pH value was buffered mainly by HEDP and its potassium salt, cathode hydrogen evolution would take place as pH was low, this led to current efficiency, covered ability and brightness degree decreased respectively, but internal stress increased instead. The plating layer became dark at very high pH, as seen from Fig.7. The relation between pH and Ni content was illustrated in Fig.4. 3.5 The effect of temperature Surface analysis of plating layer showed that species coordination agent system was most suitable to be used at temperature range from 20 to 40 . Higher temperature could increase electric current density, and more serious cathode hydrogen evolution, it made evaporation of plating solution faster than before, as a result, cathode current efficiency and deposition speed decreased respectively, these made internal stress of plating layer increased.
+
+14 12 10 8 6 4 2 0 0 10 20 T() 30 40
+
+Ni%
+Ni%
+
+14 12 10 8 6 4 2 0 0.25 0.85 1.45 2.05 2.65 Dk(A/cm2)
+
+Fig.5. The effect of bath temperature on Ni content of plating layer
+
+Ni%
+
+Fig.6. The effect of current density on Ni content of plating layer
+
+-4© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 18
+
+31 January 2005
+
+Hull experiment showed that the finely granular speck emerged on the surface of plating layer, as seen from Fig.7. The relation between temperature and Ni content of plating layer was seen from Fig5. 3.6 The effect of electric current density
+electroplated steel plate (6cm  10cm)
+
+ side of low cathode current density
+
+ side of high cathode current density
+
+bright
+
+dark
+
+corse
+
+speck Fig.7 The Hull experiment results
+
+grey
+
+There was relationship between deposition speed and cathode current density, but Ni content was almost a few associated with cathode current density, as seen from Fig.6, as cathode current density ranged from 0.25A/dm2 to 0.85A/dm2, Ni content in plating layer decreased, but cathode current density ranged from 0.85A/dm 2 to 2.05A/dm 2, Ni content in plating layer kept relatively stable (about 12.0%). As seen from Fig.7, the Hull experiment showed that: when Dk>2.65A/dm2, dark grey and coarse emerged on the side of high cathode current density of steel plate, because high cathode current density made anode polarization action increase, this led to largely decrease of deposition speed of zinc-nickel alloy. 3.7 The effect of additive agent ZNP concentration ZNP additive agent was a class of aromatic organic compounds having aldehyde group, it was able to inhibit nickel from depositing at high cathode current density, the experiment results showed that Ni content of alloy layer kept constant within the range 0.85~2.05A/dm2 of cathode current density. The experiment of Hull bath also showed that, as seen from Fig.7, when ZNP concentration was 0.25g/L, the electroplated steel plate was always bright, which showed range of the brightness on the electroplated steel plate within variable range of electric current density was the largest, however when ZNP concentration was 0.4g/L, coarse phenomenon always emerged on the electroplated steel plate at the side of high cathode current density. 3.8 The effect of supplementary coordination agent (PEN) Amine-group compound PEN was selected as supplementary coordination agent (L'), the constants for proton coordination equilibrium between PEN and zinc or nickel ions in the form of logarithm, are NiL'17.51, NiHL'22.44, ZnL'15.4 respectively. The experiments showed, the leading effects were to reduce passivation
+-5© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 18
+
+31 January 2005
+
+of anode electrode, and prevented passivation membrane from emerging on the anode electrode surface, and makes cathode current density stable. On the other hand, PEN was able to make reduction potential of nickel more negative, in order to keep the reduction potential of nickel close to that of zinc, and make Zn-Ni joint deposition. When additive PEN amount was 3~10g/L, the optimum result was acquired. 3.9 Plating bath composition and process condition According to above experiment results, plating solution composition and process condition were ascertained as following:
+Component NiC12 ZnC12 KCl HEDP PEN ZNP pH D k(A/dm 2) Positive electrode temperature() Content (g/L) 20~30 30~70 100~140 100~140 3~10 0.2~0.3 7~8 0.85~2.0 Netted zinc positive electrode 20~40 0.25 7.5 1.0 25 Optimum content (g/L) 25 50 120 120
+
+D. HEDP plating layer
+100 90 80 70 60
+
+C. PETM plating layer
+
+
+B. PETM plating layer Ni 6.81% A. pure Zn layer
+
+Intensity
+
+
+
+       
+
+50 40 30 20 10 0 30 40 50 60
+
+
+D. C. B.
+
+
+
+
+70 80
+
+A.
+90
+
+ Fig.8 XRD results of plating layer
+
+3.10 Quality effect (1) Properties of anticorrosion (i) Immersion experiment of 5%NaCl (pH 6.5~7.5) After 0.5hr, only a few specks appeared on the pure zinc sample flake, but no
+-6© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 18
+
+31 January 2005
+
+phenomenon on Zn-Ni sample flake. After l hr, there were apparent corrosion spots on pure zinc sample flake, but no phenomenon on Zn-Ni sample flake. (ii) Anti-salt spray experiment The results showed, red rustiness appeared on sample flake plated by 8~10 m pure zinc after 55~128hrs, but only after 200~280hrs red rustiness did appear on sample flake plated by 8~10 Zn-Ni alloy (containing Ni about 12%), and the m properties of Zn-Ni plating layer was analogous to those of Cd plating layer [5] . (2) Surface of plating layer attained claim of brightness. (3) It was not found that plating layer fell off and bubbled at temperature of 700. (4) The plating layer was determined by XRD, and the results showed that, the plating layer was consistent with physical phase structure, which contained Ni range from 7% to 13%, they were all  and phase. By thermodynamics analyzing on plating layer of intermetallic compound [6], intermetallic compound (Ni5Zn21 or NiZn3) is verified, it is belonged tophase, as seen from Fig.8, while, as nickel and zinc formed solid flux phase, it is  phase, the pure zinc belonged to phase too, so when the physical phase is phase, and the plating layer contains Ni, it must have been solid flux phase of nickel and zinc. The enthalpy energy of phase is the lowest, so the highest thermodynamics stable it is. The  phase also keeps very strong passivation ability, this leads to the improve of the anticorrosion ability of the plating layer strikingly, so the Zn-Ni plating layer possesses better anticorrosive properties than the pure Zn plating layer. (5) Properties of plating solution were determined as following:
+Table1. Properties of HEDP plating solution Results Current efficiency Deep plating Ability Average Metal distribution Deposition speed
+* 2
+
+25,1A/dm
+
+8×100mm copper tube 25,30min, 2A/dm2 Iron base 1A/dm , 25,1h 25, 1A/dm2
+2
+
+70%75% Zn-Ni alloy was plated into inner wall 65 mm T= *8/ 1×100%=62.0% 10~12m/h
+
+: Thickness of plating layer. (To determine average metal distribution, we often divided surface of plating layer of sample as 8 parts, and determine thickness of 1 and 8 parts plating layer respectively)
+
+3.11 The advantage of HEDP plating solution Except HEDP plating solution, plating solution of NH 4Cl coordinating agent was also made, boric acid and benzoic acid as additive agents, and OP-20 as surface active agent, as a result, bright Zinc and Nickel alloy layer was acquired. However, when Zn/Ni content mole ratio was 0.8 (the whole Zn + Ni mole concentration was 0.50 mol/L), the Ni content of the acquired plating layer was only 0.50% by colorimetric analysis using 722 spectrophotometry, and the results were consistent with the XPS spectrum determination, the plating layer was determined by XRD, as seen from Fig.8, the physical phase was phasethe results showed, the plating layer was solid flux phase of nickel and zinc, so the anticorrosion ability was not better than the pure zinc
+-7© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 18
+
+31 January 2005
+
+player. To acquire the plating layer with  physical phase, the PETM (polyphosphate) and HEDP coordinating agent plating solution had been used to electroplating zinc and nickel alloy for our further studies [1] . The effect of [Zn2+ ]/[Ni2+] ratio, coordinating agent PETM, pH, temperature, cathode current density, ZNP additive agent on zinc nickel plating layer was studied, some results have been acquired as following. The optimum PETM plating solution composition and process condition were ascertained as following, nickel sulfate 80, zinc sulfate 80, sodium sulfate 20, sodium chloride 15, PETM 160, ZNP 0.1(g/L), pH 13.0, Dk=1A/dm2, pure zinc plate anode electrode, temperature 25. According to anti-salt spray experiment, the red rust appeared on sample surface plated by 8~10m pure zinc after 55~128hrs, but only after 185~260hrs red rust did appear on sample surface plated by 8~10m Zn-Ni alloy(containing Ni about 13%). The plating layers were consistent with physical phase structures, which contain 9.00%~15.86% Ni, and they were all phases, except physical phase of the plating layer containing Ni 6.81% was  phase. The properties of PETM plating bath were determined as following:
+Table2. Properties of PETM plating bath
+
+Results
+Current efficiency Deep plating Ability Average Metal distribution Deposition speed 25,1A/dm 8×100mm copper tube 25,30min, 2A/dm2 Iron base 1A/dm , 25,1h 25, 1A/dm2
+2 2
+
+52.5% Zn-Ni alloy was plated into Inner wall 33mm T=8 /1 ×100%=30.2% 8~10m/h
+
+However, the stability for PETM coordination with zinc or nickel was not high, equilibrium constants in the form of logarithm were ZnL 8.35, NiL 7.8, as seen from Fig.7, it was difficult to avoid coarse emerging on the side of high cathode current density of steel plate[2], as seen from Table.2, current efficiency, and deep plating ability were low and metal distribution was narrow for the PETM plating solution. Therefore, general-purpose coordinating agent HEDP, which is one kind of organic poly-phosphates, was selected. HEDP has P-C-P bonds which are different from P-O-P bonds in PETM and, more stable than P-O-P (because of large electric negative of oxygen atom, which makes polarization of O-P bond more than C-P bond and P atom in Oj--Pj+ bond can be easily nucleophilic replaced by OH, this leads to the break of Oj--Pj+ bond), so it doesn't hydrolyze into orthophosphoric acid at high pH value and comparative high temperature. Moreover, stability constant of coordination compound between HEDP and metal ion is more great than that of PETM, so HEDP can form more stable coordination compound with various metal ions within the range of pH value. HEDP also has the properties analogous to cyanide, and has comparative better surface activator action, and comparative bright, smooth plating layer containing 5%-16%Ni can be obtained. Their proton coordinating forming equilibrium constant in the form of logarithm are NiL 9.24, NiHL 5.14, ZnL 10.73, ZnHL 5.66[3] respectively, which indicate that coordination action is applicable.
+-8© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 18
+
+31 January 2005
+
+By comparing Table 1 and Table 2, the results showed, the properties of HEDP plating solution were much better than those of PETM plating solution [1]. 4. Deposition mechanism of Zn-Ni alloy in HEDP plating bath Joint deposition Zn-Ni alloy belonged to abnormal joint deposition [7]. Although the zinc had more negative standard electric positive than that of nickel, zinc deposited prefer to nickel. This is because that evolution of hydrogen emerged on the cathode surface, it made H+ concentration about cathode surface decreased, and pH increased, so colloidal zinc hydroxide emerged first, and it adsorbed on the cathode surface, forming a thin layer colloidal Zn(OH)2 membrane, which inhibited deposition of nickel (iron group) owing to very sensitive of nickel to the colloidal Zn(OH) 2 membrane, while deposition of zinc was not affected by that, thus, it made zinc deposited in preference to nickel. This was consistent with the results of effect of cathode current density on plating layer as illustrated in Fig.6. 5.Conclusion By comparing the results of this study and those of other literatures, HEDP was found to have analogous properties to cyanide, very well stability to heat and pH, and fine surface activity properties, as well high stability of its coordinated ion, moreover, the plating solution is very stable. The alloy plating layer, which contains Ni 5%~16%, is acquired by electroplating of Zn-Ni alloy using HEDP plating solution. The results show, that exterior of plating layer is smoothing and bright, besides this, the plating solution has simple component and nice ability of deep plating. The exterior of plating layer is fine and less hydrogen embrittlement capacity, the physical phase of the plating layer is and  phase. Also HEDP has little toxicity, so it is very promising to be put into large-scale production. Reference 1.Yang Yuxiang, Plating and Sur.Finishing, 17(3), 10(1995),(Chinese) 2.Dai Anbang, Coordination Chemistry, Science Publication, 694(1987), (Chinese) 3.Niu Sibing, Analysis Application of Coordination Equilibrium, Jiling University Publication (Chang Chun),(1987),(Chinese) 4.Hu ZiDe, etal, Solvent Extraction in Analytical Chemistry, Science Publication, Beijing,(1994),(Chinese) 5.Gage N et al, Proceedings of the conference of AIMF/SMFS, Asia Pacific Interfinish 90 "Growth Opportunities in the 1990's, Singapore,19~22, November 1990, P.65-1." 6.  19803110 111 7.Abber Brenner. Electrodeposition of Alloys Vol. II [M]. Academic Press, New York, 1963; p.222.
+
+-9© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

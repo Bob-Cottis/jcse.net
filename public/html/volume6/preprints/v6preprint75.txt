@@ -1,0 +1,508 @@
+Volume 6 Paper H019
+
+Segregation Phenomena at Growing Alumina/Alloy Interfaces
+P.Y. Hou
+
+Materials Sciences Division, Lawrence Berkeley National Laboratory, 1 Cyclotron Rd., MS: 62-203, Berkeley, Ca 94720, USA, pyhou@lbl.gov
+
+Abstract
+The chemistry and structure at the scale/alloy interface are important factors governing scale adhesion. The chemical changes can occur from segregation of impurities in the alloy, such as sulphur and carbon, or alloying elements such as chromium, aluminium and reactive elements. This paper reviews studies of the changes of interfacial composition with oxidation time for Al2O3 formed on several model alumina-forming alloys, and tries to relate that to the interfacial strength. Results show that sulphur segregation to oxide/metal interfaces can indeed occur, but the type and amount of segregants at the interface depend on the alloy composition and the interface also occur, resulting in multi-layer segregants at the interface. structure. Co-segregation of impurities with alloying elements can Sulphur-containing interfaces are indeed weaker, but the major role of sulphur is to enhance interfacial void formation. Reactive elements in the alloy not only gather sulfur but also exert an additional positive effect on scale adhesion.
+
+Keywords: oxidation, segregation, oxide/metal interface, sulphur, reactive element, alumina, adhesion.
+
+Introduction
+Many advances have been made in the past two decades on the growth and development of Al2O3 scales. It is now known that the firstformed Al2O3 is almost never the thermodynamically most stable 
+
+form, but are cubic aluminas that have been identified as the  and/or the  forms [1-6]. These are often referred to as "transition" or "metastable" aluminas. The more stable -Al2O3 later nucleates at the transition alumina/alloy interface [#ref5,#ref6,7], and the initially formed cubic alumina transforms to the  form with time. Limited high resolution TEM studies [8] have shown that the interface between the transition alumina and the alloy, in this case a single crystal NiAl, is coherent, but became incoherent once -Al2O3 nucleates. The development of -Al2O3 is faster at higher temperatures [9] and with the presence of chromium in the alloy [10], but seems slower with higher concentrations of Al or the presence of a reactive element (RE), such as Hf, Y or Zr, in the alloy [11]. The transition alumina grows predominantly by aluminium outward transport [12,13], but the amount of aluminium outward diffusion [14] unless a reactive element is present, then the Al outward transport is greatly reduced [15]. The growth rate of the transition alumina is about one order of magnitude interfaces is observed without any reactive element, particularly on Ni or Fe aluminides [16,17]. The adherence of Al2O3 scales on alloys is an important issue for practical applications. It has been known for over 60 years [18] that the presence of small amounts of RE in the alloy greatly improves Al2O3 scale adhesion. Many mechanisms have been proposed for this phenomenon [19], but in recent years, the most widely accepted one is what is known as the "sulphur effect" [20,21]. The hypothesis is that the oxide/metal interface is intrinsically strong, but indigenous sulphur that is present in the alloys, often around 10-30 ppm, segregates to the interface during oxidation, thus weakens the bonding and renders the scale nonadherent. The role of the reactive element, as a result of their strong sulphide forming ability, is to react and tie up the sulphur; therefore, prevents it from segregating to the interface. Evidence of the detrimental effect of sulphur on scale adhesion has been provided by the performance of many different desulphurized or low S alloys [22-24]. When the sulphur content in the alloy is reduced to less than 3 ppm or so, often by a high faster than that of the -Al2O3. Extensive void formation at scale/alloy Al2O3 by predominantly oxygen inward transport with a non-trivial
+
+temperature H2-annealing process, scale spallation under thermal cycling conditions becomes much less [ref#24]. The proposed "sulphur effect" points to the importance of how interface chemistry may affect scale adhesion. Sulphur is well known to segregate to alloy grain boundaries and weakens them [25], and theoretical studies have shown bond weakening effects of S on Al2O3/metal interfaces [26,27]. Limited mechanical testing on the strength of diffusion bonded Al2O3/metal interface with the presence chemistry [28-30]. However, most of these studies did not characterize the effect these segregants had on interface microstructure, particularly on defect type, size and distribution, and to incorporate these defects to the measured strength. This is especially important, since more debonded areas seem to exist when impurities are present at these interfaces [#ref26,#ref28]. of a foreign element has also demonstrated strong effects of interface
+
+Since all commercial metals and alloys contain ppm levels of nonmetallic impurities that readily segregate to surfaces when the alloy is heated, it is often assumed that the same kind of segregation takes known. The purpose of this paper is to summarize work done in place at oxide/metal interfaces. Whether this is always the case is not recent years in our laboratory on the chemical changes at several Al2O3/alloy interfaces in order to provide a better understanding of the segregation phenomena that occur during scale growth. Results and discussions are presented separately for three groups of alloys: iron aluminides, nickel aluminides and MCrAl, where M is Fe or Ni. In each section, the segregation behaviour is first discussed and process. Subsequently, the relationship between segregation, interface morphology and any existing data on interfacial strengths is addressed. related to surface segregation, alloy composition and the oxide growth
+
+Experimental
+Several different types of model alloys were studied; these include nickel and iron aluminides, Zr-doped iron aluminide and MCrAl type alloy with M being Fe or Ni. The stoichiometric NiAl and the iron
+
+aluminides were made at Oak Ridge National Laboratory (ORNL). The NiCrAl was supplied by NASA; other alloys were made at LBNL. All the alloys were induction or arc melted, followed by a high temperature anneal in inert atmospheres. 15mm x 10 mm x 1mm sized specimens were either cut from the ingot or from a hot rolled sheet. Hydrogenannealing of a few alloy specimens was performed in Zr-gettered hydrogen at 1200°C for 100 hours. The alloy identifications,
+
+compositions and sulphur and carbon impurity levels are given in
+
+Table 1. It is seen that the nickel alumnides have much lower sulphur contents than the other alloys, indicating that the starting powders of Fe and Cr must contain more S impurity than Ni. Other than C and S impurities, the NiAl and FeAl alloys also contain tens of ppm of B and P respectively. In order to increase the S content of the NiAl, a batch of Ni-40at%Al was made with small amounts of NiS, and it is identified as the S-doped alloy, i.e., Ni40Al(S).
+
+Table 1: Composition and identification of alloys Alloys Fe Fe40Al Fe3Al Fe3Al {H2} Fe3Al-Zr FeCrAl NiCrAl NiCrAl {H2} NiAl* Ni40Al Ni40Al(S) 59.9 67.1 67.0 72.4 61.4 49.9 60.0 60.9 Ni atomic % Al 40.1 27.9 28.0 9.2 24.0 50.1 39.8 39.0 4.9 5.0 18.4 14.5 0.05 Cr Zr S 27.6 34.1 0.45 35.6 52.2 13.0 0.03 3.7 3.2 34.7 Ppma C 131 356 153 424
+
+*NA7N according to ORNL identification
+
+One face of the specimen was polished to a 1 µm finish with diamond paste prior to oxidation in 1 atmosphere flowing dry oxygen. Most specimen was placed in an alumina boat with a thermocouple at its back to monitor its surface temperature, and then pushed into the hot zone of a horizontal furnace to start the oxidation. At the end of the tests were conducted at 1000oC, with some at 900°C or 1100oC. The
+
+desired oxidation time the boat and specimen were quickly pulled out of the furnace and cooled in ambient air. A few specimens were also water-quenched or furnace-cooled in order to establish different cooling rates. The chemistry of the scale/alloy interface after oxidation was
+
+examined using a PHI 660 Scanning Auger Electron Microscope (AES), where a specially designed linear translator mounted with a Vickers micro-indenter had been placed in its ultra high vacuum (UHV) chamber. To make a scratch, the oxidized specimen was first pushed into the indenter using the Z-control of the specimen stage, followed by a drag along the X or the Y direction for several millimetres [31]. This motion often produced numerous fractures adjacent to the scratch mark and induced spallation of the oxide scale, which exposed the scale/alloy interface. The vacuum condition during and after the scratch was usually better than 2x10-10 torr. A 0.5-1 µm diameter electron beam was placed on the exposed alloy surface to study its composition. Usually 10-15 areas on each specimen were surveyed at 10 kV and 90° incident angle. With the attached scanning electron microscope (SEM), the morphology of the surveyed area, such as interfacial pores, alloy grains and convoluted ridges or valleys of the interface could be distinguished. The scratch motion also caused pieces of oxide scales to flip over such that the underside of the spalled oxide could be analyzed as well. The composition at the scale underside was always only O and Al. All segregants remained on the alloy side after scale spallation. One specimen was examined using a PHI model 670 field emission AES (FEAES), which has a typical probe size of 30 nm [32]. This small probe provided the chemical analysis of individual facets on the alloy surface without any possible inclusion of nearby interfacial pores. A few alloys were also studied using a micro X-ray photoelectron spectrometer (µXPS) to distinguish the chemical states of the segregants [33]. X-ray diffraction (XRD) was used to identify the scale and alloy phases, and more detailed examination of the scale and interface morphology was performed using field emission SEM after the Auger analysis.
+
+Results and Discussions
+Iron Aluminides The only segregant found at the Al2O3/FeAl interfaces was sulphur. The amount of S as a function of oxidation time for the Fe40Al and the Fe3Al are presented in Figure 1(a) and (b) respectively. The surface atomic percent was calculated using peak heights and tabulated Auger sensitivity factors [34]. The coverage in monolayer was determined from the attenuation of the Fe signal compared to that of the starting alloy. On Fig. 1(a), results from FEAES are also included along with a entirely inward with time and all the S impurity in the alloy accumulates at the interface.
+25 20 15 10 5
+interface sweeping
+
+calculated S content (interface sweeping) assuming the interface grows
+
+(a)
+
+Sulfer content (monolayer)
+
+large µm-sized voids
+
+2.4
+
+Sulfur Content (at%)
+
+Figure 1: (a) Sulphur built up at Al2O3/Fe40Al interface studied with conventional Auger (FEAES); oxidation was carried out at 1000oC. (b) The change of interface S level with and field emission
+
+1.6
+Conventional AES FE-AES
+
+small voids oxide grain imprints
+
+1.0
+
+0.5 0
+
+0
+
+0.1
+(b)
+
+1 Oxidation Time (hr)
+
+10
+
+25 Sulfur Content (at%) 20 15 10 5 0
+
+Fe3Al void Fe3 Al interface Fe3 Al(Zr) interface Fe3 Al-H2 interface Fe3Al interface 900o C
+
+oxidation time at Zr-doped and H2annealed Fe3Al, and of Fe3Al oxidized at 900oC. 1000oC for Fe3Al,
+
+0.1
+
+1 10 Oxidation Time (hr)
+
+100 1E+002
+
+Representative microstructures indicated in Fig. 1 are given in Figure 2. The initially formed scale, Fig. 2(a), consisted of fine-grained  and -Al2O3, leaving a rather smooth and featureless interface. few facetted imprints on the alloy surface. After the -Al2O3 developed into a complete layer, the alloy surface was covered with facets where the -Al2O3 grains had been in contact with the alloy before scale spallation, Fig. 2(b). Occasionally, interfacial voids that Isolated -Al2O3 grains formed randomly at the interface and made a
+
+developed very early on and were several times larger than the oxide grains could be found. There were also smaller voids existing mainly at -Al2O3 grain junctions. These voids provide information on the segregation behaviour on free surfaces under the oxidation condition; hence can be used as a direct comparison between what was detected at the interface.
+
+Figure 2: SEM micrographs showing (a) the scale surface, formed on Fe40Al for 10 min at 1000oC, and the alloy surface after portion of the representative large µm-sized void at the Fe40Al alloy side of the scale/alloy interface after 1hr at 1000oC. At the free surfaces, or void faces, saturation was reached early. Using the model of Lea and Seah [35] and the bulk S content reported in Table 1, the rate to reach saturation gave an approximate S diffusivity diffusion in Fe and Ni-based alloys [36-38]. Although S usually segregate on metals at a saturation level of 0.5 monolyer [39], the amount found here on void faces is higher, especially on the large scale had spalled, (b) -Al2O3 grain imprinted interface area and a
+
+of 3 x 10-8 cm2/s at 1000°C, which falls within the range reported for S
+
+voids. Although the data points have been grouped together here with error bars, it has been shown in an earlier publication [#ref32] that the amount of S increased with void growth and that S co-segregated with Al to the void surfaces, but similar co-segregation was not found at the interface. The small probe of FEAES placed on individual imprinted grain facets on Fe40Al detected lower S content than that obtained from the conventional AES with a 0.5-1µm probe, indicating that the larger probe included sub-micron voids that had higher S contents (Fig. 1a). Nevertheless, the trend of S built up with oxidation time was not affected by the probe size. For the Fe40Al, no S was detected at the at the base of the first nucleated, isolated -Al2O3 grain imprints. S started to appear at the interface only after a complete -Al2O3 layer developed at the interface at about 1hr at 1000oC. As the scale grew, the interfacial S content increased slowly until a saturation level of about half a monolayer was reached. The amount of S detected at the interface was significantly higher than that calculated from interface sweeping. This indicates that sulphur indeed segregated to the interface during scale growth. The observed slow sulphur built up at Al2O3/Fe40Al interfaces is rather surprising. The rate is definitely not limited by S diffusion in the alloy, in light of that was observed on the void surfaces. Since the transition from the absence of S at the interface to its first appearance is related to the transformation of transition Al2O3 to -Al2O3, it is possible that the interfacial segregation behaviour is related to the type of interface formed between the alloy and the different aluminas. This is especially plausible because past results have indicated that the interface between the first formed  and/or -Al2O3, nor was it found
+
+interface between -Al2O3 and a single crystal NiAl is coherent, but the same is true for Fe40Al is unknown.
+
+becomes incoherent once -Al2O3 forms [#ref8]. However, whether
+
+Al2O3 grains, but only appeared after the -Al2O3 had impinged onto one another to form a complete layer at the interface suggests that segregation is not related to the phase of the alumina per se, but to
+
+The fact that S was not detected beneath isolated, first nucleated -
+
+the interface structure that must be changing continuously in response to the growth process, and in this case, probably the growth stress that arose from the impingement of -Al2O3 into a complete layer. To relax this stress, grains at the interface may undergo reorientation or rearrangements. These processes should alter the interface microstructure. As the microstructure changes, segregation energy will also change. The less coherent the interface, the more favourable it is for S to segregate. The process would be similar to that observed depends on the boundary structure [40,41], with the tilt angle probably being the most significant factor [42]. For the Fe3Al, the segregation behaviour at the interface was even at alloy grain boundaries, where the extent of solute segregation often
+
+more surprising (Fig. 1b). At both 1000 and 900°C, the S content was initially high, went through a minimum of almost zero, then increased Greater spatial variations, not related to alloy grains, exist at shorter oxidation times, as indicated by the larger error bars. This means that the sulphur content at the alloy surface under these initial scales the minimum point, the amount of S at different locations of the interface became much more uniform. The minimum for both layer of -Al2O3 at the interface. temperatures corresponded again to the development of a complete varied locally within the probe size of a 0.5-1µm diameter area. After slowly to a steady state level similar to that found on the Fe40Al alloy.
+
+Judging from how fast void surfaces were covered with S, the initial high sulphur content at the interface must be a result of segregation upon heating of the sample. Unlike Fe40Al, where the initially formed transition alumina/alloy interface was inaccessible to S, the interface here, or at least portions of it with sub-micro dimensions, somehow allowed this S segregation. As oxidation continues, the initially segregated S began to desegregate from the interface. Plane-view TEM examinations of the early stage scales revealed many randomly distributed "star-shaped" features, as illustrated in Fig. 3(a). The bands consisted of mainly -Al2O3 and some -Al2O3 grains that were significantly larger than those in the surrounding area, which seemed -Al2O3 at this early stage on Fe3Al is surprising. The 5%Cr in this to be a mixture of very fine-grained ,  and -Al2O3. The presence of
+
+Figure 3: TEM (a) bright field and (b) dark field micrographs of alumina scale formed on Fe3Al after 4.5 minutes at 900oC, with a selected area diffraction pattern (c).
+
+particular alloy may have assisted the -Al2O3 formation. The grains in the bands were preferentially oriented with the substrate, as seen from the higher intensity loci on the diffraction rings and the dark field image (Fig. 3b). The loci are arranged with a 6-fold symmetry about the direct beam. The arced loci indicates that not all grains in the bands have the exact epitaxial relationship with the alloy, but that they With longer oxidation time, the amount of -Al2O3 increased, and the volume fraction of these bands decreased from 22.6 to 13.9 to 0% when the oxidation time at 900oC increased from 4.5 to 30 to 190 min. This decreasing trend happened to match the initial decrease of the sulphur level at the interface. Is it possible that more S was coincidental? It is difficult to imaging why a nearly epitaxial oxide/alloy interface should accommodate S more favourably. Instead, maybe the change in S content was related to the change of present at the band/alloy interface, or is this relationship purely were constrained with a ~20o in-plane rotation from that relationship.
+
+the Al2O3 phase in the scale from predominantly  to . However, due to their small sizes and the overlapping diffraction rings of the three aluminas, phase identification has been difficult. Work is currently under way to better study the phases in different regions and to examine the interface with TEM on cross-sections of these scales.
+
+Fig. 1(b) also shows the absence of any detectable S on the Zr-doped or the H2-annealed Fe3Al. Interface area on the Zr-containing alloy was very difficult to find, since cohesive failure seldom occur at the could only be performed from limited small areas. Zr was not scale/alloy interface due to its high strength. Analyses of the interface detected, probably due to its low Auger sensitivity. A previous study on this particular alloy has detected Zr segregation at the interface using analytical TEM [43]; many other studies have also shown that RE segregates at scale/alloy interfaces [44]. The amount was quantified H2-annealed specimens spalled easily from the scratching force. by one study to be 0.2-0.3 monolayer [45]. The -Al2O3 scale on the Failure always occurred at the scale/alloy interface, although no S was ever detected [46,47]. Experimentally determined detection limit for S is better than 0.04 monolayer, so these apparently clean interfaces still failed cohesively.
+
+Figure 4: SEM micrographs morphology after oxidation at 1000oC. (a) Fe3Al, 3 hrs, and (b) Zr-containing Fe3Al, at 650N maximum load. (b) H2-annealed Fe3Al, 120h showing surface Al2O3 scale
+
+120h, after 4-point bend test
+
+Adhesion wise, scales formed on the Fe3Al specimen started to spall during cooling after their thickness reached ~0.3 µm. Shortly above
+
+this thickness, the interface also started convoluting [48]. An example of this morphology is given in Fig. 4(a) showing convoluted, or wrinkled, scale and interface, and areas where the scale spalled during cooling. Voids could also be found at these interfaces at the very early stage of oxidation; approximate void density corresponding to the scale thickness when spontaneous spallation began is given in Table 2. The H2-annealing not only prevented interfacial void formation, but also interface wrinkling such that it stayed fairly flat. Nevertheless, spallation in circular shapes still occurred after the scale reached about 3 µm, as seen in Fig. 4(b). The alloy with Zr addition also did not show any interface or scale convolution, but the interface appeared much stronger. Spallation during cooling was not observed. Scratching could hardly induce cohesive failure, as discussed earlier. A four-point-bend test was performed on this alloy with a scale maximum load of 650 N; only tensile cracking in the scale was observed (Fig. 4c). Table 2: Properties related to scale adhesion of different Fe3Al alloys oxidized at 1000oC. Alloy Fe3Al Fe3Al, H2annealed Fe3Al-Zr 2.6 0 <0.02 ~0.2 >1000 *thickness where spallation took place during cooling. Approximate interfacial energy (Gc) was determined using Gc   2t / E , the Young's modulus of the scale, and  is the residual stress in the and presented in Table 2; t and E are, respectively, the thickness and Scale (µm) 0.3 2.9 Interface (area%) 0.6 0 Interface Interface energy (J/m2) 4 70 formed at 1000oC for 120 hr. Even then, spallation did not occur at a
+
+thickness* pore density
+
+segregant (ML) S 0.35 <0.02 Zr -
+
+scale. For the Zr-containing alloy,  was taken as the maximum 4-pt bend load; for the other two, the thermal mismatch stress between the alloy and the oxide was used. Plastic deformation of the Fe3Al-Zr alloy during the bend test contributed to its high Gc value. Although these
+
+values may be off by a factor of 4 [49], they still provide a good indication of the relative effect of S and Zr on scale adhesion. According to the data summarized in Table 2, it can been seen that i) S in the alloy enhances void formation, ii) Zr prevents S segregation to the interface and iii) the S-free interface of the Zr-containing alloy is strengthening effect of Zr segregation to the interface. One last point that is worth discussing is the flatness of the scale on the H2-annealed and the Zr-doped alloy compared to that of the undoped starting alloy (Fig. 4). Similar results have also been reported for FeCrAl, where the scale/alloy interface on the normal purity alloy wrinkled extensively, but the interface remained flat when the alloy had been H2-annealed or contained a reactive element [50]. These results seem to indicate that the presence of S at the interface interface diffusion, as it does surface diffusion [51]; therefore enhancing material transport along the interface to assist kinetically this interface instability process. Nickel Aluminides The time dependence of interfacial segregation has not been studied on how the interface chemistry changes with oxidation time can be found in a recent publication [52]. The results reported here rich Ni-40Al and a S-doped Ni-40Al. The interface microstructures on NiAl and NI40Al after scale removal Al2O3 grain imprinted areas (identified as 'interface') and interfacial voids that deepened into the alloy, an example can be seen in Fig. 5a. The only difference is that there were less small voids between the Al2O3 grains. Segregation to the surface of NiAl was very dependent on its concentrate on comparing the behaviour of stoichiometric NiAl, Nifacilitates interface convolution. One possibility is that S enhances significantly stronger than the one without Zr, probably due to a bond
+
+as extensively on these alloys as on the other two types. Limited data
+
+were similar to those shown for the iron aluminides, consisting of -
+
+crystallographic orientation. This is indicated by more than one group of data given for each segregant in Table 3. Since carbon adsorption
+
+onto clean alloy surfaces often took place under the electron beam, especially if the sample surface was not very clean, the background C level could sometimes be rather high, giving rise to large standard faces. There was no S; B and P tended to segregate on different orientations. After 100 hrs, S began to segregate to the voids; reduced B segregation, but did not affect that of P. Table 3: Summary of impurity concentrations (in at%) on different Al2O3/NiAl interfaces after oxidation at 1000°C Alloy and consequently, the amount of C decreased. The presence of S also deviations. After 26 hrs at 1000°C, C was the major impurity on void
+
+Oxidation time NiAl, 26h
+
+Concentration on void faces (at%) C 2.8±3.4 16.2±1.0 24.9±2.0 0 0 S 0.1±0.3 P 1.5±0.2 0 0 B 12.5±5.5 7.9±0.5 9.5±0.8 13.6±4.5 0 0 8.3±2.8 10.6±1.3 8.9±0.5 8.3±0.2 0 0 0 0
+
+NiAl, 100h
+
+3.5±4.4 17.9±9.2 3.3±2.5 0 3.8±2.3 4.1±4.4
+
+3.0±0.9 0.5±0.5 8.0±0.6 9.0±1.3 0 0
+
+1.8±1.2 0.2±0.5 0 0 0 0
+
+Ni40Al, 26h Ni40Al(S), 1h NiAl, 26h NiAl, 100h
+
+Concentration on Interfaces (at%) 1.6±1.0 0 0 0
+
+1.5±0.2 Ni40Al, 26h Ni40Al(S), 1h 4.2±3.0 0 1.6±0.8 1.8±0.8
+
+The void faces of Ni40Al, on the other hand, were covered with a high concentration of S much earlier than NiAl. Since both the normal purity NiAl and Ni40Al have similar bulk sulphur contents (2-4 ppm), the difference in saturation rate must be the result of faster S diffusion in Ni40Al than in NiAl. From these segregation results, approximate S
+
+diffusion coefficients in the two alloys were calculated to be 6×10-9 cm2/s for Ni40Al and 1×10-9 cm2/s for NiAl. The much slower rate in stoichiometric NiAl is consistent with the fact that Ni diffusion in NiAl is almost 10 times slower than that in Ni40Al [53]. The magnitude of S diffusion calculated here is also in agreement with recent data from S segregation studies on NiAl surfaces [54].
+
+The interface areas on the NiAl were mostly free from any sulphur or carbon. Some areas contained boron, or phosphor and boron, but SEM observations were not able to associate any interface features with their presence. The occurrence of P and B decreased with longer oxidation time, up to 100 hours, and higher temperatures, up to even when S already segregated to the void surfaces. At the -Al2O3/Ni40Al interface, a small amount of sulphur was always detected with no other impurities. The amount of S at these interfaces is less than 2at% (about 0.2 monolayer), which is less than that observed on Fe40Al. The S-doped Ni-40Al, containing >30 ppm S, had similar interface chemistry as the normal purity Ni-40Al that contains only a few ppm of S. However, scale adhesion on the Sdoped specimens was extremely poor. After 26 hr oxidation, almost the entire scale spalled upon cooling, so only specimens with thin scales that formed for short times can be analyzed. The most pronounced effect of the S-doping was to increase the number of pores at the scale/alloy interface, as seen in Fig. 5. While the average 1150oC, yet the interface continued to be free from carbon or sulphur,
+
+Figure 5: SEM micrographs showing the alloy surface of after scratch induced scale spallation. (a) Ni40Al, 1000oC, 26h and (b) Ni-40Al(S), 1000oC, 10min.
+
+void density for the normal purity NiAl after 26 hr oxidation was (11.0±2.7)/100 µm2, for the S-doped after only 10min oxidation. Further oxidation resulted in coalescence and growth of these pores, causing extensive scale spallation during cooling. The segregation behaviour at -Al2O3/NiAl and Ni40Al interfaces again showed some interesting phenomena. First of all, here is an interface, Al2O3/NiAl, which did not show any S segregation, even when S already covered most of its void faces. Instead, some locations of this interface were found with small amounts of B or B and P. Secondly, an alloy with less Al, Ni40Al, but has the same phase and similar bulk impurity contents, forming an interface with the same type of oxide under the same oxidation conditions, consistently showed sulphur at its interface. Why should sulphur prefer one but not the other? Wetting studies of NiAl on sapphire [55], and theoretical analysis on metal/ceramic bonding [56] have shown that the interface energy between Ni(Al)/Al2O3 decreases with increasing Al activity near the alumina dissociation pO2. This would imply that the Al2O3/Ni40Al interface formed during oxidation has a higher energy than the Al2O3/NiAl interface, such that sulphur segregation may be more favoured on the Ni40Al to lower its energy. Whether the same difference will be observed between Fe40Al and FeAl would be worth investigating, especially since S has already been shown to segregate to Al2O3/Fe40Al interfaces (Fig. 1a). Another difference that might exist between the Fe and the Ni aluminides, which is currently being evaluated, is the build up of S with oxidation time, especially at the the -form. initial stage while the Al2O3 at the interface has not yet transformed to (0.7±0.5)/100 µm2, it was more than 10 times higher, at
+
+formed on these nickel aluminide alloys was found to be dictated by by pulling a 3mm diameter stub under continually increasing loads until failure occurred, which often took place at the scale/alloy
+
+Using a simple tensile pull-test [ref#52], the adherence of Al2O3 scales
+
+the number of interfacial pores, as seen in Fig. 6. The test was done
+
+interface. The stub was bonded to the oxide surface via an epoxy that has a maximum failure stress of 103 MPa. Analysis of interfacial pore density was conducted on each failed areas from SEM micrographs.
+
+The data points in Fig. 6 were obtained from several NiAl and Ni40Al alloys. Although S was present at the Ni40Al but not at the NiAl interfaces, its presence did not make a difference within the scatter of the data. The S-doped NiAl with a high pore density of 11/µm2 after only 10 min oxidation failed at 4.9 MPa, had the lowest interface strength tested so far. These results show very clearly that the dominating effect of S is to enhance interfacial pore formation. These defects deteriorate the interface strength more dramatically than any bond weakening effect caused by the presence of S at the interface. There seems to be some indications that for the same pore density, the interface under thicker scales are weaker. This may be a pore size effect, which was not taken into account. More work is being interface microstructure and chemistry.
+100 Interface sgrength (MPa) 80 60 40 20 0 0 0.5 1 2 Interface pore density (#/100µ m ) µ 1.5 26 hr 50 hr
+
+conducted on the effect of oxidation time, and to relate that to the
+
+oxidation at 1000oC and the pore density determined under each failed interface area. MCrAl Alloys
+
+Figure 6: Relationship between interface strengths of Al2O3/NiAl after
+
+Unlike the aluminides, these interfaces had a much higher sulphur concentration. On most of the interface areas, S built up as quickly as
+
+it would segregate to the free surface, reaching a high saturation level. Within the shaded band in Fig. 7(a), this saturation level is seen to be
+30 25
+
+(a)
+
+water quenched
+
+Sulfur Content (at%)
+
+20 15 10 5 0 0.1
+
+furnace cooled
+
+NiCrAl
+
+void interface 1000oC 900oC 1 10 100 1E+002
+
+Oxidation Time (hr)
+
+Figure 7: (a) S build up with oxidation time at Al2O3/FeCrAl interface. (b) Typical AES spectrum of the saturation level on most FeCrAl interfaces (shaded area) and (c), spectrum of the NiCrAl interface.
+
+rather insensitive to the oxidation temperature, the cooling rate, or any interface features, such as voids or the valleys and ridges that formed under the convoluted scale of FeCrAl, and the amount has been determined to be more than two monolayers [57]. Apart from S, the interfaces were also enriched with Cr (Table 4), where the average Cr content in the alloy was only 16.1at%. On the FeCrAl, there was in addition segregated carbon, but C was not found on the NiCrAl (Fig.
+
+7b, c). The dependence of segregants on cooling rates, seen in Table 4, clearly indicated that sulphur was present during oxidation; Cr was the interface during cooling due to the short diffusion distance and the abundance of Cr in the alloy. All the carbon diffused to the Al2O3/FeCrAl interface during cooling, which is consistent with its high diffusivity in bcc iron [58]. The driving force is the presence of excess Cr at the interface due to the tendency for chromium carbide formation. Since carbon diffusion in the fcc Ni is much slower [ref#58], it was absent on the NiCrAl interface. Direct relationships exist between interfacial concentrations of C and Cr, as well as S and Cr, and these have been shown elsewhere [59]. The concomitant during oxidation. Table 4: Composition (in at%) at different FeCrAl and NiCrAl interfaces. S Most common FeCrAl* at saturation 23.7±1.6 C 21.1±2.4 Cr 27.1±2.2 increase of S and Cr suggests their co-segregation to the interface slightly enriched at the oxidation temperature, and quickly diffused to
+
+Water quenched FeCrAl 25.3±1.1 Furnace cooled FeCrAl Low S level FeCrAl* NiCrAl* *cooling by air quench 24.2±0.7 11.8±1.9 22.5±0.7
+
+12.0±2.7 25.3±1.9 11.2±4.7 0.8±1.6
+
+19.3±1.4 27.5±5.8 18.7±2.6 20.8±3.8
+
+Occasionally, areas with lower sulphur contents were found on the
+
+FeCrAl, as seen from a group of data points below the shaded band on Fig. 7(a). Their average concentration, given in Table 4, showed much less Cr enrichment. The Cr content was close to that of the substrate found in the shaded band in Fig. 7. This lower concentration of interfacial sulphur compares well with the level found on the Al2O3/Fe40Al interfaces (Fig. 1a) where there was no Cr segregation. It (16.1%), and the S was about 50% lower than the most common levels
+
+is quite significant that much lower interfacial S was found when the surface was not enriched with Cr. The behaviour again points to cosegregation effects of Cr and S. The positive interaction of the two easily achieved and becomes much less sensitive to temperature can change the segregation coverage in a way that saturation is more changes [60]. Similar occurrences have been reported on free surfaces for Fe-Cr alloys [61] and there are also qualitative indications of S and Cr co-segregation onto a FeCrAl alloy surface upon heating [62]. Examination of the exposed FeCrAl surface after Al2O3 scale removal was also done using µXPS with a beam size of ~2 µm [ref#33]. Fig. the Al2O3/FeCrAl interface. Graphite and oxygen were surface
+Cr peak area (arb. unit) Fe
+
+8(a) shows the result of a slow depth profiling from the alloy side of
+
+oxide scale
+S Cr C Fe
+
+graphite Fe Cr S O carbide O
+
+alloy substrate
+
+Figure 8: XPS depth profile of FeCrAl surface after scale removal, and a proposed
+
+schematic of the segregatn
+0 2 4 6 8 10 12 14
+
+Sputter time (min)
+
+interface.
+
+structure on Al2O3/FeCrAl
+
+contaminants. The segregated elements, i.e. S, Cr and C, were present on the surface, where two regimes can be distinguished. The outer one was enriched with S and Cr and the inner one with Cr and carbide. Depth wise, the outer part was thinner and sharper, as seen from the sulphur profile. The inner part, on the other hand, had longer tails of decreasing Cr and C concentrations extending into the alloy, suggesting sluggish diffusion, which is consistent with the conclusion made earlier about Cr and C diffusing to the interface during cooling. All of the detected sulphur was present as sulphide that peaked at energies between 161-161.6 eV. For Cr, its metal, carbide and sulphide all have binding energies close to 574.5 eV [63-65]. However, the concomitant enrichments of S and C with Cr suggest that the chromium was present as a combination of Cr sulphide and
+
+carbide. Based on this depth profile and the quantitative analysis of the AES results, the structure of segregants at Al2O3/FeCrAl interfaces can be understood by the schematics shown in Fig. 8b. Although most of the C and Cr segregated during cooling, they should be present at a temperature before spallation took place, which was usually several hundred degrees lower than the oxidation temperature. Therefore, when the scale fails, the interface chemistry is that of multi-layer segregants. This structure is very different from a simple submonolayer inclusion of S at the interface. To date, there is no co-segregated with Cr and C, would affect adhesion. The H2-annealed NiCrAl behaved similarly to that of the Fe3Al, whereby spallation during cooling was significantly extended to thicker oxides, i.e., longer oxidation times, indicating improved scale adhesion. However, scratching under load, normally 500-1000g, could still cause scale fracture and fairly large areas of spallation that occurred at the scale/alloy interface (Fig. 9). AES analysis of these Figure 9: H2-annealed NiCrAl after 120h at 1000oC showing scratch induced spallation that took place at the Al2O3/alloy interface and a typical interface AES spectrum. theoretical calculation that predicts how such multi-layered sulphur,
+
+exposed interface area did not detect any segregants, not S or C. This is true on the underside of the scale as well. So again, apparently clean interfaces failed adhesively.
+
+Conclusions
+Studies of impurity segregation to growing Al2O3/alloy interfaces have shown the following: 1. Sulphur can surely segregate to intact Al2O3/alloy interfaces during scale growth.
+
+2. While NiAl and Ni40Al contain similar levels of indigenous
+
+sulphur impurity, S segregated to the -Al2O3/Ni40Al interface but was never detected at the -Al2O3/NiAl interface. The difference is probably related to a higher interface energy of the former.
+
+3. Sulphur was the only segregant found on the -Al2O3/Fe3Al, Fe40Al interfaces. It appeared after the -Al2O3 formed a complete layer at the interface. Prior to that, the Al2O3/Fe40Al interface was free from segregants, but S segregated to the Al2O3/Fe3Al interface upon oxidation but later desegregated. related to the continually changing interface microstructure between the first-formed alumina and those that developed at later stages. This dependence of interface S content on scale growth may be
+
+4. On FeCrAl and NiCrAl alloys, Cr co-segregated with sulphur interface at all times. Carbon also segregated to the aluminaFeCrAl, but not NiCrAl, interface during cooling. These results clearly demonstrate that impurity segregation to growing oxide/alloy interfaces can vary significantly on alloy compositions and on interface structures that result from the oxidation process. Relating segregation to limited interface fracture studies show that causing a higher than 1 monolayer S coverage at the Al2O3/alloy
+
+·
+
+The major effect of sulphur, as least in NiAl alloys, was to enhance interfacial void formation. This essentially created a weaker interface by increasing its defect concentration.
+
+·
+
+Sulphur-containing interfaces were weaker than S-free interfaces (<0.04 monolyer), although the latter can still fail adhesively. The interface formed on reactive element containing alloys was also S-free but much stronger, suggesting a positive effect of RE on scale adhesion, rather than just preventing S from segregating to the interface.
+
+Acknowledgment
+The author would like to thank Drs. Bruce Pint and Ian Wright of Oak Ridge National Laboratory for supplying most of the Ni and Fe aluminide alloys, and to Dr. James Smialek for supplying the NiCrAl alloy and performing the H2-annealing. This work was supported by the Director, Office of Energy Research, Office of Science, Division of Materials Sciences, of the U.S. Department of Energy under Contract No. DE-AC03-76SF00098.
+
+References
+1. 'TEM Studies of oxidized NiAl and Ni3Al cross sections', J. Doychak and M. Ruhle, Oxid. Met. 31 pp431-452, 1989. 31,
+
+2. 'The morphology of Al2O3 scales: indicators of phase, growth
+
+Shores, R. A. Rapp and P. Y. Hou, Electrochemical Society, Inc., pp7485, 1996. 3. 'Oxidation Behavior of FeAl + Hf, Zr, B', J. L. Smialek, J. Doychak, and D. J. Gaydosh, Oxid. Met., 34 pp259-275, 1990. 34,
+
+Fundamental Aspects of High Temperature Corrosion, ed. D. A.
+
+mechanisms, and grain boundary segregation', B. A. Pint, in
+
+4. 'The oxidation behaviour of NiAl. I. phase transformations in the alumina scale during oxidation of NiAl and NiAl--Cr Alloys', M. W. Brumm and H. J. Grabke, Corr. Sci., 33 pp1677-1690, 1992. 33,
+
+5. 'Transient oxidation of NiAl', J. C. Yang, E. Schumann, I. Levin and M. Ruhle, Acta mater., 46 pp2195-2201, 1998. 46,
+
+6. 'TEM observation of phase transformations of alumina scales formed on Al-Deposited Fe-Cr-Al foils', A. Andoh, S. Taniguchi and T. 369-372 Shibata, Mater. Sci. Forum, 369-372, pp303-310, 2001.
+
+1048, 1995.
+
+K. Nadarzinski, E. Schumann and M. Rühle, Scripta Met., 33 pp104333,
+
+7. 'Electron Microscopy Studies of NiAl/-Al2O3 Interfaces', J. C. Yang,
+
+8. 'Chemistry and bonding investigations of NiAl/-Al2O3 Interfaces', 29, Phys., 29 pp1716-1724, 1996. J. C. Yang, E. Schumann, H. Müllejans and M. Rühle, J. Phys. D: Appl.
+
+9. 'Oxidation behaviour of Fe-20Cr-5Al rare earth alloys in air and
+
+synthetic exhaust gas', D. R. Sigler, Oxid. Met., 36 pp57-80, 1991. 36, 10. 'Strain determination in thermally-grown alumina scales using fluorescence spectroscopy', D. Renusch, M, Grimsditch, I. Koshelev, B. W. Veal and P. Y. Hou, Oxid. Met., 48 pp471-495,1997. 48,
+
+39, oxidation of alumina formers', J. Jedlinski, Oxid. Met., 39 pp55-60, 1993.
+
+11. 'Comments on the effect of yttrium on the early stages of
+
+12. 'Effect of the - Al2O3 transformation on the oxidation behavior of
+
+-NiAl + Zr', G. C. Rybicki and J. L. Smialek, Oxid. Met., 31 pp27531,
+304, 1989.
+
+13. 'Transport properties of alumina scales on the beta-NiAl
+
+intermetallic', J. Jedlinski, G. Borchardt and S. Mrowec, Solid State
+
+Ionics, 50 pp67-74, 1992. 50,
+
+14. 'A study of the growth of -Al2O3 scales using high-resolution
+
+imaging secondary ion mass spectrometry', R. Prescott, D. F. Mitchell and M. J. Graham, Corr., 50 pp62-71, 1994. 50,
+
+15. 'The effect of yttrium on the growth process and microstructure of
+
+-Al2O3 on FeCrAl', C. Mennicke, E. Schumann, M. Ruhle, R. J. Hussey,
+G. I. Sproule and M. J. Graham, Oxid. Metals, 49 pp455-466, 1998. 49,
+
+16. 'Oxidation behaviour of NiAl. II. cavity formation beneath the oxide
+
+Corr. Sci., 34 pp547-561, 1993. 34,
+
+scale on NiAl of different stoichiometries', M. W. Brumm, H. J. Grabke,
+
+17. 'Analysis of pore formation at oxide/alloy interfaces, part I.
+
+experimental results on FeAl', P. Y. Hou, Y. Niu and C. Van Lienden,
+
+Oxid. Met., 59 pp41-61, 2003. 59,
+
+18. L. B. Pfeil, U. K. Patent No. 459848, 1937. 19. 'Improvements in high temperature oxidation resistance by additions of reactive elements or oxide dispersions', D. P. Whittle and J. Stringer, Phil.. Trans. R. Soc. Lond., 295 295,.pp309-29,1980.
+
+16A, 16A pp1164-1166,1985.
+
+A. W. Funkenbusch, J. G. Smeggil and N. S. Bornstein, Metall. Trans.,
+
+20. 'Reactive element-sulphur interaction and oxide scale adherence',
+
+21. 'On the reasons for the effects of dispersions of stable oxides and additions of reactive elements on the adhesion and growthmechanisms of chromia and alumina scales-the sulphur effect', D. Lees, Oxid. Met., 27 75-92, 1987. 27,
+
+22. 'Effect of sulphur removal on Al2O3 scale adhesion", J. L. Smialek,
+
+Metall. Trans. 22A pp739-752, 1991. 22A,
+
+23. 'Some comments on the role of yttrium in protective oxide scale 87, adherence', J. G. Smeggil, Mater. Sci. Eng., 87 pp261-265, 1987.
+
+on the cyclic oxidation resistance of superalloys: a review', J. L. 235, 235 pp285-292, 1994.
+
+24. 'Effects of hydrogen annealing, sulphur segregation and diffusion
+
+Smialek, D. T. Jayne, J. C. Schaeffer and W. H. Murphy, Thin Solid Films,
+
+25. 'Grain boundary segregation", P. Seah and E. D. Hondros, Proc. R.
+
+Soc. Lond. A, 335 pp191-212, 1973. 335,
+
+26. 'Influence of sulphur on the adhesion of the nickel/alumina for publication in Phys. Rev. B.
+
+interface', W. Zhang, J. R. Smith, X. G. Wang and A. G. Evans, accepted
+
+27. 'Sulphur at nickel-alumina interfaces: molecular orbital theory', Y. 1990. 230 Hong, A. B. Anderson and J. L. Smialek, Surf. Sci., 230, pp175-183,
+
+28. 'Effect of interfacial carbon on adhesion and toughness of gold-
+
+sapphire interfaces", D. M. Lipkin, D. R. Clarke and A. G. Evans, Acta
+
+metall., 46 pp4835-50, 1998. 46,
+
+29. 'Plasticity at multiple length scales in metal-ceramic interface 166, fracture', Phys. Stat. sol. (a), 166 pp7-17, 1998.
+
+30. 'Effect of sulphur on the fatigue and fracture resistance of pp1977-1983, 2000.
+
+interfaces between -Ni(Cr) and -Al2O3', Metall. Mater. Trans. A, 31A 31A,
+
+31. 'Observation of oxide/metal interface using scanning Auger microscopy with an in-situ scratch technique', P. Y. Hou and J. Lorimer, pp362-368, The Inst. of Metals, 1991. Stringer, in Microscopy of Oxidation, ed. M. J. Bennett and G. W.
+
+emission-Auger electron spectroscopy', P. Y. Hou and John Moskito,
+
+32. 'Sulfur distribution on Al2O3/FeAl interfaces studied by field
+
+Oxid. Met., 59 pp559-574, 2003. 59,
+
+33. 'Chemical state of segregants at Al2O3/alloy interfaces studied using µXPS', P. Y. Hou and G. D. Ackerman, Appl. Sur. Sci., 178, 178 pp156-164, 2001.
+
+C. MacDonald, P. W. Palmberg, G. E. Riach and R. E. Weber, Physical Electronic Industry Inc., 1978.
+
+34. Hand Book of Auger Electron Spectroscopy, 2nd edition, Davis, N.
+
+35. 'Kinetics of surface segregation', C. Lea and M. P. Seah, Phil. Mag., 35, 35 pp213-228, 1977.
+
+61, 36. Defect and Diffusion Forum, eds. G. E. Murch and D. J. Fisher, 61 pp167-210, 1988.
+
+37. "Diffusion of sulphur from the grain boundaries to the surface in polycrystalline nickel", R. LeGall, E. Querard, G. Saindrenan, H. Jourton and D. Roptin, Scripta Mater., 35, pp1175-1181, 1996. 35 Castleman, Metall Trans, 3, pp2561-2564, 1972.
+
+38. "Diffusion of sulphur into thoriated nickel", R. K. Hotzler and L. S. 39. Surface Segregation Phenomena, 1st ed., P. A. Douben and A. Miller, eds., CRC Press, Boca Raton, FL, 1990.
+
+Interfacial Segregation, pp193-237, ed. W. C. Johnson and J. M.
+Blakely, ASM, 1977. 41. 'Anisotropy of interfacial segregation: grain boundaries and free
+
+40. Grain boundary structure and segregation', R. W. Balluffi, in
+
+surfaces", P. Lejcek, A. V. Krajnikov, Yu.N. Ivashchenko and J. Adamek,
+
+Surf. Sci., 269/270 pp1147-1151, 1992. 269/270,
+
+42. 'Solute-atom Segregation to <110> symmetric tilt grain pp3191-3202, 1997.
+
+boundaries', J. D. Rittner and D. N. Seidman, Acta mater., 45 45,
+
+43. 'Microstructure of alumina scales and coatings on Zr-containing Tortorelli, in Microscopy of Oxidation 3, pp246-255, J. B. Newcomb
+
+iron aluminide alloys', K. B. Alexander, K. Prüßner, P. Y. Hou and P. F. and J. A. Little eds., The Institute of Metals, 1997.
+
+44. See for example: 'Grain boundary segregation of cation dopants in
+
+-Al2O3 scales', B. A. Pint and K. B. Alexander, J. Electrochem. Soci.,
+145, 145 pp1819-29, 1998.
+
+45. 'Segregation studies of oxidized Y and Zr doped NiAl', E. pp218-222, 1995.
+
+Schumann, J. C. Yang, M. J. Graham and M. Rühle, Werk. und Korr., 46 46,
+
+46. 'The effect of H2-anneal on the adhesion of Al2O3 scales on a pp79-85, 2000.
+
+Fe3Al-based alloy', P. Y. Hou and J. L. Smialek, Mater. High Temp., 17 17,
+
+1999.
+
+47. 'Beyond the sulphur effect', P. Y. Hou, Oxid. Met., 52 pp337-351, 52,
+
+48. 'Interface convolution and its effect on alumina scale spallation', P.
+
+Aspects of High Temperature Corrosion, ed. D. A. Shores, R. A. Rapp
+and P. Y. Hou, pp28-40, Electrochem. Soc., 1997.
+
+Y. Hou, R. M. Cannon, H. Zhang and R. L. Williamson, in Fundamental
+
+49. 'Steady-state cracking in brittle substrates beneath adherent films', 1989. 25, Z. Suo and J. W. Hutchinson, Int. J. Solids Struct., 25 pp1337-1353,
+
+50. 'Effects of reactive element additions and sulphur removal on the oxidation behaviour of FeCrAl alloys', M. C. Stasik, F. S. Pettit, G. H. Meier, S. Ashary, and J. L. Smialek, Scr. Metall. Mater., 31 pp164531, 1650, 1994.
+
+51. 'Influence of adsorbed S on surface reaction kinetics and surface
+
+Surf. Sci., 67 pp501-516, 1977. 67,
+
+self-diffusion on Fe', H. J. Grabke, E. M. Petersen and S. R. Srinivasan,
+
+52. 'Chemical and morphological changes at Al2O3/NiAl interfaces and
+
+their relationship to scale adhesion', P. Y. Hou, to be published in High
+
+Electrochemical Society.
+
+Temperature Corrosion and Materials Chemistry, IV, The
+
+53. 'Ni tracer diffusion in the B2-compound NiAl: Influence of temperature and composition', St. Frank, S. V. Divinski, U. Sodervall 49, and Chr. Herzig, Acta mater., 49 pp1399-1411, 2001. 54. 'Sulphur segregation to free and oxidized NiAl(001)', Surf. Inter. 404, 2002.
+
+Ana, L. Rivoaland, V. Maurice, M.-P. Bacos and P. Marcus, 34 pp40034,
+
+55. 'Reactive spreading: adsorption, ridging and compound formation', E. Saiz, R. M. Cannon and A. P. Tomsia, Acta mater., 48 pp444948, 4462, 2000. 56. 'The connection between ab initio calculations and interface Cu/Al2O3', Acta Mater., 50 pp3803-3816, 2002. 50, adhesion measurements on metal/oxide systems: Ni/Al2O3 and
+
+57. 'Concentration dependence of the diffusivity of carbon in (-Fe)-C and in Ni-C solid solutions', J. Kucera, B. Million, K. Stransky and J. A110, Vrestal, Mate. Sci. Eng. A, A110 pp209-16, 1989.
+
+Metally, 1, pp119-22, 1999.
+
+58. 'Carbon diffusion in Ni-C, Co-C, and Fe-C alloys', V. N. L'nyanoi,
+
+59 'Compositions at Al2O3/FeCrAl interfaces after high temperature oxidation', P. Y. Hou, Mater. and Corr., 51 pp329-337, 2000. 51,
+
+304, 1996.
+
+features and phase transitions', C, Uebing, Prog. Surf. Sci., 53 pp29753,
+
+60. 'Surface cosegregation phenomena on alloys and steels: structural
+
+61. 'Formation of surface compounds on Fe--15% Cr{100} single 225, crystals', C. Uebing, Surf. Sci., 225 pp97-106, 1990.
+
+oxidation", V. K. Tolpygo and H. Viefhaus, Oxid. Met., 52 pp1-30, 52, 1999.
+
+62. 'Segregation at the Al2O3-FeCrAl interface during high temperature
+
+63. Handbook of X-ray Photoelectron Spectroscopy, ed. J. Chastain 1992. 64. 'AES-XPS study of chromium carbides and chromium iron
+
+and R. C. King, Jr., Physical Electronics, Inc., Eden Prairie, Minnesota,
+
+Appl. Surf. Sci., 144-145 pp78-82, 1999. 144-145,
+
+carbides', M. Detroye, F. Reniers, C. Buess-Herman and J. Vereecken,
+
+65. 'XPS Characterization of chromium films deposited from Cr(CO)6 at
+
+248 nm', R. Nowak, P. Hess, H. Oetzmann and C. Schmidt, " Appl. Surf.
+
+Sci., 43 pp11-16, 1989. 43,
+

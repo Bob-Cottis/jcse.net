@@ -1,0 +1,410 @@
+ISSN 1466-8858 Volume 10 Preprint 29 10 April 2007 Mechanical / Electrochemical Characterization of Surfaces of Electropolished 316L Stainless Steel for Orthopedic Implant Applications: Part 1 Vrishali Madav, Dr, R. Raman, Dr. S.N.Malhotra, Dr. Sardesai Corrosion sciences and Engineering (IDP), Indian Institute of Technology Bombay, Mumbai 400076, MH, India
+
+Abstarct Electropolishing is the method of obtaining extremely smooth surfaces. It is also observed that Electropolishing of stainless steel have enhanced localized corrosion resistance as compared to mechanically prepared surfaces. For biomedical applications such as orthopedic implants it is required that near zero defects surface is ensured .This work studies Electropolishing of solution annealed and cold rolled 316L stainless steel and characterizes the surface physically for roughness, topography and electrochemically for localized corrosion. Characterization techniques involve Profilometry, Specular reflection, SEM, AFM, Ellipsometry, XPS, polarization studies in Hank's solution, and Micro- cell Ecorr noise studies to estimate localized corrosion resistance. The results are compared with nitric acid passivated 316L stainless steel surfaces also. This part summarizes and discusses the results of characterization techniques like profilometry, specular reflection, SEM, AFM and ellipsometry.
+
+Surfaces with various degrees of roughness (Ra() 0.09 and 0.14 ) exhibited
+
+similar specular reflectance (71-91%) in the visible range of spectrum. In
+
+addition, Surface roughness described only in terms of Ra values may not truly describe the extremely large hills or valleys as expressed by the parameters like Rz, and Rmax. AFM studies revealed the existence of equiaxed peculiar `diamond' shaped feature (cell width roughly 100nm) upon solution annealed and electropolished sample surface whereas cold rolled and electropolished sample surfaces exhibited `striped' feature. SEM results also substantiate AFM outcomes. Increasing degree of cold work has its own effect over the surface roughness achieved at the end of surface treatments. the thickness of the oxide film two to three times of the original. Electropolishing or nitric acid passivation of 316L stainless steel enhances
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Keywords : Electropolishing, 316L stainless steel, Profilometry, AFM, Ellipsometry.
+
+Volume 10 Preprint 29
+
+10 April 2007
+
+1.Introduction Importance of Electropolishing is deeply studied by the researchers1-3. It can be brought out in brief as follows: To Achieve Bright, Smooth, Appealing surface, To remove strains, metal debris and embedded abrasives, enrichment in the surface, To decrease wear and fretting corrosion, To decrease the surface wettability, Improving texture, Finishing of complex geometries, etc. The surface roughness, texture and localized corrosion resistance are the most important characteristics for stabilizing tissue-implant interface. The proliferation and differentiation of osteoblastic cells is hampered when corrosion products are released due to loss of passivity4. Nevertheless the Electropolished surface can hardly grow any germs over it5. To decrease the possibility of contamination of the surface, extreme smoothness is required (in the order of, RMS value equals to nanometer) as enhanced roughness may increase bacterial adhesion6. Also A rough bone implant surface is conceptualized7 as being built up of closely situated pits of different shapes and sizes. The parameters like `Pit effectivity expressing resistance towards shears and "Pit density factor" describing how densely packed the pits are being studied in depth to establish the relation between surface roughness and interfacial shear strength for bone anchored implants. Pits, cavities, and protrusions of similar size to proteins (1-10nm) and cells (1-100nm) can play an important role8. Growing cells respond to micro topography of the surface. Rougher surfaces were found to inhibit cell proliferation as well as give rise to more found to have considerably smooth surface and; showed significantly fewer
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+To remove distorted surface layer, To reduce pit initiation sites, Chromium
+
+factor',
+
+describing
+
+the
+
+effectiveness
+
+of
+
+the
+
+individual
+
+pit
+
+differentiated phenotypes8. However Electropolished stainless steel was
+
+ISSN 1466-8858 Volume 10 Preprint 29 10 April 2007 bacterial cells on it and beginning early bio-film formations than the other treated surfaces2.
+
+Enhancing the biocompatibility of the 316L stainless steel surfaces motivates us to characterize the electropolished surfaces and compare those with mechanically finished and nitric acid passivated surfaces.
+
+Various annealed and cold rolled stainless steel 316L surfaces are subjected to optimized Electropolishing treatment9. To compare the results another set is nitric acid passivated10 also. These surfaces are observed for SEM, profilometry, specular reflection, AFM and ellipsometry. 2.Experimental 2.1 Sample Preparation 316L plate is cut in to 25mm*25mm squares with thickness ~ 3 mm. four types of bulk treatments are carried out namely; Solution anneal (Temp. ~ 10500C Soak time ~24 min Quench in water), 10%cold worked, 20%cold worked and 40%cold worked. All sample surfaces are cleaned and grit blasted to achieve 0.3 micron Ra value as a start roughness value. Two sets were prepared out of these treated samples; viz electropolished and mechanically buffed plus nitric acid passivated. Hence in all 8 types of samples were produced. Solution annealed and electropolished(SAEL), 10% cold rolled and electropolished(10EL) , 20% cold rolled and electropolished(20EL), 40% cold rolled and electropolished(40EL), Solution annealed and mechanically buffed plus nitric acid passivated(SABUFF), 10% cold rolled and mechanically buffed plus nitric acid passivated(10BUFF) , 20% cold rolled and mechanically buffed plus nitric acid passivated(20BUFF), 40% cold rolled and mechanically buffed plus nitric acid passivated(40BUFF).
+Ultrasonic Solvent Degreasing Alkaline Degreasing Swill; rinse in water & dry
+
+Rinse in running
+
+water and Drying
+
+Electro- polishing
+
+Fig 1 Steps followed in Electropolishing
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+Rectifier
+
+Volume 10 Preprint 29
+Thermometer
+
+10 April 2007
+
+Ti fixture Lead cathode Sample anode
+
+Aspirator Hotplate - Stirrer
+
+Fig 2 Electropolishing Setup Commercial electropolishing bath supplied by Canning ­ Mitra ­ Phoenix India Limited was used. The required number of samples are Nitric acid passivated with bath Concentration as 25% HNO3 maintaining the temperature at 50 0C for 20 min.
+
+2.2 Characterization The obtained surfaces were characterized with the techniques like specular reflection, surface profilometry, scanning electron microscopy , AFM and ellipsometry. 2.2.1 Specular reflection Instrument: SHIMADZU, UV- VIS spectrometer Model: UV-160 A is used to measure the specular reflection With specular reflectance attachment. (Measuring wavelength range: 200- 1100nm, Standard mirrors: aluminum coated mirrors) 2.2.2 Surface profilometry Prior to and after surface treatment, the surface roughness was measured with the help of Stylus method Stylus method profilometer, Mahr Perthometer M2. The parameters used were as follows: Profile resolution: 12 nm, Tracing speed: 0.5 mm/sec, Stylus tip radius 2 , cone ange 900, Length of travel: 5.6 mm, Cut off length: 0.8mm 2.2.3 Scanning electron microscopy These microscopic pictures of the topography of a surface are taken on `Cambridge instruments ­ Model Stereoscan S90B.
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 29 2.2.4 Atomic force microscopy
+
+10 April 2007
+
+Atomic force microscopy is done on CP-R machine scanning probe microscope branded as Thermomicroscopes located at ACRE, Mumbai. The instrument was operated in contact mode where mainly repulsive forces work while tip- surface interaction. Tip of the radius used is 10 nm 2.2.5 Ellipsometry The ellipsometry data for the passive oxide films on polished SS surfaces were measured with a Spectroscopic Phase Modulated Ellipsometer (Model nm 3.Results and Discussion 3.1 Specular reflection Table 1 % Specular reflection in visible range of spectrum for various surfaces %Reflection in spectrum for 350nm­ Surface prep Before treatment SAEL 10EL 20EL 40EL SABUFF 10BUFF 20BUFF 40BUFF 5 -10% 5 -10% 5 -10% 5 -10% 5 -10% 5 -10% 5 -10% 5 -10% 900nm After treatment 67-92% 70-97% 72-95% 71-91% 66-93% 68-100% 60-90% 52-87% UVISELTM 460, ISA JOBIN-YVON SPEX) in the wavelength range of 300-1000
+
+Note: The reflection of standard aluminium
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 29 coated mirror is Considered as 100 %
+
+10 April 2007
+
+Two surfaces appearing similar in optical brightness may differ in the smoothness of the surface. e.g. Solution annealed- Electropolished surface and 40% cold worked -Electropolished surface both showed specular 0.09 reflectance as 71-91% (Table1) but exhibited surface roughness (Ra () ) as and 0.14 / 0.08 respectively(Table2). Thus, it is obvious from the
+
+results that only mirror bright surface does not ensure optically smooth surface especially when surface roughness becomes comparable with the wavelength of light.
+
+All the 8 samples showed more or less same reflectivity in the range of 70 ­ 100 % irrespective of the initial sample surface preparation. 3.2 Surface profilometry Table2 Roughness parameters evaluated for various surfaces Ra()Aprox. Surface. Preparation. Ra() Final SAEL 10EL 20EL 40EL SA BUFF 10 BUFF 20 BUFF 40 BUFF 0.09-0.10 0.05-0.09 0.09-0.15 0.08-0.14 0.02-0.12 0.08-0.10 0.04-0.06 0.04-0.06 Rq() Final 0.13-0.17 0.07-0.15 0.12-0.18 0.09-0.18 0.03-0.05 0.09-0.12 0.05-0.08 0.04-0.07 Initial(0.34) Rq()Aprox. Initial (0.45) Rmax()Apro x Initial(3.66) Rmax() Final 1.67-2.68 0.60 0.77 0.61-1.03 0.53-1.05 0.14-0.29 0.53-0.83 0.38-0.41 0.38-0.47 Rz()Apro x Initial (3.08) Rz() Final 0.79-0.9 0.38-0.64 0.47-0.79 0.44-0.70 0.12-0.21 0.44-0.52 0.22-0.33 0.23-0.28
+
+In the earlier stages of experimentation it was observed that a small uniform roughness given (by grit blasting in the order of 0.3 as Ra value) prior to
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 29 10 April 2007 electropolishing worked advantageously for the following reason: In roughened state the surface atoms are more active and this may lead to rapid dissolution reaction while Electropolishing. The phenomenon may be leading to quick formation of viscous compact layer, which may not be the case with mechanically smoothened surface. In fact, only mechanically buffed surface roughness of the surface may not be uniform, plastic deformation associated after Electropolishing becomes more deteriorated because The initial with mechanical buffing may not be uniform, thus lead to non-uniform dissolution during Electropolishing, lack of concentration gradients on the smooth surface may result in to relatively slow increase in metal ion concentration around the anode, and thus the establishment of the polishing conditions may require a longer time with a smooth surface than with a rougher surface. The roughness parameters denoted in Table2 viz. Ra, Rq, Rmax, and Rz are dependent upon .the several factors like Time of Electropolishing, Current density applied, Temperature, Air agitation, Stirring, and Initial surface roughness In case of Electropolished samples as degree of cold rolling increases the Ra value also increases, where as parameters like Rq, Rz, Rmax do not differ much. The smoothest surface is obtained in case of solution annealed, fine sand blasted and Electropolished sample. Buffed and nitric acid passivated samples do not show such trends. Ra value in vertical direction. i.e. in the direction of rolling ,is found lesser than in the horizontal direction in case of Electropolished samples.
+
+Parameters like Rz and Rmax decide the presence of deep valleys over the surface which in turn decides the localized corrosion resistance. Therefore the controlled roughness shall be only that where these parameters are also minimized. 3.3 Scanning electron microscopy Solution annealed and Electropolished sample (Fig3) did not show any particular feature in SEM imaging (~2000X).where as irrespective of the treatment given to the samples; all the cold worked samples (Fig5, Fig6) showed the oriented features over the surface. This orientation changes across the grain boundary. This supports the thought that preferential attack
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 29 10 April 2007 has been occurred over the planes. The identification of these planes can become a further matter of study.
+
+A definite pattern confirmed in SEM images may be reasoned out with concept of crystallographic etching11.
+
+Fig 3 Solution annealed and Electropolished surface(2090X)
+
+Fig 4 Solution annealed and buffed ­ nitric acid Passivated surface (2080X)
+
+Fig 5 40%cold worked and Electropolished surface (2080X)
+
+Fig 6 40%cold worked-buffed ­nitric acid Passivated surface (2050X)
+
+3.4 Atomic force microscopy Table 3: Roughness parameters obtained from AFM for the final samples Surface treatment SAEL 10EL 20EL 40EL SABUFF 20BUFF 5.76 4.015 8.072 6.145 11.01 8.329 0.6824 1.410 0.6657 0.9031 4.09 2.395 Ra (nm) Rq (nm) Distance between two furrows (nm) 102.8 246.5 342 745.9 147 221.5 Electropolished as well as mechanically buffed and nitric acid passivated
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 40BUFF
+
+4.926
+
+Volume 10 Preprint 29 1.713 541.5
+
+10 April 2007
+
+Fig 7 Solution annealed and Electropolished surface
+
+Fig 8 Solution annealed and mechanically buffed-nitric acid passivated surface
+
+Fig 9 no 40%cold worked and Electropolished surface
+
+Fig 10 40% cold worked and mechanically buffed-nitric acid passivated surface
+
+Atomic force images obtained reveal the existence of `nano roughness' and definite topography on all the Electropolished as well as buffed and nitric acid passivated surfaces. Solution annealed and Electropolished surface (Fig7) showed characteristic `diamond' shaped topographical feature equiaxed in orientation. The cell width is observed to be around 102 nm. The equiaxed distribution of "diamond shape" feature can be related to the uniform stress distribution over the surface where the applied voltage truly falls in the electropolishing zone of anodic polarization curve locally also. Whereas in all other cold worked-Electropolished (FI9, Fig10) and
+
+mechanically buffed -nitric acid passivated sample(Fig 8), stripes are observed. These stripes cause ridges and furrows to exist on the surface. The material at the site of furrows is removed at a faster rate than at the ridge locations. This fact suggests the preferential attack over a certain planes. It is reported that11 densely packed planes(e.g.(111) in case of 316L stainless steel) being high energy planes ,undergo preferential electrochemical attack in the etching region of the anodic polarization curve, that in turn produces `stripes' on the surface. Though the applied voltage is falling within the Electropolishing
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 29 10 April 2007 region, the cold worked state of the material makes it more reactive, causing etching effect, phenotypicaly expressed by `stripes'. More over as degree of % cold worked and Electropolished sample, it is 108.2 nm and for 40 % cold cold worked -buffed and nitric acid passivated samples also. cold working increases the distance between two ridges increase. e.g. for 10 worked and Electropolished it is 745.9 nm. The same trend is observed in
+
+In fact `though solution annealed', instead of exhibiting diamond like pattern ; buffed and nitric acid stripes. This may be explained with the little amount of cold wok experienced
+
+passivated sample also exhibited same kind of
+
+at the time of buffing the surface, where the material is not only abraded but also plastically deformed producing strained lattices1. 3.5 Elipsometry
+33
+31
+
+B-1
+
+140
+
+B-3
+32
+
+130
+
+30
+
+130
+
+31
+
+120
+
+29
+
+30
+120
+
+(deg)
+
+110
+
+ (deg)
+
+110 27 100 26
+
+ (deg)
+
+28
+
+28
+
+100
+
+27 90
+
+:Theoretical plot : experimental points
+
+26
+90
+
+25 80
+
+25
+
+o,
+
+:experimental points : theoretical plot
+
+80
+
+24
+24
+
+300
+
+400
+
+500
+
+Wavelength (nm)
+
+600
+
+700
+
+800
+
+900
+
+70
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+40
+
+Fig 11 SS 316L as received mechanically buffed
+B-5
+
+Wavelength (nm)
+
+Fig. 12 SAEL
+120
+
+36
+
+140
+
+B-2
+110
+
+130 34
+
+35
+
+100 30 90
+
+120 32
+
+(deg)
+
+ (deg)
+
+25
+
+ (deg)
+
+80 20 70
+
+30
+
+100
+
+28
+15
+
+90
+
+o,
+
+:experimental points : theoretical plot
+
+60
+
+26
+50
+
+:experimental point :theoretical plot
+
+80
+
+10
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+70
+
+Fig 13: SABUFF
+
+Wavelength (nm)
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+Fig 14 40EL
+
+Wavelength (nm)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+(deg)
+
+110
+
+(deg)
+
+29
+
+ISSN 1466-8858
+
+Volume 10 Preprint 29
+
+10 April 2007
+
+Table 4 Chromia as an oxide layer and it's thickness for various surfaces Surface treatment for 316L Stainless steel As received, mechanically buffed SAEL 10EL 40EL SABUFF Thickness of Cr2O3 films 51.43 Å 115.33 Å 90.63 Å 75.32 Å 188 Å
+
+As received stainless steel surface showed the thinnest passive chromia film (~50 A0) in ellipsometry studies(Table4). The subsequent treatment; either Electropolishing or nitric acid passivation enhances the thickness of the oxide film two to three times of the original. The postulated main mechanism of the growth of this film is anion migration (O-2 ) from the interface towards the bulk substrate material, after exposure to the ambient air12. In stainless steel electropolishing it is the preferential attack over iron which makes the surface more enriched in chromium .In electrochemical series gets converted in to Cr2O3 . i.e. passive film that spreads over the surface and protects the further dissolution of chromium. This fact supports the extra grown thickness of chromia in Electropolished samples . Nitric acid being strong oxidizing agent reacts vigorously with stainless steel surface and oxidizes it further to form the stronger chromia layer The ellipsometry results (Table4) show the highest thickness of chromia in least in (in treated samples) 40 % cold worked and Electropolished sample. According to Covino13 dissolved oxygen plays important role in the formation of passive film. Passive film requires a balance of film breakdown and film repair process. The repair process is supported by dissolved oxygen. Under deaerated conditions the thickness shows increase14. In the absence of sufficiently oxidizing conditions, a defective passive film is formed which
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+chromium is more reactive than iron .but as soon as it starts dissolving Cr+3
+
+mechanically buffed -nitric acid passivated surface i.e.~188 A0 .where as it is
+
+ISSN 1466-8858 Volume 10 Preprint 29 10 April 2007 builds up to a higher thickness due to percolation of species through it. This accounts for the higher thickness14
+
+The misfitting (to more extent when compared with Electropolished samples) nitric acid passivated surface (Fig13) suggest the lesser reliability of the data theoretical and experimental  and  curves for mechanically buffed and
+
+in a sense that more and more impurities like iron oxides, nickel oxides and hydroxides could be present in the protective chromia layer14. The composition of the oxide layer can be judged by calculating the refractive of chromia is getting reduced in case of Electropolished samples 4 Discussions so far and its relevance to biocompatibility Rougher surfaces are always considered as negative property when ever stainless steel orthopedic implant application is considered. Electropolishing achieves surface smoothness in the order of nanometers, exploiting other benefits like textural evolution and chromium enrichment . All the eight samples exhibited different properties in terms of surface roughness, topographical features, thickness of passive film etc. Still all the surfaces appeared almost equally bright to the specular reflection studies. Only brightness may not ensure the surface smoothness when such a critical, vital application is considered where health and safety of the patient is of the prime concern. The roughness felt by profilometer can be called as `micro roughnesses. All resolution limit of the profilometer. It is very essential to describe the roughness in terms of Ra value (average general roughness value) as well as other parameters like Rq, Rz, Rmax which are more meaningful to assess the localized corrosion resistance behavior. With Electropolishing Rz value could be controlled around 1 micron .the increasing Ra value with increase of cold work indicate the more attention to be given to smoothen the surface further. index of the oxide layer14. As degree of cold rolling increases the thickness
+
+Electropolished and buffed-nitric acid passivated samples reached the
+
+AFM studies clearly revealed that there exists `nano roughness' and `nanotexture `over the Electropolished samples as well as over mechanically buffed and nitric acid passivated samples other than the one observed by profilometry technique (micro-roughness).This can be visualized as one
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 29 10 April 2007 roughness superimposed over the other. This is very beneficial when an adhering cell seeks for an anchorage sites over the implant surface. This `nano-roughness' shall prevent the `slippage' of the cells and may also give physical anchorage points. Moreover the peculiar texture imparted by Electropolishing shall also play an important role in the direction of proliferation of the growing cells over the implant surface. The equiaxed orientation observed only in solution annealed and Electropolished sample contact guidance to the growing cells that in turn forms the tissue encapsulation seal around the implant6 .This seal is responsible to act as a barrier layer for any corrosion products (if formed) from entering in to the vital system. The sole attempt should be given to minimize the spread of corrosion products in to the body which would cause some chronic disorder in the later period of life even when the implant is retrieved out. When an underlying surface has orientation in particular direction, cell growth may take place preferential in that direction resulting into the stronger and weaker patches in the soft tissue seal. Also an individual `diamond cell' observed in texture measures around 102 nm in width that matches with the size of cell and proteins involved in the formation of encapsulation. Ellipsometry data showed that Electropolished samples possess more thinner but reliable chromia than that of formed by the nitric acid passivation treatment where the probability of chromia passive film being impure is more. Any layer to be protective enough needs no extra thickness but it has to be compact, and well adherent to the substrate. More over thicker layer grows stresses within and looses integrity after a certain thickness. Hence thin, reliable oxide layers are preferred when corrosion protection is considered. A certain degree of cold rolling is definitely assisting in the formation of more corrosion resistant chromia film (which may not be thicker). Conventionally; cold rolled material being stressful should exhibit the worse corrosion properties. Although it is not surprising that these surfaces in Electropolished condition showed better corrosion resistance. In fact more the stresses present, higher shall be the rate of attack on surface while Electropolishing and hence more and more iron goes into solution enriching chromium level in the surface. This enriched chromium makes more consistent chromia film which can repassivate effectively after a corrosive attack. The decreased corrosion resistance of the material due to
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+seems to be more beneficial. It is known that underlying surface gives the
+
+ISSN 1466-8858 Volume 10 Preprint 29 10 April 2007 stressed condition is counter balanced by chromium enrichment of the surface. This fact brings out the importance of Electropolishing where cold and pins used as orthopedic implants 5Conclusion Surfaces with various degrees of roughness exhibited similar specular reflectance in the visible range of spectra.It is improper to assess the surface roughness only with a single parameter Ra, as it does not describe the extremely large hills or valleys as expressed by the parameters like Rz, and Rmax. features oriented isotropicaly over solution annealed elecrtopolished sample surface whereas the samples experiencing stress in the form of cold working exhibited `striped' pattern which orientation changes across the grain boundary. The degree of cold working has its own effect over the surface roughness and topography achieved at the end of surface treatments. Overall grit blasted-and elecrtopolished surface proved to have better surface, more reliable passive, protective layer than mechanically buffed and nitric acid passivated surfaces. This conclusion is also supported by the observations discussed in the other parallel work else where9. Acknowledgement `Specular Mr.Mojtaba `Atomic force microscopy'; ACRE; Mumbai, Dr.Venkatramani, Mr. Prasanna Kulakarni. Reflection studies'; Department of physics ,IITB, Mumbai; AFM studies revealed the existence of peculiar diamond' shaped working is inevitable to attain the required strength in stainless steel wires
+
+`Scanning electron microscopy'; RSIC; Mumabi, Department of metallurgy and materials science IITB; Mumbai, Dr.Kamat. `Ellipsometry'; BARC; Mumbai, Dr. Bhattacharya 316L material', Sushrut Surgicals; Mumbai. Mr. Ajay Pitre. `Electropolishing bath'; CMP India Limited, Mr. Tushar Patkar; Chemitall-Rai India Limited, Mr. Himanshu Joshi. `Initial sample preparations' Velmore Home Décor Limited, Thane, Mr. H.N.Shah.. Mr. Laxman, Mrs,Leena
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 References
+
+Volume 10 Preprint 29
+
+10 April 2007
+
+1 Lawrence Durney, "Graham's electroplating engineering handbook",pp101, fourth edition 2 Arnold, J .W., Bialey,G.W, "Surface finishes on stainless steel reduce atomic force microscopy study", Poultry science,Vol. 79, Issue 12, December 2000, 1839-1845 3 N.P. Fedot'ev, "Electropolishing , anodizing , and electrolytic pickling of metals", Robert Draper Limited, Teddington 4 S. Morris, J. P. Sousa, et al, "Effects of AlSi 316L corrosion products in invitro bone formation", Biomaterials, 19, 999-1007, 1998. 5 H. Hocheng, P.S. Kao, Y.F. Chen, "Electropolishing of 316L stainless steel for anticorrosion passivation", Journ al of material engineering and performance, Vol 10(4), 418, Aug-2001 6. F. H. Jones, Teeths and Bones "Applications of surface science to dental materials and related biomaterials", Surface Science Reports, 42, 75-205, 2001 7. Stig hanson , Michael Norton ,"The relation between surface roughness and interfacial shear strength for bone anchored implants", journal of biomechanics, 32, 829-836, 1999 8. F. H. Jones, Teeths and Bones "Applications of surface science to dental materials and related biomaterials", Surface Science Reports, 42, pp153, 2001
+
+bacterial attachment and early biofilm formation :scanning electron and
+
+9 Dalvi Vrishali, "Mechanical / Electrochemical Characterization Of Surfaces Of Electro Polished 316L Stainless Steel For Orthopedic Implant Applications", A Dissertation, CORROSION SCIENCE AND NGINEERING (IDP), Dept of Metallurgical Engineering and Materials Science,Indian Institute of Technology, Bombay, pp 34, Jan 2003 10 ASTM designation F 86-00,"standard practice for surface preparation and marking of metallic surgical implants"
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 29 10 April 2007 11. V. Vignal, J.C. Roux, S, Flandrois, A. Fevrier, "Nanoscopic studies of stainless steel electropolishing ", corrosion science, vol 42, 1041- 1053 , 2000 12. V.Vignal, J.C.Roux,et al ,"Morphological analysis of STAINLESS STEEL scale like surface morphology using STM and AFM", Acta materiallia Vol46, No:1, pp 149-156, (1998) 13 Covino
+
+sci.,26,1986,95
+
+B.S., Rosen M, Driscoll T J ,Murphy t c , Mollock C R ,Corr
+
+14 S V Phadanis, M K Totlani, D. Bhattacharya ,"Ellipsometric study of passive films on the stainless steel ss304",Trans IMF, 1998,76 (6) 14 S V Phadanis, M K Totlani, D. Bhattacharya ,"Ellipsometric study of passive films on the stainless steel ss304",Trans IMF, 1998,76 (6)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

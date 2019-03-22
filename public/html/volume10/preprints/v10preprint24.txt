@@ -1,0 +1,412 @@
+ISSN 1466-8858
+
+Volume 10 Paper 24
+
+An Investigation of Corrosion Inhibitor - Iron Carbonate Scale Interaction in Carbon Dioxide Corrosion
+K. Chokshi, W. Sun, and S. Nesi*
+
+Institute for Corrosion and Multiphase Technology, Department of Chemical and Biomolecular Engineering, Ohio University, Athens, OH 45701, USA. * Corresponding author: nesic@ohio.edu
+
+Abstract
+An investigation was conducted on the interaction between corrosion inhibition and a precipitating iron carbonate scale, and their combined effects on the carbon dioxide corrosion rate. Both the effects of iron carbonate precipitation on inhibition and vice versa were studied using electrochemical techniques. The experiments were performed in a glass cell at 80 °C and an iron carbonate supersaturation range of 7 ­ 150. A generic imidazoline based inhibitor was added at various points in the iron carbonate scale formation process. The scale was later analyzed using scanning electron microscopy (SEM). Although no antagonism was found under any condition tested, it was observed that the addition of the inhibitor which hindered the corrosion rate, has retarded the growth of the iron carbonate scale by lowering the concentration of ferrous ion on the steel surface.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at referenced in published work. © University of Manchester 2007. http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be
+
+Keywords: iron carbonate, scale, inhibitor, precipitation, carbon dioxide corrosion
+
+Introduction
+Carbon dioxide corrosion is a major problem in the oil and gas surface equipment (ref1). Although there have been many developments in corrosion resistant alloys over the past few decades, oil industry. The corrosion resistance of mild steel is poor in the aggressive environments, and the cost savings can only be realized by adding a corrosion inhibitor to the environment or applying a protective coating to the steel (ref2). In carbon dioxide corrosion, iron carbide (ref1 and ref2) or iron carbonate scale (ref3 - ref10) may form on the surface due to the corrosion process. As a result, the surface of the metal is not always bare when the inhibitor is applied. Depending on the time when the inhibitor is added, the presence of the corrosion scale could affect the workings of the inhibitor. However very little research has been devoted to study of corrosion inhibition of the steel covered with corrosion product layers. Gulbrandsen (ref1) et al. observed that inhibitor performance was impaired with increasing precorrosion time and increasing temperature. The inhibitor problems were attributed to the presence of the iron carbide layer at the steel surface. The longer the precorrosion time, the thicker the iron carbide scale would grow and more severely the inhibitor performance was impaired. However, the failure of the inhibitor was not due to transportation of the inhibitor to the metal surface. One reason cited for inhibitor failure was that the high metal dissolution rates prevented the slowly adsorbing inhibitors from attaching onto the metal surface and protecting it from corrosion. This phenomenon is described by the electromechanical inhibitor desorption model of V. Drazic and D. Drazic (ref11). Nesic (ref12) et al. observed that in the presence of iron carbide as well as iron carbonate scale the performance of an imidazoline-based inhibitor was very 2 mild steel still constitutes an estimated 99% of the material used in the industry and can occur at all stages of production from downhole to
+
+poor. They concluded that it was the changes on the steel surface due to the precorrosion, which was responsible for the weaker performance of the inhibitor rather than the scale itself acting as a
+
+diffusion barrier for the inhibitor. Malik (ref13) investigated the effect presence of iron carbonate scale, lower concentrations of inhibitor
+
+of an amine based inhibitor on the surface scales. He found that in the seemed to work better than the higher concentrations. He also found that in the presence of inhibitor, there was a transformation of the surface structure of iron carbonate. However, the experiments were
+
+performed at room temperature, where the precipitation rate of iron carbonate is very slow. Therefore, the surface of the metal would have been predominantly covered by iron carbide scales rather than iron carbonate scales. From the preceding discussion, a lack of understanding regarding the interaction between the iron carbonate scale and inhibitor is evident. The objective of the present work was to investigate · the effect of corrosion inhibition on the growth of iron carbonate scale, · the effect of iron carbonate scale on the performance of the inhibitor, and · their combined effect on the corrosion rate.
+
+Experimental Procedure
+The experiments were done in a glass cell, as shown in Figure 1. A saturated Ag/AgCl reference electrode used externally was connected to the cell via a Luggin capillary and a porous wooden plug. A concentric platinum ring was used as a counter electrode. Each glass cell was filled with 2 liters of distilled water and 1% wt. NaCl. The solution was then heated to 80oC and purged with CO2 gas. After the solution was deoxygenated, the pH was increased from the equilibrium pH 4.18 to the desired pH by adding a deoxygenated sodium bicarbonate solution. Later the required amounts of Fe2+ were added solution. Then the working electrode was inserted into the solution 3 in the form of a deoxygenated ferrous chloride salt (FeCl2.4H2O)
+
+and the measurements were taken. Prior to immersion, the mild steel in succession, rinsed with alcohol and degreased using acetone.
+
+specimen surfaces were polished with 240, 400 and 600 grit SiC paper
+
+1
+
+6
+
+7 2
+
+8
+
+3 4 9
+
+5
+
+Figure 1. Schematic of a glass cell: 1. reference electrode; 2. plate; 6. condenser; 7. bubbler for gas; 8. pH electrode; 9. counter electrode temperature probe; 3. luggin capillary; 4. working electrode; 5. hot
+
+Electrochemical corrosion measurements were performed by using a potentiostat connected to a PC. Corrosion rates were measured by 4
+
+using the linear polarization resistance (LPR) method. The coupon with the iron carbonate scale was observed after the experiments by using Scanning Electron Microscopy (SEM). The chemical composition of the
+
+X-65 steel used for all the experiments is shown in Table 1. Two types of generic inhibitors were used for the experiments (Table 2and Table 3). Table 1. Chemical Composition of X65 (wt.%) (Fe is in balance).
+0.050
+
+C
+
+1.32
+
+Mn
+
+0.31
+
+Si
+
+0.013
+
+P
+
+0.002
+
+S
+
+0.042
+
+Cr
+
+0.019
+
+Cu
+
+0.039
+
+Ni
+
+0.031
+
+Mo
+
+0.0032
+
+Al
+
+Table 2. Formulation of inhibitor A Compound Isopropyl alcohol Water Imidazoline acetate salts Table 3. Formulation of inhibitor B Compound Methanol Water Benzyl dimethyl coco-quat chloride Imidazoline acetate salts Composition (by weight) 25% 25% 25% 25% Composition (by weight) 35% 35% 30%
+
+Results
+The results obtained are presented below in the following manner: · Experiments with iron carbonate scale formation done at different supersaturations without an inhibitor; · · · Experiments done with only inhibitors without any scale; Experiments with scale and with addition of inhibitors; Modeling of inhibitor-scale interactions.
+
+5
+
+Baseline iron carbonate precipitation experiments at different supersaturations without inhibitor This set of experiments was designed to observe the effect of iron carbonate scale formation on corrosion rate at various supersaturations. Supersaturation4 of iron carbonate is defined as:
+
+SS =
+
+cFe 2 + cCO 2 -
+3
+
+K sp
+
+The supersaturations were varied from 7 to 150 by varying the pH from 6.0 - 6.6 and the Fe2+ concentration from 10 - 50ppm. Table 4 shows the conditions under which these supersaturations were obtained. The effect of change in supersaturation on the corrosion rate is shown in Figure 2. Clearly with higher supersaturation the iron carbonate scale formed faster and the corrosion rate decreased more rapidly. Error bars display the maximum and minimum values obtained in repeated experiments. Increase in the precipitation rate of iron carbonate is also observed in the Figure 2, due to the increase in supersaturation of the solution with respect to iron carbonate. This increase in the precipitation rate results in a decrease in the corrosion rate of the metal, since the scale blocks a part of the steel surface preventing it from corroding, and acts as a diffusion barrier for the corrosive species.
+
+Fe2+ concentration pH 6.00 6.30 6.30 6.60 6.60 Fe2+ concentration / ppm 50 50 10 50 10 Supersaturation 9 37 150 30 7
+
+Table 4. Bulk supersaturation of the solution at various pH and
+
+6
+
+3.00 Corrosion rate / mm/yr 2.50 2.00 1.50 1.00 0.50 0.00 0 5 SS = 150 SS = 30 SS = 7 SS = 9
+
+SS = 37
+
+10 15 20 25 30 35 40 45 50 55 60 65 70 Time / hr
+
+Figure 2. Effect of supersaturation SS on corrosion rate at T = 80oC, no inhibitor, stagnant conditions. Error bars represent minimum and maximum values obtained in repeated experiments.
+
+The top view and the cross-sectional view of the samples at various supersaturations are shown in the Figure 3 - Figure 6. A comparison of scale thickness, crystal grain size, and final corrosion rate for all the baseline experiments at supersaturation of 7 ­ 150, are shown in Table 5. It is observed that as the supersaturation is increased, the size of the iron carbonate crystals decreases. This is expected since with higher supersaturation and precipitation rates, higher number of crystals nucleate on the surface of the metal. This close proximity of nuclei causes interference in growth of the crystals. It should be noted that at supersaturation of 7, this phenomenon is not observed because the experiment was stopped after 45 hours and the crystals were not allowed to grow any further.
+
+7
+
+Epoxy
+
+Metal (a) (b)
+
+Figure 3. Top view (a) and cross-sectional view (b) of the sample at stagnant conditions. 500X, for pH 6.60, Fe2+ = 50ppm, no inhibitor, SS = 150, T = 80oC,
+
+(a)
+
+(b)
+
+Figure 4. Top view (a) and cross-sectional view (b) of the sample at 500X, for pH 6.60, Fe2+ = 10ppm, no inhibitor, SS = 30, T = 80oC, stagnant conditions.
+
+Epoxy
+
+Metal
+(a) (b)
+
+Figure 5. Top view (a) and the cross-sectional view (b) of the sample at 500X, for pH 6.30, Fe2+ = 50ppm, SS = 37, T = 80oC, no inhibitor, stagnant conditions. 8
+
+Epoxy
+
+Metal
+(a) (b)
+
+Figure 6. Top view (a) and the cross-sectional view (b) of the sample at 500X, for pH 6.30, Fe2+ = 10ppm, SS = 7, T = 80oC, no inhibitor, stagnant conditions. Table 5. Summary of baseline experiments at supersaturations of 7 ­ 150, T = 80oC, no inhibitor, stagnant solutions SS 7 9 30 37 150 t / hr 45 19 85 87 19 Thickness / Crystal size / Final corrosion rate / mm/yr 0.65 1.8 0.027 0.13 0.1
+
+m
+10 No scale 30-40 30-40 15-25
+
+m
+10 No scale 15-25 15-25 5
+
+Baseline experiments done with only inhibitor and without iron carbonate scale This set of experiments was designed to study the effect of inhibitor concentration on the corrosion rate under non-scaling conditions. 1. Inhibitor A The effect of inhibitor A concentration on the corrosion rate is shown in Figure 7. From the figure, it can be seen that at 25ppm the inhibitor is partially protective, while it decreases the corrosion rate by more than 80% at 50ppm. From the potentiodynamic sweeps (Figure 8), the average values of the Tafel slopes were measured to be a = 62 mV/decade, c = 98 mV/decade and the `B' value was calculated to be 16.4 mV. From the sweeps, it can be seen that the inhibitor slows down the anodic reaction as well as the cathodic reaction. 9
+
+1.2 Corrosion Rate / mm/yr 1 0.8 0.6 0.4 0.2 0 0 5 10 15 20 25 30 35 40 45 50 Inhibitor conc / ppm
+Figure 7. Effect of inhibitor A concentration on the corrosion rate for pH 6.6, T = 80oC, no Fe2+ added, stagnant conditions.
+
+-0.50 Potential / V vs. Ag/AgCl
+Tafel slopes
+
+-0.60 -0.70
+50 ppm Inhibitor A No Inhibitor
+
+-0.80 -0.90 -1.00 0.001
+
+0.01
+
+0.1
+
+1
+2
+
+10
+
+100
+
+CurrentDensity / A/m
+
+Figure 8. Polarization curves for 50ppm inhibitor A at pH 6.6, T = 80oC, no Fe2+ added, stagnant conditions. 2. Inhibitor B The effect of inhibitor B concentration on the corrosion rate is shown in Figure 9. To study the nature of the inhibitor, the potentiodynamic 10
+
+sweeps for the experiments were done at pH 6.60. The sweeps were done in the cathodic direction initially. Then after waiting for sometime for the potential to stabilize the anodic sweep was carried Tafel slopes for inhibitor B were calculated to be 60 mV/decade and 120 mV/decade respectively and the `B' value was calculated to be corrosion rate from LPR in all the experiments.
+
+out. From the sweeps (Figure 10), the average anodic and the cathodic
+
+17.4 mV. Hence, an average `B' value of 17 mV was used to obtain the
+
+1 Corrosion Rate / mm/yr 0.8 0.6 0.4 0.2 0 0 10 20 30 40 50 Inhibitor conc / ppm
+
+Figure 9. Effect of inhibitor B concentration on the corrosion rate
+
+between pH 6.0-6.6, T = 80oC, no Fe2+ added, stagnant conditions.
+
+11
+
+-0.5 Potential / V vs. Ag/AgCl
+Tafel slopes
+
+-0.6 -0.7 -0.8 -0.9 -1.0 0.001
+No Inhibitor
+
+50 ppm Inhibitor B
+
+0.01
+
+0.1
+
+1
+
+10
+
+100
+
+Current Density / A/m2
+
+Figure 10. Polarization curves for 50ppm inhibitor B showing the tafel slopes, at pH 6.6, T = 80oC, no Fe2+ added, stagnant conditions. Inhibitor-scale interactions at supersaturation of 150 In this set of experiments a selected concentration of inhibitor A was added to the solution which was at an initial supersaturation of 150 w.r.t. iron carbonate. From Figure 7, it can be seen that at 25ppm, inhibitor A is partially protective. Therefore 25ppm inhibitor was chosen as the concentration to start the testing. In order to study the effect of stronger inhibition, 50ppm inhibitor was added in subsequent experiments. 1. Simultaneous inhibition and scaling These experiments were designed to see the interaction of the inhibitor and the iron carbonate scale when both species would compete for a place on the metal surface. In the experiment, a supersaturation of 150 was achieved in the beginning of the experiments by adjusting the pH to 6.60 and adding 50ppm of Fe2+. The required amounts of inhibitor A was added after 15 minutes of was seen on the corrosion rate nor on the scale formation, i.e. the scale formation dominated the corrosion process. 12 starting the experiment. On addition of 25ppm of inhibitor A, no effect
+
+However, on addition of 50ppm of inhibitor A, it can be seen that the corrosion rate was reduced to 0.2 mm/yr in less than two hours (Figure 11). However, the final corrosion rate is the same as that
+
+without the inhibitor. It can be observed that for this experiment the inhibitor "dominates" the corrosion rate when compared to the iron be seen that very little iron carbonate is seen on the surface of the protected due to the presence of the inhibitor and 50ppm of the the surface of the metal.
+3.00 Corrosion Rate / mm/yr 2.50 2.00 1.50 1.00 0.50 0.00 0 2 4 6 8 10 Time / hr 12 14 16 18 20 50 ppm inhibitor added 50 ppm inhibitor No inhibitor
+
+carbonate scale. From the front view of the sample (Figure 12), it can metal. Therefore, it is confirmed that the metal surface was mainly inhibitor seemed to have hampered the growth of iron carbonate on
+
+Figure 11. Effect of addition of 50ppm inhibitor A (added initially) on stagnant conditions. the corrosion rate for pH 6.60, Fe2+ = 50ppm, SS = 150, T = 80oC,
+
+13
+
+No Inhibitor
+
+50ppm Inhibitor
+
+Figure 12. Comparison of top view for specimen at 500X with 50ppm T = 80oC, stagnant conditions. 2. Inhibition of a scaled surface In this set of experiments, the inhibitor was added after 5 hours. These experiments were designed to see the interaction of the inhibitor and the iron carbonate scale when the latter is partially formed. A supersaturation of 150 was achieved in the beginning by adjusting pH to 6.60 and adding 50ppm of Fe2+. Inhibitor A was added after 5 hours. It is observed that 25ppm of inhibitor had no effect on the corrosion rate nor the scale formation. Figure 13 shows an experiment in which 50ppm inhibitor was added 5 hours after starting the experiment. In this experiment, it can be seen that as soon as the inhibitor is added, the corrosion rate decreases rapidly. From the top view of the specimen in Figure 14, it is seen that there are only a few crystals of iron carbonate formed on the surface of the metal. These iron carbonate crystals probably formed before the addition of the inhibitor and hence it is concluded that the inhibitor hampered the growth of the iron carbonate scale. inhibitor A and without inhibitor at pH 6.60, Fe2+ = 50ppm, SS = 150,
+
+14
+
+3.00 50 ppm inhibitor Corrosion Rate / mm/yr 2.50 2.00 1.50 1.00 0.50 0.00 0 2 4 6 8 10 Time / hr 12 14 16 18 20 Addition of 50 ppm inhibitor No Inhibitor
+
+Figure 13. Effect of addition of 50 ppm inhibitor A after 5 hours on corrosion rate for pH 6.60, Fe2+ = 50ppm, SS = 150, T = 80oC, stagnant conditions.
+
+No Inhibitor
+
+50ppm Inhibitor
+
+Figure 14. Comparison of top view for specimen at 500X with 50ppm inhibitor A added after 5 hours and without inhibitor at pH 6.60, Fe2+ = 50ppm, SS = 150, T = 80oC, stagnant conditions.
+
+Inhibitor-scale interactions at supersaturation of 30 The supersaturation of the solution was lowered to test the inhibitor scale interaction under lower iron carbonate precipitation rates. In this set of experiments, 25ppm of inhibitor B is added to the solution that is at an initial supersaturation of 30. Since a possible antagonistic interaction between the inhibitor and the scale was sought, a low concentration of the inhibitor which was only partially protective was 15
+
+chosen. From Figure 9, it is seen that 25ppm of inhibitor B fit our criteria very well.
+
+1. Simultaneous inhibition and scaling These experiments were designed to see the interaction of the
+
+inhibitor and the iron carbonate scale when both the processes would compete for a place on the metal surface. In the experiment shown in Figure 15, a supersaturation of 30 was achieved in the beginning by inhibitor B was added after 30 minutes. The figure shows the comparison between the experiments with adjusting pH to 6.60 and adding 10ppm of Fe2+. Subsequently 25ppm
+
+· · ·
+
+Only 25ppm inhibitor B Only iron carbonate scale 25ppm inhibitor added under scaling conditions.
+
+It can be found that when 25ppm inhibitor is added under scaling conditions, the decrease in the corrosion rate is faster than seen in the other two conditions. However, from the logarithmic graph of the above experiment (Figure 16), it is noticed that the final corrosion rate is similar to that without the inhibitor. From the top view of the sample (Figure 17), very little iron carbonate is observed on the surface of the metal. Therefore, it seems that the metal surface is mainly protected due to the presence of the inhibitor. Adding 25ppm of inhibitor B seems to hamper the growth of iron carbonate on the surface of the metal.
+
+16
+
+3.00 Corrosion rate / mm/yr 2.50 2.00 1.50 1.00 0.50 0.00 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 Time / hr 25 ppm inhibitor added Scale, No inhibitor, 25 ppm inhibitor, no scale 25 ppm inhibitor with scale
+
+Figure 15. Effect of addition of 25 ppm inhibitor B added after 0.5 hr. on corrosion rate for pH 6.60, Fe2+ = 10ppm, SS = 30, T = 80oC , stagnant conditions. Same symbol shapes depict repetitions of the same experiments.
+10.00 Corrosion rate / mm/yr 25 ppm inhibitor added Scale, No inhibitor, 25 ppm inhibitor, no scale 1.00 25 ppm inhibitor with scale
+
+0.10
+
+0.01 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 Time / hr
+
+Figure 16. Effect of addition of 25ppm inhibitor B added after 0.5 hr. on corrosion rate for pH 6.60, Fe2+ = 10ppm, SS = 30, T = 80oC , stagnant conditions. Same symbol shapes depict repetitions of the same experiments.
+
+17
+
+Figure 17. The top view of sample at 500X when 25ppm inhibitor B is added after 0.5 hr for pH 6.60, Fe2+ = 10ppm, SS = 30, T = 80oC, stagnant conditions. 2. Inhibition of a scaled surface In these set of experiments, 25ppm of inhibitor was added after 35 ­ 40 hours of starting the experiment that was at an initial supersaturation of 30. Comparison of the experiments with and without inhibitor is shown in Figure 18. It is seen that as soon as the inhibitor is added, the corrosion rate decreases drastically. However, from the logarithmic graph of the same experiment (Figure 19), it is noticed that the final corrosion rate remains similar. From the top and the cross-sectional view of the sample (Figure 20), a porous iron carbonate scale of thickness 10 m is observed.
+
+18
+
+3.00 Corrosion rate / mm/yr 2.50 2.00 1.50 1.00 0.50 0.00 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 Time / hr Scale, no inhibitor 25 ppm inhibitor with scale 25 ppm inhibitor added
+
+Figure 18. Effect of addition of 25ppm inhibitor B added after 35 hr. on corrosion rate for pH 6.60, Fe2+ = 10ppm, SS = 30, T = 80oC, stagnant conditions.
+10.00
+Scale, no inhibitor
+
+Corrosion rate / mm/yr
+
+1.00
+
+25 ppm inhibitor with scale
+
+0.10 25 ppm inhibitor added 0.01 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 Time / hr
+
+Figure 19. Effect of addition of 25ppm inhibitor B added after 35 hr. stagnant conditions. on corrosion rate for pH 6.60, Fe2+ = 10ppm, SS = 30, T = 80oC,
+
+19
+
+Epoxy
+
+Metal
+
+(a)
+
+(b)
+
+= 10ppm, SS = 30, T = 80oC, stagnant conditions. Inhibitor-scale Interactions at supersaturation of 7 Experiments at supersaturation of 7 were done to test the inhibitorscale interaction at an even slower iron carbonate precipitation rate. In this experiment, the inhibitor was added after creating a very porous iron carbonate scale (Figure 6). Supersaturation of 7 was achieved in the beginning by adjusting the pH to 6.30 and adding 10ppm of Fe2+. Subsequently, 25ppm inhibitor B was added after 47 hours. From the comparison of the experiments with and without inhibitor (Figure 21), it is seen that as soon as the inhibitor is added, the corrosion rate decreases and no antagonistic behavior is observed. By looking at the scale (Figure 22), it was found that the porosity of the scale was very similar to that without the inhibitor.
+
+at 500X when 25ppm inhibitor B is added after 35 hr for pH 6.60, Fe2+
+
+Figure 20. The top view (a) and the cross-sectional view (b) of sample
+
+20
+
+3.00 Corrosion rate / mm/yr 2.50 2.00 1.50 25 ppm Inhibitor added 1.00 0.50 0.00 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 Time / hr 25 ppm inhibitor added after 47 hr No inhibitor
+
+Figure 21.Change in corrosion rate with time when inhibitor B is added after 47 hours, at pH 6.30, Fe2+ = 10ppm, SS = 7, T = 80oC, stagnant conditions.
+
+Epoxy
+
+Metal
+
+(a)
+
+(b)
+
+Figure 22. The top view (a) and the cross-sectional view (b) of sample at 500X when 25 ppm inhibitor B is added after 47 hr. for pH 6.30, Fe2+ = 10ppm, SS = 7, T = 80oC, stagnant conditions. Modeling of inhibitor-scale interaction From the experimental results it was observed that the protective effects of the corrosion inhibitor and the scale were complementary and no antagonism was observed. However, some interference was seen: the presence of inhibitors hampered the growth of iron 21
+
+carbonate scale. This was initially attributed to the scale growth
+
+inhibition properties of the corrosion inhibitor. Upon a more in-depth analysis it was found that the concentration of Fe2+ on the surface of the steel i.e. the surface supersaturation could be one of the major factors affecting scale formation. This analysis is explained in the following paragraphs. Normally the sources of ferrous ions that contribute to the
+
+precipitation of iron carbonate are the bulk solution as well as the corroding steel surface. In the presence of the inhibitors, the corrosion rate of the metal decreases and the diffusion of Fe2+ from the bulk solution remains the only source of ions for precipitation at the metal surface. Since, the kinetics of precipitation of the iron carbonate may be faster than the rate of transport of Fe2+ from the bulk of the solution to the surface, the precipitation becomes diffusion-controlled and slows down. The above phenomenon can be simulated using Ohio University's MULTICORP V3.0 software package. The model was run under the following conditions: pH 6.60, Fe2+ concentration of 50ppm, SS = 150, T = 80oC. One simulation was run with an inhibitor (assuming 99% efficiency) and another without the inhibitor. It is seen that in the presence of the inhibitor the Fe2+ concentration (Figure 23) as well as the pH (Figure 24) near the surface of the metal is lower than that in the absence of the inhibitor. This leads to a lower supersaturation and a slower precipitation rate near the metal surface when the inhibitor is added. From the comparison of the scales obtained using the model (Figure 25), it is seen that the thickness of the iron carbonate scale formed in the presence of the inhibitor is approximately five times less when compared to the scale thickness formed in the absence of the inhibitor.
+
+22
+
+50 concentration / ppm
+
+Without inhibitor With inhibitor
+
+40
+
+Fe 30 0 20 40 60 80 100 Distance from the metal surface / um
+
+Figure 23. Fe2+ concentration profile with and without the inhibitor obtained using MULTICORP 3.0 at pH 6.60, Fe2+ = 50ppm, SS = 150, T = 80oC.
+7.00 Without inhibitor With inhibitor 6.80 pH 6.60 6.40 0 20 40 60 80 100 Distance from the metal surface / um
+
+Figure 24. pH profile with and without the inhibitor obtained using MULTICORP 3.0 at pH 6.60, Fe2+ = 50ppm, SS = 150, T = 80oC.
+
+++
+
+23
+
+a
+
+b
+
+Figure 25. Comparison of the iron carbonate scale obtained (a) with 50ppm, T = 80oC. Hence, in the absence of corroding conditions at the metal surface, there would be less scale formed at the steel surface. Similar phenomenon was also observed in a series of experiments on stainless steel. At a supersaturation of 30, it was found that even after 3 days no iron carbonate scale was formed on the surface of steel. In an experiment done at supersaturation of 150, scale precipitated on stainless steel was approximately 50% of that compared to corroding mild steel. From the above analysis, it is deduced that the lower concentration of Fe2+ at the metal surface might be the primary reason the growth of scale is hampered in the presence of inhibitor. In addition, the scale growth inhibition properties of the inhibitor could play a role, however no direct evidence for this was found. Iron carbonate scale precipitation and the interaction between the inhibitor film and the iron carbonate scale have been studied. The interaction was tested using various concentrations of two imidazoline-based generic inhibitors in the iron carbonate supersaturation range of 7 ­ 150. Based on the experimental conditions, the main research findings are: The generic corrosion inhibitors used in this study worked by slowing down anodic as well as cathodic reactions. Above a certain threshold concentration, both inhibitors hampered the growth of the iron carbonate scale. This could be a result of a 24 and (b) without inhibitor using MULTICORP 3.0 at pH 6.60, Fe2+ =
+
+decreased concentration of Fe2+ at the surface of the steel and/or scale growth inhibition properties of the corrosion inhibitor.
+
+No conditions were found under which inhibitor and scale interacted in an antagonistic manner. i.e. in all of the conditions investigated, the combination of inhibitor and iron carbonate scale never failed to reduce the corrosion rate.
+
+Conclusions
+Iron carbonate scale precipitation and the interaction between the inhibitor film and the iron carbonate scale have been studied. The interaction was tested using various concentrations of two imidazoline-based generic inhibitors in the iron carbonate supersaturation range of 7 ­ 150. Based on the experimental conditions, the main research findings are:
+
+·
+
+The generic corrosion inhibitors used in this study worked by slowing down anodic as well as cathodic reactions.
+
+·
+
+Above a certain threshold concentration, both inhibitors hampered the growth of the iron carbonate scale. This could be a result of a decreased concentration of Fe2+ at the surface of the steel and/or scale growth inhibition properties of the corrosion inhibitor.
+
+·
+
+No conditions were found under which inhibitor and scale investigated, the combination of inhibitor and iron carbonate scale never failed to reduce the corrosion rate interacted in an antagonistic manner. i.e. in all of the conditions
+
+Acknowledgments
+The authors acknowledge all the companies who give the financial support and technical directions. They are BP, Champion Technologies, ChevronTexco, Clariant TR Oil Services, Conocophillips, Dynea, Eni, ExxonMobil, ONDEO Nalco, Petrobras, Saudi Aramco, Shell, and Total.
+
+25
+
+References
+1. M. B. Kermani and A. Morshed, Corrosion, 59, 659(2003). 2. P. Roberge, Handbook of corrosion engineering, McGraw Hill, (1999).
+
+3. E. Gulbrandsen, S. Nesic, A. Stangeland, T Buchardt, B. Sundfaer, S. M. Hesjevik, and S. Skjerve, Corrosion/98, paper no. 013, Houston, NACE International, (1998).
+
+4. A. Ikeda, M. Ueda, and S. Mukai, Advances in CO2 Corrosion, 1, 52, Houston, NACE International, (1984). 5. M. L. Johnson and M. B. Tomson, Corrosion/91, paper no. 268, Houston, NACE International (1991). 6. A. Dugstad, Corrosion/92, paper no. 14, Houston, NACE International (1992). 7. A. Dugstad, L. Lunde, and K. Videm, Corrosion/94, paper no. 14, Houston, NACE International (1994).
+
+8. E. W. J. van Hunnik, B. F. M. Pots, and E. L. J. A. Hendriksen,
+
+Corrosion/96, paper no. 6, Houston, NACE International (1996). Corrosion/2001, paper no. 01040, Houston, NACE International
+(2001).
+
+9. S. Nesic, M. Nordsveen, R. Nyborg, and A. Stangeland,
+
+10. S. Nesic and K.-L. J. Lee, Corrosion, 59, 616 (2003). 11. V. J. Drazic and D. M. Drazic, Proc. 7th European Symposium on N. 9, 1990, Ferrara, p.99 (1990).
+
+Corrosion Inhibitors (7SEIC), Ann. Univ. Ferrara, N.S., Sez. V, Suppl.
+
+12. S. Nesic, W. Wilhelmsen, S. Skjerve, and S. M. Hesjevik, Proceedings Ferrara, N.S., Sez. V, Suppl. N. 10, p.1163 (1995). 13. H. Malik, Corrosion, 51, 321 (1995). 26
+
+of the 8th European Symposium on Corrosion Inhibitors, Ann. Univ.
+

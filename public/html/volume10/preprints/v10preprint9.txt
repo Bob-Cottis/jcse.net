@@ -1,0 +1,240 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+NATURALLY OCCURING SUBSTANCE (CALENDULA OFFICINALISFLOWER) AS A CORROSION INHIBITOR OF MILD STEEL IN 1M HCl SOLUTION (SUBHA.R*& SARATHA.R**)
+(SUBHA.R * Ph.D Research Scholar, & SARATHA.R ** Reader, Department of Chemistry, Avinashilingam Deemed University, Coimbatore - 43.)
+
+ABSTRACT
+
+---------------The influence of `Calendula officinalis' towards the corrosion of mild steel in 1M HCl has been evaluated by weight loss method and polarization technique. The results showed that Calendula officinalis is a very good inhibitor for mild steel in this medium. The inhibition efficiency of the compound was found to vary with the concentration of the inhibitor (0.001 to 0.5 % w/v), immersion time 1hr-24 hr) and temperature (40oC ­ 70oC). Good inhibition efficiency was found at 0.5% (w/v) concentration of the inhibitor for 2hours (94.67%). Thermodynamic parameters were calculated to investigate the mechanism of corrosion inhibition. The adsorption of the inhibitor on mild steel surface was found to obey Temkin and Langmuir adsorption model. Potentiodynamic polarization results revealed that the studied inhibitor behaves as a mixed type. Key words: Inhibition efficiency, corrosion rate, adsorption isotherm, potentiodynamic polarization
+
+INTRODUCTION Acid pickling is the method used most frequently for the removal of mill scale and rust from iron and steel. Although the use of H2SO4 predominates, interest in the use of HCl is increasing due to shorter pickling time. In order to minimize the loss of metal, acid inhibitors are added to the pickling baths; the use of extracts of different plant materials as low cost, eco-friendly corrosion inhibitors is of special interest from the environmental point of view.(1 -2)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+In this line, an effort is made in the present work to investigate the inhibitive effect of calendula officinalis (flower) extract on the corrosion of mild steel in 1M hydrochloric acid solution. The extract was obtained from calendula officinalis flower growing widely in the southern parts of India. The behaviour of this compound in 1M hydrochloric acid has been investigated and its protection efficiency has been determined by weight loss and polarization methods. Experimental details Extraction of the plant material 25gms of dried and powered flowers of calendula officinalis were refluxed with 500ml of 1M hydrochloric acid for 3hours. The extract was filtered and made up to 500ml.From this stocksolution; solutions of different concentrations of the inhibitor were prepared. Weight - loss method For the weight-loss measurements, mild steel rods of chemical composition, C-0.046%, Mn0.248%, Si-0.029%, P-0.012%, S-0.019%, Cr-005% and the remainder iron and of size 1*5cm2 were used. The samples were polished with different grade emery papers, cleaned with acetone, washed with double distilled water and finally dried and kept in desiccators. The cleaned samples were weighed before and after immersion in 1M hydrochloric acid for various immersion periods (1h,2h,5h,7h and 24h) in the absence and presence of the various concentrations (0.001 to 0.5% w/v) of the inhibitor and in the temperature range 40·c to 70·c. The corrosion rate and inhibition efficiency were calculated from the loss in weight of the steel samples. Polarization studies For the electrochemical measurements, the cell used was a conventional three electrode system with platinum auxiliary electrode, saturated calomel as reference electrode and polished mild steel specimen as working electrode. The working electrode was lacquered so as to expose 1sq.cm area to contact with the solution. The potentiodynamic curves were recorded by changing the electrode potential automatically from ± 400mv with scan rate of 2mv/sec. Anodic and cathodic branches of the polarization curves were recorded and joined by a computer into a Tafel diagram. The least square method was used to extrapolate Tafel straight lines and to determine electrochemical parameters.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+RESULTS AND DISCUSSION Weight loss method Table -1 shows the values of inhibition efficiency obtained from weight loss measurement for different concentrations of the inhibitor in 1M hydrochloric acid at various times of immersion. From the calculated weight loss values the inhibitive efficiency (I.E %) for each concentration was calculated using the equation I.E%  Wo ­W / Wo *100 -----------------> (1) Where Wo and W are weight losses in the absence and in the presence of inhibitor respectively. Table -1 Variation of I.E% with various inhibitor concentrations at various immersion times Concentration of the inhibitor (w/v %) 0.001 0.005 0.01 0.05 0.1 0.5 1h 38.00 40.00 61.00 71.33 75.00 84.33 2h 42.59 59.23 73.01 84.21 92.87 94.67 Inhibition efficiency (%) 5h 57.67 62.47 75.72 80.02 86.17 89.88 7h 35.66 42.09 52.96 53.61 63.57 77.18 24h 47.61 48.24 78.77 86.45 89.54 92.89
+
+The inhibition efficiency increases with increasing inhibitor concentration. This behavior may be attributed to the increase of the surface area covered by the adsorbed molecules of calendula officinalis with the increase in concentration of the inhibitor. Organic compounds present in calendula offincinalis can easily be adsorbed on the corroding metal giving rise to such inhibition and the inhibition may be due to their synergistic action. The effect of immersion time on the I.E% is shown in fig (1). The maximum I.E (94.67%) of the inhibitor was achieved at 0.5(w/v %) of the concentration of inhibitor for 2hours of exposure in the corrosive medium.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+Figure -1
+
+VARIATION OF INHIBITION EFFICIENCY WITH VARIOUS INHIBITOR CONCENTRATIONS AT VARIOUS IMMERSION TIME
+100.00
+
+INHIBITION EFFICIENCY
+
+80.00
+
+60.00
+
+40.00
+
+20.00
+
+0.00 0.001 0.005 0.01 0.05 0.1 0.5
+
+CONCENTRATION 1H 2H 5H 7H 24H
+
+Effect of temperature It is clear from table (2) and figure (2) that in the temperature range examined the I.E (%) increases with the increase of inhibitor concentration. Nevertheless, and the combined effect of additive concentration and temperature seems to be more complex. In fact, there is no regular trend in I.E (%) with increase of temperature. (from 30· - 40·c, I.E (%) increases, but for 40· - 50· c, I.E (%) decreases). Figure -2
+
+INFLUENCE OF TEMPERATURE ON CALENDULA OFFICINALIS
+100.00
+
+80.00
+
+IN IB IO E F IE C H IT N F IC N Y
+
+60.00
+
+40.00
+
+20.00
+
+0.00 0.001 0.005 0.01 0.05 0.1 0.5
+
+CONCENTRATION
+
+303K
+
+313K
+
+323K
+
+333K
+
+343K
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+Table -2 Influence of temperature on calendula officinalis Concentration of the inhibitor (w/v %) Inhibition efficiency (%)
+
+303k 14.76 25.71 33.33 57.14 58.57 69.52
+
+313k 26.15 40.68 45.04 62.71 64.89 76.76
+
+323k 27.50 37.72 46.14 58.18 64.55 73.86
+
+333k 35.58 40.95 56.16 73.50 78.59 85.20
+
+343k 31.93 51.58 61.59 81.48 84.64 87.85
+
+0.001 0.005 0.01 0.05 0.1 0.5
+Activation energy
+
+The dependence of logarithm of the corrosion rate on the reciprocal values of the absolute temperature is presented in figure (3). Straight lines with correlation co-efficient (>0.9) were obtained. The values of the slopes of these straight lines permit the calculation of apparent activation energy Eao, by the application of equation, C.R  A exp (-Ea/RT) --------------------------> (2) Where R is the universal gas constant. The values of the Eact, in the absence and presence of the inhibitor at different concentrations, thus obtained are reported in table3.The decrease in activation energy of corrosion (Ea) in the presence of the inhibitor when compared to that in its absence is attributed to its chemisorption.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+Figure -3
+
+ARRHENIUS PLOT FOR CALENDULA OFFICINALIS IN 1M HCl
+4.0000
+
+3.5000
+
+LOG C.R
+
+3.0000
+
+2.5000
+
+2.0000 0.0033 0.0032 0.0031 0.0030 0.0029
+
+1/T BLANK 0.001 0.005 0.01 0.05 0.1 0.5
+
+Table ­ 3 Apparent activation energies calculated from the Arrhenius plot of the corrosion rate Conc. of the inhibitor%(w/v) Blank 0.001 0.005 0.01 0.05 0.1 0.5 Adsorption isotherm The nature of inhibitor interaction on the corroding surface during corrosion inhibition of metals has been deduced in terms of adsorption characteristics of the inhibitor. The surface coverage data () are very useful while discussing the adsorption characteristics. The surface coverage of the inhibitor at a given concentration is calculated by using the equation -Ea kJ/mol 48.82 43.68 41.50 37.36 31.65 27.64 29.19
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+
+
+ (1-r/ro) ------------------->(3)
+
+Where r and ro are the corrosion rates with and without inhibitor respectively. The adsorption process involves the displacement of water molecules from he metal surface. Langmuir isotherm was tested for its fit to the experimental data. Langmuir isotherm Log [/1- ] = log K + log C -----------------> (4) Though the plot (figure - 4) of log [/1- ] verses log c was linear (correlation coefficient > 0.95). The deviation of the slopes from unity (table-4) (for ideal Langmuir isotherm) can be attributed to the molecular interaction among the adsorbed inhibitor species, a fact which was ignored during the derivation of the Langmuir equation. Figure -4
+
+LANGMUIR ADSORPTION - 1M HCl
+1.5000
+
+1.0000
+
+LOG (O/1-O)
+
+0.5000
+
+0.0000
+
+-0.5000
+
+-1.0000 -3.0000 -2.3010 -2.0000 -1.3010 -1.0000 -0.3010
+
+LOG C
+303K 313K 323K 333K 343K
+
+Table-4 Langmuir adsorption isotherm values Slope Intercept Correlation coefficient 0.4347 0.5691 0.9874 0.3587 0.6438 0.9969 0.3299 0.5693 0.9979 0.4145 0.9273 0.9829 0.4699 1.1326 0.9804
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+Hence, the experimental data were fit into the El-awady's Kinetic thermodynamic model. The isotherm is written as Log [/1- ] = log K + Y log C -------------------> (5) In this model the number active sites Y is included. Values of 1/y less than one imply multilayer adsorption, while 1/y greater than one suggests that a given inhibitor molecule occupies more than one active site. Table -5 clearly shows that the data correspond well to the above said isotherm.
+
+Table-5 El-awady adsorption isotherm values 1/y Intercept(logK') Correlation coefficient 2.3004 1.3092 0.9874 2.7875 1.7946 0.9969 3.3010 1.7257 0.9979 2.4125 2.2371 0.9829 2.1281 2.4104 0.9804
+
+A plot of  against logC (figure -5) was linear suggesting that the adsorption of the compound on to the mild steel surface follows the Temkin adsorption isotherm. The Temkin equation is ea  KC --------------------> (6) Where K is the equilibrium constant and a is the molecular interaction constant. For a > 0 attraction and for a < 0 => repulsion (4). In the present study, the value of the interaction parameter is high and positive (i.e., 10 to 13) leading to high surface coverage and hence better inhibitive efficiency of the inhibitor. Table-6 Temkin adsorption isotherm values Slope Intercept Correlation co-efficient a Log K 0.2189 0.7930 0.9854 10.5215 3.6229 0.1906 0.8417 0.9954 12.0810 4.4153 0.1780 0.8070 0.9965 12.9415 4.5347 0.2060 0.9567 0.9734 11.1784 4.6436 0.2200 1.0277 0.9649 10.4689 4.6717
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+Figure -5
+TEMKIN ADSORPTION - 1M HCl 1
+
+0.8
+
+0.6 O 0.4
+
+0.2
+
+0 -3.000 -2.301 303K -2.000 LOG C 313K 323K 333K 343K -1.301 -1.000 -0.301
+
+Polarization measurement The electrochemical parameters used in this study were obtained from Potentiodynamic polarization curves and presented in table (7). The percentage inhibition efficiency was calculated from relationship, I.E (%) = Io ­I /Io *100 -------------------> (7) Where Io and I are corrosion current densities in the absence and presence of inhibitor respectively and the polarization resistance Rp was calculated from Stern-Geary equation, Rp = a c / 2.3 (a + c) Icorr --------------------> (8)
+
+a and c are the values of cathodic and anodic Tafel slopes and Icorr ­ the corrosion current density. The lower corrosion density (Icorr) values in the presence of the calendula officinalis extract without causing significant changes in the corrosion potential (Ecorr) suggest that it is a mixed type inhibitor.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+Table (7) Electrochemical parameters for the corrosion of mild steel in 1M HCl System Blank 0.001 0.1 -Ecorr mv 523 516 511 Icorr µAmp 1890 524 2673 a mv /dec 125.94 87.46 84.67 c mv /dec 97.84 70.43 67.78 Rp Ohm /cm2 8.45 10.23 18.94 I.E (%) 72.27 85.85
+
+Conclusions Acid extract of calendula officinalis flowers effectively inhibits the corrosion of mild steel in 1M HCl acid medium. Inhibition efficiency increased with increase in concentration of the extract. The maximum efficiency (94.67%) was found for 0.5% at 2hours of an immersion time. The extract was found to be efficient at higher temperatures. The optimum temperature being 323k in 1M HCl. The adsorption of calendula officinalis flower extract on mild steel in HCl medium obeys El-Awady and Temkin adsorption isotherm models. The polarization studies reveal that the extract under the study behaved as a mixed type of inhibitor. References: 1. A.A.El Hosary, R.M.Saleh and A.M.Shames El Din, corrosion science, 12 (1972) 897. 2. Smitha A Verma and G.N.Metha, Bulletin of Electrochemistry 15 (2) February 1999, pp 6770. 3. S.S.Abd El-Rehim, Magdy A.M.Ibrahim and K.F. Khaled, Journal of Applied Electrochemistry, 29(1999), 593-599. 4. G.Moretti, G.Quartarone, A.Tassan and A.Zingales, British corrosion Journal, 1996, V0l31, No.1, 49.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 9
+
+3 September 2006
+
+ACKOWLEDGEMENT I sincerely thank the concern authorities of Avinashilingam Deemed University, Coimbatore. for providing the facilities to do this work.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

@@ -1,0 +1,215 @@
+Volume 6 Paper C039
+---------------------------------------------------------------
+
+Galvanic Interactions during Erosion Corrosion
+Department of Mechanical Engineering, University of Glasgow, Glasgow G12 8QQ, UK T.Hodgkiess@mech.gla.ac.uk 1 TWI Ltd. Granta Park, Great Abington, Cambridge CB1 6AL, UK
+suman.shrestha@twi.co.uk Atkins Process, Clifton House, Clifton Place, Glasgow, G3 7LD, UK joan.perry@atkinsglobal.com
+2
+
+T. Hodgkiess, S. Shrestha , J. M.. Perry2, D. Mantzavinos, G. Vassiliou, and A. Faber
+
+1
+
+Abstract
+Erosion corrosion in aqueous fluids is a complex process that involves a number of contributory phenomena some of which are well recognized. This paper considers a further factor, that of galvanic interactions between different parts of a single material subjected to erosion corrosion. Data is presented from a number of different investigations of erosion corrosion by impinging, saline water jets in which the involvement of galvanic interactions in the overall erosion corrosion process has been monitored. The systems considered include liquid impingement, with and without the presence of added solids, on two copper-nickel-base alloys, a stainless steel, titanium and a cermet material. The magnitudes of directly-measured galvanic currents between different regions of the same material during impingement have been found to vary substantially. It has been observed that the largest galvanic interactions have been associated with solid/liquid impingement and the relevance of the findings to the significance of galvanic interactions during erosion corrosion is discussed. Keywords: galvanic interactions, erosion corrosion
+
+Introduction
+Erosion corrosion in rapidly moving aqueous liquids is a complex phenomenon that includes electrochemical corrosion, mechanical erosion damage and interactive processes sometimes referred to as "synergistic" [#ref1] or "additive" [#ref2] effects. The contributions of these factors to erosion corrosion are generally recognised, measured and discussed in reports devoted to this topic. Another complexity,
+
+that has received less attention in relation to erosion corrosion, is that of galvanic interactions between different regions of a single component subject to varying hydrodynamic flow regimes that result in different electrode potentials and hence in galvanic interactions between the various regions. The basis of this paper is a series of experimental studies that have been undertaken recently on the erosion corrosion of a range of engineering materials during which galvanic interactions have been examined. It should be noted that the results quoted in this paper were not obtained from a single piece of research formulated to represent a cohesive investigation of galvanic interactions during erosion corrosion but, rather, take the form of data obtained as relatively minor segments of comprehensive studies of erosion corrosion of particular materials. The objective in putting these rather diverse findings together in this paper, is to provide indications of the role (sometimes substantive) of galvanic interactions during erosion corrosion.
+
+Experimental
+The materials upon which galvanic interactions have been investigated, are as follows. · Titanium: commercially pure grade 2. · Austenitic stainless steel: UNS S31603, containing 16.7%Cr, 11.7%Ni, 2.5%Mo · Copper-nickel-base alloys:· Cu-10%Ni conforming to UNS: C70600 of composition: 11.4%Ni, 1.9%Fe, 0.7%Mn · A high-strength, commercially-produced alloy: 19%Ni, 1%Fe, 4%Mn, 0.8%Nb, 0.5%Cr; hereafter referred to as "HS Cu/Ni". · A cermet coating, 86% tungsten carbide-10%cobalt-4%chromium material sprayed on to a stainless steel (UNS S31603) substrate by the high-velocity, oxy-fuel (HVOF) process. The resulting coating exhibited negligible porosity and good adherence to the substrate [#ref3]. Test specimens were cut either from plate or bar and drilled/machined to yield concentric specimens in the form illustrated in Fig.1, i.e. comprising a central, small-diameter sample electrically separated by a ring of epoxy resin from a larger outer specimen. The diameter of the central specimen was 6 mm (area 0.28 cm2) for titanium, the high-strength Cu/Ni alloy and the cermet coating and 4 mm (0.13 cm2 area) for the stainless steel and the Cu-10%Ni alloy. The areas of the outer specimens were as follows: 2
+
+titanium = 6.6 cm2, stainless steel = 4.7 cm2, Cu-10%Ni = 3.7 cm2, the high-strength Cu/Ni alloy = 4.4 cm2 and the cermet coating = 3.4 cm2. Electrical connecting wires were attached to the rear faces of the specimens prior to their encapsulation in epoxy resin to produce the concentric specimen shown in Fig.1 in which the two specimens were separated by a band of epoxy resin of 1-4 mm. The combined concentric specimen was abraded on silicon carbide papers to 600-grit finish, washed in methanol prior to fixing in an erosion corrosion test rig.
+
+Fig.1: (a), Concentric specimen used for measuring galvanic current between central, "C", and outer, "O", regions: mounted in non-conducting resin, (b) schematic representation of specimen in impingement rig The specimens were subjected to a liquid or liquid/solid jet impingement at 90° impact angle using two different test rigs as described below. · Liquid impingement experiments (no added solids) were conducted in a test rig [#ref4] in which the nozzle-to-specimen distance was 5 mm with a nozzle diameter of either 1 mm or 4mm. · Solid/liquid impingement tests were conducted in a different rig, Fig.2 [#ref1], in which the liquid stream contained added suspended solids in 3
+
+the form of silica sand mainly of a particle size range 100-425 micron [#ref1]. The nozzle diameter was 4 mm and the nozzle-to-specimen distance was 5 mm. On all the materials, the experiments were conducted in an aqueous solution of 3.5% NaCl at 17-21 °C and the other detailed experimental parameters are given as part of the presentation of the results. The widely-different impingement velocities employed in the experiments quoted herein reflect the varying erosion corrosion severities and material resistances involved in the individual research investigations. During the tests, electrode potentials of the specimens were measured using a saturated calomel reference electrode (SCE). The galvanic currents flowing between the connected specimens were measured using a switching device incorporating a zero resistance ammeter.
+
+Fig.2: Schematic diagram of solid/liquid impingement rig
+
+Results
+
+4
+
+Liquid impingement UNS 31603 stainless steel The galvanic current measurements on this material were obtained in experiments involving liquid impingement at 72 m/s velocity with a nozzle diameter of 1 mm impinging directly onto a central specimen (Fig. 1) of 4 mm diameter. Electrode potential measurements of separate (unconnected) specimens demonstrated that the central (directly impinged) specimen was slightly more electronegative (by only a few mV) to the outer ring specimen. Thus the central specimen was slightly anodic - as was further demonstrated by the current direction. Galvanic currents flowing between electrically connected specimens were monitored over a three-hour period and were small, generally < 0.5 µA but peaking at 1.6 µA (which is equivalent to 12 µA /cm2 on the small directly-impinged specimen.. Copper-nickel alloys A more detailed investigation of the galvanic interactions upon these two alloys was undertaken than for the stainless steel described above. The test conditions were:17 m/s impingement velocity, 4 mm nozzle diameter. For the Cu-10Ni alloy, it was observed that the outer specimen was the anodic component for the entire duration of the 72-hour experiments although (see Table 1) the potential differences between electricallyisolated specimens were very small (a maximum of 9 mV and between 3-4 mV during the final 56 hours of the tests). These low driving potentials were reflected in extremely-small galvanic currents (maximum of 1.4 µA and only 0.1 - 0.2 µA during the final 40 hours).
+
+5
+
+Table 1: Cu-10Ni, Electrode potential difference between unconnected inner and outer specimens and galvanic currents flowing between electrically-connected specimens Notes: (1) outer specimen was electronegative (anodic) component throughout experiment (2) the two values quoted relate to duplicate experiments Exposure time, hours 0.5 2 4 8 16 24 32 48 72
+
+Potential difference, mV
+
+4 6
+
+8 9
+
+7 8
+
+5 5
+
+4 4
+
+3 4
+
+4 4
+
+4 4
+
+4 4
+
+Galvanic current, µA
+
+0.2 0.3
+
+0.7 0.8
+
+0.8 1.0
+
+1.0 1.2
+
+1.1 1.4
+
+0.7 0.9
+
+0.2 0.2
+
+0.2 0.2
+
+0.1 0.1
+
+In the case of the high-strength copper-nickel alloy, HS Cu/Ni, the outer specimen was the anodic component for just the initial 4 hours and, after 24 hours, the central (directly impinged) sample became the electronegative (anodic) component. The results are summarised in Table 2; again the potential differences between electrically-isolated specimens were only a few mV and the maximum recorded galvanic currents was about 1.5 µA.
+
+6
+
+Table 2: HS Cu/Ni, Electrode potential difference between unconnected inner and outer specimens and galvanic currents flowing between electrically-connected specimens Note: the two values quoted relate to duplicate experiments Exposure time, hours 0.5 2 4 24 48 72
+
+ANODE
+
+Outer
+
+Outer
+
+Outer
+
+Central
+
+Central
+
+specime specime specime n n n
+
+specime specime n n
+
+Potential difference, mV
+
+2 4
+
+5 9
+
+6 8
+
+0 1
+
+1 1
+
+7 11
+
+Galvanic current, µA
+
+1.0 1.2
+
+1.3 1.5
+
+1.3 1.4
+
+0.1 0.0
+
+0.0
+
+1.4 1.4
+
+Solid/liquid impingement High-strength Copper-nickel alloy: HS Cu/Ni In this case, the experiments were conducted in NaCl solution, of various salinities, containing 1000 mg/l of sand at an impingement velocity of 8 m/s. The tests were conducted for only 2 hours. the main aims being · to obtain information on the influence of solid particles compared to liquid impingement · to obtain an indication of the influence of different salt concentrations at one solid loading. In all the conditions, the inner specimen was consistently the anodic (more electronegative) component. The results are summarised in Table 3.
+
+7
+
+Table 3: Galvanic experiments on HS Cu/Ni in solid/liquid impingement Solution % NaCl 0.25 1,5 55 17 3.5 70 20
+
+Potential difference between inner and outer specim50 mV Galvanic current, µA 7
+
+Comparison of Tables 2 and 3 demonstrates that, under solid/liquid impingement, the potential differences between directly impinged (central) and outer regions were much higher (70 mV as opposed to <10 mV in liquid impingement). Additionally, the measured galvanic currents during the solid/liquid impingement, were considerably greater than during liquid impingement conditions. In the presence of solids, both the electrode potential difference and the galvanic currents between the central and outer regions were observed to increase with salinity of the liquid. Pure titanium and WC-Co-Cr cermet These experiments were conducted in 3.5 % NaCl solution containing 606-690 mg/l of sand (for the tests on titanium) or 2000 mg/l of sand (for WC-Co-Cr) at an impingement velocity of 12.6 (Ti) or 12.0 (cermet) m/s. For both of these materials, the inner specimen was consistently the anodic (more electronegative) component. The results are summarised in Tables 4 and 5. Table 4: Results of (duplicate) galvanic experiments on Titanium in solid/liquid impingement Exposure time, hours 0.5 2 113 98 16 70 76
+
+Potential difference between inner and outer specim105 mV 116 Galvanic current, µA
+
+15-279-17 5-6 19-3214-204-7
+
+8
+
+Table 5: Results of galvanic experiments on WC-Co-Cr in solid/liquid impingement Exposure tim hours Potential difference, Galvanic current, µAGalvanic current, µA mV 0.5 1 1.5 2 2.5 3 4 5 74 66 99 90 139 140 110 110 6.5 7.7 9.2 10.5 15 20 27 31.5 3.0 3.5 3.5 7.5 8.3 9.0 9.7 17 Experiment 1 Experiment 2
+
+Discussion
+General aspects As would be intuitively expected, the galvanic currents generally involved the directly-impinged (central)specimen comprising the electronegative (anodic) component of the couple. The exception to this was the situation of the copper-nickel alloys in liquid impinging conditions where the Cu10Ni alloy exhibited the opposite polarity and the high-strength alloy also had the central zone as the cathodic component in the early stages of exposure before undergoing a switch in polarity. It is necessary to emphasise that these effects on the copper-nickel alloys were of extremely small magnitude indeed. It is perhaps more appropriate to conclude that there occurred only negligible galvanic interactions between the different hydrodynamic zones on these materials during liquid impingement. This is possibly due to the fact that these materials were corroding in the active state with similar surface features (general surface attack and thin films) in the directly-impinged and outer regions - as has been reported in detail in relation to the Cu-10Ni alloy in another paper [#ref4]. Nevertheless, it is 9
+
+interesting to note the correspondence between this work and other research undertaken some time ago [#ref5] in which rather similar polarity aspects were observed in relation to the behaviour of pure copper in different hydrodynamic conditions. Ross and Hitchen [#ref5] observed that, in some circumstances, copper subjected to more severe hydrodynamic conditions could behave as the cathode relative to the metal in less-severe circumstances; moreover there were switches in polarity (to one circumstance in which the copper in the severe conditions subsequently became anodic) - in interesting correspondence to the case with the high-strength copper-nickel alloy in the present work (Table 2). The correlation between these two pieces of work should not be taken too far since, apart from the different materials, the flow regimes were quite different as were the compositions of the water (towns water of low salinity in the study of Ross and Hitchen [#ref5] which would result in rather different mechanisms of corrosion). Nevertheless, the correspondence between the two studies does indicate a tendency towards variable behaviour (albeit on a small scale of low galvanic intensity) of copper-base materials in relation to hydrodynamic conditions. It should be pointed out that others [#refs6-8] have postulated galvanic effects in copper-nickel alloys between an actively corroding zone subject to relatively intense hydrodynamic conditions and nearby, more quiescent regions where a protective film is established. Such situations could be induced [#ref7] by local turbulence associated with surface roughness (in conditions generally hydrodynamically less severe than the systems considered herein) or during a jet impinging upon a very small area of a large component [#ref8] - although in many components if the distance between the two zones is large, galvanic currents might well be damped by IR drops. Nevertheless, this aspect does highlight the crucial importance of the anode/cathode (i.e. directly-impinged/quiescent zone) area ratio on galvanic interactions during liquid impingement. Perhaps the most prominent aspect of the results presented herein is the distinct difference in magnitude of the galvanic currents induced under conditions of solid/liquid impingement as opposed to liquid impingement. This feature is illustrated in Fig. 3 where the maximum currents are plotted and there is a difference of more than an order of magnitude between the two types of impingement. These are in line with the differences in driving potential for galvanic corrosion between central and outer specimens which is 50-150 mV during solid/liquid impingement but only a few mV (with a maximum of 11 mV recorded) in the absence of solids. The minor galvanic interactions observed during liquid impingement were associated with the observed similar behaviour in the different hydrodynamic regimes of the two cases studied. An interesting aspect of this feature is that this uniformity of behaviour in the different hydrodynamic zones was observed in two 10
+
+situations in which the overall corrosion behaviour was quite different,:· active corrosion at significant rates on the copper-nickel alloys [#ref4] · passivity on the stainless steel.
+
+Thus in the copper-nickel alloys both the directly-impinged and outer zones exhibited similar active corrosion behaviour but with a higher rate of attack in the central zone. In the stainless steel, the extremely high velocity of 72 m/s liquid impingement was observed (Fig 4), during an anodic polarisation scan, to produce current fluctuations by the central, directly-impinged specimen in the potential region immediately positive to the free corrosion potential; signifying rapid de-passivation/re-passivation sequences. Such current fluctuations were not present during anodic polarisation of the outer specimen and also were not observed, even on the central specimen, in a similar experiment but with a lower impingement velocity of 17 m/s.
+
+Liquid impingement
+40
+
+Solid/liquid impingement
+
+Galvanic current, µA
+
+30
+
+20
+
+10
+
+Cu-10Ni SS
+
+0
+
+HS Cu/Ni
+-10
+0
+
+Fig.3: Comparison of maximum recorded galvanic currents: positive values of current refer to central specimen acting as anodic (more electronegative) component: "SS" = stainless steel
+
+This distinction between the presence and absence of solids in the impinging jet streams is clearly associated with solid particle impact producing a totally different corrosion situation upon the directly impinged region. This aspect is best discussed in terms of a comparison between the observed galvanic interactions involving the stainless steel and titanium. In the former case, the extremely high velocity of 72 m/s liquid impingement caused some pit initiation of very minor extent plus some slight surface roughening in the central region which could account for the features in the anodic polarisation 11
+
+HS Cu/Ni
+
+WC-Co-Cr
+
+Titanium
+
+plot (Fig. 4). In contrast, the presence of the solids in the liquid stream caused complete depassivation of the directly-impinged region on titanium.
+
+Fig.4: Anodic polarisation plot of central, directly-impinged specimen and outer ring specimen of UNS S31603 stainless steel under liquid impingement at 72 m/s The influence of the solid particles, in inducing more electronegative conditions in the central inner specimen than in the adjacent outer specimen, appears to be associated with the imposition of active corrosion of the central region at significant rates irrespective of the inherent corrosion resistance of the impacted material. In other words, similar effects are obtained with titanium (normally highly resistant to corrosion in saline environments) and copper-nickel alloy (much less resistant especially in flowing conditions) and on the cermet coating which has rather restricted corrosion resistance even in quiescent conditions [#ref9]. Indeed, with the cermet, coating during solid/liquid impingement, both the central and outer specimens were actively corroding but with the actual corrosion rate being higher in the directly-impinged specimen. The increase in corrosion rate in the central region is due to depolarisation of the anodic reaction (and hence imposing a relatively electronegative electrode potential). This has been postulated [#ref9] to be associated with surface roughening effects - possibly associated with removal of the WC, hard-phase particles by the erosive action of the sand. In contrast, for passive materials like stainless steel and titanium, the direct impact of solid particles essentially causes depassivation of the surface. This feature observed in the investigations described herein, of the galvanic interactions in saline solution being a function of the particular circumstances, is further illustrated by the findings of Dawson et al [#ref10] who measured substantial galvanic effects between a stagnant mild steel electrode (acting as anode) and one under "agitated 12
+
+conditions" (no more detail given). The authors [#ref10] concluded that galvanic interactions, "appear to be a major influence in erosion corrosion". The role of galvanic interactions in the overall erosion corrosion process In the particular erosion-corrosion situations considered herein, galvanic effects were of very minor influence on the damage caused in different hydrodynamic regions during liquid impingement conditions. In contrast, the much larger galvanic currents registered under solid/liquid impingement indicate possible significant contributions of galvanic interactions to the overall erosion-corrosion damage and these are now examined. The galvanic effects during solid/liquid impingement in this work have involved the directly-impinged zone as anode. This demonstrates that, in a "composite" component (i.e. one of size greater than that of the directlyimpinged area), the corrosion rates on the directly-impinged regions are enhanced witht the outer region experiencing a degree of cathodic protection. Focusing on the acceleration of corrosion on the central zone, it is possible to obtain an assessment of the magnitude of this with the set-ups employed in this research. One complication is that the time trends in the values of the galvanic currents appear (Tables 1-5) to be dissimilar for different systems. (This is perhaps not surprising considering the quite different corrosion mechanisms.) But if attention is focused on the first few hours of exposure, the galvanic currents recorded on both titanium and the cermet coating are as follows. For titanium the maximum currents were between 20-32 µA which is equivalent to 71-113 µA/cm2 on the directly-impinged specimen. For the cermet coating, the average of the recorded currents after four hours of exposure is 19 µA which is equivalent to 67 µA/cm2 on the directly-impinged specimen. Even taking into account that when a material is subject to solid/liquid impingement, the most dominant proportion of the overall material loss is often from pure mechanical erosion mechanisms, these figures represent a substantial contribution from galvanic effects to the corrosion rate of the directly-impinged zone. For activation-controlled reactions, the detailed relation between measured galvanic currents, Ig, and the enhanced corrosion current, Iac, on the coupled anodic component is Iac = Ig + Iccr where Iccr signifies the residual cathodic current on the coupled anodic region [#refs11,12]. When the area of the cathodic zone is much greater than that of the anodic zone and/or the cathodic reaction rates are substantial (both situations relevant to the systems considered herein), Ig 13
+
+equates directly with Iac. Further consideration of this aspect in relation to the cermet material is possible using the Ig figures after four hours of exposure of 19 µA which is equivalent to 67 µA/cm2 on the directlyimpinged specimen. This can be compared with the corrosion current density, of 32 µA/cm2, measured (#ref9) by Tafel extrapolation from polarisation scans undertaken on the electrically-isolated, directlyimpinged specimen (i.e. not coupled to the outer specimen). Such polarisation scans also demonstrated that the anodic reaction on the central specimen was significantly depolarised in comparison to the outer specimen. Thus the acceleration associated with galvanic connection to the outer specimen represents a very significant enhancement of the corrosion rate experienced by the directly impinged region. It is suggested that this feature makes it appropriate to incorporate an extra term into the oftenquoted formulation of the total material loss (T) during erosion corrosion [#refs1,13]:T=E+C+S where E = material loss by pure mechanical erosion processes, C = material loss by electrochemical corrosion processes and S = the socalled "synergy" contribution which represents additional erosive damage stimulated by corrosion processes. The suggestion is that, for the situation where the above parameters have been measured on a specimen which is of similar area to that of the impinging jet, then to extend such data to the situation where the component area exceeds that of the directly-impinged region, an additional term, G, should be incorporated into the total loss relationship;T=E+C+S+G where G represents the material loss due to the galvanic interactions described in the preceding parts of this paper. Another consequence of the acceleration of corrosion by galvanic effects is that the amount of material loss by synergy processes (S) could also increase. For the situation in which the erosion-corrosion measurements are made on a "composite" specimen (that is a single specimen of a size significantly greater than the diameter of the impinging jet), the analysis of the corrosion measurements is more complex. In this situation, of course, no measurement of G is possible and indeed the galvanic enhancement of corrosion damage, represented by G, is incorporated into the measured value of C. Moreover, C is itself an "average" measure of the corrosion rates (quite different in many instances) of the directly-impinged and outer regions.
+
+Conclusions
+
+14
+
+Galvanic interactions arising from differential effects produced by the hydrodynamic conditions are likely to be a feature of many erosion corrosion situations. In this paper a number of examples have been considered involving variable galvanic interactions which have been assessed by measurement of galvanic currents flowing between separate specimens simulating the directly-impinged and surrounding zones. In two instances of liquid impingement, the differential electrode potential driving forces and the galvanic currents were almost negligible. This was reasoned to be due to similar corrosion behaviour between the directly-impinged and the surrounding specimens; however it is recognised that other cases involving liquid impingement may involve significant galvanic interactions. An important factor in this respect will be the area ratios of directly impinged and surrounding regions exposed to more-moderate hydrodynamic conditions. In the studies reported in this paper, substantial galvanic interactions were observed during solid/liquid impingement of three quite different systems involving, a copper-nickel-base alloy, a WC-Co-Cr cermet and commercially pure titanium. These extensive effects were clearly associated with stimulation of the corrosion processes by the impacting solid/liquid stream. It is suggested that, for the case where erosion-corrosion damage has been quantified on a specimen of similar size to the impinging jet, extension to cover the situation of a much larger specimen should involve the use of an extra term in the overall material loss relationship, representing galvanic intensification of corrosion on the directly-impinged zone.
+
+Acknowledgements
+The authors express their gratitude for scholarships as follows: Overseas Research Scholarship (S.S.), EPSRC studentship (J.M.P) and University of Glasgow scholarships (S.S., D.M, G.V.). Provision of laboratory facilities by Professor J.W. Hancock, Head of Mechanical Engineering Department, University of Glasgow, is acknowledged.
+
+References
+!ref1 "Electrochemical and mechanical interactions during erosion corrosion of a high-velocity oxy-fuel coating and a stainless steel," T. Hodgkiess, A. Neville and S. Shrestha, Wear 233-235, pp623-634, 1999.
+
+15
+
+!ref2 "Characterisation of synergistic effects between erosion and corrosion in an aqueous environment using electrochemical techniques," S. Zhou, M.M Stack and R.C. Newman, Corrosion Science, 52, 12, pp935-946, 1996. !ref3 "Some aspects of the erosion and corrosion behaviour of a WC-Co-Cr HVOF sprayed coating", J.M. Perry, T. Hodgkiess and A. Neville, Proc. Int. Thermal Spray Conf ASM ITSC (2000), pp1033-1036, 2000. !ref4 "Erosion corrosion of copper-10%nickel alloy revisited", T. Hodgkiess and G. Vassiliou, This conference. !ref5 "Some effects of electrolyte motion during corrosion," T.K. Ross and B.P.L. Hitchen, Corrosion Science, 1, pp65-75, 1961. !ref6 "The application of the polarisation resistance method to the study of the corrosion behaviour of CuNi10Fe in sea water", F.P. Ijsseling, Corrosion Science, 14, pp97-110, 1974. !ref7 "Horse shoe corrosion of copper alloys in flowing sea water: mechanism, and possibility of cathodic protection of condenser tubes in power stations," G. Bianchi, G. Fiori, P. Longhi and F. Mazza, Corrosion, 34, 11, pp396-406, 1978. !ref8 "Theoretical studies and laboratory techniques in sea water corrosion testing evaluation," F.L. LaQue, Corrosion, 13, pp33-44, 1957. !ref9 "Erosion corrosion of WC-Co-Cr cermet coatings," J.M. Perry, Ph.D Thesis, University of Glasgow, 2001. !ref10 "Electrochemical corrosion testing using electrochemical noise, impedance and harmonic analysis," J.L. Dawson, J.S. Gill, I.A. Al-Zanti and R.C. Woolam, Dechema Monograph 101, pp235-251, 1986. !ref11 "The relationship between galvanic current and dissolution rates," F. Mansfeld, Corrosion, 29, 10, pp403-405, 1973. !ref12 "Electrochemical theory of galvanic corrosion," J.W. Oldfield, in 'Galvanic corrosion,' ASTM STP 978, edited by H.P. Hack, pp5-22, 1988. !ref13 "Erosion and corrosion properties of WC coatings and duplex stainless steel in sand containing seawater," M. Bjordal, E. Bardel, T. Rogne and T.G. Eggen, Wear, 186-187, pp508-514, 1995.
+
+16
+

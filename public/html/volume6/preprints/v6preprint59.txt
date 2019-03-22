@@ -1,0 +1,747 @@
+Volume 6 Paper C145
+
+Effect of SO42-, S2O32- and HSO4- Ion Additives Foil for Aluminium Electrolytic Capacitor
+S.-I. Pyun and K.-H. Na
+
+on Electrochemical Etching of Pure Aluminium
+
+Dept. Mat. Sci. & Eng., KAIST, 373-1, Guseong-dong, Yuseong-gu, Daejeon, 305-701, Republic of Korea, sipyun@webmail.kaist.ac.kr
+
+Abstract
+The effects of sulphate (SO42-), thiosulphate(S2O32-) and hydrogen sulphate (HSO4-) ion additives on etching of pure aluminium (Al) foil for Al electrolytic capacitor have been investigated in 4 M sodium chloride (NaCl) solution as a function of anion concentration using potentiodynamic polarisation experiment, galvanostatic potential transient technique, electrochemical impedance spectroscopy and scanning electron microscopy. From the potentiodynamic polarisation curves and galvanostatic potential transients, it was observed that pit and etch tunnel initiation was inhibited by the addition of SO42- and S2O32- ions. In contrast, in the presence of HSO4- ions pit and etch tunnel initiation was enhanced. While galvanostatic potential transients resulting just after short current interruption in the presence of SO42and S2O32- ions showed no potential overshoot followed by a rapid showed an appreciable potential overshoot followed by a slow potential decay. This means that pit and etch tunnel growth is by the addition of HSO4- ions. Based upon experimental results, two types of mechanisms for increased surface area in the presence of SO42-, S2O32- and HSO4- ions are proposed: increase in surface area by enhancing growth rate of etch tunnels in the pre-existing pits in the presence of SO42-, S2O32- ions; increase in surface area by increasing accelerated by the addition of SO42- and S2O32- ions, but it is retarded potential decay, the potential transients in the presence of HSO4- ions
+
+both the pit number density and the pit area density in the presence of HSO4- ions.
+
+Keywords: aluminium, sulphate, thiosulphate, hydrogen sulphate, capacitor
+
+Introduction
+Aluminium (Al) electrolytic capacitors are widely used in all types of with favourable economics. Since the capacitance of Al foil used in electrolytic capacitor is determined by its surface area, electrochemical etching process has been adopted to increase surface area. For high voltage application, DC etching which forms long etch tunnels is demanded rather than surface etching [1, 2]. Over the past few decades, a considerable number of studies have been made on the metal dissolution kinetics [3], the passivation of the oxide film in Al etch tunnels during the electrochemical etching [4] and the morphological study of Al etch tunnels by using scanning electron microscopy (SEM) [5, 6]. There are many factors which influence tunnel etching. Among them, the well discussed factors are the properties of Al foil such as impurities, grain size, cubicity and the properties of etching solution such as composition and temperature of etching solution and finally, etching time. In general, etching process is done in a hot chloride solution at etch pits form. Since the pit walls grow in five directions electronic equipment because they have wide working potential range
+
+temperatures above 70°C. In the initial attack, crystallographic cubic simultaneously, the depth of etch pits is half the width at the surface [7]. When the pit width increases to about 1 µm, there is a change in growth morphology. The formation of etch tunnels from the existing etch pits and subsequent their growth along [100] direction occur [1]. change in morphology. Since the shape of etch tunnels is influenced In contrast, below 60 °C, etch pits coalesce into large pits without any by the additives in the solution, various additives for increased surface area have been employed. Among them, sulphate (SO42-) is the most common. In previous work [8, 9], the effect of sulphate ion additives on pitting corrosion of pure Al was investigated at room temperature
+2
+
+It was revealed that the addition of SO42- ions retards pit initiation and at the same time accelerates Al dissolution in the pits. In addition, the ) ion additive was also reported [10].
+
+by observing how pit morphology depends on SO42- ion concentration.
+
+beneficial effect of thiosulphate (S2O32-) and hydrogen sulphate (HSO4-
+
+In the present work, effects of SO42-, S2O32- and HSO4- ion additives on electrochemical etching of pure Al foil were examined in 4 M sodium chloride (NaCl) solution as a function of anion concentration using potentiodynamic polarisation experiment, galvanostatic potential transient technique, electrochemical impedance spectroscopy and scanning electron microscopy (SEM). The experimental results are discussed in terms of the changes in etch tunnel morphology and surface area in the presence of anion additives.
+
+Experimental
+The test specimen used in this work was high purity (99.99%), 120 µm thick aluminium (Al) foil. The chemical composition of the foil used in this study was determined by ICP-AES (Inductively Coupled Plasma Atomic Emission Spectrometry) and is shown in Table 1. Table 1 Impurity concentration in Al foil (in wt ppm). Fe 9.28 Si 8.63 Cu 48.2 Mg 1.31 Zn 7.45 Mn <1.0 Cr <1.0 Ni <2.0 Ti <2.0 Pb <5.0 In <20
+
+The Al foil was pretreated before etching by immersion in 1 M NaOH solution at room temperature for 10 min to enhance uniformity of the distribution of tunnel lengths and widths [11]. In all electrochemical experiments, a platinum gauze and a saturated calomel electrode (SCE) were used as the counter and reference electrodes, respectively. Pitting potential, Epit, of Al foil in the absence of SO42-, S2O32- and
+
+HSO4- ions was compared with that of Al foil in the presence of these ions by potentiodynamic polarisation experiments. Measurements were made at a scan rate of 0.5 mVs-1 in the applied potential range galvanostat/potentiostat.
+3
+
+from open-circuit potential to ­0.4 VSCE by using an EG&G model 263A
+
+Etching was carried out in 4 M NaCl solution containing various SO42-, S2O32- and HSO4- ion concentrations at 80°C at a constant current density of 100 mAcm-2. To investigate the effect of SO42-, S2O32- and
+
+HSO4- ion addition on initiation and growth of pits and etch tunnels, the potential was recorded galvanostatically with time.
+
+Fig. 1 demonstrates schematic diagram of applied wave form for double current step experiment. In stage I, pits and etch tunnels were first formed by applying a constant anodic current density of 100 passivated during current interruption. In stage III, galvanostatic mAcm-2. After that(stage II), pre-existing pits and etch tunnels were potential transients resulting just after current interruption were analysed to investigate the effect of anion addition on growth of pits and etch tunnels.
+
+Applied Current Density / mAcm
+
+-2
+
+100
+
+I
+
+II
+
+III
+
+0 5s
+
+Interruption time, tin
+
+Time / s
+
+Fig. 1. Schematic diagram of applied current wave form for double current step experiment.
+
+The oxide film formed on the etched Al foil by anodising in 0.5 M capacitance from electrochemical impedance spectra and, at the same time, to examine pits and etch tunnels by SEM. The current density of 0.5 mAcm-2 was applied until 30V was reached, and then the foil was held at 30V for a further 30 min. H3BO3 + 0.05 M Na2B4O7 solution to determine the oxide film
+
+4
+
+Electrochemical impedance measurements were conducted on the
+
+anodized Al foil in 0.5 M H3BO3 + 0.05 M Na2B4O7 solution by using an Electrochemical Measurement Unit (Zahner IM6e impedance analyser) to determine the oxide film capacitance of Al foil. Ac signal of 5 mV amplitude was superimposed on open-circuit potential at room measured impedance spectra were analysed using the complex nonlinear squares (CNLS) fitting method based upon the simple Randles circuit [12, 13]. The morphology of pits and etch tunnels was observed using the oxide replication technique [14]. Al was dissolved from the anodised foil by immersion in bromine-methanol solution. After that, the remained oxide replica was observed by using SEM. temperature over the frequency range of 10-1 Hz to 105 Hz. The
+
+Results and Discussion
+Fig. 2 presents the XRD pattern of Al foil obtained by theta-two theta scanning method for examining preferred orientation. In this figure, it was shown that the diffraction peak from (200) plane was the most dominant. Therefore, it is evident that the surface of Al foil mainly consists of (100) plans. Fig. 3 shows the typical SEM micrograph of the oxide replica of the Al 100 mAcm-2 for 40 s. It was observed that most of etch tunnels grew
+
+foil etched in 4 M NaCl solution at 80°C at an anodic current density of in the direction perpendicular to the surface of Al foil. Considering that etch tunnels grow preferentially along [100] direction in a hot chloride solution as mentioned in introduction, This is another indication that Al foil used in this work has (100) preferred orientation. Fig. 4 depicts anodic polarisation curves of Al foil with a scan rate of concentrations at 80 °C. Figs. 4(a) and 4(b) showed that pitting 0.5 mVs-1 in 4 M NaCl solution containing various anion
+
+concentrations increased. This implies that pit initiation is suppressed by the addition of SO42- and S2O32- ions. In contrast, Fig. 4(c) showed initiation is accelerated by the addition of HSO4- ions.
+5
+
+potential, Epit shifted to more positive values as SO42- and S2O32- ion
+
+the decrease in Epit with the addition of HSO4- ions. It indicates that pit
+
+1200
+
+1000
+
+Intensity / arbitrary unit
+
+(200)
+800
+
+600
+
+400
+
+200
+
+(111)
+
+(220)
+60
+
+(311)
+
+0
+
+20
+
+40
+
+80
+
+Fig. 3. Typical SEM micrograph of the oxide replica of the Al foil etched in 4 M NaCl at 80°C at an anodic current density of 100 mAcm-2 for 40 s.
+-0.2
+
+Scanning Angle 2 / degree
+
+Fig. 2. XRD pattern of Al foil used in this work.
+-0.2
+
+Applied Potential / VSCE
+
+Applied Potential / VSCE
+
+-0.4
+
+-0.6
+
+4M NaCl 4M NaCl + 0.01M Na2SO4 4M NaCl + 0.1M Na2SO4 4M NaCl + 0.3M Na2SO4
+
+-0.4
+
+-0.6
+
+4M NaCl 4M NaCl + 0.01M Na2S2O3 4M NaCl + 0.1M Na2S2O3 4M NaCl + 0.3M Na2S2O3
+
+-0.8
+
+-0.8
+
+-1.0
+
+-1.0
+
+-1.2
+
+-1.2
+
+-1.4
+
+-1.4 -10 10
+
+10
+
+-9
+
+10
+
+-8
+
+10
+
+-7
+
+10
+
+-6
+
+10
+
+-5
+
+10
+
+-4
+
+10
+
+-3
+
+10
+-2
+
+-2
+
+10
+
+-1
+
+1
+
+-1.6 -10 10
+
+10
+
+-9
+
+10
+
+-8
+
+10
+
+-7
+
+10
+
+-6
+
+10
+
+-5
+
+10
+
+-4
+
+10
+
+-3
+
+10
+-2
+
+-2
+
+10
+
+-1
+
+1
+
+Current Density / Acm
+
+Current Density / Acm
+
+(a)
+-0.2
+
+(b) Fig. 4. Anodic polarisation curves of pure Al foil with a scan rate of 0.5 mVs-1 in 4 M NaCl solution containing various anion concentrations at 80 °C: (a) SO42-, (b) S2O32- and (c) HSO4-.
+
+Applied Potential / VSCE
+
+-0.4
+
+-0.6
+
+4M NaCl 4M NaCl + 0.01M NaHSO4 4M NaCl + 0.1M NaHSO4 4M NaCl + 0.3M NaHSO4
+
+-0.8
+
+-1.0
+
+-1.2
+
+-1.4 -10 10
+
+10
+
+-9
+
+10
+
+-8
+
+10
+
+-7
+
+10
+
+-6
+
+10
+
+-5
+
+10
+
+-4
+
+10
+
+-3
+
+10
+-2
+
+-2
+
+10
+
+-1
+
+1
+
+Current Density / Acm
+
+(c)
+
+6
+
+Fig. 5 demonstrates galvanostatic potential transients of Al foil
+
+subjected to a constant anodic current density of 100 mAcm-2 in 4 M figure, the potential transients were divided into three stages: the
+
+NaCl solution containing various anion concentrations at 80 °C. In this
+
+initial increase in potential up to the maximum value in the first stage, the decrease in potential after the maximum in the second stage and the stabilisation of potential to a constant value in the final stage. The increase in potential in the first stage is associated with double layer charging and oxide growth, while the decrease in potential in the second stage is ascribed to the breakdown of oxide film and to subsequent pit and etch tunnel initiation. A constant value in potential in the final stage indicates the steady growth of pits and etch tunnels [15, 16]. Potential and time at the maximum are denoted as the maximum potential, Emax, and the induction time, ti, respectively.
+2.0 1.8 1.6 1.4 1.2
+
+Since the breakdown of oxide film and subsequent initiation of pits
+Emax ti
+4M NaCl 4M NaCl + 0.01M Na2SO4 4M NaCl + 0.1M Na2SO4 4M NaCl + 0.3M Na2SO4
+1.2 1.0 0.8
+
+4M NaCl 4M NaCl + 0.01M Na2S2O3 4M NaCl + 0.1M Na2S2O3 4M NaCl + 0.3M Na2S2O3
+
+Potential / VSCE
+
+1.0 0.8 0.6 0.4 0.2 0.0 -0.2 -0.4 -0.6 -0.8 0 0.02 0.04 0.06 0.08 0.10 0.12 0.14 0.16 0.18 0.20
+
+Potential / VSCE
+
+0.6 0.4 0.2 0.0 -0.2 -0.4 -0.6 -0.8 0 0.02 0.04 0.06 0.08 0.10
+
+Etching Time / s
+
+(a)
+
+Etching Time / s
+
+(b)
+
+1.0 0.8 0.6
+
+4M NaCl 4M NaCl + 0.01M NaHSO4 4M NaCl + 0.1M NaHSO4 4M NaCl + 0.3M NaHSO4
+
+Fig. 5. Galvanostatic potential transients of pure Al foil subjected to a constant 4 M NaCl solution containing various anion concentrations at 80 °C: (a) SO42-, (b) S2O32- and (c) HSO4-. anodic current density of 100 mAcm-2 in
+
+Potential / VSCE
+
+0.4 0.2 0.0 -0.2 -0.4 -0.6 -0.8
+
+0
+
+0.02
+
+0.04
+
+0.06
+
+0.08
+
+0.10
+
+Etching Time / s
+
+(c)
+
+7
+
+indicates higher resistance to pit and etch tunnel initiation. In the case increased with increasing SO42- and S2O32- ion concentration as shown in Figs. 5(a) and (b). This implies that the initiation of pits and etch tunnels is more retarded in SO42-- and S2O32--containing NaCl solution of SO42- and S2O32- ion addition, it was found that both the Emax and ti
+
+and etch tunnels occur at Emax and ti, higher value in Emax and ti
+
+than in SO42-- and S2O32--free NaCl solution. In contrast, it was
+
+observed that both the Emax and ti decreased with increasing HSO4- ion concentration as shown in Fig. 5(c). Therefore, it can be said that pits and etch tunnels are more easily initiated in HSO4--containing NaCl solution than in HSO4--free NaCl solution. Fig. 6 shows galvanostatic potential transients resulting just after current interruption in the double current step experiment in anionfree and anion containing 4 M NaCl solutions. In the case of anion-free 4 M NaCl solution, a significant potential overshoot was observed at the current interruption time of 0.04 s as shown in Fig. 6(a). This means that the time required for the passivation of pits and etch tunnels is at least longer than 0.04 s in the absence of anions. In the presence of SO42- and S2O32- ions (Figs. 6(b) and 6(c)), the potential
+
+overshoot at the current interruption time of 0.08 s was higher than that in the absence. This is another indication that pit and etch tunnel initiation is suppressed in the presence of SO42- and S2O32- ions. However, at relatively short current interruption times, more
+
+remarkably reduced potential overshoot appeared, followed by a more rapid potential decay compared with that in the absence. Considering that pits and etch tunnels become still active as the current interruption time decreases, it indicates that the addition of SO42- and potential overshoot at relatively short current interruption times in the presence of HSO4- ions (Figs. 6(d)) is higher than that in the absence, implying that the addition of HSO4- ions retards pit and etch tunnel growth. Summarising the results of Fig. 6, we can depict a schematic diagram of potential transients resulting just after current interruption as given in Fig. 7. The potential transients resulting just after current S2O32- ions accelerates pit and etch tunnel growth. In contrast, the
+
+8
+
+interruption appear in the following two forms: one is an appreciable
+
+potential overshoot followed by slow potential decay (type A) and the other is no potential overshoot followed by rapid potential decay (type B). When pits and etch tunnels are entirely passivated during the current interruption, it is expected that the potential transient of type A appears. However, the potential transient of type B occurs when pits and etch tunnels are partly passivated and still active during the current interruption.
+0.6 0.2 0.4
+
+0.08 s
+
+0.0
+
+0.04 s
+
+0.08 s
+
+0.2 0.0 -0.2 -0.4
+
+Potential / VSCE
+
+0.02 s 0.01 s 0.005 s
+
+Potential / VSCE
+
+-0.2
+
+-0.4
+
+0.04 s
+
+-0.6
+
+0.02 s
+-0.6
+
+-0.8 -0.8 -1.0 -1.0 -1.2 -1.2 0 0.005 0.010 0.015 0.020 0.025 0.030 0.035 0.040 0
+
+0.01 s 0.005 s
+
+0.005
+
+0.010
+
+0.015
+
+0.020
+
+0.025
+
+0.030
+
+0.035
+
+0.040
+
+Time / s
+
+(a)
+
+Time / s
+
+(b)
+
+0.6 0.4 0.2
+
+0.6
+
+0.08 s
+0.4 0.2
+
+0.08 s
+
+Potential / VSCE
+
+0.0 -0.2 -0.4 -0.6 -0.8 -1.0 -1.2 -1.4
+
+0.04 s
+
+Potential / VSCE
+
+0.0 -0.2 -0.4 -0.6 -0.8 -1.0
+
+0.04 s 0.02 s 0.01 s 0.005 s
+
+0.01 s 0.005 s
+
+0.02 s
+
+0
+
+0.005
+
+0.010
+
+0.015
+
+0.020
+
+0.025
+
+0.030
+
+0.035
+
+0.040
+
+0
+
+0.01
+
+0.02
+
+0.03
+
+0.04
+
+0.05
+
+0.06
+
+0.07
+
+0.08
+
+Time / s
+
+(c)
+
+Time / s
+
+(d)
+
+interruption in (a) 4 M NaCl, (b) 4 M NaCl + 0.3 M Na2SO4, (c) 4 M NaCl + 0.3 M NaS2O3 and (d) 4 M NaCl + 0.3 M NaHSO4 at 80 °C.
+9
+
+Fig. 6. Galvanostatic potential transients resulting just after current
+
+A
+Potential Potential overshoot
+
+B
+
+Time
+
+Fig. 7. Schematic diagram of potential transients resulting just after current interruption. Figs. 8 through 10 depict SEM micrographs of pit morphology on the surface of Al foil subjected to a constant anodic current density of 100 mAcm-2 for 3 s in 4 M NaCl solution containing various SO42-, S2O32and HSO4- ion concentrations, respectively. In Fig. 8 and 9, it was apparent that both the pit number density and the pit area density decreased as SO42- and S2O32- ion concentrations increased. On the contrary, there was an increase in the pit number density and the pit area density with increasing HSO4- ion concentration as shown in Fig. in size were mainly observed in 4 M NaCl solution at higher magnification. Figs. 11 (a) through (d) demonstrate SEM micrographs of the oxide replica of pure Al foil subjected to a constant anodic current density of 100 mAcm-2 for 40 s in 4 M NaCl, 4 M NaCl + 0.3 M Na2SO4, 4 M NaCl + 0.3 M Na2S2O3 and 4 M NaCl + 0.3 M NaHSO4 solutions, respectively. S2O32- and HSO4- ions as shown in Fig. 11(a), etch tunnels were only ions as shown in Fig. 11(b) and (c). But the average etch tunnel length formed in the pre-existing pits in the presence of SO42- and S2O32While etch tunnels were uniformly distributed in the absence of SO42-, 10. In addition, it was worthwhile to note that etch pits up to a few µm
+
+10
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Fig. 8. SEM micrographs of pit morphology on the surface of Al foil
+
+subjected to a constant anodic current density of 100 mAcm-2 for 3 s in (a) 0 M, (b) 0.01 M, (c) 0.1 M and (d) 0.3 M.
+
+4 M NaCl solution containing various SO42- ion concentrations at 80 °C:
+
+in the presence of SO42- and S2O32- ions was longer than that in the 11(d)), the average etch tunnel length is shorter that that in the absence. But both the pit number density and the pit area density are higher in the presence than those in the absence. This also leads to larger surface area. absence, resulting in larger surface area. In the case of HSO4- (Fig.
+
+11
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Fig. 9. SEM micrographs of pit morphology on the surface of Al foil subjected to a constant anodic current density of 100 mAcm-2 for 3 s in 4 M NaCl solution containing various S2O32- ion concentrations at 80 °C: (a) 0 M, (b) 0.01 M, (c) 0.1 M and (d) 0.3 M. Fig. 12 illustrates changes in the value of the measured oxide film solution with SO42-, S2O32- and HSO4- ion concentrations during etching. To determine the oxide film capacitance of the anodised Al foil, the measured impedance spectra were analysed using the CNLS fitting method based upon the simple Randles circuit. In this figure, it SO42-, S2O32- and HSO4- ion concentrations. The oxide film capacitance A Cox is proportional to the area A as C ox =  0  r . Here A and d are the d appeared that the oxide film capacitance increased with increasing
+
+capacitance for the anodised Al foil in 0.5 M H3BO3 + 0.05 M Na2B4O7
+
+12
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Fig. 10. SEM micrographs of pit morphology on the surface of Al foil subjected to a constant anodic current density of 100 mAcm-2 for 3 s in 4 M NaCl solution containing various HSO4- ion concentrations at 80 °C: (a) 0 M, (b) 0.01 M, (c) 0.1 M and (d) 0.3 M. area and the oxide film thickness, respectively and  0 and  r represent the absolute (  0 =8.85×10-12 Fm-1) and the relative permittivity constants, respectively. Accordingly, it can be inferred that the increase in the value of Cox by the addition of SO42-, S2O32- and HSO4-
+
+ions to a chloride solution is caused by the increase in surface area.
+
+13
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+a constant anodic current density of 100 mAcm-2 for 40 s in (a) 4 M 4 M NaCl + 0.3 M NaHSO4 at 80 °C. NaCl, (b) 4 M NaCl + 0.3 M Na2SO4, (c) 4 M NaCl + 0.3 M NaS2O3 and (d)
+
+Fig. 11. SEM micrographs of the oxide replica of pure Al foil subjected to
+
+Hence, from the experimental findings, two types of mechanisms for are proposed: - The addition of SO42-and S2O32- ions retards pit and etch tunnel initiation but it enhances growth of etch tunnels in the pre-existing pits. The increased surface area is due mainly to the fact that the by the enhancing contribution to etch tunnel growth.
+
+increased surface area in the presence of SO42-, S2O32- and HSO4- ions
+
+retarding contribution to pit and etch tunnel initiation is overwhelmed
+
+14
+
+1500
+
+1500
+
+Measured Oxide Film Capacitance / µFcm
+
+1000
+
+Measured Oxide Film Capacitance / µFcm
+
+4M NaCl 4M NaCl + 0.01M Na2SO4 4M NaCl + 0.1M Na2SO4 4M NaCl + 0.3M Na2SO4
+
+4M NaCl 4M NaCl + 0.01M Na2S2O3 4M NaCl + 0.1M Na2S2O3 4M NaCl + 0.3M Na2S2O3
+1000
+
+-2
+
+500
+
+-2
+
+500
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+Etching Time / s
+
+(a)
+1500
+
+Etching Time / s
+
+(b) Fig. 12. Changes in the values of the measured oxide film capacitance for the anodized Al foil in 0.5 M H3BO3 + 0.05 M Na2B4O7 solution at 25° C. The
+
+Measured Oxide Film Capacitance / µFcm
+
+4M NaCl 4M NaCl + 0.01M NaHSO4 4M NaCl + 0.1M NaHSO4 4M NaCl + 0.3M NaHSO4
+1000
+
+-2
+
+500
+
+specimens were previously etched in 4 M NaCl solution containing various anion concentrations at 80 °C: (a) SO42-, (b) S2O32- and (c) HSO4-.
+0 5 10 15 20 25 30 35 40 45
+
+Etching Time / s
+
+(c) - The addition of HSO4- ions enhances pit and etch tunnel initiations but it retards growth of etch tunnels in the pre-existing pits. The density and pit area density. increased surface area results from the increase in the pit number
+
+Conclusions
+1. Pitting potential, Epit, in the potentiodynamic polarisation curves and the maximum potential, Emax, and induction time, ti, in the galvanostatic potential transients increased with increasing SO42- and
+
+S2O32- ion concentrations in the NaCl solution, implying the inhibition
+
+15
+
+concentration increased, Epit, Emax and ti decreased as well. This pit and etch tunnel initiation.
+
+of pit and etch tunnel initiation. In contrast, as HSO42- ion
+
+suggests that the addition of HSO42- ions to NaCl solution enhances
+
+2. Galvanostatic potential transients resulting just after short current interruption in the presence of SO42- and S2O32- ions showed no potential overshoot followed by a rapid potential decay. In contrast, the potential transients in the presence of HSO4- ions showed an appreciable potential overshoot followed by a slow potential decay. This indicates the acceleration of pit and etch tunnel growth by the tunnel growth by the addition of HSO4- ions. 3. From the measured oxide film capacitance Cox obtained from the addition of SO42- and S2O32- ions and the retardation of pit and etch
+
+impedance spectra of the anodised Al foil specimens, it was obviously shown that the addition of SO42-, S2O32- and HSO4- ions to a chloride solution increased the value of Cox. This is ascribed to the increase in
+
+surface area due to the enhancement of etch tunnel growth in the preexisting pits in the presence of SO42- and S2O32- ions on the one hand and due to the increase in the pit number density and the pit area density in the presence of HSO4- ions on the other hand.
+
+Acknowledgements
+The receipt of a research grant (grant No. R01-2000-000-00240-0) from Korea Science & Engineering Foundation is gratefully acknowledged. Incidentally, this work was partly supported by the Brain Korea 21 project.
+
+References
+1. `The effect of indium impurity on the DC-etching behaviour of
+Lin and Y. M. Peng, Corros. Sci., 39, pp1531-1543, 1997. aluminium foil for electrolytic capacitor usage', W. Lin, G. C. Tu, C. F.
+
+2. `Modelling the capacitance of d.c. etched aluminium electrolytic capacitor foil', D. G. W. Goad and H. Uchi, J. Appl. Electrochem., 30,
+pp285-291, 2000.
+
+16
+
+3. `Metal dissolution kinetics in aluminum etch tunnels', Y. Tak, N. Sinha and K. R. Hebert, J. electrochem. Soc., 147, pp4103-4110, 4. `Kinetic model for oxide film passivation in aluminum etch tunnels', N. Sinha and K. R. Hebert, J. electrochem. Soc., 147, pp4111-4119, 5. `A scanning Electron Microscope study of etched aluminum foil for
+electrolytic capacitors', C. G. Dunn, R. B. Bolon, A. S. Alwan and A. W. Stirling, J. electrochem. Soc., 118, pp381-390, 1971. 2000. 2000.
+
+6. `Length distribution of aluminium etch tunnels', T. R. Beck, H. Uchi and K. R. Hebert, J. Appl. Electrochem., 19, pp69-75, 1989. 7. `Observations of the early stages of the pitting corrosion of aluminum', B. J. Wiersma and K. R. Hebert, J. Electrochem. Soc., 138,
+pp48-54, 1991.
+
+8. `Effects of sulphate ion additives on the pitting corrosion of pure
+aluminium in 0.01 M NaCl solution', W.-J. Lee and S.­I. Pyun,
+
+Electrochim. Acta, 45, pp1901-1910, 2000.
+
+9. `Effects of sulfate and nitrate ion additives on pit growth of pure
+
+aluminium in 0.1 M sodium chloride solution', S.-I. Pyun and K.­H. Na, W.-J. Lee and J.-J. Park, Corrosion, 56, pp1015-1021, 2000.
+
+10. `The surface treatment and finishing of aluminium and its alloys', S. Wernick, R. Pinner and P. G. Sheasby, ASM international, Metals
+Park(OH), pp190-191, 1987.
+
+11. `Effect of etch tunnel length distribution on frequency dispersion
+
+of pure aluminium foil used for Aluminium electrolytic Capacitor', K.-H. Na and S.-I Pyun, Proceedings of 15th International Corrosion Congress, 22-27th September, Granada, Spain, Paper 144, pp1-7, 2002
+
+12. `Impedance spectroscopy', J. R. Macdonald, John Wiley and Sons,
+New York, p16, 1972.
+
+13. `An a.c. impedance study of LiI-Al2O3 composite solid electrolyte', J.-S. Bae and S.-I Pyun, J. Mat. Sci. Lett., 13, pp573-576, 1994.
+
+17
+
+14. `Technique for a scanning electron microscope study of etched aluminum', C. G. Dunn and R. B. Bolon, J. Electrochem. Soc., 116,
+pp1050-1051, 1969.
+
+15. `Effect of sulphate anions on tunnel etching of aluminium', J. Flis and L. Kowalczyk, J. Appl. Electrochem., 25, pp501-507, 1995. 16. `Pit nucleation behaviour of aluminium foil for electrolytic
+Fukuoka, Corros sci., 42, pp585-597, 2000. capacitors during early stage of DC etching', N. Osawa and K.
+
+18
+

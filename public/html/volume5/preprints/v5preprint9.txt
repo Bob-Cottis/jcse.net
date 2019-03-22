@@ -1,0 +1,232 @@
+ISSN 1466-8858
+
+Volume 5 Preprint 9
+
+Electrochemical corrosion of ERW Pipeline carrying fluid fuel across Highways/Roads and Railways and safety measures:
+Mr. G. Nath, GCGSC Ltd. Dr. (Prof) S.C. Roy, Chemical Engineering Department, Jadavpur University, Dr. (Prof) S.N. Sen, Chemical Engineering Department, Jadavpur University. Key words: Cased crossing, Shorted casing, corrosion, Protective potential, Safety.
+
+Abstract:
+The general practice of crossing a highway or a railway is to use a flexible (steel) or rigid (concrete) pipe. In different specifications considerations are given to protect the carrier pipe from mechanical (Vehicular) load but the problems of cathodic protection to the carrier pipe and the detrimental effect of corrosion within the casing have not been given due importance. A detail study has been made both in the field and at shop and the effects are analysed in this paper. This paper presents a systematic approach to identify the problems encountered by the carrier within the casing and gives the suggestive solutions to overcome these problems.
+
+Introduction:
+The trend in crossing a busy road/ highway or a railway with a carrier pipe is to provide a higher diameter metallic flexible casing (mild steel). The safety code API RP 1102 (USA), IGE/TD/1 (UK) etc. have set safe parameters to be followed to get rid of the direct vehicular load in case of both uncased and cased Road/Railway crossings. Vehicular loads on flexible pipes can cause failure to the carrier pipe by buckling and the safety code API RP 1102, being followed by most of the countries recognises the performance of a properly installed flexible pipe as opposed to heavy wall rigid pipes (concrete pipe) and has based its design criteria on a maximum vertical deflection. However, rigid concrete pipes are also used as casing. In addition to the external coating given to the carrier pipe, application of supplementary cathodic protection (CP) is customary in case of cross-country pipeline to take care of the holidays (coating defects). With a view to cathodically protect the carrier within the casing, the insulators were introduced and end seals were incorporated to control the environment within the casing (Fig.-1). But the result was not as desired and in fact the casing interfered with the ability of CP to maintain adequate corrosion control on carrier within casing. This necessitated investigations and thorough study of the problems, identifying the causes and mitigating the same for safe use throughout the desired life.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Cased Crossing:
+Screwed cap Road surface Vent pipe
+
+Carrier pipe Insulators
+
+Casing pipe
+
+End seal Fig.-1: General arrangement sketch of a Road Crossing. The basic purpose of providing a casing is to relieve the carrier pipe of external stresses due to vehicular load, also provide a path for leaky products to escape from the Road/Railway crossings and also to enable the leaky pipe to be replaced beneath the Road/Railway surface. In most cases the Highway or the Railway Authorities are in favour of using a casing and desire the crossings to be made by trenchless technique only. Specification allows use of both flexible pipes (steel) and rigid pipe (cast iron, concrete) to be used as casing but it is not a customary practice for high-pressure gas/petroleum transportation pipelines to use rigid pipes. The inside diameter of the flexible casing pipe should be large enough to facilitate insertion of carrier pipe and also to prevent transmission of external loads, if any, from the casing to the carrier pipe. After the casing pipe is installed, the properly coated carrier pipe generally fitted with HDPE insulators around it at suitable intervals is inserted carefully inside the casing pipe. End seals, preferably of thick neoprene rubber with steel bands are fitted at both the ends of casing to stop ingress of water/slurry etc.
+
+Practical Problems Encountered with Cathodic Protection of Carrier/Casing Pipe:
+The general opinion may be of that the pipelines without casings at crossings can be designed to withstand mechanical stress safely and the specifications too have set standards/guidelines to be followed while designing an uncased carrier across a road or a railway so as to ensure protection of the pipe but the potential source of problems on the pipe sections under the road/railways caused by corrosion that results from the differences in oxygen content, variations of back fill material and moisture accumulation due to sudden change of depth at crossings might lead to failure. In the event of such a failure of a carrier pipe without casing under road/railway would demand blockage of road/railway traffic to expose the pipe for necessary repair/replacement. This situation is desired neither by an Industry nor by a Road/Railway authority. A casing pipe here comes to the rescue, which would facilitate withdrawal of the failed carrier pipe, repair or replacement of the same followed by re-insertion inside the casing. All cross-country transportation pipelines are given a primary external insulating coating and in addition to use of external coating, supplementary Cathodic Protection (CP) is also generally imparted to take care of holidays (coating defects). A casing pipe across a road/railway is a necessity where disturbance of traffic is allowed by the authorities but the criticality of the long term effect of cathodic protection and corrosion has yet been given due importance. the the not not
+
+The insulators are used to electrically isolate the casing from the carrier, but in course of time these tend to undergo damage. Further, due to the compaction soil during the construction stage and subsequent settlement of backfill earth, the carrier pipe might go down and touches the casing at the ends. This not only contributes to the increased local stresses but also causes shorting of the carrier pipe with the casing. The end seals too fail quite often and give way for water/slurry to enter inside the annulus within the casing. This disrupts the CP imparted to the carrier pipe. The process of corrosion actually starts at this point and a detail study was carried out for detection and their mitigation.
+
+Operating Experiences and Study of the Corrosion Problems Encountered in a Cased Crossing:
+
+The location of a Cathodically Protected highway encased crossing chosen for the purpose of study was exposed on either side. The rubber end seals were found damaged which gave way for water/slurry to accumulate inside the casing and were removed and the annulus was made free of electrolyte (water/slurry). To understand the effect of Cathodic Protection (CP) on carrier pipe within the casing the following activities were taken up and the observations made are recorded hereunder on case basis: The CP was switched off and the Pipe to-Soil-Potential (PSP) was measured for both the carrier and the casing: PSP of carrier pipe outside the casing: - 0.660 V. PSP of the casing: - 0.650 V.
+
+Case-I:
+PSP measured with CP switched on for both carrier and casing at the same location Fig.-2: PSP of carrier pipe outside the casing: - 0.980 V. PSP of the casing measured at one end: - 0.650 V. The minimum required protective potential is ­ 0.85 V w.r.t. Cu/CuSO4 half-cell (reference electrode) and the above readings indicate that the carrier pipe outside the casing length is receiving cathodic protection. The casing is not receiving protection and it confirms electrical isolation. Volt Meter
+
+(+ )
+Reference electrode
+
+( -)
+
+Lead cables
+
+Carrier pipe
+
+Casing pipe
+
+Insulators
+Fig.-2: PSP measurement of a cathodically protected cased crossing.
+
+Case-II
+A low resistance metallic wire was connected between the casing and the carrier by CAD welding to create a short (Fig.-3). The PSP of both carrier and the casing pipes were measured with the CP on. The values are:
+
+C.P. Status
+CP on
+
+PSP of carrier pipe
+- 0.975 V
+
+PSP of casing
+-0.970 V Volt Meter
+
+(+)
+Reference electrode G.L.
+
+(-)
+
+Lead cables Casing pipe Carrier pipe
+
+Insulators
+
+Metallic short
+
+Fig.-3: cased crossing with a shorted casing.
+
+Case-III
+The following modifications were made in the crossing (Fig.-4) and measurements were recorded accordingly: · · The metallic `short' fitted was removed. Fresh end seals of split type were fitted at both ends. The annulus was then filled up with a conductive electrolyte (slurry) by pumping in through the existing vent provided with a screwed cap. Volt Meter
+
+·
+
+(+)
+Reference electrode G.L.
+
+( -)
+
+Lead cables
+
+Carrier pipe
+
+Casing pipe
+
+Electrolyte Fig.-4: Cased crossing filled with electrolyte.
+
+C.P. Status
+CP on
+
+PSP of carrier pipe
+- 0.970 V
+
+PSP of casing
+-0.970 V
+
+The observed PSP of both the carrier and the casing as recorded in Case-II (with low resistance short only) and in Case-III (with the resistance removed and electrolyte introduced in the annulus) are almost same and hence these parameters cannot be used for identification of a shorted casing. Further, as shown in the figures, all PSP measurements taken on the carrier pipe are located outside the casing length and this hardly represents the effect of CP as well as the corrosion process actually taking place on the carrier within and inside the casing length.
+
+Effect of CP within and inside the Casing Pipe:
+During construction stage, the external protective coating of the carrier pipe is likely to undergo damages while inserted within the casing. If the CP current does not reach the carrier within the casing, the bare surfaces at the holidays (coating damages) would be subjected to corrosion. A thorough study was made both at field and also at shop under the simulated field environment to understand the effect of CP on the carrier within the casing. This study was subsequently made at the same crossing with electrolyte introduced within the annulus but without the metallic `short' in the first case. The PSP of the carrier pipe was measured outside the casing length and also about 0.3 mtr inside the casing end. The PSP of the casing also were measured on both outside and inside surface. The arrangement is shown in Fig.-5 and the recorded measurements shown below:
+
+Carrier pipe
+Outside the casing -0.98 V Inside the casing -0.98 V Outside surface -0.98 V
+
+Casing pipe
+Inside surface -0.40 V
+
+The above measurements indicate the following: The carrier pipe is receiving protection both at the outside and within the casing length. The external surface of the casing pipe is only receiving protection. The outer surface of the casing is picking up the CP current and leaving through the electrolyte to the carrier pipe at the holidays (coating defects). The above makes the inner surface of the casing pipe to corrode at the points where current is leaving the surface (where current leaves the surface behaves as anode and corrodes).
+
+Study at Field: Case-IV
+Volt Meter
+
+(+)
+Reference electrode
+
+(-)
+
+Carrier pipe Casing pipe
+
+Electrolyte Fig.-5: PSP measurement of a cased crossing filled with electrolyte.
+
+Case-V
+In the same arrangement as done in Case-IV, a `Short' was simulated between the casing and the carrier and the PSP were recorded at the same locations with CP on:
+
+Carrier pipe
+Outside the casing -0.98 V Inside the casing -0.65 V Outside surface -0.98 V
+
+Casing pipe
+Inside surface -0.65 V
+
+Experiment at Shop to Determine the Effect of CP Inside the Casing: (+)
+G.L. Reference Electrodes inserted into the holes
+
+( -)
+Negative lead to carrier pipe
+
+2 1
+
+3
+
+4
+
+5
+
+6 7
+
+Magnesium Anode connected to the carrier pipe 1, 2, 3, 4, 5, 6 & 7 are the locations of PSP measurement (2 through 5 are locations of hole to facilitate insertion of reference electrode on the casing pipe). Fig.-6: Shop test for observing the effect of CP on carrier pipe within the insulated casing. The above indicates that the CP current picked up by the casing is being accumulated and discharged through the metallic low resistance short. This also makes the carrier and the outer surface of the casing to achieve the same potential. A detail experiment at shop was conducted to observe the effect of CP on coated carrier within the bare casing pipe. The following were fabricated and assembled as shown in the Fig.- 6. i. ii. iii. iv. v. vi. A casing of 0.10m dia and 2.5m long. 5 (five) numbers of holes of 0.05m dia were made on casing pipe at o.4m intervals in tandem to facilitate PSP measurement by insertion of reference electrode. A Coal Tar Enamel (CTE) coated 0.05m dia pipe (carrier pipe) was fitted with insulators. The carrier pipe was then inserted inside the casing pipe and end seals were fitted. The annulus inside the casing was filled with a low resistivity electrolyte (slurry). The above assembly was lowered inside a trench and was backfilled to the top of the casing with excavated earth keeping the 0.05 m dia holes intact. The ends of casing and the free ends of carrier pipe were kept bare suitably to facilitate measurement. A magnesium anode was connected to the carrier pipe at one end.
+
+vii.
+
+Case-A:
+The casing was properly insulated and ends were fitted with end seals. The annulus was then filled with low resistivity electrolyte (Fig.-6). Table-1: PSP of carrier pipe with insulated casing. Location 1. 2. 3. 4. 5. 6. 7. PSP of the Carrier pipe with electrolyte within the annulus and casing insulated - 1.25 V - 0.0. V - 1.25 V - 1.25 V - 1.28 V - 1.26 V - 1.22 V
+
+Case-B:
+Table-2: PSP of carrier pipe with shorted casing. Location 1. 2. 3. 4. 5. 6. 7. PSP of the Carrier pipe with electrolyte within the annulus and casing metallically shorted - 1.10 V - 0.74 V - 0.72 V - 0.69 V - 0.70 V - 0.72 V - 1.05 V
+
+Table-2 shows the test results of PSP of carrier with a simulated low resistance metallic short and the same Fig.-6 (a metallic short to be incorporated) may be referred.
+
+Device to Determine the Existence of a `Short' in a Cased Casing:
+The electrolyte in the annulus and the metallic `short' provides parallel electrical paths between the carrier and the casing. The resistance of both the short and the electrolyte will vary due to the movement of pipe caused by mechanical effect of vehicular load and compaction of soil at the construction stage or due to the variation of electrolyte accumulated in the annulus respectively. This contact resistance between the carrier and casing pipe influence the cathodic protection of the pipes at crossing. Experiment shows that a resistance in the short of value more than 5 ohms** is not harmful to the carrier pipe when the resistivity of the electrolyte present inside the annulus have a low value (< 100 ohm-cm). A `short' between a casing and a carrier of value less than five (<5) ohms with an electrolyte of comparatively high resistivity would make the carrier pipe unprotected. Due to these varying conditions it becomes unpredictable to realistically assess the degree of cathodic protection a specific carrier pipe will have in case of existence of metallic contact between the carrier and the casing pipe. The identical PSP values (­ 0.98 V) of the carrier and the casing recorded in the field for Case - II and Case ­ III reveals the same problem as already discussed.
+
+The Field study:
+The device adopted to determine a `short' was introduction of an additional power source with the objective to change the potential of the casing pipe with respect to the carrier pipe. This helped in determining the existence of a metallic `short' between the casing and the carrier. 12 V batteries were used in series suitably as additional
+
+source of power. The positive terminal was connected to the casing at one end and the negative was connected to a temporary distant structure (cathode).
+
+Additional power source Ammeter
+
+-+
+G.L.
+
+(- )
+
+(+)
+
+Carrier pipe Casing pipe
+
+Electrode (Cathode)
+
+Distant Cathode
+
+Electrolyte
+
+Metallic short
+
+Fig.-7: Test for detection of short using additional power source.
+
+·
+
+Experiment with annulus filled with electrolyte and the casing metallically shorted:
+Table-3: PSP of casing and the carrier pipe with additional power source and metallic short. Additional power source PSP of carrier -0.120 V -0.110 V -0.103 V -0.970 V PSP of casing -0.120 V -0.112 V -0.103 V -0.980 V Volts Switched off 18 V 28 V 40 V Amperes 0.30 A 0.52 A 0.70 A
+
+Current from the battery was applied in small increments by selecting number of cells suitably. The Ammeter was used to record the increment of applied current. Table-3 shows the PSP recorded w.r.t. the small increment of applied current and keeping the CP on.
+
+·
+
+Experiment with annulus filled with electrolyte and metallic short removed from the casing:
+The metallic short was then removed and the same test was carried out with increase in positive increment of applied current. The Fig.-7 may be referred (with the metallic `short' removed). The obtained data have been shown in the Table-4: Table-: PSP of casing and the carrier pipes with additional power source and metallic short. Additional power source PSP of carrier -0.120 V -0.117 V -0.115 V -0.117 V PSP of casing -0.120 V +0.100 V +0.160 V +0.220 V Volts Switched off 24 V 32 V 40 V Amperes 0.40 A 0.68 A 0.90 A
+
+The PSP of the carrier pipe is least affected whereas that of the casing is increasing and showing positive values of voltage applied from the additional power source. The above result confirms that a casing has not undergone a metallic short.
+
+The Summery of Observations:
+1. The various tests conducted reveal that a shorted casing offsets the CP of the carrier. This metallic short is created mainly due to the backfilling of earth over carrier pipe followed by compaction of soil and also due to the movement of the carrier pipe due to temperature, vehicular load etc. 2. The electrolyte inside the annulus allows the carrier to receive cathodic current through the casing and the carrier pipe becomes cathodically protected. This is a favourable condition so far the CP of the carrier pipe is concerned but under this situation, the current enters the outer surface of the casing and leaves the inner surface to reach the carrier through the electrolyte. This causes the inner surface of the casing pipe to act as anode, which corrodes. 3. This is also to be noted that in case a casing is shorted, the same electrolyte present within the annulus becomes a source of accelerated corrosion of the carrier within the casing. 4. Again, in absence of slurry/electrolyte inside the annulus the carrier within the casing does not receive the CP current and becomes cathodically unprotected. Condensation of the moist environment and bacterial growth within the annulus would rather cause the carrier to become susceptible to the atmospheric corrosion.
+
+Recommendations:
+A carrier without casing if installed at the recommended depth under a road or a railway surface will not come under direct effect of mechanical (vehicular) load and too will receive the cathodic current. A casing as discussed above is a source of problem under all circumstances and should be avoided wherever the Road/Railway controlling authorities allow the crossing by open-cut method. To ensure a safe and longer life of the carrier pipe, the following recommendations are suggested:
+
+For uncased crossing by open cut method:
+The carrier pipe to be used across a crossing should be of higher thickness to provide a corrosion allowance suitably. Extra care should be taken while applying the external coating on the carrier pipe. An additional coat should be given on the section of the carrier pipe to be installed within the road section (in case of a factory coated pipe clear instructions should be given to the applicator in this regard). Holiday test must be carried out just before lowering. All possible care must be taken to keep the external coating intact during the lowering operation and should be carried out in presence of an experienced supervisor. Test points at either end of the crossing must be installed to regularly monitor the PSP of the carrier pipe. In addition, suitable number of Mg anodes should be installed and connected to ensure protection of the carrier, in case of prolonged failure of the impressed type CP.
+
+Cased crossing:
+Busy railways and highways are not allowed to be crossed by open-ct method and without a casing and also the concerned authorities set some stipulations in line with set specifications. In such cases installation of a casing by trenchless technique is mandatory. In addition to the recommendations already made for the uncased crossing, the following suggested measures should also be adopted for safe operation of the cased crossing throughout the expected life:
+
+Concrete pipes are sometimes used in sections and a collar or socket type joints are used which are likely to fail. The ends of concrete casing are generally sealed with brick walls and too are might crack allowing entry of water. Hence, a flexible (Steel) casing is always recommended. The insulators should be closely fitted on the carrier pipe (preferably at an interval of 1 m) and the material should be robust and durable. A pair of insulators should be fitted to the carrier side by side and just inside the casing at either end to resist a possible short. All possible care must be taken to keep the external coating intact during insertion of carrier and should be carried out using proper tools and machinery and also in presence of an experienced supervisor. After insertion it is to be ensured that the annulus is free from entrapped water/slurry and a Megar (Insulation) test is necessary ensure a minimum resistance of 1 mega-ohm between the carrier and the casing. It is recommended to provide end seals as per laid down specifications but an additional end seal of suitable size is preferred around the first. After installation of an encased crossing, concrete supports should be constructed at the bottom of the carrier on the either side of crossing and preferably as close as possible to the casing ends. Concrete supports should also be constructed below the casing pipe on either end. While designing the concrete supports the maximum load effect should be considered to prevent a sink. Suitable thick rubber pads should be provided between the concrete and the casing/carrier surfaces to take care of the coating. Some specifications recommend annular fill like nitrogen and cementitious fill within the annulus to provide a non-corrosive environment. The cementitious fill needs a great care to ensure complete filling of the annulus else cracks might develop giving room for water leading to corrosion. Should a leak develop within the cementitious fill, the entire pipe section within the road/rail crossing will have to be abandoned. The crossing will have to be made afresh along a new alignment. Nitrogen gives a non-corrosive environment but with passage of time might escape through even a minor opening/damage in the non-metal end seals provided at the ends of the casing. However, use of Nitrogen is always a better option as this does not have any adverse affect but in long run the escape is inevitable.
+
+Discussion:
+The life of the carrier with or without casing across a crossing solely depends on the precautions taken and specifications adhered to during construction period. The maintenance in the post construction period plays a vital role in enhancing the life of the pipe. The ends of the crossing should be exposed preferably, once in a year to check the end seals. A Megar test to detect a short may not be indicative in the post construction period because of an electrical path along the soil through holidays in the carrier and the casing. Hence, a test with positive power source should be used to detect a `short' as already discussed. End seals leak quite often letting in water/slurry into the annulus and use of galvanic anodes within the annulus may be conceived to take care of the electrochemical corrosion of the carrier in the event of a short. These anodes of suitable shape and size may be securely mounted on the carrier within the crossing length in such a way that these remain in position till their complete utilization. The material and the number of anodes to be mounted should be so designed as to ensure protection of the carrier throughout the desired life. It may so happen sometimes that a short is created at a point in between the casing length of an existing crossing and clearing this short with any reasonable effort working from casing end may not be possible and will be permanent in nature. In such cases, the annulus may be filled with a material that will stifle corrosion. Use of a filling compound like grease containing chemical corrosion inhibitor or unrefined petroleum having low sulfur content may be resorted, which should be regularly monitored for replenishment, if necessary.
+
+Conclusion:
+Experience shows that the casings tend to become `short' with passage of time due to the reasons as already stated. Form the safety point of view it is always wise to make the crossing without a casing wherever possible. All the precautions and maintenance recommendations made should be strictly complied with. The most important part is the quality of the external coating applied to the carrier. A properly bonded and cent percent
+
+holiday-free coating inserted within the casing with utmost care ensures the desired life of the carrier. There should not be any sorts of compromise with the selection and application of the coating. All possible care must be taken during the insertion of the carrier pipe within the casing to keep the coating intact else all the good efforts given in making an efficient coating would be lost.
+
+Reference:
+** A Study of Cathodic Protection of Buried Steel Pipeline with Steel Casing" --- An A.G.A. Pipeline Research Project PR-138-83 of Midwest Research Institute, Kansas City, Mo.
+

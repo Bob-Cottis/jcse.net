@@ -1,0 +1,417 @@
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+The use of dedicated simulation software for the design of the cathodic protection of underground pipeline networks L. Bortels +*, B. Van den Bossche+, A. Dorochenko+, J. Deconinck++ + Elsyca N.V., Kranenberg 6, 1731 Zellik, Belgium ++ Vrije Universiteit Brussel, Department IR\ETEC, Pleinlaan 2, 1050 Brussels, Belgium leslie.bortels@elsyca.com
+
+ABSTRACT A simulation software for the cathodic protection (CP) of underground pipeline networks is presented. This software uses an advanced model for the coating quality, taking into account the local soil resistivity, holiday ratio, average holiday size, coating thickness and coating resistance. The model considers the ohmic voltage drop in the pipes and integrates aboveground structures like rail bars, sub-stations, electric trains or trams and overhead wires. As a result, the model calculates both the "on" and "off" pipe-to-soil potentials along a pipe, the axial currents flowing through the pipes as well as the radial current densities leaving or entering the pipe walls. In this paper, the software will be applied to two different cases. The first one concerns the design of the cathodic protection of a 55 km pipeline section. The second one is the
+
+evaluation of an existing pipeline network in the north-west of The Netherlands.
+
+Keywords: simulation software, cathodic protection, pipeline networks, interference, "onoff" potential.
+
+1
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+INTRODUCTION Failures in oil or gas pipelines can have severe environmental and economic consequences. Therefore, large investments have been made in studies on corrosion prevention for buried pipes. Important research is being conducted to determine and predict the corrosiveness of the soil, corrosion mechanisms in the ground and to develop effective protection techniques such as coatings for buried metallic structures. Moreover, because of the hidden character of pipelines and their low accessibility, installation, survey, maintenance and repair is intricate, elaborate and expensive. Numerical modeling can provide some relief by simplifying and optimizing installation, maintenance and repair. When used in the planning phase, conceptual mistakes can already be traced before any actual installation, by calculating different set-ups in cheap, harmless and fast simulations. Also, a model can provide reference values for measurements on operational sites, that can help in the tracing and solving of any possible anomaly. Last but not least, the model technique creates a safe and cost effective on screen `virtual' test environment where new corrosion engineers can gain experience without long and expensive `trial and error' experiments on site. The development of such a mathematical model has been performed by former researchers of the Vrije Universiteit Brussel (Belgium) and commercialized under the name CatPro(1). The mathematical details and the validation of the model have been discussed in detail in previous publications [1-4]. In the present paper the software [5] will be applied to two real-life cases, the first one being the design of a new pipeline, the second one the evaluation of an existing pipeline network.
+
+1
+
+CatPro is a PC-version of the cathodic protection software with full user-interface and visualization options.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+CASE 1 : DESIGN OF THE CP OF A 55 KM PIPELINE SECTION This section describes the calculation of the design of the cathodic protection of a 55 km long section of a new pipeline using the simulation software as described above. The obtained results using this software are compared with traditional attenuation formulas (also implemented within the software) as often used in the design of CP-systems.
+
+Description of the problem The complete layout of the CP-configuration is described in a set of CAD files. However, these CAD files are pure drawings (specifying amongst others the topology, pipeline location, anodes, rectifiers, soil resistivity, ...) and could not (directly) be used as input for the calculations. Since the pipeline is totally isolated (not influenced by any other CP-system), it has been chosen to model a straight pipeline buried at a constant depth of 2 m. The layout of the system that is investigated is specified in a file, giving the potential metering units and anode locations for section 100 to 150 km of the original pipeline. This file is the basis of the data input. As a consequence, the route length of the pipe is not equal to the installed length due to deviations in the vertical plane to enable the pipe to follow ground contours. According to the original data files, pipe length installed over a 50 km route length should be in the region of 55 km. For this reason, the developed length of the section under consideration is up-scaled from 50 to 55 km. In total, there are 3 ground beds to protect this section as can be seen from Figure 1 below.
+
+Pipeline data
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 9 Preprint 2 6 February 2006 The specifications for the pipeline section are given in Table 1 below and are assumed to be uniform along the entire length (except for the coating resistance, see further).
+Section [km] 100 ­ 150 Length [km] 55.0 Diameter [cm] 63.0 Wall [mm] 9.0 Resistivity [ m] 2.0e- 7 Coating Resistance [ 2] m 5000.0
+
+TABLE 1 - Pipeline specifications.
+
+Pipeline
+
+Rectifiers
+
+Ground beds
+
+FIGURE 1 - Geometry of the CP-configuration (X- and Y-axis are decoupled).
+
+Soil resistivity data Soil resistivity data are read from the original CAD files for the chainages ("KP" points) as described in the log file. An overview of the derived data is given in Table 2 and Figure 2 below. It turns out that the average soil resistivity over the entire length of the pipeline is about 35  Remark that these data are bases on route lengths. m.
+KP [km] [m] KP [km] [m] KP [km] [m]  KP [km] [m]  KP [km] [m]
+
+100.0 101.0 102.0 103.0 104.0 105.0 106.0
+
+13.3 18.9 11.8 15.6 24.1 21.3 27.5
+
+110.0 111.0 112.0 113.0 114.0 115.0 116.0
+
+31.7 38.3 28.7 48.0 41.0 56.0 68.0
+
+120.0 121.0 122.0 123.0 124.0 125.0 126.0
+
+29.3 27.9 28.5 11.2 81.0 18.9 18.3
+
+130.0 131.0 132.0 133.0 134.7 135.5 136.1
+
+36.0 43.6 13.8 13.4 40.0 28.0 38.0
+
+138.9 139.8 140.7 141.5 142.6 143.4 145.1
+
+25.0 43.0 27.0 50.0 46.0 40.0 75.0
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+107.0 108.0 109.0 17.1 33.5 7.9 117.0 118.0 119.0 38.0 23.7 20.8
+
+Volume 9 Preprint 2
+127.0 128.0 129.0 12.1 38.1 31.4 136.5 137.2 138.2 20.0 70.0 20.0
+
+6 February 2006
+146.1 147.0 148.1 50.0 70.0 40.0
+
+TABLE 2 - Measured soil resistivity along pipeline trajectory.
+
+Measured Soil Resistivity
+90.0
+Soil Resistivity [Ohm.m]
+
+80.0 70.0 60.0 50.0 40.0 30.0 20.0 10.0 0.0 0.0 10.0 20.0 30.0 40.0 50.0 Developed Length [m]
+
+FIGURE 2 - Plot of soil resistivity along pipeline trajectory based on data of Table 2.
+
+Ground bed and rectifier data The ground beds are located at a distance of 400 m from the pipeline and consist out of 20 electrodes with a diameter of 0.7 m and a spacing of 9 m. The equivalent resistance-to-earth of such a ground bed is calculated using Dwight's equation [6] as given below:
+
+0.00159  8L 2L   R ln   ln  656 N , 1 0.   NL S d 
+with :
+=
+
+Soil resistivity in ohm-cm (see table 3), Number of anodes in parallel (= 20), Length of anode in meters (= 2.0 m), Diameter of anode in meters (= 0.7 m),
+
+N= L= d=
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 9 Preprint 2 S = Anode spacing in meters (= 9.0 m), R= Resistance of vertical anodes in parallel to earth in ohms (see table 3).
+
+6 February 2006
+
+Using this formula and the soil resistivity near the ground bed location (as derived from the CAD files) the ground bed resistance-to-earth values of table 3 are obtained.
+
+Ground bed 1 2 3
+
+KP [km] 113,015 127,515 141,063
+
+ m] [ 48,0 34,2 27,0
+
+R [] 0.62 0.44 0.35
+
+TABLE 3 - Resistance-to-earth of ground beds.
+
+With the distance of the ground bed to the pipe being 400 m, the total length of the connecting cable (from pipe to rectifier and from rectifier to ground bed) is about 450 m. For this kind of purposes, it is common practice to use type 6 AWG cables. Since the resistance of such cables is 1.322 m /m, the total cable resistance per ground bed is about 0.6  . This
+
+resistance has been added to the numerical model since it is an important factor in the design of the rectifier output voltage for a given impressed current. Finally, the back voltage of the ground bed needs to be taken into account. This is the voltage that needs to be overcome by the rectifier source voltage before current can flow through the ground bed [6]. For ground bed anodes with carbonaceous backfill as used here, this value is in the order of 2 V. This value has been introduced in the polarization behavior of the anodes.
+
+Polarization data for bare steel The required rectifier current output ensuring a minimum protection level (i.e. more negative than ­0.85 V versus CSE) strongly depends on the polarization behavior of the pipeline. Since no experimental data were available, data from literature have been taken [7]. These data have been shifted in order to have a natural potential of ­0.45 V CSE. information is given in Table 4 and Figure 3 below. Detailed
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+P\S Off [V] CSE -1.187 -1.089 -1.034 -0.877 -0.809 -0.689 -0.579 -0.524 -0.497 -0.473 -0.462 -0.450 -0.438 -0.273
+
+Current Density [A/m2] -5.000 -1.000 -0.500 -0.100 -0.070 -0.050 -0.030 -0.010 -0.005 -0.002 -0.001 0.000 0.001 1.000
+
+TABLE 4 - Polarization data for bare steel assuming a natural potential of ­0.45 V CSE.
+
+1.0
+Current Dens ity [A/m2]
+
+0.0 -1.0 -2.0 -3.0 -4.0 -5.0 -1.2 -1.0 -0.8 -0.6 -0.4 -0.2 Off potential [V] (versus CSE)
+
+FIGURE 3 - Plot of polarization data based on the data of Table 3.
+
+Results obtained using the full model Uniform soil resistivity In a first calculation, a uniform soil resistivity of 35.0  is taken along the entire pipeline m trajectory. The three ground beds are connected to the pipeline using an impressed current rectifier (constant current output). Calculations are done for current outputs of 20.0, 10.0, 5.0 and 3.0 A/rectifier. The calculated "off" potential and the minimum protection level (-0.85 V) along the developed length for a total current of 60 A (3 * 20 A) are presented in Figure 4
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 9 Preprint 2 6 February 2006 below (values are presented with respect to CSE). It can be seen that, with the input data as specified before, the "off" potential ranges between ­0.995 and ­1.05 V.
+
+FIGURE 4 - "Off " potential along the pipeline at a rectifier output of 20 A/ground bed.
+
+Similar results are obtained for the other rectifier outputs as can be seen from the overview given in Figure 5. It turns out that a minimum current of 5 A/rectifier is required to ensure a protection level of at least ­0.85 V/CSE. Table 5 gives an overview of the rectifier voltage difference and power output as a function of the current output. Do remark that both the resistance of the cables between the rectifier and the pipeline/ground bed and the back voltage of the anodes has been taken into account.
+
+I [A] 20 10 5 3
+
+ [V] V1 30.35 16.55 9.71 6.92
+
+ [V] V2 27.09 15.02 8.91 6.45
+
+ [V] V3 25.88 14.42 8.61 6.28
+
+P1 [W] 607.00 165.50 48.55 20.76
+
+P2 [W] 541.80 150.20 44.55 19.35
+
+P3 [W] Ptot [W] 517.60 1666.40 144.20 459.90 43.05 136.15 18.84 58.95
+
+TABLE 5 - Rectifier current, voltage and power output (uniform soil resistivity).
+
+Varying soil resistivity
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 9 Preprint 2 6 February 2006 In a second calculation, the measured soil resistivity (see Table 2) along the pipeline trajectory is taken into account. The overall coating quality of 5000  2 as used before is now m scaled with the local resistivity which gives the coating resistance profile as presented in Figure 6. These values range between 1130 and 11600 m2. Again, calculations are done for current outputs of 20.0, 10.0, 5.0 and 3.0 A. Figure 6 gives the calculated "off" potential and a comparison with the results obtained assuming a uniform soil resistivity (20 A/rectifier). It turns out that the maximum error made by assuming a uniform resistivity is about 80 mV.
+
+"off" potential at 20A "off" potential at 10A -0.75
+
+"off" potential at 5A "off" potential at 3A
+
+Min. Pr otection Level
+
+-0.80
+
+-0.85
+
+-0.90 -0.95 -1.0
+
+-1.1 -1.1 0 10 20 30 Developed Length [km] 40 50
+
+FIGURE 5 - "Off" potentials for different rectifier currents (uniform soil resistivity).
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+FIGURE 6 - Coating quality along pipeline trajectory (varying soil resistivity).
+
+FIGURE 7 - "Off" potential at a rectifier output of 20 A (varying soil resistivity). Markers represent the results for a uniform soil resistivity.
+
+Results for different rectifier outputs are given in Figure 8. From this plot is can be seen that a total current output of 15 A no longer guarantees full protection in the areas with low soil resistivity. As before, an overview of the rectifier outputs is given in Table 6.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+"off" potential at 20A "off" potential at 10A -0.60
+
+Volume 9 Preprint 2
+"off" po tential at 5A "off" po tential at 3A Min. Protection Level
+
+6 February 2006
+
+-0.70
+
+-0.80
+
+-0.90
+
+-1.0
+
+-1.1 0 10 20 30 Developed Length [km] 40 50
+
+FIGURE 8 - "Off" potential for different rectifier current outputs (varying soil resistivity).
+I [A] 20 10 5 3  [V] V1 29.67 16.23 9.55 6.82  [V] V2 26.44 14.72 8.76 6.36  [V] V3 25.72 14.35 8.57 6.24 P1 [W] 593.40 162.30 47.75 20.46 P2 [W] 528.80 147.20 43.80 19.08 P3 [W] Ptot [W] 514.40 1636.60 143.50 453.00 42.85 134.4 18.72 58.26
+
+TABLE 6 - Rectifier current, voltage and power output (varying soil resistivity).
+
+Results obtained using the attenuation model Classical cathodic protection design is often based on so-called attenuation formulas [8]. These formulas state that the potential distribution along a pipeline is given by:
+
+V ( x)  .e  D.e ax , C ax
+with x the developed length and a the attenuation coefficient of the pipeline. The attenuation coefficient is function of the metal resistance r [ /m] and the coating conductivity g [Siemens/m] of the pipeline:
+
+a  rg .
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 9 Preprint 2 6 February 2006 The constants C and D in the attenuation formula are determined by the "boundary conditions" of the system, being the applied current and/or voltage differences between the pipe and the anode(s). Standard attenuation formulas assume zero resistance at remote earth and therefore, the calculated potential V(x) is the potential difference between the pipeline and remote earth. The equations also assume constant coating leakage conductance and uniform soil resistivity throughout any given section. According to NACE regulations [9], the average potential shift measured to "remote earth" to achieve sufficient protection is ­0.25 V. The model presented here is perfectly capable to solve the classical attenuation equations, even with changing coating leakage conductance and soil resistivity. The same model as before is used, however without taking into account the polarization of the pipeline and by focusing on the metal potential V instead of the "off" potential as done before.
+
+Uniform soil resistivity Exactly the same set of calculations as before is done. Taking into account a metal resistivity of 2.0e-7  a coating resistance of 5000  2 and a metal cross section of 0.0176 m 2, an atm, m tenuation coefficient of 6.71e -5 m -1 is obtained. The calculated metal potential for this attenuation coefficient is presented in Figure 9 (20 A/rectifier). It can be seen that, as before, the entire pipeline is more than adequately protected since the minimum potential to remote earth is ­2.03 V. When compared to Figure 4, the same potential "profile" is obtained.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+FIGURE 9 - Attenuation along the pipeline at a rectifier output of 20A/ground bed.
+
+An overview of all results is presented in Figure 10. It turns out that, based on classical attenuation formula, a total current output of 9 A is sufficient to guarantee a potential shift of 0.25 V and hence full protection, along the entire pipeline. However, one needs to remind that the natural potential of the pipe is only ­0.45 V (new installed pipeline). This implies that the ­0.85 V protection criteria requires a polarization of the pipeline of 400 mV. Taking into account that standard protection criteria (besides the ­0.85 V one used here) only require 100 and maximum 300 mV of polarization, it can be seen (Figure 7) that indeed the pipeline is sufficiently protected using only 9 A as was not the case using the ­0.85 V criteria.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+Attenuatio n at 20A Attenuatio n at 10A 0.0 -0.50
+
+Volume 9 Preprint 2
+Attenuation at 5A Attenuation at 3A Min. Protection Level
+
+6 February 2006
+
+-1.0
+
+-1.5 -2.0
+
+-2.5
+
+-3.0
+
+-3.5 0 10 20 30 40 50 Develo ped Length [km]
+
+FIGURE 10 - Attenuation for different rectifier current outputs (uniform soil resistivity). As before, rectifier outputs are presented in Table 7. The average calculated power output is about 4 % (at 20 A) to 13 % (at 3 A) lower than obtained using the full model. This is not surprising since the attenuation model does not take into account the additional polarization resistance which can be high, especially at low current densities.
+I [A] 20 10 5 3  [V] V1 29.31 15.61 8.82 6.09  [V] V2 26.05 14.07 8.02 5.61  [V] V3 24.83 13.47 7.71 5.43 P1 [W] 586.20 156.10 44.10 18.27 P2 [W] 521.00 140.70 40.10 16.83 P3 [W] Ptot [W] 496.60 1603.80 134.70 431.50 38.55 122.75 16.29 51.39
+
+TABLE 7 - Rectifier current, voltage and power output (uniform soil resistivity).
+
+Varying soil resistivity Figure 11 and Table 7 give an overview of the attenuation calculation when the actual soil resistivity is taken into account. It can be observed that the first part of the pipeline (with lowest soil resistivity) is no longer protected for a rectifier output of 9 A.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+Attenuatio n at 20A Attenuatio n at 10A 0.0
+
+Volume 9 Preprint 2
+Attenuation at 5A Attenuation at 3A Min. Pr otection Level
+
+6 February 2006
+
+-0.50
+
+-1.0
+
+-1.5 -2.0
+
+-2.5
+
+-3.0
+
+-3.5 0 10 20 30 Developed Length [km] 40 50
+
+FIGURE 11 - Attenuation for different rectifier current outputs (varying soil resistivity).
+I [A] 20 10 5 3  [V] V1 28.64 15.27 8.66 5.99  [V] V2 25.39 13.75 7.86 5.51  [V] V3 24.68 13.39 7.68 5.41 P1 [W] 572.80 152.70 86.60 17.97 P2 [W] 507.80 137.50 39.30 16.53 P3 [W] Ptot [W] 493.60 1574.20 133.90 424.10 38.40 164.30 16.23 50.73
+
+TABLE 8 - Rectifier current, voltage and power output (varying soil resistivity).
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+CASE 2 : STUDY OF PART OF THE "W-574" PIPELINE NETWORK This part describes the study of a section of the "W-574" pipeline network in the north-west of The Netherlands. Measured "on" and "off" potential data obtained during a recently done close interval potential survey (CIPS) on a part of the pipeline will be compared with numerical simulations.
+
+Problem description The complete layout of the configuration (pipes, ground beds and railways) is described by means of GPS co-ordinates which have been transformed into flat earth co-ordinates that can readily be read in by the program. The 8" pipeline section that will be the focus of this study was installed in 1968-69 and has a bitumen coating that is thought to be in good shape. The length of the section is about 34 km while the total length of the network (consisting out of 11 pipeline branches with either a bitumen or PE coating) is about 105 km. The main pipeline runs from south to north-west (Den Helder) as indicated in Figure 12 and is influenced near Den Helder by a railway system of about 29 km with sub-stations operating at 1500 V DC. The entire network is electrically continuous as indicated by the bonds in Figure 12. As for the pipeline, the ground bed locations are specified by means of GPS co-ordinates. These co-ordinates together with the resistance-to-earth and current output are listed in Table 9 below. The total current protecting the 105 km pipeline network is 5.3 A. The resistance of the earth near the ground bed location is about 10 m. The average soil resistivity is taken to be 20  m.
+Ground bed 1 2 3 Label G2062 G2004 G2026 X [m] 656 9036 16486 Y [m] 18645 11225 -75 Current [A] 0.3 1.7 3.3  m] R [ [ ] 10 7.7 10 2.1 10 2.0
+
+TABLE 9 - Ground bed location, rectifier currents and ground bed resistance-to-earth.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+Sub-station Main pipeline Ground bed + Rectifier
+
+Bond Railway
+
+FIGURE 12 - CP-configuration with the main pipeline running from south to north.
+
+The measured "on" and "off" potential are given in Figure 13. Do remark that at present, only the first 21 km of the section have been investigated. Therefore, for the moment it is not possible to verify the effect of the ground bed G2062 in the north, nor is it possible to compare the (eventual) effect of DC-traction stray currents near the railway crossings with numerical simulations. In addition, no data have been collected from km 3.5 to km 4.3.
+"off" potential -0.9 -1.0
+Potential [V]
+
+"on" potential
+
+-1.1 -1.2 -1.3 -1.4 -1.5 0 2000 4000 6000 8000 1000 1200 1400 1600 1800 2000 2200 0 0 0 0 0 0 0 Developed Length [m]
+
+FIGURE 13 - Measured "on" and "off" potentials.
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+The polarization for bare steel is similar to that of Figure 3, with a natural potential of ­0.6 V.
+
+Results Based on the limited data that were present, the first calculations have been done. Since, for the moment, the coating resistivity of the bitumen and PE sections has not been measured, a trial and error method has been adapted. The starting value for the coating resistance was 2000  2 for bitumen and 20.000 m2 for PE. In addition, it can be observed that near km m 1.0, 6.4, 7.2, 12.2 and 20.0 both the "on" and "off" potential "jump" to a less negative value. This indicates a possible degradation of the coating quality or an influence that has not yet been taken into account in the model (e.g. an unknown pipe or structure). At the time being, these spots are modeled as zones with a reduced coating resistance. The resistance of the direct bonds between the different pipeline branches is 1 m . The calculated "on" and "off" potentials are presented in Figures 14 and 15. These results have been obtained with a bitumen coating quality of 2600  2. For the locations with m reduced protection levels, the coating resistance has been reduced with a factor 100. It can be seen that for both the "on" and "off" potential a good agreement between the calculated and measured potentials is observed. Of course, in order to quantify the assumptions for the average coating quality as made here, the calculations for the last 13 km of the pipeline should be confirmed with measured "on" and "off" potentials to be performed in the future.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+FIGURE 14 ­ Calculated and measured (markers) "off" potentials.
+
+FIGURE 15 ­ Calculated and measured (markers) "on" potentials. As already outlined before, a fixed coating quality has been taken for the entire pipeline, except for the "hot spots". However, from Figures 14 and 15, it can be observed that in the region from km 1 to km 6.4, the calculated protection levels are too high, while for km 7.2 to ground bed G2004 (km 16.4), they are too low. A reason for this can be an overestimation of the soil resistivity along the first part of the pipeline while at the second part, this resistivity should be higher. Of course, these observations need to be confirmed with experimental soil resistivity measurements.
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 9 Preprint 2 6 February 2006 The obtained protection levels on the main pipeline strongly depend on the resistance of the bonds between the different pipeline branches. It is clear that, the higher the resistance, the less current the other branches get and the better the main pipeline is protected. An overview of the currents for each of the branches (pipes, anodes and track) is given in Figure 16. The main pipeline takes 3.4 A or 65 % from the total rectifier current of 5.3 A. The remaining 1.9A flows from the main pipeline to the other branches as can be seen from Figure 17.
+
+############## Outgoing Current per Branch ############## W574 : I = -3.419E+00[A] , J = -1.475E-04[A/m2] W574-02 : I = -2.183E-01[A] , J = -4.937E-05[A/m2] W574-05 : I = -1.078E-01[A] , J = -4.163E-05[A/m2] W574-07 : I = -1.478E-01[A] , J = -5.135E-05[A/m2] W574-08 : I = -1.179E-02[A] , J = -4.667E-06[A/m2] W574-10 : I = -4.726E-02[A] , J = -1.082E-05[A/m2] W574-12 : I = -5.747E-01[A] , J = -3.269E-05[A/m2] W574-13 : I = -9.515E-03[A] , J = -4.568E-06[A/m2] W574-14 : I = -6.112E-01[A] , J = -5.019E-05[A/m2] W573-01 : I = -5.581E-02[A] , J = -1.365E-05[A/m2] W573-09 : I = -9.691E-02[A] , J = -1.378E-05[A/m2] G2026 : I = +3.300E+00[A] , J = +6.733E-01[A/m2] G2004 : I = +1.700E+00[A] , J = +3.469E-01[A/m2] G2062 : I = +3.000E-01[A] , J = +2.825E-01[A/m2] Den Helder : I = +3.898E-08[A] , J = +2.108E-12[A/m2] --------------------------------------------------------Current Balance of All Branches = -2.784E-04 [A] ######################################################### Total Time needed for the Solution Process = 55 seconds
+
+FIGURE 16 - Solver output window with overall currents for pipes, anodes and tracks.
+
+FIGURE 17 ­ Currents in the external connections with the main pipeline.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 2
+
+6 February 2006
+
+CONCLUSIONS In this paper, it has been demonstrated that numerical simulations can be a valuable tool in the design and evaluation of pipeline networks. The design of the new pipeline can be based on either the classical attenuation model or the full model that takes into account both the pipeline polarization and the potential distribution in the entire soil. Both models take into account varying soil resistivity and properties (diameter, wall thickness, coating, ...) along the pipeline trajectory which is not the case for pure analytical attenuation formulas. Calculations performed using both approaches (full and attenuation model) reveal that a total current output of 15 A should be sufficient to protect the entire pipeline. It is very important to understand that the attenuation model as used here and in classical CP-design calculations can only be used for simple configurations where there is no interference from other pipelines or dc-traction systems. Indeed, the interaction between multiple systems can not be taken into account when the attenuation model is used since it neglects the driving force for stray currents, being the potential gradients in the soil itself. Therefore, in order to obtain reliable results when dealing with pipeline networks, eventually under dc-traction stray currents, only the full model can give reliable design results. As a second example, the full model has been evaluated through comparison with measured "on" and "off" potentials along the main pipeline of an existing pipeline network. Based on the (limited) experimental results available, an average value for the coating quality has been proposed that gives a fairly good agreement between both the measured and calculated "on" and "off" potentials. Additional evaluation needs to be done based on soil resistivity and coating resistance measurements that are planned to take place in the future. Additional pipeto-soil measurements will be done in the region where the pipeline crosses a neighbouring railway, and need to be compared with calculated values in order to validate the proposed
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 9 Preprint 2 6 February 2006 model when dealing with DC-traction stray currents. These additional validations are foreseen for the near future.
+
+ACKNOWLEDGEMENTS The authors wish to thank Paul M. Wesselius from the N.V. Nederlandse Gasunie for his excellent help in providing and discussing the experimental data.
+
+REFERENCES [1] F. Brichau , "A Mathematical Model for the Cathodic Protection of Underground Pipelines including Stray Currents", Ph. D Thesis, Brussels, 1994. [2] F. Brichau, J. Deconinck, "A Numerical Model for Cathodic Protection of Buried Pipes", Corrosion, 50 (1994), 39-49. [3] F. Brichau, J. Deconinck, T. Driesens, "Modeling of Underground Cathodic Protection Stray Currents", Corrosion, 52 (1996), 480-488. [4] L. Bortels, "A User-Friendly Simulation Software for the Cathodic Protection of Large Networks of Buried Pipelines Influenced by DC-Traction Stray Currents", Paper #02113, NACE2002 Conference, Denver, 2002. [5] CatProV1.4 User Manual, www.elsyca.com. [6] A.W. Peabody, "Control of Pipeline Corrosion ­ second edition", NACE International, The Corrosion Society, 2001. [7] M. E. Orazem, J. M. Esteban, K. J. Kennelley, and R. M. Degerstedt, "Mathematical Models for Cathodic Protection of an UndergroundPipeline with Coating Holidays: 2. Case Studies of Parallel Anode CPSystems", Corrosion, 53 (1997), 427-436. [8] "Théorie et Pratique de la Protection contre la Corrosion des Structures Enterrées", Académie des Sciences URSS ­ CEBEDOC, Moskow, 1958.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 9 Preprint 2 6 February 2006 [9] "Cathodic Protection Level 3 Training Manual", NACE International, 2000.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

@@ -1,0 +1,255 @@
+Adverse effect of temperature on the operating-potential behavior of Al­Zn­In Anodes
+
+Kola Fagbayi & David Scantlebury
+
+1
+
+Introduction The behavior of indium-activated aluminum alloys used as sacrificial anodes has been investigated in both field and laboratory experiments at temperatures ranging from 0° to 80°C. Results reported in the literature show that at temperatures between 40° and 80°C indium­activated anodes undergo operating potential ennoblement (electrochemical potential shifts in the electropositive direction) and there is consequently a reduction in current capacity. This paper focuses on factors that may affect the electrochemical behavior (i.e., electrochemical potential and current capacity loss) of indium­activated aluminum alloys at temperatures between 50° and 80°C. A brief review of the manufacturing process and the metallurgy of these indium-activated anodes may assist the reader. Indium-activated (Al-Zn-In) anodes are typically cast in open permanent moulds 1. The casting process is an art learned by experience. Casting parameters are generally selected to avoid macrostructural defects (i.e., cracks, cavities and pipes), which could affect the performance of the anodes. 2. NACE Standard 3 RP0387-99 and Australian standard 4 AS2239-1993 provides guidelines governing the metallurgical requirements for cast galvanic anodes used for offshore applications. Metallurgical properties of Al-Zn-In anodes are influenced by: 1. The grain sizes and type. 2. Interdendritic spacing. 3. Nature, type and distribution of alloying constituents. All these factors are interrelated, and depend primarily on the solidification rate of the anodes 5. The primary crystal in indium­activated aluminum anodes is aluminum in dendritic form, surrounded by a continuous network of eutectics 6. Solidification of these anodes is usually by heterogeneous nucleation and the first crystals to form generally form at highly favored nucleation sites such as the mould walls 7. As solidification proceeds inward towards the center of mould, solute is rejected from the solid into the liquid phase, and additional crystals begin to form at less favored nucleation sites, such as impurities in the melt. These two processes produce a macrostucture consisting of a fine-grained chill zone next to the mould walls; an intermediate columnar grained zone and a central, large grained equiaxed zone 8. The microstructure in each zone typically consists of primary Al crystals or dendrites surrounded by nearly continuous networks of complex eutectic solids, second phase particles, intermetallic compounds, and inclusions. The overall solidification rate can have a significant effect on both the macro- and microstructural features described above. In general, faster solidification rates result in a thicker chill zone relative to the thickness of both the columnar and equiaxed zones. Faster solidification also results in smaller grains compared to larger grains that may form from slow solidification 9. Alloying element distribution, whether as solid solution, second-phase segregates; intermetallic compounds or inclusions affect the behavior of the ternary aluminum anodes (Al­Zn­In) used in this study. Pure aluminum possesses the essential properties
+
+1
+
+needed for sacrificial anode properties such as light weight and low cost. However the usefulness of pure Al as an anode material in seawater is reduced significantly by the formation of a protective oxide film, which limits both its current and potential output. Thus, Al is typically alloyed with other elements to encourage depassivation (breakdown of the oxide film) and/or shift the operating potential of the metal to a more electronegative direction. The alloying elements used to accomplish this are referred to as depassivators and modifiers. The depassivators commonly used are indium (In), mercury (Hg) and tin (Sn), but for environmental 10 and economic 11 reasons indium­activated anodes are most commonly used. The main function of the depassivator is to shift the operating potential of aluminum by 300 to 500 mV in the negative direction 12. Other characteristics of the depassivators include: 1. 2. 3. 4. They have relatively low solubility in aluminum. They do not form intermetallic compounds with aluminum. They have low melting points. They are cathodic to aluminum.
+
+Modifiers are elements alloyed with aluminum to shift the operating potential of aluminum anodes by 100 to 300 mV in the electronegative direction. Modifiers are also known to improve the performance of aluminum when added in concentrations up to 10 wt. %. Modifiers that have been used include zinc (Zn), magnesium (Mg), barium (Ba) and cadmium (Cd) 12. Zinc is the most commonly used modifier. Ternary Al­Zn­In anodes with a generic composition of 5 wt. % Zn and 0.02 wt. % In are commonly used for cathodic protection. Work carried out by several researchers shows that up to 10 wt. %. Zn can be in solid solution in aluminum, but only 0.01 wt. % In can be in solid solution with aluminum, while the remaining insoluble indium segregates at interdendritic and grain boundary regions on the surface of the as-cast anode 13-16. The effect of impurities on the performance of aluminum sacrificial anodes has been investigated. The most common impurities in aluminum anodes are iron, copper and silicon 1, 17, 18. These impurities act as flaws on the surface of the anode and form cathodic sites (local cells) with the aluminum matrix 19, 20. These cathodic sites are detrimental to the performance of aluminum anodes because they reduce the current capacity. Consequently, it is important to use high-purity aluminum for anode production 21, 22. Aluminum anodes are favored over zinc anodes for the cathodic protection of offshore structures, especially for deepwater exploration because they are lighter and less expensive 23. Evaluation of the performance of aluminum anodes is necessary to achieve the most cost­effect design. Several researchers have performed electrochemical tests to evaluate the operating potential and current capacity of Al­Zn-In anodes at high temperatures (40° to 80°C) 24-26. These researchers all concluded that indium-activated
+
+2
+
+aluminum anodes undergo potential ennoblement (potential shifts in electropositive direction) and loss of current capacity. This paper discusses an investigation of the possible causes for the operating potential ennoblement of Al-Zn-In anodes when exposed to temperatures warmer than 50°C. Experimental Galvanostatic tests were carried out on as-received Al­Zn­In anodes and Alloy X (control sample) using the recommended NACE electrochemical test methodology 27 to determine the current capacity and operating potential behavior of the anodes. The nominal chemical composition of Al-Zn-In and Alloy X are given in Table 1. Table 1: Nominal Chemical Composition of Anodes Tested
+Element Zinc Indium Iron Silicon Copper Gallium Titanium Aluminum Al-Zn-In Anodes (wt. %) 4.67 0.02 0.083 0.86 0.0024 0.0082 0.02 Remainder Alloy X (wt. %) 4.91 0.004 0.047 0.049 0.0007 0.0121 0.024 Remainder
+
+Tests were carried out for periods of 2 and 4 weeks, respectively at low current densities of 0.05, 0.1 and 0.5 A/m2 on the Al-Zn-In anodes. The test temperatures investigated in the 2-week exposures were 0°, 20°, 50° and 80°C, while the test temperatures for the 4-week exposures were 20°, 50° and 80°C. Two-week tests were performed on Alloy X at temperatures 20°, 50° and 80°C. All the tests reported in this paper were performed in 3.5 wt. % NaCl (aq) and triplicate samples were used.
+
+3
+
+Results The results presented in Table 2 and Figure 1 shows the typical current capacity and operating potential trend obtained from galvanostatic experiments 27 on Al-Zn-In anodes at various temperatures and low current densities (0.05 to 0.5 A/m2) for 2 weeks. Table 2: Electrochemical behavior of Al­Zn­In anodes exposed to different temperatures (0° to 80°C) for 2 weeks
+Applied Current Density (A/m2) Applied Temperature (°C) 0 20 50 80 0 20 50 80 0 20 50 80 Av. Current Capacity (Ah/kg) 453 174 32 20 288 225 110 64 1854 1396 430 208 Av. Operating Potential vs. SCE (mV) - 1125 - 1106 - 1054 - 1028 - 1113 - 1106 - 1067 - 1037 - 1125 - 1110 - 1065 - 1033
+
+0.05
+
+0.1
+
+0.5
+
+The results in Table 2 show that as the test temperature increased the operating potential of the anodes shifted in the electropositive direction (ennobled), and there was a corresponding reduction in the current capacity. The current capacity increased with an increase in the applied current density.
+
+500 450
+Current Capacity (Ah/kg)
+
+-1020
+Operating Potential vs. SCE (mV)
+
+400 350 300 250 200 150 100 50 0 0 10
+
+Av. Current Capacity Av. Operating Potential
+
+-1040 -1060 -1080 -1100 -1120 -1140
+
+20
+
+30
+
+40
+
+50
+O
+
+60
+
+70
+
+80
+
+90
+
+Temperature ( C)
+
+Figure 1: Effect of temperature on the electrochemical performance of as-cast Al-Zn-In at 0.05 A/m2 after 2­weeks exposure to 3.5 wt. % NaCl (aq)
+
+4
+
+350 300
+Current Capacity (Ah/kg)
+
+-1030
+Operating Potential vs. SCE (mV)
+
+Av. Current Capacity Av. Operating Potential
+
+-1040 -1050 -1060 -1070 -1080 -1090 -1100
+
+250 200 150 100 50 0 0 10 20 30 40 50
+O
+
+-1110 -1120 60 70 80 90 Temperature ( C)
+
+Figure 2: Effect of temperature on the electrochemical performance of as-cast Al-Zn-In at 0.1 A/m2 after 2­weeks exposure to 3.5 wt. % NaCl (aq)
+
+2000 1800
+Current Capacity (Ah/kg)
+
+-1020
+
+1600 1400 1200 1000 800 600 400 200 0 0 10 20
+
+Av. Operating Potential
+
+-1040 -1060 -1080 -1100 -1120 -1140
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+Temperature (OC)
+
+Figure 3: Effect of temperature on the electrochemical performance of as-cast Al-Zn-In at 0.5 A/m2 after 2­weeks exposure to 3.5 wt. % NaCl (aq)
+
+Operating Potential vs. SCE (mV)
+
+Av. Current Capacity
+
+5
+
+Figures 1 through 3 show the electrochemical behavior trend of the anodes after 2­weeks exposure to temperatures ranging from 0° to 80 °C. The anode current capacity decreased, while anode operating potential ennobled as temperature increased. The as-cast anodes were observed to have undergone uniform corrosion at the test temperatures of 0°C, while localized corrosion was observed in the temperature range 20° to 80°C. Table 3 and Figures 4 through 6 shows the current capacity and operating potential results obtained from galvanostatic experiments performed on Al-Zn-In anodes at various temperatures and low current densities (0.05 to 0.5 A/m2) for 4 weeks. The trend of the results also shows a decrease in current capacity of the anodes, and ennoblement of anode potential. Table 3: Electrochemical behavior of Al­Zn­In anodes exposed to different temperatures (20 to 80°C) for 4 weeks
+Applied Current Density (A/m2) Applied Temperature (°C) 20 50 80 20 50 80 20 50 80 Av. Current Capacity (Ah/kg) 192 89 53 518 455 119 1421 861 593 Av. Operating Potential vs. SCE (mV) - 1105 - 1056 - 1038 - 1107 - 1068 - 1037 - 1107 - 1065 - 1033
+
+0.05
+
+0.1
+
+0.5
+
+250
+
+-1030
+
+Av. Current Capacity
+Current Capacity (Ah/kg) 200
+
+Av. Operating Potential
+
+-1040 -1050
+
+150
+
+-1060 -1070
+
+100
+
+-1080 -1090
+
+50 -1100 0 0 10 20 30 40 50
+O
+
+-1110 60 70 80 90 Temperature ( C)
+
+Figure 4: Effect of temperature on the electrochemical performance of as-cast Al-Zn-In at 0.05 A/m2 after 4­weeks exposure to 3.5 wt. % NaCl (aq)
+
+Operating Potential vs. SCE (mV)
+
+6
+
+600 500
+Current Capacity (Ah/kg)
+
+-1030
+Operating Potential vs. SCE (mV)
+
+-1040 -1050 400 300 -1080 200 -1090 -1060 -1070
+
+Av. Current Capacity
+100 0 0 10 20 30 40 50 60 70 80 90 Temperature (OC)
+
+-1100 -1110 -1120
+
+Av. Operating Potential
+
+Figure 5: Effect of Temperature on the electrochemical performance of as-cast Al-Zn-In at 0.1 A/m2 after 4­weeks exposure to 3.5 wt. % NaCl (aq)
+
+1600 1400 Current Capacity (Ah/kg) 1200
+
+-1020 Operating Potential vs. SCE (mV) -1030 -1040 -1050
+
+1000 800 600 400 200 0 0 10 20 30 40 50
+O
+
+-1060 -1070 -1080 -1090
+
+Av. Current Capacity Av. Operating Potential
+
+-1100 -1110 -1120
+
+60
+
+70
+
+80
+
+90
+
+Temperature ( C)
+
+Figure 6: Effect of temperature on the electrochemical performance of as-cast Al-Zn-In at 0.5 A/m2 after 4­weeks exposure to 3.5 wt. % NaCl (aq)
+
+7
+
+Table 4 shows the results obtained from two and four-week galvanostatic testing of Alloy-X anodes. The results show a decrease in the current capacity of the anode and the operating potential shifted in the electronegative direction with an increase in temperature. Figure 7 shows the typical trend observed. Table 4: Electrochemical behavior of Alloy X anodes exposed to different temperatures (20 to 80°C) for 2 weeks
+Applied Current Density (A/m2) Applied Temperature (°C) 20 50 80 20 50 80 20 50 80 Av. Current Capacity (Ah/kg) 600 161 49 1072 340 128 1980 823 534 Av. Operating Potential vs. SCE (mV) - 973 - 998 - 1028 - 970 - 997 - 1027 - 970 - 995 - 1026
+
+0.05
+
+0.1
+
+0.5
+
+2500
+
+-960
+
+Av. Current Capacity
+Current Capacity (Ah/kg) 2000
+
+-970 -980
+
+Av. Operating Potential
+
+1500
+
+-990 -1000 -1010
+
+1000
+
+500 -1020 0 0 10 20 30 40 50 60 70 80 90 Temperature (OC) -1030
+
+Figure 7: Effect of temperature on the electrochemical performance of Alloy X at 0.5 A/m2 after 2­weeks exposure to 3.5 wt. % NaCl (aq)
+
+Operating Potential vs. SCE (mV)
+
+8
+
+Discussion The effect of temperature on the electrochemical performance of as-cast Al-Zn-In and Alloy X anodes is described in this paper. As temperature increased, the electrochemical performance of the Al­Zn­In anodes decreased. Several researchers 24-26 have examined the performance of Al-Zn-In anodes at elevated temperatures and high applied current densities. These researchers 24-26 observed that there is a reduction in the current capacity and an ennoblement of the operating potential of Al-Zn-In anodes as the temperature of the electrolyte was increased. Schreiber et al 26 reported that the current capacity performance of the indium­activated anodes at 80°C was 40% of the value obtained at room temperature. Erricker 24 suggested that the performance of Al­Zn­In anodes might have been impaired by an increase in self-corrosion of the anodes. This paper will primarily focus on the possible reason for the operating potential ennoblement of Al-Zn-In anodes when temperature is increased. Indium has been observed to have a solubility of 0.01 wt.% in the aluminum matrix at the indium melting point of approximately 156.6°C 13, 28. The Al­Zn-In alloy used in these tests contained 0.02 wt.% In. Salleh 14 and Reboul et al 15 showed in their work that since 0.01 wt. % In is soluble in aluminum, the remaining insoluble indium (0.01 wt. %) segregates to interdentritic and grain boundary regions on the surface of the anodes. The indium that segregates on the surface of the anodes is thought to be responsible for the depassivation of Al­Zn-In anodes. The wt. % of indium in Alloy X is 0.004, thus the indium is in solid solution with the aluminum and zinc. It can be seen from the results section that the operating potential of Alloy X at room temperature was approximately - 970 mV, this suggests that there isn't indium segregated on the surface of Alloy X. The microstructural imperfections in aluminum like other metals vary 13. These microstructural imperfections are present in the aluminum matrix from different sources. Some of these imperfections arise from internal sources such as vacancies, dislocations and grain boundaries 13. The diffusion of atoms into microstructural imperfections is relatively rapid, especially when temperature is increased. Diffusion of atoms occurs to eliminate concentration differences and produce a homogeneous, uniform composition. Diffusion of atoms is mostly thermally activated and governed by Arrhenius law 7. In the case of the anodes, indium atoms have a higher diffusion coefficient than aluminum and zinc 13. When the temperature of a material increases, the diffusion coefficient and the flux of atoms also increase. At high temperature, the thermal energy supplied to the diffusing atoms permits the atoms to overcome an energy barrier (activation energy), thus facilitating easier movement of the atoms from one lattice position to another. Diffusion is slower at temperatures less than 0.4 times the absolute melting temperature of the material 7. Since indium has a melting point of 156.6°C (429.75°K), it is possible that temperatures between 50° and 80°C (T/Tm = 0.75 and 0.82, respectively) provide sufficient thermal energy to activate diffusion of indium atoms. Table 5 shows the homologous temperature (T/Tm) of aluminum and indium. From the results shown in Table 5, the authors of this paper expect that diffusion of indium atoms is significantly greater than diffusion of the aluminum atoms.
+
+9
+
+Table 5:Shows the homologous temperature of Aluminum and Indium respectively
+Temperature of Interest °C °K 0 273.15 20 293.15 50 323.15 80 353.15 156.6 429.75 600.25 933.4 Aluminum T/Tm 0.29 0.31 0.35 0.38 0.46 1 Indium T/Tm 0.64 0.64 0.75 0.82 1 -
+
+It is hypothesized that the shift in operating potential to a more electropositive direction for Al­Zn­In and anodes and the shift in potential of Alloy X to more electronegative direction at elevated temperatures of 50° to 80°C may have occurred as a result of the diffusion of insoluble indium atoms away from the anode surface. In the case of the Al-Zn-In anodes diffusion of insoluble indium atoms 14, 15, from the surface of the anode into the microstructural imperfections in the aluminum matrix could have reduced the indium concentration on the surface of the anode, thus enriching the zone beneath the surface with indium and ennobling the anode. The Alloy X on the other hand has soluble indium distributed through out the anode. Increasing the test temperature from room temperature to 50° or 80°C may have increased diffusion of the soluble indium to the outer surface, which may have led to the shift in potential of the anode to a more electronegative direction. Aluminum (crystal lattices) contains microstructural imperfections (i.e., dislocations, grain boundaries, voids, etc.), which could have allowed atomic movement of insoluble indium from the surface of the anode when the thermal energy of the indium was increased. Aikmov 29 proposed that any changes in the composition of a metal or alloy and its surface layer caused by the diffusion of atoms changes the electrode potential of the metal. Therefore, as the temperature of the electrolyte increased the operating potential of the respective anodes changed, possibly due to indium diffusion. As the temperature of the electrolyte was increased the current capacity performance of the anodes decreased. This may have occurred due to the increase in cathodic activity of the anodes at elevated temperatures 8, 19, 24. This increase in cathodic activity is suggested because the self­corrosion rate of the Al­Zn­In anodes increased with an increase in temperature. Observations revealed that localized corrosion was more severe with increasing exposure temperature. The observed localized corrosion may have been due to mechanical loss (chunk effect) 9, 16. Mechanical losses increased as exposure temperature increased, and the particle size of the anode collected from the bottom of the test cells increased. It is suggested that the excessive mechanical loss contributed to the reduction in the current capacity performance of the Al­Zn­In anodes. Therefore, it is difficult to anticipate that larger grain sizes could improve the current capacity performance of the anodes, as proposed by some researchers. It is suggested that the increase in self­corrosion and mechanical loss of the anodes with an increase in electrolyte temperature may have led to the decrease in the current capacity performance of the Al­Zn­In anodes. 10
+
+Conclusions 1. Operating potential ennoblement of Al­Zn­In anodes may have occurred as a result of inward diffusion of insoluble indium atoms from the anode surface at the higher test temperatures. Alloy X became may have become more electronegative at temperatures = 50°C due to outward diffusion of soluble indium atoms. 2. Reduction of current capacity of the anodes with an increase in temperature may have been due to an increase in self­corrosion and mechanical loss. 3. Additional investigation is recommended to determine if diffusion of the insoluble indium atoms is occurring in the anodes at temperatures = 40°C. Electron microprobe analysis of indium concentration gradients on cross sections of the respective anodes exposed to the different temperatures may improve the understanding of the diffusion process. References 1. Trident Alloys Ltd, Private Communication, (2000). 2. Johnson, D. L., Corrosion '97, Paper No. 468, NACE, (1997). 3. NACE Standard RP0387-99, Metallurgical and Inspection Requirements for Cast Galvanic Anodes for Offshore Applications, (1999). 4. Australian Standard AS2239-1993, Galvanic (Sacrificial) Anodes for Cathodic Protection, (1993). 5. Leimkuhler, A., Corrosion '85, Paper No. 318, NACE, (1985). 6. De Ross, A. B. & Mondolfo, L. F., "Aluminum as a Corrosion Resistant Material", in: Aluminium Transportation Technology and Application, (1981), Eds. Pampillo, C. A., ASM Ohio, (1982), pp. 81-140. 7. Askeland, D. R., The Science and Engineering of Materials, 3rd Edition, Stanley Thornes Publishers Ltd, Cheltenham, (1996). 8. Fagbayi, R. K., PhD. Thesis, UMIST, (1999). 9. Murray, J. N. & Kohler, L. K., Corrosion '99, Paper No. 363, NACE, (1999). 10. Crundwell, R. F., in: Cathodic Protection Theory and Practice, Ellis Horwood, (1999), pp. 143-150. 11. Lennox, T. J., Peterson, M. H. & Groover, R. E., Materials Performance, Vol. 7, No. 2, (1968), pp. 33-37. 12. Reding, J. T. & Newport, J. J., Materials Protection, Vol. 5, No. 12, (1966), pp. 15-18. 13. Mondolfo, L. F., Aluminium Alloys: Structure and Properties, Butterworths, London, (1976). 14. Salleh, M. M. B. H., PhD. Thesis, The Victoria University of Manchester, (1978). 15. Reboul, M. C., Gimenez, Ph. & Rameau, J. J. Corrosion, Vol. 40, No. 7, (1984), pp. 366-371. 16. Norris, J. C., PhD. Thesis, UMIST, (1999). 17. Ponchel, B. M. & Horst, L., Materials Protection, Vol. 7, No. 3, (1968), pp. 38-41. 18. Smith, S. N. & Goolsby, A. D., Corrosion '96, Paper No. 552, NACE, (1996). 19. Googan, C. G., PhD. Thesis, The Victoria University of Manchester, (1979). 20. Summerland, A. J., PhD. Thesis, The Victoria University of Manchester, (1983).
+
+11
+
+21. Schrieber, C. F. & Reding, J. T., Materials Protection, Vol. 6, No. 5, (1967), pp. 33-36. 22. Peterson, M. H., Lennox, T. J. & Groover, R. E., Materials Performance, Vol. 14, No. 5, (1975), pp. 12-15. 23. Wolfson, S. L., Materials Performance, Vol. 33, No. 2, (1994) pp. 22-29. 24. Erricker, S. L., PhD. Thesis, UMIST, (1995). 25. Gibson, G. T., PhD. Thesis, UMIST, (2001). 26. Schrieber, C. F. & Murray, R. W., Materials Performance, Vol. 20, No. 3, (1981), pp. 19-23. 27. NACE Standard, TM0190-90, NACE, USA, (1990). 28. Wade, K. & Banister, A. J., The Chemistry of Aluminium, Gallium, Indium & Thallium, 1st Edition, (Pergamon Press), 1973. 29. Akimov, G. W., Corrosion, Vol. 11, No. 12, (1955), pp. 515t-534t.
+
+12
+

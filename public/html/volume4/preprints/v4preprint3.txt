@@ -1,0 +1,268 @@
+Volume 4 Preprint Computational Modeling of Shipboard ICCP Systems
+V. G. DeGiorgi1, E. Hogan2 and K. E. Lucas3, S. A. Wimmer1
+1Multifunctional
+
+degiorgi@anvil.nrl.navy.mil
+Washington, DC.
+3Center 2Materials
+
+Materials Branch, Naval Research Laboratory, Washington, DC.
+
+Science and Technology Division, Naval Research Laboratory,
+
+Washington, DC.
+
+for Corrosion Science and Engineering, Naval Research Laboratory,
+
+Abstract
+Computational modeling is a well-established practice in many engineering fields. In the past decade significant work has been
+
+performed at NRL applying computational methods, specifically boundary
+
+element techniques, to shipboard electrochemical corrosion problems. Boundary element computational methods have been demonstrated as predictive tools for on-hull potential profiles. accurately predict system performance. Analyses have been completed to determine whether boundary element techniques can include U S Navy CG hull class cruiser and CVN aircraft carrier. Issues of dominated these analyses. Accuracy was measured by comparison with Hull geometries investigated
+
+mesh refinement, geometric features and material characterization physical scale model experimental results. Good agreement was shown for both potential and current values. These analyses as well as a series of parametric studies examining basic assumptions are presented as a review of the validation of boundary element methods for designing shipboard ICCP systems. In addition an investigation of boundary effects associated with physical scale modeling is presented. Accuracy, modeling
+
+assumptions discussed.
+
+and
+
+limitations
+
+of
+
+the
+
+computational
+
+approach
+
+are
+
+In closing a comprehensive unified design approach that
+
+utilizes both physical scale modeling and computational analysis techniques is presented. Keywords: Boundary
+
+Element,
+
+Cathodic
+
+Protection,
+
+Computational
+
+Modeling, Physical Scale Modeling
+
+Introduction
+The primary corrosion protection system on Naval platforms is the paint system. Cathodic protection systems are typically used as a secondary line of defense against corrosion damage. noble metal is used in the protection design. In sacrificial cathodic In impressed current protection systems the galvanic series and preferred corrosion of the less
+
+cathodic protection (ICCP) systems an external power supply is used as the source to raise the potential level to range where corrosion is minimized. Even though these systems are defined as secondary protection systems one should not underestimate their importance. Their sacrificial systems are of interest, this paper will concentrate on the design and evaluation of ICCP systems. The performance of these systems is a synergistic response to many factors such as geometry, conductivity of surrounding medium, material polarization response, temperature and material interactions as shown in Figure 1. Minor changes in any one of these factors have the possibility of significantly changing system performance. In addition to proper performance is critical to maintaining platform availability. While
+
+environmental changes the system itself can change over time. System configuration changes can result from damage or aging. With today's changing deployment environment and a need to extend service life it has become increasingly important to define system performance under a variety of changing conditions. Simple design models are not adequate to the design and evaluation challenge presented by changing performance requirements. Computational analysis is well suited for the multiple re-evaluations of systems due to changing conditions.
+
+Seawater Chemical
+Bulk Electrolyte Dissolved Organics Crevice Electrolyte Oxygen Concentration pH Electrochemical Reactions
+
+CP Signature
+Cathode Distribution Current Density Requirements Anode Output Geometric Properties Internal Spaces ICCP Behavior
+
+Physical
+Temperature Pressure Flow Behavior Passive Surface Films Mass Transport at Crevice Nominal Metal Compositions
+
+Biological
+Organisms/Films Fouling Sediment Calcareous Deposits
+
+Navy Operational
+Galvanic Coupling Anode/Cathode Ratio Crevice Geometry Duty Cycle/Lay-up Cathodic Protection Chlorination Time in Service
+
+Figure 1 ­ Factors influencing shipboard ICCP characteristics. Computational approaches for shipboard ICCP systems are not new. Initial work on computational modeling procedures for shipboard cathodic protection systems is well documented [1 2 3 4]. There have been multiple researchers who have evaluated different aspects of computational modeling of electrochemical corrosion. and Aoki et al [7]. performed on For instance recently shipboard systems have been investigated by Adey [5], Diaz [6] Rather than offer a complete overview of all work systems this paper focuses on major shipboard
+
+computational analysis efforts at the Naval Research Laboratory (NRL) that address issues related to ICCP systems. Guidelines for the development of computational models that are based on this block of work are presented. In closing a unified design process that incorporates computational and experimental processes is presented.
+
+Mathematical Basis for Computational Simulations
+ICCP systems are electrochemical corrosion systems. LaPlace's equation governs electrochemical corrosion for the wetted surface of a ship hull:
+
+k2 = 0
+
+(1)
+
+where  is the potential and k is the conductivity of the electrolyte (seawater). Eqn. 1 requires that the electrolyte be homogeneous, no
+
+electrical sources or sinks and electroneutrality. In the case of shipboard ICCP systems the model can be defined so that these requirements are met. components, i.e. a homogeneous electrolyte. Current source points and Seawater can be represented as a uniform mixture of multiple
+
+sinks, regions of exposed metal, can be represented by boundary conditions eliminating the need to include sources and sinks in the model. Electroneutrality maintains charge equilibrium for the ship, surrounding water and ICCP system. This is accomplished by application of appropriate boundary definitions. The ICCP system consists of anodes (current sources) and reference cells. Boundary conditions commonly used are defining paint as a perfect insulating material and the use of non-linear polarization response for other materials. These boundary conditions are combined to solve for the potential and current density at all points on the wetted surface. Details on the boundary element method Analysis is performed for the corroding state not corrosion initiation. and solution procedures can be found in many textbooks such as ref.8.
+
+LaPlace's equation is equally valid for any computational simulation technique. Past experience has established that boundary element approach in which the surface of the structure is modeled is the most appropriate for shipboard systems. In another competing approach, the finite element technique, the volume of seawater surrounding the ship must be represented by a meshed volume. In the boundary element technique the surrounding medium, usually a large volume of seawater, is not modeled but simply enclosed by a mathematically defined boundary and only the hull surface must be meshed in detail resulting in smaller memory and computer time requirements.
+
+Experimental Process
+A key feature in validation of boundary element method is the comparison of experimental and calculated results. In PS modeling the the same factor. A detailed explanation of PS modeling can be found in DeGiorgi et al [9]. The theoretical basis for this mechanical scaling for shipboard systems has been presented by Ditchfield [10]. In PS modeling structural dimensions and the conductivity of the electrolyte are scaled by
+
+the scaled model and the full size structure maintain identical current density values at points, identical potential differences at points, identical polarization potentials at the anode and cathode and an identical potential drop across the electrolyte. involved comparison with sea trial data [11 12 13]. Currently PS modeling as conducted by NRL Center for Corrosion Science and Engineering is the design practice for U. S. Navy shipboard systems [14]. PS modeling of CG and CVN hulls and associated ICCP systems was completed at NRL Center for Corrosion Science and Engineering. Detailed current and potential information is obtained from embedded sensors for the boundary element analysis. a variety of damage and service conditions including those modeled in Validation of the procedure has
+
+Computational Analyses
+NRL has completed detailed computational solutions for two different ship geometries. A primary goal was to validate the computational approach by detailed comparison with PS model experimental results. Later analyses were completed to examine basic modeling assumptions. Factors common to all analyses performed are given in this section.
+
+A boundary element analysis requires the creation of a mesh representing the underwater hull. In the work presented propellers are modeled as a solid disk of equivalent area attached to the hull by a single connecting solid beam representing the main strut for the support system. The disks are defined so that there is sufficient thickness to avoid numerical problems associated with thin sections. The boundary element mesh represents the interface of the ship hull and surrounding seawater. This mesh is enclosed in an outer box that represents a large but finite volume of seawater. Some boundary element programs have boundary condition option of infinite domain. This option was not used in early analyses. The domain is defined sufficiently large enough so that edge effects on the potential profile of the surface ship are negligible. In all modeled. This was done in the interest of saving computational time and cases symmetry conditions were invoked and half of the hull was
+
+resources. There is no requirement for symmetry. Symmetry conditions were also used to define the water surface. This is a standard approach in boundary element methods. The commercial boundary element codes BEASY-CP [15] and Frazer-Nash Detailed Modeller [16] were used for the analyses presented. model generation. The commercial code PATRAN [17] was used for In addition customized computer programs for
+
+translation and display of data were developed at NRL. Two design paint damage conditions were used in the analyses, minimum (2.8% of the hull surface area is damage paint) and maximum (15% of the hull surface area is damaged paint). The location and size of damaged paint regions was defined by protocols provided by NRL Center for Corrosion Science and Engineering and Naval Sea Systems Command. Damaged paint areas are defined as exposed metal surfaces in the boundary element models. This duplicates the conditions for the PS model where painted surface is represented by fiberglass and damaged PS model hull. The basic design matrix consists of four cases created by the pairing of two service flow conditions, static and dynamic, with each damage condition. Static flow represents ship at rest or in port conditions. Dynamic flow condition represents ship underway conditions. Reference cells and anode locations in the computational model duplicate as close as possible the locations in the PS models. In cases where port and starboard anode locations are not strictly symmetric, the boundary element model anode is placed at the average of the port and starboard locations. The decision model to use based port-starboard on model symmetry size and in the computational was existing
+
+paint areas are represented by strips of uncoated metal attached to the
+
+computational resources when the analyses were initiated.
+
+In all cases anode values are defined as input values. Mathematically the solution does not matter on the choice of boundary conditions to define the source anodes. All other values are calculated as part of the solution process. A candidate solution consists of a computer run in which the
+
+potential of the reference cells is at the target potential -0.85 Volts Ag/AgCl electrode. Reference cell readings are the calculated potential values at the mesh point that is at the reference cell location. A feasible capacity is defined as part of the ICCP system design. constraint required by LaPlace's equation. are varied. CG Hull Analyses The initial goal of the CG hull analysis was to determine if boundary element techniques could be used to accurately predict system performance [18 19 20]. The hull geometry investigated was a U S Navy CG hull class destroyer. The first to be evaluated was a single power zone, 6-anode system. This analysis determined that it was feasible to create a computational model that yielded reasonable results. The other two systems are 2 power supply zone systems and have 6 and 7 anodes, respectively. Issues of mesh refinement, geometric features and material characterization dominated these analyses. summarized below. The original model used in the CG analysis consisted of 573 rectangular elements and yielded unsatisfactory results. refinement was required. A mesh refinement study performed demonstrated that a significantly higher degree of mesh representation of the bilge keel was added to the model. This model was Once the mesh study was completed, a 3D The two zone system analyses are solution occurs when the total power required is within the power supply This is not a A feasible solution is
+
+determined through a multiple run process in which anode input values
+
+Three different ICCP systems were evaluated.
+
+used in the later CG work and consists of 1583 8-noded rectangular elements (Figure 2). The elements were flat surfaces so the curved ship hull was modeled as a faceted surface.
+
+Figure 2 ­ Boundary element mesh for CG hull class ship. Early in the analysis process polarization response was identified as a
+
+critical issue. Initial results were poor but changing polarization input response to data that more accurately represented the PS environment resulted in good agreement between experimental and computational results as shown in Table 1.
+Props. Docking Blocks Forward System Aft System TOTAL
+
+Min.Damage Calculated PS Model 50.3 44.5 13.7 14.1 22.3 25.8 41.8 39.1 64.0 64.9
+
+Table 1 ­ Current demand (Amps) for CG analysis. Three measurements for evaluating results; total current to components (props. and docking blocks), current from forward and aft systems and total current. Reference cell reading=-0.85 V Ag/AgCl
+
+A typical potential profile is shown in Figure 3.
+
+Figure 3 shows the
+
+comparison between sea trails data, PS modeling data and computational modeling calculated results for the USS Princeton. The comparison of
+
+experimental and calculated results based determined that the accuracy of computational results is directly related to the accuracy of the input polarization data used. However, it was observed that performance trends were similar even when magnitudes showed poor agreement indicating it system design work. is possible with any reasonable polarization response to perform basic
+
+Figure 3 ­ Potential profile for CG hull class ship; comparison of sea trails, experimental (PS Modeling) and computational, 10 m below waterline.
+
+CVN Hull Analyses Information gained about computational modeling of shipboard ICCP systems through the CG models was applied to the analysis of a CVN aircraft carrier hull. The CVN hull is geometrically more complex than the CG hull and the CVN ICCP system is more complex. The CVN ICCP system consists of 3 independent power supplies and 17 anodes. The model of the CVN hull (Figure 4) was created based on the lessons learned in the CG analyses.
+
+Figure 4 ­ Boundary element mesh for CVN hull class ship. The boundary element mesh consists of 1884 linear-quadratic
+
+displacement 9-noded rectangular elements. The 9-node configuration consists of 8 exterior mesh points that define the element geometry and 1 mesh point placed at the centroid of the element. The centroidal node allows for curvature of the element. This element type was not available for the earlier work. The 9-noded element allows for more accurate modeling of the curved hull surface. The source of polarization data was chosen so that PS modeling testing procedures would be represented by the polarization response. A typical potential contour is shown in Figure 5. Total current requirements for dynamic conditions are shown in Table 2. Detailed comparisons of potential profiles and magnitudes were accurately predicted, there was a larger degree of variation in amperage values than for the CG analysis. Possible reasons for these differences were identified as model simplification and polarization response. calculated and experimental results are presented in Ref. 21. While
+
+Figure 5 ­ Calculated potential contour profile for CVN hull class ship, minimum paint damage static flow conditions.
+
+Props.
+
+Docking Blocks
+
+Rudder
+
+Bilge Keel
+
+WaterLine
+
+Struts
+
+Hull
+
+Total
+
+Min.Damage Calculated PS Model 118.9 201.1 71.7 110.6 NA NA NA NA NA NA NA NA NA NA 190.6 314.7
+
+Max.Damage Calculated PS Model 189.8 228.2 185.2 181.8 85.0 43.0 174.4 290.8 206.8 229.8 85.8 104.4 791.0 759.5 1718.0 1837.7
+
+Table 2 - Current demand (Amps) for CVN system, dynamic flow conditions; reference cell reading=-0.85 V Ag/AgCl. All computational models are simplifications of the actual geometry. One difficult area in the CVN hull that required simplification was the bilge keel. Despite best efforts to match bilge keel profile and attachment angles there were differences between computational and PS models.
+
+These variations in bilge keel geometry are probably a contributing factor in variations observed for amperage required for mid-hull, i.e. bilge keel region, damaged areas. The polarization data used was determined from small-scale single material specimens tested in scale seawater to match the experimental environment. A review of data after analyses were completed indicated that there were other significant differences between the PS modeling test environment and the laboratory polarization experiments. While material interactions were not included in the laboratory determination of polarization response it is highly likely that these will occur due to the geometry of the hull, location of damage and location of appendages. In addition film coatings, not taken into account in the laboratory polarization response, were noted on some metal surfaces of the PS model. results. Boundary Definition Assumption Evaluations As noted earlier, any computational analysis depends on simplifying assumptions. memory and faster processing speeds there is always a limit to the size Even with current computational capabilities, expanded These variations are contributing factors to the differences in
+
+of computational problem that can be readily solved. It is the intent of the work at NRL to provide an analysis approach that can be used on readily available computational resources. There is always a trade off Therefore NRL between accuracy and computational simplifications.
+
+accepted simplifications. Studies completed and reported have dealt with of painted surfaces [23], and seawater properties [24].
+
+embarked on a series of studies to determine the effects of commonly
+
+means of defining damage (holiday vs. larger areas) [22], characterization In addition sensitivity studies that examine PS experimental tank geometry, tank material and relative size of tank to PS model have been completed [25 26]. The CG mesh was used for the seawater resistivity analysis. A twenty
+
+percent range of seawater conductivity centered on the nominal value
+
+was evaluated. This range was defined based on reported variation in seawater in different temperate zones. The analysis indicated that these moderate variations in seawater do result in moderate changes in system power requirements to maintain the set point. Of more importance was the fact that reference cell placement was shown to become a critical issue with changing seawater conductivity. Reference cell placement that provided adequate system performance at one conductivity level may or may not provide adequate system performance at a different level. Full field contours of potential levels can be obtained from the computational model and used for reference cell placement in the design process. Potential profiles at a single depth were shown to not provide a true picture of hull performance. The CG and CVN meshes were both used for the damage and paint resistivity studies. Essentially it was determined that modeling damaged areas as totally bare regions was conservative. Defining damage element by element also yielded conservative results. Upper bound power
+
+requirements would be determined by this approach. Realistic values of paint resistivity were shown to have a marginal effect on computational analysis. The CVN mesh was used in a series of studies that evaluated the effects of tank geometry and model size on experimental results. This study evaluated the possible edge effects that may occur for a PS model of a defined size when placed in different tanks as part of the PS modeling process. Possible effects based on tank wall material and tank geometry was completed. measured results. It was determined that the boundary element method provided a useful tool for the experimentalist in the interpretation of
+
+Guidelines for Use of Boundary Element Methods
+In summary guidelines for the use of boundary element techniques to design and evaluate shipboard ICCP systems are:
+
+·
+
+A more refined model is needed than is traditionally associated with boundary element techniques.
+
+·
+
+Accurate modeling of relatively small-scale features, such as bilge keels, is necessary.
+
+·
+
+The accuracy of computational results is directly dependent on the accuracy and appropriateness of the polarization data used as material characterization input data.
+
+·
+
+Preliminary design and trend studies can be successfully completed using less than optimum polarization data. Trends in performance can be determined even though magnitudes will be suspect.
+
+·
+
+Variations in seawater conductivity that correspond to changes in deployment region can be significant to system performance and should be incorporated into the design basis.
+
+·
+
+Modeling damaged paint as totally bare metal is a conservative approach.
+
+·
+
+Modeling paint as a perfect insulating material is acceptable depending on the accuracy of results required.
+
+The need to further address simplifying assumptions used in the computational approach is being addressed by on-going and planned work. Topics identified for evaluation include use of symmetry boundary damage patterns, seabed proximity, seabed characteristics and ship hull symmetry. The last deals with the accurate modeling of a non-symmetric ICCP system on a symmetric ship hull. Symmetry was used in the past as a simplifying assumption to reduce computational problem size. The present computational resources due to advances in computing have greatly relaxed problem size limitations. It is hoped that these studies and analyses. will continue to provide guidance for the creation of new system models condition for the water surface, effects of free flood spaces, variations in
+
+In addition it has been shown that computational modeling: · Allows for the evaluation of reference cell locations based on a variety of environmental and service conditions. · Allows for the quick evaluation of different system configurations and environmental conditions to determine the influence on system performance. · Provides a means to evaluate experimental process and assist in scale selection.
+
+Unified Design Approach
+Previously NRL had proposed a combined design methodology that relied on both computational and experimental procedures [27]. original outline of this combined approach NRL presented In their the
+
+computational modeling as primarily a means to reduce the number of iterations of PS modeling required in the design cycle. The advances in computational techniques and associated increased confidence in the results of computational modeling of ICCP systems has changed this proposed interaction. A new comprehensive unified modeling approach for ICCP system has been proposed [#ref9] that relies more heavily on an understanding between analysts and experimentalists. establish the PS modeling test matrix. Computational
+
+modeling can be used, not only as a preliminary design tool, but to Key test parameters, such as model scale and relative size to tank size, can be determined computationally. The unified design approach is shown schematically in Figure 6. In addition to linking the two methodologies it is also a means for clear and constant communication between the experimentalist and computational analyst. Each of these practitioners must realize that their particular portion of the overall design approach has its own strengths and weaknesses. For instance PS modeling does not have the polarization response as input data concerns that worry computational evaluations of changes in system or environmental parameters that
+
+modeling. In a like manner computational modeling can provide quick
+
+requires a much greater time experimentally. Working together the two approaches can result in a more effective design. The interchange should be seen as almost constant after initial design analysis rather than a linear iterative process. Computational Experimental
+Use Best Designs Creation of Basic from Computational Geometry
+
+to Setup Model
+Perform Experimental Testing
+
+Model Debu gging and Anal Shake down ysis of Prop
+
+Modification of System as Required
+
+Figure 6 ­ Unified computational and experimental design approach for osed
+Syste m
+
+shipboard ICCP systems.
+
+Conclusion
+This paper reviews the large body of work on computational modeling of ICCP system performed by NRL. A summary of modeling guidelines developed as a result of this work is presented. These guidelines are the design tool. A brief discussion of how computational and experimental work can be combined is presented. Computational analysts and experimentalists who deal with PS modeling are already working together to establish a clearer understanding of the phenomenon used in PS modeling. This understanding will provide insight into the computational process and calculated results. between computational and experimental methodologies will be a robust ICCP systems. The end result from this collaboration basis for the continual acceptance of computational modeling as a viable
+
+and rationally based design and evaluation methodology for shipboard The unified approach will provide the end-user with a The ultimate end product will be more more effective and efficient system design for a wide range of operating environments and conditions.
+
+versatile system designs and evaluations that allow for extended platform life.
+
+Acknowledgements
+The support of Dr. Alexis Kaznoff and Mr. E. Dail Thomas, Naval Sea Systems Command, is gratefully acknowledged.
+
+References
+
+1 R. A. Adey and S. M. Niku, STP-1154, ASTM, 248-264 (1992). 2 R. S. Munn, Computer Modeling in Corrosion, STP-1154, ASTM, 215228 (1992). 3 P. O. Gartland et al, Corrosion 93, Paper 522, NACE, (1993). 4 V. G. DeGiorgi, Boundary Elements XIX, Computational Mechanics Pub. 829-838 (1997). 5 R. A. Adey and P. Y. Hang, Corrosion 99 Research Topic Symposium CP Modeling and Experiment, NACE, 99-115 (1999) 6 E. S. Diaz and R. Adey, Boundary Elements XXIV, WIT Press, 475-485 (2002). 7 S. Aoki, K. Amaya and K. Gouka, Boundary Element Technology XI, Computational Mechanics Publications, 345-356 (1996). 8 Trevelyan, J., Boundary Elements for Engineers, Computational Mechanics Pub. Boston MA (1994). 9 V. G. DeGiorgi, E. Hogan, K.E. Lucas, S. A. Wimmer, BETECH2003, WIT Press, In Press (2003). 10 R. W. Ditchfield, J. N. McGrath, D. J. Tighe-Ford, J. of Applied
+
+Electrochemistry, 25, 54-60 (1995).
+
+11 J. N. McGrath, D. J. Tighe-Ford and L. Hodgkiss, Corrosion Prevention and Control, April, 33-36 (1985). 12 E. D. Thomas and A. R. Parks, Corrosion 89, Paper No. 274, NACE (1989). 13 A. R. Parks, E. D. Thomas and K. E. Lucas, Corrosion 90, Paper 370, NACE (1990). 14 K. E. Lucas, E. D. Thomas, A. I. Kaznoff and E. A. Hogan, STP 1370, ASTM, 17-33 (1999). 15 Computational Mechanics, BEASY-CP Users Manual, Computational Mechanics Int., Billerica, MA (2000). 16 Frazer-Nash Consultancy, FN Remus Detailed Modeler User Guide, Dorking, Surrey, UK (2001). 17 MSC Software Corp., MSC Patran 2001 Users Manual, Los Angeles, CA (2001). 18 V. G. DeGiorgi, E. D. Thomas and A. I. Kaznoff, STP-1154, ASTM, 265276 (1992). 19 V. G. DeGiorgi, V. G et al, Boundary Element Technology VII, Computational Mechanics Pub. 405-422 (1992). 20 V. G. DeGiorgi, A. Kee and E. D. Thomas, Boundary Elements XV, Computational Mechanics Pub. 679-694 (1993). 21 V. G. DeGiorgi, E. D. Thomas and K. E. Lucas, Engineering Analysis with Boundary Elements, Vol. 22, 41-49 (1998). 22 V. G. DeGiorgi and C. P. Hamilton, Boundary Elements XVII, Computational Mechanics Pub. 395-403 (1995).
+
+23 V. G. DeGiorgi, Engineering Analysis with Boundary Elements, Vol. 26/5, 435-445 (2002). 24 V. G. DeGiorgi, Boundary Element Technology XII, Computational Mechanics Pub. 475-583 (1997). 25 S. A. Wimmer, V. G. DeGiorgi, E. Hogan, E. and K. E. Lucas, Proceedings 2002 Tri Service Corrosion Conference, In Press (2003) 26 V. G. DeGiorgi, S. A. Wimmer, S. A., E. Hogan and K. E. Lucas, Boundary Element Method XXII, WIT Press, 439-447 (2002). 27 V. G. DeGiorgi, E. D. Thomas and K. E. Lucas, Boundary Element Technology XI, Computational Mechanics Pub. 335-345 (1996).
+

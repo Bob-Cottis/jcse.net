@@ -1,0 +1,480 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+MODELING AND COMPUTER SIMULATION OF CATHODIC PROTECTION OF STEEL STRUCTURE Subir Paul Department of Metallurgical and Material Engineering, Jadavpur University Kolkata, India
+
+ABSTRACT
+
+Formation of calcareous deposit influences applied potential and current for long-term protection of offshore structures. A model is proposed to predict the applied potential-time history with an aim to establish mathematical correlation between applied potential on cathodically protected surface and time by computer simulation technique, following principles of electrochemical kinetics. Comparative studies between experimental and numerical analysis data show good agreement. The model opens up a method of determination of applied current and potential required to be maintained after certain period of exposure of the steel structure using simple laboratory polarization experimental data at different slope parameters and computed rate constant of calcareous deposit formation..
+
+KEYWORDS. cathodic protection, calcareous deposit, slope parameter, potential decay, numerical simulation, offshore structure INTRODUCTION Cathodic protection for the submersed portion of steel offshore structure with or without coating is the most technically appropriate and economically viable corrosion protective method. The fundamental criteria for cathodic protection is to cathodically polarize the structure to a potential of 0.80V vs. silver-silver chloride electrode or more negative potential
+1,2
+
+. Protection of an offshore
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+structure such as a petroleum production unit is normally accomplished by galvanic anode. Historically cathodic protection (CP) design procedures have been
+2
+
+carried out through trial and error method using a single long-term current density . During the last 10 to 15 years, CP was based on rapid polarization technique whereby a high initial current was applied for formation of protective calcareous deposit, which gives rise to a low maintenance current density
+(3-4)
+
+.
+
+Recently a technique based on of slope parameters is being applied for sacrificial cathodic protection of offshore structures
+5 -8
+
+.
+
+Advent of newer methods have developed the CP design systems in many respects including lower mass of anode consumption but still at times cathodic protection systems fail due to over protection or under protection . One of the major problems that people face while designing the cathodic protection is the applied potential or current change from the position of the anode over the surface of the structure. While the distributed anode arrays on space frames such as production platforms tend to provide relatively uniform polarization, the unidimensional pipe gives rise to a problem of potential attenuation with increasing distance. Computer aided mathematical models have been developed to
+2 estimate current and potential distribution using Laplace's equation  =0 7,11-14
+
+.
+
+Formation of calcareous deposit is a very important aspect for cathodic protection of offshore structure. It not only influences potential and current distribution but the kinetic aspect of its formation determines applied potential and current for long term protection of marine offshore structure 8. In the present investigation attempts have been made to find a mathematical correlation between cathodic polarized protection potential and time. The complexity of physical, chemical and biological phenomena occurring on cathodically protected surface does not permit a simple relation to exist between them.
+2
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+Thus with the aid of suitable numerical interpolation methods and computer simulation a relation is proposed. EXPERIMENTAL PROCEDURES Low carbon steel rod of I cm diameter and 10 cm long of which 2 cm was immersed in sea water collected from the Bay of Bengal , Digha region, Midnapur district. The water was allowed to flow in with a uniform velocity controlled by a pump and electrical control unit to a rectangular refractory container. The water was drained out through a hole at the other end and collected in a reservoir from where the water was pumped into the refractory vessel. Thus a water circulation was maintained with a fixed volumetric flow rate. Linear velocity of the fluid was determined at various points around the steel surface up to a distance of I cm. to the either side and the average of them is reported (Table-1). The conditions of the fluid were so maintained that it was very close to real system at Digha ocean in respect of fluid properties (Table-1). The system was polarized cathodically by sacrificial Zn anodes. Polarized potential of steel against a saturated calomel electrode as well as applied current were recorded with time. Some experiments were also conducted by polarizing with impressed current against a graphite auxiliary electrode. External resistances of 300, 400 600 and 800 ohms were connected to the circuit to vary the slope parameter. The polarized potential and current are recorded with time. The experimental set is illustrated in a schematic diagram in figure 1.
+
+RESULTS AND DISCUSSION The characteristic of cathodic polarization curves with variation of exposure time has been
+
+illustrated in figure 2 It is seen after a span of 3 months in sea water , the polarization shifts to a more
+
+3
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+negative potential and lower current density. This is due to formation of calcareous deposits. This fact creates a major problem while estimating required applied potential and current for long term cathodic protection of offshore structures. Figure 3 illustrates variation of applied potential with time at different slope parameters. By connecting various external resistances the slope parameters have been selected in accordance with data of real offshore structures
+6,15
+
+from the following first principle based relation
+
+between cathodic potential (D. and cathodic current density ic ,  = (Rt Ac)i c. + a c (1)
+
+Where Rt is the total circuit resistance, Ac is the cathode surface area and  is the anode potential. The a slope parameter S = RtA c for laboratory specimen is equivalent to (Rt Ac )/ N for actual structure 6. It is seen that potential decays with time for all the curves and lower the slope parameter the faster is the rate of decay. Similar trends for variation of current with time at different slope parameters are shown in figure.4. Proposed Model Base on the observations above an equation of following nature is proposed to predict cathodic polarized potential after a certain passage of time from its initial potential, slope parameters and others factors, influencing the fluid properties of the corrosive media. Et = E i - kt + Si c e (2)
+
+Where Et is cathodic potential after t time, Ei is the initial polarized potential, t is the time, k is the rate constant (fraction reacted /hr) which is the rate formation calcareous deposits in unit time at a fixed temperature, and fluid properties of sea water and is a constant. Such that when t=0 that is no time for
+4
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+deposition, Et becomes close to Ei. Similarly if k=0, that is without any formation of calcareous deposits Et tends to Ei . The proposed equation (2) seems to be justified from the trend of the curves as depicted in figure 3. Since applied cathodic current density ic also decreases with time exponentially from it initial value io (figure 4), so ic. can also be expressed as ic = ii ­ kt (3) e When is another constant. Since the effective anode diameter decreases with time due to corrosion, the slope parameter is expected to increase with time, but it is assumed constant here for the time being and its influence over the exposure time 7,11-13 is left over for next course of study. Combining equations (1) and (2), we have Et = E i -  e
+kt
+
++ S(i i ­ kt ) e
+
+(4)
+
+The above equation relates cathodic potential after formation of some calcareous deposits with kinetics of rate of formation which itself is related to chemical potentials of reactants and products, temperature, time , current density which relies on severity of corrosive fluid, applied polarized potential dependent on nature of materials, and environment, and finally slope parameter which takes care of polarization behavior and shapes of cathode and anode. Thus the proposed equation considers all the possible parameters, which are expected to influence the formation of calcareous deposits. Numerical methods and subsequent computer programming using experimental data generated by simulating the conditions of real offshore structure with laboratory specimen solve the equation. Numerical and Computational methods
+5
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+Expansion of ex = 1 + x + x /2 + x /6 + x /24 + + x 5/120 + x /720 + ....(5) The term e in the equation (4) can be expanded in the above manner and then if all the terms are rearranged ,then equation (4) can be expressed as polynomial of function t as follows. Et = a0 + a1t + a2t + a3t + a4 t + .........+ an t
+2 3 4 n kt
+
+2
+
+3
+
+4
+
+6
+
+(6)
+
+Provided Ei, ii , k and S are assumed to remain fixed. The assumptions are justified for an offshore structure to be hoisted in a particular region of ocean and generating some data by few laboratory simple experiments. The equation (6) is solved by two different numerical methods Divided differences method and Least squares approximation for Non linear curve. Programs are written in Microsoft Visual C++ which aim at fitting the data by thousands times iterations till a desired level of accuracy is obtained. The program also computes errors for different degree of polynomial n and compares them and hence that number as degree of polynomial where the error is minimum. Table 2 depicts degree of polynomial with level of error for different sets. It is interesting to see that irrespective of any slope the polynomial for which the error is minimum is always 5, and hence degree of 5 is considered and accordingly the sets of -developed equation become as given in Table-3. It is to be noted that constant term ao in each equation is close to its initial polarized potential (see figure 3). Figure 5 compares experimental data with those generated by computational techniques. Results obtained with the numerical method of Least Square for nonlinear curve give better matching beyond certain amount of time when a good amount of calcareous deposit has formed. While the curve with Divide difference method is more close to experimental one during the initial stage.
+
+6
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+To find out the rate of formation of calcareous deposit k , the equation (3) is rewritten in a modified form as below. ln (Sii + E i -Et ) = kt + In Where  a constant here. is Plot of ln (Sii + Ei -Et ) vs. t should give straight line with a slope equal to rate constant k. Fig.6 shows the plots with regression analysis. Here all the lines are parallel with almost equal slope (Table4). The rate constant value of 0.0014 fractions reacted per hour remains same irrespective of change in slope parameter in this particular environment. Once the rate constant k has been determined, the constant  can be found out from the slope of the linear plots of Ic vs. e kt (see equatiom 3) as shown in fig. 6. It is seen the value of constant for all four lines are close and mean of them has been taken as 166.45 (Table -5 ). Similarly the best fit linear plots of Ec vs. ekt ( see equation 2 ) produce slopes which are compareable (fig.8 and Table - 5)) and the constant is found out. Substituing the equation (2) with computed determined constants the final derived proposed model equation is Et = E i - 523.74e-0.0014t + S (i i ­ 166.45e -0.0014t ) ---------(8) (7)
+
+Validity of the derived equation Applied potential and current density obtained after exposure of the steel structure for a fixed interval of time are calculated using above equation and their values are compared with those found in real situtation 16 under similar type of conditions and the results are found to be comparable.
+7
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+Finally a window basedsoftware was developed , whereby applied potential and current required after 5 or 10 years from instalation could be predicted simply by feeding laboratory polarization data of of current and potential with time at a particular slope parameter .
+
+CONCLUSIONS A model is developed by computer simulation technique for correlating applied potential on cathodically protected surface in sea water with time with an aim to predict the applied potential that would ultimately be needed to protect an offshore structure after a good amount of calcareous deposit has formed to attain a steady state condition. It is demonstrated by the model that using polarization data generated by simple laboratory experiments under similar conditions as those in real offshore structure better methodology of estimating steady state applied potential and hence current can be obtained for long term cathodic protection. The present investigation also proposes new approach of finding rate constant of formation of calcareous deposits using polarization data. It further endeavors to show the influence of slope parameter on potential and current decay and rate kinetics. ACKNOWLEDGEMENT The author expresses deep gratitude and appreciation to Sudeshna Paul for technical support in mathematical modeling of the paper.
+
+REFERENCES
+
+8
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+I .DnV Recommended practice RP401, " Cathodic Protection Design" ( Norway: Det Norske Veritas Industri As, 1993. 2.NACE Standard RP0176-94, Corrosion Control of Steel-Fixed Offshore Platforms Associated with Petroleum Production" (Houston TX: NACE International 1994) 3.R. Mollan, T.R. Anderson, " Design Cathodic protection systems," paper no. 286 CORROSION/86 (Houston TX: NACE International 1986) 4.K.P.Fischer, T.Sydberger, R Lye, " Field Testing of Deep water Cathodic protection and the protective properties of the calcareous deposits" paper no.582 CORROSION/89 (Houston TX: NACE International 1989) 5.W. Wang, W. H. Hartt, S. Chen Corrosion 52(1996): p.419 6.W. H. Hartt, S. Chen, D.W. Townley Corrosion 54(1998): p.317 7.K. Bethune, W. H. Hartt, Corrosion 57(2001): p.317 8.W. H. Hartt, S. Chen Corrosion 56(2000): p.2 9.A. Gupta CORCON 2000, Int. Conf. By NACE International India section, vol.2, p. 13 3 10. P.M. Fanse. CORCON 2000, Int. Conf. By NACE International India section, vol.2, p.241 11. M.E. Orazem, J.M. Esteban, K.J.Kennelley, R.M. Degerstedt Corrosion 53(1997): p.263 12. S. Paul, P.K. Mitra, "Establishment of relation between current and potential over a cathodically protected structures using numerical method and computer technique" int. conf. By NACE India section held in 2001 at Bangalore India. 13. S. Paul, P.K. Mitra Mathematical modelling of Cathodic Protection, Nat. Workshop. on Corrosion A Colossal waste, held in B.E. College,Shibpur, India 2001, in press.
+
+9
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+14.S Paul and P K Mitra ,Determination of potential distribution ovber a cathodically protected surface by mathematical modeling, Bulletin of Electrochemistry vol. 19,no. 9(2003) ,pp399-404. 15. S.L.D.C.Brasil, J.C.F. Telles, L.M.R. Miranda Corrosion 56(2000): p. 1180 16. W.H. Hartt ,F. Lemieux. Corrosion 56(2000) p.988
+
+10
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+TABLE-1 FLUID PROPERTIES OF SEA WATER USED Density Gm/cc Resistivity pH m Average Bulk linear velocity m /s 0.15 Viscosity cp Temperature Deg. C Dissolved 101 Mol/CM3 Reynolds Nature of Number Fluid flow
+
+1.0241
+
+0.35
+
+7.9
+
+1.103
+
+25
+
+2.39
+
+27854
+
+Turbulent
+
+Table-2 RESULTS OF LEASTSQUARE METHOD FOR NON-LINEAR CURVE Degree of Polynomial 0.90m2 1 2 3 4 0.00457363 0.00299174 0.00240196 0.00111055 Level of Error for different Slope Parameter 1.20m2 0.000763767 0.000850436 0.000821289 4.6742ge-005 1.80m2 0.000570586 0.00010524 0.000124958 2.40m 2 0.00134131 0.000125383 7.10391e-005 4.24865e-005
+
+2. 12204e-005
+
+5
+
+0.00108048
+
+3.4451e-005
+
+1.656ge-005
+
+3.46033e-005
+
+6
+
+0.00160081
+
+5.26083e-005
+
+2. 17335e-005
+
+5 .34466e-005
+
+7
+
+0.00240256
+
+7. 13644e-005
+
+4.00721e-005
+
+0.000106243
+
+8
+
+0.0046454
+
+0.00011372
+
+0.000570586
+
+0.120785461
+
+11
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+Table ­3 RELATION BETWEEN POLARIZED POTENTIAL AND TIME Slope Parameter 2 m E t = a 0 + a1 t + a2 t + a 3 t + a4 t
+2 3 4
+
+0.9
+
+E t= -0.723979 -0.0153735 t + 0.000284215 t 2 -2.34039e-006 t3 + 6.0388e-009 t4 Et = -0.72911 -0.0074727 t + 0.000136959 t2 -1.09382e-006 t 3 + 2.81452e-009 t 4 E t= -0.71981 -0.00449734 t + 5.35119e-005 t2 -3.12135e-007 t 3 +1.47204e-010 t4
+
+1.2
+
+1.8
+
+2.4
+
+Et = -0.717608 -0.00138381 t +1.03669e-006 t2 -4.09036e-008 t 3 + 2.34344e-010 t4
+
+T ABLE-4 DETERMINATION OF RATE CONSTANT Slope Parameter Om2 0.9 1.2 1.8 2.4 Degree of linearity R2 0.8854 0.9584 0.9922 0.9469 Rate constant K fraction reacted Ihr 0.0014 0.0014 0.0014 0.0013
+
+Table-5 COMPUTED VALUES OF CONSTANTS AND  Slope Parameter  m2  mA/m2 Mean  mA/m 2  mV Mean  mV
+
+12
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+0.9 1.2 1.8 2.4
+
+163.23 166.45 169.43 171.21 161.91
+
+501.69 532.74 542.96 546.91 503.42
+
+Table-6 COMPUTED VALUES OF CURRENT DENSITY AND POTENTIAL Slope Parameter m2 O.61 1.38 5.82 0.30 0.66 1.20 Time t hours 480 1000 2000 480 500 1000 Ii mA/m2 150 110 80 320 300 100 Ic mA/m 2 65.226 69.065 69.905 235.226 217.568 59.065 Ic mA/m 2 (Literature) 16 65.00 51.00 45.00 218.00 187.00 67.00 Ei mV Vs. SCE -980 -920 -750 -1020 -800 -790 Ec mV Vs. SCE -1207.81 -953.907 -875.014 -1217.03 -916.617 -848.339 Ec mV (Literature)16 -1100 -980.00 -850.00 -1105.00 -1020.50 -998.00
+
+13
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+14
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+Fig.1 showing schematic diagram of the experimental setup.
+
+-0.3 -0.4
+E potential vs. SCE in volt
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 -1.1 0.1 1 10 100 1000 10000
+
+i current density, mA/m2
+
+Figure 2 Cathodic polarisation of steel in sea water
+
+15
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+-0.6 -0.7
+Potential vs SCE in vol t
+
+2.4 ohm-m2 1.8 ohm-m2 1.2 ohm-m2 0.9 ohm-m2
+
+-0.8 -0.9 -1 -1.1 -1.2 -1.3 0 50 100 150
+
+200
+
+250
+
+300
+
+Time in hrs
+
+Figure 3 Variation of polarized potential with time at different slope parameters
+
+1000 900 800
+Current density mA/m2
+
+0.9 ohm-m2 1.2 ohm-m2 1.8ohm-m2 2.4ohm-m2
+
+700 600 500 400 300 200 100 0 0 50 100 150
+
+200
+
+250
+
+300
+
+Time in hrs
+
+Figure 4 Variation of applied current density with time at different slope parameters
+
+16
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+-0.6
+Potential vs. SCE in vol t
+
+-0.65 -0.7 -0.75 -0.8 -0.85 -0.9 -0.95 -1 0 50 100 150 200
+
+Experimental Non linear Leastsq Divided Diference
+
+250
+
+300
+
+350
+
+Time in hrs
+
+Figure 5 Comparoison of experimental data with generated data
+
+0.3 0.2
+ln(Ei +IiS - Et)
+
+2.4 1.8 1.2
+y = 0.0014x + 0.0062 R = 0.8854 y = 0.0014x - 0.0598 R = 0.9584 y = 0.0014x - 0.0999
+R = 0.9922 y = 0.0013x - 0.1574 R = 0.9469
+2 2 2 2
+
+0.1 0 -0.1 -0.2 -0.3 0 50 100 150
+Time in hrs
+
+200
+
+250
+
+Fig.6 Determination of rate constant of deposit formation on cathode surface
+
+17
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+700 600 y = -163.23x + 714.32
+
+2.4ohmm2
+500
+
+y = -169.43x + 601.91 y = -171.21x + 500.82
+
+1.8ohmm2
+400 Ic 300 200 100 0
+0 0.2 0.4 0.6 0.8 1 1.2 1.4 1.6 1.8
+
+1.2ohmm2 0.9ohmm2
+
+y = -161.91x + 395.09
+
+e(kt)
+
+Fig.7 Plots of Ic vs. e(kt) at different Slope Parameters
+
+-600 -700 -800 -900
+
+y = -501.69x - 272.45 y = -542.96x - 317.25 y = -546.91x - 354.67
+
+2.4 Ohm m2 1.8 ohm m2 1.2 ohm m2 0.9 ohm m2
+
+Ec -1000 y = -503.42x - 489.41
+-1100 -1200 -1300 -1400 0.5 0.7 0.9 1.1 1.3 1.5 1.7 1.9
+
+ekt
+
+Fig.8 Ec vs. ekt plots
+
+18
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+19
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 29
+
+31 January 2005
+
+20
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

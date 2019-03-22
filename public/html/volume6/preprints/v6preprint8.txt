@@ -1,0 +1,591 @@
+Volume 6 Paper C012 The Corrosion Protection of Copper and Copper Alloys using an Electrodeposited Conducting Polypyrrole Coating
+C.B. Breslin and A.M. Fenelon
+
+Department of Chemistry, National University of Ireland Maynooth, Maynooth, Co. Kildare, Ireland Cb.Breslin@may.ie
+
+Abstract
+Adherent polypyrrole films were electropolymerized from a near neutral sodium oxalate solution at pure Cu, CuZn and CuNi electrodes. The growth of these films was facilitated by the formation of a pseudo-passive oxalate layer. This layer was sufficiently protective to minimize dissolution of the substrate, but sufficiently conductive to enable the electropolymerization of pyrrole at the interface, and the generation of an adherent polypyrrole film. The rate of electropolymerization at the CuNi layer was reduced significantly by the formation of a nickel-rich oxide phase, however, the presence of Cu2+ increased the rate of polymer growth, enabling the formation of a thin polypyrrole layer during the early stages of polymerization. Likewise, the presence of zinc in the oxalate layer generated at the CuZn electrode reduced somewhat the rate of polymer formation. These films exhibited good corrosion protection properties in an acidified chloride solution. Keywords: Copper, Polypyrrole, Corrosion Protection, Electro-
+
+polymerization, oxalate.
+
+Introduction
+In recent times, there has been much interest in the possibility of using conducting polymers, such as polypyrrole, polyaniline or derivatives of these, in the corrosion protection of various iron and
+
+aluminium-based materials [#ref1-10]. The interest in these polymers stems from the fact that they can exist in different oxidation states and can be easily converted between these oxidation states. For example, the different oxidation states of polypyrrole are shown in Figure 1. The fully reduced polymer is neutral, but as the polymer is oxidised, the polymer is doped by anions, A-, to maintain charge neutrality. It is this property of anion release, as the polymer is corrosion protection. reduced, that makes these polymers attractive as smart coatings in
+
+Figure 1: Oxidation state of polypyrrole: top neutral form, middle partially oxidised, bottom fully oxidised.
+
+However, there are very few reports devoted to the corrosion protection properties of these conducting polymers when applied to copper or copper-based alloys. In the cases where these polymers 2
+
+have been considered, they have first been synthesized chemically, and then deposited at the metal surface, for example by spin coating. Brusic et al. [#ref11] have studied the corrosion protection properties function of the applied potential and temperature. It was found that polyaniline could either enhance the corrosion rate or produce significant corrosion protection properties depending on the chemical nature of the polymer backbone and on the oxidation state and extent and nature of polymer doping. In this paper results are presented on the electropolymerization of pyrrole at pure Cu, CuNi and CuZn alloys to generate adherent polypyrrole coatings. The corrosion protection properties of these polymers are assessed using electrochemical measurements.
+
+of polyaniline and its derivatives when spin-coated onto copper as a
+
+Experimental
+Electrodes were prepared from pure copper (99.99+%), 70Cu30Ni and 63Cu37Zn (total impurities < 6000 ppm). The electrodes were provided in rod form (with diameters of 5 mm for Cu, 6 mm for CuNi and 10 mm for CuZn) and as sheets. The rods were embedded in epoxy resin in a Teflon holder with electrical contact being achieved by means of a copper wire threaded into the base of the metal sample. Prior to each test, the exposed surfaces were polished to a smooth surface finish, using 1200 g SiC, and rinsed with distilled water. In some experiments, the pure copper electrodes were electropolished in a 63% phosphoric acid solution at an applied potential of 2.5 V(SCE) to generate a mirror-like finish. A standard three-electrode cell was used as the electrochemical cell. High-density graphite rods were used as the auxiliary electrodes and a saturated calomel electrode (SCE) was used as the reference electrode. The electrolytes were prepared using analytical grade reagents and distilled water. The electropolymerization solution consisted of 0.1 or 0.2 mol dm-3 a pH of 7.6. A 0.1 mol dm-3 NaCl solution, adjusted to a pH of 3.5 using HCl, was used as the aggressive solution. 3 pyrrole and a 0.125 mol dm-3 sodium oxalate solution maintained at
+
+Electrochemical experiments were carried out using an EG&G Potentiostat, Model 263, or a Solartron EI 1287 electrochemical interface. The polymers were formed using a constant potential of 900 mV(SCE). Once formed, the electrochemical and corrosionprotection properties of the polymer-modified electrodes were assessed. The electrochemical tests consisted of cyclic voltammetry, while the corrosion tests involved anodic polarisation measurements. Cyclic voltammograms were recorded in a 0.1 mol dm-3 Na2SO4 solution, at a relatively slow scan rate of 5 mV s-1. Anodic polarisation tests were recorded in the chloride-containing aggressive solutions from the corrosion potential, at a scan rate of 0.5 mV s-1 in the anodic direction, until breakdown occurred. Quartz crystal microbalance studies were performed with a CH1440 potentiostat coupled to a quartz crystal oscillator. The quartz crystal cell consisted of the quartz crystal, a miniature Ag/AgCl reference and a platinum counter electrode. The piezoelectric quartz crystal electrodes consisted of a polished gold surface, 100 nm in thickness deposited at a 10 nm Cr surface. The resonant frequency of the crystal was 8 MHz. A thin copper layer (10 nm) was electrodeposited at the quartz crystal surface prior to the electropolymerization studies in order to provide a pure copper surface. Scanning electron micrographs and energy dispersive x-ray analyses were recorded on a Hitachi S-4700 cold cathode field emission SEM using a secondary electron detector at an accelerating voltage of 15 kV. The X-ray spectra were obtained using an Oxford Instruments Inca Energy EDX detector attached to the SEM. The samples were gold coated prior to imaging using an Emitech K550 sputter coater. A Zygo White Light Interfereometer was used to obtain information on the roughness and thickness of the deposited polymer. The thickness of the polymer was calculated by comparing the height of a coated section of the surface with an area free from the coating, with a value averaged over five determinations being taken as the thickness. For all these measurements an electropolished copper substrate was employed.
+
+4
+
+Results
+Electropolymerization of Pyrrole It is well known that the electrochemical formation of conducting polymers at active metals, such as iron, is complicated by the required to oxidise the monomer to the radical cation, which is necessary in the electropolymerization reactions that give rise to the final polymer. However, these high anodic potentials also result in dissolution of the metal substrate. Similar complications exist when The standard reduction potential for the Cu2+|Cu couple is 340 mV(SHE). For example, it was not possible to form polypyrrole, or indeed polyaniline, at copper from phosphoric acid, sulphuric acid, tosylic acid, or neutral sulphate or nitrate solutions as the copper substrate dissolved too rapidly at the potentials required to oxidise aniline or pyrrole. However, it was possible to form polypyrrole at copper from a neutral oxalate solution as the formation of an initial copper oxalate layer inhibited the dissolution of copper [#ref13]. This can be seen from the quartz crystal microbalance data presented in Figure 2(a) which show the initial mass changes that take place at the copper electrode on solution in the presence and absence of pyrrole. The quartz crystal data were converted to mass changes using the well-known Sauerbrey equation, Equation 1:  f2  f = - o m  N q    (1) polarising the electrode at 900 mV(SCE) in a 0.125 mol dm-3 oxalate copper is used as a substrate, as copper is readily oxidised to Cu2+. dissolution of the metal [#ref12]. Relatively high anodic potentials are
+
+where F represents the shift in frequency observed, fo is the resonant frequency of the fundamental mode of the crystal, q is the density of the crystal, N is the frequency constant for the quartz crystal and m
+
+is the change in mass per unit area.
+
+5
+
+(a)
+5.0
+
+ Mass / µg
+
+0.0 -5.0 -10.0 -15.0
+
+.
+
+0.0
+
+20.0
+
+40.0
+
+60.0
+
+Time / s
+
+(b)
+
+Frequency / kHz
+
+5.00 3.00 1.00 -1.00 -3.00 0 500 1000 1500
+
+4.00 0.00 -4.00 -8.00 2000
+
+Time /s
+Figure 2: Quartz crystal microbalance data presented for (a) the initial
+
+stages of oxidation of copper  in a neutral oxalate solution and polypyrrole from 0.1 mol dm-3 pyrrole in a neutral oxalate solution.
+
+ in a pyrrole-containing oxalate solution; (b) the growth of 
+
+Both traces are similar during the first 20 s of polarisation and are characterized by an initial mass loss, then a rapid mass increase, which is consistent with the formation of a copper oxalate layer at the copper surface. Finally a more gradual mass loss, which is consistent with dissolution of the copper substrate, is observed. This latter mass loss clearly shows that the copper oxalate layer is not very protective, but inhibits sufficiently the dissolution of copper to enable the growth of an adherent polypyrrole layer. Growth of the polypyrrole layer can
+
+6
+
+ Mass / µg
+
+be seen following 20 s of polarisation and is marked by the mass increase after approximately 22 s. Further growth of the polypyrrole layer can be seen from the data presented in Figure 2(b), which show the mass change and the accompanying frequency shift as a function of the polymerization period in a 0.1 mol dm-3 pyrrole solution. A polymerization, this is then followed by a slow growth of the polymer rapid increase in the mass is seen during the first 100 s of at times greater than 1000 s. This final slower growth period is consistent with the transition of the polymer growth from three dimensions to a two-dimensional growth phase. In Figure 3(a) and (b) typical current-time transients are shown for the electropolymerization of pyrrole at copper, copper-zinc and the copper-nickel alloy. In Figure 3(a), data are shown for pure copper and copper-zinc during the electropolymerization of pyrrole. The currentthe substrate [#ref13] and the formation of a complex oxalate layer, being consistent with the data presented in Figure 2. However, once this period has elapsed, deposition of polypyrrole at the electrode surface dominates the electrochemical response. It is interesting to compare the traces recorded for the pure copper and copper-zinc electrode; the currents are a factor of four greater for the pure copper substrate indicating a much higher rate of electropolymerization at the pure copper surface. In the case of the CuNi substrate, the application of high potentials, such as 900 mV(SCE), which are needed to initiate the electropolymerization reactions, also gave rise to increased rates of the formation of the nickel hydroxide, which in turn inhibited the formation of the polypyrrole layer. In order to increase the rate of the electropolymerization reaction, a Cu2+ solution was added to the electropolymerization medium. Likewise, electroformation of the nickel-rich oxide was inhibited through the deposition of a thin copper layer at the CuNi electrode prior to electropolymerization. These data are presented in Figure 3(b), in which plots are shown for CuNi polarised in the pyrrole-containing solution, CuNi polarised in the polarised in the polymerization solution. pyrrole solution containing Cu2+ and a copper-coated CuNi electrode time behaviour during the first 20 s is dominated by the dissolution of
+
+7
+
+10
+
+-1
+
+Current /A cm
+
+10
+
+-2
+
+-2
+
+10
+
+-3
+
+10
+
+-4
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+Time /s
+
+10
+
+-1
+
+-2
+
+Current /A cm
+
+10
+
+-2
+
+10
+
+-3
+
+10
+
+-4
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+Time /s
+
+Figure 3: Current-time plots recorded at 900 mV(SCE) for (a)   pyrrole solution; (b) - - - - CuNi in a 0.2 mol dm-3 pyrrole solution,  CuNi in the pyrrole solution containing 0.01 mol dm-3 CuSO4 and   copper-modified CuNi in the pyrrole solution containing 0.01 mol dm-3 CuSO4. 8 copper in a 0.2 mol dm-3 pyrrole solution,  CuZn in a 0.2 mol dm-3
+
+It is clear from these data that the presence of Cu2+, or modification of the electrode by a thin Cu layer prior to the electropolymerization reactions, gives rise to an increase in the rate of electropolymerization. This increase in polymer growth in the presence of copper cations has that the presence of copper cations promotes oxidation of the polymer been documented previously by Millar et al. [#ref14] who have shown units due to the strong oxidising power of the Cu2+ cation. Also, Rivas
+
+et al. [#ref15] have reported an increase in the polymer yield in the
+presence of copper cations.
+
+These electropolymerization procedures gave rise to the deposition of highly adherent polypyrrole layers on each of the three substrates. In fact, the polymer layers could only be removed by mechanical polishing of the electrodes. The thickness of the polypyrrole layers grown on pure copper for a 30-min electropolymerization period in a 0.1 and 0.2 mol dm-3 pyrrole solution was measured as 5.0 and 9.0 µm interfereometry measurements. respectively using cross-sectional SEM and white light
+
+Characterization of the polypyrrole deposits A Typical SEM micrograph showing the morphology of the polypyrrole coating on the copper substrate is shown in Figure 4. These data were recorded following dehydration of the polymer. The polymers were formed and then exposed to the atmosphere at 25 oC for seven days. The data show clearly that the polymer is homogenous and is crack and defect-free despite being dehydrated over an extended period, which indicates that the metal-polymer arrangement is stable. The characteristic microspheroidal grains, or aggregates, of polypyrrole, with sizes up to 2 µm are observed. In Figure 5, the surface roughness of a 9.0 µm thick polypyrrole layer at pure copper is shown. These data were recorded using white light interfereometry and show polymer peaks reaching heights close to 3.0 µm indicative of a rough surface. The presence of these polypyrrole peaks is in agreement with
+
+9
+
+the two-dimensional growth phase evident from the quartz crystal data, Figure 2.
+
+Figure 4: SEM micrograph of polypyrrole deposited at copper.
+
+Figure 5: White-light interfereometry of polypyrrole deposited at copper.
+
+10
+
+The data in Figure 6 show the electrochemical behaviour of the polypyrrole-coated Cu electrode in 0.1 mol dm-3 Na2SO4. The polymer These data were recorded at a scan rate of 5.0 mV s-1. Before cyclic polarisation, the sample was polarised at 0.4 V(SCE) to enable oxidation of the polymer. These data are typical of pure polypyrrole cycled in a sulphate solution [#ref13]. A reduction peak centred at ­ 625 mV(SCE) and an oxidation peak at ­195 mV(SCE) is observed, showing that the polypyrrole deposited at Cu using the relatively high potential of 900 mV(SCE) exhibits typical redox activity. was deposited at 900 mV(SCE) from a 0.1 mol dm-3 pyrrole solution.
+
+0.0005
+
+-2
+
+Current /A cm
+
+0.0000
+
+-0.0005
+
+-0.0010 -1.0
+
+-0.5
+
+0.0
+
+0.5
+
+Potential /(V vs. SCE)
+
+Figure 6: Cyclic voltammogram recorded for polypyrrole-coated Cu in a 0.1 mol dm-3 Na2SO4 solution at a scan rate of 5 mV s-1.
+
+Corrosion Protection Properties The corrosion-protection properties of the polypyrrole films deposited at pure copper, copper-zinc and copper-nickel are shown in Figures 7 -12. copper, copper coated with a 5.0 µm polypyrrole film and copper coated with a 9.0 µm polypyrrole film in an acidified, pH 3.0, chloride11 Anodic polarisation data are presented in Figure 7 for pure
+
+containing solution. The plots depicted for pure copper are consistent with dissolution of copper, with corrosion potentials close to ­130 mV(SCE) and high anodic currents, exceeding 1.0 mA cm-2, being observed at potentials higher than ­50 mV(SCE). The anodic peak visible at potentials in the region of 0 V(SCE) is probably associated behaviour of the polymer-coated electrodes is significantly different. films are 0 and 290 mV(SCE) respectively. But, more significantly, the with the formation of copper-chloride complexes, such as CuCl2. The
+
+The corrosion potentials adopted by the 5.0 µm and 9.0 µm polymer polymers remain protective at much higher potentials. A clear breakdown potential at 470 mV(SCE) can be seen for the 5.0 µm polymer, but the conducting properties of the 9.0 µm polymer make it difficult to mark the onset of copper dissolution as the currentpotential response is governed mainly by the activity of the polypyrrole and not the copper substrate.
+
+1.0
+
+Potential /(V vs SCE)
+
+0.5
+
+0.0
+
+-0.5 -8 10
+
+10
+
+-7
+
+10
+
+-6
+
+10
+
+-5
+
+10
+
+-4
+
+Current/ A cm
+
+-2
+
+10
+
+-3
+
+10
+
+-2
+
+10
+
+-1
+
+Figure 7: Anodic polarisation plots recorded in a pH 3.5, 0.1 mol dm-3 NaCl solution for  uncoated Cu,  Cu coated with a 5.0 µm thick polypyrrole layer, and - - - - Cu coated with a 9.0 µm thick polypyrrole layer.
+
+12
+
+As can be seen from the cathodic polarisation data shown in Figure 8, these noble corrosion potentials observed for the polymer-coated electrodes are associated largely with an increase in the rate of the reduction reactions. Much higher cathodic currents are measured on polarisation of the polypyrrole-coated electrode in the cathodic direction. These cathodic currents can be attributed to reduction of the polymer, particularly the increased currents in the vicinity of ­0.37 V(SCE), and to an increase in the rate of the oxygen reduction reaction
+
+at the polymer solution interface. Indeed, Kinlen et al. [#ref16] and polyaniline, can mediate oxygen reduction at the polymer electrolyte interface.
+
+Tallman et al. [#ref3] have found that the conducting polymer,
+
+0.25
+
+Potential /(V vs. SCE)
+
+0.00
+
+-0.25
+
+-0.50
+
+-0.75 -6 10
+
+10
+
+-5
+
+10
+
+-4
+
+Current /A cm
+
+-2
+
+10
+
+-3
+
+10
+
+-2
+
+Figure 8: Cathodic polarisation plots recorded in a pH 3.0, 0.1 mol dm3
+
+copper.
+
+NaCl solution for - - - - pure copper and  polypyrrole-coated
+
+The evolution of the open-circuit potentials as a function of time for the polypyrrole-coated copper electrode immersed in the acidified chloride solution can be seen in Figure 9. The open-circuit potential of the uncoated copper electrode remains constant, independent of time at a value of approximately ­140 mV(SCE). The open-circuit potentials 13
+
+of the polypyrrole-coated electrodes are significantly higher. For example, the open-circuit potentials of the polymer-coated electrodes reach values of approximately 240 mV in the early stages of immersion and then decay to reach values close to 0 V(SCE) after a 14between 0 and ­40 mV(SCE) for the 5.0 µm thick polymers. Such a the corrosion protection properties of the coating [#ref1]. Indeed, some loss in the corrosion protection properties of the coating is seen with extended immersion times. However, this is not very significant. For example, the breakdown potential of copper coated by a 5.0 µm polypyrrole layer was 250 mV(SCE) following eight days of immersion in the acidified chloride solution compared to ­150 mV(SCE) for the uncoated electrode. Although the breakdown potential at +250 mV(SCE) is clearly lower than the value of +470 mV(SCE) recorded for the freshly immersed polymer, the polymer coating clearly has protective properties following eight days of immersion in this highly aggressive solution.
+0.2
+
+hr immersion period for the 9.0 µm thick polymers and extends decay in the corrosion potential is normally associated with a loss in
+
+Potential /(V vs. SCE)
+
+0.1
+
+0.0
+
+-0.1
+
+-0.2
+
+0
+
+25000
+
+50000
+
+Time /s
+
+Figure 9: Open-circuit potential-time plots recorded in a pH 3.5, 0.1 mol dm-3 NaCl solution for  uncoated Cu,  Cu coated with a 5.0 µm thick polypyrrole layer, and - - - Cu coated with a 9.0 µm thick polypyrrole layer.
+
+14
+
+The synergistic interaction of the polypyrrole coating and the wellknown corrosion inhibitor benzotriazole, BTAH, can be seen from the polarisation data presented in Figure 10. For these experiments, a 5.0 µm polypyrrole coating was employed. These results show the combined effect of the polymer and the inhibitor having breakdown system or the polymer film alone. It appears that the polypyrrole, which is in an oxidised state at these applied potentials, Figure 1, is passivating the copper surface. doped by the benzotriazole anions, BTA-, which in turn are capable of potentials of about 250 mV higher than either the benzotriazole
+
+1.0
+
+Potential /(V vs. SCE)
+
+0.5
+
+0.0
+
+-0.5 -8 10
+
+10
+
+-7
+
+10
+
+-6
+
+10
+
+-5
+
+10
+-2
+
+-4
+
+10
+
+-3
+
+10
+
+-2
+
+Current /A cm
+
+Figure 10: Anodic polarisation plots recorded in a pH 3.5, 0.1 mol dm3
+
+presence of BTAH (0.01 mol dm-3)  polypyrrole-coated Cu in the presence of BTAH and BTAH.
+__ __ __
+
+NaCl solution for  uncoated Cu, - - - uncoated Cu in the polypyrrole-coated Cu in the absence of
+
+Representative plots, showing the anodic polarisation behaviour of the polypyrrole-coated and uncoated CuZn electrode in the acidified 0.1 mol dm-3 NaCl solution, are shown in Figure 11. For comparative
+
+15
+
+purposes, the anodic polarisation behaviour of the oxalate-coated electrode is shown. The anodic polarisation behaviour of CuZn and the oxalate-coated surface in the acidified solution is consistent with active dissolution. The anodic current increases steadily at potentials uncoated and ­190 mV for the oxalate-coated surface, to reach currents on the mA scale at approximately -30 mV(SCE). The polarisation behaviour of the polymer-coated CuZn electrode is significantly different, representing a much more corrosion resistant system. The corrosion potential lies at a much more noble potential, 60 mV(SCE) and the current recorded during polarisation of the electrode to high anodic potentials remains low, increasing slightly with increasing potential, until potentials exceeding 500 mV(SCE) are reached. A more rapid increase in the anodic current is observed at 520 mV(SCE) indicating dissolution of the underlying substrate. Dissolution of the substrate was confirmed by adding the indicator, Erichrome Black T, to the test solution. This indictor, which is sensitive to the presence of zinc cations, changed colour from blue to a pinkviolet colour, characteristic of the presence of Zn2+, at potentials in the region of the breakdown potential. However, the copper-sensitive indicator, Murexide, did not undergo any colour change at the breakdown potential, indicating that these breakdown events involve, mainly, the dissolution of the zinc component. beyond the corrosion potential, which lies at ­130 mV(SCE) for the
+
+The anodic polarisation plots recorded for the polypyrrole coated CuNi electrode, the uncoated CuNi and the copper-modified CuNi electrode in the acidified chloride solution are shown in Figure 12. The currentpotential profiles recorded for the uncoated electrodes are consistent with breakdown and dissolution of the electrodes. The coppermodified CuNi electrode appears to be more active than the unmodified CuNi electrode. This is consistent with the passivating properties of the nickel alloying addition. Again, very different behaviour is seen with the polymer-coated substrate. The corrosion potential is increased by almost 400 mV and the potential at which the current adopts a 1.0 mA cm-2 value, by over 650 mV compared to the uncoated electrodes. Shown also in this figure are data recorded for the polypyrrole-coated electrode following a 14-hr immersion period 16
+
+in the aggressive halide solution. Although this plot clearly shows a loss in the corrosion protection properties with continued immersion, it can be seen that this polymer-coated electrode can be polarised to relatively high anodic potentials before high anodic currents are measured. Indeed, some of the anodic current measured for these polymer-coated electrodes is due to the electroactivity and oxidation
+
+of the polypyrrole and not due to dissolution of the substrate [#ref 13]. It is also interesting to note that although the open-circuit potential adopted by the polypyrrole-coated electrode following the 14-hr immersion time is lower than that measured for the uncoated electrode in the acidic solutions, this polymer continues to exhibit corrosion protection properties on polarisation of the electrode.
+
+0.75
+
+Potential /(V vs SCE)
+
+0.50
+
+0.25
+
+0.00
+
+-0.25 -7 10
+
+10
+
+-6
+
+10
+
+-5
+
+10
+
+-4
+
+Current /A cm
+
+-2
+
+10
+
+-3
+
+10
+
+-2
+
+Figure 11.
+
+dm-3 NaCl solution for  uncoated CuZn,  polypyrrole-coated CuZn and - - - oxalate-coated CuZn.
+
+Anodic polarisation plots recorded in a pH 3.5, 0.1 mol
+
+17
+
+1.0
+
+Potential /(V vs. SCE)
+
+0.5
+
+0.0
+
+-0.5 -7 10
+
+10
+
+-6
+
+10
+
+-5
+
+10
+
+-4
+
+Current /A cm
+
+-2
+
+10
+
+-3
+
+10
+
+-2
+
+Figure 12: Anodic polarisation plots recorded in a pH 3.5, 0.1 mol dm3
+
+NaCl solution for  uncoated CuNi,  polypyrrole-coated CuNi
+___
+
+and - - - polypyrrole-coated CuNi following 14 hrs immersion and
+___ ___
+
+Cu modified CuNi.
+
+Discussion
+It can be seen from these results that adherent polypyrrole coatings, with good corrosion protection properties, can be deposited onto copper, copper-zinc and copper-nickel alloys in the presence of oxalate anions at near neutral pH values. The ease of formation of these polypyrrole layers appears to be connected with the fact that a pseudo passive-like layer, or film, forms on the electrodes under the electropolymerization conditions employed. It is well know that oxalate anions form stable complexes with copper cations [#ref17]. In copper oxalate complexes with a 1:1 and 1:2 stoichiometry, Equations 2 and 3. The formation of this layer can be seen clearly form the quartz crystal data presented in Figure 2. Cu2+ + Ox2-  Cu(Ox) (2) particular, oxalate anions (Ox2-) form complexes with Cu2+ to generate
+
+18
+
+Cu2+ + 2Ox2-  (Cu(Ox)2)2-
+
+(3)
+
+This layer inhibits dissolution of the substrate and facilitates the formation of polypyrrole. However, this layer does not inhibit presented in Figure 2. Therefore, it is likely that the polymer contains completely the dissolution of the substrate, as evident from the data cations of the substrate material, such as Cu2+, Zn2+ and Ni2+. Indeed, an SEM-EDX cross section analysis of the polypyrrole layer deposited at copper revealed the presence of copper distributed throughout the polymer. However, it has been reported that oxidised copper can be used to enhance the conductivity and stability of polypyrrole [#ref 14,15]. This has been attributed to electron transfer between copper and the N+ of polypyrrole to form a stable Cu-polypyrrole complex, thus preventing nucleophilic attack on the positively charged nitrogen. Consequently, the presence of oxidised copper within the polypyrrole coating may have beneficial effects. It is evident form the electropolymerization studies presented in Figure 3 that the substrate plays an important role in the rate at which the polypyrrole is deposited. Higher anodic currents, consistent with higher rates of electropolymerization, are obtained for the pure copper substrate. A somewhat lower rate of electropolymerization is seen for the CuZn electrode. This is probably connected with the presence of zinc in the initial pseudo-passive layer that forms during the shown, using XPS, that the passive layer formed on various brasses in ZnO electroformation results in a dezincification process so that a thin copper-rich layer resides at the metal/oxide interface. In the presence of the oxalate species, it is likely that a ZnC2O4 phase is formed, as ZnC2O4 is sparingly soluble with a pKs of 7.9 [#ref19] (where Ks refers to the solubility product). Taking the oxalate concentration of 0.125 mol dm-3 and using the pKs value, it is seen that the solubility product a likely phase in these experiments. It is interesting to note that polypyrrole layers did not form at pure zinc under these experimental conditions. This may suggest that the zinc oxalate complex is not sufficiently conducting to facilitate the electropolymerization reactions 19 is exceeded at a Zn2+ concentration of 1 x 10-7 mol dm-3, making this electropolymerization reactions. Indeed, Morales et al. [#ref18] have a pH 9 solution consists of a complex ZnO.xH2O/Cu2O-CuO layer. The
+
+and may explain why the rate of the electropolymerization reaction is reduced four-fold at the CuZn compared with the pure copper interface. As already highlighted, the formation of a nickel-rich oxide phase electropolymerization reactions. Furthermore, as the electrode is polarised in the polymerization solution, the applied potential of 900 mV(SCE) facilitates the growth of the nickel-rich oxide phase. When the rate of the electropolymerization is increased by the addition of Cu2+ to the solution, a polypyrrole layer is nucleated at the surface and prevents the electroformation of the nickel-rich phase. during the early stages of polarisation. This enables polymer growth at the CuNi electrode inhibits considerably the
+
+There is clear evidence from the corrosion data that the polypyrrolecoated electrodes exhibit corrosion protection properties in the acidified chloride-containing solutions, particularly following formation. It is also interesting to note that there is very little difference in the corrosion protection properties of the polypyrrole coatings on the three substrates, as evident from a comparison of the data presented in Figures 7, 11 and 12, even though breakdown at the CuZn coated electrode is associated largely with oxidation of the zinc component. There is a clear ennoblement in the open-circuit potentials, for all three substrates. This effect has been reported previously for polyaniline-coated iron electrodes [#ref1]. For this iron system, the corrosion-protection properties are often gauged by measuring the period elapsed until the open-circuit potential of the polymer-coated electrode drops to that of the uncoated electrode. This signifies loss of corrosion protection and typically lasts from minutes to hours. However with the polymer-copper system, Figure 9, the open-circuit potentials reach a steady state value that is always more noble than the potential of the bare electrode, and even after 8 days of immersion remains at this steady-state value. This difference between the iron and copper systems may be due to the much higher corrosion susceptibility of iron. Nevertheless, the acidified chloride solution used in these studies gives rise to the corrosion of copper.
+
+20
+
+The data presented in Figure 10 show that higher breakdown potentials are recorded when the polymer is doped by benzotriazole, highlighting the importance of the doping species. Indeed, the loss in the protection properties of the polypyrrole coatings with immersion time may be associated with doping of the polymer by chloride anions and the transport of these anions to the copper interface.
+
+Acknowledgements
+The authors gratefully acknowledge the support of this work by Enterprise Ireland. The authors would also like to thank Dr. Liam Carroll, Biomedical Research Centre, NUI Galway for carrying out the SEM/EDX measurements.
+
+References
+!ref1 `Protection of iron against corrosion using a polyaniline layer - II. Spectroscopic analysis of the layer grown in phosphoric/metanilic solution' M.C. Bernard, S. Joiret, A. Hugot2001.
+
+Le-Goff and P.D. Long, J. Electrochem. Soc., 148, ppB299-B303,
+
+!ref2 Electroactive conducting polymers for corrosion control - Part 2. Ferrous metals' G.M. Spinks, A.J. Dominis, G.G. Wallace and D.E. Tallman, J. Solid State Electrochem., 6, pp85-100, 2002.
+
+!ref3 `Conducting polymers and corrosion: Part 2 - Polyaniline on
+
+Corrosion, 56, pp401-410, 2000.
+
+aluminum alloys' D.E. Tallman, Y. Pae and G.P. Bierwagen,
+
+!ref4 `Corrosion protection by ultrathin films of conducting polymers' pp 1257-1262, 2003. !ref5 `The
+
+U. Rammelt, P.T. Nguyen and W. Plieth, Electrochim. Acta., 48,
+
+aluminium: electrochemical activity and corrosion protection pp721-732, 2003.
+
+electrochemical
+
+deposition
+
+of
+
+polyaniline
+
+at
+
+pure
+
+properties' K.G. Conroy and C.B. Breslin, Electrochim. Acta., 48,
+
+21
+
+!ref6 `Development of polyaniline-polypyrrole composite coatings on steel by aqueous electrochemical process' R. Rajagopalan and J.O. Iroh, Electrochim. Acta., 48, pp2443-2455, 2001.
+
+!ref7 `Application of polypyrrole/TiO2 composite films as corrosion protection of mild steel' D.M. Lenz, M. Delamar and C.A. Ferreira, J. Electroanal. Chem., 540, pp35-44, 2003.
+
+!ref8 `Corrosion protection by multilayered conducting polymer coatings' C.K. Tan and D.J. Blackwood, Corros. Sci., 45 pp545557 2003.
+
+!ref9 `Oxide/polypyrrole composite films for corrosion protection of iron' B. Garcia, A. Lamzoudi, F. Pillier, H.N.T. Le and C. Deslouis, J. Electrochem. Soc., 149, ppB560-566, 2002.
+
+!ref10 `Direct Electrodeposition of polypyrrole on aluminum and aluminum alloy by electron transfer mediation' D.E. Tallman, C. 149, ppC173-179, 2002. Vang, G.G. Wallace and G.P. Bierwagen, J. Electrochem. Soc.,
+
+!ref11 `Use of polyaniline and its derivatives in corrosion protection of
+
+copper and silver' V. Brusic, M. Angelopoulos and T. Graham, J.
+
+Electrochem. Soc., 144, pp436-442, 1997.
+
+!ref12 `Corrosion inhibition of polyaniline and poly(o-methoxyaniline)
+
+on stainless steel' P.A. Kilmartin, L. Trier and G.A. Wright, Syn.
+
+Met., 131 pp99-109, 2002.
+
+!ref13 `The electrochemical synthesis of polypyrrole at a copper electrode: corrosion protection properties' A.M. Fenelon and C.B. Breslin, Electrochim. Acta., 47, pp4467-4476, 2002.
+
+!ref14 `Spectroscopic investigation of the polymerization of pyrrole and thiophene within zeolite channels' G.J. Millar, G.F. McCann, C.M. Hobbis, G.A. Bowmaker and R.P.Conney, J. Chem. Soc.
+
+Faraday Trans., 90, pp2579-2584, 1994.
+characterization and
+
+!ref15 `Synthesis,
+
+electrical
+
+conductivity
+
+of
+
+polyaniline derivatives: study with the metal ions Cu(II), Ni(II)
+
+22
+
+and Co(II)' B.L. Rivas and C.O. Sanchez, J. Appl. Poly. Sci., 82, pp330-337, 2001.
+
+!ref16 `A mechanistic investigation of polyaniline corrosion protection using the scanning reference electrode technique' P.J. Kinlen, V. Menton, Y. Ding, J. Electrochem. Soc. 146 pp3690-3695, 1999.
+
+!ref17 `Electrodeposition of copper into functionalised polypyrrole
+
+films' A. Zouaoui, O. Stephan M Carrier, J-C Moutet, J.
+
+Electroanal. Chem., 474, p113-122, 1999.
+
+!ref18 `A comparative study of the passivation and localized corrosion of alpha-brass and beta-brass in borate buffer solutions Gonzalez, P. Esparza, R.C. Salvarezza and A.J. Arvia, Corros. Sci., containing sodium chloride' J. Morales, G.T. Fernandez, S.
+
+40, pp177-190, 1998. !ref19 `Voltammetry of
+
+sparingly
+
+soluble
+
+metal
+
+complexes:
+
+a
+
+differential pulse polarographic study of the Zn(II) plus oxalate system' F. Berbel, J. Manuel Diaz-Cruz, C. Arino and M. Esteban,
+
+J. Electroanal. Chem., 475, pp99-106, 1999.
+
+23
+

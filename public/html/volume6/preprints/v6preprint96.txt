@@ -1,0 +1,240 @@
+Volume 6 Paper H053 Grain-Boundary Sulfidation of Nickel-Based Superalloy at 873 K
+H.Yakuwa1, M.Miyasaka1, S.Nakahama2, T.Uehara3, T.Nonomura3,
+1Ebara
+
+Research Co., Ltd., 2-1, Honfujisawa-4, Fujisawa 251-8502, JP, yakuwa08035@erc.ebara.co.jp 2Ebara Corp., 20-1, Nakasode, Sodegaura 299-0296, JP, 3Hitachi Metals Ltd., 2107-2, Yasugi-cho, Yasugi 692-8601, JP, 4Graduate School of Engineering, Hokkaido Univ., Kita-13, Nishi-8, Kita-ku, Sapporo 060-8628, JP
+
+T.Ohno3 and T.Narita4
+
+Abstract
+Grain-boundary sulfidation behaviour was investigated on both a nickel-based superalloy (Ni-20Cr-13.5Co-4Mo-1.5Ti-3.0Al), which was developed for FCC gas expander turbine rotor, and AISI 685 in a gas mixture of N2-3%H2-0.1%H2S (PS2=10-3.6 Pa) at 873K for 345.6 ks. In addition, the ferric sulfate-sulfuric acid test was performed on the alloy which is heat treated between 923 K and 1173 K for 1.8 ks to 172.8 ks to evaluate the effect of carbide precipitation on the susceptibility to the grain-boundary corrosion. The results indicated that the grain-boundary sulfidation in the sulfidizing gas mixture was promoted through preferential sulfidation of Cr23C6 carbides.
+
+Keywords: Ni-based alloy, AISI 685, grain-boundary sulfidation, sulfidation, H2S
+
+Introduction
+In the previous paper [1], the authors reported that an alloy having largely the same chemical composition as AISI 685 but with an increased Al content of 3 mass % and a reduced Ti content of 1.5 mass % showed good sulfidation resistance in sulfidizing gas atmospheres at 873 K while sustaining mechanical properties and hot-workability
+
+equivalent to AISI 685. Such an improvement in sulfidation resistance could be due to a suppression effect on the outward diffusion of metal ions and the inward diffusion of sulfur by the Al-rich sulfide and/or oxide formed in the innermost scale layer.
+
+AISI 685 may noticeably degrade its excellent material property by
+
+inducing the grain-boundary sulfidation in sulfidizing atmospheres at a temperature around 873K. In fact, a failed gas expander's rotating blade exhibited grain-boundary sulfidation, extending deeply into the alloy along the alloy grain-boundary [2, 3]. Thus, notch-like penetration, such as grain-boundary sulfidation, is also dangerous and important in high-speed rotating machinery like the FCC gas expander turbine. The higher the solution treatment temperature, the easier it caused the grain-boundary sulfidation on aged AISI 685 [4]. On the other hand, the alloy having largely the same chemical composition as AISI 685 but with an increased Al content of 3 mass % and a reduced Ti content of 1.5 mass % resisted to the grain-boundary sulfidation when the heat-treatment was given at the same condition as AISI 685 [5]. The findings indicated that the grain-boundary sulfidation was greatly influenced by the carbide precipitation behaviour on the alloy grainboundaries. This paper reports the grain-boundary sulfidation behaviour, particularly in the relationship with the precipitation behaviour of the grain-boundary carbides to understand the mechanism of the grainboundary sulfidation.
+
+Experimental Procedures
+Table 1 shows the chemical composition of tested materials. A commercially available AISI 685 and an Ni-20Cr-13.5Co-4Mo-3Al1.5Ti alloy, which is developed as a sulfidation-resistant alloy (called the 1.5Ti-3.0Al alloy hereafter) for FCC gas expander turbine rotor [1],
+Table 1
+Ni 1.5Ti-3.0Al Alloy AISI 685 Cr
+
+Chemical composition of tested alloys. (mass %)
+Co Mo Ti Al C Zr B Fe Si S P Mn
+
+bal. 19.58 13.54 4.34 1.35 3.02 0.030 0.05 0.005 0.54 0.02 0.001 0.002 0.01 bal. 19.43 13.47 4.31 3.10 1.46 0.028 0.06 0.004 0.97 0.03 0.001 0.003 0.02
+
+2
+
+were selected for the tests. The materials were forged, and then, performed a solution treatment at 1313 K for 14.4 ks then air-cooled, a stabilizing at 1116 K for 14.4 ks then air-cooled, a first aging at 1033 K for 57.6 ks then air-cooled and a second aging at 923 K for 57.6 ks then air-cooled. Sulfidation tests were performed on the AISI 685 under a tensile stress of 588 MPa as a nominal value to bring about a noticeable grain-boundary sulfidation, and the tip of the corrosion was observed with TEM. The specimen for the TEM observation was prepared by an FIB technique.
+
+To examine the effect of carbide precipitation on the grain-boundary sulfidation, both the ferric sulfate-sulfuric acid test and the high temperature sulfidation test were performed on the 1.5Ti-3.0Al alloy specimens, which had been heat-treated at 923 to 1273 K for 1.8 to 172.8 ks then air-cooled after solution-treatment at 1313 K for 14.4 ks. The ferric sulfate-sulfuric acid tests were basically performed according to ASTM A 262 B [6]. The size of the specimens were 15 x 15 x 5 mm3 with a #SiC800 surface finish. The specimens were dipped in the ferric sulfate-sulfuric acid solution for 24 hours. Susceptibility to the grain-boundary corrosion was evaluated with the mass loss of the specimens after the tests. On the other hand, the high temperature sulfidation tests were pressure of the gas at 873K is 10-3.6 Pa) under an isothermal condition at 873K for 345.6 ks. The test specimens were 20×10×5 mm3 in size with the surface finished with 1µm diamond abrasive. The grainboundary penetration was defined by the sectional observation by SEM. performed in a gas mixture of N2-3%H2-0.1%H2S (the sulfur partial
+
+Results and Discussion acid tests
+
+Carbide precipitation behaviour and the ferric sulfate-sulfuric
+Fig. 1 shows the SEM images of an etched surface of the 1.5Ti-3.0Al alloy specimens, which is solution-treated at 1313 K for 14.4 ks then air-cooled, and heat-treated at 923 to 1273 K for 1.8 to 172.8 ks then air-cooled after the solution-treatment. For those only solution3
+
+considered as carbides were observed on the alloy grainboundaries. In the previous paper [5], the 1.5Ti-3.0Al alloy specimens, forged into 1000 x 130 x 130 mm3, showed that the carbides remained on the alloy grain-boundaries when solution treatment had been performed on them at 1313 K for 14.4 ks. Most of those were solid-solutioned into the alloy matrix by the solutiontreatment at 1353 K for 14.4 ks. Specimens used in this study were forged into 500 mm: the forging conditions, such as temperature and time, are
+
+Solution Treatment
+
+treated, almost no precipitations
+
+1313 K x 14.4 ks,AC
+
+5 µm 1116 K x 14.4 ks,AC 1116 K x 172.8 ks,AC
+
+Aging Conditions after Solution Treatment
+
+1033 K x 14.4 ks,AC
+
+1033 K x 172.8 ks,AC
+
+1273 K x 14.4 ks,AC
+
+923 K x 57.6 ks,AC
+
+Fig. 1 SE images of the grain-boundary on 1.5Ti-3.0Al alloys after solution-treatment and aging between 923 and 1273 K.
+
+different from ones used in the previous study. For this reason, it seems that the solid-solution behaviour of carbides into the alloy matrix could have been affected by the condition differences in the forging process. The details are not fully understood, however. The specimens, heat-treated at 1116 K after the solution-treatment, showed numerous precipitations to almost cover the alloy grainboundaries regardless of the heat-treatment time. Specimens, heattreated at 1033 K for a longer period of time after the solutiontreatment, showed more grain-boundary precipitations than those heat-treated for a shorter period of time. The specimens, heat-treated at 1273K and 923 K, exhibited fewer precipitations. Fig. 2 shows the sectional micrographs of 1.5Ti-3.0Al alloy specimens, of both only solution-treated and heat-treated at 1116 K for 14.4 ks test. Almost no grain-boundary corrosion was observed on the solution-treated specimen. On the other hand, the specimens heattreated at 1116 K for 14.4 ks exhibited the grain-boundary corrosion progressing to a depth of approximately 600µm from the alloy 4 after the solution-treatment, taken after the ferric sulfate-sulfuric acid
+
+surface. Fig. 3 shows the mass loss by the ferric sulfate-sulfuric acid test for various heat-treated specimens. The specimens of solution-treated, heat-treated at 1173 K, and heat-treated at 923 K, that have small amount of grain-boundary precipitations, also showed a small amount of mass loss. The specimens heattreated between 1033 and 1173 K, exhibited numerous carbides on the grainamount of mass loss. The specimens heat-treated at 1033 K showed that the longer the heat treatment time was, the more the mass loss became. Those heat-treated at 1173 K and 1116 K for a longer time than 14.4 ks rather exhibited a tendency of
+Mass loss / g/m2/h
+
+1313 K x 14.4 ks,AC
+
+1313 K x 14.4 ks,AC + 1116 K x 14.4 ks,AC
+
+0.5 mm
+Fig. 2 Cross-sectional views of 1.5Ti-3.0Al Alloys after the ferric sulfate-sulfuric acid test.
+60 1273 K 1173 K 1116 K 1033 K 923 K
+
+50
+
+boundaries, showed a large
+
+40
+
+30
+
+20
+
+10 Solution treatment 0 1 10 100
+
+Holding time / ks
+Fig. 3 Mass loss of the 1.5Ti-3.0Al Alloys after the ferric sulfate-sulfuric acid test.
+
+decreasing the mass loss. This indicated that the Cr concentration in a Cr-depleted zone, which appears near the alloy grain-boundaries due to the carbide precipitation on the alloy grain-boundaries, was recovered by the re-diffusion of Cr from the alloy matrix by the longer heat-treatment. Thus, the grain-boundary corrosion in the ferric sulfate-sulfuric acid solution would be caused by the preferential corrosion of the Cr-depleted zone appearing near the alloy grainboundaries as seen in the literature [7].
+
+High Temperature Sulfidation Tests
+Fig. 4 shows the sectional micrographs of 1.5Ti-3.0Al alloy specimens, of only solution-treated and heat-treated at 1116 K for 14.4ks after the solution-treatment, taken after the high temperature sulfidation tests. Notch-like grain-boundary penetrations were hardly observed 5
+
+on the solution-treated specimen, exhibiting a smooth plane of the sulfide and alloy substrate interface. On the other hand, the specimens of heattreated at 1116 K for 14.4 ks showed notch-like penetrations of several micrometer in length on the sulfide / alloy substrate after an etching process indicated that the penetration developed along with the alloy grain-boundary. Fig. 5 shows percentages of the penetrated alloy grain-boundaries. The number of the penetrated grain-boundaries observed on a sectional area of the specimen is divided by the total number of the alloy grain-boundaries that are reached to the sulfide scale / alloy substrate interface. The percentages of the penetrated grain-boundaries were large on the specimens of heatthat showed numerous carbide precipitations on the alloy grain-boundaries, as seen in the ferric sulfatesulfuric acid tests.
+900 1300
+
+1313 K x 14.4 ks,AC
+
+1313 K x 14.4 ks,AC + 1116 K x 14.4 ks,AC
+
+Grain-boundary penetration
+
+10 µm
+
+Fig. 4 Cross-sectional views of 1.5Ti-3.0Al alloys after sulfidation in an N2-3%H2-0.1%H2S mixture at 873 K.
+
+Percentages of penetrated grain-boundaries / %
+
+interface. The observation result
+
+100 1273 K 1116 K 1033 K
+
+80
+
+60
+
+40
+
+20 Solution treatment 0 1
+
+10
+
+100
+
+Holding time / ks
+Fig. 5 Percentages of the penetrated grainboundaries on the 1.5Ti-3.0Al alloys after sulfidation in an N2-3%H2-0.1%H2S mixture at 873 K.
+Equivalent corrosion amount curves Sulfidation test Ferric sulfatesulfuric acid test 10 g/m2/h 20 g/m2/h
+
+Temperature / K
+
+treated at 1116 K and 1033 K
+
+1200
+
+30 % 30 g/m2/h
+
+1100
+70 %
+
+1000
+Ferric sulfatesulfuric acid test Both sulfidation and ferric sulfatesulfuric acid tests 30 %
+
+Both ferric sulfate-sulfuric acid test and high temperature sulfidation test results are summerized in Fig.
+
+1
+
+10
+
+100
+
+Holding time / ks
+Fig. 6 Time-Temperature-Sensitization curves for 1.5Ti-3.0Al alloys by the ferric sulfatesulfuric acid test and the sulfidation test in an N2-3%H2-0.1%H2S mixture at 873 K.
+
+6
+
+6, in the relationship of the heat treatment temperature and time after the solution-treatment. The specimens of heat-treated at 1116 K and 1033 K show the most susceptibility of the grain-boundary corrosion in both ferric sulfate-sulfuric acid test and high temperature sulfidation test. However, the susceptibility to the grain-boundary
+
+corrosion became lower on the specimens heat-treated at 1116 K for a longer time than 14.4 ks in the ferric sulfate-sulfuric acid tests. On the other hand, the susceptibility to the grain-boundary corrosion does longer time than 14.4 ks in the high temperature sulfidation tests. These findings suggest that existence of the Cr-depleted zone near the alloy grain-boundaries or re-diffusion of Cr into the zone does not affect much to the susceptibility to the grain-boundary sulfidation in the high temperature gas mixture. Therefore, the grain-boundary corrosion mechanism in the high temperature gas mixture would be different from the one by the preferential corrosion of the Cr-depleted zone as seen in the wet corrosion on stainless steels. not decrease on the specimens that were heat-treated at 1116 K for a
+
+Observation on the Penetrated Grain-Boundary
+Fig. 7 shows a TEM image of an alloy grain-boundary on the AISI 685 gas mixture under a stress of 588 MPa to obtain a noticeable grainboundary sulfidation. Fig. 8, Tables 2 and 3 show the electron diffraction patterns of the point A and B in the Fig.7. They indicate that the grain-boundary carbides are mainly Cr23C6 and the sulfides on the mapping of the tip of the sulfidized grain-boundary indicated that no
+A B
+
+specimen, which was intentionally sulfidized in an N2-3%H2-0.1%H2S
+
+alloy grain-boundary are mainly Cr3S4. Further, as shown in Fig. 9, EDS
+
+d2 d3 d1
+
+d3 d2 d1
+
+Fig. 7 TE image of the tip of a grainboundary penetration on AISI685 after sulfidation in an N2-3%H2-0.1%H2S mixture at 873 K under a stress of 588 Mpa.
+
+Fig. 8 Electron diffraction patterns at the point A and B on Fig. 7.
+
+7
+
+Table 2 Miller index and the spacing of the lattice planes for Fig. 8 A.
+
+Table 3 Miller index and the spacing of the lattice planes for Fig. 8 B.
+
+Cr3S4 [8] Point A (h, k, l) Measured d Calculated d   (A) (A) d1 (1, 1, 2) 2.54 2.615 d2 (1, 1, 0) 2.91 2.972 d3 (0, 0, 2) 5.54 5.634 [1, 1, 0] Incidence
+TEI
+
+(h, k, l) d1 (1, 3, 1) d2 (3, 1, 1) d3 (-2, 2, 0)
+
+Point B Cr23C6 [9] Measured d Calculated d   (A) (A) 3.10 3.214 3.10 3.214 3.66 3.769 [1, 4, 4] Incidence
+
+0.5 µm Cr
+
+S
+
+Fig. 9 Characteristic X-ray images of Cr and S at the tip of a grain-boundary penetration on AISI685 after sulfidation in an N2-3%H2-0.1%H2S mixture at 873 K under a stress of 588 MPa.
+
+high-Cr content area was observed where the sulfide existed; however, areas considered containing Cr carbides were observed in series far inside of the alloy from the sulfidized areas. From the above, the grain-boundary sulfidation of AISI 685 or the the grain-boundary carbide of Cr23C6 itself, of which reaction is expressed as: 3/23 Cr23C6 + 2 S2  Cr3S4 + 18/23 C
+
+1.5Ti-3.0Al alloy was suggested mainly facilitated by the sulfidation of
+
+The generated C by the sulfidation reaction could be diffused into the alloy substrate and solid-solutioned.
+
+Conclusions
+Grain-boundary sulfidation behaviour was investigated for the Nibased superalloy developed for an FCC gas expander turbine rotor 8
+
+(1.5Ti-3.0Al alloy) and for a commercially available AISI 685 by the high temperature sulfidation tests at a temperature of 873K in a gas mixture of N2-3%H2-0.1%H2S and the ferric sulfate-sulfuric acid tests. The following results were obtained. The specimens of heat-treated at 1033 K to 1116 K show the most susceptibility to the grain-boundary corrosion in both the ferric sulfate-sulfuric acid test and the high temperature sulfidation tests.
+
+Specimens heat-treated at 1116 K and 1173 K for a longer time than 14.4 ks showed the lower susceptibility compared to those heat-treated for a shorter time in the ferric sulfate-sulfuric acid test. On the other hand, the susceptibility did not decrease in the high temperature sulfidation tests when the heat treatment time had been extended. These indicate that the grain-boundary corrosion, in the ferric sulfate-sulfuric acid solution and in the high temperature sulfidizing gas, respectively, was driven by different mechanisms. The TEM observation of the sulfidized grain-boundary tip indicated that the grain-boundary sulfidation on AISI 685 at a temperature of 873K in the N2-3%H2-0.1%H2S gas mixture was facilitated by the sulfidation of grain-boundary carbide of Cr23C6 itself.
+
+References
+1. 'Sulfidation-resistant nickel-base superalloy for fluid catalytic cracking gas expander turbine', H.Yakuwa, M.Miyasaka, 57, 11, pp986-998, 2001. S.Nakahama, T.Go, M.Kawasaki, C.Fang and T.Narita, Corrosion,
+
+2. `Hot corrosion of Waspaloy material in gas expander rotating components', P. Dowson, Proc. Intl. Power Recovery Seminar,
+
+Elliot Co., pp23-27, 1992.
+
+3. `Factors and preventive measures relative to the high temperature corrosion of blade/disk components in FCC power recovery turbines', P. Dowson, D. M. Richel and N. S. Bournstein,
+
+Proc. 24th Turbomachinery Symp., pp11-26, 1995.
+9
+
+4. 'Effect of solution-treatment temperature on the sulfidation behavior of a nickel-base superalloy', H.Yakuwa, M.Miyasaka, S.Nakahama, T.Ohno and T.Narita, Materials at High
+
+Temperatures, 18, S, pp89-94, 2001.
+
+5. 'Effect of Ti and Al contents on the grain-boundary sulfidation
+
+of nickel-base superalloy', H.Yakuwa, M.Miyasaka, S.Nakahama, T.Uehara, T.Nonomura, T.Ohno and T.Narita: 58, 8, pp646-658,
+
+2002. 6. Annual book of ASTM standards, ASTM, Vol.03.02, pp5, 1984. 7. `Austenitic and Ferritic Stainless Steels', M. A. Streicher, in Uhlig's Corrosion Handbook 2nd ed., ed. by R. W. Revie, pp609, 2000. 8. 'The Structures of the Chromium Sulphides', F. Jellinek, Acta.
+
+Crist., 10, pp620-628, 1957.
+
+9. 'Standard X-ray Diffraction Patterns', in NMS Monograph 25, 21, pp62, 1984.
+
+10
+

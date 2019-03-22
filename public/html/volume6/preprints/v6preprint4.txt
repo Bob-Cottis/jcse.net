@@ -1,0 +1,105 @@
+Volume 6 Paper C123
+
+Corrosion Performance of Recast Layers Produced During Laser Drilling of Type 305 Stainless Steel
+X.Y. Wang1,2, G.K.L.Ng2, Z. Liu1, L. Li2 , P. Skeldon1 and L. Bradley3
+1Corrosion
+
+and Protection Centre, UMIST, P.O. Box 88, Manchester M60
+
+1QD, UK, X.Wang-4@umist.ac.uk
+2Laser
+
+Processing Research Centre, Department of Mechanical,
+
+Aerospace and Manufacturing Engineering, UMIST, PO Box 88, Manchester M60 1QD, UK
+33M
+
+Neotechnic Ltd, UP Brooks, Clitheroe, Lancashire BB7 1NX, UK
+
+Abstract
+Laser drilling has been used for machining small orifices in various materials, with applications seen in aerospace, automotive, electronics, and medical industries. The drilling process involves melting and vaporization. As a result, a layer of re-solidified material (recast layer) is present on the walls of the laser-drilled holes. Since laser-drilled components are frequently used in fluid media, it is important to
+
+understand the corrosion performance of the recast layer. In this work, laser drilling of type 305 stainless steel was carried out using a pulsed Nd:YAG laser with oxygen, argon and nitrogen as assist gases respectively. Salt fog chamber tests and electrochemical polarization tests in sodium chloride solution were employed to assess the corrosion performance of the recast layers in the laser-drilled holes. Scanning electron microscopy and X-ray energy dispersive spectroscopy were used to correlate the corrosion performance with the microstructures. It was found that the corrosion performance of the recast layers was dependent on the assist gases used, increasing in order of oxygen, argon, and nitrogen. This result was related to the oxide content and the incorporation of nitrogen into solid solution in the recast layers. Keywords: Laser drilling; Recast layer; Corrosion; Salt fog chamber test; Electrochemical test 1.
+
+1. Introduction
+As a non-contact process, laser drilling does not cause any tool wear and breakage and can be used to drill various types and shapes of materials, some of which are difficult to drill by conventional drilling methods [#ref1], [#ref2]. Thus laser drilling has been used for machining small orifices in various materials with application seen in 2
+
+aerospace, automotive, electronics and medical industries. During laser drilling, the drilled materials are often removed by a melt ejection mechanism. In such cases, where the recoil pressure, used to eject the laser-induced melt material, is insufficient to expel the viscous melt material completely, a layer of re-solidified material, designated as the recast layer, is often present on the walls of the laser-drilled holes [#ref2], [#ref3]. In many cases, as the laser-drilled components are frequently used in fluid media, chemical and electrochemical corrosion properties of laser drilled holes are important. Therefore, it is necessary to understand the corrosion performance of the recast layers to ensure that the applications of the laser-drilled components under those conditions are suitable. Previous investigations have been reported on process optimization and modeling to reduce the recast layers produced during laser drilling [#ref2], [#ref3], [#ref4],[#ref5], [#ref6]. However, no attention has been paid to the corrosion performance of the recast layers in the fluid media. In this paper, laser drilling has been carried out on thin sheets of type 305 stainless steel using a pulsed Nd:YAG laser with oxygen, argon and nitrogen as assist gases respectively. Besides salt fog chamber testing, electrochemical polarization tests in sodium chloride solution was employed, using a special specimen preparation 3
+
+approach, to assess the corrosion performance of the recast layers present on the walls of the laser-drilled holes. Scanning electron microscopy observation and X-ray energy dispersive spectroscopy analysis were also conducted to correlate the corrosion resistance with the assist gases and microstructure of the recast layers.
+
+2. Experimental Procedure
+The material used in the study was a type 305 stainless steel with the chemical composition given in Table 1, Laser drilling was carried out on thin sheets of 0.25 mm in thickness using an Electrox Scorpion Nd: YAG laser. During the laser drilling, three kinds of gases, oxygen, argon and nitrogen, have been chosen as assist gases to protect the laser lens and to facilitate melt removal in the produced holes. The laser operating parameters are listed in Table 2. Table 1 Chemical composition (wt%) of type 305 stainless steel C 0.12 Mn 2.00 P 0.045 S 0.03 S 1.00 Cr Ni
+
+17.00-19.00 10.00-13.00
+
+Table 2. General laser drilling parameters used in the experiments Peak power Pulse width Pulse frequency Number of Gas pressure
+
+4
+
+(kW) 5.4
+
+(ms) 0.4
+
+(Hz) 20
+
+pulses 2
+
+(bar) 3
+
+In order to correlate the corrosion resistance with composition and microstructure of the corresponding recast layer, the samples were polished up to 4000 grade SiC emery paper, then etched in oxalic acid and then observed and analyzed with a scanning electron microscope (SEM) incorporating X-ray energy dispersive spectroscopy. The salt fog chamber test was conducted at 303 K in a sealed, corrosion resistant chamber containing a salt laden fog, generated by a fine spray of NaCl solution. At the beginning of the test, thirty samples with holes drilled using different assist gases were placed in the chamber. Two test samples were taken out at regular intervals to check using an optical microscopy whether corrosion had occurred. The sample was regarded corroded if any yellow brown spot was observed inside the wall of the laser-drilled hole. Prior to the examination, the samples taken out from the chamber had been Immersed in deionized water for at least one hour to remove the residual salt, and then dried. The electrochemical polarization tests were performed using the standard potentiodynamic polarization method with a conventional three-electrode corrosion cell in a neutral electrolyte containing 3.5% 5
+
+NaCl solution at 303 K. Normally, electrochemical tests to study localized corrosion require samples with exposed areas in the range of square millimetres to square centimetres [#ref7]. However, the thickness of the sample sheets was approximate 0.25 mm, and the laser-drilled holes were smaller than 1 mm in diameter, the resulting recast layers were in the range of 15-30µm in thickness. Thus, the area of the recast layer of one hole is too small to carry out the usual large-scale electrochemical test. In order to solve this problem, six drilled holes, produced using identical laser process parameters were put in one sample to increase the exposed recast area for the electrochemical tests. Prior to the tests, the recast layers were isolated from other non-melted regions of the samples using epoxy resin, and the tested surfaces were finely polished up to 4000 grade SiC emery paper and degreased in ethanol to ensure that the surface state was similar for all the samples. The electrode potential was measured with respect to a saturated calomel electrode (SCE). During each test, the electrolyte was firstly deaerated employing purified nitrogen gas for 90 min. Then the tested sample was immersed for 70 min to measure the corrosion potential. This was followed by potentiodynamic polarization at a scan rate of 1 mV/s.
+
+3. Results and discussion
+6
+
+The results of salt fog chamber test are shown in Table 3. The tests have indicated that the corrosion resistance of the recast layers in the laser-drilled holes was dependent on the assist gases. Of the three assist gases, i. e. nitrogen, argon and oxygen, nitrogen resulted in the most corrosion-resistant recast, and oxygen resulted in the least corrosion-resistant recast layers. Table 3 Result of the salt fog chamber test Assist gas Nitrogen Argon oxygen Day 4 × × × Day 5 × ×  Day 6 × ×  Day 7 ×   Day 8 ×  
+
+× - no corrosion and  - corroded. The potentiodynamic polarization curves of the as-received type 305 stainless steel and the recast layers in the laser-drilled holes produced using the three assist gases are presented in Fig. 1. When compared with the pitting potential of the as-received stainless steel 173 mV, the pitting potential of the recast layers all shift to more noble values namely 718 mV, 482 mV and 422 mV using nitrogen, argon and oxygen as the assist gas. Furthermore, the passivation regions become wider 7
+
+and the passive current densities at given polarization potentials are nearly one order of magnitude lower for the recast layers than for the as-received stainless steel. Hence, it can be concluded that pitting corrosion and dissolution in the passive region were suppressed in the recast layers. The above results are in good agreement with the ranking of the recast layers indicated by the salt fog chamber test (Table 3.).
+
+Fig.1 The potentiodynamic polarization curves in 3.5% NaCl solution of the as-received type 305 stainless steel and the recast layers in the laser-drilled holes produced using the three kinds of assist gases. SEM observation indicates that the microstructures of the recast layers are independent of the assist gases. In the three recast layers, the microstructures are characterized by a columnar structure of dendrites mainly composed of austenite with delta phase in the interdendritic regions, grown epitaxially from the base material. This typical 8
+
+microstructural morphology is resulting of rapid solidification as shown in Fig. 2. Pits have formed during etching in the substrate region, only consistent with a lower corrosion resistance compared with recast material. The SEM morphologies and corresponding element distributions reveal most oxide formed on the recast surface produced using oxygen as the assist gas, followed by that using argon, and nitrogen (Figs 3, 4 and 5).
+
+Fig.2 Typical cross section SEM micrograph of laser-drilled type 305 stainless steel valve stem showing the microstructure of the substrate and the recast layer when O2 is used as the assist gas.
+
+9
+
+Fig.3 Elemental mapping of internal wall of laser-drilled type 305 stainless steel valve stem with 3 bar O2 as assist gas.
+
+Fig.4 Elemental mapping of internal wall of laser-drilled type 305 stainless steel valve stem with 3 bar Ar as assist gas.
+
+10
+
+Fig. 5 Elemental mapping of internal wall of laser-drilled type 305 stainless steel valve stem with 3 bar N2 as assist gas. The suppressed pitting corrosion and active dissolution for the recast layers can be ascribed to the microstructural and compositional changes instigated on the as-received stainless steel. During the laser drilling, on the one hand, the materials around the drilled holes are melted so that some carbides, inclusions and precipitates that are present in the stainless steel and are harmful to the pitting corrosion can be dissolved [#ref8], [#ref9]. Solidification takes place at a very rapid cooling rate and these carbides, inclusions and precipitates are removed or minimized due to melt ejection, leading to a fine and homogeneous structure in recast layers with fewer sites to initiate pits. Further the solubility of sulphur in -ferrite is higher than that in austenite [#ref10], such that formation of -ferrite grains in the recast layers reduces sulphur segregation to the -ferrite/ boundaries in the form of, for example MnS, which further reduces the sites to initiate pits. Both of the above microstructural changes during the laser drilling are consistent with Fig. 2 and would be helpful in improving the pitting resistance of the recast layers.
+
+11
+
+The differing pitting corrosion resistances among the three recast layers produced using nitrogen, argon and oxygen as the assist gases is probably related to the nitrogen contents in them which is dependant upon the surrounding environment. When using oxygen as the assist gas, there would be the least amount of nitrogen incorporated into the recast layer due to the inhibition of oxygen and the formation of oxides on the recast surface (Fig. 5). When using argon as the assist gas, there would be more nitrogen incorporated into the recast layer due to the reduction in the inhibition of oxygen and the formation of oxides on the recast surface when compared to those using oxygen as the assist gas (Fig. 4). When using nitrogen as the assist gas, the partial pressure of the nitrogen gas is obviously the highest and thus there should be the highest amount of nitrogen incorporated into the recast layer. The nitrogen incorporated into the recast layers can exist in the forms of free nitrogen and/or nitrides [#ref11], [#ref12]. If it is in the form of free nitrogen, the enriched nitrogen dissolves during the propagation of the pits to form ammonium ions NH4+. The formation of these NH4+ ions would consume protons reducing the pH of the solution inside the pits, and hence repassivation of pit surface[#ref11]. If the nitrogen is in the form of nitrides such as CrN, the increased availability of nitrogen in the atomic form in the recast layers could favour formation of the nitrides, 12
+
+chromium oxide and NH3 from the dissolution of the CrN according to the following reaction [#ref12]:
+
+2CrN + H 2 O  Cr2 O3 + 2 NH 3
+This reaction would help to repair the passive, and leave a trail of NH3 that could act as a barrier between the material and the electrolyte. Therefore, the best corrosion resistance derived from the recast layers in the laser-drilled holes produced using nitrogen as assist gas would be attributed to the presence of the greatest amount of nitrogen incorporating in it.
+
+4. Conclusion
+By means of putting six drilled holes, produced using identical laser process parameters, in one sample to increase the exposed recast area, the electrochemical polarization tests of the recasts have been successfully carried out. Results showed that: a) The pitting corrosion and active dissolution were suppressed for these recast layers when compared to those of the as-received type 305 stainless steel. b) Of the nitrogen, argon and oxygen assist gases, the results of the electrochemical polarization tests are in good agreement with the result 13
+
+of the salt fog chamber tests. The recast layer produced using nitrogen as the assist gas has the highest pitting corrosion resistance. The recast layer produced using argon as the assist gas has intermediate pitting corrosion resistance and that produced using oxygen as the assist gas has the poorest pitting corrosion resistance. c) The suppressed pitting corrosion and active dissolution for the recast layers can be attributed to the microstructural changes instigated on the as-received stainless steel, leading to a fine and homogeneous structure in the recast layers with fewer sites to initiate pits. The different pitting corrosion resistance among the recast layers produced using the three kinds of assist gases can be associated with the presence of the different amount of nitrogen incorporated in these recast layers.
+
+References
+!ref1 `Machining metal matrix composites', G..A. Chadwick and P.J. Heath, Metals and Materials, 6, pp73-76, 1990. !ref2 `Ultrasonically aided laser drilling of particle reinforced aluminium based composites', T.W. Chan, T.M. Yue and H.C. Man, Materials Science and Technology, 14, pp1039-1044, 1998.
+
+14
+
+!ref3 `Laser machining theory and practice', G.. Chryssolouris, Mechanical Engineering Series, 1991, New York, Springer-Verlag. !ref4 `Two-dimensional model for material damage due to melting and vaporization during laser irradiation', A. Kar and J. Mazumder, Journal of Applied Physics, 68, 8, pp 3884-3891, 1990. !ref5 `Vaporization, melting and heat conduction in the laser drilling process', Y. Zhang and A. Faghri, International Journal of Heat and Mass Transfer, 42, pp 1775-1790, 1999. !ref6 `Nd:YAG laser cutting and drilling of PSTZ-influence of substrate heating temperature on recast layer microcracking', A.J. Murray and J.R. Tyrer, Journal of Laser Application, 11, 3, pp128-135, 1999. !ref7 `Microelectrodes for corrosion studies in microsystems', T. Suter, H. Bohni, Electrochimica Acta, 47, pp191-199, 2000. !ref8 `The Improvement of localized corrosion resistance in sensitized stainless steel by laser surface remelting', Q.Y. Pan, W.D. Huang, R.G. Song, Y.H. Zhou, G.L. Zhang, Surface and Coating Technology, 102, pp245-255, 1998.
+
+15
+
+!ref9 `Corrosion behaviour of steels after laser surface melting', A. Conde, R. Colaco, R. Vilar, J. de Damborenea, Materials and Design, 21, pp441-445, 2000. !ref10 `Laser surface melting and alloying of type 304L stainless steel', O.V. Akgun, O.T. Inal, Journal of Materials Science, 30, pp6105-6112, 1995. !ref11 `Pitting corrosion of 304 stainless steel after laser surface melting in argon and nitrogen atmospheres', A. Conde, I. Garcia, J.J. de Damborenea, Corrosion Science, 43, pp817-828, 2001. !ref12 `The effect of excimer laser surface treatment on pitting corrosion resistance of 316LS stainless steel', T.M. Yue, J.K. H.C. Man, Surface and Coating Technology, 137, pp65-71, 2001.
+
+16
+

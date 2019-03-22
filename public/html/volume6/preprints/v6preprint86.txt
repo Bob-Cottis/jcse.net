@@ -1,0 +1,312 @@
+Volume 6 Paper H040
+
+Oxidation Behaviour of High-Speed Steels Under Dry and Moist Air Environments
+M.J. Monteiro and F.C. Rizzo
+
+Department of Materials Science and Metallurgy, PUC-Rio, Rua Marquês de São Vicente 225, Gávea, Rio de Janeiro, CEP: 22453-900, Brasil, rizzo@dcmm.puc-rio.br
+
+Abstract
+The oxidation behavior of three different chemical compositions of high-speed steels was studied. Corrosion tests were carried out in a thermobalance under dry and moist (12.5 % H2O) environments. The corroded samples were examined by X ­ Ray diffraction, scanning electron microscopy and energy dispersive micro-analysis. The effects of humidity, and chemical composition on the oxidation behavior of these high-speed steels were investigated. It was verified that the chromium content influenced the final mass gain and while tungsten content variation did not influence the oxidation behavior of the highspeed steels studied. It was also observed that the presence of humidity had a significant effect on the oxidation behavior. Keywords: Oxidation; high-speed steel; thermobalance; dry and moist environments.
+
+Introduction
+Development and use of high-speed steel for manufacturing the roll outer shell of hot strip mills have started in the early 1990s [1]. The introduction of this material has improved, significantly, the roll wear resistance, the surface quality of rolled products and the length of rolling campaign. It has represented, therefore, the major technological breakthrough recently introduced in the hot rolling field
+
+[2-6]. However, it was observed that the oxide layer spalling of these steels had different behavior in comparison with that of conventional rolls. This phenomenon has been attributed to the high-speed steel oxidation rate, which is about four times higher than the alloys rolls for hot strip mills, it is necessary, therefore, to study the previously used [1]. In order to achieve the full potential of high-speed oxidation behavior of this material. Furthermore, the rolling conditions are quite aggressive. Contact with the hot strip and then air and water cooling system is expected to increase the oxidation of the roll surface in wet atmosphere [6, 7].
+
+In the present work, the oxidation behavior of three different chemical compositions of high-speed steels was studied. Corrosion tests were carried out in a thermobalance under dry and moist (12.5 % H2O) environments. The corroded samples were examined by X ­ Ray diffraction, scanning electron microscopy and energy dispersive micro-analysis.
+
+Experimental
+The nominal chemical compositions of the high-speed steels used in this study, determined by chemical analysis, are shown in table 1. Cylindrical samples ( 9.2 × 1 mm) with around 1.6 cm2 surface area were cut from ingots, abraded up to 600 mesh SiC paper and then polished to 3 µm diamond paste. Just before oxidation tests, the samples were cleaned during 10 min in acetone using ultrasonic agitation. Table 1- Nominal Composition of the high-speed steels (wt. %). Samples A1 A2 A3 C 1.9 1.8 1.8 Cr 3.5 7.5 4.4 Mo 2.0 2.0 2.3 W 2.0 2.0 3.9 V 5.1 4.8 4.8
+
+The oxidation tests were carried out in a thermobalance (Rheometrics STA 1500) at 1 atm and 1038 K for up to 240 min. The oxidation 2
+
+atmospheres were provided by a flowing nitrogen (99.999% pure) ­ 20% oxygen (99.97% pure) referred hereafter as N2 ­ 20 O2 and a In this study, the N2 ­ O2 ratio was always 4:1. flowing nitrogen ­ 17.5 oxygen ­ 12.5 % H2O (N2 ­ 17.5O2 ­ 12.5H2O).
+
+The apparatus used in this study is shown in figure 1. An equipment for humidity production and control was constructed for this work. water by means of a bubbler. The wet mixed gas passed through a The connection between the gas pipe and the thermobalance was made by a connector pre heated at 353 K. A thermohigrometer linked to a computer was connected to the gas pipe in order to monitor, on line, the water vapour concentration during the tests. The distilled water temperature was thermostatically controlled at 323.5 K, producing a water vapour concentration of 12.5%. In order to prevent the water vapour from condensing on the measuring system of the thermobalance, a counterflow gas (Ar, 99.999% pure) was maintained through the upper part of the thermobalance. The samples were suspended in the furnace tube which was heated at 325 K/min up to 1038 K in the protecting gas with a volumetric flow rate of 20 ml/min, controlled by a flow meter. When the samples reached 1038 K, the oxidation gas was introduced into the themobalance. The oxidation gas flow was controlled to a volumetric flow rate of 60 ml/min by. After oxidation the sample was cooled in flowing Ar gas. Subsequent to oxidation, the samples were further examined using Xray diffraction with Cu ­ K radiation and scanning electron microscopy with energy ­ dispersive X ­ ray analysis (SEM / EDX). The wet mixed gas was obtained by passing N2 ­ O2 through distilled
+
+pipe preheated at 338 K before being admitted to the thermobalance.
+
+3
+
+Thermobalance
+PURGE Ar GAS INLET FLOW METER Furnace
+
+SAMPLE
+
+GAS INLET GAS OUTLET Ar O2 N2
+
+O2+N2+H2O OUTLET
+Term opar para a verificação da tem peratura de 80ºC do fluxo de entrada na balança
+
+O2+N2 INLET
+
+Thermo couple
+
+A quecedor
+
+Heater
+
+M otor agitador
+
+Heater
+
+A quecedor
+
+V álvula Controlador de tem peratura 55ºC
+
+Á gua ou óleo
+
+M otor agitador
+
+Term opar do controlador de tem peratura Sensor tem peratura Thermo Couple de um idade eWater
+
+Heater Controller
+Á gua ou óleo
+
+Water
+
+T2 perm ite m edir as tem peraturas dos term opares do vapor, água, fluxo de entrada na balança etc...
+
+Term opar vapor A quecedor Heater Á gua destilada
+
+17,8 %
+55,0ºC
+
+T1
+
+35,3ºC
+
+T2
+
+Com putador
+
+H TM - 1380
+Controlador de tem peratura
+D e 23ºC a 50ºC
+
+Term opar água Term opar do controlador de tem peratura
+
+Thermo higrometer
+
+Saída serial
+
+PC
+
+9V D C
+
+Thermo couples
+
+Destilled Water
+
+4
+
+Figure 1- Schematic presentation of the oxidation apparatus.
+
+Results
+Figures 2 shows the time change in oxidation amounts (mass gain / unit area) of the samples at 1038 K in N2 ­ 20 O2 and N2 ­ 17.5 O2 ­ exhibited the higher mass gain followed by samples A3 and A2, in
+20
+N-2 O 02 2 1 6 S m leA1 ap S m leA2 ap S m leA3 ap
+
+12.5 H2O atmospheres for exposure time up to 240 min. Sample A1
+
+both atmospheres studied.
+2 0
+
+N - 17.5 O - 12.5 HO 2 2 2 16 S pleA1 am S pleA2 am S pleA3 am 12
+
+Mass change (mg/cm2)
+
+1 2
+
+8
+
+8
+
+4
+
+4
+
+A
+0 0 5 0 10 0 10 5 20 0 20 5
+
+B
+0 0 50 100 150 200 250
+
+T e(m ) im in
+
+T e(m im in)
+
+Figure 2 ­ Oxidation curves of samples A1, A2 and A3. (a) oxidized in N2 ­ 20 O2 atmosphere; (b) oxidized in N2 ­ 17.5 O2 ­ 12.5 H2O atmosphere.
+
+Figure 3 shows mass gain curves for samples A1, A2 and A3 for both atmospheres at 1038 K. All samples exhibited higher mass gain in the wet atmosphere. Except for sample A2 oxidized in N2 ­ 20 O2 atmosphere, the mass gain curves were parabolic. High temperature parabolic oxidation signifies that thermal diffusion of ions is controlling the rate of the process. Such a process may therefore be connected with a uniform diffusion of the reactants through a growing compact scale.
+
+5
+
+2 0 S m le A1 ap N-2 O 02 2 N - 1 ,5 O - 1 ,5 HO 27222
+
+4,50 S pleA2 am 3,75 N - 20O 2 2 N - 17,5O - 12,5HO 2 2 2 3,00
+
+1 6
+
+Mass change (mg /cm2)
+
+1 2 2,25 8 1,50 4 0,75
+
+A
+0 0 5 0 10 0 10 5 20 0 20 5 0,00 0 50 100 150 200
+
+B
+250
+
+T e(m ) im in
+8 S p A3 am le 7 6 N-2 O 02 2 N - 1 ,5 O - 12 HO 72 ,5 2 2
+
+T e(m im in)
+
+Mass change (mg/cm2)
+
+5 4 3 2 1 0 0 50 1 00 1 50 2 00
+
+C
+20 5
+
+T e(m im in)
+
+Figure 3 ­ Comparison of oxidation curves for samples oxidized in N2 (b) Sample A2; (c) Sample A3. Table 2 summarizes the kinetic behaviour of all samples studied. The kinetics cannot be described by a single parabolic rate law. Sample A1 exhibited three parabolic stages during oxidation in both atmospheres. Sample A2 oxidized under N2 ­ 20 O2 atmosphere displayed a linear kinetics while, under N2 ­ 17.5 O2 ­ 12.5 H2O 6 ­ 20 O2 and in N2 ­ 17.5 O2 ­ 12.5 H2O atmospheres. (a) Sample A1;
+
+atmosphere, the oxidation kinetics was irregular with a parabolic stage. For sample A3, three parabolic stages were observed for the dry (N2 ­ 20 O2) atmosphere. For this sample, the oxidation in wet (N2 ­ 17.5 O2 ­ 12.5 H2O) atmosphere resulted in an initial linear stage followed by a parabolic stage.
+
+Table 2- Summary of kinetic behaviour of samples A1, A2 and A3. Samples Atmospheres Kinetic Kp (Average) (g2/cm4s) A1 N2 ­ 20O2 P­P­P 1,43E-8 2,57E-8 15,05 18,49 Final gain mass (mg/cm2)
+
+N2 ­ 17,5O2 ­ 12,5 P ­ P ­ P H2O
+
+A2
+
+N2 ­ 20O2
+
+L
+
+----1,65E-9
+
+3,78 4,25
+
+N2 ­ 17,5O2 ­ 12,5 Irregular H2O N2 ­ 20O2 P­P­P
+
+A3
+
+2,49E-9 3,96E-9
+
+6,49 7,33
+
+N2 ­ 17,5O2 ­ 12,5 L ­ P H2O
+
+Figures 4, 5 and 6 show the cross-sectional morphology and 20 O2 atmosphere, respectively. All scales formed were composed mainly by iron oxide mixed with chromium and vanadium oxides. The scale formed on sample A1 was porous and non oxidized carbides were found beneath the scale, as shown in figure 4. For sample A2 (figure 5), the scale / alloy interface was irregular suggesting selective oxidation took place mainly close to chromium-rich carbides. The scale formed on sample A3 was also non uniform and contained a vanadium-rich region, probably resulting from carbides that seems to be dissolved by the oxidation front at the scale / alloy interface, as shown in figure 6. 7 corresponding X-ray maps for sample A1, A2 and A3 oxidized in N2 ­
+
+O
+
+Cr
+
+V
+
+Fe
+
+W
+
+Figure 4- SEM cross-section and X-ray mapping for sample A1 oxidized in N2 ­ 20 O2 atmosphere.
+
+O
+
+Cr
+
+V
+
+Fe
+
+W
+
+Figure 5- SEM cross-section and X-ray mapping for sample A2 oxidized in N2 ­ 20 O2 atmosphere. 8
+
+O
+
+Cr
+
+V
+
+Fe
+
+W
+
+Figure 6- SEM cross-section and X-ray mapping for sample A3 oxidized in N2 ­ 20 O2 atmosphere. Figures 7, 8 and 9 show the cross-sectional elemental distributions of samples A1, A2 and A3 oxidized in N2 ­ 17.5 O2 ­ 12.5 H2O atmosphere, respectively. The scales formed on sample A1 and A3 were multilayered, consisting of an outer layer mainly composed of iron oxide and a complex inner layer composed of alloying elements oxides, mostly iron and chromium oxides. The inner layer formed on sample A1 contained vanadium-rich
+
+carbides, as shown in figure 7. The outer layer formed on sample A2 was porous and at the scale / alloy interface a thin and continuous layer rich in chromium was formed. Carbides rich in vanadium seems to be dissolved at the inner layer (figure 8).A similar behaviour was found for sample A3 (Figure 9) where a porous outer layer was formed and non oxidized carbides rich in vanadium were found in the inner layer. On the other hand, sample A2, containing higher amount of chromium, did not display the inner oxide layer. Instead, a chromium enrichment was observed at the scale / alloy interface. A vanadium rich region was found in the scale, suggesting that this element was also oxidized for this experimental condition. 9
+
+O
+
+Cr
+
+V
+
+Fe
+
+W
+
+Figure 7- SEM cross-section and X-ray mapping for sample A1 oxidized in N2 ­ 17.5 O2 ­ 12.5 H2O atmosphere.
+
+O
+
+Cr
+
+V
+
+Fe
+
+W
+
+Figure 8- SEM cross-section and X-ray mapping for sample A2 oxidized in N2 ­ 17.5 O2 ­ 12.5 H2O atmosphere.
+
+10
+
+O
+
+Cr
+
+V
+
+Fe
+
+W
+
+Figure 9- SEM cross-section and X-ray mapping for sample A3 oxidized in N2 ­ 17.5 O2 ­ 12.5 H2O atmosphere.
+
+Discussion
+The high temperature corrosion resistance of chromium containing alloys is in practice provided by the formation of a compact and continuous layer of chromia or of a complex oxide based on chromium. The chromium content necessary to the formation of this protective layer depends on the alloy, the temperature and the atmosphere studied. Therefor, small variation of chromium content can be sufficient to influence the oxidation behaviour of chromia former alloys, particularly when the content of this element is not high [8]. Sample A2, which is richer in chromium, presented the lower mass gain mass as shown by the oxidation curves. Furthermore, a thin and continuous layer rich in chromium seems to be formed at the scale / alloy interface of sample A2. In such way, the grow of outer layer composed by iron oxide and the advance of the oxidation front are reduced. This behaviour can be observed by comparison of X- ray maps of samples A1 and A2 oxidized in N2 ­ 20 O2 atmosphere (figures 4 and 5) and in N2 ­ 17.5 O2 ­ 12.5 H2O atmosphere (figures 7 11
+
+and 8). The formation of this continuous layer seems decisive to slowing down the oxidation behaviour of Fe ­ Cr alloys. At the beginning of the oxidative process both elements are oxidized, starts. Iron dissolves in the iron oxide layer and diffuses to the forming a thin layer on the alloy surface. Then, a competitive process external gas / alloy interface, reacting with oxygen and producing the out growth of the layer. Chromium diffuses to the oxide / alloy interface and is oxidized in this region where a lower partial pressure of oxygen is maintained because chromium oxide is more stable than iron oxide.
+
+In this way, a chromium oxide layer grows beneath the iron oxide layer. Depending on the chromium content, a continuous chromium oxide layer can be formed, reducing the oxidation rate. In alloys with low chromium contents, a complex inner layer composed by iron and chromium oxides can be formed. This complex layer may also display a protective behaviour, and reducing the oxidation rate. With regard to the influence of tungsten on the oxidation behaviour of the alloys studied in this work, the results suggest that this element does not have any remarkable effect for the range of composition investigated. The oxidation behaviour of sample A4, which has the higher tungsten content, was not affected by the increase of this element. Tungsten does not form any protective oxide and forms volatiles oxides above 1273 K, a temperature much higher than 1038 K used in this work. Therefore, the effect of increasing the tungsten carbides. The influence of water vapour on the oxidation behaviour of the samples studied was quite strong. In H2O containing atmosphere, all samples presented higher oxidation rate. The X-ray maps for the samples oxidized in N2 ­ 20 O2 atmosphere suggest that a layer rich in chromium oxide was formed in the alloy / iron oxide interface. On the other hand, The X-ray maps for the samples oxidized in N2 ­ 17.5 O2 ­ 12.5 H2O atmosphere suggest that chromium was oxidized in the matrix, with the others alloying elements, forming an internal oxidation layer. 12 content seems to be limited to increasing the volume fraction of some
+
+The results obtained by several authors [8-12], regarding the oxidation behaviour of Fe ­ Cr alloys in wet and dry atmospheres and found similar results. The results of these studies showed that the presence of water vapour increases strongly the oxidation of Fe ­ Cr
+
+alloys and that the mainly reason for this behaviour is the failure of the chromium layer. This failure makes possible the formation of a porous and non protective layer of iron oxide. The results of the present work are in agreement with these reports. The X-ray maps shown in the present work suggest that the oxidation behaviour of the high-speed steels studied presented a oxidation mecanism similar to that observed in the study of Fe ­ Cr alloys oxidation behaviour.
+
+Conclusions
+Based on the results obtained in the present investigation the following conclusions can be formulated: · The variation of chromium content of the high-speed steels studied was sufficient to influence the oxidation behaviour. Samples with high chromium contents presented smallest final mass gain. · The variation of tungsten content, in the range investigated, did not exhibit any remarkable effect on the oxidation behaviour of the high-speed steels studied. · Water vapour strongly affects the oxidation behaviour of the
+
+samples studied. The scales formed on samples oxidized in N2 ­ 20 O2 were always monolayers, composed mainly by iron oxide, while the scales formed on samples oxidized in N2 ­ 17.5 O2 ­ 12.5 H2O were multilayered. It was observed an increase of the oxidation rate in the samples oxidized in wet atmosphere due, probably, to the same mechanism observed in Fe-Cr alloys, namely, the lack of formation of a continuous chromium oxide layer beneath the iron oxide.
+
+13
+
+Acknowledgments
+The authors thank Aços Villares/Sidenor, FAPERJ and Technological Research Institute (IPT ­ SP). M.J. Monteiro thanks CNPq for his Doctoral grant.
+
+References
+[1] Kudo, T., Yatsu, H.e Izumikawa, S., "Performance of high-carbon high speed steel rolls in hot strp mills", AISE annual convention, Cleveland, Ohio, September, 19-21, 1994. [2] Kurahashi, R., Nishima, Y., Kouga, T., Ogura, T., Sugimura, Y., Sano, Y., e Fuchigami. N., "Development of minimum diameter work roll with new material and characteristics", CAMP-ISIJ, vol. 2, p. 490, 1989. [3] Kurita, T., Hoshi, F., e Takahashi, H., "Application of high-speedsteel works roll to the down-stream stands of a hot strip finishing mill", CAMP-ISIJ, vol. 2, p.491, 1989. [4] Nakamura, Y., Kurahashi, R., Nishiyama, Y., Kouga, T., Hashimoto, H., e Otomo, S., "Development of hot work roll made of matrix hardened high speed tool steel", CAMP-ISIJ, vol. 3, p.418, 1990. [5] Nishiyama, Y., Kurahashi, R., Kouga, T., Kawashima, S., e Kurahashi, R., "Development of hot work roll made of forged high speed tool steel", CAMP-ISIJ, vol. 4, p. 442-445, 1991. [6] Kudo, T., Ohkura, H., Koizumi, T., Kawashima, S. e Kurahashi, R., "Development of forged HSS rolls for hot rolling mills", CAMP-ISIJ, vol. 4, p. 442-445, 1991. [7] Lanteri, V., Thomas, C., Bocquet, J., Yamamoto, H. e Araya, S-I., "Black oxide film generation on work rolls and its effects on hotrolling tribological characteristics", Proceedings of the 7th international conference on steel rolling (STEEL ROLLING' 98), Chiba, Japan, The iron and steel institute of Japan, 1998.
+
+14
+
+[8] Kofstad, P. "In high temperature corrosion", Elsevier applied science, Londres, p.382, 1988. [9] Kvernes, I., Oliveira, M. and Kofstad, P., "High temperature oxidation of Fe-13Cr-xAl alloys in air / H2O vapor mixtures", Corrosion science, 17, p.237 - 252, 1977.
+
+[10] Fuji, C.T. and Meussner, R.A., "Oxide structure produced on iron ­ chromium alloys by a dissociation mechanism", Journal of Electrochemical Society, 110, 12, p.1195 - 1204, 1963. [11] Wood, G.C, Wright, I.G., Hodgkiess, T. and Whittle, D.P., Werkst. Korros. 21, p.900, 1970. [12] Jianian, S., Longjiang, Z. e Tiefan, L., "High-temperature oxidation of Fe-Cr alloys in wet oxygen", Oxidation of metals, 48, 3/4, 347 ­ 356, 1997.
+
+15
+

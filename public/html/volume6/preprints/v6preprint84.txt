@@ -1,0 +1,197 @@
+Volume 6 Paper H030 The Oxidation Behavior of C+Nb Ion Implanted -TiAl Based Alloy in a Synthetic Automobile Exhaust Gas.
+K.Nakagawa 1, Y.Matsunaga 1, X.Y.Li 2, Y.C.Zhu 2, K.Fujita 2 and S.Taniguchi 3
+1
+
+Ishikawajima-Harima Heavy Industries Co.,Ltd. 1-15, Toyosu 3-Chome, Koto-Ku, Ion Engineering Research Institute Corporation, 2-8-1 Tsuda-yamate, Hirakata,
+Department of Materials Science and Processing, Graduate School of Engineering, Osaka University, 2-1
+
+Tokyo 135-8732, Japan
+2
+
+Osaka 573-0128, Japan
+3
+
+Yamadaoka, Suita, Osaka 565-0871, Japan
+
+Abstract The cyclic oxidation behavior of a -TiAl based alloy of Ti-48Al-1.5Mo-0.5V-0.5Si (at%) implanted with C + Nb was investigated at 1123K for 500h in a synthetic automobile exhaust gas. Nb was implanted with a dose of 2.0×1021 ions per m2 at 50kV. C was implanted with three levels of the implantation doses of 3.0×1020 , 3.0 ×1021 and 1.0×1022 ions per m2 at 50kV . Auger electron spectroscopy (AES), X-ray diffractometry (XRD) and transmission electron microscopy (TEM) were used to characterize the oxidation behavior and the scale structure. The oxidation resistance of the TiAl based alloy implanted with the C + Nb was superior to the Nb implanted one irrespective of the doses of C. It also became clear that the most suitable dose for the C implantation existed to increase the oxidation resistance. When the dose of C was 3 ×1021 ions per m2 , the C + Nb implanted TiAl based alloy showed the best oxidation resistance and the oxidation rate decreased to a tenth of that of Nb implanted one. AES analysis showed that the implanted C diffused into the substrate within a short time. The carbides rich in Ti were detected at the Al2O3/substrate interface by the TEM observation of the scale formed on the specimen oxidized for 500h. This means that the activity of Ti was decreased by the formation of the Ti rich carbides resulting in the formation of Al2O3 on the surface of substrate. The excellent oxidation resistance obtained by the C + Nb implantation is attributable to the formation of the Al2O3 scale.
+
+Keywords: Oxidation; TiAl ; C ; Nb ; Ion implantation 1.Introduction The -TiAl alloy is regarded as a promising candidate material for the rotor of turbo charger for automobile because of its low density and good mechanical property at high temperature. However, the oxidation resistance is insufficient at 1123 K which is the exhaust gas temperature. The development of appropriate countermeasures, including alloying addition and surface treatment that can improve the high temperature oxidation resistance of this alloy, is the important subject for its practical application. Ion implantation is considered to be one of the attractive countermeasures to improve the oxidation resistance because of the remarkable advantages such as not changing the size and bulk property of the parts [#ref1]. Therefore, the oxidation resistance of the TiAl based alloy implanted with various elements was investigated [#ref2,3,4]. It was found that the Nb implantation significantly decreases the oxidation rate, C + Nb implantation can further improve the beneficial effect of the Nb implanted alloy and thus gives the best oxidation resistance [#ref5]. The oxidation mechanism of C + Nb implanted alloy, however, has not been well elucidated yet. In this study the effect of the C implantation dose on the oxidation resistance of C + Nb implanted TiAl based alloy at 1123 K in a synthetic automobile exhaust gas were investigated, and the possible improvement mechanism was discussed. 2.Experimental The chemical composition of the specimens used in this study is Ti-48Al-1.5Mo-0.5V-0.5Si (at%). The specimens measuring 15×10×2 in mm were cut from the ingot that was produced by Ar-arc skull melting. The specimen surface was ground with a series of SiC paper up to #1000 and then polished with alumina powders of 0.3m in size to mirror finish. The specimens were ultrasonically washed in acetone and ethanol baths, and dried in air before ion implantation. The combined implantation of C + Nb was carried out at room temperature according to the following procedure ; first, Nb was implanted with a dose of 2.4×1021 ions/m2 at 50kV and then C was implanted with doses of 3.0×1020, 3.0×1021 and 1.0×1022 ions/m2, respectively at 50kV. 2
+
+The cyclic oxidation test was conducted at 1123 K for 500h in the synthetic automobile exhaust gas of 10%O2-7%CO2-6%H2O-bal.N2 (in volume). The temperature-time cycle was 5h at 1123 K and 1h at room temperature. The specimens were weighed after every 10 cycle out to 100cycle. Auger electron spectroscopy (AES) was use d to determine the element distribution in the modified layer and the oxide scale. The oxide film formed on the Nb(2.4×1021 ions/m2) + C(3.0×1021ions/m2) implanted TiAl based alloy after 500h in the synthetic automobile exhaust gas was observed by TEM combined with EDX. 3.Results 3.1 Element distribution in the modified layer
+80 60 A.C.% 40 20 0 O 0
+21
+
+(a)
+Nb
+
+C:3.0 x 10 ions/m
+21
+
+20
+
+2 2
+
+Nb:2.4 x 10 ions/m Ti Al C
+
+100
+
+200 300 Depth (nm)
+2 2
+
+400
+
+500
+
+80 60 A.C.% 40 20 0 O 0 Nb
+
+(b)
+
+C:3.0 x 10 ions/m C
+Ti Al
+21
+
+100 80 A.C.% 60 40 20
+
+(c)
+C
+
+C:1.0 x 10
+
+22 21
+
+ions/m Ti
+
+2 2
+
+Nb:2.4 x 10 ions/m
+
+N b:2.4 x 10
+
+ions/m
+
+Nb
+O 0 100 200 300 Depth (nm )
+
+Al
+
+100
+
+200 300 Depth (nm)
+
+400
+
+500
+
+0
+
+400
+
+50
+
+Fig.1 AES profiles of Fig.1 AES profiles of the element distribution in the Nb + C implanted layer. (a) 3.0 x 1020 ions/m2, (b) 3.0 x 1021 ions/m2, (c) 1.0 x 1022 ions/m2 The element distribution in the modification layer of different C + Nb implanted alloys analyzed by AES is summarized in Fig.1. When the dose of C is 3.0×1020 ions/m2 , C concentration near the surface is about 50 at % and gradually decreases with increasing depth up to 300nm (Fig 1(a)). Nb shows near Gaussian distribution with peak concentration of about 50at% with the modified layer thickness of about
+
+3
+
+100nm. When the dose of C is raised to 3.0×1021 ions/m2 , C shows the maximum concentration of about 45at% at the depth of about 200nm(Fig.1 (b)). The Nb depth profile is almost the same as that for 3.0×1020 ions/cm2 C . Ti concentration is higher than Al over the depth measured. In the case of 1.0×1022 ions/m2 dose of C implanted alloy (Fig.3 (c)), C concentration is increased to more than 60 at % with the modified layer thickness of about 300nm. On the other hand, Nb peak concentration is lowered to about 20 at %. Al content in the modified layer is remarkably low 3.2 Cyclic oxidation test result Fig.2 shows the cyclic oxidation curves of the specimens implanted with various doses of Nb and C at 1123K in the synthetic automobile exhaust gas. The C + Nb implanted alloys show lower oxidation rate than that of the non-implanted alloy, although the C implantation showed a bad effect. The oxidation rates of 1.0×1022 ions/m2 and 3.0×1020 ions/m2 dose of C implanted alloys are about a half of that of the non-implanted alloy. In the case of 3.0×1021 ions/m2 dose of C implanted alloy, the oxidation rate is remarkably decreased compared to
+15 Weight gain (mg/cm )
+2
+
+Nb:2.4 x 10 ions/m 1123 K 10
+
+21
+
+2
+
+Non-implanted Nb implantation 21 1173K2 at Nb + C (3.0 x 10 ions/m ) 21 2 C (3.0 x 10 ions/m ) 21 2 Nb + C (3.0 x 1022 ions/m2 ) Nb + C (1.0 x 10 ions/m )
+
+5
+
+0
+
+0
+
+50
+
+100
+
+150 Time(h)
+
+200
+
+250
+
+300
+
+Fig.2 Cyclic oxidation curves of C +Nb implanted TiAl alloy that of non-implanted alloy and the oxidation resistance is almost the same as that of high temperature Nb implanted alloy. It is noteworthy that 3.0×1021 ions/m2 dose of C implanted alloy shows the best oxidation resistance among the different doses of C implanted alloys. These results suggest that the most suitable dose for the C implantation exists to increase the oxidation resistance. 3.3 AES analysis of the oxide scale 3.3.1 Oxidation at 1123K for 1 The element distribution of oxidation scale of C + Nb implanted alloys with different doses oxidized at 1123K for 1h in the synthetic automobile exhaust gas analyzed by AES is presented in Fig.3. When the C dose is 3.0×1020 ions/m2, an oxide scale of 4
+
+about 700nm thickness is formed as presented in Fig3-a. C concentration is low in the scale and it gradually increases again toward the substrate and its maximum concentration is about 20 at % at the depth about 700nm. Al content is higher than that of Ti content in the external scale of 300nm thickness and beneath this area Ti gradually increases. The diffusion of Nb during the oxidation lowered its peak concentration to 20 at.% at a depth of about 100nm. Fig.3-b shows the element distribution in the oxide scale formed on the 3.0×1021 ions/m2 dose of C implanted alloy. The oxide scale is about 500 nm thick. O shows the highest concentration of about 55 at% in the scale but it is quickly decreases toward the substrate where C concentration was raised to about 40 at %. The Al content in the scale is higher than that of the Ti content and shows the maximum concentration of 30at.% and Nb reached to about 400nm thick. Ti concentration in the C rich layer is higher than that of Al. When the C dose is 1.0×1022 ions/m2, an oxide scale of about 900nm is formed as shown in Fig.3-C. The contents of Al and Ti in the scale are almost the same. C diffused toward the substrate during the oxidation and show a the peak of 55 at.% at the depth of 1000nm. Al content in the scale is almost the same as that of Ti. The maximum Nb has a maximum concentration of about 20 at% and reached to a depth of about 500nm.
+80
+21 2
+
+(a)
+60 A.C.% O 40 20 0 Nb
+
+C:3.0 x 10 ions/m 21 2 Nb:2.4 x 10 ions/m Ti Al C
+
+0
+
+500
+
+1000 1500 Depth (nm)
+2
+
+2000
+
+80 60 A.C.% 40 20 0
+
+(b)
+
+O C
+
+C:3.0 x 10 ions/m 21 2 Nb:2.4 x 10 ions/m Ti
+
+21
+
+80 (c) 60 A.C.% 40 20 0 0 Nb O C
+
+C:1.0 x 10 ions/m
+21
+
+22
+
+2 2
+
+Nb:2.4 x 10 ions/m
+
+Al Nb
+
+Ti Al 500 1000 1500 Depth (nm) 2000 2500
+
+0
+
+500 1000 Depth (nm)
+
+1500
+
+5
+
+Fig.3 AES profiles of the element distribution of the scale formed on the C + Nb implanted TiAl alloys after 1h at 1123 K in the synthetic automobile exhaust gas. (a) 3.0 x 1020 ions/m2, (b) 3.0 x 1021 ions/m2, (c) 1.0 x 1022 ions/m2 3.3.2 Oxidation at 1123K for 500h The oxide scale on the C + Nb implanted alloy with 3.0×1021 ions/m2 C after oxidation at 1123 K for 500h profiled by AES is presented in Fig.4 The oxide scale is about 1700nm thick. An Al enriched layer was extended to about 400nm thickness in the external scale and the Ti concentration was decreased. Beneath this Al enriched layer Ti and Nb enriched layer of about 300nm thickness is observed. Al concentration was raised higher than Ti following this region. The diffusion of C during the oxidation lowered its peak concentration to 20 at.%
+
+Fig.4 AES profiles of the element distribution of the scale formed on the C + Nb implanted TiAl alloy after 500h at 1123 K in the synthetic automobile exhaust gas
+
+Fig.5 TEM bright field image of cross-section of C + Nb implanted TiAl alloy oxidized at 1123 K for 500h in the synthetic automobile exhaust gas. C:3.0 x 1021 ions/m2
+
+6
+
+at a depth of about 1000nm and the position of C peak is correspond to that of Ti peak. Beneath the C enriched layer an Al enriched layer is observed again. This fact shows that C did not inhibit the internal diffusion of O.
+
+3.3.3 TEM observation The oxide film formed on the Nb(2.4 × 1021 ions/m2) + C(3.0 × 1021 ions/m2) implanted TiAl based alloy after 500h in the synthetic automobile exhaust gas was observed by TEM combined with EDX. Fig.5 shows a TEM bright field image of the oxide film. The numbers in the figure show positions where nano-diffraction was taken. Table1 shows the relative concentrations of Al and Ti obtained by EDX at positions 1 to 7 in Fig.5. These results show that the scale has a three layered Al2O3 mixed with a TiO2 structure. The uppermost part of the scale consists mainly of little amount of TiO2 and the second layer consists mainly of
+
+mixed with a little amount of Al2O3 followed by relatively pure Al2O3. Table 1 Relative concentration of Al and Ti obtained by EDX for positions in Fig.5 Position Al (at.%) Ti (at.%) Phase 1 65 23 -Al2O3, TiO2(Rutile) 2 29 56 TiO2(Rutile) 3 11 74 TiO2(Rutile) 4 14 68 Ti5Al3O2 5 96 0 -Al2O3 6 31 63 TiC,Ti3AlC, (Al2Ti4C2) 7 39 55 Ti5Al3O2 The diffraction pattern of number 6 shows that carbides rich in Ti are formed in the interface between Al2O3 and Z phase. The carbides were not identified by diffraction pattern. However, considering the fact that Ti/Al rasio was about 2, it was highly probable that the carbide was Al2Ti4C2. 4. Discussion The C rich layer was observed in the C + Nb implanted TiAl based alloys after the oxidation at 1123 K as presented in Fig3 and Fig.4. In this layer, fine carbides rich in Ti were detected by TEM observation and the Al2O3 formed around the carbides. Namely, the activity of Ti was decreased by the formation of the Ti enriched carbides resulting in the formation of Al2O3 on the surface of substrate. This Al2O3 was very pure as presented in Table1. The excellent corrosion resistance obtained by the C + Nb implantation is attributable to the formation of this Al2O3 scale. It also became clear that the most suitable dose for the C implantation exists to increase the oxidation resistance. When the C dose of alloy is 3.0×1021 ions/m2, the carbides formed in the substrate are seemed to be a few as presented in Fig.3-a. Therefore, the activity of Ti in the carbide precipitated zone is not decreased significantly to form a uniform Al2O3
+
+layer. On the other hand, for the C dose of 1.0×1022 ions/m2 , the Al concentration in the modified layer is very low as shown in Fig.3-c. Consequently, an uniform Al2O3 layer can not be formed around the carbides. The oxidation resistance of the TiAl based alloy is not improved by only C implantation as shown in Fig.2. Although the C enriched layer formed at the scale/substrate interface in the early stage of oxidation, this C rich layer disappeared within a relatively short time [5]. Namely, C is considered to react with inwardly diffused O through the scale to form CO2. Therefore, the suppression of the inward diffusion of O is necessary to maintain the C rich layer in the substrate for long-term. The effect of alloying addition of Nb to TiAl on its oxidation behavior has been explained in terms of the doping effect [#ref6]. In addition, Nb is regarded as a  phase stabilizer. The temporary formation of this phase will enhance the formation of Al2O3 scale in the early stage of oxidation [#ref7]. Once an Al2O3 scale of sufficient thickness is formed, the subsequent oxidation becomes very slow. In this way, Nb is very effective to inhibit the inward diffusion of O. It was also reported that the co-existence of C and Nb would enhance their resistance to the fast diffusion during high temperature oxidation. Therefore, the respective beneficial effect of Nb and C might be intensified and prolonged and thereby the C + Nb implanted alloy shows the excellent long-term oxidation resistance. 5. Conclusion (1) The most suitable dose for the C implantation exists to increase the oxidation resistance of C + Nb implanted TiAl based alloy. When the C implantation dose was 3 ×1021 ions per m2 , the alloy showed the best oxidation resistance. (2) Fine carbides rich in Ti were detected in the C rich layer by TEM observation. The activity of Ti around the carbides was decreased by the formation of the Ti enriched carbides resulting in the formation of an uniform Al2O3 on the surface of substrate. (3) Nb implantation promotes the formation of Al2O3 in the scale and suppresses the inward diffusion of O. Consequently, the C rich layer in the substrate can be maintained for long-term. Acknowledgement This work was financially supported by the New Energy and Industrial Technology Department Organization (NEDO), MITI, Japan. 9
+
+References !ref1, JR. Treglio, A.J. Perry and R.J. Stinner, Advanced Mater and Processes, 41(1/2), pp575, 1995. !ref 2 ,S.Taniguchi, T. Shibata, T. Saeki, H. Zhang and X. Liu, Mater Trans JIM, 37(5), pp998, 1996. !ref 3, S.Taniguchi. K. Uesaki. Y. C. Zhu, Y. Matsumoto and T. Shibata, Mater. Sci. Eng., A266 , pp267, 1999. !ref 4 ,G. Schumacher, F. Dettenwanger, M. Schutze, U. Hornauer, E. Ricther, E Wieser and W. Moller, Intermetallics 7, pp1113 , 1999. !ref 5, X.Y.Li, S.Taniguchi, Y.C.Zhu, K.Fujita, N. Iwamoto, Y.Matsunaga and K.Nakagawa, Mater. Sci. Eng., A316, pp225, 2001. !ref 6,Y.G.Zhang, X. Y. Li, C.Q. Chen, T.H. Zhang, X. J. Zhang and H.X. Zhang, Structural intermetallics, The Minerals, Metals and Materials Society, pp353, 1997. !ref 7 , S. Taniguchi, T. Kuwayama, Y.C. Zhu, Y. Matsumoto and T. Shibata: Mater. Sci. Eng. A277 , pp229, 2000.
+
+10
+

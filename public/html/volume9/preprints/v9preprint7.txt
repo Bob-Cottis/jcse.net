@@ -1,0 +1,349 @@
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+The Electrochemical Performance of Flame Sprayed & High Velocity Oxy-Fuel Sprayed Aluminium Coatings In Simulated Splash Zone Service Conditions
+
+Iqbal Hussain Corrosion & Protection Centre, University of Manchester, Sackville Street, M60 1QD, UK ihussain@oceaneering.com David Scantlebury Corrosion & Protection Centre, University of Manchester, Sackville Street, M60 1QD, UK david.scantlebury@manchester.ac.uk David Fairhurst Upstream Technology Group, BP Exploration Operating Co. Ltd., Chertsey Road, Sunbury on Thames, Middlesex, TW16 7LN, UK fairhurd@bp.com
+
+The operating performance of thermally sprayed aluminium (TSA) coatings in seawater environments has been very well documented. However, the performance of flame sprayed aluminium (FSA) and high velocity oxygen fuel (HVOF) sprayed aluminium coatings in accelerated marine splash zone service conditions has not been previously investigated. Such data is useful for offshore structures requiring protection in the splash zone. Twelve-month exposure tests were conducted in artificial seawater (ASW) under laboratory conditions in a purpose built accelerated splash zone test chamber. The corrosion rate of mild steel in this environment was found to be 0.40 mm/yr by weight loss measurements. The performance of TSA coatings was quantified in terms of their ability to adequately cathodically protect a small area of bare mild steel, by determining their corrosion rates and their corresponding service life in this environment.
+
+Introduction
+Traditionally, offshore protection systems employed for splash zone service conditions have consisted of a heavy-duty coal tar epoxy, a glass flake epoxy [1] or that of a petrolatum tape system [2]. Recent studies have shown that some of these protection systems work very well under such conditions [3-4]. However, none of these systems provide protection to the underlying substrate should it become exposed through general deterioration (wear and tear) or through mechanical damage, which inevitably occurs. Hence, alternative coating systems have been sought. Protection
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 1 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+of the substrate exposed at damaged areas may be achieved through the application of TSA coatings. Much research has been carried out into the protection qualities afforded by TSA coatings, especially under immersion conditions [5-14]. Generally, TSA coatings are thought to provide corrosion protection to steel substrates by functioning primarily as a barrier system excluding both water and oxygen from the surface of the substrate and secondly, by cathodic protection (CP) of exposed steel at coating discontinuities, if required [6]. TSA coatings offer distinct advantages both mechanically and physically and can also be used in conjunction with traditional methods of sub-sea cathodic protection, resulting in a significantly lower overall current demand and an enhanced spread of protection in areas where current shielding may otherwise occur [7] . Previous studies for evaluating the potential application and performance of TSA coatings to provide effective corrosion protection of steel in splash zone service conditions have consisted of either long term field testing or laboratory investigations [5-12] . These studies have shown that TSA coatings offer a tough barrier coating and effective cathodic protection in all marine areas, including immersion zones, splash zones and in marine atmospheric zones. However, these studies have not provided any data quantifying the corrosion control performance and comparative mechanistic information for FSA and HVOF sprayed aluminium coatings under accelerated splash zone conditions. As a result, exposure tests were conducted in ASW [15] under laboratory conditions for a period of 12 months to develop information and data for these coatings. In the studies described, corrosion control performance was assessed and determined through potentiodynamic (dynamic) polarisation measurements, potential measurements, linear polarisation resistance measurements and galvanic current measurements. Quality control checks for the coated specimens, such as coating thickness, coating porosity and coating adhesion were also carried out and are discussed. Thermally Sprayed Metallic Coatings The metals used and the application systems employed in thermal spraying vary, but most applications result in thin and mechanically strong coatings. Details of the range of specific application processes and techniques can be found elsewhere [16-17]. Thermally sprayed coatings inherently contain porosity, which stems from the application process. The spraying application technique gives rise to a specific morphology and results in a coating considerably different chemically and structurally from its compositional bulk equivalent. For thermally sprayed coatings, a sealer coating is commonly used to seal the porosity and improve performance in immersion service conditions increasing the total life of the coating system. Sealers consisting of aluminium pigmented vinyl or silicone resin are typically used, with aluminiumsilicone allegedly providing better seal coating performance [6]. For acceptable CP contribution, the thickness of the sealer is critical and is typically 25µm or less [14].
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 2 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+For the purposes of this study, no sealer coatings were used. However, the influence of sealed coatings on the performance for the two types of mentioned coatings in splash zone service conditions can be found elsewhere [18-20].
+
+Exposure Test Conditions
+The exposure tests were conducted in ASW under laboratory conditions at the Corrosion & Protection Centre, UMIST, Manchester, UK. The splash zone test chamber (figure 1) set-up and operational procedure is identical to that reported by Hussain [20]. Control of the exposure test conditions included routine pH adjustment with a change of ASW at the six-month interval.
+
+Head Tank
+
+Motor
+
+Timer
+
+Holiday (defect) Flood line Splash Zone Test Chamber TSA samples
+
+Steady state rest line A schematic of the simulated splash zone Reservoir Pump
+
+Figure 1: A simplified schematic of the marine service test chamber showing TSA sample configuration in the simulated splash zone. Test Samples Aluminium wire (99.5% Al) consumable was fed through a computerised spray control system and thermally sprayed onto two 25 cm2 (10 cm x 2.5 cm x 0.4 cm), abrasively blasted mild steel coupons (figures 2 & 3). The mild steel coupons were new, bright, uncorroded and free form millscale. The coatings were applied in a series of spray passes, using a rotating turntable lathe to obtain a nominal 100 µm aluminium coating thickness for both application processes. Coating thickness was verified by digital micrometer on site and at a later stage by scanning electron microscopy (SEM) (figures 4 & 5). The mild steel panels were prepared in lots with detailed measurements of surface finish and profile, FSA & HVOF coating parameters, coating thickness and porosity for each lot. The coating process parameters and characteristics together with surface preparation characteristics are
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 3 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+shown in table 1. The reverse sides and edges of both coupons were sealed with epoxy paint to produce an active and exposed coated surface of 17 cm2. The TSA coated mild steel coupons were prepared with a deliberate holiday using a flat-ended 3 mm diameter drill to expose the underlying mild steel substrate. This produced an area ratio of 240:1 of coating to bare steel, a ratio that is believed to be typical for such coatings in actual service conditions [21]. Figures 2 to 5 show digital photographs and cross-sectioned SEM images of the coated specimens. Figures 2 and 3 show the coated mild steel coupons without the holidays but each with a hole through the entire thickness of the coupons so that the coated specimens could be turned into electrodes.
+
+Flame Sprayed HVOF Sprayed Specimen Specimen Abrasive Blast Medium Copper Slag Copper Slag Blast medium Grain Size 0.2 ­ 0.7 mm 0.2 ­ 0.7 mm Steel Surface Profile 50 µm 50 µm Steel Surface Cleanliness [22] Sa 3 Sa 3 Supply Air Pressure 65 psi 100 psi Spray Distance 175 mm 200 mm Flame Temperature < 2800 ºC > 3000 ºC Coating Thickness 100 µm 100 µm Coating Porosity < 5% < 2% Coating Oxidation 0.505 wt. % 0.200 wt. % Table 1: Characteristics & parameters of test specimens.
+
+Parameters
+
+Figure 2: FSA coated mild steel specimen.
+
+Figure 3: HVOF coated mild steel specimen.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 4 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+Coating
+
+50  m Substrate
+
+Figure 4: SEM micrograph (BSE x250) of the FSA coated mild steel coupon.
+
+Coating
+
+50  m Substrate
+
+Figure 5: SEM micrograph (BSE x250) of the HVOF coated mild steel coupon.
+
+Experimental Procedure
+The TSA coated mild steel coupons were exposed to the simulated splash zone of the marine service test chamber continuously, 24 hours a day, 7 days a week for 52 weeks. However, in order to ascertain data on corrosion control performance, the TSA coated specimens had to be removed from the simulated splash zone of the marine service test chamber and corrosion control testing would have to be carried out elsewhere (i.e. remote testing). Corrosion control testing of the TSA coated specimens was carried out once every two weeks per experimental technique throughout the exposure period during which the operation of the marine service test chamber would be shut down. Once corrosion control testing of the specimens had been completed, they were then re-placed back into the simulated splash zone of the marine service test chamber, in which the operation of the test chamber would re-commence. In total, the TSA coated mild steel coupons were only removed from the simulated splash zone of the marine service test chamber for a period of 12 hours every two weeks so that corrosion control testing could be carried out. However, because of limited automation of test equipment and apparatus the 12 hours of corrosion control testing were staggered over 2 days so that the author could be on site to adjust certain experimental parameters and variables. Potential measurements and linear polarisation measurements were carried out by remote testing on day 1, after which the TSA coated specimens would then be re-
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 5 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+placed back into the simulated splash zone of the marine service test chamber. Galvanic current measurements were carried out the following day (day 2) and were also conducted through remote testing. All the procedures, results and discussion for each of the corrosion tests are described in the following sections. Also described are assessments by visual inspection together with adhesion tests for each of the coated specimens.
+
+Results & Discussion
+Visual Assessments Visually examining figures 6 and 7, it is clear that both coated specimens are covered with surface scales, which were initially assumed to be aluminium corrosion product aluminium oxide/hydroxide. The formation of these surface scales on these coated specimens is attributed to the corrosion of the aluminium coatings and an in depth discussion on the formation of such scales can be found elsewhere [23-24]. Figures 6 and 7 also show that aluminium corrosion product had formed quite voluminously at the interface to the epoxy paint coating and the TSA coated specimens. This is probably most likely due to the formation of crevices between the TSA coatings and the epoxy paint thus inducing crevice corrosion and the subsequent precipitation and formation of aluminium corrosion product. These thick `crusty' white scales were initially assumed to be Al2 (OH)3 (aluminium hydroxide), which is known to age with time to form Al2O3.3H 2O [25]. This was later verified by energy dispersive x-ray analysis (EDX) to be just as assumed, containing high levels of aluminium and oxygen. Nevertheless, it would appear that both coated specimens have not suffered any form of degradation in the form of blistering and/or breakdown from the rigours of the splash zone test chamber. Visually assessing figures 8 and 9, it would appear that protection had been afforded to the bare steel areas (holidays) on both coated specimens. The exposed bare steel areas appeared to be covered with surface scales. However, as mentioned above, a similar blocking of the exposed bare steel areas by aluminium corrosion product appears highly unlikely. The most probable anodic reaction at the exposed bare steel surfaces would be the dissolution of iron and the amount of ferrous oxide compounds visible on these particular areas of the panels would not appear to be of the required quantity and nature to have a significant effect on the resulting corrosion potential of the coated specimens. Nevertheless, all exposed bare steel areas appear to be protected with no damage to the surrounding coatings. A closer analysis of the scales found on the exposed bare steel areas of coated specimen shows a deposit of a different kind to that observed and analysed on the general surface areas of the coatings. An SEM study with EDX analysis thus showed the presence of calcareous deposits, consisting mainly of calcium and magnesium carbonates, oxides and hydroxides. The formation of such deposits (calcareous scales) are due to a local increase in pH, caused by the reduction in oxygen at cathode areas [23-24]. These precipitates formed on exposed bare steel areas have been shown to be sufficiently dense and resilient to effectively block the cathode thus effectively slowing down the corrosion reaction that consumes the anode, provided that the
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 6 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+[23-24] [19-20]
+
+6 February 2006
+
+current density would not be too high . However, Hussain et al in other studies has reported that calcareous scales that had developed in holiday regions of FSA/HVOF sprayed aluminium coated specimens when exposed under identical test conditions were not as tenacious (thick) or tightly adhered to the base metal as was expected and that breakdown of the scale (calcareous) was evident on some of the coated specimens. Hussain et al [19-20] stated that this breakdown of the scale did not lead to any adverse effects on the bare steel areas and attributed the breakdown of the scales to the vigorous nature of testing, suggesting that the scales may have gone through cycles of forming, dislodging (breakdown) and re-forming.
+
+Figure 6: FSA coated mild steel specimen at the end of the 1-year exposure period.
+
+Figure 7: HVOF coated mild steel specimen at the end of the 1-year exposure period.
+
+Figure 8: FSA specimen.
+
+Figure 9: HVOF specimen.
+
+Figures 8 & 9: A close-up of the exposed bare steel (holiday) areas at the end of the 1-year exposure period (~ magnification x10). Adhesion Tests Tables 2 shows the results of adhesion tests carried out on both FSA and HVOF coated specimens before and after exposure to test conditions. Prior to the adhesion tests being carried out, all surface scales were removed using a weak nitric acid solution (2% HNO3) [26-27] and all adhesion tests were carried out through pull-off tests in accordance with ASTM: D4541-95 (Type III) [28] using cyanoacrylate adhesive. Other special precautions were also taken when these adhesion pull-off tests were
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 7 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+[20]
+
+6 February 2006
+
+being carried out and are reported elsewhere . Table 2 thus shows that 3 adhesion tests per coated specimen were carried out before and after exposure to test conditions. The adhesion test results were then averaged for each coated specimen so that an instant comparison could be made between tests carried out before and after exposure to test conditions. Table 2 shows that the adhesion values for both coated specimens are lower after 52 weeks of exposure to the rigours of the marine serviced test chamber. These lower values were expected after exposure to such conditions, as the constant impact of turbulent cycles of wetting within the simulated splash zone of the marine service test chamber are thought to have reduced the bonds between coating and substrate. As expected, the HVOF coated specimen exhibited superior adhesion before and after the exposure period compared to the FSA coated specimen, approximately a 20% difference in adhesion. This is mainly due to the differences in process parameters for the two spraying techniques as shown in table 1. It is also interesting to note the nature of failure for both types of coated specimen, especially for the HVOF coated specimen after the exposure test period. All except for one of the tests on the HVOF coated specimen suffered from glue failure even after the exposure to the rigours of the test conditions. This suggested that the bond between coating and substrate was in fact stronger than the bond between coating and dolly held together by the glue. This type of failure was not observed for most of the adhesion tests on the FSA coated specimen. Nevertheless, the lower adhesion values exhibited by the FSA coated specimen are believed to be suitable for offshore North Sea conditions as it has been stated that a minimum FSA adhesion strength of 600 psi is currently required for offshore structures [29]. However, it should also be remembered that these coatings were produced using the latest spraying technology and the results obtained onshore under indoor conditions would most likely be different to the results obtained in the field under offshore tidal/weather conditions. It has also been stated that adhesion tests and the results obtained are poorly reproducible [30]. TSA Specimen Test 1 Test 2 FSA (before exposure) 900 (CF) 1625 (GF) FSA (after exposure) 1200 (CF) 825 (AF) HVOF (before exposure) 1200 (GF) 1650 (GF) HVOF (after exposure) 900 (CF) 1900 (GF) Test 3 Average (psi) 1200 (CF) 1242 1000 (CF) 1001 1600 (GF) 1483 1200 (GF) 1333
+
+Where, AF = Adhesive Failure, CF = Cohesive Failure, GF = Glue Failure
+
+Table 2: Adhesion results in lb/in 2 on both FSA & HVOF coated specimens before and after exposure to test conditions. Potentiodynamic Polarisation Figure 10 shows polarisation curves for the FSA/HVOF feedstock consumable materials together with polarisation curves for new as sprayed FSA/HVOF coatings and polarisation curves for the FSA/HVOF coated specimens after 52 weeks of exposure to the test conditions. All polarisation scans were obtained with the aid of `Autotafel' [31] software at a scan rate of 1 mV/s using a saturated calomel reference
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 8 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+electrode (SCE) in a scan range from ­1400 mV to ­250 mV. The solution was fully oxygenated with the oxygen content maintained at 8 ppm. Figure 10 thus shows that both consumable aluminium feedstock wires exhibit a characteristic corrosion potential for aluminium in seawater, ~ -750 mV (SCE). However, upon thermal spraying, the new freshly sprayed coatings exhibit a new and a more active corrosion potential of around ­1100 mV (SCE). This change in potential is considered to be due to changes in the oxide film caused by the thermal spraying process [21,32]. It is not entirely clear how these changes in the oxide film are brought about, as it is believed that there is no mechanistic or qualitative information available in literature. However, it is thought that these changes are mainly due to rapid cooling/quenching and subsequent rapid solidification (constitutional supercooling) of the aluminium molten spray particles upon thermal spraying [17]. An in depth discussion of the mechanistic aspects of thermal spraying can be found elsewhere [17]. After 52 weeks of exposure to test conditions, the corrosion potential of both coatings shift in the positive direction by almost 200 mV and exhibits a decrease in current density by approximately one order of magnitude as compared to that of a freshly applied coating. Thus, the polarisation curves as shown in figure 10, especially for the FSA coated specimen, before and after exposure to the test conditions seems to be fairly representative when compared to previous studies [11,26,30,33] for similar exposure time periods under marine service conditions. Figure 10 also shows that after the exposure test period, there is a decrease (approximately half an order of magnitude) in the anodic current density in the passive region for both coated specimens. This would indicate a slight improvement of the corrosion protection properties. However, this decrease in anodic current density in the passive region may have taken place well before the latter stages of the exposure test period. Vreijling [30] has shown that significant changes in the anodic current density in the passive region especially for FSA coatings take place well within the first twelve weeks of exposure to marine service test conditions after which there is minimal change. The decrease in current density and the shift of the corrosion potential in the positive direction is most likely to be attributed to the coatings becoming less active in the sense that the pores in the coating are becoming blocked by aluminium corrosion product, effectively sheilding the steel substrate and perhaps the coating from the corrosive electrolyte [10,30]. Initially, the freshly applied coatings are expected to exhibit a large number of open pores, resulting in the direct exposure of the substrate to the corrosive electrolyte and therefore the subsequent rapid corrosion of the adjacent aluminium coating through galvanic interaction. This will result in the localised development of insoluble aluminium corrosion product (aluminium oxides), which will settle in the pores thus blocking the exposure of the steel substrate to the corrosive electrolyte [10,26,30,34]. Ultimately, this process will prevent the flow of ions to the steel substrate, eliminating the driving force for galvanic corrosion [26,30]. A more extensive discussion on the `blocking' action of corrosion products can be found elsewhere [26,30]. Given that HVOF sprayed aluminium coatings are known to exhibit a smaller percentage and smaller sized pores than that of FSA coatings [21,35], it is therefore reasonable to assume that the decrease in the anodic current density for the HVOF
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 9 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+coated specimen may have taken place well before the time taken for the same effects to have taken place for the FSA coated specimen. The only way to prove this for both types of coating would be to carry out dynamic polarisation runs throughout the entire exposure period on representative specimens. Thus, for the duration of the exposure test conditions for this study, a polarisation curve obtained, for example at week twelve should not be too different than a polarisation curve obtained at week fifty-two for the same coating.
+0
+
+- 200
+
+- 400
+
+Pot e ntia l, E (m V ) - SC E
+
+- 600
+
+- 800
+
+-1 0 0 0
+
+-1 2 0 0
+
+F S A (F e e d st o ck) H V O F (F e e d s to c k) F S A (N e w )
+
+-1 4 0 0
+
+H V O F (N e w ) F S A (A f te r 5 2 w e e ks ) H V O F (Af te r 5 2 w e e ks)
+
+-1 6 0 0 -7 -6 -5 -4 -3 -2 L o g i (m A /c m )
+2
+
+-1
+
+0
+
+1
+
+2
+
+3
+
+Figure 10: Polarisation curves for aluminium feedstock materials and for both types of thermally sprayed coating before and after exposure to the test conditions. Potential Measurements Figure 11 shows the potential measurements for both coated specimens, obtained under de-oxygenated conditions in ASW. De-oxygenated ASW was used so that the variability of dissolved oxygen concentration could be removed from the experiment, since dissolved oxygen concentration is highly susceptible to potential measurements [21,32] . The potential measurements were monitored with respect to a SCE using a high impedance digital voltmeter. Figure 11 thus shows that the corrosion potential for both coated specimens change with time and seem to behave quite similarly over the entire exposure period with a continuous trend towards less negative potentials. During the first four weeks, the corrosion potentials of both specimens appear slightly unstable and it is only after week four that a continuous trend towards less negative potentials takes hold. Thus, for prediction of long-term behaviour, only data after week 4 should be used. The unstable changes in potential that occurred during the initial exposure period are considered to be due to changes in the area ratios for the cathode and anode reactions [7,10,14] . These changes are thus mainly due to the exposed mild steel (holiday) on each
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 10 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+coated specimen together with the amount of open porosity leading to the direct exposure of the substrate during the early stages of exposure. Nevertheless, the tendency towards less negative potentials exhibited by both coated specimens except throughout the duration of the exposure test period is most likely to be due to the build-up of an aluminium oxide film creating less active anode sites [10]. It may also be due to the dissolution of the aluminium inside the aluminium coating porosity [1011] . Figure 11 also shows that the corrosion potential for both coated specimens are similar to that reported by others [10,13] for marine service conditions and are well within the NACE potential criterion of ­0.780 V (SCE) for adequate cathodic protection [36] by the end of the exposure period. However, the potential measurements reported in this study were obtained under de-oxygenated conditions and Hussain et al [20] have shown that for almost identical FSA/HVOF sprayed aluminium coated specimens and identical exposure test conditions but with potential measurements conducted under oxygenated conditions with dissolved oxygen concentration being maintained at 8 ppm, potentials tend to be more electropositive by approximately 100 mV. The trend towards more positive corrosion potentials may possibly be due to the vigorous nature of testing, but are more likely to be due to perturbations in the experimental procedures for corrosion control testing. These perturbations are most likely to be due to shutting down of the marine service test chamber so that the coated specimens could be removed in order to carry out the above-mentioned tests. Other perturbations in the experimental procedures for corrosion control testing included the removal of the coated specimens from the splash zone test chamber so that digital photographing of the coated specimens could be carried out and the change/replenishment of test solution within the splash zone test chamber. During corrosion control testing, digital photography and the replacement (replenishing) of test solution, it was observed these perturbations allowed the coated specimens to become dry. It was noticed that some passivation of the coatings had occurred as aluminium oxide had developed on the surfaces of the specimens. It is therefore believed that all these perturbations and the subsequent formation of aluminium oxide may in fact be partly responsible for the continuous trend towards less negative potentials. Similar perturbations affecting long-term corrosion monitoring of TSA/FSA coated specimens have also been reported by Thomason [11]. Thomason has reported that perturbations of this nature, in which FSA coated specimens become dry, subsequently require several days to become re-activated upon re-exposure and thus reach equilibrium potentials. Thomason [11] attributed this behaviour to the formation of aluminium oxide on FSA coated specimens upon removal from test conditions and before they were re-exposed. Generally it may stated that the anodic properties of the TSA coated specimens will change with time and that the corrosion potentials will become more positive as the aluminium coatings become less active [10]. Since the both coated specimens were visually assessed to be in very good condition after 52 weeks of exposure to such vigorous test conditions, it is believed that the consistent trend towards less negative potentials for the coated specimens is most likely to be due to the frequent occurrence of perturbations within the experimental procedures for corrosion control testing.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 11 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+[30]
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+However, Vreijling has shown that TSA/FSA coatings exposed to high flow rate (0.5 m/s) seawater conditions show signs of activation and thus approach the corrosion potential of carbon steels, but occasionally drop to levels corresponding to aluminium. Vreijling [30] attributed this behaviour to the mechanism of pore plugging by corrosion products and the subsequent removal of corrosion products by exposure to such test conditions. Vreijling [30] thus indicated the risks of using FSA coatings under such exposure conditions.
+-0 .80 0
+
+-0 .90 0
+
+-1 .00 0
+Potential, E (V ) - S CE
+
+-1 .10 0
+
+-1 .20 0 FS A C oa ted Spe c im en H VO F C oat ed Spe cim en -1 .30 0
+
+-1 .40 0 0 10 20 T im e (W ee ks ) 30 40 50
+
+Figure 11: Potential measurements for both coated specimens throughout the entire exposure test period. Linear Polarisation Resistance (LPR) Measurements Figure 12 shows the results of linear polarisation resistance measurements (1/Rp) obtained under deoxygenated conditions for both coated specimens in which an indication of the corrosion rates for both coated specimens can be obtained. Figure 12 thus shows that during the initial stages of exposure, the corrosion rates for both coated specimens are relatively high, in which defects (if any) and pores in the coatings are being blocked. This initial phase is then followed by a second phase, in which the substrates and perhaps some parts of the surfaces of the coated specimens are effectively shielded from the corrosive electrolyte. For the FSA coated specimen, the complete shielding of its substrate and perhaps part shielding of the coated surface take place approximately after approximately fortytwo weeks of exposure to the test conditions. The transient as shown by figure 12 for the FSA coated specimen thus shows that no further improvement of the corrosion protection properties was achieved after week forty-two and that all open pores and micro-pores exhibited by the FSA coated specimen during the initial phase of exposure were subsequently blocked before the start of the second phase. For the
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 12 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+HVOF coated specimen, this transition in phases took place at approximately week thirty-six, after which there is minimal change. Nevertheless, it would appear that the corrosion rates for both coated specimens are identical after the exposure test period. The generally low corrosion rates exhibited by both the coated specimens at the end of the exposure test period may therefore be attributed to the blocking of the pores in the coating by aluminium corrosion product, Al(OH)3 (aluminium hydroxide) and the stifling action of an aluminium oxide (Al2O3) film formation on the surfaces of the coated specimens.
+
+1.0 0E-0 3
+
+9.0 0E-0 4 FSA C oat ed Spe cim en H VO F C o ate d Spec im e n 8.0 0E-0 4
+
+7.0 0E-0 4
+1/Rp (Ohms.cm ) - (S CE)
+
+6.0 0E-0 4
+
+2 -1
+
+5.0 0E-0 4
+
+4.0 0E-0 4
+
+3.0 0E-0 4
+
+2.0 0E-0 4
+
+1.0 0E-0 4
+
+0. 00 E+0 0 0 10 20 T im e (W ee ks ) 30 40 50
+
+Figure 12: LPR measurements for both coated specimens throughout the entire exposure test period. Galvanic Current Measurements Galvanic current measurements were carried out by introducing the defect (holiday) on each of the coated specimens as a separate electrode of the same material as the coating substrate (mild steel) and at the same size of the defect on each of the coated specimens. The TSA coated specimens were then coupled to the separate bare mild steel electrodes via a zero resistance ammeter to enable galvanic current measurements. Galvanic current measurements of the TSA coated specimens and their bare steel couples were carried out in ASW under oxygenated conditions with dissolved oxygen concentration maintained at 8 ppm. Prior to every time galvanic current measurements were conducted, the bare mild electrodes were introduced as `fresh/clean' (free from any form of corrosion) mild steel. This enabled an assessment of the ability of the TSA coated specimens to provide galvanic protection to the `fresh/clean' bare steel electrodes and an assessment of how this varied over the
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 13 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+entire exposure period as a result of the TSA coated specimens being subjected to the rigours of the splash zone test chamber. Figure 13 thus shows the variation with time of the galvanic current for TSA coated specimens (anode) and the separate mild steel electrodes (cathode). The transients for both coated specimens show an initial sharp decrease in galvanic current exhibited by both coated specimens followed by a more steady, but erratic decrease in the galvanic current. The decrease in galvanic current exhibited by the coated specimens throughout the exposure period is likely to be attributed to the steady build-up of aluminium corrosion product on the surfaces of the coated specimens as a result of the corrosion of the TSA coated surfaces. Figure 13 also shows that there are variations in the galvanic current flow throughout the entire exposure period. These variations in galvanic current flow may possibly be explained by the vigorous nature of testing in that the development of surface scales (aluminium corrosion product) on the surfaces of the coated specimens may have gone through cycles of forming, dislodging and re-forming, thus resulting in the variations of current flow between the TSA coatings (anode) and the separate mild steel electrodes (cathode). Nevertheless, throughout the entire exposure period, the galvanic current between the TSA coatings and the separate mild steel electrodes was considered adequate as the separate mild steel electrodes showed no signs of rust or any other form of degradation. It therefore appears that even after 52 weeks of exposure to the vigorous test conditions, both types of coating can still provide adequate cathodic protection to freshly exposed bare mild steel areas of at least that size.
+
+1.2 0E-0 2 FSA C o ate d Spec im e n H VO F C o ate d Sp ec im e n 1.0 0E-0 2
+
+8.0 0E-0 3
+Galvanic Current (mA)
+
+6.0 0E-0 3
+
+4.0 0E-0 3
+
+2.0 0E-0 3
+
+0. 00 E+0 0 0 10 20 Tim e (W e eks ) 30 40 50
+
+Figure 13: Galvanic current measurements for both coated specimens throughout the entire exposure test period.
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 14 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Coating Corrosion Rates
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+The corrosion rates for both the coated specimens may be determined from the linear polarisation measurements. However, as linear polarisation measurements were obtained under deoxygenated conditions, a more realistic approach would be to use the measured galvanic current and thus determine the corrosion rates through Faraday calculations as given by equation below [37]. Thus, taking the galvanic current value at the end of the exposure period, which is approximately the same for both the coated specimens, the corrosion rate for both the coated specimens may therefore be determined as follows: Corrosion Rate ( m/y) = K.
+
+ai 27  .143 0 = 3.27 x = 1.56  m/y. nD 3 .7 2
+
+Where `K' is a constant (3.27), `a' is the atomic weight of aluminium in grams (27g), `i' is the current density in  A/cm 2 (2 A/14cm 2 = 0.143 A/cm 2), `n' is the number of electrons lost - valence change for aluminium (3) and `D' is the density of aluminium in g/cm3 (2.7g/cm 3). The corrosion rate obtained at the end of the exposure period shows that the theoretical corrosion rate for both coated specimens is approximately 1.56  m/y, thus indicating a coating service life of about 64 years, that can be obtained from a nominal 100 thick unsealed FSA/HVOF coating. Other studies have indicated m similar TSA coating life spans in excess of 40, 50 and 60 years for splash zone service conditions as reported by Fischer et al [5-13], although with coatings of between 150 m to 200 in thickness. However, the calculated corrosion rate for the TSA coated m specimens and the subsequently determined TSA coating life span value reported in this study is based on the assumption that the TSA coatings operate with an efficiency of 100%. It is also believed that TSA coating lifespan values quoted in literature are also based on the assumption that TSA coatings operate with an efficiency of 100%, unless otherwise stated. An efficiency of 100 % for TSA coatings is highly unlikely, as aluminium sacrificial anodes have been reported to operate with efficiencies ranging from 85% to 90% in marine seawater environments [11,32]. The efficiency for TSA coatings would expectedly be much lower, since the prime function of TSA coatings are to act as mechanically strong corrosion resistant barriers [10,14] and not sacrificial anodes. The barrier properties of the coatings will be enhanced with time as more aluminium corrosion products seal the porosity and increase its service life. However, efficiencies for FSA coatings have been reported and Thomason [11] has reported efficiencies to be in the region of between 30% to 45% for unsealed FSA coatings under marine immersion service conditions. Thomason [11] has also stated that efficiencies of up to 50% for unsealed FSA coatings in marine immersion service conditions may be expected when the inefficiencies caused by the presence of aluminium oxide, coating porosity and the normal inefficiency of any sacrificial aluminium alloy are taken into account. These efficiency values may therefore be taken as an estimate for the FSA/HVOF coatings used in this study, thus reducing the calculated coating service lifespan as reported in this study to less than half.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 15 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+Conclusions
+ Quantitative data and mechanistic information has been developed with the aid of diagnostic techniques for unsealed FSA & HVOF sprayed aluminium coatings on exposure to a simulated marine splash zone test environment consisting of ASW under laboratory test conditions. The use of such diagnostic techniques suggests that both types of coatings exhibit reducing anodic capabilities throughout the duration of the exposure test period. It is believed that a reduction of the anodic capabilities of the coated specimens is due to the build-up of aluminium corrosion product, Al(OH3) (aluminium hydroxide) as a result of pitting and/or an aluminium oxide (Al2O3) film formation on the surfaces of the coatings creating less active anode sites. It is further believed that the growth of such surface films is rate determining for the behaviour of the coatings in marine service seawater environments and that the formation process and properties of this surface film on the coatings will thus control the behaviour of the coatings.  The prime functions of the FSA & HVOF sprayed aluminium coatings are to act as corrosion resistant barriers. This property of the coatings is enhanced with time as voluminous amounts of aluminium corrosion product had developed on the surfaces of the coated specimens. The development of aluminium corrosion product is thought to have sealed the porosity of the coatings, thus enhancing the barrier properties for the coated specimens, which in the long run may increase the service life of the coatings. It is also believed that the barrier properties of the coatings were further enhanced by the frequent occurrence of perturbations within the experimental procedures for corrosion control testing. These perturbations allowed the coated surfaces to become dry, which resulted in the passivation of the coatings and thus the subsequent precipitation of aluminium oxide on the surfaces of the coatings.  After 52 weeks of exposure to the simulated splash zone of the marine service test chamber, both FSA & HVOF sprayed aluminium coated specimens showed no visible signs of deterioration on the surface of the coatings or at the coating/substrate interfaces in the form of blistering and/or loss of adhesion. It is believed that, all open pores in the coatings were subsequently blocked by insoluble aluminium corrosion product as a result of galvanic interaction. It is further believed that this prevented the further ingress of the corrosive electrolyte through the coating and to the substrate, thus stifling any initial corrosion reaction that may have been taking place at the coating/substrate interface.  Both coated specimens provided the sole source of cathodic protection to their exposed bare steel areas (holidays). The holiday areas on each of the coated specimens were protected with calcareous scale and no deterioration of the coatings in close proximity to the bare steel areas was evident. It appeared that the calcareous scales that had developed in the holiday regions of the coated specimens were tenacious and tightly adhered to the base metal thus effectively, shielding and stifling the corrosion reaction that was thought to be consuming the anode.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 16 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+ The FSA & HVOF sprayed aluminium coated specimens exposed in a freely corroding state under de-oxygenated conditions exhibit an average corrosion potential of about approximately ­975 mV (SCE) for the entire exposure period. However, throughout the entire exposure period, both coated specimens exhibited a continuous trend towards less negative potentials. It is believed that the continuous trend towards less negative potentials for the coated specimens was as a result of the frequent occurrence of perturbations within the experimental procedures for corrosion control testing. It is therefore believed that these perturbations reduced the anodic capabilities of the coatings, but at the same time enhanced their barrier properties.  Diagnostic/electrochemical corrosion testing techniques have shown that there is no difference in the electrochemical performance between the FSA coated specimen and the HVOF coated specimen in simulated splash zone service conditions except for that of adhesion. Based on the data ascertained from the galvanic current measurements, it may therefore be expected that the service lifespan for the FSA & the HVOF sprayed aluminium coatings with their given holiday area ratios are not likely to be more than 32 years for the given environment, assuming an upper level efficiency of 50%.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 17 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+References
+
+1. The Marine Technology Directorate Ltd., Design & Operational Guidance On Cathodic Protection of Offshore Structures, Subsea Installations & Pipelines, ISBN 1-870553-04-7, 1990. 2. Bird, M.F., Smith, H.M., Bowley, C.V., Protection of Offshore Structures Against Corrosion, Corrosion 89, Paper No. 213, NACE Internataional, Houston-TX, USA, 1989. 3. Lye, R.E., Splash Zone Protection On Offshore Platforms ­ A Norwegian Operator's Experience, Materials Performance, April 2001. 4. Smith, M., Bowley, C., Williams, L., In Situ Protection of Splash Zones ­ 30 Years On, Materials Performance, October 2002. 5. Fischer, K.P., Thomason, Rosbrook, T., Murali, J., Performance of Thermal Sprayed Aluminium Coatings In The Splash Zone & For Riser Service, Paper No. 499, Corrosion 94, NACE International, Houston-TX, USA, 1994. 6. Roosbrook, T., Thomason, W.H., Byrd, J.D., Flame Sprayed Aluminium Coatings Used On Subsea Components, Materials Performance, September 1989. 7. Gartland, P.O., Eggen, T.G., Cathodic & Anodic Properties of Thermally Sprayed Al- & Zn- Based Coatings In Seawater, Paper No. 367, Corrosion 90, NACE International, Houston-TX, USA, 1990. 8. American Welding Society AWS C2.14-74, Corrosion Tests On Flame Sprayed Coated Steel ­ 19 Year Report, American Welding Society, USA, 1974. 9. Thomason, W.H., Offshore Corrosion Protection With Thermally Sprayed Aluminium, Offshore Technology Conference Proceedings, Paper No. OTC 4971, Houston-TX, USA, 1985. 10. Fischer, K.P., Thomason, W.H., Finnegan,J.E., Electrochemical Performance of Flame Sprayed Aluminium Coatings of Steel In Seawater, Paper No. 360, Corrosion 87, NACE International, Houston-TX, USA, 1987. 11. Thomason, W.H., Cathodic Protection Of Submerged Steel With Thermal Sprayed Aluminium Coatings, Paper No. 338, Corrosion 84, NACE International, HoustonTX, USA, 1984. 12. Beitleman, A., Van Blaricum, V.L., Kumar, A., Performance of Coatings In Sea Water ­ A Field Study, Paper No. 439, Corrosion 93, NACE International, Houston-TX, USA, 1993. 13. Fischer, K.P., Thomason, Rosbrook, T., Murali, J., Performance of Thermal Sprayed Aluminium Coatings In The Splash Zone & For Riser Service, Paper No. 499, Corrosion 94, NACE International, Houston-TX, USA, 1994. 14. Wolfson, S.L., Corrosion Control of Subsea Piping Systems Using Thermal Sprayed Aluminium Coatings, Materials Performance, July 1996. 15. Artificial Seawater Corrosion Test Mixture, DEF 1053/BS 3900/BS 2011. 16. Grainger, S., Blunt, J., Engineering Coatings, Design & Applications, 2nd Edition, Woodhead Publishing Ltd., Suffolk, UK, 1998. 17. Powlowski, L., The Science & Engineering Of Thermally Sprayed Coatings, John Wiley & Sons Ltd., Chichester, UK, 1995. 18. Hussain, I., Scantlebury, J.D., Faihurst, D., The Influence of Surface Preparation & Sealer Coatings On The Performance of Flame Sprayed & High Velocity OxyFuel Sprayed Aluminium Coatings In Simulated Splash Zone Service Conditions, (To be published).
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 18 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 7
+
+6 February 2006
+
+19. Hussain, I., Scantlebury, J.D., Faihurst, D., The Cathodic Protection of Mild Steel by Flame Sprayed & High Velocity Oxy-Fuel Sprayed Aluminium Coatings In Simulated Splash Zone Service Conditions, (To be published). 20. Hussain, I., The Performance of Thermally Sprayed Aluminium Coatings In Marine Splash Zone Service Conditions, PhD Thesis, UMIST, UK, 2004. 21. Fairhurst, D., Private Communication, 2002. 22. BS 7079: Part A1: 1989, Specification For Rust Grades & Preparation Grades Of Uncoated Steel Substrates & Of Steel Substrates After Overall Removal Of Previous Coatings, British Standards Institution, London, UK, 1989. 23. Hartt, W.H., Culberson, C.H., Smith, S.W., Calcareous Deposits On Metal Surfaces In Seawater ­ A Critical Review, Paper No. 59, Corrosion 83, NACE International, Houston-TX, USA, 1983. 24. Wolfson, S.L., Hartt, W.H., An Initial Investigation of Calcareous Deposits Upon Cathodic Steel Surfaces In Seawater, Corrosion, Vol. 37, No. 2, p. 70, NACE International, Houston-TX, USA, 1981. 25. Pourbaix, M., Atlas of Electrochemical Equilibria In Aqueous Solutions, Cebelcorr, Brussels, Belguim, 1966. 26. Shaw, B.A., Moran, P.J., Characterisation of The Corrosion Behaviour Of ZincAluminium Thermal Spray Coatings, Paper No. 212, Corrosion 85, NACE International, Houston-TX, USA, 1985. 27. Turgoose, S., Private Communication, 2002. 28. ASTM Designation D 4541-95, Standard Test Method For Pull-Off Strength of Coatings Using portable Adhesion Testers, American Standard for Testing & Materials, USA, 1995. 29. Rosbrook, T., Swidzinski, M.A.M., Houghton, C.J., Thermal Sprayed Aluminium, Past, Present & Future, Paper No. 616, Corrosion 99, NACE International, Houston-TX, USA, 1999. 30. Vreijling, M.P.W., Electrochemical Characterisation Of Metallic Thermally Sprayed Coatings, ISBN 90-9012239-7, 1998. 31. ACM Research Instruments, UK. 32. Scantlebury, J.D., Private Communication, 2002. 33. Gartland, P.O., Cathodic Protection of Aluminium Coated Steel In Seawater, Paper No. 299, Corrosion 86, NACE International, Houston-TX, USA, 1986. 34. Shaw, B.A., Aylor, D.M., Barrier Coatings For The Protection Of Steel & Aluminium Alloys In The Marine Atmosphere, Eds. Dean, W.S., Lee, T.S., Degradation Of Metals In The Atmosphere, p. 206, ASTM, Philadelphia, USA, 1988. 35. Harvey, D., Private Communication, 2002. 36. NACE RP0176-94, Corrosion Control Of Steel Fixed Offshore Platforms Associated With Petroleum Production, NACE International, Houston-TX, USA, 1994. 37. Fontana, M.G., Corrosion Engineering, 3rd Edition, McGraw-Hill International, Singapore, 1987.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of 19 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

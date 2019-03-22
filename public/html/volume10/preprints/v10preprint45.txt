@@ -1,0 +1,222 @@
+ISSN 1466-8858
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+Corrosion Characteristics of Medical Grade AISI 316L Stainless Steel Surface after Electropolishing in a Magnetic Field
+T. Hryniewicz, 2R. Rokicki, 1K. Rokosz 1 Koszalin University of Technology Raclawicka 15-17, PL 75-620 Koszalin, Poland Tadeusz.Hryniewicz@tu.koszalin.pl 2 ElectroBright, Macungie PA, USA info@electrobright.com ABSTRACT Stainless steel materials are widely used for multiple applications due to their good mechanical properties and very good corrosion resistance in a number of environments. They are also used as biomaterials to manufacture conventional and novel medical devices. The stability of surface oxide layer is one of the most important features of a biomaterial used for that kind of applications. The electrochemical polishing (EP) is the most extensively used surface technology for stainless steel materials known for years. We have developed this surface technology by introducing a magnetic field for that treatment. With the new process called the magnetoelectropolishing (MEP) we can improve metal surface properties by making the stainless steel more resistant for halides encountered in a variety of body fluids, such as blood, saliva, urine, etc. In the paper, the corrosion research results are presented concerning the behaviour of the most commonly used material that is medical grade AISI 316L stainless steel, applied for the human body implants, stents, and devices. Three basic environments have been adopted for the studies, changing from pure distilled water, through the Ringer's body fluid, and 3% NaCl aqueous solution, known as the most aggressive environment. The study results cover open circuit potential, and polarization curves characteristics of austenitic stainless steels (304, 304L, 316, 316L), and a ferritic stainless steel (430). The comparison of the corrosion behaviour of the stainless steels surface after two electropolishing processes carried out: (a) in the absence (EP), and (b) in the presence of the magnetic field is reported. It has been found that the proposed magnetoelectropolishing (MEP) process shifts the corrosion potentials into the direction of more corrosion resistant materials without changing its bulk composition. Key words: stainless steels, magnetoelectropolishing, corrosion resistance 1. Introduction Specialty stainless steel alloy 316L and its medical grade is used extensively in pharmaceutical, semiconductors and body implants due to its superior corrosion resistance, smoothness, biocompatibility and cleanability after electropolishing treatment [1-3]. The remarkable improvement in corrosion resistance of electropolished surfaces of austenitic stainless steels are caused by several interconnected events occurring during the
+1
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 1 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+electropolishing process. The first of these is the removal of the Beilby layer that consists of inclusions of martensitic phase, foreign material, preexisting oxides, etc, created by forming, machining and mechanical polishing. The second is to create a new corrosion resistant layer that is enriched in chromium oxide due to the anomalous co-dissolution of austenitic steels. The third is to improve the surface smoothness by dissolving the surface peaks preferentially to the surface depressions. The fourth event is the eqipotentializing of grain boundaries on metallic materials [2-9]. Different surface treatments are commonly performed on medical implant materials to promote corrosion resistance and biocompatibility. For many years now, electropolishing (EP) used to be recognized as one of the available surface treatments to smooth the surface and to perform the surface passivation on biomaterials. For a given material, the oxide properties are a function of the EP parameters such as applied current density, voltage, temperature, and the composition and concentration of the chemicals used. A stable oxide layer on the passivated metal surface will promote its corrosion resistance and biocompatibility of the implant material in physiological conditions. This passivity could be enhanced by modifying the thickness, morphology, or chemical composition of the surface oxide layer by different treatments [2, 7-10]. The use of externally applied magnetic field to the EP process provides the treated surface with some new properties and better characteristics, concerning microroughness, hydrophilicity, corrosion resistance, and oxide film morphology. The higher level of metal finishing seems to be very interesting for multiple applications, such as e.g. medical stents and implant devices. The addition of the external magnetic field also significantly minimizes microtopography by lowering microroughness and minimizing actual surface area in micro and nano scales of the various metallic materials [4, 5, 7-10]. The process of electropolishing becomes even more complex if the magnetic field is introduced to the system [6-10]. With the new electropolishing system, an externally applied magnetic force may enhance, or retard, the dissolution process. The electropolishing process is maintained under oxygen evolution to achieve an electropolished surface of the workpiece exhibiting reduced microroughness, better surface wetting and increased surface energy, reduced and more uniform corrosion resistance, minimization of external surface soiling and improved cleanability in shorter time periods. In the paper, the enhanced corrosion resistance of 316L stainless steel is proposed with a new advanced treatment method. 2. Experimental Procedure
+2.1. Material for samples
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+For the experiment, the medical grade AISI 316L stainless steel (Table 1) was used for the investigation. Three sets of AISI 316L stainless steel samples cut of the same sheet-metal of dimensions 30x40x2 mm have been used for the study of corrosion behaviour. The first 3 samples were treated by a standard electropolishing (EP), the second set of 3 samples were electropolished with the same electrolyte composition in the presence of a magnetic field (MEP) [8] ], and the third set of 3 samples were polished with an abrasive grit paper up to No. 800 (MP ­ abrasive polishing).
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 2 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+Table 1. Chemical composition of AISI 316L SS vm used for the experiments
+
+============================== Element Content, wt% ============================== Cr 17.38 Ni 13.78 Mo 2.76 Mn 1.84 Si 0.55 below 170 ppm P S " 10 ppm C " 180 ppm N " 710 ppm Cu " 610 ppm Fe BALANCE ==============================
+2.2. Samples preparation
+
+Mechanical abrasive polishing MP of samples was used as a reference. For both electrochemical polishing processes, standard electropolishing EP and magnetoelectropolishing MEP, the same type of a proprietary electrolyte was applied, being a mixture of sulphuric and orthophosphoric acids. During magnetoelectropolishing MEP the bath was unstirred and temperature was kept within 66-68 °C. Prior to corrosion studies the samples were thoroughly degreased in acetone.
+2.3. Corrosion measurements
+
+Corrosion studies after mechanical abrasive polishing (MP), and two different modes of electropolishing, in the absence (EP), and in the presence of a magnetic field (MEP), were carried out in three solutions: (1) pure distilled water, (2) a typical Ringer's physiological fluid, and (3) in an aqueous 3% NaCl solution, all at the same room temperature of 25 °C. The electrochemical system used for the corrosion measurements consisted of the potentiostat ATLAS 98 with the software IMP98, current platinum electrode Ept-101, and the saturated calomel electrode EK-101P used as a reference. Corrosion investigations were performed to obtain: (1) open circuit potential OCP (2) electrochemical impedance spectroscopy EIS, and (3) potentiodynamic polarisation curves. The corrosion measurements data were obtained in the range of potentials from -1000 mV to 1500 mV recorded every 5 mV with the rate of 1 mV/s. Electrochemical impedance spectroscopy results were obtained each time after holding the samples at open circuit potential for 60 minutes. Afterwards the polarisation curves were investigated, and having them the corrosion rates were calculated.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 3 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+3. Results
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+In the first picture (Fig. 1), the open circuit potential is given by presenting comparison of the corrosion behaviour of 316L SS samples after a standard electropolishing EP, and after magnetoelectropolishing MEP, in the Ringer's solution. The results show much better performance of the sample after MEP.
+
+Fig. 1. Open circuit potential of 316L SS obtained in Ringer's solution vs time plot after: A ­ magnetoelectropolishing MEP, B ­ standard electropolishing EP
+
+Some introductory Electrochemical impedance spectroscopy (EIS) characteristics have been presented in our earlier works [5, 6] and they indicated the EIS method is more appropriate to study the effectiveness of protective coatings rather than bare metals. Thus we switched into the investigation of polarisation curves. In Fig. 2, the polarisation curves are presented, showing corrosion behaviour of 316L SS surface after three treatments, abrasive polishing MP, standard electropolishing EP, and magnetoelectropolishing MEP, in the Ringer's solution. One may easily observe the best performance of 316L sample after MEP, the next being sample after EP, and the last is MP. In the next Fig. 3, the polarisation curves, showing corrosion behaviour of 316L SS surface after abrasive polishing MP, standard electropolishing EP, and magnetoelectropolishing MEP, were obtained in the distilled water. Here also the best performance of 316L sample is observed after MEP, the next being sample after EP, and the last is MP.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 4 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+AISI 316L SS in Ringer's 0,01 0,001 0,0001 1E-05 i [A/cm2] 1E-06 1E-07 -443 1E-08 1E-09 1E-10 -1000 -387 -422
+
+MP 316L
+-500 0 U [mV] 500
+
+EP 316L
+1000
+
+MEP 316L
+1500
+
+Figure 2. Polarisation curves of 316L SS obtained in Ringer's body fluid after three treatments: (a) MP ­ mechanical/abrasive polishing, (b) EP ­ standard electropolishing, (c) MEP ­ magnetoelectropolishing
+AISI 316L SS in distilled water
+1,00E-04
+
+1,00E-05
+
+1,00E-06 i [A/cm2] 1,00E-07
+
+1,00E-08 -449 -390
+
+-317
+
+MP 316L
+0 U [mV] 500
+
+EP 316L
+1000
+
+MEP 316L
+1500
+
+1,00E-09 -1000
+
+-500
+
+Fig. 3. Polarisation curves of 316L SS obtained in distilled water after three treatments: (a) MP ­ mechanical/abrasive polishing, (b) EP ­ standard electropolishing, (c) MEP ­ magnetoelectropolishing
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 5 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+Next experiment was the investigation in electrolyte of the aqueous 3% NaCl, and in Fig. 4 the polarisation curves of 316L SS surface are presented after MP, EP, and MEP. The experimental results show the best performance of 316L sample after MEP, then after EP, and the last is MP.
+
+AISI 316L SS in aqueous 3% NaCl
+1,00E-01 1,00E-02 1,00E-03 1,00E-04 i [A/cm2] 1,00E-05 1,00E-06 1,00E-07 1,00E-08 1,00E-09 1,00E-10 -1000
+
+-388 -452
+-500 0 U [mV]
+
+MP 316L
+500
+
+EP 316L
+1000
+
+MEP 316L
+1500
+
+Fig. 4. Polarisation curves of 316L SS obtained in aqueous 3% NaCl solution after three treatments: (a) MP ­ mechanical/abrasive polishing, (b) EP ­ standard electropolishing, (c) MEP ­ magnetoelectropolishing
+
+Figure 5 presents comparison of all polarisation curves obtained, covering three environments and three different treatments, with the close-up on the most important part of their course. Based on these results, the corrosion rates have been calculated. Figure 6 presents comparison of the obtained corrosion rates. It appears that the highest value of corrosion rate has been obtained for 316L SS sample surface after abrasive polishing, submerged in the Ringer's solution.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 6 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+AISI 316L SS
+1,00E-05 MP Ringer
+
+EP Ringer 1,00E-06 MEP Ringer
+
+i [A/cm2]
+
+MP water 1,00E-07 EP water
+
+-387 1,00E-08 -390 -422 -452 1,00E-09 -598 -498 -398
+
+MEP water -312 MP 3% NaCl
+
+EP 3% NaCl
+
+-298 U [mV]
+
+-198
+
+-98
+
+MEP 3% NaCl
+
+Fig. 5. Comparison of polarisation curves of 316L SS in three solutions after three treatments with the close-up serving for calculation of corrosion rates
+
+4. Discussion Medical grade 316L stainless steel was the subject of a thorough corrosion behaviour investigation. For the studies, three different surface treatments: MP, EP, and MEP, and three environments have been adopted. Well-defined and recognized electrochemical procedure was applied for the studies. To eliminate any other effects, the composition of the 316L SS sample material has been examined (see Table 1). Until recent time, the electropolishing process has been recognized as one of the best methods for obtaining fine metal surfaces with multiple positive characteristics. With the process of electropolishing in the presence of a magnetic field (MEP) we have improved these characteristics, specifically here revealing the increase in corrosion resistance in all studied environments (see Fig. 7). It is surely connected with more uniform surface finishing and more advantageous surface roughness parameters presented in our earlier work [8]. Last but not least is the surface layer of 316L SS after electrolytic polishing (EP) which consists of oxides and hydroxides of chromium and iron. Selvaduray and Trigwell [11] reported the atomic ratio of Cr : Fe in the 316L SS bulk equals to be 1 : 3.63, in our studies it is 1 : 3.65, the same ratio after abrasive polishing is 1 : 2.10, whereas after a standard electropolishing it equals 1 : 1.71. Our own investigation of the 316L SS surface layer after magnetoelectropolishing MEP indicates on the ratio Cr : Fe to be 1 : 0.71 [12]. It is much better than after a standard EP and seems to be the reason of improved surface properties.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 7 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+4,50E-03 4,00E-03 Corrosion Rate [mm/a] 3,50E-03 3,00E-03 2,50E-03 2,00E-03 1,50E-03 1,00E-03 5,00E-04 0,00E+00 Ringer MP 3% NaCl water EP MEP
+
+Ringer
+
+3% NaCl
+
+water
+
+Fig. 6. Comparison of corrosion rates of 316L SS in three solutions after three treatments, as calculated from the results presented in Fig. 5
+
+This change in composition of the surface film, that is much better after MEP with higher contents of Cr2O3, surely has a decisive influence on the 316L SS corrosion behaviour. Thus, presented with the paper, improved corrosion behaviour well coincides with the contribution of chromium content in the surface oxide film, as apparent in Fig. 7. 5. Conclusions This study shows the difference in corrosion behaviour of a medical grade 316L stainless steel between standard electropolished and magnetoelectropolished biomaterial surfaces. The above discussed changes have been achieved by applying a magnetic field to an EP process. The obtained results are evident and indicate a better corrosion resistance of 316L SS by decreased corrosion rate in the Ringer's body fluid, as well as in the aqueous 3% NaCl solution. These improvements may have a profound influence on bio- and haemocompatibility of metallic biomaterials.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 8 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+4.00 Atomic ratio Cr / Fe 3.00
+
+3.65
+
+Fe
+
+Cr
+
+2.10 2.00 1.00 0.00 Bulk MP EP MEP After T R E A T M E N T 1.71 0.71
+
+Fig. 7. Level of chromium (black) against iron content in 316L SS surface film after: MP ­ abrasive polishing, EP ­ electropolishing, MEP ­ magnetoelectropolishing, and bulk comparison
+
+The promising results have been presented concerning the basic biomaterial, the medical grade stainless steel of type 316L. Since the general mechanisms underlying the interaction between a metal and the body fluid, tissue and/or blood still remain an issue, these obtained results may serve to better performance of a variety of medical devices by considerably increased corrosion resistance of the studied biomaterial.
+
+References 1. A.J. Sedriks, Corrosion of Stainless Steels, 2nd ed., New York, New York Wiley, 1996 2. T. Hryniewicz, Elektrochemia dla In ynierii Powierzchni, Koszalin University of Technology, ed. by T. Hryniewicz, Koszalin, 2005, 386 pages. 3. T. Hryniewicz, Fizykochemiczne i technologiczne podstawy procesu elektropolerowania stali, Monografie 26, WSI Koszalin, 1989, 161 pages. 4. T. Hryniewicz, R. Rokicki, K. Rokosz, Met.Fin., 104(12) (2006) 26. 5. T. Hryniewicz, R. Rokicki, K. Rokosz, Metal Surface Modification by Magnetoelectropolishing, Proc. of 16th International Metallurgical & Materials Conference METAL 2007, 22-24 May 2007, Hradec nad Moravici, Czech Republic, Surf.Eng., D2, 1-8 6. T. Hryniewicz, R. Rokicki, K. Rokosz, Investigation of Corrosion Resistance of 316L Austenitic Steel after Electropolishing/Badanie odporno ci korozyjnej stali austenitycznej 316L po polerowaniu elektrolitycznym, Mater. X Slupsk. Forum Motoryzacji, Slupsk, 25 May 2007, 141-152
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 9 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+7. T. Hryniewicz, Rokicki R., On the surface modification of stainless steels, Proc. of 15th Annual Intl.Confer. on Composites/Nano-Engineering, ICCE-15, 15-21 July, 2007, Haikou, Hainan Island, China, ed. by David Hui, pp. 345-346 8. Rokicki R., (Machining) Magnetic Fields and Electropolished Metallic Implants, Medical Device & Design Industry, March 2006, 1-6. 9. Rokicki R., Apparatus and method for enhancing electropolishing utilizing magnetic fields, US Patent Appl. #2006124472 (USPTO), 15 June, 2006. 10. Hryniewicz T., Rokicki R., Rokosz K., Surface characterization of AISI 316L biomaterials obtained by electropolishing in a magnetic field, Surface & Coatings Technology, 2007 (to appear on 22 August 2007) 11. Selvaduray G., Trigwell S., Effect of Surface Treatment on Surface Characteristics of 316L Stainless Steel, Proc. of the Confer. Materials and Processes for Medical Devices, Boston MA, Nov. 14-18, 2005 12. T. Hryniewicz, S.J. Fernandes, R. Rokicki, Comparative Auger Studies of 316L Stainless Steel, PK+IST+EBM Project, Lisboa, November, 2006
+
+Volume 10, Preprint 45
+
+submitted 3 August 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 10 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

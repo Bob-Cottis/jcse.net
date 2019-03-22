@@ -1,0 +1,732 @@
+ISSN 1466-8858
+
+Volume 10 Paper 33 Effect of the Surface Porosity of hot Dip and Electrogalvanised Steel on the Shape of EIS Diagrams in Various Corrosive Media.
+Y. Hamlaoui1 , F . Pedraza 2, L. Tifouti 3 1Centre Universitaire de Souk-ahras BP 1553 Souk-ahras 41000 Algérie, Hamlaoui_youcef@yahoo.fr 2Laboratoire d'Etudes des Matériaux en Milieux agressifs (LEMMA). Université La Rochelle. 17042 La Rochelle Cedex 1 France, fpedraza@univ-lr.fr (3)Laboratoire génie d'environnement Université Badji Mokhtar BP 1223 El Hadjar Annaba -23000 Algérie, ltifouti@yahoo.fr
+Corresponding author : Youcef Hamlaoui : Hamlaoui_youcef@yahoo.fr
+
+Abstract:
+In this work, corrosion monitoring of Zn-based coatings is investigated through potentiodynamic, immersion and electrochemical impedance spectroscopy (EIS) methods. The first part of the study is devoted to galvanised coatings conventionally manufactured in the industry. The second part of the study focuses on the corrosion resistance of a laboratory-made electrolytic coating. For such purpose, the corrosion behaviour is studied in different media (NaCl, NaOH and rain water), at different concentrations and varying immersion times. The results show that EIS allows to establish the interfacial reactions and the dissolution mechanisms occurring in three corrosive media, hence to foresee the protection conferred by these coatings. The impedance diagrams of the coated steel do not provide information on the slowest reactions, which only occur in natural rain water. However, the salted media at different concentrations allow to unambiguously assess the coating quality in terms of porosity. Finally, each Zn/medium interface is characterised by a specific equivalent circuit giving a similar impedance response. It is concluded that EIS appears as a quick and reliable technique to evaluate the corrosion resistance of industrial coatings depending on the medium considered. Keywords: Keywords Electrochemical impedance spectroscopy, salt spray chamber, zinc, galvanised steel, corrosion.
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+1. INTRODUCTION
+Corrosion monitoring is typically carried out using electrochemical methods. Among these, AC impedance has been quoted to provide an upper estimate of the corrosion rate although the Tafel parameters relating corrosion rate and polarisation resistance need to be first evaluated [1]. However, electrochemical impedance spectroscopy (EIS) offers the advantage of providing enough insight on the formation and protection mechanisms of a given surface layer [2]. Using the EIS method, various sacrificial Zn-based coatings have been evaluated because of their industrial application. For instance, Deslouis et al. [3] determined the kinetics of corrosion of zinc in aerated Na2SO4 solutions and described a dissolution model. Corrosion was shown to occur essentially at the base of the pores of the coatings and progress of anodic dissolution gave rise to four loops with decreasing frequency [4]. Indeed, the compactness of the corrosion products layer developed on zinc needs to be introduced to evaluate its barrier effect [5]. Based on this, further insight on Zn dissolution in sulphate medium has been provided by Cachet et al. [6] who described a reaction model in which three paths associated to three adsorbed intermediates (Znad+, Znad2+ and ZnOHad) were identified depending on the initial surface condition. However, most of the studies are based on laboratory deposited coatings. More recently, the assessment of corrosion behaviour by EIS on industrial Zn-based coatings has been addressed on a 0.5 M sulphate medium [7]. It was concluded that the electrolytic and the hot-dip Zn coatings were less sensitive to corrosion probably due to the initial presence of impurities in the metal substrate. Furthermore, the typical preferred crystal orientation of the coatings did not have any significant influence on the corrosion behaviour contrary to what is normally observed in pure zinc [8, 9]. A more detailed study has been conducted by Pérez et al. [10] by combining accelerated tests in a weathering cyclic chamber (deionised water/UV-IR radiation) with EIS measurements to track the degradation steps of an uncoated galvanised steel and of three differently painted galvanised steel. The authors could model the different dissolution behaviours thereafter concluding that the paints acted as selective membranes to avoid CO2 uptake. Most of these studies have been carried out in laboratory based coatings. How ever, industrial coatings often show defects of surface, showing itself in the form of pores or relief. Which classify the coatings in term of quality. The presence of chlorides or soluble complex as Zn+2Cl--OH-in the defects could initiate the localised corrosion [11]. Also, a difference of surface potential can initiate a selective corrosion [12]. To the best of our knowledge, only Barranco et al. [13, 14] have focused on the study of EIS as an analytical tool to continuously monitor the corrosion of various
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+industrial coatings in a 3% wt NaCl medium. The authors have claimed that empirical values of the B constant in the Stern-Geary equation must be introduced because of the over or underestimations of the corrosion behaviour of pure Zn and of Zn-5%Al (Galfan) coatings compared to Zn-10%Fe (Galvanneal) respectively. The present work is therefore focused on EIS as a potential analytical tool in industry. The study thus compares the corrosion behaviour of a hot dip industrial coating (HDG)with that of a laboratory electrodeposited coating (EP). To this end, various corrosive media have been employed, namely NaCl, NaOH and natural rain water. Further correlation with a gravimetric follow-up and atomic absorption spectrometry is also presented.
+
+2.2.- EXPERIMENTAL PROCEDURE
+2. 1. Sample preparation and coatings. The substrate is a non alloyed steel S235JR (nominal composition according to EN10025-2:2004: Fe- 0.17C - 0.641Mn ­0.040S ­0.012N ­0.55Cu, wt%) with appropriate Si (0.14-0.25 wt%) and P (<0.035wt%) contents to allow galvanisation. The galvanized coatings were kindly supplied by Sider-Mittal Steel Algeria. The steel plates were hot dipped galvanized in a molten zinc bath at 445°C. Chemical analysis determined by flame atomic absorption spectrophotometry (AAS) in a Perkin Elmer 3110 apparatus using Perkin Elmer pure AS calibration standards revealed the presence of 0.15 Cd, 0.02 Fe, 0.002 Sn and 0.002 Cu (%wt) in the bath. Pb and Al are added on purpose to obtain nominal contents of 0.5 wt% and 0.1-0.2 wt%, respectively. Before immersion, the steel sheet underwent a typical surface preparation treatment. Morphological characterisation and elemental composition of the coatings was carried out by Scanning Electron Microscopy (SEM) coupled to Energy Dispersive Spectrometry (EDS) in a JEOL 5410LV apparatus at 20 kV in the secondary and backscattered electron modes. 2. 2. Corrosion tests and experimental Set up Samples of 4x4x0.05 cm were cut from the galvanised plates and most of the surface was protected with an adhesive film to leave a 1 cm2 surface in contact with the corrosive medium. All the corrosion tests were normally repeated two or three times, checking that they presented reasonable reproducibility. The corrosion tests were carried out at 25ºC by magnetic stirring the solutions to obtain a slight vortex of the electrolyte. The corrosive media consisted of 0.1, 0.5 and 1 M NaCl, of 1M NaOH and of natural rain water . This latter was collected in
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+the trial site of DRA Annaba Algeria between 13 et 21/01/2004. The chemical composition is given in table 1. Table 1: Average concentration in mg/l of natural rain water pH 7,1 Hardness 65.0 Mineralization Mineralization 80.0 Ca 2+ 20.0 Na + 1.5 K+ 1.0 SO4216.7 Cl10.5 NO38.0
+
+The electrochemical experimental set-up is composed of a classic three electrodes cell using a platinum grid as counter electrode and a saturated calomel electrode (SCE) as the reference one, the coated samples being connected to the working electrode. The measurements have been carried out using a potentiostat/galvanostat EGG 273A coupled to a frequency response analyser (FRA) EGG 1025. The impedance data were obtained at the corrosion potential (Ecor) between 100 kHz and 100 mHz at 10 mV as the applied sinusoidal perturbation. The Tafel polarisation curves were obtained at a scanning rate of 60mV/ min between ±250mV compared to the corrosion potential (Ecor). The experiments were monitored using the software EGG M352 and Powersine. EIS results were curve-fitted using Zview's ftengine program. The immersion tests were carried out in 0.1 M NaCl solution for 3, 10, 11 and 34 days. The Zn dissolved from the coatings was subsequently determined by AAS.
+
+3.- RESULTS AND DISCUSSION
+3.1.- Industrial HDG Coatings 3. 1. 1 Coating morphology. The HDG coatings followed first physicochemical and electrochemical characterisations to verify the specific requirements. Only the coatings showing good continuity and resistance (first appearance of white rust) for at least 32 H in a salt spray chamber (ASTM B117 standard) were retained for this study.
+cps Zn 150
+
+100
+
+50
+
+Zn Al 0 2 4 6 8 Energy (keV)
+
+0
+
+Figure 1 : SEM image and EDX results of surface of industrial HDG steel
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+The surface morphology of the coatings is shown in Figure 1. It can be observed that the coating fully covers the steel substrate with rather coarse grains. Some pores and small bright particles are clearly visible. The surface of the coating seems to be mainly composed of 98 at% Zn and 2 at% Al but the small bright particles also contain variable amounts of Pb. 3. 1. 2. Coating behavior in NaCl solution Medium concentration At least three polarisation tests have been carried out for each concentration and immersion time. The results are depicted in Figure 2,3 and 4. It can be easily observed that the corrosion rate in the aerated NaCl medium is under cathodic control (oxygen diffusion) regardless of the concentration as indicated by the higher values of Tafel slopes (ßc>>ßa). Moreover, while passing to 0.5 and 1M NaCl, the cathodic slopes are practically the same ones. This is due to the bricking of the reaction of oxygen reduction. It can be also observed that the corrosion potential, Ecorr stabilises between ­1000 and ­1040 mV/ECS. The corrosion current (Icorr) , calculated by extrapolation of Tafel slops, also increases with increasing the NaCl concentration. Figure 3 shows the cyclic polarisation curves obtained in 0.1, 0.5 and 1M NaCl. The specific surface evolution with the increase of the concentration indicates a more important degradation of the coating. However, it appears from the Icor values that the corrosion is increased 10 times for 1M than in the case of 0.1M.
+1 0,1 0,01
+1MN l aC 0,5MN l aC 0,1MN l aC
+
+0,25 0,20 0,15 I (A /cm ²) 0,10 0,05
+(a) (b)
+(a) 0.1M NaCl (b) 0.5M NaCl (c) 1M NaCl
+
+Log(I)(A/cm2)
+
+1E-3 1E-4 1E-5 1E-6 1E-7 1E-8 -1,3 -1,2 -1,1 -1,0 -0,9 -0,8 -0,7
+
+(c)
+
+0,00 -0,05 -2,0 -1,5 -1,0 -0,5 E (V/SCE) 0,0 0,5
+
+E(V S) /EC
+
+2: Figure 2 polarisation and cyclic polarisation curves obtained on industrial galvanised coatings in NaCL solution Moreover, the specific surface evolution does not exceed 4 times (table 2). This result could be explained by a corrosion processes developed under the
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+150
+0.1M NaCl 0.5M NaCl 1M NaCl
+
+(a)
+
+7
+
+50
+- Z im ( o h m s )
+0
+
+0
+
+20
+
+40
+
+0
+
+Zre(Ohms)
+
+0
+
+100
+
+200 300 Zre(Ohms)
+
+400
+
+500
+
+- P h a se /d eg
+
+-Z im (o h m s)
+
+100
+
+45 40 35 30 25 20 15 10 5 0 -1 10
+
+0.1M NaCl 0.5M NaCl 1M NaCl
+
+(b)
+
+10
+
+0
+
+10
+
+1
+
+10 10 F /Hz
+
+2
+
+3
+
+10
+
+4
+
+10
+
+5
+
+4: Figure 4 EIS Nyquist a) and Bode b) diagrams obtained on industrial galvanised coatings in NaCl solution oxide/hydroxide formed layer (at the interface substrate/film), since the porous nature of this layer [7] The displacement of the corrosion potentials according to [7]. the concentration confirms this assumption. In the Nyquist diagram the appearance of a semicircle at Frequencies between 100 and 30 kHz is observed. Despite the change of the reference electrode, the modification of the distance between the electrodes and the conductivity of the electrolyte this feature continues to appear. Therefore, the shape of the cell is suspected to induce physical effects, as Zeller and Savinell also found in their studies on the AC impedance response of chromated electrogalvanised steel [2]. Table 2: Electrochemical parameters obtained for the industrial Zn coatings as a function of NaCl concentrations. Electrochemical parameters
+Ecorr (mV/SCE) -1000 -983 -1038 (µ Icorr (µA.cm-2) 28 170 300 Vcorr (mm.y-1) 0.42 2.53 4.47
+
+testing conditions
+0.1M 0.5 M 1M
+
+Q(C)
+8.43 13.00 37.77
+
+C 106(S) 0.30 0.07 0.12
+
+It can be observed in Table 3 that by increasing the NaCl concentration the charge transfer resistance decreases and therefor more corrosion occurs. The doublelayer capacity values do not seem to follow the trend of the resistance values, which lead us to believe that a dispersion of the relaxation time occurs.
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Table 3: EIS parameters obtained in different NaCl concentrations for a fixed immersion time of 0 days at room temperature of HDG Steel concentration NaCl concentration 0.1 M 0.5 M 1M
+Rct () Fmax(Hz) Cdl ( F)
+
+ 0.94 0.68
+
+R'() F'max (Hz)
+
+C'(F)
+
+309 110 23
+
+41.25 345 170
+
+12 4 40
+
+0.80 271 39 19
+
+0.14 0.20 0.10
+
+0.004 0.020 0.080
+
+Ferreira et all [15] obtained two time constant () for a HDG steel in 0.05M NaCl. ] The first one appear at intermediary frequencies followed by another at low frequency (LF). The latter was related to the oxide layer formed. In our case, the diagrams obtained at different NaCl concentrations show two time constant well distinguished at 100 Hz and the other between 1 and 0.1Hz . This result suggest that the concentration doesn't affect the number of time constant. Moreover, the decrease of the angle phase at low frequencies, for curves obtained in 0.1, 0.5 and 1M suggests the onset of a new corrosion process. Immersion time Becaus eof the week degradation of the coating observed for the lowest NaCl concentration (see fig. 3), a series of tests was carried out in stirred 0.1 M solutions to evaluate the evolution of the galvanised coatings with immersion time (from 0 till 34 days). Figure 5 and Table 4 gather the informations from the potentiodynamic tests. As suggested by Table 4, three stages occurs. For the shortest immersion times, reduction of the anodic slope and shifting of Ecorr towards more cathodic domains occurs. This is in agreement with previous works which showed that the corrosion products layer developed during the first immersion times afforded limited protection [2] The second stage takes place [2]. between 13 and 20 days in which the corrosion current (Icorr) tends to stabilise and finally increases after 34 days of immersion in 0.1 M NaCl. This feature can be ascribed to desorption of the corrosion products from the surface or to some charge transfer occurring through the porous layer of corrosion products. This is confirmed from the evolution of the compactness (C = Q/Icorr) of the corrosion products layer as shown in Figure 6. The increase of the compactness might certainly derive from enhanced dissolution reactions at the electrolyte/metal interface which in turn modifies the pH values from 6.6 to 7.6 at the beginning of the test and after 34 days, respectively. The increase of pH can be related to the
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+oxygen
+
+reduction
+
+which
+
+produces
+
+hydroxide 4OH-
+
+groups (1)
+
+thus
+
+favouring
+
+the
+
+stabilisation of the corrosion products. O2 + 2 H2O + 4 e-
+
+Indeed, because of their weak solubility, the corrosion products precipitate at the surface of the electrode building up an increasingly compact layer. This layer is typically composed of ZnO, Zn(OH)2, Zn5(OH)8Cl2 H2O (simonkolleite) or their mixtures but Barranco et al. [13] have quoted ZnO as the major compound of this layer.
+1 0,1 0,01
+B im ersion efore m A 3days fter A 13days fter A 34days fter
+Icorr C pactness of the layer om
+
+0,9
+
+45
+
+Log(I)(A/cm2)
+
+1E -3 1E -4 1E -5 1E -6 1E -7 1E -8 -1,2 -1,0 -0,8
+
+Icorr (µA/cm2)
+
+30
+
+0,3
+
+15 0 5 10 15 20 25 30
+
+E /ESC (V )
+
+Im ersiontim (day) m e
+
+Figure 5: polarisation curves obtained on industrial galvanised coatings at different immersion time in 0.1M NaCl.
+
+Figure 6.Figure 6 Evolution of Icorr with immersion time and the associated compactness layer of HDG coatings.
+
+150
+
+50
+(a)
+
+40
+-Z im (o h m s) 100
+
+Before immersion After 10 days After 13 days After 34 days
+
+(b)
+
+-p h a se /d e g
+
+30 20 10 0 -1 10
+0 1 2 3 4
+
+50
+
+Before immersion After 10 days After 13 days After 20 days After 34 days
+
+0
+
+0
+
+100
+
+200 300 400 Zre(ohms)
+
+500
+
+10
+
+10
+
+F /Hz
+
+10
+
+10
+
+10
+
+7: Figure 7 EIS Nysuist a) and Bode b) diagrams obtained on industrial galvanised coatings at different time immersion in 0.1M NaCl solution Impedance diagrams of the Zn coatings at their corrosion potential have also been obtained at different immersion times (Figure 7, Table 5). For the shortest immersion times, a capacitive loop at HF and the beginning of a LF loop are well
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+C(S)*106
+
+0,6
+
+defined. The HF loop has circular arc shape thus underlining the non uniformity of the surface of the electrode (dispersion of the time constant). Such non uniformity can be for instance related to slight modifications of the electrolyte at the diffusion layer and/or to the oxide layer being formed by adsorption as well as from heterogeneities within and at the surface of the galvanised coating [3] In [3]. agreement with Nyquist diagrams, the Bode plots show two time-constants well defined at around 100 and 0.1Hz before immersion. However, with the increase of the immersion time a progressive disappearance of the second time constant occurs. From these diagrams, the charge transfer resistance (Rct) and the degree of flattening (depression) of the circles can be plotted against time as depicted in Figure 8.
+300
+35
+
+250
+
+30
+
+200
+25
+
+150
+
+100 0 10 20 30
+
+20
+
+Im ersion tim (day) m e
+
+Figure 8: Evolution of the charge transfer resistance (Rct) and the degree of flattening of the galvanised steel with immersion time in a 0.1 M NaCl solution The shape of the Rct curve shows that the resistance decreases in two distinct periods. Between 0 and 13 days, the resistance loses about one half of its initial value due to a rapid degradation of the coating, then tends to level off. Such stabilisation may be due to the build-up of a stable layer of corrosion products. Conversely, the corrosion current obtained as a function of immersion time in figure 6 have shown three distinct intervals. The first one corresponds to an increase between 0 and 13 days followed by a slight stabilisation between 13 and 20 days finishing up with a significant acceleration towards 34 days of immersion. The difference observed between the two results (DC and AC methods) is explained by the fact that the first method is useful has to calculates a uniform corrosion current whereas the second one only considers only the faradic process. Flattening of the semicircles provides an indication of the surface roughness of a material [1, 16]. A perfectly smooth surface corresponds to a perfect semicircle 16] and the sphericity decreases with increasing roughness[1] [1]. [1]
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Falttening (°)
+
+Rct (Ohms)
+
+Rct (Ohms) Flattening
+
+Table 4: : Electrochemical parameters obtained for the industrial Zn coatings as a function of immersion time. Immersion time (day)
+0 day 13 days 20 days 34 days Ecorr (mV/SCE) -1000 -1025 -996 -994
+
+Electrochemical parameters
+(µ Icorr (µA.cm-2) 28 36 37 54 Vcorr (mm.y-1) 0.42 0.54 0.55 0.80 Q(C) 8.43 12.35 20.12 33.25 C 106(S) 0.30 0.34 0.55 0.62
+
+5: Table 5 EIS parameters obtained for different immersion times in 0.1M NaCl solutions at room temperature of the industrial galvanised coatings. Immersion time (days) 0 10 13 20 34 309 249 154 146 110 41.25 41.25 28.90 41.25 20.31 12.4 15.5 35.7 26.4 12 0.80 0.80 0.70 0.72 0.76 271 360 78 92 33 0.142 0.558 0.100 0.142 0.290 0.004 0.003 0.002 0.010 0.016
+Rct ()
+
+fmax(Hz)
+
+Cdl ( F)
+
+
+
+R'()
+
+F'max (Hz)
+
+C'(F)
+
+According to this, it can be concluded that as Zn dissolves in the 0.1M NaCl, the surface becomes progressively more uniform (figure 8). Immersion (real time ) testing in 0.1M NaCl solutions In order to confirm the above discussed electrochemical results, a series of real time immersion tests have been carried out by dipping the same galvanised in a stirred 0.1 M NaCl solution and following up by AAS the dissolved amount of Zn with the increasing immersion time (Table 6). It can be observed in Table 6 that the corrosion rate determined through AAS measurements increases significantly between 0 and 13 days, then tends to stabilise till 20 days. From then on, dissolution occurs very rapidly. After 28 days, the mass loss is even higher than the initial mass of the coating, i.e. the entire coating has dissolved and the surface of the sample is significantly oxidised. Similar results are observed when depicting the electrochemical results except for 0 days because of the immediateness of the electrochemical measurement.
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Although, the trials in real time give lower corrosion rates values than those obtained through electrochemical methods [3, 11], some differences are found in 11] the present study because some of the thick corrosion product layer may detach and appear as dissolved Zn upon the AAS analyses while removing the corroded samples from the solution. Moreover, the potential of the Zn/Zn2+ reaction determined from the solubility products of the corrosion species is close to ­ 1.030 V, which is rather similar to the corrosion potential measured for the different testing conditions. Therefore, the application of the Stern-Geary approximation should not be employed as it has been concluded that the difference between the corrosion potential and the reversible potential should be more than 13 mV [11, 17]. Nevertheless, only slight differences are found when 17] comparing the two methods. 6: Table 6 Zinc loss from the galvanised steel after various immersion times in a 0.1M NaCl solution as determined from AAS. Immersion time (days) Mass loss g.m-2 (AAS) Vcorr (AAS) (mm year-1) Vcorr (Electrochemical) (mm year-1) Potential displacement testing in 0.1M NaCl solutions It has been shown in Figure 5 and Table 4 that the Ecorr shifted towards more cathodic values. Therefore, a series of tests have been performed to provide a better understanding of the Zn coating behaviour when shifting the potentials towards cathodic domains. Figures 9(a), 9(b) and 9(c) show the Nyquist diagrams of the galvanised steel in 0.1 M NaCl solutions at different potentials. For E=Ecorr, two capacitive loops clearly appear and are ascribed to the charge transfer resistance (Rct) and the resistance of the layer (R'). For these potential values, Barranco et al. quoted ZnO as the main corrosion product at Ecorr [13]. At ­1.2 V/SCE, overlapping of the Rct and R' semicircles occurs and therefore the two relaxation times take place at the same time. In this situation, ZnO may not be the major corrosion product but zinc hydroxides as I. Suzuki [5] concluded. At more cathodic potentials (E = -1.4 V/SCE), this author claimed the likely reduction of zinc chlorides [ZnCl2.6Zn(OH)2 and ZnCl2.4Zn(OH)2] but hydrogen reduction is more prone to occur. Hydrogen bubbles then can crack and induce spallation of
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+0 466 --0.42
+
+1 8.5 0.43 0.42
+
+13 126 0.50 0.54
+
+20 216 0.55 0.55
+
+24 322 0.70 0.63
+
+34 > 466 -0.80
+
+the corrosion products layer. Therefore, the destruction of the corrosion product layer occurs so rapidly that the layer resistance (R') cannot be measured. Overall, the Nyquist diagrams of Figure 9 indicate that by moving towards more cathodic potentials the capacitive loop at LF tends to disappear and is in full agreement with the Bode diagrams of Figure 9(b), chere the progressive disappearance of the second time constant and a decrease of the angle phase at low frequencies can be noticed. 500
+
+70
+E=Ecor E=-1.2V/SCE E=-1.4SCE
+
+400
+-Zim(ohms)
+
+60 50 -Pahse/deg
+
+E corr =E E =-1.2V C /S E E =-1.4V C /S E
+
+(b)
+
+300
+30
+-Zim(ohms)
+
+200 100 0 0
+
+E=Ecor E=-1.2V/SCE E=-1.4SCE
+
+40 30 20 10 0 -1 10 10
+0
+
+20 10 0 0 50 Zre (ohm s)
+
+zoomat high frenqencies
+
+200 400 600 800 1000 1200 Zre (ohms)
+
+10
+
+1
+
+10 F/H z
+
+2
+
+10
+
+3
+
+10
+
+4
+
+Figure 9: EIS Nyquist and Bode diagrams obtained on industrial galvanised coatings in NaCl 0,1M at different potential Spectra obtained were simulated with equivalent circuit shown in Figure 10. In this work, some parameters obtained by fitting the spectra using the Zview's ftengine program are interpreted. The circuit employed allows the identification of both solution resistance (Rs) and charge transfer resistance (Rct). It is important to mention that the double layer capacitance value is affected by imperfection of the surface, and that this effect is simulated via a constant phase element (CPE) with  represents a parameter describing the width of the material property distribution (dielectric times in frequency spaces). The different table obtained (table 3, 5 and 7) shows the representative parameter values of the best fit to experimental data and allow to describe the overall impedance through equation <2> The corresponding equivalent circuit is given in Figure 10 and allow to describe the overall impedance through equation <2>: Rct R' Z 2 ( w) = Z ( w) = R s + equation <2> 1 ( jwR' C ' )  2 + 1 1 ( jwRct C dl ) + Z 1+ 2 Rct in which Rs : Resistance of the solution. CPE1 : Constant phase element characterised by : Cdl : Double layer capacity (non uniform),  : non linearity
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Rs
+
+CPE1 Rct CPE2 R'
+
+Figure 10: Equivalent circuit representing the interface : industial HDG steel in NaCl solution coefficient, Rct : Charge transfer resistance. CPE2 : constant Phase element characterised by: C' Capacity of the oxyde/hydroxyde layer and ': non linearity C': coefficient, R' : Resistance of the layer 3. 1. 3. Coating behavior in NaOH and rain water solution Figure 11 shows the behaviour of the galvanised steel in a 1 M NaOH and natural rain water and 1M NaCl solutions. In the 1M NaOH plot, the HF loop shows much higher resistance values than those obtained in 1M NaCl which is probably due to a lower charge transfer as the formation and adsorption of zinc hydroxide at the interface renders the coating less porous. A sweep to lower frequencies could allow to observe the second capacitive loop, hence to reveal the slowest reactionsin a more defined way. On the contrary, the curves obtained in rain water are characterised by both a capacitive and an inductive loops which means that this medium offers the possibility of studying the slowest reactions in all the interval [100 kHz, 0.1Hz].
+
+150
+NaOH 1M Rain water NaCl 1M
+
+-Zim(ohms)
+
+100
+
+50
+
+0
+
+0
+
+100
+
+200 Zre(ohms)
+
+300
+
+11: Figure 11 EIS spectra obtained on industrial galvanised coatings in different media In 1M NaOH, the slope of 1.1 on the left hand side of the HF loop can be related to Warburg diffusion induced either by oxygen diffusion or by the evolution of the
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Zn(I) and Zn(II) equilibrium at the interface. However, in rain water the inductive loop at LF can result at least from the adsorption of at least more than one corrosion species. 7: Table 7 EIS parameters obtained in different media for a fixed immersion time of 0 days at room temperature of the industrial galvanised coatings. Medium NaCl 1M NaOH 1M rain water Rct () fmax(Hz) Cdl ( F) 23 231 54 170 2.21 49 40 246 60
+
+
+R'() 19 130 -6
+
+F'max (Hz) C'(F) 0.10 0.1 0.1 0.080 0.012 - 0.31
+
+0.68 0.72 0.81
+
+For the sake of comparison Table 7 gathers the main impedance features obtained from the above mentioned impedance diagrams, where it is confirmed that the charge transfer resistance is higher in NaOH than for the remaining media. However, it is interesting to remark that the less flattened semicircle corresponds to the samples immersed in rain water, which confirms that the corrosion product layer based on hydrozincite is thinner than the Zn hydroxide or oxide layers as concluded in [18] The double layer capacity is also much higher in [18]. NaOH than in NaCl and rain water. In NaOH, the expected corrosion product is mainly based on Zn(OH)2 whereas in NaCl the major compound is known to be ZnO [13]. Both corrosion products provide similar layer resistance values whilst in rain water hydrozincite [Zn5(CO3)2(OH)6] has been shown to occur together with the already mentioned Zn corrosion products. The presence of this compound is known to result from direct reaction between Zn2+ and the carbonates [18-20] [18-20]. To conclude, the industrial galvanised coatings behave better in NaOH and rain water than in NaCl but an equivalent circuit as the one shown in Figure 10 applies well to all three media. The electrochemical curves (two capacitive loops and two relaxation times non related to the concentration) obtained under various conditions in NaCl solution (concentration, immersion time and potential) lets to us deduce that the coating surface is nonporous [16] On the other hand, the morphology of the coating [16]. checked by SEM indicates its porosity. This phenomenon can ascribed to the diffusion of the electrolyte into the pores and discontinuities of the coating, which induces the formation of corrosion products that fill up the voids, hence the coating becomes less porous and in particular that the corrosion kinetics is under cathodic control.
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+3.2.- Laboratory coatings
+3. 2. 1. Coating morphology. With aim of approaching the conditions of hot galvanisation, electrodeposition was carried out in alkaline bath without additives and in experimental conditions cited in above.
+cps 150 Zn
+
+100
+
+50
+
+Zn
+
+0 0
+
+O 2 4 6 8 Energy (keV)
+
+Figure 12: SEM surface morphology and EDX results of the Laboratory galvanised steel the coating obtained by electrodeposition was homogeneous adherent and without imperfection with a thickness of 10 m. With an aim of approaching the industrial coating surface, our coating underwent an attack for few seconds by HCl at weak concentration. For this purpose, the surface (figure 12) shows a state of porosity similar to that observed on industrial coating. 3. 2. 2. Coating behavior in NaCl solution pH medium and concentration The impedance diagram of the laboratory coatings immersed in a 0.1M NaCl solution shows two relaxation times [Figure 13, Table 8]. The first one corresponds to a capacitive loop HF, flattened and deformed in its left side, typical of a charge transfer whereas the second one is ascribed to an inductive loop in the capacitive plane. While passing to 0.5M the initiation of a new loop is observed with difficulty, this becomes clear at 1M. For this purpose, diagram will be composed of a capacitive loop between two inductive loops. In the literature, only one reactional model was proposed to describe the process of dissolution of [3].The model highlights two pure Zn, that is in NaCl [4, 6 and 7] or in Na2SO4 [3] processes in parallel with the presence of two adsorbed species (see reaction pathway on figure 14). Thus, diagrams EIS comprise at LF three relaxation processes. In the present study, the three relaxation processes are revealed only with concentration equals 1M. according to [4] the deformation of the left part of the capacitive loop HF is related to the existence of pores on the surface of the electrode.
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+100 80 -Zim(ohms) 60 40 20 0 0 50 100 150 Z hm re(O s) 200 250
+0,1MN l aC 0,5MN l aC 1MN l aC
+
+(a)
+
+40 35 30 25 20 15 10 5 0 -1 10
+
+0,1MN l aC 0,5MN l aC 1MN l aC
+
+(b)
+
+-Phase/deg
+
+10
+
+0
+
+10
+
+1
+
+10 10 F/H z
+
+2
+
+3
+
+10
+
+4
+
+10
+
+5
+
+13: Figure 13 EIS Nyquist and Bode spectra obtained in NaCl solution at different concentrations
+K2
+
+e- + ZnII 2
+K1
+
+ads
+
+ZnIIsol
+K'3
+
+Zn
+K'1
+
+e +ZnIads (1)
+
+K5 K4
+
+ZnIIsol + ZnIads + e-
+
+Zn(OH)ads
+3 K'4
+
+ZnOH+ + eKO2
+
+O2 + 2H2O + 4 e-
+
+4 OH-
+
+14: Figure 14 Reaction scheme for zinc dissolution in aerated NaCl solution Moreover, the anodic reactions of dissolution does not appear only at their base i.e. their inner surface is regarded as inactive. For this purpose, the 4 relaxation processes observed in diagrams EIS are allotted: 1. The HF capacitive loop is related to the charge transfer. 2. The HF inductive loop is related to the presence of ZnI (intermediate species) 3. The LF capacitive loop is related to the precipitation and migration of ZnII by diffusion. 4. The LF inductive loop is related to disappearance of oxide layer with time. In the case of the diagram obtained in NaCl 0.1M at different pH, the absence of the two relaxation processes is due primarily to two phenomena:
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+40 35 30 -Phase/deg
+
+0,1MN aCl 0,5MN aCl 1MN aCl
+
+(b)
+
+250
+R ct C dl
+
+10
+
+200 Rct (ohms)
+
+8
+
+20 15 10 5 0 -1 10 10
+0
+
+150
+6
+
+100
+4
+
+10
+
+1
+
+10
+
+2
+
+10
+
+3
+
+10
+
+4
+
+10
+
+5
+
+50 4 6 8 pH 10 12
+
+F/H z
+
+Figure 15 : EIS spectra obtained on laboratory Zn coatings in 0.1M NaCl at different pH
+
+Figure 16: Evolution of the time constants Rct and Cdl as function of pH of the laboratory coating
+
+The formation and transformation of the ZnI species is fast and consequently it will occupy a weak surface coverage ((1) is weak) and thus the revelation of its relaxation process requires a frequencies sweeping low than 0.1Hz. The oxide /hydroxide layer formed on Zn is chemically stable (temporary passivation) what returns its speed of detachment weak and by consequently a braking of the fourth relaxation process. The weak appearance of an inductive loop LF in diagram EIS obtained in 0.5M confirms these assumptions. The low values of Cdl and the stability of the Rct values obtained at pH between (5-10), indicate the establishment of a chemical quasi-equilibrium of the corrosion products (temporary passivation) in agreement with the Pourbaix diagrams [21]. [21] This layer starts to lose its stability at pH=11. By increasing the NaCl concentration from 0.1 to 0.5 and 1 M, the transfer resistance loses 21 and 44% of its value respectively. On the contrary, the RctxIcor product remain practically constant (20mV). 8: Table 8 EIS parameters obtained in different conditions for a fixed immersion time of 0 days at room temperature of the laboratory Zn coatings. Medium Rct () fmax(Hz) Cdl ( F)  R'() F'max (Hz) C'(F) 0.1M, pH 6.6 0.5M, pH 6.6 1 M, pH (6.7) 0.1 M, pH = 5 0.1 M, pH= 10 195 153 108 180 179
+
+127
+127 115 127 204 127
+
+6.42 8.20 12.80 7.00 4.00 9.00
+
+0.75 0.67 0.71 0.78 0.79 0.85
+
+-58 -10 -18 -58 -66 -85
+
+0.3 0.3 9.0 0.3 0.3 0.5
+
+-0.027 -0.058 -0.0009 -0.027 -0.024 -0.019
+
+0.1 M, pH = 11 142
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Cdl (10-6 F)
+
+25
+
+9: Table 9 Electrochemical parameters obtained in NaCl solutions for a fixed immersion time of 0 days at room temperature of the laboratory Zn coatings. Medium 0.1 M­pH solution 1 M ­ pH solution 0.1 M ­ pH = 5 0.1 M ­ pH = 10 0.1 M ­ pH = 11 deNaCl de-aerated media With aim to see the influence of oxygen, a test was carried out in 0,1M NaCl deaerated solution figure 17. The oxygen concentration, measured by standard oxymeter Z621 consort, in the aerated and deaerated solution is between 8 to 10 ppm and 1 to 2 ppm respectively. Diagram EIS obtained in deaerated solution presents two capacitive loops overlapped. In the same way, Bode diagram, shows 150
+0.1M NaCl aereted solution 0.1M NaCl deaereted solution
+
+(mV/SCE) Ecorr (mV/SCE) Icorr ( A/cm2) - 1020 - 944 - 1010 - 1015 - 1000 99 170 101 118 165
+
+Vcorr (mm/an) 1.47 2.53 1.51 0.27 0.96
+
+-Z im (o h m s )
+
+100
+
+50
+
+0 0 50 100 150 200 250 300 350 400 Zre(ohms)
+Figure 17 : EIS spectra obtained on laboratory Zn coatings in aerated and de-aerated NaCl 0,1 M 10.Table 10.- EIS parameters obtained in aerated and aerated 1M NaCl solution for a fixed immersion time of 0 days of the laboratory Zn coatings. Medium 1 M ­ pH 6.7 aerated 1 M ­pH 6.70 de-aerated ( Rct () fmax(Hz) Cdl ( F) 108 270 115 7 12.80 78.40
+
+
+R'()
+
+F'max (Hz) C'(F) 9.0 1.1 -0.0009 0.002
+
+0.71 -18 0.70 150
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+two very close time-constants. This behaviour can be explained by a fast filling of the pores by corrosion products made up of Zn hydroxide, which are converted into oxide according to: Zn+2 + 2OHZn(OH)2 ZnO + H2O (3)
+
+In addition, the decrease in the quantity of oxygen in the medium slowed down the cathodic reaction (oxygen reduction) and slightly decreases the pH on the surface of the electrode. With an aim to have an idea on the variation of the pH near the electrode in both cases of oxygenation, we suppose that only the cathodic reaction is oxygen reduction according to equation 1: [O2 ]b nDO2 F OH - s - OH - b DOH - F At equilibrium state : i c = =
+
+([
+
+] [
+
+])
+
+
+
+
+
+(4)
+
+In this expression DO2 and DOH- are diffusion coefficient of oxygen and hydroxide respectively.  is the thickness of Nernet layer, [O2]b and [OH-]b are the concentrations of oxygen and hydroxide in bulk solution respectively, [OH-]S is the concentration of hydroxide at surface electrode, F is the faraday number, n is the number of exchanged electron ( it can be 2 or 4). Sight that the value of [OH-]b is very weak, we Considers that [OH-]b =0. Making the replacement in equation above, we obtain for n=2 a pH value of 10.35 and 11.28 for deaerated and aerated media respectively. According to the values illustrated in table 7 and 8, we deduces that the coating in the deaerated solution (local pH =10.35) resists better against corrosion. Elimination of oxygen from the solution does seem to affect the shape of the curves and the resistance increases to 270 /cm2. The oxygen reduction seems then dependent of the relaxation time and influences to overall current. The electrochemical parameters obtained from the stationary curves in a 0.1M NaCl solution seem to be in agreement with the results obtained from the frequency technique. At pH 9 and 10 the corrosion products are relatively stable and behave as a protective layer. Alcalinisation of the solution brings about dissolution of the corrosion products, which in turn increases the corrosion current. Therefore, the total impedance can be given through equation <5>:
+        R ct  Z (w) = R +  s 1    + jwC R   dl ct Z + Z 2   1+ 1   R ct  
+
+with Z1 =
+
+R' 1 + ( jwC' R' )1
+
+and
+
+(
+
+)
+
+Z2 =
+
+R '' 1 + ( jwC '' R '' )  2
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Rs
+
+CPE1 Rct C' R' C" R"
+
+Figure 18 :Equivalent circuit representing the interface : EP steel / NaCl, NaOH and rainwater When the NaCl concentration is of 0.1M, Z2 = 0. On the other hand, for 1M, the parameters of the last inductive loop are : R'' =-32 ohms and C''=-0.02F at F=0.233Hz. 3. 2. 3. Coating behavior in NaOH and rain water Similarly, the impedance diagrams at the corrosion potential have been studied in artificial rain water and NaOH 1M [Figures 19 ]. The obtained curves and results shown in Table 10 as expected show the adequate resistance of the laboratory coatings in both corroding media. Indeed, the Rct value obtained in NaOH is seven times larger than that obtained in NaCl. On the other hand Bode diagram shows only one time constant revealed between 10 et 1Hz. The same behavior was already observed on the industrial coating. This can be explained by the specifity, the nature and the stability of the formed corrosion products. In rain water and NaOH the corrosion products are made primarily of Zn5(CO3)2(OH)6 and Zn(OH)2 respectively. However, in NaCl the products are to characterize by the presence of several compounds in particular: ZnO, Zn(OH)2, Zn 5(OH)8Cl2.H2O with the presence of several intermediate species such as ZnOH-, ZnOH, Zn(OH)-2, Zn(OH)3-[4] [4]. Therefore, the impedance response of the laboratory Zn coating in either solution can be represented by the equivalent circuit already described for the industrial Zn coatings under the same experimental conditions.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+200 150 -Zim(Ohms) 100 50 0 0
+N H1M aO W rain ater N l 1M aC
+
+50 40 - Phase/deg 30 20 10
+100 200 Zre(O s) hm 300 400
+
+1MN l aC 1MN H aO R W ain ater
+
+0 -1 10
+
+10
+
+0
+
+10
+
+1
+
+10 F/H z
+
+2
+
+10
+
+3
+
+10
+
+4
+
+Figure19: Figure19 EIS Nyquist and Bode spectra obtained on laboratory Zn coatings in different media 11: Table 11 Electrochemical impedance parameters of the laboratory Zn coatings in different media at room temperature . Medium 1N NaCl NaOH rain water ( Rct () 108 734 138
+
+fmax(Hz) Cdl ( F) 
+20.0 0.1 204.0 56 217 56 0.71 0.66 0.77
+
+R'() -18 ----48
+
+F'max (Hz) C'(F) 9 ----0.1 -0.0009 -----0.0330
+
+3. 3. Comparative study On industrial coatings, NaCl concentration has no influence on the number of constant time. However, while passing from 0.1 at 1 M, resistance of charge transfer and the corrosion current loses more than 90% of their value. with immersion time, the second constant time tends to disappear. Pores observed on the surface of the HDG steel are superficial.
+
+0,24 0,18 I (A) 0,12 0,06 0,00
+
+Industrial coating Laboratory coating
+
+-0,06 -2,0 -1,6 -1,2 -0,8 -0,4 E(V /SEC)
+
+0,0
+
+0,4
+
+Figure 20 : Cyclic polarization obtained in NaCl 1M on industrial and laboratory galvanised coatings
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+On laboratory coating, diagram obtained in NaCl 1M, shows three relaxation processes at LF, while at lower concentration and some is the pH of the medium, only one process is observed. Rct and Icor values obtained at pH between 5 to 10, are practically stable. In deaerated NaCl 0.1M, EIS diagram shows two timeconstants at very close frequencies. Moreover, Rct increases by 30%. Moreover, EIS Diagrams indicate the porous character of the coating, whose dissolution mechanism appears at the base of the pores. While passing from 0.1 to 1M, Rct loses 92 and 44% of its value for HDG and EP respectively. This lets us to say:
+· ·
+
+The pores observed on the surface of EP steel are deep but they do not reach In addition to the results obtained, the draft of cyclic polarization curves in 1M
+
+the surface of basic steel. NaCl (figure 20) confirms on the one hand the protective capacity of EP steel and on the other hand its best electrochemical effectiveness compared with that obtained for the HDG.. In NaOH, Rct values obtained on labortary coating are three times higher than those observed on the industrial coatings. In spite of, on the one hand the existence or not of pores in the coating and on the other hand the nature of its elaboration (by hot immersion or electrolytic deposition ), the shape of the curves does not seem to be affected during its characterization in rain water or NaOH. 4.- SUMMARY AND CONCLUSIONS Despite the control of the galvanising process (temperature, chemical composition of the bath, rolling speed of the steel sheet), the chemical composition of the steel and most of it all the phosphor and sulphur contents as well as the conditioning of the steel sheet affect the quality of the galvanised layer. The purpose of the investigation methods used in this study (stationary and EIS electrochemical techniques, MEB and atomic absorption) are to describe the electrochemical evolution of the eletcroplated and hot dipped steel in different chemical mediums of composition. The characterization of surface of the two samples by MEB highlighted a state of apparent porosity but nondistinguishable between deep or only superficial. deep Pores can blame the effectiveness of the coating against corrosion. Using EIS method coupled with other methods, we could shown that hot galvanized steel presents only a reach basic steel. state of superficial porosity. On the other hand, the electrogalvanized samples presented a state of deep porosity but which do not
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+According to the shape of the diagrams obtained, the pores are active in their base and inactive on their interior surface. The reactional mechanism of dissolution of pure Zn in NaCl and Na2SO4 proposed by [Delsouis and Cachet] finds its application on steel galvanized only in NaCl  1M. on the other hand, at lower concentration, the diagrams of impedance obtained shows only one relaxation process BF. Moreover the electrochemical effectiveness of EP steel, evaluated by linear, cyclic polarization and EIS is better than that of HDG steel in the various tested mediums. The NaCl solution with weak concentration (<1M) does not constitute a likely medium to reveal (to initiate) the weakest processes and consequently to confirm the porous state of a EP steel. In spite of the difference of origin (elaboration mode ) and in surface of the two coatings, the information provided by diagrams EIS in rain water and NaOH are the same one as regards time-constants. However their electrochemical effectiveness is different. The nucleation and initiation of slow reactions require a very low frequency sweep (lower than 100 mHz). Conversely, the low frequencies require long response times, which may modify the surface state of the electrode. The electrochemical impedance technique is therefore a very appropriate method to assess and understand the evolution of coatings as far as an adequate electrolyte is employed. For this purpose, the NaCl 1M solution can allow to the controller quality to appreciate the surface quality of their coating and the information drawn from the diagrams obtained in the three mediums is complementary.
+
+5.5.- REFERENCES
+[1]D.E. Williams, J. Asher, Measurement of low corrosion rates,. Comparison of
+
+A.C. impedance and thin layer activation methods, Corrosion Science, 24, 3, 185-196, 1984. [2][3]R.L. Zeller, R.F. Savinelle, Interpretation of A.C. impedance response of C. Deslouis, M. Duprat, Chr. Tournillon, The kinetics of zinc dissolution in chromated electrogalvanized steel, Corrosion Science, 26,5,389-399, 1986. aerated sodium sulphate solutions. A measurement of the corrosion rate by impedance techniques, Corrosion Science, 29, 1,13-30,1989.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+[4]-
+
+C. Cachet, B. Saidani, R. Wiart, The behavior of Zinc electrode in alkaline
+
+electrolytes : A kinetic analysis of anodic dissolution, J. Electrochem. Soc., 139, 3, 644-653, 1992. [5][6]I. Suzuki, The behavior of corrosion products on zinc in sodium chloride C. Cachet, F. Ganne, G. Maurin, J. Petitjean, V. Vivier, R. Wiart, EIS solution, Corrosion Science, 25, 11, 1029-1034, 1985. , investigation of zinc dissolution in aerated sulfate medium. Part I: bulk zinc Electrochem. Acta., 47, 509-518, 2001. [7]C. Cachet, F. Ganne, S. Joiret, G. Maurin, J. Petitjean, V. Vivier, R. Wiart, EIS investigation of zinc dissolution in aerated sulphate medium. Part II: zinc coatings Electrochem. Acta, 47, 3409-3422, 2002. [8]H. Park, J.A. Spuznar, The role of texture and morphology in optimizing the corrosion resistance of zinc-based electrogalvanized coatings, Corrosion Science, 40, 525-545, 1998. [9]P.R. Seré, J.D. Culcasi, C.I. Elsener, A.R. Di Sarli, The role of texture and in optimizing the corrosion resistance of zinc-based 122, 143-149, morphology 1999. [10]- C. Pérez, A. Collazo, M. Izquierdo, P. Merino, X.R. Nóvoa, Comparative study between galvanised steel and three duplex systems submitted to a weathering cyclic test, Corrosion Science, 44, 481-500, 2002. [11]- S. Peulon, D. Lincot, Mechanistic study of cathodic electrodeposition of zinc oxide and zinc hydroxychloride films from oxygenated aqueous zinc chloride solutions, J. Electrochem. Soc, 145, 864, 1998. [12]- A. Amedeh, B. Pahlevani, S. Heshmati, Effects of rare earth metal addition on surface morphology and corrosion resistance of hot-dipped zinc coatings, Corrosion science, 44, 2321-2331, 2002. [13]- V. Barranco, S. Feliu Jr., S. Feliu, EIS study of the corrosion behaviour of zinc-based coatings on steel in quiescent 3% NaCl solution. Part 1: directly exposed coatings, Corrosion Science., 46, 2203-2220, 2004. [14]- V. Barranco, S. Feliu Jr., S. Feliu, EIS study of the corrosion behaviour of zinc-based coatings on steel in quiescent 3% NaCl solution. Part 2: coatings covered with an inhibitor-containing lacquer, Corrosion Science., 46, 22212240, 2004. [15]- M. G. S. Ferreira, R. G. duarte, M. F. Montemor, A. M. P Simôes, Silanes and rare earth salts as chromate replacers for pre-treatments on galvanised steel, Electrochimica acta., 49, 2927-2935, 2004.
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+electrogalvanized coatings, Surface Coatings Technology,
+
+[16]- C. Cachet, U. Ströder, R. Wiart, The kinetics of zinc electrode in alkaline zincate electrolytes, Electrochemica Acta., 27, 7, 903-908, 1982. [17]- F. Mansfeld, K.B. Oldham, The effect of of temperature on the corrosion rate of zinc of differents purity in 6N KO, Corrosion Science., 11, 557-559, 1971. [18]- J. H. Sallivan, D. A. Worsley, Zinc runoff from galvanised steel materials exposed in industrial/marine environment, British corrosion journal, 37, 4, 282-288, 2002. [19]- E. Almeida, M. Morcillo, B. Rosales, Atmospheric corrosion of zinc Part 2: Marine atmospheres, British Corrosion Journal., 35, 4, 289-296, 2000. [20]- I. Odnevall, C. Leygraf, Formation of NaZn4Cl(OH)6SO4 6H2O in a marine atmosphere, Corrosion Science., 34,8,1213-1229, 1993. [21]- M. Pourbaix, Atlas d'équilibres électrochimiques, Gauthier-Villars, Paris, 1983.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+

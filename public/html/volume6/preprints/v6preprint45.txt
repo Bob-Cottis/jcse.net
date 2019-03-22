@@ -1,0 +1,135 @@
+Volume 6 Paper C108
+
+Local Electrochemistry in Breakdown of Organic Coatings
+John Sykes, Bharti Reddy and Matthew Doherty
+
+Department of Materials, University Of Oxford, Parks road, Oxford Ox1 3pH . UK John.sykes@materials.ox.ac.uk
+
+Abstract
+Disbondment and blistering of organic coatings have been studied using Scanning Acoustic Microscopy (SAM) at 150 MHz and Scanning Kelvin Probe (SKP). The SKP was used to map potential distributions beneath the coating and reveal the processes responsible for coating breakdown. The SAM was able to reveal the damage produced. A semi quantitative method was devised to visualise the distribution of anodic and cathodic current. It is shown that deposition of rust at a defect, can lead to a reversal of the galvanic cell, with rust becoming the cathodic reactant. Keywords: coatings, corrosion, paint, blisters, scanning acoustic microscopy, scanning Kelvin probe.
+
+Introduction
+Organic coatings are a cost-effective way to protect metals, but where the coating is damaged or the coating contains defects, local corrosion cells develop. Mayne [1] showed an association between `D areas' in the coating and initiation of corrosion. combination of two different instruments to characterise processes occurring at sites of corrosion initiation. Scanning acoustic microscopy (SAM) was used to examine adhesion loss at the coating metal interface and scanning kelvin probe (SKP) to map potential Here we have used a
+
+distributions at defects in the coating, or sites where corrosion had become visible.
+
+Experimental
+8% barytes as pigment (A) applied at a thickness of 120 µm to mild steel Q-panels and an epoxy-phenolic lacquer stoved at 205
+º
+
+Two systems have been examined, an opaque epoxy paint containing
+
+electro-chrome coated steel (can stock) and formed into the body of a preparation have been provided in other publications [2,3]. Samples
+
+C on
+
+two-piece food can (B) by deep drawing. Details of specimen for examination were cut from the test panels and an electrical lead attached, edges were protected with colophony-beeswax mixture. A 1mm diameter defect was created in the centre of sample A using a scalpel. The samples were exposed by immersion in naturally aerated NaCl solution (3% w/w for (A), 1% for (B)). Samples were monitored by Electrochemical Impedance Spectroscopy (EIS), for which results are not reported here, and removed periodically for examination. For SAM examination the samples are immersed in distilled water (to act as coupling medium) and SKP scans are conducted in a chamber through which humid air is circulated to minimise drying out. Details have been given elsewhere [2,3]. The SKP acts as a quasi-reference electrode that maps the potential difference between the gold tip of the vibrating probe and the metal sample. If there is no potential difference across the coating, or the difference is constant, then the instrument will show the variation in electrochemical potential at the metal-coating interface. The results in each scan have been presented relative to the most negative point within the sample area. Each scan contains 625 measurements taken at typically 300 µm intervals. The contour maps are created using Microcal Origin 7.0 and contour lines are shown at 50 mV intervals. Red is the most positive area, blue the most negative. In a study of cathodic disbonding by SKP, Stratmann [4] showed the existence of a steep potential gradient at the limit of disbonding, which progressed across the panel as disbonding proceeded. This was not observed here, so a different interpretation of potential variation has been adopted. The absolute values of potentials tell us little ­ we 2
+
+know that anodes must be more negative than cathodes, but for
+
+cathodes the current is higher for more negative potential, while for anodes current increases as potential rises. There is no way to be sure where the anode-cathode boundary lies, unless a bimetallic couple is present. However if potential gradients exist beneath the coating a
+
+flow of current must take place within the thin water layer at the coating metal interface. The direction of the field gives the direction of the current and the steeper the potential gradient, the bigger the current. In order to help in visualising current distribution from the potential maps a simple way of plotting current distribution has been devised. To deduce even semi-quantitative information about current flow, assumptions are needed about the thickness and conductivity of the thin interfacial water layer. However we can readily plot current distribution if we make one bold assumption - that the resistance of the current path is uniform everywhere. This is unlikely to be entirely true, but construction of current maps is extremely useful in understanding the significance of the potential maps. In outline our method involves two stages. The 625 measurements for the potential map are pasted into an Excel spreadsheet. Then potential gradients dV/dx and dV/dy are calculated for each possible group of four neighbouring measurement sites. From these (with the assumptions above) it is possible to calculate the magnitude and direction of the current at the point where the four cells meet. determine the current flow into (or out of) the surface, the second stage of our procedure takes a cell within the new matrix and examines the values of dV/dx for the cells to left and right and the values of dV/dy for the cells above and below. These indicate the current flows in and out of the cell. If they sum to zero, then current is only passing across that part of the surface through the solution, but if not, then current must be flowing into or out of the metal. Thus by summing these four current components the sign and relative magnitude of the current at every point has been determined. To
+
+Results and Discussion
+3
+
+The SKP results for sample A are shown in figures 1-6. Each shows a potential map for the small region around the defect and a current distribution calculated from it.
+
+Figure 1 - Potential contour map and corresponding current distribution plot on 120µm epoxy/barytes coating on steel substrate exposed to 3% NaCl solution after 1 day
+
+In figure 1, shortly after the start of the experiment, the most negative potential (anode) is within the defect and the surrounding region beneath the coating is more positive ( yellow). The current map
+
+shows the anode at the defect (red) and the strongest cathodic activity (blue) is in the immediate region around the defect. Although more positive cathodic regions exist, the cathodic current is smaller away from defect. This pattern of activity is much as might be expected. As time progresses a gradual reversal in polarity occurs (figs. 2-6) with cathodic activity appearing at the defect and fresh anodes forming to either side. This is particularly evident in the current maps. The sites of lowest potential have now shifted beneath the coating. This reversal is apparent by day 5 (figure 3), yet appears to fade, then reappear over the remainder of the test.
+
+4
+
+Figure 2 - Potential contour map and corresponding current distribution plot on 120µm epoxy/barytes coating on steel substrate exposed to 3% NaCl solution after 2 days
+
+5
+
+Figure 3 - Potential contour map and corresponding current distribution plot on 120µm epoxy/barytes coating on steel substrate exposed to 3% NaCl
+
+solution after 5 days Figure 4 - Potential contour map and corresponding current distribution plot on 120µm epoxy/barytes coating on steel substrate exposed to 3% NaCl solution after 8 days
+
+6
+
+Figure 5 - Potential contour map and corresponding current distribution plot on 120µm epoxy/barytes coating on steel substrate exposed to 3% NaCl
+
+solution after 13 days Figure 6 - Potential contour map and corresponding current distribution plot on 120µm epoxy/barytes coating on steel substrate exposed to 3% NaCl solution after 18 days
+
+7
+
+SAM images taken during this test with a 150 MHz lens are shown in
+
+figure 7. The sequence a-c reveals the development of disbondment around the corrosion site. If the main anodic and cathodic regions from the current maps are superimposed on these images (locating to give best fit), then we see the correspondence between the anodes and disbond. In 8 (c) the location of the anodes is at the edge of the disbond, with the cathode at the defect. the original defect in fig. 8(a), with cathodes in the surrounding
+
+Figure 7 - SAM image at the coating /metal interface on 120µm epoxy/barytes coating exposed to 3% NaCl solution after (sample A): a; 1
+
+day, b; 5 days, c; 20 days
+
+Figure 8 - Current distribution maps superimposed on SAM image at the coating /metal interface on 120µm epoxy/barytes coating exposed to 3% NaCl solution after (sample A): a; 1 day, b; 5 days, c; 20 days (18 day map).
+
+8
+
+Our explanation of this behaviour [2,3] is that when corrosion commences at the defect Fe++ ions are produced at the anodes, with insoluble Fe(OH)2 will be precipitated, which is then oxidised to FeOOH alkali being generated by oxygen reduction beneath the coating. Soon by oxygen in the solution. This insoluble rust starts to block the defect. The potential of the corroding metal is low, so that if the plug of rust comes into contact with the steel, then reduction of the rust to magnetite is expected to occur [5]. rust is present. alternative cathodic reaction that can only occur at the defect, where Thus the dominant reaction at the defect becomes cathodic and fresh anodic activity is initiated nearby (figure 9). This reaction provides an
+
+9
+
+Figure 9 ­ Systematic representation of the proposed mechanism
+
+When the samples were examined in an optical microscope (figure 10) it became clear that rust began to form in the defect at an early stage, but that as time progressed darkening of the rust occurred as it became reduced to magnetite. As will be shown below, this darkening is even more apparent for corrosion beneath the film.
+
+Figure 10 - Optical images of 120µm epoxy/barytes coating exposed to 3% NaCl solution after (sample A): a; 2 days, b; 5 days, c; 7days
+
+10
+
+Figures 11-13 show a sequence of potential and current maps for sample B. In this case corrosion had initiated at a site where the lacquer had been deformed in manufacture, without any visible defect in the coating. Again the initiation site is anodic, with surrounding cathodes. Again as the test progresses the original site, where rust appear. was first visible, becomes cathodic and new anodic sites start to
+
+plot on 10µm epoxy phenolic can lacquer on electro-chrome coated steel substrate exposed to 1% NaCl solution after 3 hours
+
+Figure11 - Potential contour map and corresponding current distribution
+
+11
+
+Figure 12 - Potential contour map and corresponding current distribution plot on 10µm epoxy phenolic can lacquer on electro-chrome coated steel substrate exposed to 1% NaCl solution after 70 hours
+
+Figure 13 - Potential contour map and corresponding current distribution plot on 10µm epoxy phenolic can lacquer on electro-chrome coated steel substrate exposed to 1% NaCl solution after 215 hours
+
+12
+
+Figure 14 shows SAM images with and without superimposed current maps. In these the presence of many small blisters in the coating surrounding the corrosion site is apparent. In the absence of
+
+corrosion within the blisters, it seems probable that they form at cathodes supporting the original anodic site. As corrosion proceeds and fresh anodes form, there appears to be a coincidence of several is difficult.
+
+new anode sites with blisters, though exact superimposition of images
+
+Figure 14 - SAM image (a) and current distribution map superimposed on SAM image (b) at the coating /metal interface on 10µm epoxy phenolic can lacquer on electro-chrome coated steel substrate exposed to 1% NaCl solution after 215 hours
+
+Figure 15 shows an optical image of the central region of the SAM image, where corrosion initiated. The rust, originally orange, has now turned black due to cathodic reduction to magnetite. The surrounding blisters beneath the lacquer are not visible in the optical image. When the current map is superimposed, the cathodes lie within the central blister, with anodic activity beneath the surrounding coating. This reversal is the normal behaviour seen for sample B [2], but for A non-reversal has also been observed [3].
+
+13
+
+Figure 15 ­ Optical image(a) and current distribution map superimposed on SAM image (b) at the coating /metal interface on 10µm epoxy phenolic can lacquer on electro-chrome coated steel substrate exposed to 1% NaCl solution after 215 hours
+
+It is important to remember that the current distributions shown here have been determined for samples removed from the test solution and mapped in air. The corrosion pattern has been created by full immersion, but the current flow is for a different condition. Nevertheless there seems good evidence for a pattern of corrosion activity sustained by current flow beneath the coating. The magnitude of the currents depends critically on the assumed values for the thickness and properties of the interfacial water layer. If the thickness is 20nm (say) and the ionic concentration the same as the test solution local current densities of the order of a few µA cm-2 appear reasonable. Further work is needed to produce quantitative results. One question such measurements may help to resolve is whether corrosion beneath coatings is controlled by the ease with which cells develop within the underfilm water (limited presumably by `wet adhesion' [6]) or by ionic current flow through the film, controlled by its ionic resistance [7]. That corrosion propagates through generation of new anodes around the original site of attack in suggestive that an 14
+
+important role of inhibitive pigments may be in suppressing the initiation of such anodes. Work on this is in progress.
+
+Conclusions
+1. For steel exposed to aerated salt solutions, corrosion begins with anodic activity at the original site of attack and cathodic activity beneath the surrounding coating. However once the defect
+
+becomes blocked with rust, cathodic activity is likely to take place if
+
+the Fe(III) oxide makes contact with the metallic substrate. This can result in a new galvanic cell in which new anodes are initiated 2. It has been demonstrated that SAM and SKP used together are a powerful way to throw fresh light on corrosion behaviour beneath organic coatings. around the original failure site, which becomes the cathode.
+
+Acknowledgements
+We are happy to acknowledge financial support from the EPSRC (Grant GR/N31887) and Crown Cork and Seal. We also would like to thank Akzo-Nobel Coatings for provision of samples. Baikie for helpful discussions. We thank Professor GDW Smith FRS for provision of laboratory facilities and Professor Iain
+
+References
+1. J.E.O. Mayne, J.O.C.C.A 33 (361) (1950) 312 2. M.J Doherty, B. Reddy, J.Sykes, Corrosion, NACE, San Diego (2003) (submitted to Corrosion Science) 3. B. Reddy, M.J Doherty J.Sykes, Electrochemical Methods in Corrosion Electrochemical Acta) 4. M.Stratmann, H.Streckel and R.Feser, Corrosion Sci. 32 (1991) 476-470 5. M. Stratmann, K. Bohnenkamp and H-J. Engell, Corros. Sci. 23(9) (1983) 969 15 Research, Belgium, May (2003) (submitted to
+
+6. W. Funke, Prog.Org. Coat. 9 (1981) 29 7. J.E.O.Mayne, J.O.C.C.A., 33(12) (1950) 538
+
+16
+

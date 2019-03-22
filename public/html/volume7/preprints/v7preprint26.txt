@@ -1,0 +1,348 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+Inhibiting effect of Tetra-n-butylammonium iodide on the corrosion of mild steel in acidic medium
+Monika* , Wequar Ahmad Siddique and Arwind Dubey
+
+Department of Applied Sciences & Humanities Faculty of Engineering & Technology Jamia Millia Islamia, New Delhi ­110025 INDIA
+
+ e-mail: jmi_bansal24@yahoo.com ; weqar_ah@yahoo.com;  Mobile No: 09868495161, 09812250772
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+Abstract
+The inhibition effect of tetra-N-butylammonium iodide (TBAI) on mild steel in 1N H2SO4 has been studied by using weight loss, electrochemical polarization, Fourier Transform Infrared (FTIR) and scanning electron microscopic (SEM) techniques. It has been concluded that percentage inhibition increases with increase in concentration of inhibition. The adsorption of TBAI on mild steel surface in 1N H2SO4 obeys Langumir adsorption isotherm, surface analysis and IR studies are also carried out to establish the mechanism of corrosion inhibition.
+
+Keywords: Corrosion, mild steel, H2SO4, tetra-N-butylammonium iodide (TBAI)
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+Introduction
+Corrosion is destructive attack of metal by its environment. Inhibitors are generally used to protect materials against deterioration from corrosion. Many organic compounds containing oxygen, nitrogen and sulphur have been used as corrosion inhibitor for metal [1-10]. Amines are effective inhibitors for steel corrosion in acidic solution [11-13]. The present paper deals with the study of inhibiting action of TBAI on mild steel in acidic solution. The electrochemical behavior of mild steel in H2SO4 media in absence and presence of inhibitor has been studied by galvanostatic polarization, IR and SEM method.
+
+Experimental
+The mild steel coupons of composition(C=0.10-0.20%, Mn=0.40-0.50%, Si=0.05%, S=0.025-0.030%, P=0.30-0.80% and rest is Fe) and of size (i.e. 0.8×0.8×3.0 cms) have been used for weight loss measurements. These coupons are given mechanical polishing and then degreased before use. The inhibition efficiency for different concentrations of inhibitor is calculated from weight loss values. For polarization studies a cylindrical mild steel rod of it composition embedded ion araldite is used. The electrodes are polished with emery papers and degreased. AR grade of H2SO4 acid is used for preparing solutions. Double distilled water is used to prepare all solutions. For accurate measurements of potential and current densities, galvanostatic polarization studies were carried out at different temperatures. A platinum foil and saturated calomel electrode are used as counter and reference electrode respectively. Polarization was carried out in H2SO4 in the absence and presence of inhibitor of various concentrations and temperatures. The Fourier Transform Infrared Spectroscopic analysis (FTIR) Spectra of pure inhibitor as well as spectra of inhibitors adsorbed on silica gel are recorded by using Perkin Elmer Infrared Spectroscope IR 137. The pure saturated solutions of
+
+additive is prepared in solvent i.e. benzene in which the compound is soluble. Now silica gel, which is dried in oven to remove the moisture, is added in the additive. The dried solid pallet of the additive mixed in silica gel are used to record the FTIR spectra.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+To know the surface morphology of mild steel scanning electron microscopy technique using LEO 435 V.P. Scanning Electron Microscope is used. The polished specimens, which is used in this experiment are examined to find out any surface defects by optical microscope. Those specimens are taken which have smooth surface. After this the specimen are washed with double distilled water and dried in desiccators. These specimens are dipped in the solutions of 10 M and 10 M concentration for the inhibitor in 1N sulphuric acid for 24 hours at room temperature. These specimens are then washed with distilled water and dried in a desiccator. The SEM photographs are recorded of these corroded specimens as well as with out corrode mild steel specimen. Result and Discussion Weight loss Measurement The corrosion inhibition efficiency of TBAI for corrosion of mild steel is calculated as follows
+-1 -7
+
+w w % Efficiency  0  100 w0
+where w0 and w are the values of corrosion weight loss of steel without and with inhibitor respectively. Table I gives the value of inhibition efficiencies obtained from weight loss study for various concentrations and temperatures. It has been observed that the inhibition efficiencies slightly change as the temperature increases from 298 K to 328 K for 10-1M concentration. The change in inhibition efficiencies are quite less for all concentrations viz. 10-1M, 10 -3M, 10-5M and 10-7M at temperature 298 K. While changes in inhibition efficiencies are more as the temperature increases from 308 K to 328 K for all concentrations. Polarization Measurement Figures I to IV show the anodic and cathodic polarization curves(Tafel's plot) of mild steel in 1N H2SO4 solution with and without the addition of various concentration of TBAI at different temperatures i.e. 298 K, 308 K, 318 K and 328 K. The various electrochemical parameters corrosion current density (Icorr), corrosion potential Ecorr , Tafel's value ba and bc for different concentrations are given in Table II. The corrosion current densities are calculated by extra plotting the tangents of anodic and
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+cathodic curves and their intersection with corrosion potential. These curves explain the corrosion current densities decreases with increase in concentration of inhibitor. The percentage inhibition of each inhibitor at various concentrations in 1N H2SO4 is shown in Table II after being calculated from the expression
+
+I (corr) uninh- I(corr) inh × 100 % Inhibition = I (corr) uninh The percentage inhibition of TBAI on mild steel in 1N H2SO4 shows that corrosion inhibition efficiency reaches about 95.2% with solution containing 10 -1M inhibitor concentration where as at low concentration (10 M) the percentage inhibition is about 87.41% at 298 K. While at 328K the corrosion inhibition efficiency reaches 94.8% with solution containing 10 M inhibitor. On the other hand the percentage inhibition efficiency is about 33.93% containing solution 10-7M concentration. This effect could be attributed to the fact that inhibition increases due to large alkyl chain group, which cause enough coverage on the metal surface. In this way small area of electrode surface is left uncovered, which produces less corrosion on mild steel. The trend in the values of bc and ba suggest here that many inhibitor processes are participated in corrosion inhibition. From the experimental method, it is concluded that inhibitor effect is anodic at temperature 298K rather than cathodic except 10-1M. At higher temperature the inhibitor TBAI is anodic type. Adsorption Kinetics With high concentration of inhibitor a protective inhibitor layer formed on the mild steel surface which reduces the chemical attack of metal. The surface coverage  values have been obtained from electrochemical measurements for various concentrations. There are many adsorption isotherms to study the adsorption process. Here Langumir adsorption isotherm is tested. Figure V shows the plot of log   /1- v. log C graph, a straight line with approximately unit slope. The value of heat of adsorption can be calculated from the formula
+-1 -7
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+log
+
+ Q  A  C  ads log log 1  2.3RT
+
+where A is Arrhenius constant, C is inhibitor concentration and Q is heat of adsorption.
+
+The value of heat of adsorption for TBAI is 4.50 Kcal/mol. To calculate the activation energy, the current densities are plotted against temperature in absence and presence of inhibitor (Fig. VI). The value of activation energy can be find out by Arrhenius equation.
+ I cor r log     a2 RT
+
+where Ea is the activation energy. The value of activation energy of TBAI is 64.31 Kcal/mol.
+
+FTIR Study of Inhibitor To find out the types of bonding for organic molecule adsorbed on the surface of solid, FTIR study has been conducted. Silica gel has been chosen because of large surface area of adsorption of organic molecule and yields a spectrum of moderate intensity. The various peaks in spectra of pure and silica gel adsorbed additives are shown in Fig. VII and VIII and there vibrational modes are reported in Table III. The spectra of TBAI indicate the disappearance of N-C, N-H, -CH2- and N-H wagg and merging of two peaks for C-Hstr bond into single peak. From the above observation it can be concluded that adsorption of this inhibitor over solid surface takes place through N-C bond, N-H bond and N-H wagg. Scanning Electron Microscopic Study To study the surface morphology of mild steel coupons SEM technique has been used. Figure IX, X, XI and XII show the surface morphology of plain mild steel, in 1N H2SO4 and corroded surfaces after dipped in TBAI inhibitor at 10-7M and 10-1M. The micrograph obtained from different concentrations show that the surfaces are inhibited due to formation of insoluble stable film of mild steel surface. It proves that additive act as good inhibitor at higher concentration 10-1M.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+References 1. S.M. Abdel Wahaab and G.K. Gomma, J. Chem. Tech. Biotechnol., 36 (1986) 185. 2. G.K. Gomma, Bull. Electrohem., 4 (1988) 941. 3. G.K. Gomma, R.M. Issa, H.Y. El-Baradie and E. Shokry, Bull. Electrochem., 8 (1992). 4. G.K. Gomma and Y. L. Aly, Bull. Electrochem., 9 (1993) 53. 5. G.K. Gomma, J. Indian Chem. Soc. 70 (1993) 130. 6. G.K. Gomma and M.H. Wahdaan, Material Chem. Phys., 39 (1994) 142. 7. M.H. Wahdaan and G.K. Gomma, Material Chem. Phys., 47 (1997) 176. 8. G.K. Gomma, Material Chem. Phys., 56 (1998) 27. 9. G.K. Gomma, Material Chem. Phys., 55 (1998) 235. 10. G.K. Gomma, Material Chem. Phys., 55 (1998) 131. 11. G. Trabanelli and V. Carorrite, Advances in Corrosion Science and Technology (M.G. Fontana and R.W. Stachle, Eds.) Vol. I. Plenum, N.Y. 1970, 147. 12. I.L. Rozenfeld, Corrosion Inhibitors (NewYork, NY: Mc Graw-Hill) (1981) 327. 13. G.Gradner in Corroion Inhibitor, ed.C.C. Nathan (Houston, TX: NACE) (1973) 156.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+Caption of Figures Fig.I. Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of TBAI at 298K. Fig.II. Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of TBAI at 308K. Fig.III.Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of TBAI at 318K. Fig.IV.Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of TBAI at 328K. Fig.V. Variation of surface coverage vs. concentration at different temperatures of TBAI. Fig. VI. Inhibition efficiency vs. concentration of TBAI at different temperatures Fig. VII. FTIR Spectrum of Pure TBAI Fig. VIII. FTIR Spectrum of TBAI adsorbed on Silica gel Fig.IX. Scanning Electron Micrograph of plain Mild Steel at 2000 magnification Fig.X. Scanning Electron Micrograph of Mild Steel in 1N H2SO4 at 2000 magnification. Fig.XI. Scanning Electron Micrograph of Mild Steel in presence of 10 M TBAI in 1N H2SO4 at 2000 magnification. Fig. XII. Scanning Electron Micrograph of Mild Steel in presence of 10-1 M TBAI in 1N H2SO4 at 2000 magnification.
+-7
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+Table I Inhibition Efficiency of tetra-N-butylammonium iodide (TBAI) Temperature 298K Solution/mol (L-1) 1N H2SO4 10-7 -5 10 10-3 -1 10 1N H2SO4 10-7 10-5 -3 10 -1 10 1N H2SO4 -7 10 10-5 10-3 10-1 1N H2SO4 10-7 -5 10 10-3 10-1 Weight loss/gram 0.0786 0.0099 0.0073 0.0041 0.0035 0.1568 0.0715 0.0598 0.0179 0.0071 0.5468 0.3454 0.2374 0.1675 0.0260 1.1891 0.8028 0.6849 0.2349 0.0683 %I 87.40 90.71 94.78 95.54 54.40 61.86 88.58 95.47 36.83 56.58 69.36 95.24 32.48 42.40 80.24 94.25
+
+308K
+
+318K
+
+328K
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+Table II Corrosion Parameters of Mild Steel in 1N HNO3 in presence of tetra-Nbutylammonium iodide (TBAI)as additive:
+
+Temp.
+
+Solution/mol (L-1) 0 10 -7 10 10 10
+-5 -3 -1
+
+Ecorr mV 512 482 463 485 541 522
+
+Log icorr  A/cm2 3.45 2.55 2.43 2.20 2.13 3.38 3.05 2.95 2.48 1.99 3.35 3.15 2.99 2.83 2.03 3.29 3.11 3.05 2.60 2.00
+
+bc mV/dec 99 91 81 100 241 111 91 78 85 163 75 40 93 81 168 41 81 76 43 117
+
+ba mV/dec 141 161 179 168 349 151 133 248 100 457 73 98 204 159 432 93 91 173 120 432
+
+%I
+
+298K
+
+87.41 90.45 94.30 95.20 53.22 62.84 87.40 95.50 36.90 56.34 80.80 95.21 33.93 42.45 79.58 94.87
+
+308K
+
+0 10 10 10 10
+-7 -5 -3 -1
+
+482 453 495 525 500 485 455 482 480 480
+
+318K
+
+0 10 -7 10 -5 10 -3 10 -1
+
+328K
+
+0 10 10
+-7 -5
+
+482 462 462 440
+
+10 -3 10 -1
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+Table III Fourier Transform infrared bands pure and adsorbed tetra-Nbutylammonium iodide (TBAI) inhibitor TBAI 2987.1 1472.5 990.4 1257.0 1655.4 TBAI ads 2987.4 1472.7 1620.0 Peak C-H C-C C-O N-C N-H
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+-0.3 -0.4
+E (mV ) vs. S CE
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 2 3
+2
+
+H2SO4 10-1M 10-3M 10-5M 10-7M
+
+4
+
+Log Current Density( A/cm )
+
+Fig. I. Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of TBAI at 298K.
+
+-0.3 -0.4
+E(mV) vs SCE
+
+H2SO4 10-1M 10-3M 10-5M 10-7M
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 2
+Log Current Density( A/cm )
+2
+
+3
+
+4
+
+Fig. II. Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of TBAI at 308K.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+H2SO4 -0.3 -0.4
+E(mV) vs SCE
+
+10-1M 10-3M 10-5M 10-7M
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1
+Log Current Density( A/cm )
+2
+
+2
+
+3
+
+4
+
+Fig. III. Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of TBAI at 318K.
+
+-0.3 -0.4 -0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 2 3 4
+Log Current Density(  A/cm 2)
+
+H2SO4 10-1M 10-3M 10-5M 10-7M
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+E(m V) vs SCE
+
+Fig. IV. Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of TBAI at 328K.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+1.6
+
+298K 308K 318K 328K
+
+1.1
+
+log  /1-
+
+0.6
+
+0.1
+
+-0.4
+
+-0.9 -8 -7 -6 -5 -4
+log C
+
+-3
+
+-2
+
+-1
+
+0
+
+Fig. V. Variation of surface coverage vs. concentration at different temperature of TBAI.
+120 298K 308K 318K 100 328K
+
+80
+
+I%
+
+60
+
+40
+
+20
+
+0 -8 -7 -6 -5 -4
+logC
+
+-3
+
+-2
+
+-1
+
+0
+
+Fig. VI. Inhibition efficiency vs. concentration of TBAI at different temperatures
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+Fig. VII. FTIR Spectrum of Pure TBAI.
+
+Fig. VIII. FTIR Spectrum of TBAI adsorbed on Silica gel
+
+Fig. IX. Scanning Electron Micrograph of plain Mild Steel at 2000 magnification
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 26
+
+31 January 2005
+
+Fig. X. Scanning Electron Micrograph of Mild Steel in 1N H2SO4 at 2000 magnification
+
+Fig.XI. Scanning Electron Micrograph of Mild Steel in presence of 10-7 M TBAI in 1N H 2SO4 at 2000 magnification.
+
+Fig. XII. Scanning Electron Micrograph of Mild Steel in presence of 10 M TBAI in 1N H 2SO4 at 2000 magnification.
+
+-1
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

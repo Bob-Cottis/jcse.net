@@ -1,0 +1,526 @@
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+Some advantages of pulse, compared to conventional cathodic protection in reinforced concrete
+1Faculty
+
+D.A. Koleva1 , K. van Breugel1 , J.H.W. de Wit2, J.Hu1, A.L.A. Fraaij 1 of Civil Engineering and Geosciences, Delft University of Technology, Stevinweg 1, 2628 CN Delft, The Netherlands
+2Section
+
+Corrosion engineering and Electrochemistry, GvTM, Rotterdamseweg 137, 2628 AL Delft, the Netherlands ABSTRACT: Both corrosion and cathodic protection of steel reinforcement in concrete are electrochemical processes with high complexity. Cathodic protection (CP) has been found to be one of the most viable techniques of inhibiting chloride induced corrosion of steel in concrete structures. However, the protection current is found to cause microstructure changes, the latter influencing the global mechanical properties of the system and consequently affecting the structures durability. This paper comprises some research outcomes from ongoing research and pursues to reveal the feasibility and efficiency of Pulse CP for reinforced concrete and its superiorities over conventional CP. Both regimes used CP current from 5 to 20 mA/m2, the pulse achieved with 12.5% to 50% duty cycle at certain frequency. It is found out that physicochemical changes due to ion transport as well as electrical properties of the bulk material are attributed to the structural alterations of the pore space induced by the CP current. The research outcomes prove that pulse CP of reinforced concrete provides sufficient polarization hence achieves adequate protection on one hand and is found to be less detrimental to the bulk concrete microstructure and the steel/cement paste on the other. Moreover, the research demonstrates the efficiency of pulse CP technique leading to favorable conditions in the protected systems in terms of amounts and morphology of corrosion products at the steel surface, providing insight into the fundamental mechanisms, underlying its effectiveness. Keywords: Cathodic protection, Corrosion products, EIS, Microstructure parameters, SEM image analysis.
+
+1
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 1. INTRODUCTION
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+Corrosion of embedded steel in concrete represents a great concern in relation to the durability of concrete structures. A concrete layer that maintains a pH of 13.5 determines passive condition of reinforcing steel. However, when sufficient aggressive ions (e.g. chloride) have penetrated to the reinforcement, corrosion of the steel surface is initiated and the protective film is destroyed. In such corrosion system and conditions, one of the most hazardous types of corrosion occurs, namely localized (or pitting) corrosion [1, 2]. Electrochemical methods for prevention and protection, including desalination and cathodic protection (CP) are among the most efficient ones in such systems. Electrochemical desalination is a widely used technique, however if the steel has reached sufficiently developed stage of corrosion, chloride extraction will not be efficient [3]. So far CP is found to be the only technique that is able to minimize or stop corrosion in salt contaminated environments [4]. In addition to the protection mechanism, a beneficial effect in CP applications is the withdrawn or repulsion of aggressive ions away from the negative pole, being the steel reinforcement. Along with chloride migration towards the positive pole, migration of alkali ions (K+ , Ca 2+ , Na+ , Mg2+) will promote accumulation of the latter in the vicinity of the reinforcement due to their transport towards the negative pole of the system as a consequence of the CP current flow. Both ion (anions and cations) transport processes are present in CP applications and exhibit different rates, depending on the diffusion coefficients of the ions and the nature of their hydration shells and mobility respectively. As far as corrosion risks are concerned, chloride withdrawn is a beneficial process, alkali accumulation around the steel bars however may cause a variety of side effects, the main being softening of the calcium-silicate-hydrate (C-S-H) around the reinforcement, hence bond strength degradation and lost of adhesion of cement layer [5]. The impair of concrete adhesion to the steel surface can reach 60 % [6], the bond-strength can weaken by 55 % [7]. Both side effects depend on the CP current density and the duration of CP application. The reason of bond-strength degradation is still unclear despite the reported data for changes in microstructure, pore size distribution and microcracking [5, 8, 9]. By all means, an improved CP, using 50 % of the current density normally applied in conventional CP applications, will be expected to cause lower side effects and can have even better performance with respect to concrete microstructure, overcoming the generally high concrete resistivity and achieving sufficient rebar polarization i.e. the required protection. To this end the present paper pursues to explore the 2
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+feasibility, efficiency and superiorities of pulse CP in reinforced concrete compared to conventional CP. The efficiency of a CP technique in general was first proved in a more fundamental way, along with the conventional monitoring techniques. In addition, the effects of CP current flow on the concrete bulk material were investigated in terms of evaluation electrical properties and ion transport mechanisms. Finally the efficiency of the improved (pulse CP) techniques was evaluated based on empirical criteria, microstructural, morphological and quantitative investigations. 2. EXPERIMENTAL 2.1. Materials The reported data in the present paper were derived from 2 series of specimens: concrete prisms and reinforced concrete cylinders. The materials composition, curing and experimental set-ups were as already reported in [10, 11]: All specimens were cast according standard procedures, using OPC CEM I 32.5 and w/c ratio 0.6. Cement -to sand -to gravel ratio was 1:2:4. All specimens were cured in fog room (98%RH, 20 for 28 days and maintained in certain C) environmental conditions afterwards. Concrete prisms with dimensions 100x100x300 mm, differing in chemical composition and set-up, were divided into subgroups: D - cast using demi-water, N - cast using 1.25M NaCl solution as mixing water, DN - half-to-half the mixture of D and N. The series of concrete prisms was investigated aiming at determination of electrical properties in all technical conditions (rest, conventional CP and pulse CP) and correlating results with alterations in chemical composition (chlorides and alkali concentrations). Reinforced concrete cylinders: H=25cm, D=12 cm, containing 2 embedded construction steel bars (d=12mm), after curing in fog room for 28 days, were conditioned in salt spray chamber (5% NaCl) for certain period of the test, aiming at acceleration of the corrosion process. Subgroups were: N ­ corroding, P conventional and pulse CP protected and R ­ control (non-corroding) specimens. The series aimed at investigation the efficiency of different regimes of cathodic protection and the electrochemical behavior of the embedded steel. A cylindrical MMO Ti mesh (embedded in the concrete cover) served as counter electrode, embedded Mn/MnO2 and external saturated calomel electrode (SCE) served as reference electrodes for the electrochemical (EC) measurements.
+
+3
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 2.2. Electrical resistivity
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+Electrical resistivity was monitored in the series of concrete prisms. The electrical resistivity (by sections of the prisms and in total) was calculated on basis of recorded resistance. An AC 4 pin method was performed, using specially designed R-meter, via embedded plates (on the prisms cross section edges), pins and multiplexers, thus it was possible to select and record electrical resistance in a certain cell or cell section. 2.3. Chemical analysis The chemical analysis was performed for each section of the concrete prisms at certain intervals of time (from 14 to 210 days of cement hydration), according ASTMC1218 and ASTM C1152 for free and total chloride concentration and using plasma spectrometry (Inductive Coupled Plasma Spectrometer (ICP-AES) for determination of alkali concentrations. The chemical analysis aimed at monitoring ion transport due to diffusion (no-current conditions) and migration under electrical field (CP and pulse CP current conditions). 2.4. Cathodic Protection In the present study, impressed CP current was applied on part of the specimens (group P mentioned above) at 120 days of cement hydration. Steady and pulse DC in different regimes was used: from 5 to 20 mA/m2 applied on different cellcouples (CP and pulse CP) for the whole test period and from 12 to 50 % duty cycle at 500Hz to 1kHz for the pulse regime. MMO Ti mesh, embedded in the concrete cover, served as anode. 2.5. Conventional monitoring In terms of assessing the cathodic protection efficiency, the generally accepted methods are potential mapping and depolarization measurements, aiming at monitoring the level of steel surface polarization in accordance with standard requirements. Half-cell potential mapping and Polarization Development /Decay were performed for the reinforced concrete cylinders according ASTMC876 and NACE RP0290-2000 respectively.
+
+4
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+2.6. Electrochemical techniques Linear Polarization Resistance (LPR), Potentiodynamic Polarization (PDP) and Electrochemical Impedance Spectroscopy (EIS) were performed, aiming at investigation the condition of the steel surface, mainly determination of the Polarization resistance (Rp) in every technical condition. All electrochemical measurements were performed at OCP (after 24 h depolarization of the reinforcement for the protected specimens) and in immersed condition (5 % NaCl solution for corroding and protected specimens and demi-water for non-corroding specimens), assuring electrical conductivity of the medium. The same measurements were performed for bare steel samples as well (using the steel previously cast in the concrete) in 3%NaCl as solution medium. The used equipment was EcoChemie Autolab - Potentiostat PGSTAT30, combined with FRA2 module, using GPES and FRA software package. 2.7. Microstructural investigation of bulk material, steel/paste interface and steel surface Relevant to microstructure analysis and correlation of electrical properties and ion transport, a set of SEM images were made at random locations on polished sections for each group of specimens. The physical size of the reference region of each image is 226  in length and 154  in width, with the resolution of 0.317 m m  m/pixel (corresponding to a magnification of 500x). Combination of SEM images and quantitative image analysis allows deriving structural information of pore space, such as porosity and critical pore size. On the basis of mathematical morphology transformations, pore size distribution can be obtained by using a sequence of similarly shaped structuring elements of increasing size [12]. This contribution specifically pursues to explore the alterations in morphological aspects, chemical compositions of corrosion products and the modifications at the steel/cement paste interface regions, associated with cathodic protection. For this purpose, ESEM images (using ESEM Philips XL30, equipped with EDXA detector), energy dispersive X-ray analysis (EDXA) and X-ray diffraction (XRD) are employed for visualisation and microstructural investigations of the product layers. The quantitative microstructure analysis of the steel-paste interface is expected to provide better and more fundamental understandings of the electrochemical processes occurring in reinforced mortars/concretes under cathodic protection.
+
+5
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 3. RESULTS AND DISCUSSION
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+3.1. Efficiency of pulse CP current with respect to ion transport and electrical properties Ion transport and electrical current flow (as in CP applications) in cement-based materials are determined mainly by the electrical properties of the bulk matrix. The electrical resistivity of concrete is claimed to be one of the main parameters characterizing the possibility of displacement of charged particles under the influence of an external electrical field or under the influence of concentration gradients. The concrete conductivity is characterized through the motion of ions such as Na+, K+ , OH-, SO42 -, Ca2+ in the pore solution and also related to the concentration of aggressive ions, such as Cl-, being a main cause for pitting corrosion in reinforced concrete. In concrete, ionic (or electrolytic) conduction is the main phenomenon of electricity transport [13]. Hence, determination of electrical properties, el.resisitivity respectively, and aggressive ion concentration (ex. chloride) is of significant importance for evaluation of the global behavior of reinforced concrete systems in conditions of CP applications and the efficiency of the latter. As already mentioned, one of the beneficial effects of CP is the influence of current flow on ion transport, mainly reducing the aggressive ion concentration, ex. Claround the negative pole (being the steel reinforcement) and transport to the positive pole (being the anode in CP applications). Chemical analysis for chloride and alkali concentrations was performed for evaluating the efficiency of both current regimes in enhancing ion migration through the concrete prisms
+64 days 86 days 109 days
+B3
+
+pulse DC curr ent
+
+-
+
++
+64 days 86 days 109 days B3
+
++
+
+1
+
+2
+
+3
+
+4
+
+5
+
+_
+
+DC curr ent
+
+Demi water A3 A4 B4
+
+a% chloride a% chloride B3
+
++
+0 100 200 300 400
+
+Total chloride (mMol/dry cement weight)
+
+a)
+
+b)
+
+6
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+60
+Res is tivity kOhm c m Res istivity kOhm c m
+
+R esis tiv ity k Ohm cm
+
+50 DNrest 40 30 20 10 0
+0-10 30-40
+
+A3 A4 B4 B3
+
+60 50 40 30 20 10 0
+0-10 30-40
+
+60
+
+DNpDC
+
+A3 A4 B4 B3
+
+50 40 30 20 10
+
+DN DC
+
+A3 A4 B4 B3
+
+c)
+
+10-20 40-50
+
+20-30
+
+d)
+
+1 0-20 40-50
+
+20-30
+
+e)
+
+0
+0-10 30-40 10-20 40-50 20-30 50-60
+
+Fig. 1 Total chloride concentration in mMol per dry concrete weight (a) at different sections of specimens DN (b) under steady (bottom of the plot) and pulse DC current (top of the plot); Evolution of electrical resistivity for groups DN in different technical conditions: in rest conditions (only cement hydration and ion transport due to concentration gradient are involved) ­ (c), under pulse (d) and conventional CP (e) current with the current flowing through the cell as an additional influencing factor (specimens age ­ 210 days of cement hydration) Fig.1a) presents the chloride concentrations measured from drilled cores of the specimens DN (half-to-half mixed with demi-water and NaCl) up to 109 days of cement hydration. In the specimens under pulse CP current regimes (pulse DC), the current flow is accelerating the ion transport towards sections A (initially free of chloride)-Fig.1b), where the ion-exchange capacity is higher, thus increasing the hydration rate and filling up of the pore network. It is followed by reduction in the portion of continuous conductive paths in the system and increased electrical resistivity. In this case, the physicochemical process is taking place more uniformly throughout the specimens under pulse DC current than the specimens under steady DC (conventional CP), evidenced by the local resistivity measurements as well (Fig.1d)and e)). This effect can be additionally proved by the lower and almost uniform chloride concentrations in specimens under pulse CP at the middle part and negatively charged pole of the specimens, accompanied by a higher chloride concentration around the positively charged pole, compared to the specimens under steady DC current (Fig. 1a). Resistance monitoring of the concrete prisms was performed during a period of 210 days of cement hydration for all technical conditions (rest, conventional CP and pulse CP), following experimental procedures and specifications already reported for earlier age of the specimens in [10]. The total electrical resistivity and local resistivity at various sections are calculated with the equation:  =RA/l, where 7
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+is the resistivity (in Ohm-cm), R is the resistance (in Ohm), A is the cross section
+area (in cm2 ) and l is the length (in cm). Concrete resistivity increases with time as a result of cement hydration, a mechanism involved in all the investigated specimens. Since all groups of specimens were maintained in the same environmental conditions, the additional factors determining changes in electrical resistivity were NaCl concentration in certain subgroups (N and DN specified above) and the electrical current flow in the specimens under CP and pulse CP current. Sodium chloride, being an accelerator of hydration, shifts the electrical resistivity to higher values for specimens N and DN, due to refined porosity. The present study reveals that electrical current flow is also influencing the microstructure of the concrete material and consequently brings alterations in the electrical properties, mainly increasing the electrical resistivity. More information on the combined influence of NaCl and current flow on electrical properties can be referred to [14,15]. Figs. 1c) to Fig.1e) present the changes in electrical resistivity for specimens DN (using half-to-half demi-water and 1.25MNaCl), where influencing factor, except cement hydration and current flow, is ion transport due to concentration gradient. It is obvious that the CP current yields increased electrical resistivity with time, as the sections B (Fig.1b) of specimens under DC (Fig.1e) and under pulse DC (Fig.1d) exhibit higher resistivity values compared to the sections B of specimens DN in rest conditions (Fig.1c). Moreover, as seen from Fig.1e), the DC current brings about increased heterogeneity in the system, evidenced by the highest for all conditions electrical resistivity in some sections of the prisms (~ 55 kOhm.cm2) while the resistivity in other sections of the same prisms falls in the range of lowest values (~25 kOhm.cm2). Hence, the pulse CP current is beneficial as far as uniform electrical properties of cement-based materials are concerned. 3.2. Beneficial effects of the pulse CP current with regard to concrete bulk matrix The electrolytic path in concrete systems is dependent on the kinetics of ion transport mechanisms, the latter affected by pore size distribution and pore connectivity. Furthermore, electrical current flow will additionally affect the material structure (including pore structure) and engineering properties of concrete. An example for the microstructural analysis, performed for each group of specimens is given on Fig.2a)b) for specimens DN, sections A and B (specified above) in conditions of conventional CP (DN DCA and DN DCB) and pulse CP ­ DNpDCA and DNpDCB. The figures present the critical pore size, permeability and 8
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+pore inter-connectivity of the investigated specimens. The critical pore size can be conceived as the diameter of the pore that completes the first interconnected pore pathway in a network, developed by a procedure of sequentially adding pores of diminishing size to this network. It is generally accepted that the smaller the critical pore size, the finer the pore structure. The critical pore size is a unique transport length scale of major significance for permeability properties Permeability (k[m/s]) and connectivity (dimensionless) are parameters derived by image analysis of BSE images, morphological and stereological approaches. For details of microstructure analysis, relevant to the present study, see [10] and [16].
+10
+Area fraction of porosity (%)
+
+8 6 4 2 0 0.1
+
+DN DCA DN DCB DN PDCA DN PDCB
+
+3.00E-09 2.40E-09 1.80E-09 1.20E-09 6.00E-10 0.00E+00
+
+Permeability
+
+Connectivity
+
+0.15 0.12 0.09 0.06 0.03 0.00
+
+a)
+
+1 Size of structuring element ( mm)
+
+10
+
+pDCA
+
+pDCB
+
+DCA
+
+DCB
+
+b)
+
+Fig. 2 Critical pore size (peak of the curves in the left figure) -(a) and Correlation of derived parameters as "permeability" and "connectivity" ­ (b) for sections A and B of specimen DN under pulse CP current (denoted as DNPDCA (pDCA) and DNPDCB (pDCB)), and steady CP current (denoted as DNDCA (DCA) and DNDCB (DCB)). As already mentioned, in the DN specimens, the steady current yields a much higher extent of structural heterogeneity in the material (Fig.1e), corresponding to the largely diverging values in electrical resistivity for the left (section A) and the right half (section B) part of the specimens. In contrast, the pulse current induces only minor changes in the pore structure and the different sections exhibit similar resistivity (Fig. 1d). Therefore, pulse DC is promoting ion and current flow on one hand (Fig.1a), but maintains homogeneity in the system on the other.
+
+9
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+a
+
+b
+
+c
+
+Fig.3 ESEM micrographs at magnification 500x, depicting the interfacial transition zones (ITZs) aggregate/cement paste in: Rest conditions (no current) (a); pulse CP current conditions (b) and CP conditions (c). Supporting evidence of the latter are the following observations: pore structure parameters in sections A and B for specimens under pulse CP (DNpDCA and DNpDCB) are similar ­ close values for porosity (Fig.2a) and permeability and almost equal values for connectivity (Fig.2b), while the increased heterogeneity of specimens under CP (steady DC) is proved by higher electrical resisitivity (Fig.1e), and a significant difference in porosity, connectivity and permeability values (Fig.2b). The same mechanisms and observations hold for all groups of specimens. The main negative effect in terms increased heterogeneity of the bulk material is the increased interfacial transition zone (ITZ) of aggregate/cement paste. As shown on the micrographs on Fig.3, the pulse and rest conditions are characterized with a gap of less than 4 micrometers, while under DC conditions the latter is mostly between 5 and 15 micrometers. Hence the DC current is more detrimental to the concrete bulk material. 3.3. Conventional monitoring techniques for evaluation of CP efficiency in reinforced concrete.
+Corrosion potential vs Time for protected (CP and p ulse CP), corroding and reference specimens
+-1.18 -1.15 -1.13
+
+a) 0
+-Ecorr (mV vs SCE)
+
+Depolarization decay, ch.2 (CP) and ch.10 (pulse CP)
+
+b)
+
+corrosion
+
+600 900 1200 1500 40 80 120 160 200 240 300 360 420
+DC(prevention) DC Corroding pDC(prevention) pDC Reference protection
+
+E / V, Mn/MnO2
+
+300
+
+-1.10 -1.08 -1.05 -1.03 -1.00 -0.98 -0.95 -0.93 0
+3 3 3 3 3 3 3 3 3 10x10 20x10 30x10 40x10 50x10 60x10 70x10 80x10 90x10
+
+CP pulse CP
+
+Time (day s)
+
+time[s]
+
+10
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+Fig.4 Potential mapping for corroding, reference and protected (conventional and pulse CP) specimens ­ (a) and Depolarization/Decay measurements for specimens under conventional and pulse CP ­ (b). In the present study, potential mapping was performed in accordance with ASTM C876, using embedded Mn/MnO2 reference electrodes and additional comparative measurement with external SCE electrode. Fig.4a) depicts the recorded values vs SCE for the period of 420 days. Fig.4b) presents a depolarization (decay) measurement, performed according generally accepted criteria (e.g. NACE RP0290-2000). The decay was determined by interrupting the CP current and monitoring the potential of the steel bars, relative to embedded (and alternatively external) reference electrodes (Mn/MnO2 and SCE). As initial value the "instant-off" potential is used, the decay according criteria should be at least 100 mV for 4h (24 h), which determines effective CP. All measurements were performed in equally controlled for all cells environmental conditions. The recorded data evidence the effective performance of the pulse CP technique. 3.4. Fundamental approach in evaluation of CP efficiency Previous investigations of the present authors [17,18] on cross- and longitudinal sections of steel/cement paste interface provide visualization of different corrosion and hydration products in conditions of corrosion and cathodic protection. The efficiency of CP was additionally supported by analysis of the product layer morphologies and quantified by EDAX and XRD analysis. Cathodic protection current successfully prevents chloride ions to reach the steel surface, so that a Ca(OH)2 layer remains (or possibly forms as investigated by [19]) intact on the steel surface and acts as a protection barrier against reduction in the pH value. At ultimate stage of chloride ingress, this barrier may be destroyed by reaction between Cl- and Ca(OH)2, however, the cathodic protection will minimise that risk and keep the surface immune. The significantly different morphologies of the corrosion products between the protected and corroding specimens are clearly revealed by ESEM. Fig.5a) displays flower-like iron oxychloride and iron-(oxy) hydroxide complexes of lamellar type deposited on the steel surface in the unprotected sample. EDAX reveals that the different morphology can be attributed to different mass ratio of iron and chloride ions [18]. The lamellar type is expected to be responsible for volumetric expansion, deposition in restricted pore space of the cement paste (Fig.5b) and further micro-cracks initiation. 11
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+a
+
+b
+
+Fig. 5 BSE images of product layers on the steel surface of corroding specimen N(500x-left) ­ (a)[18] and the relevant print of the same region in the cement paste (4000x-right) ­ (b), revealing different dimension and morphologies of corrosion products, The iron oxy-hydroxide complexes of lamellar type are expected to be responsible for volume expansion and cracking initiation in the cement paste.
+
+a
+
+b
+
+Fig. 6 BSE images of product layers on the steel surface of protected specimen P (2000x-left) ­ (a) and the relevant print of the same region in the cement paste (2000x-right) ­ (b), revealing the relatively flat and compact layer of high valent oxides, adhered to the steel surface as result of CP application. For specimens under CP, the dimension of corrosion products is much smaller (lower right corner of Fig.6a), they present a whiskery and delicate morphology, incorporated in a relatively flat product layer, composed mainly of high valent oxides (Fe2O3 and Fe3O4 ) ­ Fig. 6a). The latter is more compact and adherent to the steel surface, surely deposits on the cement paste as well (Fig.6b), however the volume expansion is 2 to 3 times lower than the product layer formed in the corroding specimens. In the P specimen, cathodic protection current prevents 12
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+oxidation of iron, hence, magnetite and siderite precipitate, accompanied by goethite and lepidocrocite. In the unprotected mortar, the concentration of chloride ions is relatively high (corresponding to a higher salinity than the P mortar), solubility of O2 is reduced and its distribution is limited, leading to coprecipitation of lepidocrocite, akaganeite and goethite. Depending on pH value, salinity, oxidation rate and oxygen mobility, goethite, akaganeite and lepidocrocite can vary widely in morphology. The lower pH value in the corroding specimens N will promote the crystallization of akaganeite. This is confirmed by the clearly visible and sharp peak (corresponding to planar spacing of d=1.64 Å, 2 =66for akaganeite in the XRD patterns of N sample (Fig.7). In the ) P sample, the peak for akaganeite is partially overlapping with the peaks for hematite (2 =64 magnetite and maghemite (2 ), =67.5 leading to a shallow and ), multi-peak patterns (in the 2range of 64to 68 in the XRD diffractogram ­ ) Fig.7.
+
+Fig.7 XRD diffractogram (with CoKradiation) for the corroding specimens N (top curve) and protected specimens P (bottom curve): G-Goethite, C-Calcite, Aakaganeite, W-Wustite, H-Hematite and M-Magnetite, L- lepidocrocite. 3.5. Electrochemical methods: CP efficiency, evaluated by EIS, LPR and PDP, using bare steel surface. 3.5.1. Steel surface evaluation The efficiency of CP and in particular the pulse CP technique was investigated by means of electrochemical methods on bare steel surface, using the steel previously cast in the concrete specimens. After demolishing of the reinforced concrete 13
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+cylinders, the whole embedded length of the bars was investigated (including light microscopy) and representative samples were taken for analysis. For ex. Fig.8 presents an image of the steel surface from corroding specimen, depicting a significant amount of accumulated corrosion products and penetration of the latter into the restricted space between aggregate particles and cement paste (the print of sand particles visible on Fig.8a) and corresponding ESEM image of the same zone ­ Fig.8b), with higher magnifications of the circled regions ­ Figs.8c) and d). Fig.8c) depicts powdery grains (circled region C in Fig.8b)) of amorphous corrosion products (most-likely -Fe2O3 .H2O or   -FeOOH, as also observed by [20], appearing on the surface of the sand particle (the print of the latter shown on the micrographs), surrounded by a flat layer of magnetite (Fig.8c, circled region A in Fig.8b) or layers of  FeOOH, showing the typical lamellar morphology (Fig.8d), circled region B in Fig.8b). The steel surface in the protected samples appeared to be relatively clean from corrosion products; however, as CP was applied at 120 days of cement hydration, the typical product layers exist in the protected specimens as well but in different amounts and morphology. On basis of visual inspection of all rebars (as demonstrated for corroding specimen on Fig.8), representative parts of the steel surfaces from every technical condition were taken and further investigated by means of electrochemical techniques, ESEM and EDAX, which will be further discussed. 3.5.2. Results from EIS, LPR and PD measurements. By means of electrochemical methods, introduced in the experimental part, the electrochemical behavior of the steel surface was investigated. All methods ­ EIS, LPR and PDP were performed aiming at retrieving mainly the polarization resistance Rp of the steel surface and evaluating the efficiency of both conventional and pulse CP techniques. All measurements were performed at OCP in 3%NaCl solution. Although in such medium the product layers will dissolve and increased rate of dissolution will be observed, the electrochemical behavior of the steel surface from the corroding and protected specimens was expected to be different due to various diffusion limitations through the already formed different product layers.
+
+14
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+B C
+
+A
+
+a)
+
+b)
+
+A
+
+C c)
+
+B d)
+
+Fig. 8 Product layers on the steel surface of corroding specimen: Light microscope image (60x) ­ (a); corresponding ESEM (100x) image (b); higher magnifications (1000x) of powdery grains and compact magnetite layer (c) and lamellar colonies (d). EIS was employed by superimposing an AC voltage of 10 mV in the frequency range of 50 kHz to 10 mHz. The system response at the lowest frequency domain (10 mHz) was used for calculating the polarization resistance of the steel surface. The equivalent electrical circuit used for modeling the system response is presented on Fig.9, the response for corroding, CP protected and pulse CP protected specimens is depicted on Fig.10 in Nyquist and Bode format. Summarized data from the fitting procedure is presented in Table 1. The experiments reveal almost identical impedance response (as seen on Fig.10). The first time constant is attributed to the formed product layer on the steel surface and the derived values for Rox.l are presented in Table 1, showing a considerable difference from 11.2 Ohm for the corroding surface to 1.3 Ohm for the pulse CP protected surface, which implies for a significant formation and amount of corrosion products on the steel bars from the corroding specimens, as expected. The values for polarization resistance Rp in kOhm.cm2 (also presented in Table 1) 15
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+do not vary much in between the different specimens, however, the lowest is the polarization resistance for the pulse CP protected specimen, due to lower amount of corrosion products and hence relatively clean surface. Linear Polarization Resistance (LPR) and Potentio-Dynamic Polarization (PD) were performed in each technical condition as well. Based on the obtained polarization curves (PD curves presented on Fig.11a), using Tafel and Butler-Volmer equations fit of the Autolab software, the polarization resistance Rp was derived. Fig.11b) depicts summarized data for the Rp values from the different electrochemical measurements for corroding, CP protected and pulse CP protected specimens.
+Rs CPE1 Rox.l CPE2 Rp
+
+Fig.9 Equivalent electrical circuit, used to model the impedance response of the systems under study The non-corroding specimens exhibit the highest Rp and the pulse CP protected the lowest. This is expected as the steel surface in the protected specimens, being relatively clean from corrosion products, is activated after depolarization (being at OCP when performing the measurements). With regard to the latter and as reported in [21], after a prolonged CP, the corrosion rates for the protected steel (being considered as bare steel) are significantly higher (lower Rp values respectively) than the original passive corrosion rate. This is most likely as result of oxygen depletion, increased pH because of oxygen reduction and water hydrolysis on the steel/paste interface [22].
+TABLE 1. Summarized data from the fitting and simulation procedure of the experimental EIS results Cell Rs [Ohm] 1.90 1.72 1.91 CPE1, Yo,E-03 0.1936 0.2434 0.7731 0.6872 0.6730 0.6655 n Rox.l CPE2, Yo,E-03 0.5087 0.2925 0.2772 0.5289 0.5045 0.4899 n Rp E, V (SCE) -577 -561 -559
+
+type (corr) (CP) (pCP)
+
+[ohm] 11.21 3.02 1.30
+
+[kOhm.cm 2] 1.34 1.32 1.27
+
+16
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+-Z'' / ohm
+120 102 84 66 49 31 13 -5 0
+
+Volume 9 Preprint 5
+log(Z)(o)
+2.2 40
+
+6 February 2006
+
+a)
+10mHz corr 50kHz pCP CP
+
+1.9 1.6 1.3 1.1 0.8 0.5 0.2 0 1 2 3
+
+b)
+
+35 30 25
+-phas e/ deg(+)
+
+20 15 10 5 0 -5 -2 -1
+
+25
+
+50
+
+75 Z' / ohm
+
+100
+
+125
+
+log(f)
+
+4
+
+5
+
+-10
+
+Fig.10 Impedance response in Nyquist (a) and Bode (b) format for corroding, pulse CP protected and CP protected steel surface in 3% NaCl.
+i/A
+1.0x10 1.0x10 1.0x10 1.0x10 1.0x10 1.0x10 1.0x10 1.0x10 1.0x10
+0 -1 -2 -3 -4 -5 -6 -7 -8
+
+PD curves for all specimens
+
+pCP
+
+corr
+Rp[kOhm.sq.cm]
+
+Polarization resistance Rp [kOhm.sq.cm], derived f rom LPR, PD and EIS for bare steel 3.00 2.50 2.00 1.50 1.00 0.50 0.00 corroding CP Specimen type pulse CP LPR PDP EIS
+
+CP
+
+a)
+-0.75 -0.50 -0.25 0 0.25
+
+b)
+
+-1.00
+
+E / V, SCE
+
+Fig. 11 Summarized data (Rp values) derived from LPR, PD and EIS ­ (a) and PD curves for corroding, CP protected and pulse CP protected specimens ­ (b) 4. Efficiency of the pulse CP ­ morphology of product layers on the steel surface. The derived information from electrochemical measurements is supported by ESEM observations of the steel surface in corroding, CP protected and pulse CP protected specimens. BSE images were taken on longitudinal sections of the bare steel surface - Fig.12. It is evident, that due to the chloride environment, the corroding specimen exhibits severe localized corrosion and disruptions of the product layer on the steel surface, while in the protected specimen, pits were probably initiated (as CP was applied at 120 days of cement hydration) but did not propagate as the steel surface was further protected. Corrosion products were not observed in the pits; a more uniform layer of high valent oxides (mainly Fe2O3 + F3O4) was observed on the steel surface of protected specimens. 17
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+a
+
+b
+
+c
+
+Fig.12 BSE images at 1000x magnification, taken on longitudinal sections of the bare steel surface for corroding (a), CP protected (b) and pulse CP protected (c) specimens Fig.13 depicts high magnifications of corrosion products detected on the steel surface for corroding and protected specimens. The highest crystallinity of FeOOH (goethite + lepidocrocite) is detected in the corroding specimen (Fig.13a), crystal length is about 18  The same products are expected to appear in the protected m. specimens as well, since they have been formed before applying the CP, however with much lower crystallinity. The specimens under CP exhibit higher crystallinity of corrosion products (about 5 to 8  m)-Fig.13c), compared to pulse CP (about 2 to 3 ­ Fig.13b), hence the pulse CP is more efficient in terms of morphology m) and spatial distribution of product layers on the steel surface. EDAX observations (right column of Fig.13) support the better performance of pulse CP and prove the described in section 3.1 beneficial effects on ion transport as well. As seen from the analysis, the highest chloride concentration was detected (as expected) on the corroding steel surface (17.42 w %), the lowest ­ on the pulse CP protected steel surface (0.17 w %). For the conventional CP, the chloride concentration detected in the product layer is significantly lower than the corroding one, but still higher than the pulse CP conditions (3.96 w %).
+
+Element
+
+Weight % 0.00 17.42 0.17 80.06
+
+Atom % 0.00 23.39 0.20 68.23
+
+Compound % --17.42 0.23 80.06
+
+a)
+
+Na Cl K Fe
+
+18
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+b
+
+Element Na Cl K Fe
+
+Weight % 1.10 3.96 0.45 18.68
+
+Atom % 1.61 3.74 0.39 11.20
+
+Compound % 1.10 3.96 0.64 18.68
+
+c)
+
+Element Na Cl K Fe
+
+Weight % 0.99 0.17 1.36 83.69
+
+Atom % 1.95 0.22 1.58 68.12
+
+Compound % 0.99 0.17 1.92 83.69
+
+Fig.13 BSE images of typical corrosion products (different phases of FeOOH), formed on the steel surface in corroding (a) at 2000x, CP protected (b) at 4000x and pulse CP protected (c) at 4000x specimens (left) and EDAX quantification (right). As previously described, CP current causes an obvious decrease in total porosity and coarser pore structure for the bulk concrete material in all specimens for all conditions, while the pulse CP leads to negligible alterations in the pore structure, the latter supported with more uniform distribution of electrical resistivity for the pulse conditions. With respect to the steel/cement paste interface, the same observations hold for each group of specimens, which will be further discussed. 5. Better performance of the pulse CP compared to conventional CP in terms of structural alterations at the steel/cement paste interface Figs.14 (a-c) presents the steel/paste interface for corroding, CP protected and pulse CP protected specimens. Here again, the CP current yields much higher material heterogeneity compared to pulse CP conditions. The latter is visualized by BSE images of the steel cross section. The porosity data are averaged over 25 subareas (physical size of each image is 226  in length and 154  in width) m m 19
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+located at the peripherical interface around the steel reinforcement (radius of the steel bar =0.6cm).
+a) b) c)
+
+Fig.14 BSE images (from cross sections) of the steel (white regions)/cement paste interface, at magnification of 100x, for corroding (a), CP protected (b) and pulse CP protected (c) specimens The sub-areas are selected following a systematical sampling strategy so that the porosity measurement is representative for the whole paste immediately surrounding the rebar. As seen from the micrographs on Fig.14, the most damaged interface is as expected in the corroding specimen (Fig.14a), where due to volume expansion of corrosion products and filling up the pore network, the interfacial gap is increasing and at 420 days of age is in the range of 200 ­ 500  away from the steel surface. For the specimens under CP, an adhered to the m steel surface layer of 100 to 200  cement paste is observed, after which in m radial direction (almost all around the steel cross section) an irregular gap of 200 ­ 300  appears (Fig.14b). These observations suggest for increased material m heterogeneity, possible bond-strength degradation and detrimental effect of the CP current flow. In contrast, the specimens under pulse CP do not exhibit such large gaps and separated layers of cement paste material, the structure is more homogeneous and uniform (Fig.14c), compared to CP and corroding conditions. The latter considerations are supported by derived pore structure parameters as gradient of porosity from the steel surface into the interface and bulk material. For ex. in the 50  region adherent to the steel surface, the cement paste in the m corroding specimens is characterized by 8 % porosity, the specimens under CP ­ by 4.8 % porosity and the specimens under pulse CP ­ by 6.2 % porosity. In the 150 to 200  regions the porosity for the corroding specimen is about 23 %, for the m specimens under CP ­ about 12 % and for the pulse CP ­ about 8 %. At the steel-paste interfacial zone, the paste density is much higher in the concrete protected by conventional CP than the one protected by the pulse 20
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+technique. The corrosion products formed in the initial period tend to fill in the porous regions in the interfacial paste and then further penetrate into the bulk paste. Hence, the latter paste has a better ability to absorb strain energy induced by volume expansion of corrosion products. This implies that the pulse protected concrete provides better conditions for energy dissipation mechanisms. Compared to the pulse protected specimen, the higher amount and the more detrimental morphology of corrosion products in the DC protected concrete accelerate the crack propagation process and lead to a more extensive network of corrosioninduced cracking. 6. SUMMARY AND CONCLUSIONS In conclusion, this contribution explores the effects of pulse and steady current on material structure, electrical properties and ion transport in concrete specimens. The research reveals that the pulse current is less detrimental to concrete microstructure and beneficial for electrical properties and ion transport mechanisms. A steady current (as normally used in conventional CP applications) tends to bring about unfavourable modifications of the material structure both in the bulk (reducing porosity) and in the interfacial transition zone (enlarging the gap at aggregate surface and the steel/cement paste interface) to a significant extent, leading to a high level of structural heterogeneity of the materials. In addition steady current yields non-uniform electrical properties and thereby results in disturbance of the electrolytic path in the materials under study. Furthermore the present study reveals the feasibility, efficiency and beneficial effects of pulse CP compared to conventional CP techniques for reinforced concrete. The pulse cathodic protection of reinforced concrete provides sufficient polarization hence achieves adequate protection minimizing conditions for negative side effects. Microstructure observations and chemical analysis reveal the underlying mechanisms to be a more homogenous material microstructure (including slightly refined pore structure), a dense ITZ (small gap) structure, and promoted ion and water transport. The latter is additionally supported by the amount and morphology of product layers, formed on the steel surface in pulse CP conditions. Moreover, the structure of the steel/cement paste interface is maintained more or less intact in pulse CP conditions, the latter suggesting for reduced possibilities for bond strength degradation, compared to conventional CP applications. 21
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 References: 1. 2. 3. 4. 5. 6. 7.
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+T.P. Hoar, Corrosion Science, 7, 6, p341-355,1967 M.G. Alvarez, J.R. Galvele, Corrosion Science , 24, p27,1984 A. Cobo, E. Otero, M.N. Gonzalez , J.A.Gonzalez, Mater.Corr.,52, p581,2001 P. Pedeferri, Constr.& Build. Mater.,10, pp391-402,1996 G. Bikulchus, Prot.of Metals, 41, pp484-486, 2005 T. Kuroi, T. Sueyoshi, Gen.Meet.Cem.Assoc.Jap.:Tokyo, p164, May 1987 J.J. Chang, Cem.Concr.Res., 32, pp657-663,2002
+
+8. F.D. Banfill, Proc.Corr.&Prot.of Steel in Concr., Swamy,R.N.,Ed., Sheffield: Sheffield Acad.Press, 2,p1489,1994 9. J.B. Miller, Proc.Corr.&Prot.of Steel in Concr., Swamy,R.N.,Ed., Sheffield: Sheffield Acad.Press, 2, p1499,1994 10. D.A.Koleva, J.Hu, A.Fraaij and K.van Beek, Proc.Corr.& Prev. 2005, ACA, Gold Coast, Australia, Paper No:16, 2005 11. D.A.Koleva, J.Hu, K.van Breugel, H.De Wit and N.Boshkov, 209th ECS meeting, Los Angeles, Paper No: 348, 2005 12. 1982 13. 14. 15. 16. H.W. Whittington, Magazine of Concrete Research, 33, No114, 1981 D.A. Koleva, J. Hu, A.L.A. Fraaij, WIT Press (UK), 48, pp 87-97, 2005 H. Loosveldt, Z. Lafhaj, F. Skoczylas, Cem.Concr.Res.,32,p1357, 2002 J. Hu, P. Stroeven, Image Analysis & Stereology, 22,2, pp97-103,2003 D.A.Koleva,J.Hu,A.L.A.Fraaij, J.H.W.de Wit, Proc.16th Intern.Corr.Congr., Sept. D.A. Koleva, J. Hu, A.L.A. Fraaij, P. Stroeven, Corr. Sci., acc. for publ., 2005 22
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+J. Serra, "Image analysis and mathematical morphology", London, Ac. Press,
+
+17.
+18.
+
+2005, Beijing, China, paper: 15-18 ,2005
+
+ISSN 1466-8858 19. 20. 21. 22.
+
+Volume 9 Preprint 5
+
+6 February 2006
+
+G.K. Glass and N.R. Buenfeld, Corr.Sci.,42, p.923, 2000 A.Raman, S.Nasrazadani,L.Sharma, Metallography, 22,pp79-96, 1989 T.D.Marcotte, C.M.Hansson, B.B.Hope, Cem.Concr.Res.,29, p1555, 1999 W.K. Green, S.B. Lyon and J.D.Scantlebury, Corr.Sci., 35, 1993
+
+23
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

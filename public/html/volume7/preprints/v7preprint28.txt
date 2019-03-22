@@ -1,0 +1,140 @@
+ISSN 1466-8858
+ISSN 1466-8858
+
+Volume 7 Preprint 28
+
+31 January 2005
+
+Volume X Paper Y Electrochemical Characterization of Electronic States at NiTi alloy/Aqueous Solution Interface
+Ayumi Kodama1, Hiroko Ikeda2, Chiho Nakase1, Takako Masuda3, Keiichi Kitahara3, Sadao Arai3, Yoshio Onuma1, Kazuhiko Tanaka4, Koji Hayashi5, Junzo Yamashita1, Yoshihiro Aikawa1
+1
+
+Faculty of Human Life, Ochanomizu University, 2-1-1 Otsuka, Bunkyo-ku, Tokyo 112-8610, Japan g0370408@edu.cc.ocha.ac.jp
+2
+
+Department of Anatomy and Histology, Fukushima Medical University, 1 Hikarigaoka, Fukushima City, Fukushima-shi, Fukushima Prefecture 960-1295, Japan
+3
+
+Department of Chemistry, Tokyo Medical University, 6-1-1 Shinjuku-ku, Tokyo 1608402, Japan
+4
+
+Department of Materials and Environmental Science, Institute of Industrial Science, University of Tokyo, 4-6-1 Komaba, Meguro-ku, Tokyo 153-8505, Japan
+5
+
+Emeritus Professor of the University of Tokyo, 1-37-13 Yoshiba, Kuki-shi, Saitama Prefecture 346-0014, Japan
+
+Abstract
+The surface electronic states on nickel-titanium alloy (Nix Ti1-x) electrodes, which have five types of intermetallic compounds (Ti, NiTi2, NiTi, Ni3Ti, Ni) and three types of oxides (TiO2, NiTiO3, NiO), were investigated by cyclic voltammetry for various nickel mole fraction x. An oxidation current peak attributed to the oxidation of the surface states appeared at 0.53 V vs. SCE in the cyclic voltammogram. The surface state density n varied with the alloy composition such as n = (2x - 1) n1, where n1 = 5.2 × 1015 /cm2, suggesting they are Ni2+/3+ states in the nickel oxide layer. Keywords: nickel-titanium alloy, intermetallic compound, metal oxide layer, surface state.
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 28
+
+31 January 2005
+
+Introduction
+A metal electrode in aqueous solution has an electrical double layer with a typical capacitance of 26 ± 10 µF/cm2 at the interface in contact with aqueous solution, across which most of the applied voltage leaves itself [ref1-ref5]. The surface of the metal contacted with aqueous solution generally has thin metal oxide layer resulted from reaction with oxygen in air, followed by water molecules adsorption. Thus, the actual interface between metal and aqueous solution can be expressed as metal / thin metal oxide layer / the Helmholtz layer / aqueous solution, having a capacitance of about 26 µF/cm2. The electron transfer across the interface are characterized thermodynamically by the metal electrode potential, that is, the position of the Fermi level, but characterized kinetically by electronic levels in the oxide layer formed on the metal surface, through which the electrons are transported. We, therefore, need to have knowledge about the electronic levels in the metal oxide. The case for an alloy electrode is more complicated if we take into account the existence of the oxide layer at the interface. Two kinds of metal atoms in an alloy do not always dissolve to each other unlimitedly, but in many cases, they form several intermetallic compounds, and the alloy is usually the mixture of them, i. e. heterogeneous. The alloy electrode, as well as the metal electrode, forms an oxide layer at the interface in aqueous solution, which is a mixture of each metal oxide or complex oxide. Accordingly, the characteristics of the electron transfer across the interface will depend on the alloy composition. Alloy of metal nickel and titanium, NixTi1-x, forms five types of intermetallic compounds, such as Ti (x1 = 0), NiTi2 (x2 = 1/3), NiTi (x3 = 1/2), Ni3Ti (x4 = 3/4), and Ni (x5 = 1), where x is nickel mole fraction [ref6]. An alloy whose nickel mole fraction x is xi < x < xi+1 is a mixture of two intermetallic compounds whose x are xi and xi+1. On the other hand, metal titanium (x = 0) has its oxide TiO2, metal nickel (x = 1) has NiO, Nix Ti1-x alloy (0 < x < 1) has NiTiO3 [ref7]. That is, the Nix Ti1-x alloy has five types of intermetallic compounds (Ti, NiTi2, NiTi, Ni3Ti, Ni) and three types of oxides (TiO2, NiTiO3, NiO). Therefore, the NixTi1-x alloy electrodes are expected to have three types of electron transfer mechanism based on the three kinds of the oxides forming interface layer. The metal oxide layer on the electrode surface has electronic levels corresponding to the valence number change of the metal ions in the metal oxide. The electron transfer through these levels can occur depending on these relative positions with the Fermi level of the alloy bulk. Each metal oxide has its own electronic levels [ref8], thus we need the knowledge on the surface oxide layer for understanding the mechanism of the electrons transfer on the electrode surface. 2
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 28
+
+31 January 2005
+
+In the present study, we measured the interface quality of the NixTi1-x alloy using the cyclic voltammetry, and discussed the electronic states on the NixTi1-x alloy electrode surface for various nickel mole fractions x.
+
+Experimental
+The electrochemical behaviors of NiTi alloy electrodes were investigated by cyclic voltammetry. A three-electrode cell [ref9] used for the cyclic voltammetry was a glass cylinder (radius 13 mm, height 30 mm) with the NiTi alloy working electrode, the platinum counter electrode (surface area 39 mm2), and the saturated calomel reference electrode (Hg/Hg2Cl2/KCl, HS 205C, TOA DKK Co., LTD., Tokyo, Japan). Most of the compounds and materials used in this study were obtained from commercial sources. Sodium hydroxide was obtained from Wako Pure Chemical Industries, LTD. (Osaka, Japan). The reverse osmosis pure water was used for the preparation of 0.1 M NaOH aqueous solution (pH = 12.9, T = 278 K) in the cell for cyclic voltammetry. The NixTi1-x alloys with several compositions (nickel mole fraction x = 0.000, 0.110, 0.245, 0.333, 0.500, 0.600, 0.750, 0.950, and 1.000), those were used for the working electrodes, were prepared as follows: A pellet of nickel (99.97 %, Hirano Seizaemon Shoten, Tokyo, Japan) and a rod of titanium (99.9 %, Rare Metallic Co., LTD., Tokyo, Japan) were melted together on a water-cooled grounded copper plate in an argon arc furnace (tungsten electrode, electrode distance 1 cm, 13 V, 130 A, argon gas pressure 400 Torr). The impurity oxygen gas in the furnace had been removed in advance being absorbed by melted titanium on another plate in the furnace. As a result of the procedure, the mass of the obtained alloy was equal to the sum of the nickel and titanium before melting. The melted alloy was cooled to solidify in the furnace and overturned upside down, then melted again. This process was repeated several times to homogenize the sample composition. The alloy was encapsulated in a quartz vacuum tube and annealed at 1073 K for 100 hours. The obtained alloy ingot (mass 10 g, length 25 mm, width 10 mm, height 10 mm) was cut into cubes (3 mm3) with a cutting machine (ISOMET 2000, Buehler) and with a grindstone (radius 75 mm, thickness 0.5 mm, frequency 4600 rpm, Heiwa Technica Co., LTD., Tokyo, Japan). One of the NixTi1-x alloy cube faces was polished with sand plaster, sonicated with ethanol and rinsed with ultrapure water, then was dried, for making Ohmic contact with a stainless steel rod (radius 1 mm, height 7 cm) by silver paste. The stainless steel rod was covered with a thermal shrinkage plastic tube leaving the 1 cm free end part. The rod-attached alloy cube was stuck into epoxy resin in a silicone mold (inner cylinder radius 5 mm and height 5 mm), and then solidified in a dryer machine at 363 K for 3 hours. The alloy to be electrode surface and solidified resin around it were finished together to produce a smooth plane by a grinder and alumina abrasive. The cyclic voltammetry experiments were performed with a potential sweep unit and a DC-pulse polarograph (HECS 321B, Husou Seisakusyo Ltd., Kanagawa, Japan), 3
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 28
+
+31 January 2005
+
+and the results were recorded on a X-Y recorder (Model F-35C, Riken Denshi. Co., LTD., Tokyo, Japan).
+
+Results and Discussion
+The electrochemical property of NixTi1-x alloy was investigated by the cyclic voltammetry experiments in 0.1 M NaOH (pH = 12.9, T = 278 K) together with an SCE as the reference electrode and a platinum wire (surface area 39 mm2) as the counter electrode. The cyclic voltammograms (-0.90 to +0.60 V vs. SCE) for various compositions of NixTi1-x alloys as working electrodes (surface area S0 = 3 mm × 3 mm = 9 mm2) showed an oxidative peak current Ip at 0.53 V (Fig. 1). Only very small flat current If was observed between ­0.90 and +0.15 V with no peak current. The experiments were carried out at various scan rates, and the peak current Ip and the flat current If were measured at each scan rate.
+
+Fig. 1 Typical cyclic voltammogram for NiTi alloy electrode with sweep rate v = 0.1 V/s at T = 278 K.
+
+Fig. 2 Scan rate dependency of flat current if in cyclic voltammogram for NiTi2 alloy electrode. Figure 2 shows the flat current If (­0.90 V  V  +0.15 V) for NixTi1-x alloy (x = 0.33) electrode at various scan rates (v = 0.01, 0.02, 0.05, 0.10, and 0.20 V/sec). This current is found to be proportional to the scan rate v, not to v1/2, showing it is due not 4
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 28
+
+31 January 2005
+
+to diffusion process [ref10] but to the charging process for the interface oxide layer capacitance ci, which is assumed to be 26 µF/cm2, on the electrode surface. The charging current density if is expressed as if = civ. (1)
+
+and the actual surface area S accounting indented surface of the electrode can be obtained from the formula S = If / if, (where if was calculated from Eq. (1) using ci = 26 µF/cm2) resulting S = 10.2, 10.2, 8.7, 9.9, and 8.6 mm2 for x = 0.00, 0.11, 0.33, 0.33, and 0.75, respectively. This suggests that the actual surface area of each electrode was almost equal to the scaled one independent of nickel mole fraction x, which means no thick insulating film was formed on the electrode surface. In general, there can be two types of current peak in cyclic voltammography. One is the case that the redox current is limited by reactants diffusion. Then, the shape of the peak is asymmetric and its peak height is proportional to the square root of scan rate [ref11, ref12] such as ip = eDc0 / (DtD)1/2 = uv1/2, where tD  (5kT / e) / v, c0 denotes reactant concentration and u  (e3c02D / 5kT)1/2. (3) (2)
+
+The other is the case that the redox process takes place at surface states of the electrode, the shape of the peak is symmetric and its peak height is proportional to scan rate [ref13] such as ip = en / tS = csv, where tS  (4kT / e) / v, n denotes surface state density and cs  ne2 / 4kT. (5) (4)
+
+As the peak current density ip shown in Fig. 3 is proportional to the scan rate v, as well as the peak shape is almost symmetric, the redox reaction is to occur through surface states, probably formed in thin oxide layer on the metal nickel surface. The reduction peak potential of 0.43 V is 0.10 V lower than the oxidation one, suggesting the energy of the reorganization [ref14] around the surface states is considerable large. The slope cs of the peak current density ip = csv in Fig. 3 is found to vary with nickel mole fraction x of the working electrodes, as replotted against x in Fig. 4. The graph of cs has an apparent threshold point at xc = 0.5, where cs starts to increase markedly up to an order of mF/cm2, which is about several hundreds times as large as the capacitance of the interface oxide layer capacitance ci = 26 µF/cm2. This indicates that the charging process was not only for the interface capacitance but also for a large number of surface states, the density of which is estimated by n = (4kT / e2) cs. These surface states are formed only for the range of x > xc = 0.5. 5
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 28
+
+31 January 2005
+
+Fig. 3 Scan rate dependency of peak current ip in cyclic voltammogram for NixTi1-x electrodes (x = 0.110 (), 0.245 (), 0.600 (), and 0.750 ()).
+
+Fig. 4 Surface capacitance cs calculated from peak current ip = csv in cyclic voltammogram for various composition NixTi1-x alloy electrodes. Solid line y indicates theoretical value for the fraction of Ni2+ in NiO among the all metal ions in oxide layer on the NixTi1-x alloy electrode surface. In general, metal in contact with water has thin oxide layer on the surface, as described above. Metal titanium and metal nickel have their oxides TiO2 and NiO respectively, whereas NiTi alloy has its oxide NiTiO3, showing that the free energy of NiTiO3 is lower than the sum of the free energy of TiO2 and NiO. On the contrary, NixTi1-x alloy has a mixture of oxides, NiTiO3 and TiO2 in the range of 0  x  0.5, such as NixTi1-x + (1 - x/2) O2  (1 - 2x) TiO2 + x NiTiO3, 6
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+(6)
+
+ISSN 1466-8858
+
+Volume 7 Preprint 28
+
+31 January 2005
+
+and NiTiO3 and NiO in the range of 0.5  x  1, such as NixTi1-x + (1 - x/2) O2  (1 - x) NiTiO3 + (2x - 1) NiO, as shown in Fig. 5. (7)
+
+Fig. 5 Metal oxide fraction in oxide layers on the NixTi1-x alloy electrode surface. The oxidation current peak at 0.53 V shown in Fig. 1 was owed to the oxidation of Ti4+, Ni2+ or O2-. This peak, however, was observed not in the range of 0  x  0.5 where TiO2 and NiTiO3 are exist, but in the range of 0.5  x  1 where the peak height increased with an increase of NiO fraction in the surface oxide layer. Therefore, the peak is attributed to the oxidation of Ni2+ in NiO. The fraction y of Ni2+ in NiO among the all of metal ions in the oxide layer is expressed as y = [Ni2+]S / ([Ti4+] + [Ni2+]S + [Ni2+]T), (8)
+
+where [Ti4+] is titanium ion number in the oxide layer and [Ni2+]S and [Ni2+]T are the numbers of nickel ions in NiO and in NiTiO3, respectively. According to Eq. (6) and (7), y = 0 where x < 0.5, and y = 2x - 1 where x  0.5. This was plotted as a solid line in Fig. 4, which shows good agreement with the experimental points for the surface state capacitance cs. Hence, the electronic states of Ni2+/3+ in NiO act as surface states. The surface states capacitance cs shown in Fig. 4 is expressed as cs = (2x - 1) cs1, where cs1 is given 8.0 mF/cm2, thus the surface state density n can be expressed using Eq. (5) as n = (2x - 1) n1, where n1 = 5.2 × 1015 /cm2. (9)
+
+7
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 28
+
+31 January 2005
+
+When metal nickel whose surface contacts with water is oxidized, its surface oxidized layer becomes Ni(OH)2 [ref15-ref22], which is formed by the hydration of NiO, such as, NiO + H2 O Ni(OH)2. (10)
+
+Ni(OH)2 has a plane membrane structure, where a Ni2+ layer is sandwiched with two OH- layers, and the Ni(OH)2 membranes stack to construct a Ni(OH)2 crystal [ref23, ref24]. As each Ni(OH)2 membrane acts as a two-dimensional molecule, the OH- group on this membrane is not restrained by three-dimension lattice and is easily deformed, which may produce the observed large potential shift of ca. 0.1 V between oxidation and reduction current peak for the surface states. As the Ni2+ ion in the Ni(OH)2 membrane forms a planar hexagonal lattice with a lattice constant of 0.31 nm [ref24], the surface density n0 of Ni2+ in a membrane is 1.3 × 1015 /cm2. The four Ni(OH)2 membrane was involved to the surface states because n1/n0 = (5.2 × 1015 /cm2) / (1.3 × 1015 /cm2) = 4. As the thickness of a Ni(OH)2 membrane is 0.46 nm, the oxide layer thickness on the electrode surface was estimated as 1.84 nm.
+
+Conclusion
+The NixTi1-x alloy showed the oxidation current peak at 0.53 V vs. SCE in the cyclic voltammography. It was attributed to the oxidation of surface states Ni2+/3+ in Ni(OH)2 in the oxide layer formed on the electrode surface. The surface states density increased with nickel mole fraction x, proportional to (2x - 1) in the range of 0.5  x  1. The thickness of oxide layer on the electrode surface was estimated as 1.84 nm from the oxidation current peak.
+
+References
+1. 2. 3. 4. 5. H. H. Bauer, Electrodics Modern Ideas Concerning Electrode Reactions, (Georg Thieme Verlag, Stuttgart, 1971) p. 63. J. O'M. Bockris, A. K. N. Reddy, Modern Electrochemistry 2, (A Plenum/Rosetta Edition, New York, 1977) pp. 754, 769, 777. A. J. Bard, L. R. Faulkner, Electrochemical Methods Fundamentals and Applications, (John Wiley & Sons, New York, 1980) pp. 10-12. S. R. Morrison, Electrochemistry at Semiconductor and Oxidized Metal Electrodes, (Plenum Press, New York, 1980) p. 60. R. Guidelli, G. Aloisi, R. Guidelli (ed.), Modeling of Metal-Water Electrified Interfaces, In: Electrified Interfaces in Physics, Chemistry and Biology, NATO 8
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 28
+
+31 January 2005
+
+ASI Series, Series C: Mathematical and Physical Sciences Vol. 355, (Kluwer Academic Publishers, Dordrecht, Varenna, Italy, 1990) p. 310. 6. 7. 8. 9. Hansen, Constitution of Binary Alloys, 2nd ed. (McGraw-Hill, New York, 1958) pp. 1049-1053. G. Nagasubramanian, B. Viswanathan, M. V. C. Sastri, Current Science, 45, 22, pp. 783-784, 1976. S. R. Morrison, Electrochemistry at Semiconductor and Oxidized Metal Electrodes, (Plenum Press, New York, 1980) pp. 299-333. A. J. Bard, L. R. Faulkner, Electrochemical Methods Fundamentals and Applications, (John Wiley & Sons, New York, 1980) pp. 23-26.
+
+10. F. G. Cottrell, Z. Physik. Chem., 42, p. 385, 1902. 11. H. Matsuda, Y. Ayabe, Z. Elektrochem., 59, p. 494, 1955. 12. A. Sevcik, Collect. Czech. Chem. Commun., 13, p. 349, 1948. 13. A. T. Hubbard, F. C. Anson, Electroanal. Chem., 4, p. 129, 1970. 14. R. Memming, F. Möllers, Ber. Bunsenges. Phys. Chem., 76, 6, pp. 475-481, 1972. 15. J. R. Vilche, A. J. Arvía, Corrosion Science, 15, pp. 419-431, 1975. 16. R. S. Schrebler Guzmán, J. R. Vilche, A. J. Arvía, Corrosion Science, 18, pp. 765-778, 1978. 17. R. S. Schrebler Guzmán, J. R. Vilche, A. J. Arvía, J. Electrochem. Soc., 125, 10, pp. 1578-1587, 1978. 18. Visscher, E. Barendrecht, J. Electroanal. Chem., 154, pp. 69-80, 1983. 19. L. D. Burke, T. A. M. Twomey, J. Electroanal. Chem., 162, pp. 101-119, 1984. 20. F. Hahn, B. Beden, M. J. Croissant, C. Lamy, Electrochimica Acta, 31, pp. 335342, 1986. 21. J. M. Marioli, P. F. Luo, T. Kuwana, Analytica Chimica Acta, 282, pp. 571-580, 1993. 22. P. F. Luo, T. Kuwana, D. K. Paul, P. M. A. Sherwood, Anal. Chem., 68, pp. 3330-3337, 1996. 23. H. Bode, K. Dehmelt, J. Witte, Electrochimica Acta, 11, pp. 1079-1087, 1966. 24. R. S. McEwen, J. Phys. Chem., 75, 12, pp. 1782-1789, 1971. 9
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

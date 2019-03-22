@@ -1,0 +1,543 @@
+ISSN 1466-8858
+
+Volume 10, Preprint 36 submitted 20 Effect of some organic inhibitors on the corrosion behaviour June 2007
+
+of Cu- Fe and Cu ­ Al ­ Fe alloys in sulphuric acid solution
+El,and N. H. Helal , H. E. El- Fiky ,and M.R. Negem Department of Chemistry Faculty of Science Fayoum oum, University of Fayoum, Fayoum-Egypt Fayoum-
+
+Abstract
+The effect of some organic compounds on the corrosion behaviour of copper - iron alloy (I) ( 95.53 % Cu, 4.47% Fe ) and copper aluminium - iron alloys ( II) ( 84.31 % Cu , 10.67% Al, 5.02 % Fe ) in 0.5 M H2SO4 solution was investigated . The techniques of measurements were : weight loss , linear polarization and impedance. These organic compounds were : glycine (I), alanine (II), valine (III), Histidine (IV), 2- aminothiazole (V) and 3- methyl -1- phenyl -2- pyrazolin -5- one (VI).These compounds have high inhibiting effect on the corrosion of alloys ( I,II) in H2SO4.Their inhibition efficiency increases according to the order : I < II < III < IV < VI < V . The inhibitory effect of these compounds is achieved by their adsorption on the metallic surface via adsorption centers ( N - atom and / or S- atom ) . Their adsorption the metallic surface follows Temkin's isotherm of adsorption The values of standard free energy of adsorption , Goads,were calculated from the adsorption isotherms. The negative values of Goads indicate the adsorption process occurs spontaneously. There is agreement between the results obtained from the different techniques of measurements. Keywords : corrosion, inhibitors, copper alloys .
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 1 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+Introduction
+Copper and its alloys have a long history of use in marine applications and continue to be widely used for many purposes despite the emergence in recent years of other materials that have technical or economic attraction [1]. These related to their corrosion resistance, mechanical workability, excellent electrical and thermal conductivities and resistance to macrofouling [2]. The corrosion resistance of copper alloys has been attributed to the formation of a protective film of cuprous oxide (Cu2O) and to the doping of Cu2O layer with ions such as iron [3, 4]. This doping reduces the ionic or electronic conductivity of the film, improving the corrosion resistance. In practice alloying additions of Al, Zn, Sn, Fe, Ni are used to dope the corrosion product films. Inhibition by benzotriazole (BTA) [5-17], throurea [18-20] and different organic compounds containing NH or NH2 has been extensively studied [21-27] because of their high efficiency as inhibitors for the corrosion of copper and copper alloys in various media .The inhibition of aluminium bronze by 4-phenyl semicarbazide hyderochloride (PSC), both in the absence and in presence of KI was studied in pure HC1 [28] and in acidified 4% NaCl solution [29]. In the present work the effect of some organic inhibitors on the corrosion behaviour of copper- iron and copper ­ aluminium iron alloys in 0.5 M H2SO4 aqueous solution was studied.
+
+Experimental
+Two types of copper alloys were used in this study. The first alloy (I) contains ( 95.53 % Cu, 4.47% Fe ) ,while the second alloy (II) contains (84.31 % Cu , 10.67% Al, 5.02 % Fe ) .
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 2 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36 submitted 20 0.5 M H2SO4 aqueous solution was prepared by appropriate June 2007
+
+dilution of the concentrated acid. The organic inhibitors were : glycine , alanine, valine, Histidine , 2- aminothiazole and 3- methyl -1- phenyl 2- pyrazolin -5- one. All chemical are chemically pure grades ( Analar). The organic additives have the following structural formulae:
+
+The electrodes were jammed in a small copper mould with Araldite. The cross ­ sectional area ( ~ 1.54 cm2 ) of the electrodes was only left to contact the lest solution . Just before each experiment the electrodes were mechanically polished with successive grades emery paper. The electrode was rinsed several times with distilled water and degreased by acetone. In the present investigation the techniques of measurements were : weight loss, linear polarization and impedance . In the electrochemical measurements a Ag / AgCl / Cl- ( 3 M KCl)and platinum foil ( 1 × 1 cm2 ) were used as a reference and auxiliary electrode , respectively. The potential and current were recorded by means of multimeter ( Keithley, Model 130 A, USA ). The impedance measurements were carried out using impedance measurements system
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 3 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36 submitted 20 ( IM6 Zahner Electrik, Metechnik, Germany) .Impedance measurements June 2007
+
+were conducted with an excitation amplitude of 10 mV peak to peak,and the frequency domain from 0.1 Hz to 100 K Hz. In the weight loss measurements a test specimen of copper alloys has a total surface area of about 16 cm2.
+
+Results and Discussion
+1. Weight-loss measurements : The results of these measurements are listed in table (1) for alloy (I) and in table (2) for alloy (II) in 0.5M H2SO4 in absence and in presence of different concentrations of the investigated organic compounds (I, II, III, IV, V, VI). The values of surface coverage, , and inhibition efficiency, I%, are calculated from the corrosion rate, Rw (mg/cm2.h), by using the following equations :
+ =1 -
+( R w ) inh. ( R w ) free (1)
+
+ ( R ) inh.  I % = 1 - w  X 100 ( R w ) free  
+
+(2)
+
+where (Rw)
+
+free
+
+and (Rw)inh. are the corrosion rate in absence and in
+
+presence of inhibitors, respectively. The calculated values of  and I% are listed in tables (1-2) for the investigated alloys (I, II) and inhibitors (I -VI). Fig.(1) represents the variation of inhibition efficiency, I%, for alloy (I) as a function of concentration of the investigated organic compounds (I-VI). Fig.(2) represents the variation of inhibition efficiency, I% for alloy (II) as a function of the concentration of the investigated inhibitors
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 4 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+(I-VI). The plots of these figures (1,2) indicate that the inhibition efficiency of the investigated organic compounds increases with the increase of their concentration. The results of Figs. (1,2) and tables (1,2) indicated that the investigated organic compounds have high inhibiting effect on the corrosion of alloy (I, II) in H2SO4 solution. The inhibition efficiency, I%, of the investigated organic compounds increases according to the order : I<II<III<IV<VI<V 2. Linear polarization measurements : Figs.(3,4)represent the plots of potential, E, versus the current density, i, for the alloys (I,II), respectively, in 0.5 M H2SO4 solution in absence and in presence of different concentrations of compound (I). Similar plots are obtained for the alloys (I,II) in presence of different concentrations of the other organic compounds (II, III, IV, V, VI) but not shown. The values of linear polarization resistance, Rp, are deduced from the slopes (E/i) of straight lines of the plots of Figs. (3,4) and similar ones and listed in table (3) for alloy (I), and in table (4) for alloy (II). The values of surface coverage, , and inhibition efficiency, I%, are calculated from Rp by using the following equations from :
+ =1 -
+( R p ) free. ( RP ) inh (3)
+
+ ( R ) free  I % = 1 - P  X 100 ( RP ) inh  
+
+(4)
+
+where (RP) free and (RP)inh. are the linear polarization resistance in 0.5M H2SO4 and in presence of inhibitor, respectively,. The calculated values of  and I% are listed in tables (3,4) for alloys (I, II) and in
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 5 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+presence of inhibitors (I ­ VI) in 0.5M H2SO4 solution. The results of these tables indicate that the inhibition efficiency of the investigated organic compounds is high and increases according the order : I<II<III<IV<VI<V. This order is the same as that obtained from the weight-loss measurements. 3. Impedance measurements : Figs. (5,6) represent the impedance diagrams (Nyquist plots) for the alloy (I, II), respectively, in 0.5M H2SO4 in presence of different concentrations of compound (I). Similar plots are obtained for the other organic compounds (II, III, IV, V, VI) but not shown. These impedance diagrams are not perfect semicircles and has been attributed to frequencies dispersion [30,31]. The charge transfer resistance (Rt) values are calculated from the difference in impedance at lower and higher frequency, as suggested previously [32-34]. The double layer capacitance, Cdl, was determined from the frequency, f, at which Zi, was maximum, using the following relationship. f(-Zi,max) = (2Cdl Rt) ............... (5) The inhibition efficiency, I%, of the alloys is calculated from the charge transfer resistance, Rt, using following equation :
+I%=
+-1 -1 ( Rtcorr - Rtcorr (inh.) ) -1 ( Rtcorr )
+
+-1
+
+X 100
+
+(6)
+
+Where Rtcorr and Rtcorr(inh) are the charge transfer resistance values in absence and in presence of inhibitor, respectively. The impedance parameters derived form these investigations are given in table (5) for
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 6 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+alloy (I), and in table (6) for alloy (II). The results of these tables indicate that as the inhibitor concentration increases the values of Rt and I% increase, but the values of Cdl decrease. This indicates the occurrence of adsorption of the organic compounds on the alloys surface. Also , the inhibition efficiency, I%, of the investigated organic compounds increases according to the order : I<II< III< IV< VI< V. This order is the same as those obtained by weight-loss and linear polarization measurements. Fig.(7) represents the plots of variation of the values of Rt with the concentration of compound (I) for the alloys (I, II). Similar plots are obtained in presence of different concentrations of the other compounds (II, III, IV, V, VI), but not shown. The plots of Fig.(7) and similar ones indicate that the values of Rt increase with the increase of inhibitors concentration. Fig.(8) represents of plots of variation of the values of Cdl as a function of concentration of compound (I) for alloys (I,II). Similar plots are obtained in presence of different concentrations of the other compounds (II, III, IV,V, VI) but not shown. The plots of Fig. (8) and similar ones indicate that the values of Cdl decrease with increasing inhibitors concentration. This indicates, as above mentioned, the occurrence of adsorption of inhibitors molecules, on the surface of the investigated alloys. As suggested by Hoar and Holliday [35], there may be on the metal surface cathodic and anodic sites providing centers for cathodic and anodic reactions. The adsorption of an inhibitor takes place through physical and chemisorption [36]. At the cathodic site on the metal
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 7 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
++
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+discharge of H ions take place. The rate of cathodic reaction will be governed by the availability of electrons at the cathodic sites. Supply of the negative charge to cathodic sites can be only maintained through the energy produced from chelation of active centers of adsorption atom may be N-atoms and / or S-atomes of inhibitor molecule and metallic surface (M) thus :
+
+[- N [- S
+
++
+
+ M  -  [N  M ] + e
++
+
+]
+
+and or
++
+
+ M  -  [S  M ] + e
++
+
+]
+
+The adsorption of an organic adsorbate on the surface of a metal can be regarded as a substitutional adsorption process between the organic compound in aqueous phase org(aq) adsorbed on the electrode surface H2O(s) [37]. Org (aq) + xH2O(s) Org (s) + xH2O(aq) and water molecules
+
+Where (x) is the size ratio, which is the number of water molecules replaced by one molecule of organic adsorbate. The above process attains equilibrium when : µorg(aq) + µxH2O(S) = µorg(s) + µxH2O(aq) where (µ) is the chemical potential. Experimental relationships for the adsorption of organic inhibitors from the aqueous solution on the metallic surface versus concentration follow either the adsorption isotherms of Langmiur, Temkin, Frumkin, Hill de Boer and Parsons [38-41] in which the molecular interaction parameter (a) is included or the adsorption isotherms of Flory-Huggins, Dhar- Flory ­ Huggins and Bockris ­ Swinkels. In the first case, the molecular interaction parameter (a) which depends on the molecular
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 8 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+interaction in the adsorption layer and on the degree of heterogeneity of the sample, is included. In the later isotherms the number of water molecules replaced by one molecule of organic adsorbate (x) is included . All the above isotherms are essentially of the form [42, 43]. f(, x) exp (-a) = KC (7)
+
+Where  is a surface coverage, it can be calculated by applying the above ­mentioned equations (1,3), C is the inhibitor concentration in the bulk of solution and f (, x) is the configurational factor that depends essentially on the physical model and assumptions underlying derivation of the isotherm [43]. Moreover, all the above expressions include the equilibrium constant of the adsorption process (K) which is related to the standard free energy of adsorption G°ads by:
+K= - G ° ads 1 exp 55.5 RT (8)
+
+Equations (7, 8) have been used in this study to evaluate the most suitable isotherm describing the adsorption of the investigated organic compounds (I-VI) onto the alloys (I, II) surface. Upon rearrangement of equation (7), the following equation is obtained ;
+In f ( , x) = a + ln K C
+(9)
+
+The plots of  versus lnC for the investigated inhibitors (I, VI) are depicted in Figs (9,10) for the alloys (I, II), respectively. The values of  and C were taken from the results listed in tables (1-2) for the weight ­ loss measurements. From these plots, it is found that Temkin's isoltherm is the most suitable for the adsorption process of the investigated inhibitors onto the surface of the alloys and has the from :
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 9 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+2a = lnKC
+=
+1 1 ln K + ln C - 2a - 2a
+
+(10) (11)
+
+The straight lines of Figs.(9-10) have slopes of (1/-2a ) and an intercept of (1/-2a lnK). The values of (K) can be determined and from them the standard free energy (G°ads) can be calculated using equation (8). Also, the values of (a) can be calculated from the slopes of obtained straight lines of Figs.(9-10). The values of (G°ads) and (a) are listed in table (7). The negative values of (G°ads) indicate that the adsorption of the investigated organic compounds on the surface of the alloys (I, II) is a spontaneous process [44]. The inhibition efficiency of the additive compounds depends on many factors including : the number of adsorption sites and their charge density, molecular size, heat of hydrogenation, mode of interaction with the metal and formation of metallic complex [45]. The possibility correlating structural characteristics with the inhibitor properties of organic substances is justified by the fact that the metal- inhibitor interactions are based on chemisorption. The electron density of the organic function can be defined as the reaction center for the establishment of the adsorption bond is then obviously important, since it is possible to assume a bond of the Lewis acid-base type [46], generally with the inhibitor as the electron donor and metal as the electron acceptor. The strength of this bond depends on the characteristics of both the adsorbent and adsorbate.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 10 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+Organic compounds containing lone pairs and/or multiple bonds are usually effective inhibitors. Thus organic inhibitors are compounds with at least one polar function, having atoms of nitrogen, sulphur, oxygen and in some cases selenium and phosphorus. In such a case the adsorption bond strength is determined by the electron density of the atom acting as the reaction center and the polarizability of the function atoms.The effectivness of the function atoms with respect to the adsorption process, when the stabilities of the compounds are equal can be taken as being in the following sequence : Se>S>N>O [47-50]. The obtained results in the present studies indicate that the inhibition efficiency, I%, of the investigated organic compounds increases according to the order : I<II<II<IV<VI<V. This may be attributed to that compound (V) (2-aminiothiazole) contains more than one adsorption center including nitrogen and sulphur atoms, state of which gives more strong adsorption bond between the organic compound and the metallic surface. The compound (VI) (3-methyl- 1-phenyl-2pyrazolin-5-one) contains more than one adsorption centers including nitrogen and oxygen atoms and also benzene ring state of which gives strong adsorption bond between the compound and the metallic surface. For this reason the inhibition efficiency of compound VI is less than that of compound (V) and higher than that of other compounds (I, II, III, IV). The inhibition efficiency, I%, of compounds (I, II, III, IV) are less than that of compounds (VI) and (V). Also, the inhibition efficiency of this series of compounds, (I - IV) increases according to the order : I<II< III< IV. The structural formulae of these compounds can be written as :
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 11 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+R-CH-COOH NH2 N R = H, CH3 -, CH3 -CH- , CH3 N H CH2 -
+
+For the compounds I, II, III, VI, respectively. The increase of the length of R in the investigated compounds increases their molecular size which in turn increases their inhibition efficiency. In compound IV there is more than one adsorption center, in addition to its increased molecular size, the resulted inhibition efficiency is higher than that of compound : I, II, III, for this reason the above mentioned order (I<II<III< IV) is obtained. Conclusion: 1- The investigated organic compounds have high inhibiting effect on the corrosion of copper alloys ( I, II ) in H2SO4 solution . The inhibition efficiency, I %, of these compounds increases according the order: I < II < III < IV < VI < V . 2-The inhibitory effect of these compounds is achieved by their adsorption on the metallic surface via the adsorption centers ( N atom and / or S- atom ) . Their adsorption on the metallic surface follows Temkin's isotherm of adsorption .
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 12 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+3- The negative values of (  G°ads) indicate that the adsorption of the investigated organic compound on the surface of alloys ( I , II ) is a spontaneous process.
+
+References
+1. P.T. Gilbert, MP, part 2, p.47, (1982 ). 2. F. Mansfeld, G. Liu, H. Xiao, C. Tsai and B. Little , Corrosion sci., 36, 12,( 1994) 2036 . 3. R. Blundy and M. pryor, Corrosion Sci., 12, ( 1972) 62 . 4. R.F. North and M. pryor, Corrosion Sci. , 10, ( 1970) 297 . 5. G. Lewis , Brit. Corrs. J., 16,( 1981) 169. 6. S. H. Sanad , H. Abbas , A.A. Ismail ,and K. M. El-Sobki, Surf.Technol., 25, (1985)39. 7. T. Hashemi and C. A. Hogarth , Electrochem. Acta,33,(1988)1123 . 8. V. Brusic , M. A. Frisch , B. N. Eldrdge ,F. P. Novak , F. B. Kaufman,B. M. Rush , and G. S. Frankel , J. Electrochem. Soc., 138,(1991)2253. 9. F. G. Fox , G. Lewis , and P. J. Boden , Corrosion Sci.,19, (1979)457. 10. M. Fleischmaan , I.R. Hill , G. Mengoli, M.M. Musiani, and J. Akhavan, Electrochem. Acta, 30 , ( 1985), 879. 11. F. Mansfled , T. Smith , and E. P. Parry , Corrosion, 27, ( 1971) 289. 12. J.S. Wu and Ken Nobe , Corrosion, 37, ( 1981) 223.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 13 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+13.
+
+Volume 10, Preprint 36 submitted 20 E.A. Ashour , S.M. Sayed, and B.G. Atea, J. Appl. Electochem., 25, June 2007
+
+( 1995) 137. 14. T. Aben and D. Tromans , J. Electrochem. Soc., 142, ( 1985) 398. 15. R. Alkire and A. Cangellari , J. Electrochem. Soc., 136, ( 1989) 913 . 16. C. Clerc and R. Alkire , J. Electrochem. Soc., 138, ( 1991) 25. 17. D. Tromans and R. Sun , J. Electrochem. Soc., 138, ( 1991) 3235. 18. K. M. El- Sobki, A. A. Ismail, S.H. Sanad, and A.A. Khedr,Egypt. J. Chem.,24 ( 1981) 179. 19. T. M. H. Saber, A.M .K. Tag El Din, and A.M. Shams El Din, Brit. Corros. J., 27, ( 1992) 139. 20. A.A . El Warraky and H.A. El Dahan , J. Mater. Sci., 32, ( 1997) 3693. 21. S. Sankarapapavinasam , F. Pushpanaden, and M. F. Ahmed , Corrosion Sci., 32, ( 1991) 193. 22. A.G. Gad Alla, M. W. Badawy, H. H. Rehman, and M. M. A.Romia , J. Appl. Electrochem., 19 ,(1989)928 . 23. M. Fleischmann, G. Mengoli, M.M. Musiani, and G. Pagura, Electrochem. Acta, 30, ( 1985) 1591. 24. L.S. Nandeesh and B.S. Sheshadri, Brit. Corros. J., 23, ( 1988) 239. 25. M.N. Desai and V.K. Shah, Corrosion Sci., 12, ( 1972) 725. 26. M.M. Singh, R.B. Rastogi, and B.N. Upadhay, Corrosion, 50, ( 1994)620. 27. K.J. Stutts, C.L. Scortichini, T.D. Gregory, S. T. Babinec, C. M. Repucci, and R.F. Phillips, J. Appl. Electrochem., 19, ( 1989) 349. 28. A.A. El- Warraky, A.E. El- Meleigy , Brit. Corros. J., 37, ( 2002) 305 29. A.E. El- Meleigy , A.A. El- Warraky, Corro. Engin. Sc. Tech., 38 ,( 2003) 218. 30. F. Mansfeld, M.W. Kending, S. Tsai , Corrosion, 37, ( 1981) 301.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 14 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+31. F. Mansfeld, M.W. Kending, S. Tsai , Corrosion, 38, ( 1982) 570. 32. T.Tsuru, S. Haruyama, Boshoku Gijutsu, J. Japan Soc. Corros. Engng . ,27,( 1978) 573. 33. F. Bentiss, M. Lagrenee, M. Traisnel, Corrosion,56, ( 2000) 733. 34. F. Bentiss, M. Traisnel, M. Lagrenee, J. Appl. Electrochem. 31, ( 2001) 41. 35. T.P. Hoar, R.D. Holliday, J. Appl. Chem., 46 ( 1953) 523. 36. L. Pauling , J. Chem. Soc., 14, ( 1948) 61. 37. B.G . Ateya, B.E. El- Anadouli, F.M. Nizamy, Corrosion Sci., 24 ( 1984) 509. 38. A. N. Frumkin, Z. Phys. Chem., 116 , ( 1925) 466. 39. Z. Szklarska ­ Smialowska, G. Wieczorek , Corrosion Sci.,11, ( 1971) 843. 40. J. Hill de Boer " The Dynamical Character of Adsorption ", Oxford, England, Calerendon ( 1953) . 41. R. Parsons , J. Electroanal. Chem, 7, ( 1946) 136. 42. E. Khamis , Corrosion , 46, ( 1990) 476. 43. A.M. Salah , M. Sc. Thesis , Cairo University, Egypt ( 1989) . 44. A.S. Fouda, H.A. Mostafa, H.M. Abu ­ El Nader, Monatshafte Fur Chemie, 14 , ( 1989) 501 . 45. A.S. Fouda, M.N. Moussa, F.I. Taha, A.I. El- Neanaa, Corrosion Sci., 26, ( 1986) 719. 46. N. Hackerman and R.M. Hurd, Fist International Congress on Metallic Corrosion Butterworth, London pp. 166- 172 ( 1962). 47. N. Hackerman, First European Symposium on Corrosion Inhibitors, Ferrara ( 1960), Supp. 1.,n.3.pp. 99-109 (1961). 48. L. Horner, F. Rottger, Korrosion , 16, Verlag Cheme ­ GMBHWeinheiny Bergstr, p. 57 ( 1963) . 49. G. Trabanelli, V. Carssiti " Advances in Corrosion Science and
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 15 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36 submitted 20 Technalogy " Vol.1 Edited by M.G. Fontana, R.W. Stehle, Plenum June 2007
+
+press, New York ( 1970). 50. J.G.N. Thomas " Corrosion Vol.1, Metal Environment Reaction " Edited by L.L. Shreir, Newness ­ Butterworths, London, p.18 : 34 ( 1976).
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 16 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10, Preprint 36 submitted 20 June 2007 Table(1): Data of weight loss measurements for alloy (I) in 0.5 M H2SO4 solution and o containing concentrations of compounds (I-VI) at 25 C.
+compound Concentration (M) Rw mg/cm2.h  I%
+
+0.00
+10-6 10-5 10-4 10-3 10 10
+-2 -1
+
+0.06
+0.0432 0.039 0.030 0.024 0.0168 0.012 0.06 0.0408 0.0354 0.0285 0.0219 0.0156 0.0096 0.06 0.0393 0.033 0.0264 0.0198 0.0141 0.0078 0.06 0.0378 0.0318 0.0255 0.0183 0.012 0.006 0.06 0.033 0.0276 0.0204 0.0144 0.0078 0.0024 0.06 0.036 0.030 0.0228 0.0165 0.0105 0.0045
+
+0.28 0.35 0.50 0.60 0.72 0.80 0.32 0.41 0.525 0.635 0.74 0.84 0.345 0.45 0.56 0.67 0.765 0.87 0.37 0.47 0.575 0.695 0.80 0.90 0.45 0.54 0.66 0.76 0.87 0.96 0.40 0.50 0.62 0.725 0.825 0.925
+
+28 35 50 60 72 80 32 41 52.5 63.5 74 84 34.5 45 56 67 76.5 87 37 47 57.5 69.5 80 90 45 54 66 76 87 96 40 50 62 72.5 82.5 92.5
+
+(I)
+
+0.00 10-6 10-5 10-4 10-3 10 10
+-2 -1
+
+( II )
+
+0.00 10-6 ( III ) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 ( IV ) 10-5 10-4 10-3 10-2 10 0.00 10-6 (V) 10-5 10-4 10-3 10
+-2 -1 -1
+
+10 0.00 10-6
+
+( VI )
+
+10-5 10-4 10-3 10-2 10
+-1
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 17 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10, Preprint 36 submitted 20 June 2007 Table(2) : Data of weight loss measurements for alloy (II) in 0.5 M H2SO4 solution and o containing defferent concentrations of compounds ( I-VI ) at 25 C .
+compound Concentration (M) 0.00 10-6 Rw mg/cm2.h 0.12 0.00948 0.081 0.0684 0.0552 0.039 0.030 0.12 0.0888 0.0768 0.063 0.051 0.0348 0.0252 0.12 0.0852 0.072 0.060 0.0468 0.0312 0.021 0.12 0.081 0.0666 0.0552 0.0432 0.027 0.0180 0.12 0.0744 0.0612 0.048 0.0348 0.0192 0.0096 0.12 0.078 0.0642 0.051 0.0384 0.0228 0.0132  0.21 0.325 0.43 0.54 0.675 0.75 0.26 0.36 0.475 0.575 0.71 0.79 0.29 0.40 0.50 0.61 0.74 0.825 0.325 0.445 0.54 0.64 0.775 0.85 0.38 0.49 0.60 0.71 0.84 0.92 0.35 0.465 0.575 0.68 0.81 0.89 I% 21 32.5 43 54 67.5 75 26 36 47.5 57.5 71 79 29 40 50 61 74 82.5 32.5 44.5 54 64 77.5 85 38 49 60 71 84 92 35 46.5 57.5 68 81 89
+
+(I)
+
+10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 ( II ) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 10-5 10-4 10-3 10
+-2 -1
+
+( III )
+
+10 0.00 10-6 10-5 10-4 ( IV ) 10-3 10
+-2 -1
+
+10 0.00 10-6
+
+( V)
+
+10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6
+
+( VI )
+
+10-5 10-4 10-3 10 10
+-2 -1
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 18 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10, Preprint 36 submitted 20 June 2007 Table(3) : Data of linear polarization measurements for alloy (I) in 0.5 M H2SO4 solution and o containing different concentrations of compounds (I-VI) at 25 C.
+compound Concentration (M) 0.00 10-6 (I ) 10-5 10-4 10-3 10
+-2 -1
+
+Rp . cm2 750 1027.40 1136.36 1442.31 1875.0 2500 3571.43 750 1086.96 1250 1562.5 2027.03 2777.78 4545.45 750 1136.36 1351.35 1666.67 2205.88 3125 5357.14 750 1181.1 1388.89 1744.19 2419.35 3750 6818.18 750 1339.29 1595.74 2142.86 3000 5357.14 15000 750 1229.51 1470.59 1875 2678.57 4166.7 9375
+
+ 0.27 0.34 0.48 0.60 0.70 0.79 0.31 0.40 0.52 0.63 0.73 0.835 0.34 0.445 0.55 0.66 0.76 0.86 0.365 0.46 0.57 0.69 0.8 0.89 0.44 0.53 0.65 0.75 0.86 0.95 0.39 0.49 0.6 0.72 0.82 0.92
+
+I% 27 34 48 60 70 79 31 40 52 63 73 83.5 34 44.5 55 66 76 86 36.5 46 57 69 80 89 44 53 65 75 86 95 39 49 60 72 82 92
+
+10 0.00 10-6 ( II ) 10-5 10-4 10-3 10
+-2
+
+10-1 0.00 10-6 ( III ) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 (IV ) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 (V) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 (VI ) 10-5 10-4 10-3 10 10
+-2 -1
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 19 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Table( 4 ) :Data of linear polarization for alloy (II) in 0.5 M H2SO4 solution and containing different concentrations of compounds (I-VI) at 25oC.
+compound Concentration (M) 0.00 10-6 10-5 10-4 10-3 10
+-2 -1
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+Rp . cm2 500 625 735.29 863.07 1083.83 1515.15 2000 500 671.14 769.23 943.396 1162.79 1666.67 2325.58 500 694.44 819.67 980.39 1250 1851.85 2777.78 500 735.29 892.86 1063.83 1351.35 2173.9 3225.81 500 793.65 961.54 1250 1666.67 2941.18 5882.35 500 757.58 925.93 1162.79 1515.15 2500 4166.67
+
+ 0.20 0.32 0.42 0.53 0.67 0.75 0.255 0.35 0.47 0.57 0.7 0.785 0.28 0.39 0.49 0.6 0.73 0.82 0.32 0.44 0.53 0.63 0.77 0.845 0.37 0.48 0.60 0.70 0.83 0.915 0.34 0.46 0.57 0.67 0.80 0.88
+
+I% 20 32 42 53 67 75 25.5 35 47 57 70 78.5 28 39 49 60 73 82 32 44 53 63 77 84.5 37 48 60 70 83 91.5 34 46 57 67 80 88
+
+(I)
+
+10 0.00 10-6 ( II ) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 ( III ) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 (IV ) 10-5 10-4 10-3 10-2 10 0.00 10-6 (V) 10-5 10-4 10-3 10
+-2 -1 -1
+
+10 0.00 10-6 (VI ) 10-5 10-4 10-3 10
+-2
+
+10-1
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 20 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Data of impedance measurements 10, Preprint in 0.5 M H2SO4 solutionsubmitted 20 June 2007 Volume for alloy (I) 36 Table(5): and o containing different concentrations of compounds(I-VI)at 25 C.
+compound Concentration (M) 0.00 10-6 10-5 10-4 10-3 10
+-2 -1
+
+Rt  .cm2 150 206.9 230.77 300 370.37 535.71 731.7 150 220.59 250 319.15 416.67 576.92 967.74 150 227.27 272.73 337.08 447.76 625 1200 150 236.22 283.02 348.84 488.87 750 1578.94 150 270.27 326.09 434.78 600 1111.11 3000 150 250 300 389.61 535.71 833.33 1875
+
+Cdl µF/ cm2 1061.57 769.63 689.93 530.79 429.9 297.25 217.62 1061.57 721.83 636.94 497.7 381.9 275.98 164.5 1061.57 700.55 583.86 472.5 355.44 254.78 132.7 1061.57 674.1 562.67 456.3 329 212.31 100.85 1061.57 589.17 488.45 366.06 265.39 143.31 53.08 1061.57 636.94 530.78 408.3 297.08 191.08 84.93
+
+I% 27.5 35 50 59.5 72 79.5 32 40 53 64 74 84.5 34 45 55.5 66.5 76 87.5 36.5 47 57 69 80 90.5 44.5 54 65.5 75 86.5 95 40 50 61.5 72 82 92
+
+(I)
+
+10 0.00 10-6 ( II ) 10-5 10-4 10-3 10
+-2
+
+10-1 0.00 10-6 ( III ) 10-5 10-4 10-3 10-2 10 0.00 10-6 (IV ) 10-5 10-4 10-3 10
+-2 -1 -1
+
+10 0.00 10-6 (V) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 (VI ) 10-5 10-4 10-3 10 10
+-2 -1
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 21 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-88586): Data of impedance measurements10, Preprint 36 0.5 M H2SO4 solution and Volume for alloy (II) in submitted 20 June 2007 Table( o containing different concentrations of compounds(I-VI) at 25 C.
+compound Concentration (M) 0.00 10-6 10-5 10-4 10-3 10
+-2
+
+Rt  .cm2 100 125 147 175.44 215.5 303.03 392.16 100 135.14 153.85 188.68 232.56 333.33 465.12 100 138.88 166.67 200 250 384.62 555.56 100 147.06 178.57 217.39 277.78 370.37 625 100 161.29 192.31 243.9 333.33 606.6 1250 100 153.85 185.19 232.56 307.69 500 833.33
+
+Cdl µF/ cm2 1592.36 1273.9 1083.24 907.32 738.9 525.53 406 1592.36 1178.3 1035 842.5 684.6 477.71 342.36 1592.36 1146.4 953.51 796.18 636.94 414.01 286.6 1592.36 1083.24 889.58 732.45 573.2 429.94 254.78 1592.36 1012.96 828.02 652.87 477.71 262.51 127.39 1592.36 1034.67 859.8 684.6 517.5 318.98 191.1
+
+I% 20 32 43 53.5 67 74.5 26 35 47 57 70 78.5 28 40 50 60 74 82 32 44 54 64 77 84 38 48 59 70 83.5 92 35 46 57 67.5 80 88
+
+(I)
+
+10-1 0.00 10-6 ( II ) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 ( III ) 10-5 10-4 10-3 10
+-2
+
+10-1 0.00 10-6 (IV ) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 (V) 10-5 10-4 10-3 10
+-2 -1
+
+10 0.00 10-6 (VI ) 10-5 10-4 10-3 10 10
+-2 -1
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 22 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+o
+
+submitted 20 June 2007
+
+Table (7):Standard free energy G ads for alloy (I) and alloy (II) in 0.5 M H2SO4 containing different concentrations of different inhibitors (I- VI) at 25oC.
+
+Alloy (I) Inhibitor (I) ( II ) (III) (IV) (V) (VI) G ads. ( KJ/mol ) -55.477 -49.048 -57.40 -59.552 -62.299 -58.822
+o
+
+Alloy (II) a -11.5 G ads. ( KJ/mol ) -50.485 -54.899 -56.892 -58.316 -62.304 -60.595
+o
+
+a -10.925 -11.50 -11.50 -11.50 -11.50 -11.50
+
+-9.409 -11.022 -11.138 -11.02 -10.679
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 23 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 24 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 25 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 26 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 27 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 28 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 29 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 30 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 31 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 32 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 33 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 34 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 35 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 36
+
+submitted 20 June 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 36 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

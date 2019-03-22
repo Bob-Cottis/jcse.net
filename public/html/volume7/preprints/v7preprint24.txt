@@ -1,0 +1,473 @@
+ISSN 1466-8858
+
+Volume 7 Paper 24 Rust Protective Capability of some Modern and Traditional Organic Coating Systems Assessed by way of Accelerated Corrosion Testing and by Outdoor Exposure
+B. Carlsson SP Swedish National Testing and Research Institute, P.O.Box 857, SE50115 Borås, Sweden, Bo.Carlsson@sp.se
+
+Abstract
+The corrosion protection capability on rusty steel surfaces of eight modern rust protective organic coating systems was tested by use of ISO 11997-1, Cycle B and by outdoor exposure at a marine test site. Five of the coating systems were of alkyd type and three epoxy/polyurethane coating systems. As a reference a coating system with a linseed oil based red lead primer was used. In the study also two historical paint systems were tested. The result from the study shows that a qualification procedure for the assessment of corrosion protection class may favourably be adopted based on accelerated corrosion testing. The results from the accelerated corrosion test agree fairly well with the results from outdoor exposure at the marine test site at Kvarnvik, Bohus Malmön, which is the field station in Sweden that is normally used for qualification of rust protective paints with respect to corrosion protection class.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+To get an overall scale for comparing different coating systems, test objects in the shape of double panels were also used in the present study. Effective corrosion protection classes were introduced by adding to the traditional corrosion protection class, the coating system's ability to prevent corrosion damage at crevices and edges. A comparison between the results obtained for the double panels at accelerated corrosion testing and at outdoor testing shows also in this case a fairly good agreement. The results points to the importance of the application of the paint for sufficient corrosion protective capability. Whether there are modern lead free paint system alternatives that are competitive with the read lead based system tested, is maybe too early to conclude. When taking into account the corrosion protection capability when applied on rusty steel surfaces under practical working conditions, a reference object study will give the final answer. From the present study, however, it can be concluded that the read lead based coating system seems the best, but, there are modern coating systems with comparable corrosion protection capability. Key words: Organic corrosion protective coatings, accelerated corrosion testing, read lead, historical monuments, rusty steel
+
+Introduction
+In the preservation of cultural objects made of iron and steel it is in most cases not possible to remove all rust from the various surfaces of the objects prior to maintenance painting. For most rust protective organic coating systems with the exception of the ones with linseed oil based red lead primer this is considered critical in obtaining sufficient long-term performance of the coating systems. However, from an environmental point of view the use of the red lead primer in maintenance painting should be minimized and most preferably be completely avoided. By the initiative of the Swedish National Heritage Board a research project program was therefore initiated with the main objective to investigate if there are modern lead free paint system alternatives that can replace the read lead primer system for applications in the cultural heritage sector. The comparison of the rust protective systems should be made considering long-term corrosion pro2
+
+tection performance and maintenance cost, of course, but, also taking into account the extra environmental costs associated with the use of the read lead system. For this evaluation some commercially available rust protective paint systems have been selected for study. Those systems have been characterized with regards to their general environmental qualities [1], and with regard to their corrosion protection capability determined by accelerated testing [2] and by field site exposure testing [3]. As part of this program a reference object study has also been initiated [4]. The reference object study involves repainting of two rail way bridges and assessment of the long-term performance of the coating systems and associated maintenance cost for a time period of at least ten years. In the present paper the accelerated testing and the outdoor exposure studies are briefly reviewed. Main emphasis is placed on comparing the results from the two kinds of test to validate the employed method for classification of the rust protective capability of the coating systems by accelerated corrosion testing.
+
+Tests Performed
+Organic Coating Systems In the study eleven coating systems were tested; see Table 1 The reference system, R1, has a linseed oil based read lead primer (Protect Rostskydd Oljemönja) and an alkyd top coat (TEMA LACK AB 70). Coating system F2 uses an alkyd primer pigmented with zinc phosphate (TEKNOSYNT PRIMER 1228) and an alkyd top coat (TEKNOSYNT 1360). Coating system F3 is composed of an alkyd primer pigmented with zinc phosphate (Protect roststopp), a second coat of alkyd type (TEMA LACK AB MIO) and an alkyd top coat (TEMA LACK AB 70).
+
+3
+
+Tabell 1 Rust protective coating systems tested No R1* F2 F3 F4 F5 Primer/Pigment linseed oil/red lead alkyd/zinc phosphate alkyd/zinc phosphate alkyd/zinc phosphate unpigmented penetrating alkyd linseed oil F6 penetrating fish oil based/zinc phosphate F7 two component epoxy/MIOX F8 two component epoxy/aluminium two component epoxy with MIO pigmentation/two component acrylic polyurethane F9 unpigmented penetwo component high solid 206 175 two component polyurethane 119 urethane modified alkyd 110 Second coat/Top coat alkyd alkyd alkyd/ alkyd alkyd/ alkyd alkyd /alkyd
+Total coating thickness ( m)
+
+241 129 186 158 115
+
+trating alkyd linseed oil epoxy aluminium / two component polyurethane F10
+F11
+
+linseed oil**/iron oxide linseed oil** linseed oil**/ carbon black and graphite
+
+50 ? 67
+
+* Reference ** Traditionally boiled linseed oil with a lead content of around 0.3 % Coating system F4 is similar and composed of an alkyd primer pigmented with zinc phosphate (TEMA PRIME AB), a second coat of alkyd type (TEMA LACK AB MIO) and an alkyd top coat (TEMA LACK AB 70). Coating system F5 makes use of an unpigmented penetrating surface tolerant linseed oil alkyd (Isotrol) as pre-treatment. The second coat 4
+
+(ISOGUARD PANSAR ) is of alkyd type pigmented with iron oxide and the top coat is of alkyd type (ISOTROL FINNISH). Coating system F6 has fish oil based moister and surface tolerant penetrating primer with zinc phosphate as corrosion inhibitor (RustOleum Red Primer 769). The top coat is a urethane modified alkyd (Rust-Oleum Alkythane). Coating system F7 is a barrier coating system with a two component epoxy primer pigmented with MIOX (INERTA MASTIC MIOX) and a two component polyurethane top coat (TEKNODUR 50/90). Coating system F8 is also a barrier coating system with an aluminium pigmented two component epoxy primer (TEMABOND ST 200), a second coat of a two component epoxy with MIO pigmentation (TEMACOAT GPL-S MIO ) and a two component acrylic polyurethane top coat (TEMADUR 50). Coating system F9 uses an unpigmented penetrating surface tolerant alkyd linseed oil as pre-treatment (Isotrol). The second coat is a two component high solid epoxy aluminium paint (Isomastic) and the top coat a two component polyurethane paint (Isodur). Coating systems F10 and F11 are test systems prepared from old recipes found in the literature and make use of traditionally boiled linseed oil as binder. They are, however, not optimized as regards composition and treatment to achieve best durability. Test Objects For the tests the coating systems were applied on pre-corroded (rust grade C) hot rolled carbon steel panels of preparation grade St 2 in accordance with ISO 8501-1 [5]. Recommended total thickness of the coating systems was 160  The top coats were semi-glossy and had m. a grey colour (NCS 5502-B). Two kinds of test objects were used: (a) a flat single panel with the dimension of 100 mm x 150 mm x 3 mm, and (b) a flat single panel equipped with an extra upper panel of the dimension of 38 mm x 100 mm x 3 mm, as schematically shown in Figure 1 5
+
+Crevice with rusty inner * surfaces of grade C
+
+Sharp edge
+
+Figure 1 Double panel test object with a rusty crevice and sharp edges Bolts were used to attach the upper panel with the same torsional moment to the bottom panel prior to steel brushing. The upper edge of the upper panel was purposely left relatively sharp. The backside of all panels was protected by the primer only. The edges of the panels were treated in the same way as the front surface of the panels. In Table 3 mean values of the total thickness for the single panels of each coating system are also given based on measurements made using the magnetic method in accordance with ISO 2178 [6]. Prior to corrosion testing, a 1 mm wide scribe was made in the single panels; see Figure 2. Outdoor Exposure Outdoor exposure testing at the marine test site at Kvarnvik, Bohus Malmön has presently been performed now for three years with start in the autumn of 2001 following essentially the procedure described in ISO 8565 [7]. The panels are placed on racks directed towards south at an angle of 45 the horizontal plane. The test objects are placed to with their shortest side downwards as shown in Figure 2. In Table 4 atmospheric corrosivity data for carbon steel and zinc during the outdoor exposure test are shown. Table 4 Atmospheric corrosivity during outdoor exposure testing at the test site at Kvarnvik, Bohus Malmön, Sweden Year Corrosion of carbon steel ( m/year) Corrosion of zinc ( m/year) * Reference [8] 6 01/02 (oct-oct) 181 7 1,8 0,3 02/03 (oct-oct) 66 13 1,2 0,0 03/04 (oct-oct) 76 12 Yearly mean value 86/89* 54 1,4
+
+Single panel with scribe
+
+Rack for outdoor exposure testing directed towards south and with the test panels at an angle of 45 the horito zontal plane Double panel with crevice Figure 2 Exposure of test objects during outdoor testing
+
+Accelerated Corrosion Test
+Accelerated corrosion testing was performed principally in accordance with ISO 11997-1, Cycle B [9] , which is also described in VDA 611415 [10]. The test cycle adopted included the following steps: (a) 1 day of neutral salt spray testing at 35  in accordance with ISO C 9227 [11], (b) 4 days of intermittent condensation testing in accordance with DIN 50017 KFW [12] (8 h constant condensation at 40  followed by 16 h C drying at 23  and 50 % RH), and C c) 2 days of drying at 23  and 50 % RH. C In Table 5 corrosivity data for the accelerated corrosion test are shown.
+
+7
+
+Table 5 Corrosivity data for the adopted accelerated corrosion test based on ISO 11997-1, Cycle B Testing time (cycles) 1 2 3 4 6 9 Mass loss of carbon steel ( m) 18 38 55 73 111 168 Mass loss of zinc ( m) 7 15 22 35 44 65
+
+Assessment of Paint Degradation and Corrosion Defects Degradation of the coating systems during testing was visually assessed and classified in accordance with ISO 4628 [13]. In assessing spread of corrosion defects from scribe for the single panels, the upper and the lower part of the scribe was divided into three equally sized areas. For each of the six areas the maximal spread of corrosion defects from the scribe was thereafter measured and the mean value of those used to report the effective spread of corrosion defects from scribe of each panel following the recommended procedure in ISO 4623 [14]. Spread of corrosion defects from the crevice between the upper and lower panel of the double panel was assessed analogously. The upward directed crevice and the downward directed crevice was divided into three equally sized areas and the maximal spread of corrosion defects from the crevice within each area was measured. The mean value was then used to characterize the spread of corrosion defects from the crevice. In assessing the rust grade of the front surface, the area with visible rust spots relative to the total area was determined by use of the image editing program Jacs Paint Shop Pro. The quotient between the number of red pixels per unit area and the number of blue pixels per unit area, denoted a, was first assessed and set into relation to for an unaffected area corresponding quotient, denoted b. The percentage of
+
+8
+
+the area affected by corrosion could thereafter be estimated from the expression 100·(a-b)/b.
+
+Results
+Outdoor Exposure The results from the outdoor exposure test are illustrated in Figures 3-5. As can be observed the spread of corrosion defects is relative small for the alkyd systems R1, F2, F3 and F6 compared to the alkyd system F5. The spread from scribe of corrosion defects is generally more pronounced for the two-component systems F7, F8, and F9. Worth pointing out is the big difference in behaviour of the two panels with coating system F7. The corrosion defects at the scribe have in most cases a typical filiform appearance; see Figure 4. It should be mentioned that the rust grade of the panels with coating system F10 and F11 already after 1 year of exposure had reached the level of Ri =4.
+20 18 16 14 12 10 8 6 4 2 0
+
+Spread from scribe (mm)
+
+1 year 2 years 3 years
+
+R1 R1 F2 F2 F3 F3 F4 F4 F5 F5 F6 F6 F7 F7 F8 F8 F9 F9
+
+Coating system
+Figure 3 Spread from scribe for the different coating systems specified in Table 1. Results are given for each of the two single panels tested of each coating system
+
+9
+
+R1
+
+F2
+
+F3
+
+F4
+
+F5
+
+F6
+
+F7a
+
+F7b
+
+Figure 4 Spread of corrosion defects from scribe after 3 years of outdoor exposure at Bohus Malmön; see also Figure 3
+
+F8
+
+F9
+
+F10
+
+F11
+
+If the corrosion defects on the double panel are considered the situation is somewhat different as can be observed in Figure 5 and 6
+9
+
+Spread from crevice (mm)
+
+8 7 6 5 4 3 2 1 0 1 2 3 4
+
+1 year 2 years 3 years
+
+5
+
+6
+
+7
+
+8
+
+9
+
+Coating system
+Figure 5 Spread from the crevice of the double panel for the different coating systems specified in Table 1.
+
+10
+
+R1
+
+F2
+
+F3
+
+F4
+
+F5
+
+F6
+
+F7
+
+Figure 6 Appearance of the double panels after 3 years of outdoor exposure at Bohus Malmön; see also Figures 5 and 7 F8 F9
+
+Coating systems F2 and F7 exhibit heavy corrosion attacks most probably, at least in the case of coating system F2, due to unsatisfactory application of the paint system at the crevice between the lower and the upper panels; see Figure 10.
+
+40
+
+Area with rust (%)
+
+35 30 25 20 15 10 5 0 R1 F2 F3 F4 F5
+
+1 year 2 years 3 years
+
+F6
+
+F7
+
+F8
+
+F9
+
+F10 F11
+
+Coating system Figure 7 Area with rust on the upper panel of the double panel for the
+different coating systems specified in Table 1. Insufficient local coating thickness, especially at edges, is most probably the main cause to the development of the corrosion defects observed on the upper panel, c.f. Figures 6 and 7; see also Figure 10. It 11
+
+should, however, be mentioned that the spread of corrosion defects from the crevice in case of coating system F3 is in the form of blisters and not in the form of visible rust as observed for coating systems F2 and F7. Accelerated Corrosion Testing Summaries of the results from the accelerated corrosion test are presented in Figures 8-10. Considering first the spread of corrosion defects from scribe, the defects appearing at accelerated corrosion testing are mainly in the form of blisters rather than of filiform type, which was observed on the most affected coating systems during outdoor exposure, c.f. Figures 9 and Figure 4. At accelerated corrosion testing, the spread of corrosion defects from scribe is essentially the same as the spread of under-corrosion, determined after completion of the accelerated test, as shown in Figure 8. The relative performance of the different coating systems is also essentially the same as observed during outdoor testing, which will be discussed in more depth in the next section.
+10
+Spread from scribe (mm)
+
+9 8 7 6 5 4 3 2 1 0
+R1 F2
+
+Underrust
+
+Defects
+
+F3
+
+F4
+
+F5
+
+F6
+
+F7
+
+F8
+
+F9
+
+Coating system
+
+Figure 8 Spread from scribe of corrosion defects and of undercorrosion after 10 weeks of testing in accordance with ISO 11997-1, Cycle B 12
+
+R1
+
+F2
+
+F3 F4 F5 F6 F7 Figure 9 Spread of corrosion defects from scribe after 10 weeks of accelerated corrosion testing in accordance with ISO 11997-1, Cycle B; see also Figure 3. After 10 weeks of exposure the coating systems F10 and F11 were completely corroded.
+
+F8
+
+F9
+
+R1
+
+F2
+
+F3
+
+F4
+
+F5
+
+F6
+
+F7
+
+F8
+
+F9
+
+Figure 10 Cross section of the crevice between upper and lower panel of the double panel after 10 weeks of corrosion testing according to ISO 11997-1, Cycle B 13
+
+When observed corrosion defects on the double panel at accelerated corrosion testing are compared with those observed at outdoor exposure, it can be concluded that the pattern is very much the same. Main cause to the corrosion damage appearing is due to insufficient coating of the paint systems at the crevice and at the edges of the upper panel; see Figure 10. The quantitative agreement between the results from the accelerated corrosion test and that from outdoor exposure therefore is relative good. This will be discussed in more depth in the next section.
+
+Classification and Assessment of Corrosion Protection Capability
+Correlation between Accelerated Corrosion Testing and Outdoor Testing In Sweden, corrosivity and durability classification of rust protective paints may be assessed by outdoor exposure testing at Bohus Malmön following the recommendations given in the standard BSK 99 [15]. The qualification scheme to be employed is shown in Table 6. A disadvantage with the qualification scheme shown in Table 6 is that it is based on the results from outdoor exposure at a field station, which corrosivity may vary greatly from one year to another year. Qualification should therefore better be based on the result of an indoor accelerated corrosion test. However, to serve as a suitable accelerated corrosion test for that purpose, the test should yield results that truly reflect the degradation pattern observed at natural exposure conditions, both from a qualitative and a quantitative point of view. The corrosion test according ISO 11997-1, Cycle B, was considered a suitable corrosion test to use for predicting outdoor corrosion protection performance. For evaluating how well its results reflected outdoor performance of the studied rust protective coating systems the following analysis was performed.
+
+14
+
+Table 6 Criteria for assessment of durability/corrosivity class of rust protective paint systems based on results from outdoor exposure at Kvarnvik, Bohus-Malmön and following the recommendation of the Swedish standard BSK 99 [15] Corrosivity class* Requirement on maximal spread of corrosion defects from scribe for durability class: Mean (mm) Other requirements
+
+After 4 years at Kvarnvik, Bohus-Malmön
+C5 C4 4 10
+
+No other visible defects, sufficient adhesion (> 2 MPa), and rust grade Ri 1
+
+After 2 years at Kvarnvik, Bohus-Malmön 10 C3 After 0,5 years at Kvarnvik, Bohus-Malmön C2,0 10
+* defined in ISO 12944-2 [16]
+
+The first assumption made was that there exists a correlation factor that can be used to transform exposure time of the accelerated test into exposure time at outdoor exposure. Assessment of the corrosion protection capablity of a series of rust protective maintenance painting systems for military equipment by use of ISO 11997-1, Cycle B and outdoor exposure at Kvarnvik, Bohus Malmön from Oct. 1993 to Oct. 1994 had indicated that 6 weeks of accelerated corrosion testing corresponded to 0.4 to 0.7 years of outdoor exposure at Bohus Malmön [17]. In the present study it was, however, found more appropriate to assume that 6 weeks of accelerated corrosion testing corresponded to one year of exposure at Bohus-Malmön, How spread of corrosion defects from scribe for the different coating systems develops with time during outdoor testing and during accelerated corrosion testing is illustrated in Figure 11. For this comparet was consequently assumed that six weeks of accelerated corrosion testing corresponds to 1 year of outdoor exposure at Bohus-Malmön (referring thus to a yearly mean of the exposure conditions from Oct. 2001 to Oct. 2004). 15
+
+Spread from scribe (mm)
+14 12 10 8 6 4 2 0 0 1 2 3
+
+Spread from scribe (mm)
+14
+
+R1:1 R1:2 R1:a
+
+12 10 8 6 4 2 0 0
+
+F2:1 F2.2 F2:a
+
+1
+
+2
+
+3
+
+14 12 10 8 6 4 2 0 0
+14 12 10 8 6 4 2 0 0
+
+F3:1 F3:2 F3:a
+
+14 12 10 8 6 4 2 0
+1 2 3
+
+F4:1 F4:2 F4:a
+
+0 14 12 10 8 6 4 2 0
+
+1
+
+2
+
+3
+
+F5:1 F5:2 F5:a
+
+F6:1 F6:2 F6:a
+
+1
+
+2
+
+3
+14 12 10 8 6 4 2 0
+
+0
+
+1
+
+2
+
+3
+
+14 12 10 8 6 4 2 0 0 20 18 16 14 12 10 8 6 4 2 0 0 1 2 3
+
+F7:1 F7:2 F7:a
+
+F8:1
+
+F8:2
+
+F8:a
+
+0
+
+1
+
+2
+
+3
+
+F9:1
+
+F9:2
+
+F9:a
+
+Data for panel 1 from outdoor exposure Data for panel 2 from outdoor exposure Data from accelerated corrosion testing (Assumption 6 weeks of accelerated corrosion testing corresponds to 1 year of outdoor exposure at Bohus Malmön)
+
+1
+
+2
+
+3
+
+Outdoor exposure time (years)
+
+Outdoor exposure time (years)
+
+Figure 10 Comparison of spread of corrosion defects from scribe between outdoor and accelerated testing 16
+
+As a coincidence, maybe, the yearly mean atmospheric corrosivity at Bohus Malmön in terms of metallic mass loss of carbon steel is 108  to be compared with 111  which value was obtained for steel m m, after 6 weeks of testing according ISO 11997-1, Cycle B, c.f. Table 4 and Table 5. At accelerated testing, for most of the coating systems, the spread of corrosion defects from scribe evolves with time in a linear or in some cases more step wise manner; a period of increase in spread followed by a plateau with constant spread of defects from scribe e.t.c. The situation at outdoor testing is that you have coating systems exhibiting a near linear increase of spread of corrosion defects from scribe with time and coating systems for which the spread stays essentially constant in time at 1 - 2 mm. The stochastic character of the process is evident when the results for the two F7 panels are compared. For one panel the spread increases linearly with time whereas for the other panel the spread stays constant at a low level even after three years of outdoor exposure. The spread of corrosion defects with time for the first mentioned panel is quantitatively in fair agreement with what was observed at accelerated testing. The general conclusion, however, is that for most of the coating systems the results from the accelerated corrosion testing and from the outdoor testing agree fairly well. Assessment of Corrosion Protection Capability Taking the classification and qualification scheme presented Table 6 as a point of departure and further assuming that the rate of spread of corrosion defects from scribe can be considered constant in time, a qualification scheme based on the results of accelerated testing was set up as shown in Table 7. Corrosion protection classes were also defined in between the ones given in Table 6 by introducing a resolution of one quarter of a whole corrosivity/durability class as shown in Table 6. This was done to get a better scale on how well the results from accelerated corrosion testing and outdoor testing at Bohus Malmön agree; see Figure 11. 17
+
+Table 7 Requirements for assessment of corrosion protection class of protective paint systems based on accelerated corrosion testing in accordance with ISO 11997-1, Cycle B Corrosion protection class Requirement on maximal spread of corrosion defects from scribe for durability class: Mean (mm)* Other requirements
+
+After 6 weeks of testing in accordance with ISO 11997-1, Cycle B or 1 year of outdoor exposure at Kvarnvik, Bohus-Malmön
+C4 C3.75 C3.5 C3.25 C3.0 C2.75 C2.50 C2.25 C2.0 C 1.0 u 2.5 2.5 < u 3.1 3.1 < u 3.8 3.8 < u 4.4 4.4 < u 5 5 < u 7.5 7.5 < u  10 10 < u 12.5 12.5 < u 20 > 20 Or Ri>1 or adhesion < 2MPa No other visible defects, sufficient adhesion (> 2 MPa), and rust grade Ri 1
+
+* To convert the requirements on maximal spread of corrosion defects from scribe given in BSK 99, it was assumed that the rate of spread of corrosion defects from scribe is constant in time.
+
+The agreement in terms of corrosion protection classes assessed by accelerated corrosion testing and by outdoor exposure is as shown in Figure 11 quite reasonable. The standard deviation is equal to 0.41. Moreover, the slope of the correlation line = 0.95, which indicates that the corrosion protection capability assessed by accelerated testing is just slightly underestimated on the average.
+
+18
+
+4,5
+Corrosion protection class from accelerated corrosion testing
+
+4 3,5
+F5
+
+F6
+
+F4 R1 F2 F7
+
+3 2,5 2 1,5 1 1 1,5 2 2,5
+F10, F11
+
+F9 F8
+
+F3
+
+3
+
+3,5
+
+4
+
+4,5
+
+Corrosion protection class from outdoor exposure at Bohus-Malmön
+
+Figure 11 Correlation between corrosion protection classes assessed from results of 6 weeks of accelerated corrosion testing according to ISO 11997-1, Cycle B and from 1 year of outdoor exposure at Bohus Malmön The data in Figure 11 is based on the results after 6 weeks of accelerated corrosion testing. If instead results from 10 weeks of accelerated testing is used for the assessment of corrosion protection class, the correlation between the results from the accelerated test and the outdoor test becomes somewhat better as shown in Figure 12. The standard deviation is now 0.36 and the slope of the correlation line = 0.99. Above all, the agreement in results for coating system F3 is better. However, in case of coating system F5 the agreement is not so good compared to the situation when the 6 weeks accelerated corrosion results are used. The results show that the qualification scheme based on the results of accelerated corrosion testing according to ISO 11997-1, Cycle B, seem very reasonable. It gives quite comparable results with those obtained when adopting the qualification scheme of the Swedish standard BSK 99 [15] based on outdoor exposure at Bohus Malmön.
+
+19
+
+4,5
+Corrosion protection class from accelerated corrosion testing
+
+4 3,5 3 2,5 2 1,5 1 1 2 3
+F10, F11 F5 F9 F8
+
+F4 R1 F7 F3 F2
+
+F6
+
+4
+
+5
+
+Corrosion protection class from outdoor exposure at Bohus-Malmön
+Figure 12 Correlation between corrosion protection class assessed from results of 10 weeks of accelerated corrosion testing according to ISO 11997-1, Cycle B and from 1 year of outdoor exposure at Bohus Malmön However, the evaluation of corrosion protection capability, as presented, is based entirely on the results of exposure of flat panels of the coating systems. To take into account such aspects as the corrosion protection capability at crevices and sharp edges the results from the tests with the double panel would preferably be used. However, also in this case it is important firstly to compare the results from the accelerated test with those obtained from outdoor exposure at Bohus Malmön. Effective Corrosion Protection Capability Insufficient local thicknesses of the coating at the edges and at the heads of the bolts located on the upper part of the double panel are probably the main cause for the fast development of rust you can observe on the upper panel; see Figure 6 and Figure 10. To compare the results from the accelerated corrosion test and from the outdoor ex-
+
+20
+
+posure at Bohus Malmön, the rust grade defined in ISO 4628-3 [13], see Table 8, can be used as a scale Table 8 Definition of Rust Grade Ri according to ISO 4628-3 [13] Rust grade Ri 0 Ri 1 Ri 2 Ri 3 Ri 4 Ri 5 AR = Part of test surface covered by rust (%) 0 AR < 0.05 0.5 AR < 1 1 AR < 8 8 A R < 40 AR > 40
+
+0.05  A R < 0.5
+
+As can be seen from Figure 13, the agreement for most of the coating systems is quite satisfactory. Only in one case the deviation is as high as two classes. As photographs were not available after 6 weeks of accelerated testing the comparison had to be made using the results after 10 weeks of accelerated testing. This was assumed to be approximately equivalent to 2 years of outdoor exposure at Bohus Malmön.
+
+6 5
+Rost grade (Ri)
+BohusMalmön for 2 years ISO 11997-1, Cycle 2 for 10 weeks
+
+4 3 2 1 0 R1 F2 F3 F4 F5 F6 F7 F8 F9 Coating system
+
+Figure 13 Comparison of rust grades on upper panel of the double panel obtained after 2 years of outdoor exposure at Bohus Malmön and after 10 weeks of testing according to ISO 11977-1, Cycle B 21
+
+To be able to compare the results with respect to spread of corrosion defects from the crevice in between the upper and lower panels of the double panel, a scale for crevice corrosion grade was defined as shown in Table 9. Table 9 Definition of Crevice Corrosion Grade Crevice corrosion grade CCG 0 CCG 1 CCG 2 CCG 3 CCG 4 SC = Spread of defects from the crevice of the double panel (mm) SC = 0 0 < SC 1 1 < SC 2 2 < SC 8 SC > 8
+
+As can be seen in Figure 14 the agreement between the results from accelerated testing and from outdoor exposure is fairly good also in this case.
+4
+Crevice corrosion grade (CCG)
+
+ISO 11997-1, Cycle B for 6 weeks Bohus Malmön for 1year 3
+
+2
+
+1
+
+0 R1 F2 F3 F4 F5 F6 F7 Coating system F8 F9
+
+Figure 14 Comparison of crevice corrosion grades observed after 6 weeks of accelerated corrosion testing according to ISO 11997-1, Cycle B and after 1 year of outdoor exposure at Bohus Malmön.
+
+22
+
+To get an overall scale for comparing the results from the accelerated corrosion test with the results from the outdoor exposure at Bohus Malmön an effective corrosion capability, CEFF, was defined as follows: C EFF = CSS ­ 0,25·RiUP - 0,25·CCGUP/LP (1)
+
+where C SS = corrosion protection capability based on the qualification scheme given in Table 7; RiUP = rust grade on the upper panel of the double panel defined in Table 8 and using the data given in Figure 13, and CCGUP/LP = Crevice corrosion grade defined as shown in Table 9 and using the data given in Figure 14. In Figure 15 effective corrosion protection capability classes assessed from results of accelerated corrosion testing and from outdoor exposure at Bohus Malmön are compared. The agreement seems fairly good with a standard deviation equal to 0.46 and a slope for the correlation line = 0.91. In term of effective corrosion protection capability the red lead linseed oil system R1 and the alkyd system F4 are the most favourable. The largest deviations in results between accelerated and outdoor testing are found for coating systems F9 and F3. As pointed out before the agreement in results for system F3 can be improved by using results from 10 weeks of accelerated corrosion testing instead of results from 6 weeks of exposure. However, when doing so for all the coating systems, taking into account also the rust grade on the upper panel and the crevice corrosion grade, the standard deviation increases above 0.5. The large deviation for coating system F9 is mainly associated with the appearance of rust on the upper panel that is more pronounced during outdoor exposure than during accelerated corrosion testing; see Figure 13. From Figure 6 it can clearly be seen that the appearance of rust on the upper panel during outdoor exposure is an edge effect. The cause of the deviation is thus, most probably, due to variation in the quality of the application of the paint between the two different test panels tested.
+
+Conclusions
+23
+
+The result from the study shows that a qualification procedure for the assessment of corrosion protection class of rust protective paints may favourably be adopted based on accelerated corrosion testing according to ISO 11997-1, Cycle B.
+
+Effective corrosion protection class from accelerated corrosion testing
+
+4 3,5 3
+F9 F4 R1
+
+2,5
+F7 F6 F2 F5 F8 F3
+
+2 1,5
+F10, F11
+
+1 1 1,5 2 2,5 3 3,5 4 Effective corrosion protection class from outdoor exposure at Bohus-Malmön
+
+Figure 15 Correlation between effective corrosion protection classes according to equation (1) assessed from results of accelerated corrosion testing according to ISO 11997-1, Cycle B and from results of 1 year of outdoor exposure at Bohus Malmön The results from the accelerated corrosion tests, consequently, agree fairly well with the results from outdoor exposure at the marine test site at Kvarnvik, Bohus Malmön, which is the field station in Sweden that is normally used for qualification of rust protective paints with respect to corrosion protection class. In present day's standard qualification schemes, the evaluation of corrosion protection capability is based entirely on the results of exposure of flat panels of the coating systems. To take into account such aspects as the corrosion protection capability at rusty crevices and sharp edges, test objects in the shape of double panels may favourably 24
+
+be used as shown in the present study. To get an overall scale for comparing different coating systems, effective corrosion protection classes may be introduced adding to the traditional corrosion protection class, the ability of the coating system to prevent corrosion damage at crevices and edges. A comparison between the results obtained for the double panels at accelerated corrosion testing and at outdoor testing shows also in this case a fairly good agreement. The results points to the importance of the application of the paint for sufficient corrosion protective capability. In terms of corrosivity/durability classes, as defined in ISO12944-2, and suitable protective paint systems for different classes, as given in ISO12944-5, [16] most of the coating systems tested seem to have a corrosion protection capability better than to be expected when also taking into account the Swedish qualification procedure in BSK 99 [15]. Most of the coating systems tested have a performance above C3 mean and in some cases even better than C4 mean. In case of the historical paint systems tested more development work is needed to increase their durability. To answer the question, whether there are modern lead free paint system alternatives that are competitive with the read lead based system, is maybe too early to do. When taking into account the corrosion protection capability when applied on rusty steel surfaces under prctical working conditions, the reference object study will give the final answer. From the present study, however, it can be concluded that the read lead based coating system seems the best, but, there are coating systems with comparable corrosion protection capability.
+
+Acknowledgement
+For initiating the study presented in this paper, Mille Törnblom from the Swedish National Heritage Board is gratefully acknowledged. For their valuable contribution to the experimental work the author is indebted to Lennart Carlsson, Kurt Jutengren, Beatrice Heale and German Mara all from SP Swedish National Testing and Research Institute. This work was financed by the Swedish National Heritage Board and the Swedish Research Council for Environment, Agricultural Sciences 25
+
+and Spatial Planning. For providing test panels Kerstin Lyckman and the following industries are acknowledged, namely Alcro-Beckers, INDUF, Introteknik, Teknos Tranemo, and Tikkurila
+
+References
+[1] Health and environmental aspects associated with red lead and lead free alternative paint systems, H Gustafsson, SP-Report 2002:14, ISBN 91-7848-905-9, 2002 (Swedish) [2] Evaluation of available rust protective systems for maintenance painting of historical monuments - Results of accelerated testing, B. Carlsson and others, SP-Report 2002: 07, ISBN 91-7848-896-6, 2002 (Swedish) [3] Evaluation of available rust protective systems for maintenance painting of historical monuments - Results from three years of outdoor testing, B. Carlsson and others, SPAR-Report 2004:27, (Swedish) (Can be downloaded from www.sp.se/databas/rapportpubl) [4] Evaluation of available rust protective systems for maintenance painting of historical monuments - Prerequisites for reference object study with two railway bridges and report on the initial maintenance painting of the bridges, B. Carlsson and others, SP-Report 2004:28, (Swedish) ( Can be downloaded from www.sp.se/databas/rapportpubl) [5] ISO 8501-1:1988 Preparation of steel substrates before application of paints and related products - Visual assessment of surface cleanliness - Part 1: Rust grades and preparation grades of uncoated steel substrates and of steel substrates after overall removal of previous coatings, International Standardisation Organisation, Geneva, 1988, [6] ISO 2178:1982 Non-magnetic coatings on magnetic substrates Measurement of coating thickness - Magnetic method, International Standardization Organization, Geneva, 1982
+
+26
+
+[7] ISO 8565 Metals and alloys - Atmospheric corrosion testing - General requirements for field tests, International Standardisation Organisation, Geneva 1992 [8] Corrosion testing of rust protective paints in sulphur dioxide containing atmospheres, E.H. Elgåsen, SP-Report 1995-37, ISBN 917848-8 [9] ISO 11997-1:1998 Paints and varnishes - Determination of resistance to cyclic corrosion conditions - Part 1: Wet (salt fog)/dry/humidity International Standardization Organization, Geneva 1998 [10] VDA 621-415:1982, Prüfung des Korrosionsschutzes von Kraftfahrzeuglackierungen bei zyklisch wechselnder Beanspruchung, Verband der Automobilindustrie E. V., Frankfurt, 1982 [11] ISO 9227: 1990, Corrosion tests in artificial atmospheres - Salt spray tests; International, Standardization Organization, Geneva 1990 [12] DIN 50017 KFW: 1982, Klimate und ihre technische Anwendung Kondenswasser - Prüfklimate; DIN Deutsches Institut für Normung e.V., Berlin 1982 [13] ISO 4628: 1982, Paints and varnishes - Evaluation of degradation of paint coatings - Designation of intensity, quantity and size of common types of defect - Part 2: Designation of degree of blistering - Part 3: Designation of degree of rusting, International Standardisation Organisation, Geneva 1982 [14] ISO 4623-1:2000, Paints and varnishes - Determination of resistance to filiform corrosion - Part 1: Steel substrates, International Standardisation Organisation, Geneva 2000 [15] Handbook for Steel constructions BSK 99, Boverket, Diarie number: B6084-3285/97; Boverket Publication service, Box 534, 371 23 Karlskrona, Sweden (Swedish) [16] ISO 12944:1998, Paints and varnishes - Corrosion protection of steel structures by protective paint systems - Part 2: Classification of 27
+
+environments and Part 5: Protective paint systems, International Standardisation Organisation, Geneva 1998 [17] Assessment of service life by accelerated testing ­ Guidelines for qualification of rust protective paints, B. Carlsson, A. Berglund Åhman, and K. Jutegren; SP Report 1995:65 (ISBN 91-7848-592-4) (Swedish)
+
+28
+

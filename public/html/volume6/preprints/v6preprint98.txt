@@ -1,0 +1,334 @@
+Volume 6 Paper H055
+
+Corrosive Failure Analysis of Thermal Spray Coatings for Advanced Waste-to-Power
+M. Yoshiba1, A. Mikami2, K. Shimada3 and T. Shimizu4
+1-3
+
+Generation Plant at Elevated Temperatures
+Department of Mechanical Engineering, Graduate School of Engineering, Tokyo Metropolitan University, Tokyo 192-0397, Japan, yoshiba@ecomp.metro-u.ac.jp Present Affiliation: JEOL Ltd., Tokyo 196-8558, Japan Present Affiliation: YKK Corporation, Kurobe 938-8601, Japan
+
+2 3
+
+4 Technology Development Laboratory, KUBOTA Corporation, Amagasaki 661-8567, Japan
+
+Abstract
+In order to assess an applicability of the thermal spray coating systems as the corrosion-resistant components such as boiler superheater tubes in highly aggressive environment for the high-temperature and high-efficiency waste-to-power generation plant, the corrosive failure analysis was conducted for different kinds of the thermal spray coating systems by HVOF, APS and LPPS, with corrosion-resistant coating alloys such as the 625 and 50Ni-50Cr alloys. On the basis of corrosive failure analysis by means of the metallography and x-ray microanalysis, the failure behaviour of coating systems was found to be classified into three modes according to the morphology of corrosive damage in the coating layer; a consumptive mode A with a general corrosion dominating, an incidental mode B in which the localized attack predominates, and another one is the mixed mode M that is composed of both A and B. Most improved protection against the oxy-chlorination dominating corrosion was found to be attainable for the 625 alloy coating onto the 304 stainless steel substrate by
+
+HVOF followed by the post spraying heat-treatment. Furthermore, it was revealed that highly corrosion-resistant coating system should be obtainable provided for a combination of both the coating processing which can minimize the defect structures such as large numbers of coating layer and the post spraying heat-treatment suitable for the compositional and microstructural homogenization of the coating requirements for the much increased performance against the corrosive attack were discussed from several aspects. layer which is essential for preventing the localized attack. Coating pores together with the pronounced oxide phases incorporated in the
+
+Keywords: Waste-to-Power Generation, High-Temperature Corrosion, Thermal Spray Coating, HVOF, Plasma Spraying, Failure Analysis
+
+Introduction
+Waste-to power generation is one of the most feasible energy recovery means both in the existing waste incineration plants and recently in the combined type systems of thermal decomposition (pyrolysis) and gasification followed by ash melting. In order to improve the thermal efficiency of these waste-to-power generation systems, it is required that the superheated boiler steam temperature to be sent to a steam turbine should be much increased up to around 500. This means for the hot section components such as superheater tubes to be subject to much severe and complicated corrosion attack which can be caused by both the aggressive molten salt containing the multi-components of chloride eutectics and the corrosive flue gases also rich in chlorides. There are several approaches to prevent such a serious hightemperature corrosion problem; (1) modification of boiler design to minimize an ash deposition onto the alloy tube surface, (2) environmental control to mitigate the corrosivity and (3) materials innovation to overcome the corrosive damage. In particular, R&D of the superheater tube materials is a key issue for the advanced wasteto-power generation plant. Consequently, large numbers of research works about the development and evaluation of highly corrosionresistant superheater materials have been conducted during the last decade in Japan, mainly as the national projects, to introduce 2
+
+successfully in a practical service [#ref1-3]. However, only a limited the protective coatings in spite of its practical importance [#ref3,4]. In the present study, in order to estimate an applicability and the requirements of the thermal spray coatings in such an aggressive environment, the corrosive failure analysis was conducted for three kinds of thermal spray coating systems; high velocity oxygen fuel pressure plasma spraying (LPPS), with highly corrosion-resistant
+
+number of information has been obtainable about an applicability of
+
+flame (HVOF) spraying, atmospheric plasma spraying (APS) and lowcoating alloys onto the stainless steel substrate, by means of different evaluation methodologies such as the corrosion mass change, the metallography and x-ray microanalysis.
+
+Experimental
+Thermal Spray Coating Systems Three kinds of the thermal spray coatings; HVOF, APS and LPPS, were adopted onto the annealed 304 stainless steel substrate with the form of the basically disk-shaped specimen. Specimen was machined to the form of not only a basic geometry with 16mm diameter and 3mm thickness, but also the specially designed geometry of both with a parallel portion of the width 15mm, and with the chamfer of 0.5mm in all the corner (edge), so as to make easily a preparation of crosssectioning for the metallographic examination without a coating damage, and to avoid inducing preferentially the coating failure such as cracking and spalling from the edge of specimen, respectively. Two kinds of the corrosion-resistant coating alloys; 625 and 50Ni-50Cr alloys, were used as the spraying materials, and the coating thickness was approximately 200µm. Alloy compositions of these coating alloys are listed along with 304 steel for the substrate in Table 1. A series of the coating processing with different spraying methodologies and materials are denoted with the coating system codes in Table 2. Influence of adopting the post-spraying heattreatment (annealing) was considered, as also shown in Table 2. Furthermore, three kinds of the thermal spraying conditions basically according to their practical conditions are summarized in Table 3. 3
+
+Table 1 Chemical composition of 304 stainless steel substrate and coating alloys (mass%).
+Alloy C Si Mn P S Ni Cr Mo Fe Co Nb+Ta Substrate SUS 304 0.05 0.39 1.35 0.03 0.003 8.1 18.2 Bal. Coating Materials 50Ni-50Cr 0.01 0.66 0.19 0.001 0.002 Bal. 47.8 1.47 Al 0.17 Ti 0.32 Alloy 625 0.04 0.11 0.33 0.005 <0.001 Bal. 21.7 8.82 3.36 0.27 3.75 Others
+
+Table 2 Coating processings.
+Code B 55H 55HA 62H 62HA 62HV 62A 62AA 62L 62LA 62LV Grit Spray Processing Heat   Blast & Materials Treatment* No No-Coated No Yes Yes Yes Yes Yes Yes Yes Yes Yes Yes HVOF/50Ni-50Cr HVOF/50Ni-50Cr HVOF/Alloy 625 HVOF/Alloy 625 HVOF/Alloy 625 APS/Alloy 625 APS/Alloy 625 LPPS/Alloy 625 LPPS/Alloy 625 LPPS/Alloy 625 No Yes(Air) No Yes(Air) Yes(Ar) No Yes(Air) No Yes(Air) Yes(Ar)
+
+Table 3 Spraying conditions in HVOF, APS and LPPS.
+Item Spray System Power Gases Plasma Gases Atmosphere HVOF
+Diamond Jet
+
+APS Metco 7MB 500A /75V Ar/H2 in Air 100
+
+LPPS Metco 7MB (V) 800A /50V Ar/H2 50hPa in Ar 250
+
+O2/C3H6 /Air in Air
+
+Spray 200 Distance (mm)
+
+High-Temperature Corrosion Testing High-temperature corrosion testing was conducted in the laboratory by means of the salt coating methodology [#ref5], using the corrosion testing apparatus mainly composed of both the main testing zone within a quartz tube heated externally by an electric furnace and the gas supplying and cleansing systems, as schematically shown in Fig. 1. Then, a specimen was pre-coated with a given amount of the actual plant ash corrected from four principal cities of the municipal solid waste (MSW) incineration plants in Japan and blended evenly, of which chemical composition is listed in Table 4. This actual plant ash is characterized from the DTA-TG analysis by having the melting points variety of the mainly chlorides and/or partly chlorides-sulphates eutectics. The quantity of ash pre-coated is 40mg/cm2 onto the entire specimen surface. at 286, 342, 378 and 513, suggesting the melting points of a
+
+4
+
+Gas Mixer CO2 NO2 / N2 SO2 / N2 CO2 / N2 HCl / N2 Optional Ar to Furnace (for Purge) N2 O2 N 2 + O2 H2O / N2+O2 Electric Furnace Quartz tube
+
+Induction Fan TIC
+
+Testing Zone
+
+Distillated Water
+
+Oil Bath
+
+TIC Exhaust Gas Treatment System
+
+Fig.1 Schematic flow of apparatus for high-temperature corrosion testing.
+
+Table 4 Chemical composition of ash collected from actual four plants (mass%).
+Al 3.80 Si 5.07 Fe 1.72 Na 6.43 K 7.77 Ca 14.20 Mg 1.56 Pb 0.78 Zn 1.95 T-S 13.45 T-Cl 2.06 H2O 0.43
+
+The specimens pre-coated were settled by putting on the alumina boat into the quartz tube and then heated up. Prior to heating, vacuuming and introducing the argon gas was made for purging air from the quartz tube, and then heating was started up. When the temperature was attained to the testing range, the synthetic gas mixture was supplied into the quartz tube with the flow rate of 500cm3/min. 20%H2O-1000ppm HCl-100ppm CO-100ppm NO-50ppm SO2 in volume fraction, which is the representative flue gas composition commonly experienced in the actual MSW incineration plants in Japan, and characterized by much higher HCl concentration. Chemical composition of the flow gas mixture is N2-10% O2-10% CO2-
+
+5
+
+High-temperature corrosion test was carried out at 450 and 550 which should correspond for enduring to the steam temperatures of up to 200h and the thermal cycle corrosion tests of 50h-4cycles by The corrosion testing was conducted by three times; using three 400 and 500, respectively. Both the isothermal corrosion tests for
+
+the repeated coating with the same amount of ash were conducted. specimens for each coating system, for the same testing condition. After the test, almost all the specimens were subjected to an electrochemical descaling in the molten Na2CO3-NaOH salt followed by the mass measurement to determine the conventional corrosion mass change, except for the specimen sending to the x-ray microanalysis without descaling. Furthermore, the metallographic examination also was conducted at the cross-sections of all the specimens to determine quantitatively the different aspects of the corrosive damages, as described later in detail.
+
+Results
+Corrosion Mass Loss for Different Coating Systems Figure 2 shows the corrosion mass losses for different kinds of the coating systems along with no-coated 304 steel obtained from both the isothermal corrosion test for 200h and the thermal cyclic corrosion test of 50h for 4 cycles, at 450 and 550. Here, the symbol * denotes that a part of the coating layer has experienced an exfoliation during mainly the descaling process. It is apparent that the corrosion mass loss is much significant under the conditions both at higher temperature of 550 and of the thermal cycling, suggesting the harmful effect of both an increased temperature and a thermal cycle on the coating failure. So long as the comparison of coating systems is concerned, HVOF and LPPS systems followed by the heat-treatment mainly in vacuum; such as 62HV and 62LV, exhibit generally a sound performance with the relatively reduced mass loss and without a coating exfoliation. According to such an evaluation methodology based of the mass change, however, no information can be obtainable at all about the corrosion morphology and more importantly about the steel substrate. 6
+
+723K 450ºC
+
+B 55H 55HA 62H 62HA None 62HV
+72Ms 200 h 18Ms×4c 50 h x 4c
+
+823K 550ºC
+
+* * *
+
+*
+
+62A 62AA 62L 62LA
+
+* * 60 50 500
+
+* * * 90 * * : Exfoliated during Descaling
+100 1000 120
+:Exfoliated during Descaling
+
+None 62LV
+
+50 500
+
+0
+
+0 0 30
+
+150 150 1500
+
+Corrosion MassML/ 10-2/ cm-2 Loss, mg g -2 Mass Loss, m Fig.2 Corrosion mass loss of different coating systems and the uncoated 304 steel (B) . Morphological Features of Corrosive Failure From the metallographic examination at the cross-sections of all the specimens in detail, the corrosive failure behaviour of different coating systems was revealed to be classified generally into three modes by virtue of the failure morphology in such an aggressive environment. These three modes of failure behaviour are summarized schematically in Fig. 3. Thus, the mode A is of the consumptive manner in which a general corrosion is dominating in the coating layer. This mode was representative for the HVOF systems with both 50Ni-50Cr (55H) and 625 (62H) alloys. The mode B is of rather localized manner in which a localized corrosion can occur preferentially along a number of defects such as the pores and oxide micro-channels pre-existing in the coating layer to be attainable rapidly to the steel substrate, prior to the general attack progresses. In this case, a premature degradation in the protective function of coating should be most significant, since the localized attack toward the steel substrate and along the coating/substrate interface tends to bring about a premature exfoliation at the interfacial region, in spite of for the other coating 7
+
+Mode A
+Micro defect Ash Deposits Coating layer Substrate Spalling
+
+Scale Intergranular attack Chipping
+
+Mode B
+
+Mode M
+
+Time
+
+Fig.3 Three modes of the corrosive failure behaviour observed in different coating systems at 450ºC and 550ºC. portion remaining in sound. APS system with alloy 625 (62A) exhibited this mode of failure behaviour. Third one is the mode M having commonly the mixed characteristics of both modes A and B. A part of the LPPS systems with alloy 625 (62L) is included in this mode. Metallographic Evaluation of Corrosive Failure in Coating Systems In order to evaluate appropriately both a variety of the coating failure modes and the information about the corrosive damage of steel substrate, a reasonable measurement methodology should be proposed with taking into account for the information both about the coating failure and about the depth of attack into the steel substrate. concept proposed in this study for different aspects of the corrosive failure observed in the coating systems. Then, the coating/substrate interface can be regarded as an apparent base line on the crosssection, and the outward and inward measurements from there should be indicative of the remaining coating thickness and the depth of attack into the steel substrate, respectively. A microscopic measurement was actually made for the representative ten fields of view on the whole specimen cross-section at a magnification x100. Figure 4 denotes the schematic illustration showing the measurement
+
+8
+
+View 1
+
+View i
+
+Scale
+
+Ci Di C ave
+
+*
+
+: : : :
+
+Coating / Substrate Interface (Base Line) Remaining Coating Thickness (at View i ) Depth of Attack into Substrate (at View i ) Average Remaining Coating Thickness
+
+C ave = (  C i ) / n
+i =1
+
+n
+
+C min : Minimum Remaining Coating Thickness
+(C1 in Case Fig.4) Coating Layer
+
+Ci C1 Di * D1
+
+D ave : Average Depth of Attack D ave = (  D i ) / n
+i =1 n
+
+Dmax : Maximum Depth of Attack
+(D1 in Case Fig.4)
+(Magnification : x100)
+
+Substrate
+
+Fig.4 Concept of measuring methodology for different aspects of the corrosive failure in coating systems. Figures 5 and 6 show the results obtained from the metallographic measurement for all the coating specimens at 450 and 550, respectively. Here, the information both about three modes of the corrosive failure denoted in Fig. 3, and about the corrosion morphology in the steel substrate are also noted. It was revealed that higher temperature testing of 550 results in the more significant corrosive damage both in the coating layer and namely in the steel substrate as compared to the case at 450. As regards an influence of the coating system, HVOF systems with alloy 625 which were follower by an appropriated heat-treatment in air or in vacuum; such as 62HA and 62HV, showed the minimized corrosive damage into the steel substrate, which is corresponding to the relatively mitigated coating failure. It is also apparent that the beneficial effect of HVOF is more pronounced in the combination with alloy 625 as compared with 50Ni-50Cr alloy. APS and LPPS systems with 625 alloys; such as 62A and 62L series, on the contrary, very rapid coating failure and consumption occurred according to the modes of either B or M to cause subsequently the significant corrosion attack into the steel substrate.
+
+It is also indicative from Fig. 6 that an isothermal corrosion condition tends to bring about for the coating systems rather increased corrosive attack into the steel substrate as compared to the case of a 9
+
+723K 450ºC
+A A A A A A A A
+
+B 55H 55HA 62H 62HA
+No tested
+
+G G
+
+62HV 62A 62AA 62L
+I
+
+A :: Mode A A Mode A B :: Mode B B Mode B M :: Mode M M Mode M
+
+B B B B M M B B
+
+II :: Intergranular Intergranular Attack Attack G: General Attack G : General Attack
+
+72Ms 200 h 18Ms× 4c 50 h x 4c
+Minim um Res idual Minimum Remaining Coating Thick ness Coating Thickness Average Residual Average Remaining Coating Thick ness Coating Thickness
+
+200 h72Ms 18Ms×4c 50 h x 4c
+Average Depth Average Depth of Attack Attack Maximum Depth Maximum Depth of of Attack
+
+62LA 62LV
+0 0 0.1
+
+No tested
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+Residual Coating Thickness, Ci //mm Remaining Coating Thickness, Ci mm
+
+Depth ofof Attack,Di / /mm Depth Attack, Di mm
+
+Fig.5 Result of the microstructural evaluation of corrosive failure both in coating layer and into steel substrate of various coating systems at 450ºC.
+823K 550ºC
+A A A A A A A A A A
+
+B 55H 55HA 62H 62HA 62HV
+B B B B M B M M B M I
+
+G I I G I
+
+I : I: Intergranular Intergranular Attack Attack G :G: General Attack General Attack
+I
+
+G I
+
+200 h 72Ms 18Ms×4c 50 h x 4c
+I
+
+A : Mode A A : Mode A B :: Mode B B Mode B M Mode M M :: Mode M
+
+62A 62AA 62L 62LA 62LV
+0 0
+
+I I
+
+Average Depth Average Depth of Attack of Attack Maximum Depth Maximum Depth of Attack of Attack
+G
+
+200 h 72Ms 18Ms× 4c 50 h x
+Minimum Residual Minimum Remaining Coating Thickness Coating Thickness Average Residual Average Remaining Coating Thickness Coating Thickness
+
+I G I I I I I
+
+0.4
+
+0.3
+
+0.2
+
+0.1
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+RemainingCoating Thickness, Ci / / mm Residual Coating Thickness, Ci mm
+
+Depth of of Attack, Di / mm mm Depth Attack, Di
+
+Fig.6 Result of the microstructural evaluation of corrosive failure both in coating layer and into steel substrate of various coating systems at 550ºC. 10
+
+cyclic corrosion, while for the no-coated 304 steel (B) the reversed result is obtainable. This might be attributed to the fact that a corrosive attack can be active for extending the corrosion front persistently for 200h under the isothermal condition, whilst under the thermal cycle condition the corrosive action must be interrupted at every thermal cycling of 50h by virtue of the solidification and
+
+modification of the molten phase in the ash constituents so as for the renewed ash to penetrate once again from the coating surface toward the corrosion front of the steel substrate. Anyway, it appears certain that the thermal cycling should be least harmful to the coating degradation such as an exfoliation for the thermal spray coating layer. Figure 7 shows the representative micrographs by the backscattered electron (BSE) image at the cross-sectional surface zone of the two kinds of coating systems; 62HV and 62L, after the isothermal corrosion test at 550 for 200h. It is evident that both the integrity and protective effect of coating layer is superior for 62HV rather than for 62L. In 62HV which showed the failure behaviour of mode A, namely, distribution of the large scale defects was minimized, although even in this coating system the chloride-induced corrosion can be already attainable partly to the coating/substrate interface probably along the micro-channels such as the incorporated oxides lamella in the coating layer. In 62L which showed the mode M of failure behaviour, on the contrary, there are a number of the relatively 62 HV 62 L
+
+Alloy 625 Layer
+
+304 Steel Substrate
+
+50µm
+
+Fig.7 Backscattered electron (BSE) images at the cross-sectional surface zone of coating system 62HV and 62L specimens subjected to high-temperature corrosion at 550ºC for 200h. 11
+
+large pores in the coating layer capable of providing the preferential penetration path for the corrosive constituents such as chlorides. This situation observed in 62L is essentially similar to the case of APS [#ref3]. system; such as 62A, which has shown the mode B of failure behaviour
+
+Discussion
+Influence of Coating Materials on the Corrosion Protection From the result of quantitative corrosion failure analysis in Fig. 6, a protective effect of the coating materials by the same HVOF spraying was found to be different between alloy 625 and 50Ni-50Cr alloy; the former is much superior to the latter. In general, 50Ni-50Cr alloy is certainly regarded as one of the most corrosion-resistant alloys in the oxidation-dominant corrosive environments. In the aggressive environment which an oxy-chlorination may dominate as in this study, however, 50Ni-50Cr alloy becomes highly reactive to form easily the very volatile oxy-chlorides such as for example CrO2Cl2 [#ref2,6]. This suggests that increasing merely in the Cr content should be less effective for preventing the corrosive failure in the waste-to-power generation plants, because of the preferential reaction and consumption of the beneficial Cr [#ref2]. On the contrary, alloy 625 has been evaluated as the highly corrosion-resistant alloy in such an aggressive environment mainly by virtue of the good compositional 625 appears to be effective also as the spray coating material, provided for an appropriate control of the composition and microstructure in the coating layer. Effect of Spraying Methodology on the Corrosion Protection It was clarified that the protective effect in the coating system is strongly dependent on the defect structure such as pores and oxide phases incorporated and its population in the coating layer. Namely, HVOF spraying produces the highly densified coating layer with the minimized oxidation reaction mainly by virtue of the very high speed impingement of the half-melting splat onto the substrate surface. Figure 8 shows the comparison of the cross-sectional coating microstructures made by three kinds of the thermal sprayings. It was 12 balance composed mainly of Cr-Ni-Mo [#ref6]. Consequently, alloy
+
+revealed from the image analysis on the coating cross-sections that the average values of an apparent density of the defects such as pores and including the grey phase of oxides are approximately 13%, 37% It is surprising for the LPPS system has relatively higher density of and 16% for HVOF, APS and LPPS systems with alloy 625, respectively. defects as compared with the HVOF system. However, there are also a number of the experimental evidences that the coating layer made by HVOF spraying can be much densified so as for the distribution of through-porosity to be negligible [#ref7]. Anyhow, the HVOF spraying should be able to bring about the coating layer with a high such an aggressive environment [#ref4]. HVOF APS LPPS
+10µm
+
+performance barrier function against the penetration attack even in
+
+100µm
+
+Fig.8 Comparison of the cross-sectional microstructures for different coating systems after spraying.
+
+Effect of Heat-Treatment after the Spraying From the corrosive failure analysis for different kinds of the coating systems, a beneficial effect of adopting the heat-treatment after the spraying was found to be pronounced only for the HVOF systems with alloy 625. For APS and LPPS systems with alloy 625; such as 62A and 62L series, on the contrary, an improvement of the corrosion protection by heat-treatment was hardly expected. These facts suggest that the beneficial effect of heat-treatment is strongly dependent on the inherent nature of coating layer; such as the density and population of different kinds of defects. Then, the inherently high-quality coating layer such as by HVOF spraying can be additively modified by adopting the heat-treatment both through the compositional equalization and microstructural control, which should 13
+
+be much effective to remove the short circuit or easy penetration path for the corrosive constituents such as chlorides.
+
+Conclusions
+(1) The corrosive failure behaviour of the thermal spray coating systems by HVOF, APS and LPPS with 625 and 50Ni-50Cr alloys can be classified into three modes, according to the morphological features of corrosive damage in the coatings. (2) The most improved corrosion performance was obtainable for the HVOF systems with alloy 625, with annealing heat-treatment after the spraying. (3) Coating requirements for the much improved performance against the corrosive failure were discussed from the compositional and microstructural aspects of the coating through the spraying methodologies and materials along with heat-treatment.
+
+Acknowledgments
+Authors wish to acknowledge Mr. K. Tokushima of KUBOTA Corporation for the competent experimental work in this study.
+
+References
+!ref1 `Application of new corrosion-resistant superheater tubings for a Orita, M. Nakamura, S. Ayukawa and T. Hosoda, Corrosion 99, NACE 550ºC, 9.8MPa high-efficiency waste-to-energy plant', Y. Kawahara, N.
+
+Int'l., Paper No. 91, pp1-19, 1999.
+
+!ref2 `Materials innovation toward establishment of the advanced pp365-368, 1999.
+
+waste-to-energy recovery system', M. Yoshiba, Trans. MRS Japan, 24,
+
+!ref3 `Complicated high-temperature corrosive damage and environment of advanced waste-to-power plant', M. Yoshiba, Materia countermeasure of heat-resisting alloy systems in aggressive
+
+Japan, 38, pp203-211, 1999.
+
+14
+
+!ref4 `Corrosion of coating materials in oxidizing and hydrogen
+
+chloride containing atmospheres', S. C. Cha and P. Woelpert, Mater.
+
+and Corros., 53, pp886-892, 2002.
+
+!ref5 `Test methods for fuel oil ash corrosion of heat resisting alloys', 1975. R. Tanaka and O. Miyagawa, JEMT, Trans. ASME, Oct., pp322-329,
+
+!ref6 `The role of chlorine in high temperature corrosion in waste-to1997.
+
+energy plants', G. Sorell, Mater. at High Temperatures, 14, pp137-150,
+
+!ref7 `Evaluation of through-porosity of HVOF sprayed coating', J. 23, 2003.
+
+Kawakita, S. Kuroda and T. Kodama, Surf. Coat. Technol., 166, pp17-
+
+15
+

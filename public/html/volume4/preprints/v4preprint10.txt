@@ -1,0 +1,336 @@
+A Comprehensive Review of the Slope Parameter Based Approach to Cathodic Protection Design and Analysis
+W.H. Hartt and D.K. Lysogorski
+Center for Marine Materials Department of Ocean Engineering Florida Atlantic University ­ Sea Tech Campus 101 North Beach Road Dania Beach, Florida 33004 USA
+
+Abstract
+Advent and development of the Slope Parameter (total circuit resistance ­ cathode surface area product) during the past decade is proving to be an important milestone in cathodic protection design and analysis. This paper reviews the Slope Parameter concept and its underlying principles and provides examples in different categories to which it can be applied. Demonstrated also is utility of the methodology upon which the parameter is based to both galvanic and impressed current cathodic protection systems. Example categories include the following: 1) structures in low resistivity electrolytes with distributed anodes (offshore petroleum production platforms), 2) structures with high resistivity electrolyte exposure (reinforcing steel in atmospherically exposed, chloride contaminated concrete), and 3) submerged or buried one dimensional systems (pipelines and risers). Key words: Cathodic protection, Slope Parameter, design, offshore structures, reinforced concrete, pipelines
+
+General
+While the inception and early development of cathodic protection (cp) was based upon remarkably insightful scientific studies [1-3], its subsequent evolvement and application has been incremental and based largely upon trial and error. Nonetheless, cathodic protection has become the primary corrosion control methodology for buried and submerged components and structures and for reinforcing steel in atmospherically exposed Cl- contaminated concrete (for example, see references 4-6). Of particular recent significance is development of the Slope Parameter approach to cathodic protection design and analysis [7-10]. The basis for this, as was the case in earlier developed approaches [4,5], is Ohm's law,
+Ia =  c - a , Rt
+
+(1
+
+where Ia is anode current output,  c and  a are the closed circuit structure and anode potentials, respectively, and Rt is total circuit resistance. Figure 1 illustrates these parameters and the associated polarization curves for both anode and structure schematically. Upon solving for  c [11] and expressing in terms of structure current density, ic,
+ c = (Rt  Ac )  ic + a ,
+
+(2
+
+where Ac is structure surface area. This projects a linear interdependence between  c and ic with slope Rt ·Ac and vertical intercept  a provided Rt , A c, and  a are constant for the time span to which the  c and ic data pertain. The Rt ·Ac term is commonly referred to as the Slope Parameter, S. Also assumed is that  c is spatially invariant.
+
+corr (Steel)
+Ic - Potential +
+
+-I Kinetics for Oxygen Reduction
+
+c IaRt a  corr (Anode)
+
+Current
+
+Figure 1:
+
+Schematic illustration of a polarization diagram and of parameters relevant to galvanic anode cathodic protection system design.
+
+Applications of Equation 2
+The above conditions for applicability of Equation 2 are normally realized for three dimensional structures with distributed anodes in low resistivity electrolytes such as offshore petroleum production platforms. In this regard, Kennelley and Mateer [12] reported polarization data for a production jacket structure in 162 m Gulf of Mexico water. The cp design was based upon 265 330 kg Al-Zn-In anodes with ones at the -37m and -105 m depths being instrumented for data acquisition; and  c and ic were recorded for the initial 7,000 hours of deployment. Figure 2 presents  c-ic data along with results for a 41 cm2 API-Grade 42 steel specimen (Ac = 41 cm2 ) polarized by a single Al-Zn-Hg anode in quiescent natural sea water under laboratory conditions, where a 450 Ohm resistor was in series between the anode and cathode [13]. Both sets of data transcend with time from upper right to lower left, such that initial structure potential and current density were approximately ­0.66 VSCE and 235 mA/m2 , respectively, and after 7,000 hours ­0.98 VSCE and 50 mA/m2 . Two methods are available for determination S, where the first utilizes the equation,
+S= c(i) - a ic(i)
+
+,
+
+(3
+
+where ic(i) is the initial current density and  c(i) is the corresponding structure potential; and the second is based upon the expression,
+S= Ra  Ac , N
+
+(4
+
+where Ra is resistance of an individual anode and N is the number of anodes. For the Kennelley and Mateer data, Equation 3 yields 1.79 ·m2 and Equation 4 1.79 ·m2 . The graphically measured slope for the laboratory specimen data, on the other hand, gives S = 1.75 ·m2 . The Slope Parameter in this case was also calculated from the expression, S ~ Rx·Ac, (5
+
+from which a value of 1.83 ·m2 was determined. Thus, the two sets of determinations for each of the two
+
+2
+
+-0.60 Ref. 12 Ref. 13 -0.70
+
+Potential, V SCE
+
+-0.80
+
+-0.90
+
+-1.00
+
+-1.10 0 50 100 150 200
+2
+
+250
+
+300
+
+Current Density, mA/m
+
+Figure 2: Potential versus current density for a laboratory specimen and an offshore structure. cathodes are in excellent mutual agreement; and so cathodes of vastly difference surface area can be compared directly. Reinforcing steel in concrete that is cathodically polarized by galvanic arc sprayed Zn exemplifies a system less applicable to satisfying any linearity constraint placed upon Equation 2. This arises because, first, Rt and  a are likely to vary with time, the former by orders of magnitude in conjunction with concrete aging and relative humidity variations and the latter from possible anode passivation, and, second, reduced emphasis is placed on  c since protection criteria are generally based upon the magnitude of polarization or depolarization rather than potential per se [14]. Consequently, the utility of Equation 2 for such situations necessarily focuses upon analysis of data acquired either at a particular time or over a time period during which Rt and  a are relatively constant. The above limitations aside, sufficient data for concrete structures are seldom reported to permit evaluation in terms of Equation 2. An exception is a study reported by Sagüés and Powers [15] of the cp system for the substructure for the Bahia Honda Bridge which crosses virtually open sea water in the Florida Keys [16]. The sprayed Zn system employed here included embedded steel probes (surface area 0.0013 m2 ) for depolarization testing and ic determinations at the 0.76, 1.22, 1.83, and 2.44 m elevations above mean high tide. Table 1 lists data for the 0.76 m elevation at three different times subsequent to energizing and Table 2 for four elevations 6.9 months after energizing. Of interest here is the relatively good correspondence between the measured and Table 1: Listing of galvanic anode cp data at the 0.76 m elevation at different exposure times for the Bahia Honda Bridge. Time, months 1.4 6.9 12.4 Resist.,  460 460 2,700  c, mVCSE -630 -759 -463 a , VCSE -0.722 -0.889 -0.477 ic, mA/m2 156 222 3.55 S (Rt ·Ac), .m2 Calculated Measured 0.59 0.59 3.94 0.60 0.60 3.51
+
+3
+
+Table 2:
+
+Data for different elevations of the Bahia Honda Bridge 6.9 months subsequent to energizing the cp system. Resistance,  460 1,200 1,400 1,200  c, VCSE -759 -503 -432 -296 a , VCSE -889 -551 -459 -336 ic, mA/m2 222 31 15 25 S (Rt .·Ac), .m2 Calculated Measured 0.59 1.54 1.80 1.60 0.60 1.56 1.82 1.56
+
+Elevation, m 0.76 1.22 1.83 2.44
+
+calculated values for S, as shown in the last two columns of both tables. The former (measured value) was determined directly from the reported anode-to-probe resistance and the probe surface area and the latter (calculated value) using Equation 2.
+
+The Unified Design Equation
+Combining Equation 4 with the modified Faraday's law expression for design of galvanic cp systems [4,5],
+N= im  Ac  T u C  w
+
+,
+
+(6
+
+where, im is the mean current density, T is design life, u is an anode utilization factor, C is anode current capacity, and w is weight of an individual anode, yields what has been termed the Unified design Equation [8-10],
+Ra  w = im  T  K  S ,
+
+(7
+
+where K is anode consumption rate (inverse of C). Of the parameters on the right side of Equation 7, im and S are determined by the nature of the exposure and K is a material property. As such, these, along with T can be considered as design choices. Consequently, the value for the right side is defined; and the cp design process reduces to designing or selecting an optimized anode such that the product of Ra and w equals the right side with Ra and w being optimized. The number of anodes is then determined from Equation 4. Equation 7 has particular utility for cp design of marine structures because of the associated current density reduction with time that results from formation of calcareous deposits [13,17-23]. Consequently, a sigmoidal steady-state dependence of  c upon ic results when data for multiple specimens and a range of initial current densities (S values) are plotted. Figure 3 illustrates an example of this behavior. Such a trend defines the principle, if not the mechanism, for "rapid polarization" [24-29] in that the current density which ultimately results from modest cathodic polarization, (steady-state  c of about-0.80 VAg/AgCl ) is achieved only in the longterm, is approximately 2.5 times greater than if the long-term potential were near -1.00 VAg/A gCl . Correspondingly, Figure 4 illustrates incorporation of this phenomenon into the design process in terms of four cp design alternatives (choices for S) in relation to the dynamic and steady-state polarization curves. Thus, design according to S 1 results in under-protection and S 2 in protection but at a relatively high ic. Designs in the range S 3 -S 4 , on the other hand, are optimum in that protection is adequate and ic minimum.
+
+4
+
+-0.60
+
+-0.70 Potential, V SCE
+
+-0.80
+
+-0.90
+
+-1.00
+
+-1.10
+
+0
+
+10
+
+20 30 40 Current Density, mA/m2
+
+50
+
+60
+
+Figure 3: Long-term  c-ic relationship for steel in sea water as determined from laboratory experiments in ambient natural sea water [13].
+
+corr Potential, V SCE
+
+S1
+
+S2 S3
+
+-0.80
+
+-0.90
+
+S4
+
+-1.00 a -1.10 Current Density Figure 4: Schematic illustration of alternative design slopes in perspective to the long-term -ci curve.
+
+Impressed Current CP Systems
+Equations 2-7 relate to galvanic anode cp systems; however, the impressed current case can be addressed using the relationship,
+ c = S  i c +  a (eq ) ,
+
+(8
+
+5
+
+where a (eq) is the potential that would have to be realized by a galvanic anode if it were to provide the same current as an impressed current one (a (ic)) [30]. For this, it has been shown that,
+V =  a (ic ) + (-  c ) + Vm ,
+
+(9
+
+where V is rectifier voltage and Vm sums any other voltage drops in the circuit (lead wires and contacts, for example).
+
+One-Dimensional Systems (Pipelines and Risers)
+The polarized potential distribution for one dimensional structures is more complex that for space frame ones because anodes are normally discrete as opposed to distributed. Figure 5 schematically illustrates the potential that normally occurs for a marine pipeline that is polarized by galvanic bracelet anodes, and Figure 6 does the same for a buried onshore pipeline polarized by an impressed current system. In the former case, weight limitations for individual anodes are imposed by structural considerations and by deployment methods such that spacing between anodes is relatively short. Consequently,  c is constant except within the anode potential field which typically extends about 10-15 m. For the situation in Figure 6, however, anode mass is not a factor; and anode bed spacing, as limited by the metallic return path voltage drop, is normally the controlling design parameter. Consequently,  c becomes progressively more positive with increasing distance from the anode bed.
+
+Anode Potential
+
++ Potential -
+
+Anode IR Drop Polarized Pipeline Potential
+
+Pipeline Free Corrosion Potential
+
+Pipeline
+
+Anode (2)
+
+Figure 5: Schematic illustration of the potential profile that arises from galvanic cp of marine pipelines with bracelet anodes. The present, common approach to marine pipeline initial cp design [4,31] is based upon 1) calculation of the number of bracelet anodes, N, according to,
+N= Ic , Ia
+
+(10
+
+2) application of Equation 1, 3) determination of pipe current demand, Ic as,
+I c = Ac  f c  ic ,
+
+(11
+
+where f c is the coating breakdown factor (ratio of bare to total surface area), and 4) determination of the requisite anode mass from Equation 6. Recently, however, a modified approach has been proposed based upon Equation 2
+
+6
+
++ Potential
+
+Mid-Anode Spacing Anode IR Drop
+
+Pipeline IR Drop
+
+Polarized Pipeline Potential
+
+Anode Bed
+
+Pipeline Free Corrosion Potential
+
+Pipeline
+
+Figure 6: Schematic illustration of the potential profile that typically arises for buried pipelines polarized by an impressed current system anode ground bed. and the assumptions that 1) anode spacing, Las , is sufficiently small that metallic path resistance is negligible, 2) pipe resistance to sea water is negligible, 3) all current enters the pipe at coating holidays, 4) the  c-ic relationship is linear with slope , and 5)  c and  a are constant with both time and position [32]. The resultant expressions,
+c = corr + (a  ) , 1 +
+
+(12
+
+where corr is the pipe corrosion potential and
+=   , 2  r p  Las  Ra
+
+(13
+
+where  is the inverse of the coating breakdown factor and rp is the pipe radius. Also, design life, T, was expressed as,
+T= w  C  u    . (corr - c )  2  r p  L as
+
+(14
+
+Table 3 lists a range of f and im values and shows the corresponding ·. Since the term 2  r p  Las  R a / (Equation 13) is, as the product of resistance and area, equivalent to S, this approach is termed the Slope Parameter method for pipeline cp design. Other Equation 12/13 parameters upon which the approach is based are 1) magnitude of polarization ( corr­ c), 2) driving potential ( c- a ), and pipe current demand (). This approach was demonstrated for a pipeline with the design choices listed in Table 4 and assuming 1) a standard 60.8 kg bracelet anode of length 0.432 m and outer radius 0.187 m, 2)  c = -0.975 VAg/AgCl (this constitutes a design polarized potential), and 3) Ra = 0.353 , as determined from McCoy's formula [ 33] assuming 0.80 ·m electrolyte resistivity, as might typify a sea mud exposure. On this basis, Las was calculated as 115 m (Equation 12) and T as 44 years (Equation 14). An improved match between the design and calculated T could be realized by iteration between Equations 12/13 and 14 using alternative choices for w (or Ra ), , , or Las (or for a combination of two or more of these terms).
+
+7
+
+Table 3: Listing of a range of  values as rela ted to coating quality and pipe bare area current density demand. im , mA/m2 , m2 * , m2 5 70 0 0 8 8 20 10 50 7 5 70 700,000 0.01 0.0001 10,000 20 10 100,000 50 7 70,000 5 70 70,000 0.1 0.001 1,000 20 10 10,000 50 7 7,000 5 70 7,000 1 0.01 100 20 10 1,000 50 7 700 5 70 1,400 5 0.05 20 20 10 200 50 7 140 5 70 70 100 1 1 20 10 10 50 7 7 * Alpha was calculated based upon the indicated ic corresponding to 0.35 V polarization. Pipe Bare Area, percent fc Figure 7 shows the projected  c for both the original and final anode sizes (length and radius in the latter case were 0.209 and 0.160 m, respectively). Here,  c based upon the initial design was ­0.975 VAg/AgCl by choice (Las was calculated using this value) and upon the final ­0.943 VAg/AgCl , the latter being determined by Equation 12 for  c based upon Las = 115 m and the final anode dimensions). Also illustrated are the attenuation profiles from a Finite Difference Method (FDM) solution to an inclusive, first-principles based attenuation equation that, first, was derived for the case of pipelines with identical, equally spaced superimposed anodes and, second, includes all relevant resistance terms (anode, coating (), polarization (), and metallic path) [34,35]. Projections from the Slope Parameter method (Equations 12/13) are seen to be in good agreement with the FDM solutions except in the immediate vicinity of the anode. The metallic path resistance can be considered negligible as indicated by the fact that the FDM solution projects constant c beyond the anode potential field. Recently, a modified form of Equation 13 that includes metallic path pipe return resistance was derived as, Table 4: Listing of pipe and electrolyte properties and design choices used in the example. Pipeline Outer Radius, m Pipeline Inner Radius, m Electrolyte Resistivity, Ohm-m Alpha, Ohm-m2 Gamma Design Life, years Anode Current Capacity, Ah/kg Anode Utilization Factor Open Circuit Anode Potential, VAg/AgCl 0.136 0.128 0.80 7.5 20 30 1,700 0.8 -1.05 
+
+8
+
+-1.10
+
+Potential, V Ag/AgCl
+
+-1.00
+
+-0.90
+
+Equations 12/13 - Initial FDM Results-Initial Equations 12/13 - Final FDM Results - Final
+
+-0.80 0 10 20 30 40 50 60
+
+Distance from Anode, m Figure 7: Potential profile projected by Equation 12/13 and by an FDM solution to an inclusive attenuation equation based upon initial and assumed final anode sizes.
+=  ,  Las  R m  2    rp  L as   Ra +    8  
+
+(15
+
+where Rm is pipe resistance per unit length [36]. This expression retains, however, the assumption that  c is constant. Potential attenuation projections based upon Equation 12/13, with and without inclusion of the metallic path resistance term (Equation 13 and 15, respectively) have also been compared to those from the inclusive equation, as shown in Figure 8 for the pipe and environment parameters listed in Table 5 and anode spacings of 500, 1,000, and 5,000 m. Here, electrolyte resistivities,  e, typical of both sea water (0.30 ·m) and sea mud (1.0 ·m) are represented. In the lower resistivity case (Figure 8a), the inclusive equation indicates that metallic path voltage drop is significant only for the 5,000 m Las case, where approximately one-half of the attenuation is associated with the anode and the other half with the metallic pipe. In the higher resistivity electrolyte example (Figure 8b), about 75 percent of the attenuation occurs in conjunction with the anode. For both  e values, the far field potential projected by the solutions to the inclusive equation and Equation 12/15 are essentially the same, whereas that for Equation 12/13 is non-conservative. A more general inclusive equation has recently been proposed that incorporates instances where identical, equally spaced anodes are offset from the pipeline, as is likely to occur for onshore buried applications and offshore retrofits [37]. Figure 9 compares attenuation curves using this expression and projections from Equation 12/15 for the pipe, electrolyte, and cp parameters listed in Table 6, where the cp system is of the impressed current type as is likely to be the case for the various parameters that are addressed (· and offset distance). Table 6 indicates that three values for  corr were addressed, consistent with the fact that this parameter can vary widely for buried situations. Also, it is assumed that the anode ground bed is equivalent resistance-wise to a single spherical anode of radius 0.749 m. In each case, Equation 12/15 projects a polarized pipe potential that is non-conservative with respect to the mid-anode spacing potential determined using the inclusive equation, although the maximum difference is only 17 mV. Also, in each case the cp provided a pipe polarization in excess of 250 mV. While additional analyses are needed to determine the difference in mid-anode spacing pipe potential for a spectrum of conditions, indications to-date are that Equation 12/15 provides an acceptable approximation.
+
+9
+
+-0.90
+
+Potential, VAg/AgCl
+
+-0.95
+
+Inclusive Eqn. Equation 12/13 Equation 12/15
+
+-1.00
+
+-1.007 -1.008 -1.021
+
+-1.05 0 500 1000 1500 2000 2500
+
+Distance from Anode, m
+
+(a)
+-0.90
+
+Potential, VAg/AgCl
+
+-0.95
+
+-0.957 -0.958 -0.968
+
+-1.00
+
+Inclusive Eqn. Equation 12/13 Equation12/15
+
+-1.05 0 500 1000 1500 2000 2500
+
+Distance from Anode, m
+(b) Figure 8: Comparison of potential attenuation projections using the Slope Parameter and Inclusive Equation: (a)  = 0.30 ·m and (b)  = 1.00 ·m.
+
+10
+
+Table 5: Pipe, environment, and cp parameters for a bracelet anode example. Pipe Outer Radius, m Pipe Inner Radius, m Anode Radius, m Anode Length, m Equivalent Spherical Anode Radius, m Polarization Resistance, , ·m2 Gamma,  Corresponding, , ·m2 Pipe Corrosion Potential, VAg/AgCl Electrolyte Resistivity, ·m Metallic Resistivity, ·m 0.136 0.128 0.374 2.677 0.749 17.5 100 1,750 -0.65 0.3, 1.0 1.70E-07
+
+-0.40
+
+Example 1 (Eqn. 12/15) Example 1 (Inclusive Eqn.)
+-0.70
+
+-0.583 -0.600
+
+Potential, VCSE
+
+Example 2 (Eqn. 12/15)
+
+Example 2 (Inclusive Eqn.)
+
+-0.776 -0.793 -0.921 -0.937
+
+Example 3 (Eqn. 12/15)
+-1.00
+
+Example 3 (Inclusive Eqn.)
+
+-1.30 0 5000 10000 15000 20000 25000
+
+Distance from Anode, m
+
+Figure 9: Comparison of potential attenuation projections using the Slope Parameter and Offset Inclusive Equation.
+
+Summary
+The Slope Parameter, which is defined as the product of total circuit resistance and cathode surface area, provides the basis for an improved approach to design and analysis of cathodic protection systems. The method is particularly useful for structures with distributed anodes in low resistivity electrolytes, and it is here that most emphasis to-date has focused. For high resistivity electrolytes or situations where anode potential and electrolyte resistivity vary with time, the method is necessarily limited to specific time analyses, since a requisite for applicability is that these factors (resisitiviy and anode potential) remain constant. Preliminary evaluations indicate that the Slope Parameter has particular utility for design of cathodic protection systems for pipelines,
+
+11
+
+where the spatially variable potential field results in complexities that do not normally occur with space-frame structures. Table 6: Pipe, environment, and cp parameters for an offset anode bed anode example. Pipe/CP Parameter Outer Pipe Diameter, m Inner Pipe Diameter, m Soil Resistivity, ·m Pipe Resistivity, ? m Pipe Corrosion Potential, VCSE AlphaGamma, ·m2 Equivalent Anode Potential, VCSE Equivalent Anode Spherical Radius, m Rectifier Voltage, V IC Anode Potential, VCSE Anode Offset Distance, m Anode Spacing, m Example 1 Example 2 0.136 0.128 100 1.70E-07 -0.50 17,500 -8.50 0.749 10 1.50 25 50,000 Example 3
+
+-0.30
+
+-0.65
+
+Acknowledgements
+The authors are indebted to member organizations of a joint industry project, including ChevronTexaco, ExxonMobil, Shell Pipeline Company, and the Minerals Management Service for financial sponsorship of this research.
+
+References
+1. 2. 3. 4. 5. Davy, H., Phil. Trans. Royal Soc. London, Vol. 114, 1824, p. 151. Davy, H., ibid, Vol. 114, 1824, p. 242. Davy, H., ibid, Vol. 115, 1825, p. 328. "Cathodic Protection Design," DnV Recommended Practice RP401, Det Norske Veritas Industri Norge AS, 1993. "Corrosion Control of Steel-Fixed Offshore Platforms Associated with Petroleum Production", NACE Standard RP 0176-94, NACE International, Houston, 1994.
+
+6. Broomfield, J.P., Corrosion of Steel in Concrete ­ Understanding, Investigation, and Repair, E&FN Spon, London, 1997, pp. 107-186. 7. 8. 9. Wang, W., Hartt, W. H., and Chen, S., Corrosion, Vol. 52, 1996, p. 419. Hartt, W.H., Chen, S., and Townley, D.W., Corrosion, Vol. 54, 1998, p 317. Townley, D. W., "Unified Design Equation for Offshore Cathodic Protection," paper no. 97473 presented at CORROSION/97, March 9-14, 1997, New Orleans.
+
+12
+
+10. "Design of Galvanic Anode Cathodic Protection Systems for Offshore Structures," NACE International Publication 7L198, NACE International, Houston, TX, 1998. 11. Fischer, K. P., S ydberger, T. and Lye, R., "Field Testing of Deep Water Cathodic Protection on the Norwegian Continental Shelf," paper no. 67 presented at CORROSION/87, March 9-13, 1987, San Francisco. 12. Kennelley, K.J. and Mateer, M.W., "Evaluation of the Performance of Bimetallic Anodes on a Deep Water Production Platform," CORROSION/93, paper no. 523, NACE, Houston, TX, 1993. 13. Wang, W, Hartt, W.H., and Chen, S., Corrosion, Vol. 52, 1996, p. 419. 14. Sagüés, A.A. and Powers, R.G., "Low-Cost Sprayed Zinc Galvanic Anode for Control of Corrosion of Reinforcing Steel in Marine Bridge Substructures," Final Report submitted to the Strategic Highway Research Program on Contract No. SHRP -88-ID024 by Univ. South Florida, February, 1994. 15. W. H. Hartt, Corrosion, Vol. 58, 2002, p. 513. 16. Standard Recommended Practice RP0290-90, "Cathodic Protection of Reinforcing Steel in Atmospherically Exposed Concrete Structures," NACE International, Houston, TX, 1990. 17. Wolfson, S.L. and Hartt, W.H., Corrosion, Vol. 37, 1981, p. 70. 18. Hartt, W.H., Culberson, C.H. and Smith, S.W., Corrosion, Vol. 40, 1994, p. 609. 19. Lin, S-H and Dexter, S.C., Corrosion, Vol. 44, 1988, p. 615. 20. Finnegan, J.E. and Fischer, K.P., "Calcareous Deposits: Calcium and Magnesium Ion Concentrations," paper no. 581 presented at CORROSION/89, April 17-21, 1989, New Orleans. 21. Fischer, K.P. and Finnegan, J.E., "Cathodic Protection Behavior of Steel in Sea Water and the Protective Properties of the Calcareous Deposits," paper no. 582 presented at CORROSION/89, April 17-21, 1989, New Orleans. 22. Luo, J.S., Lee, R.U., Chen, T.Y., Hartt, W.H. and Smith, S.W., Corrosion, Vol. 47, 1991, p. 189. 23. Mantel, K.E., Hartt, W. H. and Chen, T. Y., Corrosion, Vol. 48, 1992, p. 489. 24. Cox, G.C., "Anticorrosive and Antifouling Coating and Method of Application", U.S. Patent
+
+2,200,469, 1940.
+25. Foster, T., and Moores, V.G., "Cathodic Protection Current Demand of Various Alloys in Sea Water," paper no. 295 presented at CORROSION/86, March 17-2, 1986, Houston. 26. Mollan, R. and Anderson, T.R., "Design of Cathodic Protection Systems," paper no. 286 presented at CORROSION/86, March 17-2, 1986, Houston. 27. Fischer, K.P., Sydberger, T. and Lye, R., "Field Testing of Deep Water Cathodic Protection on the Norwegian Continental Shelf," paper no. 67 presented at CORROSION/87, March 9-13, 1987, San Francisco. 28. Fischer, K.P. and Finnegan, J.E., "Cathodic Protection Behavior of Steel in Sea Water and the Protective Properties of the Calcareous Deposits," paper no. 582 presented at CORROSION/89, April 17-21, 1989, New Orleans.
+
+13
+
+29. Schrieber, C.F. and Reding, J., "Application Methods for Rapid Polarization of Offshore Structures," paper no. 381 presented at CORROSION/90, April 23-27, 1990, Las Vegas. 30. Hartt, W.H., "The Slope Parameter Approach to Marine Cathodic Protection Design and Its Application to Impressed Current Systems," Designing Cathodic Protection Systems for Marine Structures and Vehicles, Ed. H. P. Hack, ASTM STP 1370, American Society for Testing and Materials, 1999, p. 1. 31. "Pipeline Cathodic Protection ­ Part 2: Cathodic Protection of Offshore Pipelines," Working Document ISO/TC 67/SC 2 NP 14489, International Standards Organization, May 1, 1999. 32. Bethune, K and Hartt, W.H., Corrosion, Vol. 57. 2001, p. 78. 33. McCoy, J. E., The Institute of Marine Engineers Transactions, Vol. 82, 1970, p. 210. 34. Pierson, P., Bethune, K., Hartt, W.H., and Anathakrishnan, P, Corrosion, Vol. 56, 2000, p. 350. 35. Lysogorski, D.K., Hartt, W.H., and Anathakrishnan, P, " Modified Potential Attenuation Equation for A Cathodically Polarized Marine Pipelines and Risers," paper no. 03377 to be presented at CORROSION/03, March 16-21, 2003, San Diego. 36. Lysogorski, D.K. and Hartt, W.H., "A Potential Attenuation Equation for Design and Analysis of Pipelines Cathodic Protection Systems with Displaced Anodes," paper no. 03196 to be presented at CORROSION/03, March 16-21, 2003, San Diego. 37. Hartt, W.H. and Lysogorski, D.K., "The Slope Parameter Approach in Design and Analysis of Cathodic Protection Systems," paper no. 03197 to be presented at CORROSION/03, March 16-21, 2003, San Diego.
+
+14
+

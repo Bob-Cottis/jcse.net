@@ -1,0 +1,646 @@
+Volume 6 Paper 083
+
+Repassivation Kinetics of Inconel Alloy 600 in 573K
+S.-I. Pyun and J.-J. Park
+
+0.1M Na2SO4 Solution at Temperatures 298 to
+
+Dept. Mat. Sci. & Eng., KAIST, 373-1, Guseong-dong, Yuseong-gu, Daejeon, 305-701, Republic of Korea, sipyun@webmail.kaist.ac.kr
+
+Abstract
+The kinetics of repassivation on the bare surface of Inconel alloy 600 in aqueous 0.1 M Na2SO4 solution have been investigated at elevated solution temperatures 298 to 573K using abrading electrode technique, ac impedance spectroscopy and auger electron spectroscopy (AES). From the analysis of current transients, it is realised that the oxide film grown on the specimen has only one-layer structures, i.e., an inner layer and an outer layer, above 100oC. In 60oC, but they exhibited two capacitive loops above 100oC. This substantiates that the structure of the oxide film changed from onelayer structure below 60oC to two-layer structure above 100oC. With the help of surface analysis of AES spectra, it is realised that the inner and outer oxide layers were composed of Cr oxide and mixed Ni and Fe oxide, respectively, at elevated solution temperatures. Based upon the experimental findings, two different growth mechanisms of oxide layer with respect to solution temperature were proposed: the growth of oxide layer below 60oC and that of the inner layer above 100oC on the basis of modified point defect model; the growth of the outer oxide layer above 100oC by diffusion-dissolution coupled model. structure below 60oC, but it is composed of two layers with different
+
+addition, ac impedance spectra exhibited one capacitive loop below
+
+Keywords: Repassivation kinetics, Alloy 600, Inner layer, Outer layer, Solution temperature
+
+Introduction
+Inconel alloy 600 is a Ni-based alloy widely used as a steam generator tubing material in nuclear power plants. In this application, tube (SCC) have been reported [1-3]. Analysis of the initial stage of anodic dissolution and subsequent passivation on a bare surface of metals and alloys offers important information about not only localised corrosion but also the basic electrochemical behaviour. Especially, theoretical and experimental papers [4,5] indicate that repassivation process is an essential factor in the SCC of metals and alloys. Repassivation describes the process by which a damaged surface film is reformed. Repassivation kinetics of various metals and alloys has been explored by employing potentiostatic current transient technique, since this method can be effectively utilised to specify the growth kinetics of the oxide film [6-8]. From the linear relation between log current i and log time t, Barbosa [8] defined the repassivation rate parameter as the slope of the straight line, and he regarded the repassivation rate parameter as a measure for the growth rate of the oxide film. The abrading electrode technique allows investigation of not only the early stage of oxide film formation but also the later stage of oxide film growth on the bare surface of the specimen exposed to the solution. This technique has been applied successfully to repassivation kinetics on various metals at room temperature [9-11]. It is most probable that the growth kinetics of the oxide film is strongly dependent on solution temperature, and hence the oxide films grown at different solution temperatures have different layer properties among themselves. However, there have been few studies on the growth kinetics of the oxide film of the metals and alloys at elevated solution temperatures and pressures. failures caused by the pitting corrosion and stress corrosion cracking
+
+2
+
+In this respect, the aim of this work is investigation of the growth
+
+kinetics of passivating oxide film on the bare surface of alloy 600 in aqueous 0.1 M Na2SO4 solution at solution temperatures 25o to 300oC. For this purpose, potentiostatic current transients were first measured to describe the growth mechanism of the oxide film in the repassivation process by using the abrading electrode experiments. Finally, ac impedance spectra were obtained to characterise the oxide film with respect to solution temperature. variation of structure and electrical/dielectric properties of grown
+
+Experimental
+The specimen was made from Inconel alloy 600 with the following chemical composition (wt.%) of 15.4% Cr, 8.0% Fe, 0.3% Mn, 0.1% Si, 0.01% C, and balance Ni. The specimen was mounted in a polyimid resin and mechanically polished with silicon carbide paper up to 2000 grit successively. For the electrolyte, aqueous 0.1 M Na2SO4 solutions of 25o, 60o, 100o, 150o, 200o, 250o, and 300oC were used. All electrochemical experiments at elevated solution temperatures and pressures were carried out using a home-made autoclave. A platinum wire was used as counter electrode and potentials were measured and controlled with an external Ag/AgCl reference electrode. Potentiodynamic polarisation experiments were performed on the rod range of ­0.5 to 1.5 V (Ag/AgCl) with a scan rate of 0.5 mVs-1 by using a Potentiostat/Galvanostat (EG&G Model 263A) interfaced with a personal computer. In order to investigate the repassivation kinetics of passivating oxide film on the bare surface of alloy 600, the abrading experiments were conducted [9,11]. In the present work, growth kinetics of passivating oxide film of alloy 600 has been studied at temperatures 25o to 300oC using a home-made autoclave specially designed to carry out the abrading electrode experiments at elevated temperatures and pressures [12]. The experimental set-up for the abrading experiments at elevated solution temperatures has been detailed in our previous work [12]. specimen with an exposed area of 0.025 cm2 in the applied potential
+
+3
+
+Ac impedance measurements were carried out with a Solartron 1255 Frequency Response Analyzer connected with the Solartron 1287 Electrochemical Interface. The impedance spectra were recorded from
+
+solution temperatures. Thereafter, they were analysed using a complex non-linear least squares (CNLS) fitting method [13]. Auger electron spectroscopy (AES) was conducted on the grown oxide film, subjected previously to anodic potential of 0.2 V (Ag/AgCl) for 5×103 s in the test solution at 25o and 200oC to identify the composition of the oxide film with respect to solution temperature using a Perkin Elmer model PHI 4300 AES spectrometer equipped with a sputter ion gun. The primary electron beam has an accelerating voltage of 5 keV and an adsorbed current of 0.3µA. The electron beam diameter at the target was about 2µm. The modulation amplitude of the phase sensitive detector was set at 4 eV peak to peak. Under these conditions, auger electron spectrum was recorded with a scan rate of 6 eVs-1.
+
+105 Hz down to 10-1 Hz using 5 mV amplitude perturbations at various
+
+Results and Discussion
+Fig. 1 presents potentiodynamic polarisation curves for alloy 600 with a scan rate of 0.5 mVs-1 in aqueous 0.1M Na2SO4 solution at various solution temperatures 25o to 300oC. The value of passive current density increased at any given anodic potential in the passive region with increasing solution temperature. This is due to the formation and growth of less-protective oxide films on the metal surface with rising solution temperature.
+
+4
+
+1.5
+
+Applied Potential / V (Ag/AgCl)
+
+1.0
+
+25 C o 60 C o 100 C o 150 C o 200 C o 250 C o 300 C
+
+o
+
+0.5
+
+0
+
+-0.5 10
+-9
+
+10
+
+-8
+
+10
+
+-7
+
+10
+
+-6
+
+10
+
+-5
+
+10
+
+-4
+
+10
+
+-3
+
+10
+
+-2
+
+10
+
+-1
+
+1
+-2
+
+10
+
+1
+
+10
+
+2
+
+Current Density / A cm
+
+5
+
+Fig. 2(a) depicts potentiostatic anodic current transient in logarithmic at the applied anodic potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M
+
+scale obtained just after interrupting the abrading action on alloy 600 Na2SO4 solution at 25oC. The current transient exhibits a non-linear time t, followed by a current plateau, namely, steady-state current transient.
+10
+2
+
+relation with a downward convex shape between log current i and log
+
+10
+
+1
+
+25 C
+20
+
+o
+
+25
+
+experimental data fitted curve
+
+-2
+
+Current Density / mA cm
+
+Current Density / mA cm
+1 2 3 4
+
+10
+
+0
+
+-2
+
+10
+
+-1
+
+15
+
+10
+
+-2
+
+10
+
+10
+
+-3
+
+5
+
+10
+
+-4
+
+0
+10
+-5
+
+10
+
+10
+
+10
+
+10
+
+0
+
+5
+
+10
+
+15
+
+20
+
+Time / s
+
+Time / s
+
+Fig. 2. Potentiostatic anodic current transients (a) in logarithmic scale and (b) in linear scale obtained just after interrupting the abrading action on alloy 600 at the applied anodic potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M Na2SO4 solution at 25oC. The open circles are the on the basis of Eq. (1). experimental data and the solid line in Fig. 3(b) is the best fitted curve
+
+Until now, the repassivation rate parameter was determined from the linear relation between log i and log t, and it was used as a measure [10] and Al alloy [11]. However, in the present work on alloy 600, for the repassivation kinetics of stainless steel [8], pure aluminium (Al) linear relation between log i and log t was not observed. Therefore, it is not appropriate to employ the linear relation for analysis of the growth kinetics of the oxide film of alloy 600. Pyun and Hong [14] developed a modified point defect model (PDM), which accounts for the growth kinetics of passivating oxide film on
+
+6
+
+metal surfaces on the basis of Fickian diffusion of metal vacancy in the presence of concentration gradient and migration of metal vacancy in the presence of potential gradient through the oxide film, and they derived equation for the current transient as: CV z ' (m / f ) exp[ zKL(t )] - CV z ' ( f / e) Fz 2 * M i= DV z ' K M M exp[ zKL(t )] -1 NV
+
+i.e.,
+
+i=
+
+A {exp[ zKL(t )] - B exp[- zKL(t )]} exp[ zKL(t )] - 1
+*
+
+(1)
+
+where DVM' is electrochemical diffusivity of metal vacancy, CVM' is the z z concentration of metal vacancy, A and B are constants at a given applied potential, z is charge umber of metal ion, K is constant (K=F E /RT) being related to field strength ( E ) and L(t) is thicknass as a function of time t. It is realised from Eq. (1) that the equation
+
+r
+
+r
+
+i = C t - n suggested by Barbosa [8] corresponds to a specical case
+
+satisfying the condition that the constant A has a very small value, and the value of exp[ zKL (t )] is much larger than 1. It should be noted that the electrochemical diffusivity, which is suggested by Pyun and Hong [14] is conceptually identical to wellknown chemical diffusivity, since the chemical diffusivity is also defined for the case of ion diffusion in the presence of both the concentration concentration of metal vacancy within the oxide film is very low, this is Therefore, in this case, the value of the thermodynamic enhancement diffusivity has just the same value of component diffusivity. and potential gradients. Moreover, because the
+
+the case of ideal solution, i.e., activity is proportional to concentration.
+
+factor was determined to be an unity, and hence the value of chemical
+
+The current transients measured experimentally were fitted with Eq. (1) by using the polynomial least-squares fitting method. Fig. 2(b) shows current decay transient measured from alloy 600 at the applied temperature. The open circles and solid line in this figure represent experimental data and fitted curve, respectively. It was found that the potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M Na2SO4 solution at room
+
+7
+
+fitted curve is in good agreement with the experimental data. This explained by the modified PDM.
+
+means that the growth kinetics of the oxide film of alloy 600 can be
+
+Up to the present, in the previous works on pure iron (Fe) [15] and
+
+pure Al [16], the steady-state is regarded as a state that the rate of oxide formation is just equal to the rate of oxide dissolution. However, in the case of the modified PDM, the total current level is determined
+
+from Eq. (1). Moreover, only the thickness of the oxide layer is a function of time. Therefore, if the thickness of the oxide layer remains constant regardless of time, the current level also remained constant. In other words, in the case of the modified PDM, the beginning of the steady-state should be defined as the time that film growth is completely finished. Modified PDM simultaneously considers metal dissolution as well as oxide film growth at the oxide film/electrolyte interface as follows:
++ ( z + 2) / z m + H 2 O = (2 / z ) M M + OO + ( z + 2)e + 2 H (+aq ) + M (zaq ) (2)
+
+where m is the metal atom in the metal, MM is metal cation in the film, + OO is oxygen anion in the film and M (zaq ) is metal cation in the electrolyte. Therefore, the steady-state current is only attributable to the current determined by the flux of metal dissolution. Fig. 3 depicts potentiostatic anodic current transients in logarithmic scale obtained just after interrupting the abrading action on alloy 600 at the applied anodic potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M Na2SO4 solution at various solution temperatures 100o to 300oC. The
+
+feature of current transients is dissimilar to that of current transients to be composed of two stages. In the first stage, it was found that current density decreased rapidly with time and followed by the first current plateau. Thereafter, in the second stage, current density was observed to decrease slowly and then reached the second current plateau. The first current plateau means the current plateau necessary for the transition of the first stage to the second stage. obtained at room temperature. The current transients were observed
+
+8
+
+This two-stage behaviour of the current transients indicates that two different kinds of layers are grown, and at the same time the growth kinetics of the two layers are kinetically distinguishable. It is interesting to note that the grown oxide film has only one-layer structures above 100oC.
+100 C o 150 C o 200 C o 300 C
+transition current plateau
+o
+
+structure below 60oC, but it is composed of two layers with different
+
+10
+-2
+
+1
+
+Current Density / mA cm
+
+10
+
+0
+
+10
+
+-1
+
+10
+
+-2
+
+10
+
+-1
+
+1
+
+10
+
+1
+
+10
+
+2
+
+Time / s
+
+This can be explained as follows: In the case of lower solution temperature (below 60oC), the steady-state current level has a very small value, and hence the amount of metal ions dissolved according to Eq. (2) is also very small. Then, the concentration of metal ions at the electrolyte adjacent to the film is much lower than the solubility limit. Therefore, the dissolved metal ions can not be precipitated on the film surface, which means that the oxide film has only one-layer structure. In contrast, in the case of higher solution temperature (above 100oC), since the value of steady-state current level is high, it is possible for the concentration of the dissolved metal ions to exceed the solubility limit. Thus, the metal ions are precipitated on the film surface which has been previously grown. This leads to the growth of two-layered oxide film. In this work, the previously grown layer is called the inner layer, and successively precipitated layer is called the outer layer. Moreover, it was found in Fig. 3 that the length of the transition current plateau became longer with increasing solution temperature. It is generally known [17] that as solution temperature rises, the value of the solubility limit increases. Therefore, time for the concentration of
+
+9
+
+the dissolved metal ions to reach the solubility limit is lengthened with solution temperature, resulting in the increase in the length of the transition current plateau. It is now necessary to discuss the growth mechanism of the inner layer current density in the first stage of the current transients, it can be chromium (Cr) oxide can be related to a passivation reaction based film at room temperature.
+
+and the outer layer. Considering the shape and decreasing tendency of inferred that the growth of the inner layer which is identified as upon the modified PDM similar to the case of the growth of the oxide
+
+In the case of the growth of the outer layer, the values of diffusivity of metal ions in the inner layer should be considered. Since the values of diffusivity of nickel (Ni) and Fe ions are much higher than that of Cr ion [18], Ni and Fe ions can easily pass through the inner layer, leading to the increase in the amount of those ions at the inner oxide film/electrolyte interface. Therefore, the following salt film precipitation reaction could occur at the inner layer/solution interface:
+
+x Ni 2 + + (3 - x) Fe 2 + + 4 H 2 O  Ni x Fe 3- x O 4 + 8 H + + 2e
+
+(3)
+
+It should be noted that the metal ions (Ni2+ and Fe2+) come from the metal by diffusion through the inner layer, followed by dissolution into the electrolyte, and finally according to Eq. (3) they are precipitated on the inner layer surface. Therefore, in this work, we now propose a new model for the growth of the outer layer, and call it "diffusiondissolution coupled model".
+2
+
+50
+
+-Imaginary Impedance, - Z '' / k cm
+
+25 C o 60 C
+
+o
+
+40
+
+30
+
+20
+
+10
+
+0
+
+0
+
+10
+
+20
+
+30
+
+40
+2
+
+50
+
+Real Impedance, Z ' / k cm
+
+10
+
+Fig. 4 presents impedance spectra in Nyquist presentation obtained
+
+from alloy 600 at the applied potential of 0.2 V (Ag/AgCl) in aqueous the size of capacitive loop measured at 60oC decreased compared with that measured at 25oC. This implies that the oxide film grown at with that grown at room temperature due to the growth of lessonly one capacitive loop appeared in this temperature range, indicating the growth of one-layer structure of the oxide film. Fig. 5 (a) demonstrates impedance spectra in Nyquist presentation obtained from alloy 600 at the applied potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M Na2SO4 solution at temperatures 100o, 200o and 300oC. This figure exhibits that impedance spectra consist of the first capacitive loop at high frequencies and the second capacitive loop at low frequencies. Recognising the formation of two-layered oxide film on Ni- and Cr-based alloys at elevated solution temperature [19,20], the appearance of the first capacitive loop may be related to the growth of the outer layer and at the same time that of the second capacitive loop may be related to the growth of the inner layer [21]. It should be emphasised that the size of the first capacitive loop corresponding to the resistance of the outer layer increased with increasing solution temperature. In contrast, as solution temperature increased, it was found that the size of the second capacitive loop corresponding to the resistance of the inner layer decreased. From this, one would expect that the increasing solution temperature facilitates inner layer. In order to determine the values of the resistance and the capacitance of the oxide film grown on alloy 600 specimens as a function of solution temperature, the measured impedance spectra were analysed by using CNLS fitting method [13] on the basis of the equivalent circuit, which is given in Fig. 5(b). The equivalent circuit consists of the constant phase element of the outer oxide layer CPEout,ox and the
+11
+
+0.1 M Na2S2O3 + 0.1 M NaCl solution at 25o and 60oC. In this figure,
+
+higher solution temperature has lower degree of passivity compared protective oxide film on the specimen. Moreover, it can be seen that
+
+the growth of the outer layer and at the same time impedes that of the
+
+series of the resistance of the outer oxide layer Rout,ox in parallel to the
+
+phase element of the inner oxide layer CPEinn,ox.
+30
+
+resistance of the inner oxide layer Rinn,ox in parallel to the constant
+
+25
+
+-Imaginary Impedance, -Z'' / cm
+
+100 C o 200 C o 300 C
+
+o
+
+4
+
+100 C o 200 C o 300 C
+
+o
+
+2
+
+20
+
+2
+
+0
+
+15
+0 2 4
+
+10
+
+5
+
+0 0 5 10 15 20
+2
+
+25
+
+30
+
+Real Impedance, Z' / cm
+
+Fig. 5. (a) Impedance spectra in Nyquist presentation obtained from alloy 600 at the applied anodic potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M Na2SO4 solution at 100o, 200o and 300oC. (b) Equivalent circuit used for the analysis of impedance spectra.
+
+Now let us discuss the variation of the specific resistivity  and the relative permittivity equations R = 
+
+r
+
+of the two oxide layers with respect to solution
+
+temperature. The values of  and
+
+r
+
+can be calculated from the
+
+A d and C =  r  0 , respectively. Here A and d are the d A
+
+represents the permittivity constant (  0 =8.85×10-12 Fm-1). It follows, therefore, that in order to calculate the values of  and first determine the value of d. In the case of the inner oxide layer, the value of d at 25oC can be calculated from the equation C =  r  0 values of Cinn,ox = 9×10-9 F,
+6
+
+area and the thickness of the oxide layer, respectively, and
+
+0
+
+ r , one should
+
+ r =13.3 for Cr oxide [17] and A=2.54×10-
+
+A to be 3×10-8 m by taking the d
+
+m2. The value of Cinn,ox was determined from the fitted CPEinn,ox. Moreover, since it is well-known [22] that the value of d is dependent only on the applied potential, it was assumed that the value of d
+
+12
+
+However, since the outer oxide layer has a highly porous structure which involves a large number of cracks and voids [23], it is not appropriate to determine the value of d of the outer oxide layer. values of  and
+
+remains constant (d = 3×10-8 m) regardless of solution temperature.
+
+Therefore, in the present work, we discussed the variation of the
+
+ r only for the inner oxide layer.
+
+Fig. 6 depicts on a semi-logarithmic scale the changes in (a) the
+
+with solution temperature obtained from alloy 600 at the applied The values of  and
+
+resistance Rinn,ox, and (b) the capacitance Cinn,ox of the inner oxide layer
+
+anodic potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M Na2SO4 solution.
+
+r
+
+of the inner oxide layer were calculated as a
+
+function of solution temperature by taking the values of Rinn,ox and
+
+Cinn,ox given in Fig. 6, and they are plotted along with Rinn,ox and Cinn,ox in Fig. 6. It should be noted that since the value of A was employed as the apparent value (2.54×10-6 m2) in calculating the values of  and
+
+ r , the resulting specific resistivity and relative permittivity can be
+-2
+
+regarded as the apparent values.
+Inner Oxide Resistance, Rinn,ox / cm
+Apparent Relative Permittivity, r / inner oxide layer
+10
+3
+
+10
+
+Inner Oxide Capacitance, Cinn,ox / F cm
+
+9
+
+Apparent Specific Resistivity,  /  cm
+
+inner oxide layer
+
+10
+
+2
+
+3
+
+10 10
+2
+
+8
+
+10
+
+-5
+
+10
+
+2
+
+10 10
+1
+
+7
+
+10
+
+-6
+
+10 1 10 10
+-1
+
+6
+
+10
+
+1
+
+5
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250 o
+
+300
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250 o
+
+300
+
+Solution Temperature / C
+
+Solution Temperature / C
+
+Fig. 6. Changes in (a) the resistance Rinn,ox and the apparent specific resistivity , and (b) the capacitance Cinn,ox and the apparent relative permittivity
+
+r
+
+of the inner oxide layer with solution temperature on a
+
+potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M Na2SO4 solution.
+
+semi-logarithmic scale obtained from alloy 600 at the applied anodic
+
+13
+
+The value of  of the inner oxide layer decreased with increasing solution temperature. By contrast, as temperature increased, the value of
+
+ r of the inner oxide layer was found to increase. It is generally
+
+known [18,24,25] that the amount of defect sites in the oxide film increases with increasing temperature. Therefore, the electrolyte can pass the oxide film through the defect sites, rendering the increase in the electrochemical active area with rising solution temperature. As a result, the value of  of the inner oxide layer decreased with rising temperature, but that value of
+
+ r of the inner oxide layer increased.
+
+Fig. 7 displays the typical AES spectra with respect to the sputtering etching time for the oxide film grown on alloy 600 subjected to the solution at 25oC. The Cr and oxygen (O) peaks were observed on the interior of the oxide film grown on alloy 600 specimen at room temperature, indicating the formation and growth of Cr oxide film. In addition, AES spectra revealed the O peak disappeared by sputtering etching for the oxide film and finally Ni, Fe and Cr peaks were found. This implies that the oxide film grown on alloy 600 at room temperature is mostly composed of Cr oxide. applied anodic potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M Na2SO4
+
+14
+
+Fig. 8 illustrates the typical AES spectra as a function of the sputtering etching time for the oxide film grown on alloy 600 subjected to the applied anodic potential of 0.2 V (Ag/AgCl) in aqueous 0.1 M Na2SO4 oxide film were observed, i.e., O peak and Ni and Fe peaks. After slight
+
+solution at 200oC. In Fig. 8(a), it is noted that two kinds peaks of the sputtering etching is applied to the oxide film, Ni and Fe peaks
+
+disappeared, whereas only Cr and O peaks were observed. This means that the oxide film grown at 200oC consists of the inner layer of Cr the oxide film grown at elevated solution is organised as a twoimpedance spectra. oxide and the outer layer of mixed Ni and Fe oxide. This confirms that layered structure as verified by analyses of current transients and ac
+
+15
+
+Conclusions
+1. Potentiostatic current transients showed one-stage current transient below 60oC, but they exhibited two-stage current transient above 100oC. This indicates that the oxide film has only one-layer structure an outer layer, above 100oC. below 60oC, but it is composed of two layers, i.e., an inner layer and
+
+2. The current transients measured below 60oC shared in shape with that growth mechanism of the oxide film grown below 60oC is
+
+the first stage current transients measured above 100oC. This implies
+
+identical to that mechanism of the inner layer grown above 100oC. In the inner layer above 100oC were suggested on the basis of the modified point defect model. On the other hand, since the shape of the second stage current transient measured above 100oC was different with that of the first stage current transient, diffusiondissolution coupled model was proposed to describe the growth mechanism of the outer layer. 3. Ac impedance spectra involved one capacitive loop below 60oC, but they exhibited two capacitive loops above 100oC. This strongly substantiates that the oxide film grew with one-layer structure below value of resistance of the inner layer decreased with rising 60oC, but it grew with two- layer structure above 100oC. Moreover, the temperature, but that value of capacitance of the inner layer increased. This is ascribed to the increase in the electrochemical active area caused due to the increase in the amount of defect sites in the inner layer with increasing solution temperature. 4. AES investigation revealed that the oxide film grown at lower solution temperature is mostly composed of Cr oxide. In addition, it clearly showed that the oxide film grown at elevated solution temperature consists of the inner Cr oxide layer and the outer mixed Ni and Fe oxide layer. this work, the growth mechanisms of the oxide film below 60oC and
+
+16
+
+References
+1. `Effect of heat treatment applied potential in the caustic stress
+Macdonald, Corrosion, 41, pp540-553, 1985. corrosion cracking of Inconel 600', K.H. Lee, G. Cragnolino, D.D.
+
+2. `Pitting corrosion of Inconel 600 in high-temperature water containing CuCl2', J.R. Park, Z. Szklarska-Smialowska, Corrosion, 41,
+pp665-674, 1985.
+
+3. `The anodic dissolution behavior of NiSCr9Fe in sulfur-containing solutions', V.B. Rajan, G.S. Was, Corrosion, 43, pp305-308, 1987. 4. `Electrochemical aspects of stress corrosion of steels in alkaline solutions', G. Bignold, Corrosion, 28, pp307-312, 1972. 5. `Role of stress in the stress corrosion cracking of a Mg-Al alloy', W.R. Wearmouth, G.P. Dean, R.N. Parkins, Corrosion, 29, pp251258, 1973.
+
+6. `Growth of oxidised monolayers on scratched silver electrodes in chloride solution', G.T. Burstein, R.D.K. Misra, Electrochim. Acta, 28, 7. `Electrochemical and ellipsometric investigations of passive films
+formed on iron in borate solutions', Z. Szklarsak-Smialowska, W. Kozlowski, J. Electrochem. Soc., 131, pp234-241, 1984. pp371-377, 1983.
+
+8. `A model for the kinetics of repassivation II: Scratching electrodes', M. Barbosa, Corrosion, 44, pp149-153, 1988. 9. `The repassivation kinetics of pure nickel in a Na2SO4 solution using abrading electrode technique', S.-I. Pyun, M.-H. Hong, Electrochim. Acta, 37, pp2437-2442, 1992. 10. `Effects of electrolyte composition and applied potential on the Electrochim. Acta, 40, pp1863-1869, 1995.
+repassivation kinetics of pure aluminium', J.-D. Kim, S.-I. Pyun,
+
+11. `Effect of halide ion and applied potential on repassivation Electrochim. Acta, 40, pp1963-1970, 1995.
+
+behaviour of Al-1wt.%Si-0.5wt.%Cu alloy', S.-I. Pyun, E.-J. Lee,
+
+17
+
+12. `Growth kinetics of passivating oxide film of Inconel alloy 600 in
+technique and ac impedance spectroscopy, J.-J. Park, S.-I. Pyun, S.-B. Lee, submitted to Electrochim. Acta, 2003.
+
+0.1M Na2SO4 solution at 25o to 300oC using the abrading electrode
+
+13. `An ac impedance study of LiI-Al2O3 composite solid electrolyte', J.-S. Bae, S.-I. Pyun, J. Mat. Sci. Letters, 13, pp573-576, 1994. 14. `A model describing the growth kinetics of passivating oxide film Electrochim. Acta, 37, pp327-332, 1992.
+prepared under potentiostatic conditions', S.-I. Pyun, M.-H. Hong,
+
+15. `The effects of applied potential and chloride ion on the Corrosion Science, 38, pp1093-1102, 1996.
+
+repassivation kinetics of pure iron', J.-D. Kim, S.-I. Pyun,
+
+16. `The formation and dissolution of anodic oxide films on pure
+aluminium in alkaline solution', S.-M. Moon, S.-I. Pyun,
+
+Electrochim. Acta, 44, pp2445-2454, 1999.
+
+17. `Handbook of Chemistry and Physics', D.R. Lide, CRC press, Boca
+Raton, Florida, 1994, p.(8)58, p.(12)47.
+
+18. `The mechanism of high temperature aqueous corrosion of steel', J. Robertson, Corrosion Science, 29, pp1275-1291, 1989. 19. `The effect of temperature on the passive film properties and Corrosion Science, 38, pp909-925, 1996.
+pitting behaviour of a Fe-Cr-Ni alloy', R.M. Carranza, M.G. Alvarez,
+
+20. `The mechanism of oxide film formation on austenitic stainless steels in high temperature water', B. Stellwag, Corrosion Science,
+40, pp337-370, 1998.
+
+21. `The impedance of metals in the passive and transpassive regions', R.D. Armstrong, K. Edmondson, Electrochim. Acta, 18, pp937-943,
+1973.
+
+22. `Ac-impedance measurements on aluminium barrier type oxide films', J. Bessone, C. Mayer, K. Jüttner, W.J. Lorenz, Electrochim. Acta, 28, pp171-175, 1983.
+18
+
+23. `Relationships between corrosion behavior of AISI 304 stainless
+
+steel in high temperature pure water and its oxide film structures', Y. Asakura, H. Karasawa, M. Sakagami, S. Uchida, Corrosion, 45, pp119-124, 1989.
+
+24. `Effects of Cl- concentration and temperature on pitting of AISI 304
+stainless steel', J.H. Wang, C.C. Su, Z. Szklarska-Smialowska,
+
+Corrosion, 44, pp732-737, 1988.
+
+25. `Pitting resistance of alloy 800 as a function temperature and prefilming in high-temperature water', B. Stellwag, Corrosion, 53,
+pp120-128, 1997.
+
+19
+

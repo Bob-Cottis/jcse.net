@@ -1,0 +1,330 @@
+OPTIMUM CATHODIC PROTECTION POTENTIALS FOR HIGH STRENGTH STEELS IN SEAWATER C.Batt* & M.J.Robinson
+
+School of Industrial & Manufacturing Science Cranfield University * Present Address; Shell UK Exploration & Production, Aberdeen
+
+Abstract; The aim of the research described in this paper was to determine the optimum cathodic protection potential for high strength steels in seawater that would reduce the corrosion rate to an acceptable level while avoiding the risk of hydrogen embrittlement. Tests were carried out on two high strength steels in environments ranging from sterile seawater to filtered natural seawater, open sea conditions and seabed sediment. Corrosion rates were obtained from weight loss measurements at controlled potentials and it was shown that the data fitted theoretical anodic polarisation curves with Tafel constants of 54 mV/decade and 64 mV/decade in natural and sterile seawater, respectively. The anodic curves intersected the 0.001 mm/yr corrosion rate at potentials of -770 mV in natural seawater and -790 mV (SCE) in sterile seawater and this range is considered appropriate to protect the steel adequately. Hydrogen embrittlement tests were carried out on double cantilever beam specimens and it was confirmed that cracking did not occur in seawater at these potentials. However, severe embrittlement resulted from exposure to seabed sediment containing high sulphide levels and active sulphate reducing bacteria and use of susceptible steels in such environments should be avoided.
+
+INTRODUCTION Cathodic protection (CP) is widely used to prevent corrosion of structural steels in the marine environment. However, it can have damaging side effects on structural integrity, particularly if the steel is overprotected and its potential is lower than that strictly required to prevent corrosion from occurring (1). The reason is that cathodic protection increases the hydrogen content of steels. In high strength alloys and in hard regions of heat affected zones (HAZ) around welds this absorbed hydrogen can lead to enhanced rates of fatigue crack growth (2,3) and to hydrogen embrittlement (4,5). Beneath marine biofilms, where sulphate reducing bacteria (SRB) are usually present on the metal surface, the amount of hydrogen absorbed can be enhanced substantially (6). For example, it has been shown that in these conditions the hydrogen concentration can increase by a factor between 5 and 10 compared to that for steel in sterile seawater at the same potential (7,8). The effects of applied potential and sulphide concentration on hydrogen uptake by steel exposed to a range of marine environments are compared in Fig 1 (9).
+
+SURFACE HYDROGEN CONCENTRATION Co, ppm
+
+14 12 10 8 6
+-1230 mV -1030 mV
+CATHODIC POTENTIAL mV (Ag/AgCl)
+
+4 2 0
+m pp 00 3,0 m p ion 0p lut 25 so S n H2 lutio t so en S im a H2 sed cteri ne g ba ari m ucin B od + SR pr H pm p 00 > 5 pm SRB p 00 m + > 5 pp 00 0-2 m 15 0 pp 20 B 0R 15 + S m pp 10 ter edia m pp wa 10 sea r / m te al wa tur na sea ial tific ar
+
+-930 mV -830 mV free corrosion
+
+Fig 1 Effect of potential and sulphide concentration on hydrogen uptake by cathodically protected steel (9)
+
+In contrast, the problem of under protecting a steel structure is that some corrosion will occur and may be localised in the form of pitting. Therefore, cathodic protection has the two opposing effects of controlling corrosion rate and promoting hydrogen uptake, as illustrated in Fig 2. Clearly, it is important to select the optimum protection potential to achieve the correct balance between an acceptable level of corrosion and a low risk of hydrogen damage. In particular, overprotection must be avoided for the new steels with yield strengths of 700 MPa, and above, which are being used more widely for offshore applications (10), as steels of higher strength are generally more susceptible to hydrogen damage.
+
+Recommended Potentials for Low and Medium Strength Steels The potential required to achieve full protection of carbon-manganese steels in aerated seawater is widely considered to be -800 mV (Ag/AgCl) (11) and this value is supported by DnV (12) and NACE (13). However, recommended potentials range between -750 and -830 mV (Ag/AgCl) (14). Factors that take the protection criterion outside this range are anaerobic conditions or heavy pollution. In these cases, the likelihood of microbial corrosion by active sulphate reducing bacteria has usually meant that the potential has been depressed by a further 100 mV to a value of approximately -900 mV (Ag/AgCl) (12,14) . A review in 1988 of the cathodic protection of structures in the North Sea reported that all the potentials in use were more negative than -900 mV (Ag/AgCl), with a mean value of about -950 mV (Ag/AgCl) (11).
+* Note; the potentials of the Ag/AgCl electrode and the standard calomel electrode (SCE) are shown below;Reference Electrode Potentials at 25°C Ag/AgCl/0.6 M Cl - (seawater) Hg/Hg2 Cl2/ sat KCl (SCE)
+(15)
+
+E = 0.250 V E = 0.241 V 2
+
+RECOMMENDED CATHODIC PROTECTION POTENTIALS
+
+Active bacteria in anaerobic mud
+Survey of 48 platforms (1988)
+
+Full corrosion protection ?
+mV (Ag/AgCl)
+
+-700
+
+-750
+
+-800
+
+-850
+
+-900
+
+-950
+
+-1000
+
+-1050
+
+Free Corrosion
+
+Zinc anode
+Avoiding embrittlement of high strength steels
+
+Fig 2 Diagram illustrating the effects of cathodic protection in controlling corrosion rate and promoting hydrogen uptake
+
+EXPERIMENTAL The aim of the experimental work described in this paper was to investigate the effectiveness of applied cathodic potentials in controlling the corrosion of high strength structural steels in marine conditions in order to reach a successful compromise between a low corrosion rate and an acceptable risk of hydrogen embrittlement. Materials and Test Environments Testing was carried out on samples of two quenched and tempered high strength offshore steels, Weldox 700 and Steel 900, with minimum specified yield strengths of 700 and 900 MPa. Their chemical compositions are shown in Table 1 and the mechanical properties of Steel 900 are given in Table 2.
+C Mn Si Ni Cr Mo V B Al Cu S P 0.17 0.91 0.22 1.35 0.51 0.5 0.002 0.075 0.19 0.1 0.005 0.006 0.11 0.66 0.21 5.02 0.5 0.51 0.05 <0.001
+
+Weldox 700 Steel 900
+
+Table 1. Compositions (wt %) of Weldox 700 and Steel 900
+Yield Strength (MNm-2) 1038 ± 10 Tensile Strength (MNm-2) 1080 ± 10 Hardness (Hv) 372 ± 6
+
+Table 2. Mechanical properties of Steel 900
+3
+
+Corrosion samples machined from these steels were tested in the laboratory in sterile artificial seawater, with or without additions of cultured marine micro-organisms. Other tests were carried out in natural seawater at a marine exposure site in Portland harbour. Some specimens were exposed to seawater that was pumped directly from the sea into holding tanks, while others were suspended beneath a raft in the harbour or buried in sediment on the seabed. Typical exposure times were six months. Potentiostatic Weight Loss Measurements The corrosion rates of Weldox 700 at a range of cathodic potentials were obtained from weight loss measurements. Cylindrical samples, 10 mm in diameter and 20 mm in length were machined from 50 mm plate. The samples were abraded with 1200 grade silicon carbide paper, ultrasonically cleaned, degreased and preweighed. They were then mounted on electrically insulated holders and exposed to one of the test environments described above. Three replicate weight loss samples were used for each condition. Other samples were used for biofilm examination and enumeration of sulphate reducing bacteria. The potentials of the samples were controlled between ­700 mV(SCE) and ­1000 mV(SCE) at intervals of 50 mV using 7 battery operated potentiostats. Further samples were exposed under freely corroding conditions (potential of approximately -675 mV(SCE)). At the end of the exposure period, the samples were cleaned using a procedure based on ASTM-G-1 (16); the corrosion products being removed in a cleaning solution of 30% HCl containing the inhibitor thiourea (0.76 gm/l) for 25 minutes, followed by rinsing in distilled water, ultrasonic cleaning in isopropanol, air drying and reweighing. Control samples that had not been exposed to seawater were also cleaned using the same procedure to obtain a correction factor for the weight loss calculations. Hydrogen Embrittlement Testing Double cantilever beam (DCB) specimens were machined from Steel 900 and pre-cracked by fatigue. The specimens were bolt loaded to give an initial crack tip stress intensity factor close to 75 MNm-3/2 and then suspended in seawater in the laboratory or at the coastal exposure site. Protection potentials -1100 mV, 1000 mV, -900 mV and -800 mV (SCE) were applied using either potentiostats or sacrificial anodes and the specimens were removed at intervals and the crack lengths were measured optically using a travelling microscope. Those exposed to sterile, artificial seawater in the laboratory were measured weekly at first and then later each month. Those suspended beneath the raft were measured several times during the exposure period, while those that had been buried in sediment were removed only at the end of the test. The cracks were monitored until the crack growth rate had reduced to approximately 10-10 m/s, at which point the threshold stress intensity factor, Kth, for hydrogen embrittlement was calculated (17).
+
+RESULTS AND DISCUSSION Freely Corroding Steel Fig 3 compares the corrosion rates of freely corroding Weldox 700 measured in sterile, filtered, open seawater and seabed sediment. The corrosion rates in sterile seawater were approximately twice those in filtered natural seawater; both being measured in tanks with relatively static conditions. This is thought to be because a partially protective biofilm formed on the samples in natural seawater. Interestingly, the samples exposed to open seawater developed the thickest marine growth yet they had a higher corrosion rate than those in filtered seawater; comparable to that measured in sterile conditions. In this case, the constant agitation of open seawater is thought to have increased the corrosion rate by transporting more oxygen to the steel surfaces, depolarizing the cathodic reaction. The mean corrosion rate in the seabed sediment was surprisingly low in view of its high sulphide
+4
+
+content (250-500 ppm) (18). However, this corrosion was in the form of localized pitting and if the areas of the pits were taken into consideration then the penetration rate exceeded those measured in the other conditions.
+
+0.3 0.25
+
+Corrosion Rate mm/year
+
+0.2 0.15 0.1 0.05 0
+
+Environment
+
+Fig3 Comparison of free corrosion rates for Weldox 700 in different marine environments
+
+Effect of Applied Potentials on Corrosion Rate The mean corrosion rates in sterile and filtered natural seawater were calculated from the potentiostatic weight loss measurements over the six-month exposure period and are shown plotted against potential in Fig 4. Under freely corroding conditions (potential approximately -675mV (SCE)) the corrosion rate was close to 0.1 mm/yr, as described above. Lowering the potential to -700 mV (SCE) had a dramatic effect in reducing the corrosion rate and at potentials of -850 mV (SCE) and below, the rate was reduced to 0.001 mm/yr, which was the detection limit of the experiment. The minimum corrosion rate occurred at ­900 mV(SCE) and lowering the potential further caused a small increase in the rate. It is thought that at overprotected potentials the pH increased at the metal surface to give the combination of conditions, shown in the Pourbaix diagram for iron in water (19), at which corrosion can take place. It is reported that the surface pH can exceed 12.5 when steel is cathodically protected in seawater (20).
+
+5
+
+-0.02
+
+0
+
+0.02
+
+0.04
+
+0.06
+
+0.08
+
+0.1
+
+0.12
+
+0.14
+
+0.16 -600
+
+-700 -750 -800 -850 -900
+Sterile Seawater Natural Seawater
+
+-950 -1000 -1050
+
+Corrosion Rate - mm/yr
+
+Fig 4 Corrosion rate vs potential for steel in sterile and filtered natural seawater
+
+The trends in corrosion rate can be seen more clearly when the data is plotted on a log scale, as shown in Fig 5. The freely corroding samples displayed relatively consistent weight losses but there was quite wide scatter between replicate samples held at low levels of protection in the range ­700 mV to ­850 mV(SCE). As the three replicates were electrically connected they would have behaved collectively as a single larger sample. It is known that anodic and cathodic sites are not always uniformly distributed over the surface, as shown in Fig 6, and therefore it would have been possible for a particular sample to have been more anodic than the other two and for a greater weight loss to have resulted. Similar effects in this potential range have been reported by other researchers (21, 22). In contrast, the freely corroding samples were electrically isolated from each other and the number and distribution of anodic and cathodic sites can be assumed to have been similar in each case.
+
+6
+
+Potential of Sample - mV (SCE)
+
+-650
+
+0.000001
+
+0.00001
+
+0.0001
+
+0.001
+
+0.01
+
+0.1
+
+1 -600 -650 -700 -750 -800 -850 -900
+
+Sterile Seawater Natural Seawater
+
+-950 -1000 -1050
+
+Corrosion Rate - mm/yr
+
+Fig 5 Log corrosion rate vs potential for sterile and filtered natural seawater
+
+Fig 6 Sample of freely corroding Weldox 700 after 6 months exposure to filtered, natural seawater. The large tubercle indicates a non uniform distribution of anode and cathode sites A linear relationship was expected to exist between log corrosion rate and potential, with the gradient of the line corresponding to the anodic Tafel slope (23). Fig 7 shows the mean corrosion rates, calculated from the same potentiostatic weight loss measurements, plotted against potential. Theoretical anodic polarisation curves, with Tafel constants of 54 mV/decade and 64 mV/decade in natural
+7
+
+Potential of Sample - mV (SCE)
+
+and sterile seawater respectively, have been fitted to the data. The points at which these lines intersect a chosen, acceptable corrosion rate can be used to define the minimum cathodic protection requirements for each condition. In this study a corrosion rate of 0.001 mm/yr was selected. The theoretical anodic curves intersected the 0.001 mm/yr rate at potentials of -770 and -790 mV (SCE) in natural and sterile seawater respectively. Therefore, this range is considered to be the upper limit of potential required to adequately protect Weldox 700 high strength steel in seawater.
+
+0.00001
+
+0.0001
+
+0.001
+
+0.01
+
+0.1
+
+1 -600 -650 -700 -750 -800 -850 -900
+
+STERILE average NATURAL average Log. (Sterile Tafel Slope - 5 points - 64 mV/decade) Log.(Natural Tafel Slope - 5 points -54 mV/decade)
+
+-950 -1000 -1050
+
+Log Corrosion Rate - mm/yr
+
+Fig 7 Graph of log mean corrosion rate vs potential showing Tafel slopes fitted through sterile and natural seawater data
+
+Various Tafel constants have been reported in the literature for different grades of steel. Bogar and Peterson (24) measured the long-term corrosion rates of freely corroding mild steel in filtered natural seawater and calculated the Tafel constant in these conditions to be 66 mV/decade. Moore (25) investigated three steels of differing compositions and showed that in each case the Tafel constants were close to 27mV/decade. This led to a recommended protection potential for 0.001 mm/yr corrosion of ­740 mV(SCE) for the high strength steel BIS 812 EMA. In contrast, a potential almost 100 mV more negative was needed to give the same level of protection to mild steel. Strictly, the linear Tafel behaviour applies to short-term polarization measurements performed on freshly prepared metal surfaces rather than on filmed samples resulting from long-term marine exposure. Therefore, it would not have been surprising if the graphs of potential plotted against log corrosion rate had deviated from a straight line relationship. The surface films that had developed after several months of seawater exposure differed considerably, depending on the potential at which the samples had been exposed. The films ranged from a porous, orange Fe2O3 corrosion product on the freely corroding samples, to dense black Fe3O4 on the partially protected samples, to varying thicknesses and compositions of calcareous scale on those that had been most protected. In addition, partially protective biofilms were present on samples that had been exposed to the natural seawater.
+8
+
+Potential of Sample - mV (SCE)
+
+Examples of these biofilms and calcareous scales are shown in Figs 8 & 9. Hartt (20) reported that for cathodically protected steel, 40% of the corrosion that occurred in one year of exposure took place in the first 3 months. This behaviour was believed to have resulted from progressive lowering of the amount of oxygen reduced in the cathodic reaction when calcareous deposits formed on the surface.
+
+Fig 8 Biofilm containing coccolithophores on steel held at -700 mV(SCE) for six months in filtered, natural seawater
+
+Fig 9 Bacteria and calcareous scale on steel held at -1000 mV(SCE) for six months in filtered, natural seawater Effect of Applied Potential on Hydrogen Embrittlement Graphs of crack velocity plotted against crack tip stress intensity are shown in Figure 10. The graphs display a range of velocities in the stage II plateau region, with the more protected specimens having the highest crack velocities. The threshold stress intensity factor, Kth, for hydrogen embrittlement in Steel 900 decreased at more protective potentials and the Kth values are summarized in Table 3.
+9
+
+1 .0 E - 0 7
+
+1 .0 E - 0 8
+
+Crack Velocity (ms-1)
+
+1 .0 E - 0 9
+
+1 .0 E - 1 0
+
+-900 mV Sterile -1000 mV Sterile -1100 mV Sterile -900 mV Filtered -1000 mV Filtered -1100 mV Filtered - 1 0 2 0 m V H e a v y F o u l in g
+
+1 .0 E - 1 1 0 20 40 60 80
+
+S t r e s s I n t e n s it y
+
+(M N m -3/2)
+
+Fig 10 V:K diagrams for Steel 900 in sterile and filtered natural seawater
+
+Environment Artificial Seawater Filtered Natural Seawater Open Seawater Seabed Sediment
+
+
+-1100 mV 16.8 20.4 -
+
+Potential (SCE) -1000 mV -1020 mV  22.1 27.9 24.8, 21.1 CB CB crack branching
++
+
+-900 mV 32.8, 36.1 33.1 -
+
+-800 mV NC CB +
+
+zinc anode
+
+NC no crack growth
+
+low voltage anode
+
+Table 3. Kth values (MNm-3/2) for Steel 900 measured at different potentials Neither of the specimens tested at ­800 mV(SCE) in artificial seawater initiated any crack growth and it was assumed that the Kth at this potential was above the initial stress intensity. In contrast, the DCB specimens buried in the seabed sediment, both at ­1020 mV(SCE) and at ­800 mV(SCE), displayed severe embrittlement and crack branching occurred in all cases. Clearly, the incidence of crack branching demonstrates the effect of sulphides in promoting hydrogen uptake.
+
+10
+
+The relationships between the threshold stress intensity Kth and CP potential for Steel 900 in sterile seawater, filtered natural seawater and open seawater are shown in Fig 11 and it is apparent that CP had an important effect on Kth in each environment. The data points for all the exposure conditions lie in a band and as the potential was lowered more hydrogen was absorbed and hence Kth was reduced. Figure 10 includes results for the high strength, low alloy steel DSE690 that had been heat treated to simulate the microstructure in the heat-affected zone of a weld (8). Hardness measurements indicated that its yield strength was approximately 1023 MPa; close to the measured value of 1038 MPa for Steel 900. Of the two steels, DSE690 was the less susceptible to embrittlement and in sterile seawater it had higher Kth values at all potentials. In seawater containing active SRB and 400 ppm of sulphide DSE690 was severely embrittled with Kth values below 20 MNm-3/2 over the full range of potentials. However, Steel 900 displayed still greater embrittlement in the sulphide containing sediment, as shown by extensive crack branching.
+
+Threshold Stress Intensity (MN m-3/2)
+
+60 50 40 DSE690 HAZ - Sterile STEEL 900 - Filtered STEEL 900 - Sterile STEEL 900 - Open sea DSE690 HAZ - Sediment
+
+30 20 10
+
+0 -800
+
+-850
+
+-900
+
+-950
+
+-1000
+
+-1050
+
+-1100
+
+-1150
+
+-1200
+
+-1250
+
+Potential
+
+mV(SCE)
+
+Fig 11 Effect of CP potential on threshold stress intensity for hydrogen embrittlement in sterile and filtered seawater Controlling the Risk of Hydrogen Embrittlement In general, for structures built from relatively low strength steels it is sufficient to specify a minimum protection potential as the consequences of a certain amount of overprotection are not too serious. However, with the newer high strength steels this is no longer the case. Protection potentials need to be controlled to avoid hydrogen damage even if this means accepting that some corrosion will take place. In some cases potential limiting devices have been used to prevent overprotection from occurring. An alternative approach is to keep marine sediments away from contact with high strength steels by raising the platform legs above the seabed on a concrete base (26).
+
+Recommended CP Potentials The results of this study allow clear recommendations to be made for the optimum cathodic protection of high strength steels in both natural and sterile seawater. The potentiostatic weight loss measurements showed that the corrosion rate was lowered to an acceptable level of 0.001 mm/yr by
+11
+
+controlling the potential at ­770 mV(SCE) in natural seawater or ­790 mV(SCE) in sterile seawater. As no hydrogen embrittlement was observed in seawater tests on Steel 900 at these potentials, it is recommended that this range is suitable to give adequate corrosion protection of high strength steel in seawater with a low risk of hydrogen embrittlement. The recommendations for high strength steel exposed to seabed sediment are less clear. Severe cracking of Steel 900 occurred at ­800 mV(SCE) and it appears that potentials in the range ­770 to ­ 790 mV(SCE) would be too cathodic to avoid hydrogen embrittlement. It is probable that this steel would have been susceptible to embrittlement in the sediment even under freely corroding conditions, in which case it could not be recommended for use in that environment. It should be recognized that seabed sediments vary from site to site. Sediment at the test site was particularly rich in sulphides due to the effects of pollution and this is thought to have had the effect of promoting anaerobic conditions, which favour the growth of SRB and hydrogen uptake. For this reason it is preferable that each case should be considered individually. The embrittlement susceptibility of a particular grade of steel should be measured and, where possible, the conditions on the seabed should be assessed. CONCLUSIONS [1] The corrosion rate of freely corroding Weldox 700 high strength steel was lower in filtered, natural seawater than in sterile seawater due to the formation of a partially protective marine biofilm. The highest rates of localized corrosion were recorded on samples exposed to seabed sediment containing high sulphide levels and active populations of sulphate reducing bacteria. [2] The corrosion rates recorded by potentiostatic weight loss measurements were shown to fit theoretical anodic polarisation curves with Tafel constants of 54 mV/decade and 64 mV/decade in natural and sterile seawater, respectively. [2] The anodic curves indicated that the corrosion rate would be 0.001 mm/yr at a potential of -770 mV (SCE) in natural seawater and -790 mV (SCE) in sterile seawater. A potential in this range is considered to achieve the dual aims of providing adequate corrosion protection in seawater and a low risk of hydrogen embrittlement. [4] However, this potential would be unsuitable if Steel 900 was exposed to seabed sediments with high microbial activity and sulphide levels as these conditions would lead to increased hydrogen uptake and promote severe embrittlement. [5] There are significant differences between the Kth values of high strength steels. It is recommended that the risk of embrittlement of each grade of steel should be considered individually and, where appropriate, the composition and activity of the marine sediment should be assessed. ACKNOWLEDGEMENTS The research described in this paper was supported by the EPSRC. The authors gratefully acknowledge DERA for provision of test facilities at the coastal exposure site. REFERENCES
+[1] R.P.M.Procter, Detrimental Effects of Cathodic Protection: Embrittlement and Cracking Phenomena, Cathodic Protection Theory and Practice, Eds. V.Ashworth & C.J.L.Booker, Publ Ellis Horwood (1986), pp 293-313.
+12
+
+[2]
+
+J.V.Sharp, The Use of Steel and Concrete in the Construction of North Sea Oil Production platforms, J.Materials Science, 14, (1979), pp 1773-1779. C.J.Thomas, R.G.J.Edyvean & R.Brook, Biologically Enhanced Corrosion Fatigue, Biofouling Vol 1, No 1, (1988), pp 65-78. B.R.W.Hinton & R.P.M.Procter, The Effect of Strain Rate and Cathodic Potential on the Tensile Ductility of X-65 Pipeline Steel, Corrosion Science, Vol 23, No 2, (1983), pp 101-123. K.A.Lucas & M.J.Robinson, The Influence of Lattice Hydrogen Content on the Hydrogen-Assisted Cracking of High Strength Steel, Corrosion Science, Vol 26, No 9, (1986), pp 705-717. M.J.Robinson, C.H.J.Parker & K.J.Seal, The Influence of Sulphate Reducing Bacteria on Hydrogen Absorption by Cathodically Protected Steel, Proc Conf. UK Corrosion '87, Brighton Metropole, 26-28 October 1987, pp 279-290. M.J.Robinson, R.J.Newby & P.J.Kilgallon, Hydrogen Absorption by Cathodically Protected Steel in the Marine Environment, Proc Conf. UK Corrosion '91, Manchester, October 1991. M.J.Robinson & P.J.Kilgallon, Hydrogen Embrittlement of Cathodically Protected HSLA steels in the Presence of Sulphate Reducing Bacteria, Corrosion, Vol. 50, No. 8, (1994), pp 626-635. M.J.Robinson & P.J.Kilgallon, A Review of the Effects of Sulphate Reducing Bacteria in the Environment on the Corrosion Fatigue and Hydrogen Embrittlement of High Strength Steels, Safety Executive, Offshore Technology Report, OTH 98 555, HMSO (1998). Marine Health
+
+[3]
+
+[4]
+
+[5]
+
+[6]
+
+[7]
+
+[8]
+
+[9]
+
+&
+
+[10]
+
+W.J.Bennett Jr., L.Cadiou & L.Coudreusse, Steels for Jack-Up Legs, Third International Conference on `Self Elevating Structures', City University, London, 1991. Marine Technology Directorate, Design and Operational Guidance on Cathodic Protection of Offshore Structures, Subsea Installations and Pipelines, Publication 90/102 (1990), pp 241-260. Det Norske Veritas, Cathodic Protection Design, Veritas Recommended Practice RPB 401,March 1986. National Association of Corrosion Engineers, Control of Corrosion of Offshore Steel Pipelines, NACE Publication RP-06-75 (Houston, Texas), 1975. J.N.Wanklyn, Input Data for Modelling Marine Cathodic Protection, Cathodic Protection Theory and Practice, Eds V.Ashworth & C.J.L.Booker, Publ Ellis Horwood (1986), pp 68-77. NACE Corrosion Engineer's Reference Book, Second Edition, Editor R.S.Treseder, Co-Editors R.Baboian & C.G.Munger, Publ NACE International, Houston, (1991). ASTM G1, Preparing, Cleaning and Evaluating Corrosion Test Specimens., American Society for Testing Materials. C.Batt, J.Doodson & M.J.Robinson, Hydrogen Embrittlement of Cathodically Protected High Strength Steel in Seawater and Seabed Sediment, British Corrosion Journal, Vol 37, No 3, pp 194-198, (2002) C.Batt & M.J.Robinson, Cathodic Protection Requirements For High Strength Steel In Seawater Assessed By Potentiostatic Weight Loss Measurements, British Corrosion Journal, Vol 37, No 1, pp 31-36 (2002)
+13
+
+[11]
+
+[12] [13]
+
+[14]
+
+[15]
+
+[16]
+
+[17]
+
+[18]
+
+[19] [20]
+
+M.Pourbaix, Atlas of Electrochemical Equilibria in Aqueous Solution, NACE, Houston, Texas, (1974) W.H.Hartt, C.H.Culberson & S.W.Smith, Calcareous Deposits on Metallic Surfaces in Seawater ­ A Critical Review, Corrosion, Vol 40, 609, p818, (1984) B.T.Moore & B.S.Smith, Cathodic Protection Criterion for a New Hull Steel, Report No: STO-GD0035. DSTO Aeronautical and Maritime Research Laboratory, PO Box 4331, Melbourne, Victoria, AR No:009-181, (1995). N.Yahaya, The Influence of Environment on Cathodic Protection Requirements of Steel in Seawater, MSc thesis, Cranfield University, School of Industrial & Manufacturing Science, (1992). Corrosion, Third Edition, Eds L.L.Shrier, R.A.Jarman & G.T.Burstein, Publ.Butterworth Heinemann, Vol 1, 1:88, (1994) of Eds
+
+[21]
+
+[22]
+
+[23]
+
+[24] F.D.Bogar & M.H.Peterson, A Comparison of Actual and Estimated Long-term Corrosion Rates Mild Steel in Seawater, In Laboratory Corrosion Tests and Standards (ASTM STP 866) G.S.Haynes & R.Baboian, American Society for Testing Materials, Philidelphia, 197-206, (1985). [25]
+
+B.T.Moore & B.S.Smith, Cathodic Protection Criterion for a New Hull Steel, Report No: DSTO-GD0035. DSTO Aeronautical and Maritime Research Laboratory, PO Box 4331, Melbourne, Victoria, AR No:009-181, (1995). J.V.Sharp, J.Billingham & M.J.Robinson, The Risk Management of High Strength Steels in Jack-ups in Seawater, Proc Jack-Up Conference, City University, 14-16 September 1999.
+
+[26]
+
+14
+

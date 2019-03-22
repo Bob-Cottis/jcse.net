@@ -1,0 +1,131 @@
+ISSN 1466-8858
+
+Volume 10 Paper 35
+
+The Influence of Corrosion Inhibitor (Hexamine) Concentration on Heat Exchanger Copper Alloy Tubes Corrosion Rate
+H. M. Essa
+
+Chemistry Department, Sulimani University, Education College, Kelar, IRAQ, haidmessa@yahoo.com
+Abstract: The influence of concentration of corrosion inhibitor was studied under static and dynamic conditions on the heat exchanger copper alloy tubes metal corrosion rate, as this influence is important factor to choose the way to protect tubes metal during the acid cleaning to remove deposited scale inside them. It was found that increasing temperature decreases inhibitor efficiency, while increasing acid concentration needs higher inhibitor concentration but not higher than specific concentration where that will not decrease corrosion rate of copper alloy metal. Keywords: Corrosion; Corrosion Inhibitor
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+1
+
+Introduction: Corrosion may occurred during the acid cleaning of the heat exchanger tubes , the good cleaning agent must be inhibited to protect the tubes metal , but at the same time the inhibitor must not prevent dissolution of the scale(1) . The corrosion increases with increasing the concentration or temperature , but could decreased by using inhibitors , longer contact time may be required for some deposits if better inhibited acid used(2) . The purpose of this work is to study the influence of inhibitor (Hexamine) (Hexa methyl tetra amine) concentration used in acid cleaning process(3). Various conditions tested of acid concentration, temperature and time on the copper alloy cooling system heat exchanger tubes in Daura refinery. All the bench- scale tests were carried out using field cleaned from deposited scale admiralty metal B (copper alloy C 44300) cooling tower heat exchanger(4). The tubing was of (19mm) outside diameter and (2mm) in thickness having the following chemical composition (table 1). Metal. Table (1) Analysis of Tubes Metal Comp: Copper Wt.% : 70-73 Tin 0.9-1.2 Lead 0.07 Iron 0.06 Zinc Arsenic
+
+balance 0.02-0.01
+
+Concentration Influence of Inhibitor Concentration on Tubes Metal Corrosion Rate Under Static Conditions: As starting point we studied the effect of concentration of inhibitor for the clean galvanized tubes for two contact time levels
+oC
+
+(1,4) hours
+
+between acid solution and tubes metal with constant temperature of 70 and 6wt.% citric acid concentration vs. different concentrations of (Hexamine ) inhibitor were used ( 0.0 ,0.1 , 0.15 , 0.2 , 0.25 , 0.3 ) wt.% at static condition .Where pieces of tubes 10 cm long were cut, inserted 2
+
+between two pieces of teflon parts ,tied to insure isolating the external walls from acid solution and corrosion takes place only at inside and placed in 500 ml beakers containing 6 wt.% citric acid solution the results were as shown in table (2) . The results showed that at zero concentration of (Hexamine) inhibitor the weight loss ( i.e. corrosion rate ) was quite high while it was low and almost constant when inhibitor used at higher concentrations especially above 0.15 wt.% as shown in figure (1). Table(2): Corrosion Rate of the Copper Alloy with Variable Inhibitor (Hexamine) Concentration & Contact Time in 6wt.% Citric Acid at 70oC Under Static Conditions . Inhibit Ru n no. or Conc. Wt.% Cont act Time hr 0.0 1 0.0 1.0 4.0 0.0 2 0.05 1.0 4.0 0.0 3 0.1 1.0 4.0 Specimen Specific. Wt. of Sample gm Corrosion In Rate gm/m2.hr Length cm Diam. mm Out Diam. mm
+
+81.6335 81.1145 81.0914 81.1370 80.7270 80.7049 80.2120 79.0517 79.8337
+
+0.00 47.4377 12.3785 0.00 38.0013 10.0121 0.00 33.3976 8.7665 9.90 15 19 10.00 15 19 10.05 15 19
+
+3
+
+0.0 4 0.15 1.0 4.0 0.0 5 0.2 1.0 4.0 0.0 6 0.25 1.0 4.0 0.0 7 0.3 1.0 4.0
+
+81.1342 80.7818 80.7581 81.1441 80.7935 80.7695 81.1503 80.8012 80.7773 79.4230 79.0784 79.0522
+
+0.00 32.6572 8.7143 0.00 32.4985 8.6821 0.00 32.3507 8.6418 0.00 32.2617 8.5929 9.80 15 19 10.00 15 19 10.00 15 19 10.00 15 19
+
+Influence of Inhibitor Concentration on Tubes Metal Corrosion Rate under Dynamic Conditions: A dynamic system was assembled for corrosion rate investigation ,all made of Q.V.F. glass parts ,it consist of round bottom container with four necks, connected with glass coil heat exchanger .The circulation of acid solution was effected using Q.V.F. pump (0.25Kwatt) fig.(2).
+
+4
+
+Figure (1): Corrosion Rate vs. Inhibitor (Hexamine) Concentration at Citric Conditions of 6wt. % Citric Acid Concentration and 70 oC Temperature (Under Static Conditions).
+50 45 40 Corrotion Rate (gm/m .hr) 35 30 25 20 15 10 5 0 0 0.05 0.1 0.15 0.2 0.25 0.3 1 hr 4 hr
+
+2
+
+Inhibitor Concentration wt.%
+
+The tested also was inserted between two teflon pieces ,the flow system contained 15 liter of circulating acid solution , all tests carried out to determine the corrosion rate by measuring the weight difference of specimen at the start and end of each test. So for every sample after each test the tube was washed with distilled water ,oven dried at 60 oC for 24 hr and weighed .
+
+5
+
+Experimental Figure (2): Schematic Diagram of Experimental Apparatus (Under Dynamic Conditions). Thermocouple
+
+Vessel
+
+Specimen
+
+Rotameter
+
+Valve Heating Drain Valve Pump Drain
+
+The effect of the concentration of inhibitor was studied under dynamic condition for different concentrations of (Hexamine) inhibitor (0.0 , 0.05 , 0.1 , 0.35 , 0.75), with two level of acid concentration ( 2 , 5) wt.% and temperature ( 40 , 72 ) oC at constant time of 2 hr. Four sets of experiments were chosen with each set containing five different runs as shown in table (3) .
+
+6
+
+In the first set at low temperature of 40oC and low concentration of acid 2wt. % the weight of dissolved copper alloy was found to be small and the weight loss due to corrosion decreased with the increase in concentration of inhibitor. In the second set at low temperature of 40oC and high concentration of 5.0wt. % the weight of dissolved copper alloy was found small and the weight loss decreased with the increase in concentration of inhibitor . In the third set at high temperature of 72 oC and low concentration of acid 2.0wt. % , the weight of dissolved copper alloy was found to be higher than the first and second sets and was decreased with increasing in inhibitor concentration . In the fourth set at high temperature of 72oC and high acid concentration 5.0wt. %, the weight of dissolved metal was found to be higher than the other sets and decreased with increase in inhibitor concentration.
+
+(3): Table (3): Corrosion Rate of Copper Alloy with Variable Inhibitor (Hexamine) Concentration at Constant Contact Time of 2 Hours Under Conditions. Dynamic Conditions. Sample Weight Run No. Corrosion Rate Inhibitor Conc. Temp. Acid Conc. Length
+
+gm 1 2 3 80.3274 80.4126 77.7539
+
+gm/m2.hr 17.8296 11.9937 7.4117
+
+Wt.% 0.0 0.05 0.1
+
+oC
+
+Wt.% 2.0 2.0 2.0
+
+cm 9.92 10.0 9.60
+
+40 40 40
+
+7
+
+4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+
+80.3271 80.0030 80.2091 80.4719 80.2142 80.1768 80.8330 79.9441 80.1435 79.3971 79.9648 80.7609 77.0565 80.0734 81.2054 79.8192 79.7797
+
+7.2146 6.4525 18.4142 12.0638 7.7003 7.6849 6.9665 23.9243 18.5836 15.1896 15.0317 14.1900 25.2196 19.5423 15.8604 15.8316 15.8192
+
+0.35 0.75 0.0 0.05 0.1 0.35 0.75 0.0 0.05 0.1 0.35 0.75 0.0 0.05 0.1 0.35 0.75
+
+40 40 40 40 40 40 40 72 72 72 72 72 72 72 72 72 72
+
+2.0 2.0 5.0 5.0 5.0 5.0 5.0 2.0 2.0 2.0 2.0 2.0 5.0 5.0 5.0 5.0 5.0
+
+10.0 10.0 9.90 10.0 9.80 9.90 10.0 9.92 10.0 9.90 9.90 10.0 9.50 9.90 10.0 10.0 10.0
+
+8
+
+Figure(3): Corrosion Rate vs. Inhibitor (Hexamine) Concentration at Conditions of 2 wt.% Citric Acid Concentration and 2 Hour Time (Under Dynamic Conditions).
+45 Corrosion Rate (gm/m2.hr) 40 35 30 25 20 15 10 5 0 0 0.05 0.1 0.35 0.75 Inhibitor Concentration wt.% 72C 40C
+
+Corrosion Figure(4): Corrosion Rate vs. Inhibitor (Hexamine) Concentration at Conditions of 5 wt.% Citric Acid Concentration and 2 Hour Time (Under Dynamic Conditions).
+
+9
+
+50 45 40 35 30 25 20 15 10 5 0 0 0.05 0.1 0.35 0.75 Inhibitor Concentration wt.%
+
+Corrosion Rate (gm/m2.hr)
+
+72C 40C
+
+Conclusions: 1. At static conditions by comparing the different inhibitor concentration, it was found that the minimum effective concentration was 0.1 wt.% Hexamine ,therefore this concentration was used throughout the rest experiments, since more than this concentration was not considerably better for protection of tubes and in order to have minimum cost . 2. At dynamic conditions from the results it was shown, that the higher temperature causes a decrease in inhibitor efficiency and also the increasing in inhibitor concentration above 0.1wt. % has small influence on decreasing the amount of dissolved copper alloy in citric acid solution 3.from whole tests results static and dynamic it was found
+
+0.1wt.%Hexamine was the best concentration for protection and for corrosion inhibiting of the copper alloy tubes metal with acceptable cost , as above this concentration didn't improve the protection considerably ,these results agree with that of Eldrige ( 5 ).
+
+References:
+
+10
+
+ref1 `Water_ Formed Scale Deposits', J.C. Cowan, & D.J. Weintritt,
+
+Houston: Gulf Publishing 1976.
+Ref2 `Corrosion`, K.R. Walston, and Dravieks, 14 December, 43 14, (1958). Ref3 `Chem.Eng. ` C.M. Loucks, March 5,103 (1962). Ref4 `Decaling of Heat Exchange Equipment by chemical Method', H .M Essa, M .Sc. Thesis, University Of Baghdad, January 1995. ref5 `Ind.Eng.Chem.` G.G.Elbridge and R.E Mears. 7, 737, (1946).
+
+11
+

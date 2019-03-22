@@ -1,0 +1,211 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+HYDROGEN PERMEATION IN GAMMA TITANIUM ALUMINIDES H. A. Estupiñan, I. Uribe and P.A. Sundaram§* Corrosion Research Group School of Metallurgy and Materials Science Universidad Industrial de Santander AA 678, Bucaramanga, Colombia
+
+§Department of Mechanical Engineering University of Puerto Rico Mayaguez, PR 00680, USA
+
+*
+
+3817)
+
+Corresponding author (psundaram@me.uprm.edu; Tel: 1-787-832-4040; Fax: 1-787-265-
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+ABSTRACT The permeation of hydrogen in gamma titanium aluminides was studied using the Devanathan-Stachurski (DS) cell. Thin disk-shaped samples of gamma titanium aluminide with three different microstructures were appropriately prepared and cathodically charged in an aqueous 0.1 N NaOH solution. The permeation current was monitored as a function of time. Permeation parameters were calculated using the time lag criterion (non-steady state lag). Values of the apparent diffusion coefficient of hydrogen in gamma titanium aluminide varying from 1.87 X 10-7 cm2/s to 3.75 X 10-6 cm2/s were obtained. This slight variation is attributed to differences in microstructure.
+
+Keywords: titanium alloys, hydrogen, permeation, diffusion
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+INTRODUCTION The potential of gamma titanium aluminides (TiAl) in aerospace applications have been laid out earlier [1,2] and the use of hydrogen and hydrogen mixtures as fuels for reaching such high speeds has been suggested [3,4]. For such applications to be viable, the interaction between hydrogen and TiAl has to be understood clearly. An important implication of this proposed application is the degree of hydrogen permeation in these materials. Some information on of hydrogen in these alloys has been estimated [7]. However, a permeation study as such has not been reported in literature. This paper reports the results of baseline data of hydrogen permeation in TiAl and consequently the calculation of the apparent diffusion coefficient of hydrogen in this material. The same parameters for Ti6Al4V alloy are also reported for comparison. EXPERIMENTAL A computer-controlled potentiostat/galvanostat (Galvpot 201H) was used to carry out the permeation experiments in an electrochemical permeation cell with three electrodes: a graphite counter electrode and a saturated Ag/AgCl reference electrode for each cell compartment and the TiAl sample which serves as the working electrode mutual to both compartments. The nominal their respective microstructures in Figure 1. Table 1. Nominal compositions and microstructural descriptions of the Tibased alloys.
+
+the solubility of hydrogen in TiAl is available [5,6] and the diffusion coefficient
+
+compositions of the TiAl alloys used in this research are given in Table 1 and
+
+Designation RP/M
+
+Nominal composition Ti-48Al-2Cr-2Cr (at.%)
+
+Microstructural description 80 vol.% lamellar with ~300 µm colony size and 20 vol.% blocky gamma grains
+
+SDFL
+
+Ti-46.5Al-4(Cr,Nb,Ta,B)
+
+100 vol.% lamellar with ~150-
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+(at.%) SPA Ti-46.5Al-4(Cr,Nb,Ta,B) (at.%) Ti6Al4V Ti-6Al-4V (wt.%)
+
+200 µm colony size Blocky gamma grains with 20 µm grain size with 8-10 vol. % 2  +  with equiaxed  grains with intergranular 
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 1. Typical microstructures of (a) RP/M, (b) SDFL, (c) SPA and (d) Ti6Al4V. See Table 1 for descriptions of microstructures.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+The hot isostatically pressed powder based TiAl alloy (RP/M) and Ti6Al4V alloy were received in the form of 25 mm and 50 mm diameter rods respectively. From these materials, small cylinders 10 mm in diameter and 15 mm in length were machined using electric discharge machining (EDM). These cylinders were cut into 1 mm thick disks and the surfaces to be exposed to electrolytic charging were ground using 600 grit paper until the disk thicknesses reached about 0.3 mm. The sheet TiAl alloys were obtained in 1 mm thick sheets in the primary annealed (SPA) and designed fully lamellar (SDFL) microstructural conditions. These were also cut into 10 mm diameter disks and ground with 600 grit paper to a thickness of approximately 0.3 mm. The RP/M microstructure consists of 80 vol.% lamellar with an average colony size of 300 blocky gamma grains of about 20 µm size and 8-10 vol. % of 2 at the grain boundaries. SDFL has a lamellar colony size of 150-200 µm. The Ti6Al4V alloy has a  +  microstructure with predominantly equiaxed  grains (~10 µm) with intergranular . The electrolyte used was an aqueous solution of 0.1 N NaOH (pH=12.6) and the permeation experiments were carried out at 298 K. Nitrogen was bubbled throughout each experiment into the electrolyte to remove dissolved oxygen. Poteniodynamic polarization experiments were first carried out to determine the initial potential for hydrogen reduction. These same conditions were used for the permeation experiments. All the permeation experiments were conducted and analyzed using the duplopotentiostatic technique. Duplopoteniostatic permeation technique This technique was originally developed by Devanathan and Stachurski [8]. In this Devanathan-Stachurski (DS) two-compartment cell, hydrogen is introduced by cathodic reduction (H+ + e- = H) in one compartment (entry side), into the sample whose hydrogen permeation is to be determined. This adsorbed sample by diffusion. These hydrogen atoms diffuse out of the sample (exit side) into the second cell compartment and are oxidized (H = H+ + e-) in an alkaline solution of 0.1 N NaOH. The exit side of the sample is maintained at a potential high enough relative to the reference electrode such that any hydrogen (Hads) is then absorbed (Habs) into the sample and permeates the µm and 20 vol.% blocky gamma grains. SPA has a microstructure consisting of
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+reduction of hydrogen will occur only at the graphite counter electrode in the second compartment. In this way, all the electrons consumed in the process contribute only to hydrogen reduction and the Faraday equation can be then used to measure the flow of hydrogen. The resulting current due to hydrogen reduction in the anodic compartment of the electrochemical cell is a direct the permeation current density was monitored as a function of time. The current density at steady state is taken as the reference from which the required time parameters are calculated. The time parameters were calculated using the time lag criterion (non-steady state lag), which takes into account the time at which the permeation current reaches 63% of its maximum value (Imax). The apparent coefficient of diffusion of hydrogen in the sample was determined by the following expressions: D = s2/6 tlag Where, D is the apparent diffusion coefficient of hydrogen (m2/s) tlag is the time needed to reach 63% of the maximum steady state current density (s) s = sample thickness (m) Other permeation parameters were calculated using S = (Imax x s)/(F x D), is the apparent solubility of hydrogen (mol H/m3) P = (Imax x s)/F, is the permeability of hydrogen (mol H.m2/m.s) These permeation experiments were carried out for TiAl. For comparison, the same experiments were repeated for Ti6Al4V. measure of the hydrogen permeation through the sample (TiAl). In this study,
+
+RESULTS AND DISCUSSION
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+The interaction of hydrogen with gamma titanium aluminides has been extensively studied from the perspective of hydride formation [9-12]. Although, the characteristics of this hydride have been documented well, the value of the diffusion coefficient of hydrogen in TiAl has been reported only once in literature [7] using an electrochemical technique based on cathodic charging [13]. A fundamental study of the permeation of hydrogen in this material at room temperature has not been attempted.
+2.00E-06
+RP/M SDFL SPA Ti6Al4V
+
+1.60E-06
+
+Current Density, A/cm2
+
+1.20E-06
+
+8.00E-07
+
+4.00E-07
+
+0.00E+00 0 1000 2000 3000 4000 5000 6000
+
+Time, s
+
+Figure 2. Permeation plots for the gamma titanium aluminides and Ti6Al4V. Figure 2 shows typical permeation curves for the TiAl alloys and Ti6Al4V. The plots appear similar for the RP/M TiAl and the designed fully lamellar (SDFL) material. Permeation clearly takes longer for the primary annealed (SPA) alloy while the hydrogen permeation current appears to be larger in Ti6Al4V. Table 2 summarizes the results obtained from the permeation experiments for all materials. The maximum permeation current value obtained for these titanium based alloys as a whole is very small compared to steels and the same is true for the solubility of hydrogen in TiAl and its apparent permeability [14]. The
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+apparent diffusion coefficient (D) of hydrogen in TiAl varies slightly between the alloys tested. The apparent diffusion coefficient values obtained are much higher than those obtained from an earlier study [7] utilizing an electrochemical technique [13] different from the more fundamental technique used here. Such discrepancy is attributed to the thicker samples used in the earlier study. Considering the fact that the lamellar colonies in the RP/M and the SDFL
+
+structures are about 150-300 µm, permeation of hydrogen in this case occurs through a distance of about two to three lamellar colonies. On the other hand, for the SPA and Ti6Al4V samples, the grain size is much smaller. Normally, the presence of the lamellar microstructure would be expected to provide easier diffusion paths for hydrogen through the lamellar boundaries, although, in earlier work with the same materials[7,18], the values of the apparent diffusion coefficients calculated indicate that lattice diffusion is the preferred diffusion path for hydrogen in titanium. This also appears to be true in this study. The diffusion of hydrogen in RP/M is slightly faster because of the larger size of the lamellar colonies compared to SDFL with an average lamellar colony size of 150-200 µm. In the primary annealed SPA material, the lag time is much larger. In fact, the time to reach maximum permeation current in SPA is much greater than for the other alloys used in this study indicating much slower kinetics of hydrogen in the gamma phase. Surface entry effects are ruled out in view of the emphasis in literature regarding the low solubility of hydrogen in the gamma phase [6,15] although the formation of a surface oxide cannot be precluded. The + structure of Ti6Al4V is much more amenable to the relatively faster kinetics of hydrogen because of the presence of the open bcc structure of the  phase in this material. However, the D value in Ti6Al4V is coefficient obtained for all these materials are compared, it appears that microstructural parameters appear to play a minor role in affecting the diffusion coefficient. Also, the fact that the microstructural differences and probably the dominant diffusion path. The solubility of hydrogen in these materials has been determined before. scale do not seem to greatly affect the D values indicates that lattice diffusion is similar to that of the TiAl alloys. When the values of the apparent diffusion
+
+Boodey et al. [15] have reported that the solubility of hydrogen in TiAl is very low while very large solubility values have been measured for the 2 phase in
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+the Ti-Al system [5]. Other studies related to solubility have also been reported [16,17]. It would be then expected that the presence and amounts of the 2 and gamma phases in these materials would affect the permeability parameters to a certain extent. In the different microstructures of the TiAl alloys used in this study, the fractions of the 2 phase and the  phase vary, albeit slightly, with microstructure. In the RP/M and SDFL microstructures which are highly the alloys in this study. For the primary annealed material (SPA), the vast majority of the microstructure is made up of blocky gamma grains while 8-10 vol.% of the 2 phase is distributed at the grain boundaries and triple points. This could account for the larger value of hydrogen solubility in SPA. Table 2. Summary of permeation characteristics. RP/M Max. permeation current density Imax, µA/cm2 40 3.75 x10-6 144 1.81 x10-6 1390 1.87 x10-7 46 3.26 x10-6 0.226 SDFL 0.288 SPA 0.617 Ti6Al4V 1.15
+
+lamellar, there is a very small fraction of the 2 phase for the compositions of
+
+Time lag tlag, s Apparent diffusion coefficient of hydrogen, cm2/s Apparent hydrogen solubility, mol H/mm3 Apparent hydrogen permeability, mol H/m.s
+
+0.008
+
+0.086
+
+1.33
+
+0.010
+
+7.02 x10-10
+
+8.95 x10-10
+
+2.55 x10-9
+
+3.57 x10-10
+
+An interesting phenomenon is observed in the permeation curves for all the titanium based alloys used in this study. A maximum is observed followed by a slight decrease in the permeation current as a function of time in all the alloys studied. This may be an indication of concurrent hydride formation on the entry side of the titanium alloy samples at the times corresponding to this
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+highly susceptible to hydride formation. CONCLUSIONS
+
+maximum. The latter occurrence is to be expected in titanium alloys which are
+
+1. The permeation of hydrogen into TiAl is relatively low at room temperature. 2. The apparent room temperature diffusion coefficient (D) of hydrogen in depending on the microstructure. gamma titanium aluminide varies from 1.87x10-7 cm2/s to 3.75x10-6 cm2/s
+
+3. The differences in microstructure do not seem to affect the D values significantly. On comparison with data in literature, lattice diffusion is probably the dominant diffusion mechanism.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+REFERENCES 1. H.A. Lipsitt, Mater. Res. Soc. Symp. Proc., 39 (1985) 351. 2. Y.W. Kim, Journal of Metals, 41 (1989) 24. 3. H.G. Nelson, SAMPE Quarterly, 20 (1988) 20. 4. A.W. Thompson, in: R.H. Jones and R.E. Ricker (Eds.), Environmental effects on advanced materials, TMS-AIME, Warrendale, PA, 1988, p.21. 5. W.Y. Chu, A.W. Thompson, J.C. Williams, Acta Metall. Mater., 40 (1992) 455. 6. U. Habel, T.M. Pollock, A.W. Thompson, in: A.W. Thompson and D.R. Moody, Hydrogen effects in metals, TMS, Warrendale, PA, 1996, p.787. 7. P.A. Sundaram, E. Wessel, H. Clemens, H. Kestler, P.J. Ennis, W.J. Quadakkers, L. Singheiesr, Acta Mater., 48 (2000) 1005. 8. M.A.V. Devanathan, Z. Stachurski, Proc. R. Soc. London, A279 (1962) 90. 9. D. Legzdina, I.M. Robertson, H.J. Birnbaum, Mater. Res., 6 (1991) 1230. 10. Y. Combres, S. Tsuyama, T. Kishi, Scripta Metall. Mater., 27 (1992) 509. 11. J. Gao, Y. Wang, W. Chu, C. Hsiao, Scripta Metall. Mater., 27 (1992) 1219. 12. A. Takasaki, Y. Furuya, K. Ojima, Y. Taneda, Scripta Metall. Mater., 32 (1995) 1759. 13. C.J. Wen, C. Ho, B.A. Boukamp, I.D. Raistrick, W. Weppner, R.A. Huggins, Int. Met. Rev., 5 (1981) 253. 14. J.P. Hirth, Met. Trans., 11A (1980) 861. 15. J.B. Boodey, M. Gao, W. Wei, R.P. Wei, Gamma Titanium Aluminides, TMS, Warrendale, PA, 1995, p.101. 16. A. Takasaki, Y. Furuya, K. Ojima, Y. Taneda, J. Alloys Comp., 225 (1995) 299.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 14
+
+31 January 2005
+
+17. P.A. Sundaram, W.J. Quadakkers, L. Singheiser, J. Alloys Comp. 298 (2000) 274.
+
+18. O.S. Abdul-Hamid, R.M. Latanision, in: A.W. Thompson and D.R. Moody, Hydrogen effects in metals, TMS, Warrendale, PA, 1996, p.205.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

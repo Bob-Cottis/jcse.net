@@ -1,0 +1,532 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+INHIBITION OF ACID CORROSION OF MILD STEEL WITH 1,3-DIAMINOPROPANE
+
+Wequar Ahmad Siddique, Monika* and Arwind Dubey
+
+Department of Applied Sciences & Humanities Faculty of Engineering & Technology Jamia Millia Islamia, New Delhi ­110025 INDIA
+
+ e-mail: jmi_bansal24@yahoo.com ; weqar_ah@yahoo.com;  Mobile No: 09868495161
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+Abstract
+The influence of 1,3-diaminopropane on corrosion inhibition of mild steel in 1N HNO3 and 1N H2SO4 has been studied using weight loss study and galvanostatic polarization study. Galvanostatic study indicates that compound act as mixed type corrosion inhibitor. The rate of corrosion of mild steel rapidly increases with temperature over the temperature range of 298K to 328K both in absence and presence of inhibitor. Thermodynamic parameters for adsorption process have been calculated using the Langmuir's adsorption isotherm.
+
+Key words: Corrosion, Inhibition, 1,3-diaminopropane, HNO3 and H2SO4.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+1.
+
+Introduction
+
+Corrosion is a type of surface chemical process in which metallic material is lost as oxides, hydrids and carbonates due to its direct chemical, biochemical and electrochemical reactions with environment. There are several ways to prevent atmospheric corrosion. Among the available methods of preventing corrosion, the use of inhibitor is the most promising method particularly for closed systems. The inhibitors find wide application in the industrial field. Most of the organic compounds that mainly contain nitrogen, sulpher atom and multiple bonds in the molecules is act as inhibitor. The inhibition by organic additives on metals in acids has been studied [1-12]. The selection of an inhibitor for a given system depends on the corrosive medium, the nature of metal, the magnitude of charge at metal solution interface and the cathodic relation [13]. The aim of present investigation is to examine the inhibitive action of 1,3-diaminopropane towards the corrosion of mild steel in both acid solutions (1N HNO3 and1N H2SO4) by chemical and electrochemical technique.
+
+2.
+
+Experimental
+
+The mild steel coupons of composition(C=0.20%, Mn=1.00%, Si=0.05%, S=0.025%, P=0.25% and Fe=98%) and of size (i.e. 0.8×0.8×3.0 cms) have been used for weight loss measurements. These coupons were given mechanical polishing and then degreased before use. Weight loss study was carried out as described in literature [14]. The inhibition efficiency for different concentrations of inhibitor was calculated from weight loss values. For polarization studies a cylindrical mild steel rod of it composition embedded ion araldite was used. The electrodes were polished with emery papers and degreased. AR grade of HNO 3 and H2SO4 acids were used for preparing solutions. Double distilled water was used to prepare all solutions. For accurate measurements of potential and current densities, galvanostatic polarization studies were carried out at different temperatures. A platinum foil and saturated calomel electrode were used as counter and reference electrode respectively. Polarization was carried out in 1N
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+HNO3 and H2SO4 in the absence and presence of inhibitor of various concentrations and temperatures.
+
+3.
+3.1
+
+Results and Discussion
+Weight loss measurements
+
+Tables1 & 2 give the values of inhibition efficiencies for different concentrations of 1,3-diaminopropane in 1N HNO3 and 1N H 2SO4 obtained from weight loss measurements. The percentage inhibition were calculated using the following equation
+
+Wo  Wi  %  100 Wo
+where Wo and Wi are weight losses in the absence and in the presence of inhibitor respectively. The results in Table 1 & 2 show that the inhibition efficiency increases with increasing the concentration of inhibitor in both acids at lower temperature. As the temperature increases the inhibition efficiency decreases. The inhibition efficiency is some much higher i.e. 90.66% in case of H 2SO4 acid in presence of 10 -1M concentration at 298K temperature.
+
+3.2.
+
+Galvanostatic polarization measurements
+
+Table 3 & 4 give the electrochemical parameters such as corrosion potential (Ecorr ), Tafel's slopes (ba and bc ), corrosion current (icorr ) and inhibition efficiency (I%) for corrosion of mild steel in 1N HNO 3 and 1N H 2SO4 in absence and presence of 1,3-diaminopropane inhibitor in different concentrations and temperatures. Figures 1 to 4 show the effect of compound concentration on the current potential curves for both the cathodic and anodic reactions at different temperatures in 1N HNO3. The potential curves for the same temperature and concentration in 1N H2SO4 acid medium are shown in Figs. 5 to 8. As the concentration increases there is an increase in the values of both the Tafel's slopes in both the acid. The value of Tafel's slopes (cathodic and anodic) is more in case of 1N H2SO4 in comparison to 1N HNO3. But in 1N H2SO4 the values of cathodic Tafel's slope is larger than anodic values. So inhibition of corrosion of mild steel
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+in 1N H2SO4 acid is under mixed control but predominately under anodic control. The percentage inhibition curve of 1,3- diaminopropane on mild steel in 1N H 2SO4 solution shows that the corrosion inhibition efficiency reached about 90% with solution containing 10-1M inhibition whereas at the lower concentration (10 7
+
+M), the percentage inhibition was about 55.33% at temperature 298K. The
+-1 -7
+
+percentage inhibition of 1,3-diaminopropane in 1N HNO3 is about 87% having concentration 10 M while at lower concentration 10 M the percentage inhibition was about 66.1% at 298K temperature. At lower concentration the inhibition efficiency is more in case of 1N HNO 3 at all temperatures except 318K. The value of Icorr is found to be little more in case of lowest concentrations of compound in both the acids. As the concentration increases there is decrease in the values of Icorr. The inhibition efficiency of 1,3-diaminopropane depends on many factors including number of adsorption active center in the molecule and their charge density, which are affected by amino (­NH2) group. The values of inhibition efficiency obtained by weight loss method and galvanostatic polarization studies show fairly good agreement in both acids. It is also found that compound performs better in 1N H2SO4 acid.
+
+3.3.
+
+Adsorption Kinetics
+
+From polarization measurements, surface coverage values have been obtained for various concentration of inhibitor. The data were tested graphically for fitting a suitable adsorption isotherm. A straight line is obtained by plotting a graph between log   1/T in both the acids (Figs 9&10). This clearly proves that /1- vs. the adsorption of 1,3-diaminopropane on mild steel surface from both the acids obey Langumir's adsorption isotherm. To calculate the activation energy of corrosion process, corrosion current densities at various temperatures in the absence and presence of various concentrations of inhibitor were put in Arrhenius equation.
+ a log    log 2.303R 
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+where K is the specific corrosion rate constant, Ea is the activation energy, T is absolute temperature and A is the exponential factor. Plotting of log K against 1/T in absence and presence of inhibitor give straight line as shown in Figs.11&12. The activation energy is calculated from this graph. The activation energy is 72.18 Kcal/mol in 1N HNO3 solution while it is 74.11Kcal/mol in case of H2SO4. The results show that the rate of corrosion increases as the temperature increases. This indicates that corrosion inhibition takes place by adsorption of inhibitor at electrode surface.
+
+4. Conclusion
+1. 1,3-diaminopropane inhibits the corrosion of mild steel in both the acids (1N HNO3 and 1N H2SO4). 2. The performance of this compound as an inhibitor in both the acid is very much encouraging. 3. The inhibition efficiency increases with increase in concentration in both the acid. 4. The inhibition efficiency decrease with increase in temperature in both the acids. 5. The inhibition of corrosion of mild steel by 1,3-diaminopropane in both the acids is of mixed type. 6. The adsorption of 1,3-diaminopropane on mild steel surfaces from both the acids obey Langumir's adsorption isotherm.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+5.
+1. 2.
+
+References
+J.I. Bregman, Corrosion Inhibitors, Manmillan, New York (1963). W. Machu, Proc. 3 Eur. Symp. on Corrosion Inhibitors, Ferrara, (1970) Univ of Ferrara, (1971) 107. G. Trabenelli and F. Zucchi, Rev. Coat. Corros., (1973) 97. G. Gardner, in C Nathan (Ed) , Corrosion Inhibitors, NACE, Houston, (1973) 156. W. Bullough, in L L Shreir (Ed), Corrosion, Vol. 2 Butterworths, London, nd 2 Edn, (1976) 12. M.W. Ranney, Corrosion Inhibitors Manufacture and Technology, Noyes Data Corporation, New Jersey (1976). J.S. Robinson, Corrosion Inhibitors, Recent Development, Noyes Data Corporation, New Jersy (1979). I.L. Rozenfeld, Corrosion Inhibitors, McGraw-Hill New York (1981). S. Kertit, B. Hammouti, M. Taleb and M. Brigiili, Bullt. of Electrochem., 13 (1997) 241. B. Mernari, H. Elattari, M. Traisnel, F. Bentiss and M. Lagrenee, Corrosion Science, 40 (1998) 391. H.-B. Fan, C.-Y. Fu, H.-L. Wang, X.-P. Guo and J.-S. Zheng, Brit. Corros. J., 37-2 (2002) 122. Y.K. Agrawal, J.D. Talati, M.D. Shah, M.N. Desai and N.K. Shah, Corrosion Science, 46 (2004) 633. O.L. Riggs, Jr. in Corrosion inhibitors, CC Nathan Ed, NACE, Houston (1973) 7. P.B. Mathur and T. Vasudeva, Corrosion, 38 (1982) 171.
+rd
+
+3. 4.
+
+5.
+
+6.
+
+7.
+
+8. 9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+Caption of Figures
+1. Galvanostatic polarization curves of mild steel in 1N HNO3 solution containing different concentrations of 1,3-diaminopropane at 298K. Galvanostatic polarization curves of mild steel in 1N HNO3 solution containing different concentrations of 1,3-diaminopropane at 308K. Galvanostatic polarization curves of mild steel in 1N HNO3 solution containing different concentrations of 1,3-diaminopropane at 318K. Galvanostatic polarization curves of mild steel in 1N HNO3 solution containing different concentrations of 1,3-diaminopropane at 328K. Galvanostatic polarization curves of mild steel in 1N H2SO4 solution containing different concentrations of DAP at 298K. Galvanostatic polarization curves of mild steel in 1N H2SO4 solution containing different concentrations of DAP at 308K. Galvanostatic polarization curves of mild steel in 1N H 2SO4 solution containing different concentrations of DAP at 318K. Galvanostatic polarization curves of mild steel in 1N H2SO4 solution containing different concentration of DAP at 328K. Variation of surface coverage vs. concentration at different temperatures of DAP in 1N HNO 3. Variation of surface coverage vs. concentration at different temperatures of DAP in 1N H 2SO4. Variation of corrosion current vs. reciprocal of temperature at different concentrations of DAP in 1N HNO 3. Variation of corrosion current vs. reciprocal of temperature at different concentrations of DAP in 1N H 2SO4.
+
+2.
+
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.
+
+12.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+Table1: Inhibition efficiency of mild steel in presence of different concentrations of 1-3-diaminopropane from weight loss at various temperatures in 1N HNO3 Temperature 298K Solution/mol (L-1) 1N HNO 3 10-7 -5 10 10-3 -1 10 1N HNO 3 10-7 10-5 -3 10 -1 10 1N HNO 3 -7 10 10-5 10-3 10-1 1N HNO 3 10-7 -5 10 10-3 10-1 Weight loss/gram 0.5701 0.1385 0.1450 0.1440 0.0698 0.8900 0.5100 0.3400 0.2300 0.1700 0.8350 0.4280 0.3320 0.2550 0.2050 0.7500 0.6000 0.5300 0.3400 0.3000 %I 75.7 74.5 74.7 87.7 42.6 61.7 74.1 80.8 48.7 60.2 69.4 75.4 20.0 29.3 54.6 60.0
+
+308K
+
+318K
+
+328K
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+Table2: Inhibition efficiency of mild steel in presence of different concentrations of 1-3-diaminopropane from weight loss at various temperatures in 1N H 2SO4 Temperature 298K Solution/mol (L-1) 1N H 2SO4 10-7 -5 10 10-3 -1 10 1N H 2SO4 10-7 10-5 -3 10 -1 10 1N H 2SO4 -7 10 10-5 10-3 10-1 1N H 2SO4 10-7 -5 10 10-3 10-1 Weight loss/gram 0.0786 0.0384 0.0275 0.0231 0.0074 0.1568 0.0728 0.0658 0.0518 0.0189 0.5467 0.3091 0.2394 0.2075 0.1374 1.1891 0.9105 0.6113 0.5913 0.4692 %I 56.10 65.01 70.61 90.58 53.57 58.03 66.96 87.94 43.46 56.20 62.04 74.86 23.42 48.59 50.27 60.54
+
+308K
+
+318K
+
+328K
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+Table 3: Electrochemical parameters of mild steel in 1N HNO3 in presence of 1,3diaminopropane as additive
+
+Temp.
+
+Solution/mol -1 (L ) 1N HNO3 10 -7 -5 10 10 -3 -1 10 1N HNO3 10 -7 -5 10 10 -3 10 -1 1N HNO3 10 -7 -5 10 10 -3 10 -1 1N HNO3 10 -7 10 -5 10 -3 10 -1
+
+Ecorr mV 410 451 439 390 407 474 427 437 420 442 478 451 431 420 450 493 442 441 457 440
+
+Log icorr 2  A/cm 3.57 3.10 2.99 2.80 2.68 3.40 3.06 3.04 2.88 2.59 3.39 3.19 3.00 2.90 2.80 3.37 3.19 3.09 3.01 2.90
+
+bc mV/dec 29 21 30 20 75 21 18 16 13 22 28 14 16 20 25 20 17 12 18 31
+
+ba mV/dec 40 29 32 20 45 22 18 17 20 24 28 16 16 20 20 11 16 12 08 32
+
+%I
+
+298K
+
+308K
+
+318K
+
+328K
+
+66.1 73.6 83.0 87.1 54.2 56.3 69.8 84.5 36.9 59.2 67.6 74.2 33.9 47.5 56.3 66.1
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+Table 4: Electrochemical parameters of Mild Steel in 1N H 2SO4 in presence of 1,3diaminopropane (DAP) as additive:
+
+Temp.
+
+Solution/mol -1 (L ) 1N H2SO4 10 -7 -5 10 10 -3 -1 10 1N H2SO4 -7 10 10 -5 -3 10 -1 10 1N H2SO4 10 -7 10 -5 10 -3 10 -1 1N H2SO4 10 -7 -5 10 10 -3 10 -1
+
+Ecorr mV 512 471 453 481 483 522 478 481 472 485 500 480 464 470 470 480 471 470 472 476
+
+Log icorr 2  A/cm 3.45 3.10 3.00 2.90 2.42 3.38 3.05 3.00 2.89 2.48 3.35 3.10 2.98 2.93 2.75 3.29 3.17 3.00 2.99 2.89
+
+bc mV/dec 99 53 36 36 163 111 59 49 49 123 75 50 30 30 55 41 46 50 47 35
+
+ba mV/dec 141 72 97 52 297 151 72 48 73 170 73 59 78 71 121 93 32 39 88 59
+
+%I
+
+298K
+
+308K
+
+318K
+
+328K
+
+55.33 64.51 71.81 90.66 53.22 58.31 67.59 87.41 43.76 57.34 61.98 74.88 24.14 48.71 49.88 60.18
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+-0.3 -0.4 -0.5
+E (mV ) vs SCE
+
+HNO3 10-1M 10-3M 10-5M 10-7M
+
+-0.6 -0.7 -0.8 -0.9 -1 0 1 2 3 2 Log Current Density( A/cm ) 4
+
+Fig. 1. Galvanostatic polarization curves of mild steel in 1N HNO3 containing different concentrations of 1,3-diaminopropane at 298K.
+
+HNO3
+
+-0.3 -0.4
+E(mV) vs SCE
+
+10-1M 10-3M 10-5M 10-7M
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 2 3
+2
+
+4
+
+Log Current Density( A/cm )
+
+Fig. 2. Galvanostatic polarization curves of mild steel in 1N HNO3 solution containing different concentrations of 1,3-diaminopropane at 308K.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+-0.3 -0.4 -0.5
+Em V vs. SCE
+
+HNO3 10-1M 10-3M 10-5M 10-7M
+
+-0.6 -0.7 -0.8 -0.9 -1 0 1 2 3 Log Current Density(  A/cm 2) 4
+
+Fig. 3. Galvanostatic polarization curves of mild steel in 1N HNO3 solution containing different concentrations of 1,3-diaminopropane at 318K.
+
+HNO3 10-1M
+-0.3 -0.4
+E(mV) vs SCE
+
+10-5M 10-5M 10-7M
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 2
+2
+
+3
+
+4
+
+Log Current Density( A/cm )
+
+Fig. 4. Galvanostatic polarization curves of mild steel in 1N HNO3 solution containing different concentrations of 1,3-diaminopropane at 328K.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+H2SO4
+
+-0.3 -0.4
+E(mV) vs S CE
+
+10-1M 10-3M 10-5M 10-7M
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 2 3
+2
+
+4
+
+Log Current Density( A/cm )
+
+Fig. 5. Galvanostatic polarization curves of mild steel in 1N H2SO4 solution containing different concentrations of DAP at 298K.
+
+H2SO4
+
+-0.3 -0.4
+E(mV) vs SCE
+
+10-1M 10-3M 10-5M 10-7M
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 2 3
+2
+
+4
+
+Log Current Density( A/cm )
+
+Fig.6. Galvanostatic polarization curves of mild steel in 1N H2SO4 solution containing different concentrations of DAP at 308K.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+H2SO4
+
+-0.3 -0.4
+E(mV) vs SCE
+
+10-1M 10-3M 10-5M 10-7M
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 2 3
+2
+
+4
+
+Log Current Density( A/cm )
+
+Fig. 7. Galvanostatic polarization curves of mild steel in 1N H2SO4 solution containing different concentrations of DAP at 318K.
+
+H2SO4 -0.3 -0.4
+E(mV) vs SCE
+
+10-1M 10-3M 10-5M 10-7M
+
+-0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 2 3
+2
+
+4
+
+Log Current Density( A/cm )
+
+Fig. 8. Galvanostatic polarization curves of mild steel in 1N H2SO4 solution containing different concentration of DAP at 328K.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+298K
+1.6
+
+308K 318K 328K
+
+1.1
+
+log  /1-
+
+0.6
+
+0.1
+
+-0.4
+
+-0.9 -8 -7 -6 -5 -4 -3 -2 -1 0
+
+log C
+
+Fig. 9. Variation of surface coverage vs concentration at different temperatures of DAP in 1N HNO 3.
+
+298K
+1.6
+
+308K 318K 328K
+
+1.1
+log  
+
+0.6
+
+0.1
+
+-0.4
+
+-0.9 -8 -7 -6 -5 -4 log C -3 -2 -1 0
+
+Fig.10. Variation of surface coverage vs. concentration at different temperatures of DAP in 1N H2SO4.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 23
+
+31 January 2005
+
+10-1M 10-3M
+
+3.5
+
+10-5M 10-7M Acid
+
+3
+logIcorr
+
+2.5
+
+2
+
+1.5
+3 3.04 3.08 3.12 3.16 3.2 1/Tx10 K
+3 -1
+
+3.24
+
+3.28
+
+3.32
+
+3.36
+
+3.4
+
+Fig. 11. Variation of corrosion current vs. reciprocal of temperature at different concentrations of DAP in 1N HNO3
+
+10-1M 3.5 10-3M 10-5M 10-7M 3
+log I co rr
+
+Acid
+
+2.5
+
+2
+
+1.5 3 3.05 3.1 3.15
+1/T103K-1
+
+3.2
+
+3.25
+
+3.3
+
+3.35
+
+3.4
+
+Fig.12. Variation of corrosion current vs. reciprocal of temperature at different concentrations of DAP in 1N H 2SO4.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

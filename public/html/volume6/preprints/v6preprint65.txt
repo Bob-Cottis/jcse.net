@@ -1,0 +1,428 @@
+Volume 5 Paper H006
+
+High-Temperature Air Oxidation of Co-Ta Alloys ­ Kinetics Comparison Between TGA Information and Direct Measurement of Total Scale Thickness
+Marcelo de Castro-Rebello, Celso Claudio Perego#, Jorge Alberto Soares Tenório & Stephan Wolynec
+
+Departamento de Engenharia Metalúrgica e de Materiais, Escola Politécnica da Universidade de São Paulo, Av. Prof. Mello Moraes, 2463 / CEP 05508-900 / São Paulo ­ SP / Brazil. E-mail: marc@usp.br 55 11 3091.5240 Fax 3091.5421 #Pelletron - LINAC / Instituto de Física da Universidade de São Paulo
+
+Abstract
+
+The air oxidation of three Co-Ta alloys containing 15, 30 and 45 wt.%Ta was investigated with a thermobalance at 600, 650, 700, 750 and 800°C. In all tests the oxidation kinetics followed the parabolic rate law with the exception of Co-45Ta alloy oxidized at 800°C. The activations energies were found to be close for Co-15Ta and Co-30Ta alloys (136,11 and 128,83 kJ/mol, respectively), while for Co-45Ta it was obtained a smaller value of 98,72 kJ/mol. The oxidation morphologies of Co-15Ta and Co-30Ta alloys are very similar. An external scale of Co3O4 characterizes them for 600 and 650°C and a duplex Co3O4/CoO scale for 700, 750 and 800°C, accompanied by an internal oxidation zone (IOZ), in which both metallic phases suffered oxidation. The Co-45Ta alloy displayed a different morphology characterized by the presence of an external monolayer for all oxidized coupons. At 600, 650 and 700°C the monolayer is CoO, whilst at 750 and 800°C this is Co3O4 Beyond the monolayers, the coupons of Co-45Ta oxidized at temperatures higher than 700°C presents a zone of internal oxidation in which only the Ta-rich phase was oxidized. Keywords: Co-Ta, two-phase alloys, high-temperature oxidation, internal oxidation
+
+Introduction
+candidate Refractory metals bearing alloys have been considered as materials for high-temperature sulphur containing atmospheres. Alloys containing Mo and Nb have been tested for this purpose(1,2). Alloys containing Ta, in particular Co-Ta alloys, also have
+
+been considered for this purpose, but so far only their resistance in oxygen bearing atmospheres has been evaluated. The oxidation of binary Co-Ta alloys (10 and 15wt.%Ta) as well as of the same alloys containing carbon (up to 1wt.%C) was investigated by El-Dahshan and Hazzaa(3) in pure oxygen and in air, at additions reduce the oxidation rate of Co more efficiently than Cr additions. The oxidized alloys exhibit an external monolayer of CoO CoTaO4. The beneficial effect of Ta was attributed to the formation of activity at metal/oxide interface, blocking its inward diffusion. alloys and concluded that the positive effect of Ta is due to the from the external layer through the following reaction: 5 CoO + 2 Ta Ta2O5 + 5 Co Voitovich(4) apud El-Dahshan and Hazzaa(3) investigated similar and a multi-phase porous internal layer composed of CoO, Ta2O5 and CoTaO4, which would be responsible for the reduction of oxygen
+
+temperatures ranging from 900°C to 1100°C. They found that Ta
+
+removal of CoO (which presents high concentration of cationic defects)
+
+temperature oxidation resistance of refractory metals bearing alloys in different oxygen and sulphur containing atmospheres(5). Its aim was to obtain further information on Co-Ta alloys behaviour in hightemperature air atmosphere so as to better understand the oxidation mechanism of these two-phase materials. In the original investigation intermediate temperatures of 650°C and 750°C were included in the original study in an attempt to obtain two extras experimental points for the sketch of Arrhenius plots. It was not paid much attention on the morphologies of these new coupons, which are expected to be similar to at least one of the neighbor temperatures produced coupons. Co-Ta alloys were oxidized only at 600°C, 700°C and 800°C(6). The
+
+The present investigation is part of a broader study of high-
+
+Experimental
+Three Co-Ta alloys, containing about 15, 30 and 45wt.%Ta (Co15Ta, Co-30Ta and Co-45Ta, respectively), were prepared by repeatedly arc-melting appropriate amounts of the two pure metals (99.5%Co and 99.8%Ta) on a water-cooled copper hearth under high-
+
+2
+
+purity Ti-gettered argon. After cooling, the alloys were annealed under argon atmosphere at 900°C for 48 hours. The microstructure of the three alloys is always formed by a
+
+and the intermetallic phase Co3Ta (3). This microstructure does not which forecasts the formation of the peritectoid phase. This peritectoid absence of this phase is probably a consequence of the slow kinetics special long-term heat treatments to allow the formation of its product. A detailed analysis of Co-Ta alloys microstructures is presented elsewhere(8).
+
+cobalt rich phase with maximum Ta content equivalent to 3wt.% (Co)
+
+agree with the phase diagram for Co-Ta system, shown in Figure 1(7),
+
+phase, Co7Ta2, has not been detected neither by XRD nor EDS. The of the peritectoid reaction, which normally needs controlled cooling or
+
+Fig. 1 ­ Co-Ta equilibrium phase diagram(7).
+Coupons of about 1,0 mm thick and with a surface area of around 2,0 cm2 were cut from the ingots using a diamond-wheel saw. ultrasonically rinsed in acetone and dried immediately before use. Coupons were ground down to 600-grit paper, cleaned with ethanol,
+
+3
+
+700°C, 750°C and 800°C for periods of 18 hours, at a SHIMADZU TGAOxidized coupons were examined by means of X-ray diffraction (XRD) resin for transverse section examination at scanning
+
+The isothermal oxidation tests were carried out at 600°C, 650°C,
+
+51H thermobalance with continuous weight-gain measurements. for phase identification. Subsequently they were mounted in epoxy microscope (SEM) and microanalysis with the energy dispersive spectrometer (EDS) X-ray attachment to the SEM, in order to identify the phases and to determine the element distribution in oxide scales. electron
+
+Results
+Kinetics from TGA information: their parabolic plots are shown in Figs. 2 to 4. All coupons, except CoThe kinetics curves together with
+
+45Ta alloy tested at 800°C, oxidize following the parabolic rate law.
+
+The obtained parabolic coefficients (kp's) as well as r-squared curves are reported in Table 1. The kp's were used to draw Arrhenius plots of each alloy (Fig. 5), which allowed the calculation of activation energies (Qp's), listed in Table 2. The alloy Co-45Ta oxidized at 800°C correlation coefficient, r2, of the straight lines fitted to the weight gain
+
+does not follow the parabolic rate law, what can be seen from the poor the kinetics presented by this coupon (not showed) revealed a slope of 0.8, confirming a behaviour intermediate between linear and parabolic.
+
+alignment of fitted straight line shown in Fig. 6. In fact, di-log plot of
+
+4
+
+0 5 4.5 4
+2  m/A (mg/cm )
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+o
+
+20 5 4.5 4 3.5
+
+800 C 750 C 700 C
+o o
+
+3.5 3 2.5 2 1.5 1 0.5 0 0 2 4 6 8 10 12 14 16 18 20 650 C 600 C
+o o
+
+3 2.5 2 1.5 1 0.5 0
+
+Time (h)
+Fig. 2 ­ Kinetics curves for the air oxidation of Co-15Ta alloy at 600, 650, 700, 750 and 800°C.
+0.5 0.25
+
+Log Kp (mg2.cm-4.h-1)
+
+0 -0.25 -0.5 -0.75 -1 -1.25 -1.5 -1.75 0.9 0.95 1 1.05
+
+y = -7,1075x + 6,7707 2 r = 0,9314
+
+1.1
+
+1.15
+
+1.2
+
+1000/T (K-1)
+
+5
+
+Fig. 3 ­ Arrhenius plots of the parabolic kinetics curves of Co15Ta alloys, oxidized in air at 600, 650, 700, 750 and 800°C.
+0 6 5
+2  m/A (mg/cm )
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20 6
+
+800 C
+
+o
+
+5 4
+
+4 3 2 1 0 0 2 4 6 8 10 12 14 16 18 20 750 C
+o
+
+3 2 1 0
+
+700 C 650 C 600 C
+o o
+
+o
+
+Time (h)
+
+Fig. 4 ­ Kinetics curves for the air oxidation of Co-30Ta alloy at 600, 650, 700, 750 and 800°C.
+0.4 0.2
+
+Log k p (mg2.cm-4.h-1)
+
+0 -0.2 -0.4 -0.6 -0.8 -1 -1.2 -1.4 -1.6 0.9 0.95 1 1.05
+
+y = -6,7275x + 6,3577 2 r = 0,954
+
+1.1
+
+1.15
+
+1.2
+
+1000/T (K-1)
+
+6
+
+Fig. 5 ­ Arrhenius plots of the parabolic kinetics curves of Co30Ta alloys, oxidized in air at 600, 650, 700, 750 and 800°C.
+0 8 7
+2  m/A (mg/cm )
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18 800 C
+o
+
+20 8 7 6 750 C
+o
+
+6 5 4 3 2 1 0 0 2 4 6 8 10 12 14 16 18 20 700 C 650 C 600 C
+o o o
+
+5 4 3 2 1 0
+
+Time (h)
+
+Fig. 6 ­ Kinetics curves for the air oxidation of Co-45Ta alloy at 600, 650, 700, 750 and 800°C.
+-0.1 -0.3
+
+Log k p (mg2.cm-4.h-1)
+
+-0.5 -0.7 -0.9 -1.1 -1.3 -1.5 0.95
+
+y = -5,1552x + 4,6984 2 r = 0,9328
+
+1
+
+1.05
+
+1.1
+
+1.15
+
+1.2
+
+1000/T (K-1)
+
+7
+
+Fig. 7 ­ Arrhenius plots of the parabolic kinetics curves of Co45Ta alloys, oxidized in air at 600, 650, 700 and 750°C. Table 1 ­ Parabolic coefficients - kp's (mg2.cm-4.h-1) - and correlaction factor (r2) of the fitted straight lines to the parabolic plots.
+Co-15Ta Co-30Ta Co-45Ta
+
+kp
+600°C 650°C 700°C 750°C 800°C 0.04 0.08 0.53 0.72 1.04
+
+r2
+0.99 0.97 0.99 0.99 0.99
+
+kp
+0.05 0.13 0.17 0.73 1.35
+
+r2
+0.99 0.97 0.99 0.96 0.99
+
+kp
+0.05 0.18 0.21 0.47
+
+r2
+0.99 0.97 0.99 0.96
+
+Table 2 ­ Activation energies - Qp's (kJ/mol) - of the alloys Co-15Ta, Co-30Ta and Co45Ta oxidized in air, at 600, 650, 700, 750 and 800°C (for Co-45Ta alloy, non-parabolic kinetics at the highest test temperature). The correlaction factors (r2) are also shown. Qp r2
+Co-15Ta 136.11 0.93 Co-30Ta 128.83 0.95 Co-45Ta 98.72 0.93
+
+Non-parabolic
+
+Scale Structure and Composition:
+
+The alloys Co-15Ta and Co-30Ta
+
+oxidized at the same temperature produced very similar morphologies. Co3O4 (see Fig. 8), while at the three highest temperatures duplex
+
+Test coupons oxidized at 600°C and 650°C develop a monolayer of scales are formed with Co3O4 being the outermost and CoO the innermost layer, as shown in Figs. 9 and 10. The internal scales have a two-phase microstructure, resembling that of the alloys, i.e, the spatial distribution of the oxide phases is exactly the same as that at the metallic phases present in the alloys before its oxidation (see Figs. 9 and 10). The EDS analysis has shown that both metallic phases of the alloys were oxidized, being this type of oxidation known as heterophasic region - HR. The stoichiometric analysis of HR showed that the cobalt-rich phase was transformed to CoO, while the the Co-15Ta alloy and CoTaO4 for the Co-30Ta alloy. The XRD analysis of Co-15Ta alloys detected CoTa2O6 in the coupons oxidized intermetallic phase was converted to the double oxide Co4Ta2O9 for
+
+8
+
+at 600°C and 650°C and this double oxide together with Co4Ta2O9 in the three other coupons, whilst for all Co-30Ta coupons no double oxides were detected. These different data supplied by EDS and XRD may indicate that, instead of double oxides, tantalum-rich phase could have formed a mixture of Ta2O5 plus either CoO or metallic Co, at least in the coupons which fail to reveal the presence of double oxides when analyzed by XRD. All Co-45Ta coupons displayed an external monolayer (see Figs. 11 and 12), in a way similar to that of Co-15Ta tested at the two lowest temperatures. For coupons oxidized at 600°C, 650°C and 700°C the EDS analysis indicated that this monolayer is CoO, while for the coupons oxidized at the two higher temperatures this monolayer is Co3O4. The formation of these two cobalt oxides was confirmed by XRD analysis. Moreover, the oxidation at 750°C and 800°C produced a thick internal oxidation zone (particularly for the highest temperature = 57 700°C, but very thin (5 µm) (see Fig. 11). The morphology of this internal scale is different from that observed on Co-15Ta and Co30Ta alloys, indicating that only the intermetallic phase was internally oxidized in the Co-45Ta alloy, i.e., an internal oxidation zone - IOZ. However, in a similar way to these alloys, the internal scale of Co-45Ta alloy shows no spatial distribution difference when compared to the metallic alloy. The XRD analysis of oxidized Co-45Ta specimens detected some nitrogen-containing phases: tantalum nitrides (TaN, Ta2N and Ta4N) and Co(NO3)2. These phases were not identified in the scales because EDS microprobe was used to analyze only Co, Ta and O. µm) (see Fig. 12), which is also observed on the coupon oxidized at
+
+9
+
+Fig. 8 ­ Cross section (BSE) of Co-15Ta alloy oxidized at 650oC in air for 18 hours, where it is possible to observe an external monolayer an no attack in the underlying alloy.
+
+Fig. 9 - Cross section (BSE) of Co-15Ta alloy oxidized at 700oC in air for 18 hours, which shows the formation of an duplex external scale (#1 outermost ­ Co3O4 and #2 innermost - CoO), together with an HR (#3 and #4) of both oxidized original metallic phases. #5 and #6 are the metallic phases.
+
+10
+
+Fig. 10 - Cross section (BSE) of Co-30Ta alloy oxidized at 750oC in air for 18 hours, which repeated the morphology shown in Fig. 9, i.e., an duplex Co3O4/CoO external scale, together with an HR of both oxidized original metallic phases.
+
+Fig. 11 - Cross section (BSE) of Co-45Ta alloy oxidized at 700oC in air for 18 hours, showing the formation of an external Co3O4 monolayer and a thin IOZ of approximately 5
+
+11
+
+µm (better noted at higher magnifications), where only the Ta-rich phase is oxidized.
+
+Fig. 12 - Cross section (BSE) of Co-45Ta alloy oxidized at 800oC in air for 18 hours. Similarly to the oxidation at 700oC (Fig. 11) this coupon develop an external Co3O4 monolayer and a rather thick IOZ of 40 µm, where only the Ta-rich phase is oxidized.
+Kinetics from total scale thickness: In order to allow the determination of the oxidation kinetics from the measurement of scale thickness, it was first tried to compare the thickness of the different observed layers. For the reason of the large morphological variance among the tested coupons, it was not possible to establish the comparison as originally though. The only way to do the scale thickness' comparison is to consider the total scale of each tested coupon. Table 3 lists the total scale thickness (t) of all tested coupons. Based on these, Arrhenius plots are drawn for each alloy (Figs. 13 to 15), which allow the calculation of the oxidation energy activation obtained correlation coefficient r2. derived from scale thickness ­ Qt. Table 4 lists Qt's values and the
+
+Table 3 ­ Average total scale thickness - t (µm) of Co-Ta alloys, oxidized in air at 600, 650, 700, 750 and 800°C, for 18 hours.
+Co-15Ta Co-30Ta Co-45Ta
+
+12
+
+t
+600°C 650°C 700°C 750°C 800oC
+2 1.8 1.6
+
+t
+7 11 13 38.7 55.6
+
+t
+4.3 7.5 11 40.5 58.6
+
+3.8 6 20.8 28.5 39.3
+
+Log t ( µ m)
+
+1.4 1.2 1 0.8 0.6 0.4 0.2 0.9 0.95 1 1.05 1.1 1.15 1.2 y = -4.8145x + 6.197 2 r = 0.9432
+
+1000/T (K-1)
+
+Fig. 13 ­ Arrhenius plot of the total scale thickness of Co15Ta alloy, oxidized at 600, 650, 700, 750 and 800°C.
+
+13
+
+2 1.8 1.6
+
+Log t (µ m)
+
+1.4 1.2 1 0.8 0.6 0.4 0.9 0.95 1
+
+y = -4.3541x + 5.7654 2 r = 0.9258
+
+1.05
+
+1.1
+
+1.15
+
+1.2
+
+1000/T (K-1)
+
+Fig. 14 ­ Arrhenius plot of the total scale thickness of Co30Ta alloy, oxidized at 600, 650, 700, 750 and 800°C.
+2 1.8 1.6
+
+Log t (µ m)
+
+1.4 1.2 1 0.8 0.6 0.4 0.9 0.95 1
+
+y = -5.1662x + 6.5506 2 r = 0.9315
+
+1.05
+
+1.1
+
+1.15
+
+1.2
+
+1000/T (K-1)
+
+Fig. 15 ­ Arrhenius plot of the total scale thickness of Co45Ta alloy, oxidized at 600, 650, 700, 750 and 800°C.
+
+14
+
+Table 4 ­ Activation energies calculated from the average total scale thickness ­ Qt's (kJ/mol) - of the alloys Co-15Ta, Co30Ta and Co-45Ta oxidized in air, at 600, 650, 700, 750 and 800°C. The correlaction factors (r2) are also shown. In the last row it is listed the relation Qp/Qt (see Table 2). Qt r2 Qp/Qt
+Co-15Ta 92.20 0.93 1.476 Co-30Ta 83.38 0.95 1.545 Co-45Ta 98.93 0.93 0.998
+
+Discussion
+As was already stated there is a significant difference in oxidized scale morphology between the Co-15Ta and Co-30Ta alloys and the Co-45Ta alloy. The main difference is the type of internal oxidation that was formed in these alloys, since in the latter only the Ta-rich phase is oxidized. oxidized by the inward diffusion of oxygen this type of internal oxidation of two-phase alloys is called "diffusionless" or "in situ" or "in place" internal oxidation(9,10). The inward oxygen diffusion causes a progressive drop of oxygen partial pressure. At a certain depth the oxygen partial pressure is not sufficient to oxidize Co but can still oxidize Ta, since the latter is more reactive (less noble) than Co. In the internal oxidation zone (IOZ) of alloys Co-15Ta and Co30Ta both metallic phases were oxidized. This implies that the oxygen partial pressure at the reaction front is higher than the dissociation pressure of CoO. This type of internal oxidation may also produce another more internally located IOZ. This second IOZ is characterized by a morphology in which only the phase that contains the most reactive element is oxidized such as the one observed in Co-45Ta alloy. Nevertheless, this second IOZ was formed in neither Co-15Ta nor Co-30Ta alloys. The absence of this second IOZ is an indication of a possible obstruction of oxygen by the actual IOZ. This obstruction is certainly related to the nature of the oxidation products of this layer, which suppress oxygen diffusion through the first IOZ. When no metallic diffusion occurs and only one alloy element is
+
+15
+
+Another factor, which could have contributed to the different type of internal oxidation shown by Co-45Ta alloy, is the volume fraction of Ta rich phase (3), which is approximately 90%. Even if oxygen partial pressure is sufficient to oxidize Co, the much bigger 3-volume fraction determines a greater possibility for oxygen to meet Ta than Co. Moreover, there is also the kinetics factor. If the growing observed at conditions of high oxygen pressure), then Ta oxides may grow and coalesce, isolating Co rich phase from oxygen attack. For this mechanism to be operative there is a need of a minimum volume fraction of 3, i.e., there must be a critical volume fraction of Ta rich phase to suppress the oxidation of Co. This critical 3-volume fraction seems to be between that found in Co-30Ta alloy (IOZ characterized oxidizes). The oxidation kinetics of Co-45Ta alloy at 800°C was found to be intermediate between linear and parabolic (slope of 0,8 on the dilog plot). This result reveals the greater aggressiveness of corrosion of Co-45Ta at 800°C when compared to the other test temperatures. A highest test temperatures (750 and 800°C) points out a considerable morphological difference between them, both for external and internal scales. At the lower temperature the external monolayer is comparison of Co-45Ta coupons oxidized at 700°C and at the two by the oxidation of both metallic phases) and Co-45Ta alloy (only 3 rate of Ta oxides is greater than that of Co oxides (what is normally
+
+essentially CoO whilst at the two highest temperatures it is Co3O4. Nevertheless it is not believed that only this difference should impose such distinct kinetics behaviour. A striking difference is also observed between the IOZ's; while for the coupon oxidized at 700°C it is only 5 µm thick, for the coupon oxidized at 800°C it is 42 µm thick. This large difference cannot be explained only in terms of different test temperatures, even though one assumes that the IOZ growing is controlled by inward diffusion of oxygen, which is a thermally activated process. It seems to be more reasonable to connect the more aggressive kinetics at 800°C to the nature of the external monolayer. being showed the same morphology of the alloy after oxidation at 800oC. This information could be interpreted as being contraditory, since it was expected for these two oxidation temperatures to produce 16 Co-45Ta oxidized at 750oC followed the parabolic rate law in spite of
+
+similar kinetics, in agreement to the observed similar morphologies. Nevertheless a careful examination of the Co-45Ta oxidation kinetics' with is more than the double of the one for 700oC. Apparently, the reveal that the parabola obtained at the temperature of 750oC has a kp oxygen diffusion through Co3O4 is much easier than through CoO.
+
+coupons the thickness of external layers are 13.5 and 16.6 µm, respectively, while for 700°C coupon it is only 6.3 µm. The literature data(11) states that the oxygen diffusion
+
+This conclusion is supported also by the fact that for 750oC and 800°C
+
+in CoO it is 8.8 x 10-4 exp (-287(kJ/mol)/RT) m2/s. This data for CoO there is no information as to the temperature range in which it is valid. However, if we assume that these values are valid at 800ºC, then the
+
+coefficient in Co3O4 is 2.4 x 1022 exp (-736(kJ/mol)/RT) m2/s while was determined in the range of 1,050°C to 1,300°C, while for Co3O4
+
+oxygen diffusion coefficients for Co3O4 and CoO would be 3.56 x 10-14 m2/s and 9.41 x 10-18 m2/s, respectively. This is in agreement with the above finding. 750oC and 800°C in substitution of CoO monolayer formed at lower consideration the Ta doping effects on cobalt oxides. The obtained activation energy calculated from the mass-gain data (Qp) for each studied alloys (Table 2) shows smaller values for progressively more Ta concentrated alloys, which means that the higher the Ta content the less sensitive to temperature is the alloy. The same analysis based on the activation energies calculated from the a bias, as shown in Table 4. average total scale thickness (Qt's) was not possible, due to the lack of The reasons for Co3O4 monolayer formation on Co-45Ta alloy at
+
+temperatures require more investigation. This study should take into
+
+(Qp's) of Co-15Ta and Co-30Ta alloys are close and their activation
+
+The activation energies calculated from the mass-gain data
+
+energies calculated from the average total scale thickness (Qt's) is reasonably close and about 33% smaller than Qp's. These results are in
+
+agreement with the morphological similarities displayed by the
+
+considered alloys when oxidized at the same temperatures. Although at the highest temperature Co-45Ta showed non-parabolic kinetics, the activation energy (Qp) was calculated based on the other four test 17
+
+temperatures and revealed a significantly smaller value compared to the two other alloys. The calculation of Qt for Co-45Ta alloy led to a according to Table 4. value extremely close to Qp, which is only 0.02% smaller than Qt, The observed similarities between Qp and Qt for Co-45Ta must
+
+be related to the nature of its internal scale, which is an IOZ. Depending on the oxidation temperature, the tested coupons formed an IOZ, which thickness corresponds to almost 70% of the total scale thickness. Differently, the HR thickness measured in Co-15Ta and Co30Ta alloys are never thicker than the corresponding external scale (i.e., HR thickness participates of less than 50% of the total scale thickness). Although thick, the contribution of the IOZ to the massgain of Co-45Ta alloy is not so significant as the one of the HR experimented by Co-15Ta and Co-30Ta, since only Ta is internally oxidized. The different nature of the internal scale formed in Co-15Ta and Co-30Ta (HR) and Co-45Ta (IOZ) determined the impossibility to correlate Qp and Qt in a comprehensive manner.
+
+Conclusions
+· ·
+
+· · ·
+
+All coupons, except the alloy Co-45Ta oxidized at 800°C, follow the parabolic rate law. The close activation energy values (both Qp and Qt) for oxidation of Co-15Ta and Co-30Ta alloys, as well as their similar morphologies, suggest the existence of a unique oxidation mechanism for these alloys. In the internal oxidation zone (IOZ) of Co-45Ta alloy only the Tarich phase suffers oxidation, while in the IOZ of the other two alloys both metallic phases are internally oxidized (HR). The different nature of the internal scale observed in Co-15Ta and Co-30Ta alloys (HR) in comparison to Co-45Ta (IOZ) preclude the correlation of Qp and Qt in a comprehensive manner. On Co-45Ta alloy oxidized at 600°C, 650oC and 700°C a CoO monolayer is formed, while on the alloy oxidized at 750oC and 800°C Co3O4 replaces this oxide. Moreover much thicker IOZ's are formed in the latters, which appears to be a consequence of the nature of their external monolayer. The authors are grateful to FAPESP for the funding of present
+
+Acknowledgments
+research (Process 95/0086-2). One of us (MCR) expresses his gratitude for his PhD (94/2249-3) and PosDoc (98/15742-0)
+
+18
+
+scholarships, granted by FAPESP. The valuable discussions with Prof. F. Gesmundo are greatly acknowlegded.
+
+References
+1. 2. 3. 4. 5. 6. 7. 8. 1985
+
+MROWEC, S.; PRZYBYLSKI, K.; Oxidation of Metals, 23, p107,
+
+KAI, W.; DOUGLASS, D. L.; GESMUNDO, F.; Oxidation of Metals, 37, p389, 1992 38, p422, 1987 EL-DAHSHAN, M. E.; HAZZAA, M. I.; Werkstoffe und Korrosion, Op. Cit. (3), APUD: VOITOVICH, R. F. (1966), p424. CASTRO-REBELLO, M; PhD Thesis, Escola Politécnica ­ USP (1999) (in Portuguese) CASTRO-REBELLO, M.; TENÓRIO, J. A. S.; WOLYNEC, S; Materials BAKER, H.; ed. "Alloy Phase Diagrams". Materials Park, Ohio, ASM International, 3, p149, 1992 CASTRO-REBELLO, M et al., Metalurgia e Materiais, 57, 516, p3,
+
+Science Forum Vols. 369-372, p157, 2001
+
+Materiais no. 1).(in Portughese) 9. 10. 11. 1995
+
+2001 (Caderno Tecnológico ABM ­ Engenharia e Aplicação de
+
+GESMUNDO, F.; NIU, Y.; VIANI, F.; Oxidation of Metals, 43, p379, BRADY, M. P. et al., Intermetallics, 8, p1111, 2000 KOFSTAD, PER.; "High Temperature Corrosion", Elsevier Applied Science, London & New York, pp99-100, 1988
+
+19
+

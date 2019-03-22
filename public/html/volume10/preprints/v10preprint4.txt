@@ -1,0 +1,448 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+Preparation of Some Nitrogen Containing Polymers / Copolymers for Corrosion Protection
+S. M. El-Sawy, Y. M. Abu- Ayana, and F. A. Abdel-Mohdy*
+National Research Center, Department of Polymers & Pigments. *Textile Research Division. Dokki, Cairo, Egypt.
+
+Keywords: anticorrosion, inhibitors, organic coating.
+
+Abstract:
+Nitrogen containing polymers / copolymers were prepared to act for corrosion protection.They are based on glycidylmethacrylate and or diethylamino­ ethylmethacrylate. Polymerization was carried out using benzoyl peroxide as initiator. The products were enriched in nitrogen through the reaction of the prepared polymers/ copolymers with different aliphatic and aromatic amines. Identification of the products was carried out by the use of elemental analysis, IR spectra, mass spectra and thermal gravimetric analysis. Small amount - 0.2% - of the prepared polymers / copolymers and the aminated products were incorporated in plasticized chlorinated rubber, applied on phosphate treated and untreated steel panels, tested and evaluated for corrosion prevention. High protective action was recorded for most of the tested coatings.
+
+Introduction:
+It is well known that unpigmented organic coatings that contain small concentrations of organic corrosion inhibitors are able to provide proper protective properties when applied to steel surfaces. According to the adsorption theory of corrosion inhibition, the primary step in the action of the inhibitor is chemisorption onto the metal surface. Chemisorption usually occurs through donation of electrons from a functional atom that contains a pair of unshared electrons available for donation. Most organic compounds that act for corrosion prevention are mixed inhibitors. The adsorption process is a general one occurring on both anodic and cathodic types of electrochemical sites (1). Chemisorption of an inhibitor depends upon several factors; among these factors are the molecular structure, coverage area, and, the electron donating ability of the inhibitor. A considerable number of recommended inhibitors such as nitrated petroleum oil, quinoline and its derivatives, vinyl pyridine
+ address corresponding to : Yosreya M. Abu-Ayana, E. mail: yosreya20 @ gmail.com.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 4 4 July 2006 and polyvinylpyridine and low molecular weight polyamides, etc. may be found in the literature (2, 5). To be fully effective all inhibitors require to be present above a certain minimum concentration. In many cases the corrosion that occurs with insufficient inhibitor may be more severe than in the complete absence of inhibitor (6). The aim of the present work is to prepare some polymers/ copolymers enriched with nitrogen and to study their action of corrosion prevention when used as inhibitors in organic coating for steel surfaces.
+
+Experimental
+Materials: Glycidyl methacrylate (GMA): was supplied by Fluka Chemie GmbH, Switzerland. Diethylaminoethylmethacrylate(DEAEMA): was supplied by Fluka Chemie GmbH, Switzerland. Ethylamine was obtained from (ADWIC) El-Nasr Pharmaceutical Chemicals Co., Egypt. Diethylamine was obtained from WINLAB, UK. Ethylene diamine: was obtained from S.d. fine ­ CHEM. Ltd ­ India. Aniline was product of Aldrich Chemical Co. Inc. Chlorinated rubber and its plasticizer were obtained from Hoechst A.G., Germany; other used chemicals were of laboratory grade. Copolymerization: Glycidylmethacrylate and diethylaminoethyl methacrylate monomers were distilled before polymerization. Polymerization was carried out by using benzoyl peroxide as initiator (7). Amination(8): Poly(GMA) and (GMA-DEAEMA) copolymers were first grinted then reacted with an aqueous solution of the amine in stoppered glass bottle using amine / epoxy molar ratio 2.5: 1 and a material to liquor ratio 1: 3. Ethylamine, diethylamine, ethylenediamine, and aniline were used for the amination process. The reaction was carried out in a thermostatic water bath at 80°C for 3h. The sample was then thoroughly washed with ice-cold water, followed by acetone and then was dried at 50ºC, and finally was dried over P2O5 for 24 h before analysis.
+
+2 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Analysis:
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+- The extent of amination was traced by determining the nitrogen content (N%). Elemental analysis was carried out by the Organic Microanalysis Section, National Research Center, Cairo, Egypt. - IR spectra was recorded on potassium bromide pellets on Shimadzu-440 Infrared Spectrophotometer. The mass spectra was performed by Shimadzu-GC-MS-QP 100 Ex (Shimadzu, Japan). - The thermogravimetric analysis was carried out at a temperature range of 301000ºC under nitrogen atmosphere with heating rate of 10ºC/ min. using Perkin-Elmer thermal analysis system.
+
+Varnishes preparation: Chlorinated rubber was dissolved in a solvent mixture of xylene, butyl acetate and turpentine.Chlorinated paraffin was added as plasticizer in the ratio of 3:1. The prepared nitrogen-rich compounds were added in the ratio of 0.2 % based on the weight of the plasticized chlorinated rubber and then used as varnishes. The resulting varnishes were thoroughly mixed and adjusted to the suitable viscosity before application. Blank formula of plasticized chlorinated rubber was used for comparison(9).
+
+Application and testing: Two coats of the varnishes prepared in the above method were applied by brush on untreated and phosphate treated steel panels, successive coats were not applied until the proceeding coat had dried. The brushing was done so that a smooth coat ­ as uniform in thickness as possible ­ was obtained without leaving brush marks, runs or sages. Wet coated panels were protected against damage from dust or other foreign matter as much as possible. Tin and glass plates were also coated (one coat) and left for complete drying before testing. Dry coated panels were then tested and evaluated for their physicomechanical, chemical and corrosion protective properties, according to the following standard methods: Preparation of steel panels: ASTM D 609 73 (reapproved 1980). Preparation of phosphate treated steel panels: SSPC PT 4 64. Preparation of glass panels: ASTM D 3891 80
+3 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 4 4 July 2006 Preparation of tin panels: Steel Structures Painting Manual Vol. 1, 2nd edition, Method 2012 (1958) p. 140. Dry film thickness. · On steel panels measured by elcometer. · On glass plates measured by Erichsen thickness gauge. Hardness of the films: was measured at 50m using Konig Pendulum Hardness tester: DIN 53 157. Adhesion: ASTM D 3359 74. Ductility: The cupping test machine was used: DIN 53 156 Water resistance test.(9) Organic solvent resistance (9). Acid resistance: A solution of 20% HCl was used: ASTM B 287 74 . Alkali resistance: A solution of 5%NaOH was used: ASTM D1647 70. Filiform corrosion resistance: ASTM D 2803-82 (1987). Corrosion scratch test: Egyptian standard specification ES ­ 823 ­ 66. Degree of blistering: ASTM D 714 56 (reapproved 1987). Degree of rusting under the film: ASTM D 610-85. All the corrosion tests were carried out using coating film thickness 60-70m.
+
+Results and discussion:
+Polymerization and amination reactions took place according to reactions suggested in scheme 1 and scheme 2 respectively, they were followed and the structure of the product was confirmed by different analytical methods.
+
+CH3
+
+CH3
+
+4 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 CH2 = C C=O O CH2 CH O CH2 GMA CH3 CH2 = C C=O O (CH2)2 N C2H5 C2H5
+
+Volume 10 Preprint 4 CH2--C C=O O CH2 CH O CH2 Poly- GMA CH3 CH2 C C=O O (CH2)2 N C2H5 C2H5 n n
+
+4 July 2006
+
+DEAEMA CH3 CH2 = C C=O O (CH2)2 N C2H5 C2H5 + CH3 C = CH2 C=O O CH2 CH O CH2 GMA
+
+Poly-DEAMA CH3 CH2 C O (CH2)2 N C2H5 C2H5 O=C CH3 C O CH2 CH O CH2 CH2 n C=O
+
+DEAEMA
+
+DEAEMA / GMA ­ copolymer
+
+Scheme 1
+
+5 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 CH3 CH2 C C=O O CH2 CH O CH2 Poly- GMA CH3 H2C C O=C O (CH2)2 N C2H5 CH3 C CH2 n n +
+
+Volume 10 Preprint 4 RH CH2
+
+CH3 C C=O O CH2 CH CH2
+
+4 July 2006
+
+n
+
+OH R
+
+Aminated poly- GMA CH3 + RH H2C C O=C O (CH2)2 N O C2H5 C2H5 CH2 CH3 C CH2 n
+
+C=O O CH2 CH
+
+C=O O CH2 CH--OH R
+
+C2H5 CH2
+
+DEAEMA / GMA copolymer
+
+Aminated DEAEMA / GMA copolymer
+
+R= R= R= R=
+
+HNC2H5 N (C2H5)2 HN CH2 CH2 NH2 HN C6H5
+
+ethylamine diethylamine ethylenediamine aniline
+
+Scheme 2
+
+The proposed structure of poly- GMA (I) was demonstrated by the following data:
+6 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 4 4 July 2006 i. IR measurement which displayed bands at 2900 & 2850 (C-H aliphatic), 1720 (C = O) and 1140 &1200 (C ­ O). ii. Mass spectrum afforded fragmentation m/z at 157 (10.68%) 129, (22.82%) and a base peak at 69 corresponding to the cation
++ [ H3C ­ C ­ CH2 ]
+
+C=O The structure of DEAEMA / GMA ­ copolymer (III) was confirmed by: i. Correct elemental analysis TableI. ii. IR spectrum given in Fig. 1, it showed bands at 2900 & 2850 (C ­ CH ­ aliphatic), strong band at 1720 (C = O) and 1150 & 1260 (C ­ O). iii. Mass spectrum Fig. 2 exhibited a base peak at m/z (86),which was correspondO -ing to the cation [CH3  C C  O --]
+
++
+
+and other significant peaks were
+
+CH2 observed at 157 (3.2%), 142 (2.34 %) and 57 (23.85%). The assigned structure of the aminated copolymer III1 was followed up by : i. Satisfactory elemental analysis Table I. ii. IR spectrum revealed bands at 3400 ( 4N/OH) 2900 & 2800 [ CH ­ aliphatic] , 171 (C = O) and 1125 & 1280 ( C ­ O). iii. Mass spectrum showed a base peak m/z at 58 [ CH2NHC2H5] The structure of the aminated copolymer III2 was demonstrated by: i. Correct elemental analysis Table I. ii. IR spectrum exhibited bands at 3420 (OH), 2900 (CH ­ aliphatic), 1720 (C = O) and 1160 (C ­ O). iii. Mass spectrum afforded base peak m/z at 86 [ CH2N(C2H5)2] and other peaks were observed at 100 (5.0%), 130(1.4%) and 216 (0.42%). The structure of copolymer III3 was established on the bases of: i. Correct analytical data TableI. ii. IR spectrum showed broad band at 3400 [ H2N/OH] 2900 & 2850 (CH ­ aliphatic), 1730 (C = O) and 1160 (C ­ O).
+
++
+
+CH
+
++
+
+7 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 4 iii. Mass spectrum exhibited a base peak m/z at 86 [CH2NH(CH2)2--NH2] 73(2.04%).
+
+4 July 2006 and
+
+the following peaks, 87(8.43%), 100(5.50%), 117(9.74%), 185(1.50%) and The structure of the copolymer III4 was readily demonstrated on the bases of analytical and spectral data: i. IR spectrum afforded absorption bands at 3400 [ HN/OH , 2950 & 2900 (CH-aliphatic), 1740(C = O) and 1160 & 1260 (C ­ O). ii. Mass spectrum appeared a base peak m/z at 86 [ H2C--N(C2H5)2] and other significant peaks were observed at 58 (19.27%), 77(2.5%), 93(5.09%), 100(4.17%), 149(1.07%), and 186 (0.28%).
+
+Thermal analysis: Study of the thermal properties of the prepared compounds was carried out by thermogravimetric analysis of copolymer III, the test data were shown in Fig. (3&4). It was clear that the copolymer had three decomposition regions. The first region started from 50 ºC and ended at about 160 ºC with loss in weight about 5%; this loss may be due to the evaporation of the moisture and untreated amine or trapped monomer present in the sample. Loss in weight increased by increasing the heating temperature. This loss in weight was attributed to the actual pyrolysis by minor decomposition reaction. The decomposition of this sample began at 160 ºC (minor decomposition temperature) and reached its maximum rate at major decomposition reaction at 425 ºC with weight loss 86 wt.%. Beyond this temperature the rate of weight loss decreased continuously due to the sample char forming mechanism.
+
+Varnish test results Different corrosion protective varnishes were abtained by incorporating the prepared polymers/ copolymers and their aminated products in small portion (0.2%) as adducts into plasticized chlorinated rubber. It is known that chlorinated rubber has an excellent resistance to wide range of chemicals and water, but as it is extremely brittle it needs to be plasticized to insure elasticity, flexibility, and adhesion; as a result the film becomes less brittle and has less tendency to crack. To preserve chemical resistance it was necessary to use inert plasticizer such as chlorinated paraffin (10).
+
+8 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 4 4 July 2006 The formed varnishes were then applied to clean phosphate treated and untreated steel panels, tested and evaluated for corrosion prevention. Blank formula (B) free from any adduct was used for comparison. BI, BII, BIII, BIV& BV were the symbols given to the varnishes containing adducts of the prepared polymers/ copolymers before amination, and the numbers 1 ­ 4 indicated the type of the amine used in the amination process. Amination was carried out using 1- ethylamine 3- ethylene diamine. 2- diethylamine 4- aniline.
+
+Examination of the test data of the formulated varnishes given in Table II showed that, generally addition of 0.2% of any of the prepared adducts to plasticized chlorinated rubber caused an obvious increase of the hardness of the resulting films and consequently a decrease of ductility. High adhesion was also recorded for the resulting films except varnish BI, very bad adhesion, outstanding increase of hardness and low ductility were noted, this was in comparison with the blank B. All formulated varnishes were of poor organic solvent resistance but they showed high acid and alkali resistance. Corrosion test data for untreated steel panels coated with the prepared varnishes in comparison with the blank were given in TableIII and Fig. 5 (a), they revealed that: Formula BI was not able to offer any protection owing to its poor film adhesion. It was probably suitable to make it more clearly on considering that the adsorption of the inhibitor polymer to the steel interface may be strong but the intermolecular attractive forces with the main layer of the coating was weak, that may lead to cohesive failure between the adsorbed layer and the bulk of the film. On the other side corrosion protection offered by varnishes containing the prepared polymers/copolymers-other thanBI-before amination could be arranged in the following sequence: BIV BIII >BII > BV. Amination of the prepared polymers/copolymers gave rise to the formation of enriched nitrogen compounds of higher protective properties. The efficiency of protection differed according to the type of the used amine with best results on using ethylene diamine and aniline. The prepared compounds may act for corrosion protection via the surface active N&O atoms that contain pair of unshared electrons available for donation to the metal to form a chemisorptive bond. The other hydrocarbon side of the molecule may orient away from the interface, so that further protection was provided by the
+9 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 4 4 July 2006 formation of a hydrophobic net-work which excluded water and aggressive ions from the metal surface corrosion even in the scratch. The presence of adsorbable repetitive atoms improved the inhibition effectiveness (6, 11) and thus when amination took place by the use of ethylene diamine better protection was obtained than on using the corresponding monofunctional aliphatic amines. Higher protective properties were obtained on using adduct III & IV and their aminated derivatives this may be due to difference in the adsorption configuration. They may be adsorbed in flat configuration parallel to the surface, and thus possesed high coverage area; while adsorption in vertical configuration may give rise to lower surface coverage area. Adduct V and its aminated products V1 & V2 showed pitting corrosion. Pitting initiated when there was a critical ratio in the surface coverage of aggressive to inhibitive ions (1, 6). Excellent protective properties were obtained for the prepared varnishes when tested for corrosion protection of steel panels immersed in tap water as shown in Table IV and Fig.5(b). Corrosion test data of phosphate treated steel panels coated with the same varnishes under investigation, and immersed in salt water showed outstanding protective properties as illustrated in Table Vand Fig.5(c). The coating films adhered tenaciously to the substrate, even round the scratch and no sign of corrosion could be observed under the coating films at the end of the immersion test. This outstanding protective properties will be more clear if we spot light on the fact that phosphate treatment of steel surfaces produce a strongly adherent, corrosion inhibiting heavy crystalline conversion coating layer; this layer provide a better surface than the original one for obtaining good adhesion of the organic coating layer(12,13).
+(11)
+
+, most of the tested panels showed no
+
+Conclusion:
+
+10 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 4 4 July 2006 · Addition of the prepared nitrogen containing compounds to organic coating based on chlorinated rubber could provide adhesion of a chemical type, due to actual charge transfer or charge charring, which was irreversible, and more persistant than the physical adhesion type that offered by electrostatic forces when chlorinated rubber was used alone, and thus better corrosion protection could be obtained. · · The molecular structure of the inhibitor influenced the adsorbability and correspondingly the effectiveness of corrosion inhibition. Phosphate surface treatment of steel aided much the purpose of inhibiting corrosion and improving the adhesion and performance of the applied organic coatings.
+
+11 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+Table (I): Nitrogen content of the prepared compounds
+Copolymer GMA : DEAEMA (mole : mole) Before treatment Nitrogen content N% calculated found 7.57 5.06 3.52 1.86 00 7.57 5.00 3.50 1.84 00 Treatment with ethylamine (1) Nitrogen content N% calculated found 7.53 7.51 7.50 7.48 6.17 3.32 3.49 5.60 Treatment with Treatment with diethylamine (2) ethylenediamine (3) Nitrogen content Nitrogen content N% N% calculated found calculated found 7.10 6.89 6.69 6.51 6.35 3.17 3.91 5.45 10.21 11.47 12.68 13.86 6.99 6.04 8.40 9.09 Treatment with aniline (4) Nitrogen content N% calcula found ted 6.82 6.51 6.22 5.95 7.90 5.59 3.35 5.48
+
+I) 0 II) 4 III) 6 IV) 8 V) 10
+
+: : : : :
+
+10 6 4 2 0
+
+12
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+Table(II) : Physicomechanical and chemical test data of the formulated varnishes.
+Test B Adhesiona Hardnessb Ductilityc Test B(IV) Adhesiona Hardnessb Ductilityc Gt0 138 5.8 IV(1) Gt0 132 5.9 IV(2) Gt0 136 5.8 Gt0 75 6.7 B(I) Gt4 316 3.2 B(II) Gt0 146 6.1 Formula number II(1) II(2) II(3) Gt0 156 5.8 Gt0 152 6.0 Gt0 144 6.1 II(4) Gt0 162 5.6 BIII Gt0 160 6.1 III(1) Gt0 154 5.8 III(2) Gt0 140 5.9 III(3) Gt0 151 5.8 III(4) Gt0 167 5.8
+
+Formula number IV(3) IV(4) B(V) Gt0 136 5.8 Gt0 137 5.5 Gt0 164 5.6
+
+V(1) Gt0 155 5.6
+
+V(2) Gt0 150 5.4
+
+V(3) Gt0 132 5.8
+
+V(4) Gt0 141 5.5
+
+Note: a =Gt0 indicate that the cut edges are completely smooth and no part of the coating has been chipped off and Gt4 indicates that the coating has been chipped off (along the cut edges) in wide strips, and the chipped area is about 65 per cent or more; b = The damping of the pendulum will increase with increasing softness of the coating to be tested. The reference value is the time in seconds expressed as a damping period, which the pendulum requires to slow from the initial value to a lower value; c = Ductility (deformation) of a coat film determines the depth of a dent (mm) in the coating system, at which the coating tears or flakes;
+
+13
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+Table(III):Corrosion test data of the formulated varnishes applied on steel panels and immersed in sea water(for28days)
+Test B Corrosion tests in sea water: Filiform corrosion resistance1 Degree of blistering2 Corrosion resistance (degree of rusting Under the film)3 Test B(IV) Corrosion tests in sea water: Filiform corrosion resistance1 Degree of blistering2 Corrosion resistance (degree of rusting Under the film)3 IV(1) B(I) B(II) Formula number II(1) II(2) II(3) II(4) BIII III(1) III(2) III(3) III(4)
+
+1F 10
+
+10D 0D
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+7
+
+0D
+
+10**
+
+10**
+
+10**
+
+10*** 10*** 10** B(V) V(1) V(2)
+
+10* V(3)
+
+10* V(4)
+
+10*
+
+10*
+
+Formula number IV(2) IV(3) IV(4)
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1F 10 8+
+
+1 10 9+
+
+1 10 9+
+
+1 10
+
+1 10
+
+10**
+
+10*
+
+10*
+
+10*
+
+10*
+
+10*
+
+10*
+
+Note: 1 = Filiform corrosion was graded on a scale of 1 to 10, with 10 representing highly directional filiform corrosion, and 1 representing none. Corrosion frequency is represented by F, M, MD, and D (few, med., med.-dense, and dense); 2 = Blistering is graded on a scale from 10 to 0, with 10 for no blistering and 0 for the largest blisters. Blister frequency is denoted by F, M, MD, and D(few, med., med.-dense, and dense);
+= Corrosion resistance is the ability of a coating to protect an iron substrate from rusting, when rated on a photographic scale of 10 to 0. 10 indicates no rust, and 0 indicates severe rusting; * = clean bright surface. ** = clean unbright surface.*** = clean surface with the presence of bright & unbright spots ; + = pitting
+3
+
+corrosion of small size.
+
+14
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+Table (IV): Corrosion test data of some formulated varnishes immersed in tape water (for28days).
+Test Blank Corrosion tests: Filiform corrosion resistance1 Degree of blistering2 Corrosion resistance (degree of rusting Under the film)3 Formula number B(I) II(3) III(3) IV(3) V(3)
+
+1 10
+
+10 10
+
+1 10
+
+1 10
+
+0 10
+
+1 10
+
+8
+
+5
+
+10*
+
+10*
+
+10*
+
+10*
+
+15
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+Table (V): Corrosion test data of some formulated varnishes applied on phosphate treated steel panels:
+Test Blank Corrosion tests in sea water: Filiform corrosion resistance1 Degree of blistering2 Corrosion resistance (degree of rusting Under the film)3 Formula number II(3) III(3) IV(3) V(3)
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+Corrosion tests in tape water: Filiform corrosion resistance1 Degree of blistering2 Corrosion resistance (degree of rusting Under the film)
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+1 10
+
+10
+
+10
+
+10
+
+10
+
+10
+
+17
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+References:
+1. E. Mc Cafferty ; "Mechanisms of corrosion control by inhibitors." Meeting on corrosion control by coatings, November, at Lehigh University, Bethlehem, Pennsylvania (1978). 2. M. Svoboda, and J. Mleziva; "Properties of coatings determined by anticorrosive pigments." Progress in organic coatings, 12, pp.251 ­ 297(1984) 3. E. M. Agres, and A. I Aleybeyeva, 2nd Corrosion conference Socialist Countries, Prague , Vol. 7, pp. 1771, (1975). 4. V. Carassiti , G. Trabanelli, and F. Zucchi, , 2nd European Symp. On Corrosion Inhibitors; Univ. Ferrara, 22, pp. 417 ­ 448(1965). 5. A. D.Mercer, Test Methods for Corrosion Inhibitors; Br. Corros. J. , 20, pp. 61 ­ 70, (1985). 6. L. L. Shreir, R. A Jarman. and G. T. Burstein; Corrosion, Butterworth, Heinemann Ltd., Oxford, 3rd edn, Vol.2, chap. 14, & 17(1994). 7. A. Strepikheyer, V. Derevitskaya and G. Slonimsky; "A First Course in Polymer Chemistry"; MIR Publishers, Moscow, (1971). 8. M. I Khalil.; A. Waly ; S. Farag and A. Hebeish;, "Preparation and Characterization of Anion ­Exchange Starches.", Starch,Vol.43, No.9, pp. 349 ­ 355, (1991). 9. A. Gardener and G. Sward ; " Physical and Chemical Examination of Paints, Varnishes, Lacquers and Colours", 12thed.,Gardner Laboratory, Inc., Bethesda, MD, (1962). 10. J. D. Keane; "Steel Structures Painting Manual", Published by steel structures painting council, 2nd edition, vol.1, pp. 74 & 130 (1973). 11. Jr. Henry Leidheiser , "Corrosion Control by Coatings", Science Press, Princeton, USA, pp.29 ­ 34, 279 ­ 324 (1979). 12. R. M. Burns and W. W. Bradley; "Protective Coatings for Metals", Reinhold Publishing Corporation, USA, Chap. 2, p. 27 ­ 55(1967). 13. B. A. Cooke, "Aspects of Metal Pretreatment before Painting", Proc. IX, Int. Conf. Org. Sci. and Tech., Athens, pp.29 ­ 46 (1983).
+
+18 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+Fig. 1 : Infrared absorption spectra of copolymer III.
+
+Fig 2 : Mass spectra of copolymer III.
+19 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+Fig. 3 : Thermal gravimetric analysis of copolymer III.
+
+Fig. 4 : TG curves of copolymer III.
+
+20 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+Fig. (5): Corrosion test results of formulated varnishes. (a) Applied on steel surface and immersed in salt water.
+
+21 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 4
+
+4 July 2006
+
+(b): Applied on steel surface and immersed in tap water.
+
+(c) : Applied on phosphate treated surface and immersed in salt water.
+
+22 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

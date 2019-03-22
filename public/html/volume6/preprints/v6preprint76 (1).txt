@@ -1,0 +1,226 @@
+Volume 6 Paper H021 Laser forming : A High Performance Alloy Component Manufacturing Technology for Corrosion Resistance in the 21st century.
+S Mahapatra*, A S Khanna* and A Gasser**
+
+*Corrosion Science and Engineering, Indian Institute of Technology Bombay, Powai, India-400076. **Fraunhofer Institute for Lasertechnik Aachen, Germany
+
+Abstract
+The fabrication of metal components is the backbone of the modern manufacturing industry. Laser forming is combination of five common technologies: lasers, computer-aided design (CAD), computer-aided manufacturing (CAM), and powder metallurgy. The resulting process creates part by focusing an industrial laser beam onto a flat tool work piece to create a molten pool of metal. A small stream of powdered alloy By moving the laser beam back and forth and tracing out a pattern determined by a CAD, the solid metal part is built--line by line, one layer at a time. By this method, a material having a very fine microstructure due to rapid solidification process can be produced. In the present work, the corrosion behaviour of the material is studied and main emphasis is given on the high temperature oxidation, sulfidation and hot corrosion resistance. These studies were done after characterizing the formed component in terms of their microstructure. The mechanical properties of the formed samples were also studied. Finally the high performance of the formed alloys was confirmed after the above studies. is then injected into the melt pool to increase the size of the molten pool.
+
+Introduction
+
+Laser forming or laser assisted direct metal deposition refers to the additive layered manufacturing technology for building components from a computer-aided design (CAD) model. Metal powders, injected into the laser focal zone, are melted and then re-solidify into fully dense metal in [#ref1,2,3,4]. Fabrication proceeds by moving the work piece, thereby building the structure line by line and layer by layer as shown in Fig 1. During fabrication, a complex thermal history is experienced in different numerous lower temperature thermal cycles. Functionally regions of the component. These thermal histories include remelting and the wake of the moving molten pool created by the laser beam
+
+graded
+
+compositions can be created within three-dimensional components to vary the properties to match localized requirements due to the service environment. The technology offers the designer a rapid prototyping capability at the push of a button. Parts are deposited with a surface roughness of 10µm, making a secondary finishing operation necessary texture [#ref5].
+
+for some applications to achieve high accuracy and polished surface
+
+Kreicher et al[#ref6], have processed direct metal deposition of 316SS and Alloy 625. In 316SS full metal density, increased tensile strength (85%) and ductility by 30% have been achieved as compared to that of the conventionally processed material. Similar trend was observed for Alloy 625[#ref7]. On the other hand laser formed alloys produced by adding Cu and Al in stainless steel helped in increasing thermal conductivity of the steel but the yield strength was less than that of 316SS. This was due to the presence of microcracks in the clad. The structure was found to break by brittle fracture[#ref8]. Khanna et al [#ref9] studied the high temperature corrosion behavior of the alloys formed using this method at three different temperatures 750, 850 and 900°C. Arcella et al[#ref9], in a similar way made several titanium components using laser forming.
+
+Experimental
+
+2
+
+Powder Properties The Alloy 718 powder used in the fabrication of samples was 40-60 µm in size and had the following elemental composition (wt%). Ni
+Bal
+
+Cr
+19.34
+
+Fe
+17.83
+
+Al
+0.36
+
+Ti
+0.94
+
+Mo
+3.13
+
+C
+0.06
+
+Si
+0.31
+
+Nb+Ta
+4.55
+
+Laser shutter, XY table, powder feeder was controlled simultaneously in order to feed desired powder to clad the designed pattern. Once one XY plane of a layer is cladded, a Z-axial elevator is moved up the substrate mixed in a carburetor, and then side fed into melt pool with a lateral nozzle as shown in Fig 1. Cladding tracks are fixed. The following analysis were used in comparing the specimens resulting from laser forming with those conventionally prepared[#ref10,11] Micro-hardness testing for selected samples Microstructure and porosity evaluation for all samples Scanning Electron Micrography of the formed samples EDX analysis to see the composition variation between the
+
+with a predefined layer thickness. Powders were transported by tubes,
+
+conventional alloy and the formed alloy XRD pattern to show the presence of phases Oxidation behaviour of the formed alloy and characterization of the oxide layer Sulphidation behaviour of the formed alloy and its characteristics Mechanical properties includes tensile testing of the formed alloy
+
+Results
+
+3
+
+Characterization Studies between
+
+Microhardness Testing :
+250-350 HV.
+
+Overall the hardness was found to be are many factors that affect the
+
+There
+
+microhardness within the samples. These factors include locations within region has lower values for hardness in comparison to other region, lower hardness is expected since the interface region is essentially re-melted and re-heated atleast twice. When the underlying cladding is cladded to build next layer, it is re-melted, annealed or heat-treated and therefore, loses some of its hardness. The material is hardest at the top surface and becomes softer towards the bottom of the sample. The bottom layers were softer than top layers because they had a longer temperature history, as layers of cladding were added to the sample, the previous layer were heated up again giving them time to slightly anneal each time.
+
+the samples tested and changes in the process parameters. The interface
+
+electrolytically in 5% oxalic acid. The microstructures were recorded using an optical microscope. The same method was applied to analyze a crosssectional image of the formed samples to determine the amount of porosity. However, a small percentage of porosity observed in a few samples could be due to uneven power density distribution as the clad gets thicker. The microstructural feature for the conventional alloy 718 and that of laserformed alloy is compared (Fig 2). The local solidification conditions which are commonly encountered during laser forming lead to a dendritic morphology compared to many conventional casting process where a large fraction of equi-axed grains are present. The solidification morphology in the clad is rather columnar. A part made by the laser forming is composed of multiple single track cladding passes, each cladding pass is composed of interfaces and columnar grain regions [#ref12]. The interface region is area where the laser re-melts and/or reheats the substrate material and begins to add the new cladding material. This will result in heat -treating the existing
+
+Microstructure and porosity analysis:
+
+All samples were etched
+
+4
+
+grains, allowing the grains to grow. Above the interface, the grains are more columnar as a result of directional cooling and are aligned with the largest temperature gradient during cooling because heat is flowing out of the clad towards the substrate material. The grains or primary dendrites, are long, slender and perpendicular to the interface [#ref13].
+
+Scanning Electron Micrography/EDS of the formed samples: EDAX
+powder, the deposit and the conventional alloy. There is a slight variation analysis showed a cast layered structure with negligible porosity and smooth surface .
+
+results show that there is not much variation in the composition of in composition of Al which is reduced in laser formed alloy 718. SEM
+
+The phases observed are Nb2O5(110), ZrO2(200), Cr,Ni(210), Al2O3, main phase present in superalloys as ' precipitate. Ni3Mo(121). Additional phases like Ni3(Ti,Al) were also found which is the
+
+XRD Analysis: XRD analysis revealed the formation of certain phases.
+
+Formation of
+
+complex compounds were observed on the surface of the laserformed alloy on the as prepared samples, however, these precipitates did not appear in the XRD pattern after polishing the as formed samples. Oxidation Behaviour at 950°C for 1000h. The plot of time of exposure v/s weight change in gm/cm2 can be seen in Fig 3. The oxide layer surface was also seen under scanning electron microscope to see the morphology for both the oxide layers (Fig 4). The XRD results show presence of some oxides and alloys shows similar peaks indicating similar oxidation behaviour. Sulphidation The samples after polishing up to 600 grade silicon carbide polishing paper were kept in SO2+O2 environment at a temperature of 750°C for 600h.The sulfidation kinetics were studied and the plot of time of exposure v/s weight change in gm/cm2 can be seen in Fig 5. The SEM micrographs of the sample were taken to observe the scale formed 5 The polished samples of size 1x1cm2 were kept in a furnace maintained
+
+intermetallics compounds. However, the oxide layer formed on both the
+
+during sulphidation (Fig 6). The results show that both the conventional as well as laser formed alloys show almost similar XRD pattern.
+
+Mechanical Properties The tensile tests were carried out using a tensile machine of Instron Model 1195 and the yield strength and ultimate strengths were recorded. During the tensile testing, the stress was applied in both longitudinal as well as transverse direction of layer formation. The yield strength and ultimate tensile strength of the laser formed alloys (550MPa and 840MPa respectively respectively for for longitudinal transverse direction direction) and were 500MPa and comparable with 700MPa the
+
+corresponding values of 500MPa and 1260MPa for the annealed wrought alloy. Percent Elongation for the laser formed and the wrought alloy was found to be 11%. The values of the yield strength and ultimate tensile samples are shown in Fig 7. With the above encouraging results, a CAD model (using Pro/Engineer software) of the actual turbine blade was designed. The programme used for the model was converted into .stl file and then implemented in the process. The half way blades fabricated using the same model were cut and analyzed for microstructure, composition and hardness which are found to have nearly same properties as that of the simple rectangular trial specimens. strength can be seen from table 1. The SEM micrographs of the fractured
+
+Conclusion
+The above results analysis shows that laser forming is a promising technology to develop some advanced alloys. The present work is to establish the microstructure and composition of the laser formed alloy. It appears that the laser formed alloy has similar structure as that of conventional wrought alloy with some additional peaks formed as a result 6
+
+of the oxidation of active alloying elements. The ability to laser form structures in 3-D shapes directly from electronic CAD representations, without molds or dies (i.e., with minimal non-recurring costs), has vast implications for the costs of many complex structures. Therefore, it can be concluded that laser forming is a versatile technique manufacturing properties. near net shape critical component with for
+
+improved
+
+References
+Ref1 L J. Li and J. Mazumder, 'A study of the mechanism of laser cladding Metzbower and S.M Copley, ASM, 1983.
+
+processes', Applications of Lasers in Material Processing, by E A
+
+Ref2 J Gerken, H Haferkamp, H Schmidt, 'Rapid Prototying/manufacturing
+
+Processing at Aachen, Germany, Page 85-90, 1995
+
+of metal components by laser cladding', Symposium on Laser Material
+
+Ref3 M. Gauman, S Henry, F. Cleton, J. D Wagniere, W Kurz, "Epitaxial
+
+Engg, A271 pp 232-241 1999.
+high temperature corrosion
+
+laser metal forming: analysis of microstructure formation", Mat Sci. &
+
+Ref4 A.S Khanna, Streiff, R. Critical issues in laser surface alloying to form components, Materials Science Forum, Volume 369-372, Part 2, Pages 767-774, 2001 resistant alloys and near net shape
+
+Ref5 J.G Conle, Marcus, H.L. Rapid prototyping and solid free form
+
+fabrication, Transactions of the ASME. Journal of Manufacturing Science
+
+and Engineering, Volume 119, Issue 4B, Pages 811-816, 1997
+
+Ref6 D.M Keicher, Smugeresky, John E, 'Laser forming of Metallic Pages 51- 54, 1997. Components using Particulate Materials' , JOM Volume 49, Issue 5, May,
+
+Ref7 G K Lewis, Thoma D J, Milewski J O, Nemec R B. "Near Net Shape
+
+Processing of Metal Powders using Directed Light Fabrication", Advanced 7
+
+Meeting, Hawaii, 13-15 Dec, 1995. Ref8 Srikanth
+
+Materials and Technology for 21st century, J. Inst Metals, 1995 Fall Anual
+
+Manufacturing Processes, Vol 13, No. 4, 537-554, 1998.
+
+"Characteristics
+
+of
+
+Sankarnarayanan,
+
+Laser-Fabricated
+
+Wen
+
+Metal
+
+Guo,
+
+Structures",
+
+and
+
+Aravinda
+
+Mat.
+
+Kar,
+
+and
+
+Ref9 Sujata Mahapatra, A S Khanna and A gasser "Characterization, oxidation and Sulphidation Resistance of UNS 7718 superalloy fabricated 10, 2002. Ref10 E.John Smugeresky, D.M Keicher, Lasers in Surface Engineering, Narendra B.Dahotre, Surface Engineering Series, (ASM International, Materials Park, OH, 1, p505, 1998 Ref11 A.S Khanna and K Sridhar, Lasers in Surface Engineering, Narendra by laser forming process, NACE International, Corrosion/2002 (USA), pp.
+
+B.Dahotre, Surface Engineering Series, (ASM International, Materials Park, OH, 1 p395, 1998
+
+8
+
+Fig 1 The schematic of the laser forming process.
+
+(a)
+
+(b)
+
+Fig 2 The microstructure of (a) Inconel 718 (Conventional) and (b) Inconel 718 (Laser formed) as seen under optical microscope.
+
+9
+
+Conventional 718 alloy
+
+Laser formed alloy 718
+
+Fig 3 Plot of weight change v/s time after oxidation at 950°C for 1000h.
+
+(b) Fig 4 SEM microgcraphs showing the oxidised samples of (a) conventional and (b) laser formed alloys (oxidised at 950°C for 1000h)
+
+(a)
+
+10
+
+Conventional 718 alloy
+
+Laser formed alloy 718
+
+Fig 5 The plot of time of exposure v/s weight change in gm/cm2 after sulfidation at 750° for 600h.
+
+(a)
+
+(b)
+
+Fig 6 SEM Micrographs showing sulfidation scale in (a) conventional and at 750°C.
+
+(b) laser formed sample after 600 h of exposure in SO2+O2 environment
+
+11
+
+(b) (a) Fig 7 SEM micrographs showing the fractured samples from both the direction of stresses (a) longitudinal (b) transverse.
+
+Table 1 Mechanical Properties of the laser formed Inconel 718. Sample Name A1 (along the layers) A2 (Heat treated) B1(Perpendicular to layers) B2 (Heat treated) Yield Strength (MPa) 461 (400-1180) 603 416 306 UTS (MPa) 748 (800-1360) 1051 689 370 Elongation (%) 22 11 11 5
+
+12
+

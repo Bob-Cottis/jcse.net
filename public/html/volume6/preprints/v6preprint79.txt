@@ -1,0 +1,133 @@
+Volume 6 Paper H024
+
+CHARACTERISATION OF MOLTEN GLASS CORROSION BEHAVIOUR BY USE OF ELECTROCHEMICAL TECHNIQUES
+B. Gaillard-Allemand, A. Littner*, R. Podor, C. Rapin, M. Vilasi
+
+Laboratoire de Chimie du Solide Minéral, UMR7555, UHP-Nancy I, 54506 Vandoeuvre-Les-Nancy, France, littner@dechema.de*
+
+Abstract
+Multivalent systems of nickel, molybdenum and tellurium have been studied at high temperature in molten glasses between 1273 and 1623 K. Electrochemical methods such as polarisation curves, cyclic and square wave voltammetries have been mainly used. Te is characterised by only one electroactive system, Te+IV/Te0. The diffusion coefficient of the Te+IV species has been found to be equal to about 2.5x10-7 cm².s-1. Concerning molybdenum, two oxidation states have been formation of silicides (MoxSiy) layers having a weak efficiency as pointed out, Mo+VI and Mo+III. Polarisation of Mo electrodes led to the
+
+protective coating. This revealed the necessity for MoSi2-base
+
+materials to be improved for molten glass applications. The results of the electrochemical study of nickel have been interpreted based on other analytical techniques, such as PEELS, EPMA and magnetic susceptibility measurements. Ni+III has been evidenced in oxidised molten glasses. Finally, the molten glass corrosion behaviour of two Ni-superalloys has been characterised by means of electrochemical techniques.
+
+Keywords: Electrochemistry, Glass, High temperature corrosion,
+Nickel-superalloys, Molybdenum disilicide.
+
+1. Introduction
+
+The glass making industry needs metallic and intermetallic alloys with improved mechanical and chemical performances at high temperatures. As regards to chemical properties, a good resistance to the corrosion by molten glass is required and in consequence, platinum and platinum alloys are widely used even if they are very expensive. In order to find new suitable materials less expensive than the noble metal alloys, the corrosion resistance of several materials was investigated at high temperature (1423 and 1623 K) in a simplified glass melt (noted SG). The electrochemical techniques were used because they enable the measurements of the redox properties of metallic compounds as well as those of dissolved multivalent elements [1]. Such measurements lead to the arrangement of redox couples into an electromotive force (emf) series which allows i) the prediction of reaction spontaneity between species or ii) the identification of possible oxidising and reducing agents in order to determine the corrosion mechanisms. In the present paper, the electrochemical features related to tellurium, molybdenum and nickel dissolved in molten glass are reported. Then, the molten glass corrosion behaviour of two particular Ni-base superalloys, denoted A and B, and of MoSi2 are interpreted based on the previous electrochemical results.
+
+2. Experimental Details
+The experimental procedures as well as the high temperature equipment used for the determination of voltammograms and corrosion kinetics in molten glass have been already described in detail in [2,3]. The working-electrodes were either a platinum wire ( = 1 mm) or a rod ( = 5.5 mm) of the alloy to be tested. The counterelectrodes consisted of a platinum plate (S = 6 cm2). An yttria stabilised zirconia electrode (YSZE) flushed with air was used as reference electrode. Thus, all the potentials mentioned in this paper electrode. The electrochemical investigations were performed in a SG with the composition 16.55 wt% Na2O, 58.6 wt% SiO2, 24.75 wt% B2O3, equilibrated in argon U (max. O2 content = 50ppm) during 15 hours at 2 are given in comparison to the reference potential fixed by the ZrO2
+
+1423K. This inert atmosphere was chosen in order to prevent the
+
+atmospheric corrosion of the metallic materials. Moreover, because of the formation of low melting point eutectic alloys such as Pt-0.237 wt% Te or Pt-0.0412 wt% Si, a particular nickel-superalloy container was developed so as to avoid a potential breakdown of the platinum crucible. Its protection by cathodic polarisation allowed the study of molybdenum and tellurium systems (figure 1).
+
+Fig.1: Crucible made with nickelsuperalloy INCO601. The configuration like a "double envelope" enabled the polarisation of the inside container. A stabilised zirconia electrode (YSZE) and the two walls (1) and (2) were used as a conventional three electrodes system. The standard glass had the following composition: 16.55 wt% Na2O, 58.6 wt% SiO2, 24.75 wt% B2O3. "Zircoram" is a ceramic separator composed of 80 wt% Cr2O3 and 20 wt% ZrO2.
+
+3. Results and Discussion
+a. System of tellurium The results of cyclic voltammetric measurements determined by linear and square-wave potential sweeps led to the following main features: 1) Te0 and Te+IV are the only two achievable oxidation states in the electroactivity domain of the glass melt (figure 2) ; 2) the half wave 0.16V and Ered = - 0.5V, respectively ; 3) the Te+IV/Te0 couple appears to be an irreversible system since the oxidation and reduction peaks are separated by more than 0.34 V (E>RT/nF) ; 4) according to the linear variation of Ered versus the potential scan rate (figure 3), an 3 potentials of the oxidation and reduction peaks are equal to Eox = -
+
+owing to Randles-Sevcic equation [4], i.e. :
+Ox i p = K .n..C o .
+
+approximate value of the diffusion coefficient of Te+IV can be deduced
+
+n. . v. .DOx R.T and 0.25< K < 0.28.
+
+of 2.5x10-7 cm².s-1.
+
+The value of DTe+IV calculated from the latter equation is in the range
+
+Fig. 2: Cyclic voltammograms recorded as a function of the potential scan rate (scan rate = 150, 100, 50 et 25 mV.s-1) and performed at 1423 K in SG melt doped with 1wt% TeO2.
+
+Fig. 3: Current densities of the cathodic peaks versus the square root of the potential scan rate. The values of current densities were taken from figure 2.
+
+Thus, the oxidising ability of Te+IV is equivalent to that of Fe+III bubbling is needed, as it was the case in the present study, the oxygen activity is lowered. This leads to the reduction of Te+IV to Te0. Then, the latter can combine with platinum and form low melting point phases resulting in catastrophic degradation and irreversible failure of the metallic alloy (figure 4). generally measured in molten glass [5]. Moreover, when argon
+
+4
+
+Fig. 4: Platinum wire corroded at 1423 K in SG melt doped with 1 wt.% TeO2. Beside the fracture, the presence of a PtTe eutectic alloy with low melting point (1133 K) responsible for the metal degradation could be evidenced.
+
+b. System of molybdenum The voltammograms shown in figure 5 were determined on a platinum electrode by successive cathodic sweeps where the final potential was increased at each cycle. The results obtained in these conditions are in perfect agreement with those of Balaz and Rüssel [6]: 1) the (a) and (f) peaks are due to the Mo+VI/Mo+III system. Its related E1/2 is equal to 0.83V ; 2) the (b) and (d) peaks are characteristic of the Mo+III/Mo0 system with related E1/2 equal to -0.96V ; 3) when the final potential reaches values lower than -1.2V (c), the silica is reduced into silicon. Thus, the oxidising abilities of both Mo+III and Mo+VI are relatively low compared to that of Fe+III generally measured in molten glass. These results were completed with the study of the Mo and MoSi2 has been shown that: 1) at 1423 K, the free potential of pure corrosion behaviour carried out in the SG doped with 1.5 wt% Fe2O3. It
+
+molybdenum is equal to ­1.0V. This validates the characteristic value E1/2 = -0.96V determined for the Mo+III/Mo0 system ; 2) the cathodic polarisation of pure molybdenum electrode leads to the formation of into the Mo electrode and leading to the formation of molybdenum silicide layers (MoxSiy). The inspection of the specimens after exposure showed that their efficiency as protective coating is very poor. This was confirmed by electrochemical and metallographic investigations of pure MoSi2 tested in molten glass at higher temperature (1623 K): i) specimens revealed a superficial Si-impoverishment leading to the formation of successive silicide layers (Mo5-xFexSi3, Mo3-yFeySi,...). Finally, the progressive Si-depletion of the MoSi2 specimen surfaces 5 silicides. This is explained by the reduction of Si+IV into Si0 diffusing
+
+led after long duration exposures (50h) to the formation of a porous molybdenum layer. Thus, due to the selective oxidation of Si associated to the weak adhesion and to the extensive porosity of the glass corrosion could be evidenced (figure 6) ; ii) the corrosion current density estimated from Rp measurements remained high even after long immersion times (Rp = 20 .cm2 and related IcorMoSi2 = 2.33 50 h of immersion was e = 35 µm). mA.cm-2 ; the thickness reduction of a MoSi2 specimen measured after layers formed, no protection of the MoSi2 specimens against molten
+
+Fig. 5: Cyclic voltammograms recorded at 1423K in a glass doped with 1wt% MoO3 (scan rate vb = 50 mV.s-1). Cathodic sweeps: (a) and (f) due to MoVI/MoIII ; (b) and (d) to MoIII/Mo0 ; (c) to SiIV/Si0 and (e) to MoxSiy.
+
+Fig. 6: Surface of a MoSi2 electrode after immersion in molten glass at 1623 K during 6h. A mixture of Mo5xFexSi3
+
+particles and silica needles at the glass/electrode
+
+formed interface.
+
+c. System of nickel The redox behaviour of nickel species was investigated in a platinum crucible. The cyclic voltammetry performed by use of a platinum working electrode revealed clearly the existence of two distinct redox systems at -0.780V and -0.360V (Figure 7).
+
+6
+
+Fig. 7: Square wave voltammogram recorded at 1423 K in SG melt, doped with 1wt% NiO ; E = 100mV, f = 50 Hz, vb = 0.1 V.s-1.
+
+Fig. 8: Dynamic polarisation of a Ni electrode recorded at 1423 K in SG melt doped with 5 wt% NiO ; vb = 0.16 mV.s-1.
+
+Based on the linear polarisation curve of a nickel electrode, the first value was attributed to the Ni+II/Ni0 system since the free potential of metal is equal to -0.650V (Figure 8). The use of complementary ex-situ analytical techniques was helpful for the identification of the second system. Glasses quenched in water after polarisation at -0.4V and -0.1V during 1 hour have been investigated by means of Energy Electron Loss Spectroscopy (EELS) and magnetic susceptibility measurements. Both analysis techniques demonstrated that the first glass polarised at ­0.4V contained revealed predominantly the presence of Ni+III species. In consequence, all these experimental features led to the following conclusions: i) the value of the characteristic potential E1/2 of the Ni+II/Ni0 couple is equal to ­0.780V and is lower than those mentioned in glass melts contradicting the conclusions of many authors who by K. Takahashi et al.[7] and Rüssel et al.[8], ii) Ni+III can be stabilised exclusively Ni+II species whereas the second one, polarised at ­0.1V,
+
+calculated that the characteristic potential E1/2 of the Ni+III/Ni+II couple is higher than the oxidation potential of glass melts [9]. Moreover, one can note that the experimental result interpretations do not refer to 7
+
+the possible existence of tetra- or octa-coordinated Ni+II in the glass [10], but they do not contradict this assumption. In order to correlate the latter electrochemical values with the corrosion behaviour of metallic alloys, A and B nickel-superalloys were 1.7 wt% MoO3. When the corrosion test was carried out in air, the free tested at 1423 K in the SG doped with 0.23 wt% TeO2, 2.5 wt% ZnO and potentials of both alloys were approximately -0.4 V (Figure 9). Rp into account all the characteristic potential values E0 and E1/2
+
+values (30 .cm2) conduced to a corrosion rate of 1.5 cm/year. Taking determined during this study [5], one could conclude that O2 dissolved in glass melt is the predominant oxidising species. Its reaction with the chromium of the alloy (related E1/2 of the Cr+III/Cr+II system has been found to be equal to ­0.83V [10]) led to the formation of a chromia scale (Figure 10). This latter was more or less compact, and thus more or less protective, depending on both the composition and the manufacturing process of the substrate (powder or cast metallurgies). Conversely, when the atmosphere conditions were imposed by argon bubbling, free potentials (-0.8 V) as well as Rp values (12 .cm2) were shifted towards lower values indicating an increase of the corrosive attack. In this case, the absence of O2 prevented the formation of a compact and protective chromia scale. Nevertheless, the oxido-reduction reaction occuring between Cr present in the Ni-base material with Mo+VI and Te+IV as well as with the remaining oxidising agents present in the glass melt were sufficient to induce the formation of chromia needles. Then, the chromium oxide combined with ZnO to form spinel-type phase ZnCr2O4. The other metallic alloying elements and the corrosion products, i.e. Mo0 and Te0, reacted together to form binary intermetallic compounds (MoxNiy potentials of the elements Te, Mo, Ni, these phases are stable in such a reducing medium. and NizTew). According to the previous electrochemical results, i.e. free
+
+8
+
+Fig. 9: Dynamic polarisation of A and B Ni-superalloy electrodes recorded at 1423 K in SG doped with 0.23 wt% TeO2, 2.5 wt% ZnO and 1.7 wt% MoO3 ; vb = 0.16 mV.s-1
+
+Fig. 10: Metallographic crosssection of the A Ni-superalloy specimen immersed at 1423 K during 24 h in SG doped with 0.23 wt% TeO2, 2.5 wt% ZnO and 1.7 wt% MoO3 equilibrated with Ar
+
+4. Conclusion
+Corrosion of metals and alloys by molten glass can be studied by use of in-situ electrochemical methods. Indeed, for the majority of glasses, their conductivity is high enough to enable the use of these techniques. Thus, the redox potentials of the main species present in the glasses can be determined. This makes possible the prediction of electrochemical corrosion mechanisms for most of the metals. If we consider the general point of view of corrosion of the metallic components by molten glass, many experimental results are now available. Nevertheless, fundamental research on glass/metal interactions is still lacking. Some fields of investigation should be completed for a better understanding of corrosion processes, and thus, a better chance to find new molten glass resistant alloys.
+
+Acknowledgements
+
+9
+
+The authors gratefully acknowledge A. Vernière (Maître de Conférences - Université H. Poincaré) for the magnetic measurements and F. Diot and S. Barda (Service Commun d'Analyses par Sondes Electroniques ­ Université H. Poincaré) for the electron microprobe microanalyses.
+
+References
+
+[1] H.D. Schreiber, N.R. Wilk Jr and C.W. Schreiber, Journal of Non-
+
+Crystalline Solids, 253, 68-75, 1999
+
+[2] D. Lizarazu, P. Steinmetz, J.L. Bernard in 4th International
+
+Caillet, R.A. Rapp, (Trans Tech Publications, 1996), p. 709-719.
+
+Symposium on High Temperature Corrosion and Protection of Materials, 1996, edited by R. Streiff, J. Stringer, R.C. Krutenat, M.
+
+[3] E. Freude and C. Rüssel, Glastech. Ber. 60, n°6 p. 202-204 (1987). [4] B. Trémillon, in Electrochimie Analytique et Réactions en Solution,
+
+edited by MASSON (Paris, 1993), Vol. 1.
+
+[5] Thèse B. Gaillard-Allemand, French Thesis of the University of
+
+Nancy I, France, 2001, 204p
+
+6 (1988).
+
+[6] G.B. Balaz and C. Russel, Journal of Non-Crystalline Solids , 105, 1-
+
+[7] K. Takahashi and Y. Miura, Journal of Non-Crystalline Solids, 38 & 39, 527-532, 1980 [8] O. ClauBen and C. Rüssel, Ber. Bunsengs, Phys. Chem., 100 (9),
+
+1475-1478, 1996
+
+[9] F.GK. Baucke and J.A. Duffy, Physics and chemistry of Glasses, 34, 1993 [10] M. Shibata, M. Ookawa and T. Yokokawa, Journal of Non-
+
+Crystalline Solids, 190, 226, 1995
+
+10
+

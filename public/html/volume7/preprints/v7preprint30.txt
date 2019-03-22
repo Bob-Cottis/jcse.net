@@ -1,0 +1,552 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 30
+
+31 January 2005
+
+Some Hydrazide Derivatives as Inhibitors for The Corrosion of Zinc in Sodium Hydroxide Solution.
+A.S. Fouda a ,* A.M. El Desoky a and A.A.El serawy b .
+a
+
+Chemistry Department, Faculty of Science, El Mansoura University, ElMansoura 35516, Egypt.e-mail:asfouda@yahoo.com
+b
+
+Chemistry Department, Faculty of Engineering, El- Mansoura university, El- Mansoura, Egypt. Abstract The influence of some hydrazide derivatives as corrosion inhibitors for zinc in 2M sodium hydroxide solution has been studied using weight loss and galvanostatic polarization techniques. In general, at consant acid concentration, inhibitor efficiency increases with increase of concentration of inhibitor and decrease with rise in temperature. Polarization studies revealed that these compounds behave as mixed inhibitors. The effect of temperature on corrosion inhibition has been studied and activation energies has been calculated. Some thermodynamic parameters are calculated and discussed. The adsorption of the inhibitors on zinc surface is found to obey Temkin's adsorption isotherm.. Addition of Ca+2 , Sr+2 ,Ba+2 and Mg+2 ions to the alkaline medium containing the hydrazide derivatives increases the inhibition efficiency of the system. Key words: corrosion, zinc, sodium hydroxide, hydrazide derivatives. 1.Introduction Because of the wide spread use of zinc, the study of its corrosion has turned to be an out standing subject in corrosion with the industry today. For these reasons, considerable efforts have been devoted to study the electrochemical behaviour of zinc in alkaline media. A general survey of the literature indicates that the nature and mechanism of the zinc passivation in alkaline solutions is the subject of debate. Various mechanisms involing several intermediate species have been proposed for passivation of Zn in alkaline solutions(1-11) . In some works, Zn (OH)2 has been proposed to be passivating species(6,10). For other authors it is ZnO(3,12), Moreover, in certain cases, the passive film has been supposed to consist of a dual layer, composed of ZnO and Zn (OH)2 or of two types of Zno (3, 6 , 12 , 13). The oxide growth on the zinc electrode under prevailing experimental conditions could be explained on the basis of the following reactions (14,15): Zn+ OH - = Zn (OH)ads + e Zn (OH)-ads + 2OH- = Zn (OH)-3 + e (1) (2) (3) (4) (5) (6)
+2-
+
+Zn (OH) 3 + OH = Zn [(OH) 4 ]
+Zn (OH) 2- = Zn (OH)2  OH  2 4 Zn  OH = Zn (OH) 2  e 2 2 Zn  OH = ZnO  2 O  e 2 H 2
+-
+
+-
+
+The average thickness of the passive layer formed on Zn electrode in alkaline solution changes according to the operating conditions and reaches about 50nm (10, 16) .Recently, it was found that the rate of oxide growth in the passive region increases with decreasing
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+1
+
+ISSN 1466-8858 Volume 7 Preprint 30 31 January 2005 concentration of alkali and increasing the imposed current density, while it decreases with increasing temperature and with stirring the solution (17) . The purpose of the present contribution is to determine the influence of sodium hydroxide on the zinc corrosion in presence and in absence of the following hydrazide derivatives and the effect of Ca+2 , Sr+2 ,Ba+2 and Mg+2 ions on the efficiency of these compounds was also examined. The hydrazide derivatives used in this paper are: (a) 2- amino ­ N' ­ ((3-methyl ­ 5 ­ oxo ­ 1 ­ phenyl ­ 4, 5 ­ dihydro ­ 1H- pyerazol-4yl) methylene) acetohydrazide
+O
+NH2 CH2CONHN=CH
+
+N H3 C N
+
+Ph
+
+(b) 4- methyl ­ N' ­ ((3-methyl ­ 5 ­ oxo ­ 1 ­ phenyl ­ 4, 5 ­ dihydro ­ 1H- pyerazol4-yl) methylene) benzenesulfonohydrazide.
+O
+
+[
+
+H3C
+
+SO2NHN=CH N H3C N
+
+Ph
+
+(c) N' ­ ((3-methyl ­ 5 ­ oxo ­ 1 ­ phenyl ­ 4, 5 ­ dihydro ­ 1H- pyerazol-4-yl) methylene) benzenesulfonohydrazide.
+O SO2 NHN=CH N H3 C N
+
+Ph
+
+2.Experimental High- purity BDH zinc sheets of the composition (in weight % ): Fe, 0.002 ; Pb, 0.001. Cd, 0.001; Cu , 0.003 and the rest Zn were used. Specimens were abraded successively with different grade of emery papers, then degreased in acetone in an ultrasonic bath, washed with bi-dislilled water and then dried at room temperature. The aggressive solutions were made of NaOH. Appropriate concentrations of NaOH were prepared using bidistilled water. All chemicals used were of AR grade. 2.1.Chemical measurements. For weight loss measurements, rectangular zinc specimens of size 20x20x2mm were immersed in l00 ml of inhibited and uninhibited solutions and allow to stand for several
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+2
+
+ISSN 1466-8858 Volume 7 Preprint 30 31 January 2005 0 intervals at 30 C in water thermostat. The percentage inhibition efficiency (%I) of the inhibitor was calculated using the equation: Wo  W and (7) %I   100 Wo
+Wo  W  Wo
+
+(8)
+
+where W and Wo are the weight losses of zinc with and without inhibitors, respectively and  degree of surface coverage. is 2.2.Electrochemical measurements. Galvanostatic polarization studies were carried out on zinc in 2M NaOH solution without and with different concentrations of the inhibitors used at 300C. A cylindrical rod with a surface area of 0.7 cm2 was used as working electrode. Saturated calmoel eleetrode (SCE) was used as reference electrode while a platinum wire as counter electrode. All expeniments were carried out at 30± 0.1 0C. The inhibition efficiency (%I) is defined as: I I and % I  corr inh )  ( 100 I corr (9) (10)
+
+ (
+
+Icorr Iinh ) I corr
+
+where Icorr and Iinh are the unihibited and inhibited corrosion current densities, respeetively. 3.Results and discussion 3.1.weight loss measuements: Zinc samples were dissolved under unstirred conditions in 2M NaOH without and with various concentrations (1X10-6 ­ 11X10 -6 M) of different additives used at 300C. Fig 1. shows the effect of the period of immersion on the corrosion of zinc in presence and absence of different concentrations of compound (b) in alkali media. The curves are characterized by an initial slow rise in weight- loss followed by a sharp rise. The curves obtained in the presence of additives fall below that of alkali. The weight loss of zinc depends upon the type and the concentration of the additives. The inhibition efficiency (%I) of various inhibitors, decreases in the order (Table 1): Compound (b) > compound (c) > compound (a) 3.2. Synergistic effect: Effect of the addition of 0.02% Ca+2 , Sr+2 ,Ba+2 ,Mg+2 ions to different concentrations of additives on the corrosion inhibition of Zn in 2M NaOH using weight less technique was studied. the percentage inhibition efficiency brought about by 0.02% of these cations. From the results obtained it was found that Ba2+ > Sr2+ > Ca2+ > Mg2+ . This has a qualitative correspondence the inereasing atomic weight of these cations and it may be explained on the basis of their basicity which increase by increasing atomic weights.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+3
+
+ISSN 1466-8858
+
+Volume 7 Preprint 30
+
+31 January 2005
+
+3.0 2.8 2.6 2.4 2.2 2.0
+Blan k. 1X 10-6M. -6 3X 10 M. 5X 10-6M. 7X 10-6M. -6 9X 10 M. 11X10-6 M.
+
+Weight loss,mg cm -2.
+
+1.8 1.6 1.4 1.2 1.0 0.8 0.6 0.4 0.2 0.0 0 30 60 90 120 150 180
+
+Time,m in. Fig.( 1 ):Weight loss-t ime curves for dissolution of zinc in 2M NaOH in absence and presence of diff erent concentrations of com pound (b) at 30oC.
+
+Table (1): Data from weight loss of zinc dissolution in 2 M NaOH at different concentrations of the hydrazide derivatives at 30 oC. Conc., M 1x10-6 3x10-6 5x10-6 7x10-6 9x10-6 11x10-6 % Inhibition (%I) (b) 58.49 59.92 61.66 63.01 64.84 66.66
+
+(a) 44.44 45.23 46.03 47.61 48.41 49.20
+
+(c) 49.92 50.79 52.38 53.17 53.96 54.76
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+4
+
+ISSN 1466-8858 Volume 7 Preprint 30 31 January 2005 Table (2): Data from weight loss of zinc dissolution in 2M NaOH at different concentrations of the hydrazide derivatives with addition of 0.02% BaCl 2 at 30oC. Conc., M 1x10-6 3x10-6 5x10-6 7x10-6 9x10-6 11x10-6 % Inhibition (%I) (b) 75.15 76.58 78.33 78.96 81.50 84.12
+
+(a) 65.87 66.66 67.46 69.04 69.84 70.63
+
+(c) 71.34 72.22 73.80 74.60 75.39 76.19
+
+Table (3): Data from weight loss of zinc dissolution in 2M NaOH at different concentrations of the hydrazide derivatives with addition of 0.02% SrCl2 at 30oC. Conc., M 1x10-6 3x10-6 5x10-6 7x10-6 9x10-6 11x10-6 % Inhibition (%I) (b) 73.57 75.00 76.74 78.09 79.92 81.74
+
+(a) 64.28 65.07 65.87 67.46 68.25 69.04
+
+(c) 69.76 70.63 72.22 73.01 73.80 74.60
+
+Table (4): Data from weight loss of zinc dissolution in 2M NaOH at different concentrations of the hydrazide derivatives with addition of 0.02% CaCl2 at 30oC. Conc., % Inhibition (%I) M (a) (b) (c) 1x10-6 3x10-6 5x10-6 7x10-6 9x10-6 11x10-6 61.90 62.69 63.49 65.07 65.87 66.66 71.19 72.61 74.36 75.71 77.53 79.36 67.38 68.25 69.84 70.63 71.42 72.22
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+5
+
+ISSN 1466-8858 Volume 7 Preprint 30 31 January 2005 Table.(5): Data from weight loss of zinc dissolution in 2M NaOH at different concentrations of the hydrazide derivatives with addition of 0.02% MgCl2 at 30oC. Conc., M 1x10-6 3x10-6 5x10-6 7x10-6 9x10-6 11x10-6 % Inhibition (%I) (b) (c) 68.80 70.23 71.98 73.33 75.15 76.98 65.00 65.87 67.46 68.25 69.04 69.84
+
+(a) 59.52 60.31 61.11 62.69 63.49 64.28
+
+It is also observed from Tables (2-5) that the inhibition efficiency of the inhibitors increases in the presence of Ca+2 , Sr+2,Ba+2 and Mg+2 .This may be due to the fact that these cations are chemisorbed on the zinc surface and aids in bringing negatively charged species inclusive of the zincate ion closer to the metal surface, thus enhancing inhibition efficiency as has actually been observed. The synergistic parameter ,s was calculated using equation (11). The plots of the , synergism parameter (s  (in case of BaCl 2) against various concentrations of inhibitors is ) ginven in Fig (2), and corresponding values are show in Table (6)
+
+S   ( 1 1 2 ) /( 1  1 2 ) Where  2  1 2 12  1   12 : Measured surface coverage by the anion in combination with cation. and  : are the surface coverage for anions and cations, respectively. 1 2
+
+(11)
+
+Table. (6): Synergism parameter (S for different concentrations of the hydrazide ) derivatives and in presence of 0.02 % BaCl 2 . Corrosive medium
+2M NaOH
+
+Conc., M (a) (b) (c)
+
+1×10
+
+-6
+
+Synergism parameter ( S  ) -6 -6 -6 3×10 5×10 7×10 9×10-6 0.821 0.855 0.885 0.829 0.884 0.908 0.846 0.879 0.921 0.855 0.950 0.935
+
+11×10-6 0.864 1.007 0.950
+
+0.813 0.835 0.873
+
+Since most of these values of s are about unity (similar results were obtained in case of SrCl 2 , CaCl2 and MgCl 2 and are not shown), the higher inhibition efficiency of cation and additives can be calculated as brought out by synergistic effect. 3.3.Adsorption isotherm. Fig (3) demonstrates the variation of the degree of surface coverage with the logarithmic of concentration of the additives from weight loss technique. 6
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 30
+
+31 January 2005
+
+1.0
+
+S
+
+0.5
+
+(a)
+0.0 0.0 2.0x10 -6 4.0x10 -6 6.0x10-6 8.0x10-6 1.0x10 -5 1.2x10-5
+
+C,M.
+
+1.0
+
+S
+
+0.5
+
+(b)
+0.0 0.0 2.0x10
+-6
+
+4.0x10
+
+-6
+
+6.0x10
+
+-6
+
+8.0x10
+
+-6
+
+1.0x10
+
+-5
+
+1.2x10
+
+-5
+
+C,M.
+
+1.0
+S
+
+0.5
+
+(c)
+0.0 0.0 2.0x10-6 4.0x10 -6 6.0x10-6 8.0x10-6 1.0x10-5 1.2x10 -5
+
+C,M. Fig.(2 ):Plots of synergism parameter (S versus the concentration of hydrazide derivatives ) 
+for the dissolution of zinc in 2M NaOH with addition of0.02% BaCl 2 at 30 C.
+o
+
+The adsorption isotherm follows that of Temkin adsorption isotherm isotherm  is a linear function of log C according to the equation: inh Ln KC = a 
+
+(18)
+
+. For such an (12)
+
+Where K is the equilibrium constant of the adsorption reaction, C is the inhibitor concentration in the bulk of the solution, a is the interaction parameter and is the surface coverage. (i.e)., the fraction of the surface covered by the inhibitor molecules. On the other hand, it is found that the Kinetic- Thermodynamic model of El -Awady et al (19) . Log {  = log K + y logC / -1} (13) is valid to operate the present adsorption data. The equilibrium constant of adsorption
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+7
+
+ISSN 1466-8858
+
+Volume 7 Preprint 30
+
+31 January 2005
+
+0.20
+
+(b). (c). (a).
+0.15
+
+0.10
+
+0.05
+Sur fac e Coverage (  )
+
+0.00
+
+-0.05
+
+-0.10
+
+-0.15
+
+-0.20
+
+-5.6
+
+-5.5
+
+-5.4
+
+-5.3
+
+-5.2
+
+-5.1
+
+-5.0
+o
+
+-4.9
+
+log C ,M. Fig.(3): Curve fitting of corrosion data for zinc in 2M NaOH in presence of different concentrations of hydrazide derivatives to the Temkin isotherm at 30 C.
+
+K = K' (1/y) where 1/y is the number of the surface active sites occupied by one hydrazide and C is the bulk concentration of the inhibitor. The plotting log  (1-  against log C at / ) 300 C is given in Fig (4), where straight line relationships were obrained suggesting the validity of this model for all cases studied. The calculated values of 1/y , K and Gads are given in Table (7) . Inspection of the data of this Table shows that the large values of  ads and its negative G sign, indicate that the adsorption of hydrazide compounds on the zinc surface is proceeding spontaneousty and is acompained by a highly- efficient adsorption. It is worth noting that the value of 1/y is more than unity. This means that the given inhibitor molecules will occupy more than one active sites. In general, the values of A Gads obtained from El- Awady et al model are comparable with those obtained from Temkin isotherm. The entropies of adsorption S0ads ads were calculated from the relation between
+ 0 ads and T: G
+
+ oads = { Goads/ T} S 
+
+(14)
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+8
+
+ISSN 1466-8858
+
+Volume 7 Preprint 30
+
+31 January 2005
+
+0.20
+
+(b). (c). (a).
+0.16
+
+0.12
+
+0.08
+
+0.04
+log / 1 - 
+
+0.00
+
+-0.04
+
+-0.08
+
+-0.12
+
+-0.16
+
+-0.20 -5.6 -5.5 -5.4 -5.3 -5.2 -5.1 -5.0 -4.9
+
+log C ,M. Fig.(4): Curve fitting of corrosion data for zinc in 2M NaOH in presence ofdifferent concentrations of hydrazide derivatives to the kinetic model at 30o C.
+
+Table.(7): Inhibitor binding constant(K), Free energy of  ads, number of active sites G (1/y) and later interaction parameter (a) for hydrazide derivatives at 30oC. Corrosive medium
+2 M Na OH
+
+Kinetic model inhibitors (a) (b) (C) 1/y 9.48 4.46 5.78 K 6883.72 678316.42 96149.17  ads., G KJmol -1 32.03 43.78 38.97 a 21.85 10.28 13.92
+
+Temkin K 6238.30 641889.62 95961.18  ads., G KJmol-1 32.11 43.69 39.00
+
+For calculating the values of heat of adsorption (Q) of the various inhibitors, plots were drawn of log ( 1- vs 1/ T . The Q values obtained from the slopes of these plots. Fig (5) . / )
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+9
+
+ISSN 1466-8858 Volume 7 Preprint 30 31 January 2005 0 The values of  ads and Q are tabulated in Table (8). From these results it may be S generalized that the more efficient inhibitor has more negative  ads value and less values of G  ads and Q. S
+
+0.18
+
+(b). (c). (a).
+
+0.12
+
+0.06
+
+log / 1 - 
+
+0.00
+
+-0.06
+
+-0.12
+
+-0.18
+
+3.00
+
+3.05
+
+3.10
+
+3.15
+3
+
+3.20
+
+3.25
+
+3.30
+
+1/T X 10 Fig.(5 ):log  /1-vs.1/T for the dissolution of zinc in 2M NaOH in presence of 11X10 -6 M of hydrazide derivatives.
+
+Table.(8): Thermodynamic parameters for the adsorption of hydrazide derivatives in 2M NaOH on zinc surface. Thermodynamic parameters Corrosive inhibitors - oads., G - oads. , S -Q, medium -1 -1 -1 KJ mol J mol K KJ mol -1
+2 M NaOH
+
+(a) (b) (C)
+
+32.11 43.79 39.00
+
+25.98 18.02 21.52
+
+21.28 19.10 19.69
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+10
+
+ISSN 1466-8858 3.4. Effect of Temperature:
+
+Volume 7 Preprint 30
+
+31 January 2005
+
+The effect of temperature (30- 550C) on the performance of the inhibitor at concentration of 11x 10-6 M for zinc in 2M NaOH was studied using weight loss measurements. Plots of log k (corrosion rate) against 1/ T (absolute temperature),(Fig 6), for zinc in 2M NaOH at constant concentration for all additives (11x 10-6 M), give straight lines
+
+-1.0
+
+-1.2
+
+-1.4
+
+log corrosion rate,mg c m min .
+
+-1 -2
+
+-1.6
+
+-1.8
+
+-2.0
+
+-2.2
+
+-2.4
+
+Blank. (a). (c). (b).
+3.00 3.05 3.10 3.15 3.20 3.25
+3
+
+3.30
+
+1/T X 10 -6 Fig.(6 ):log corrosion rate vs.1/T for the dissolution of zinc in presence of 11X10 M of hydrazide derivatives.
+
+Table.(9): Activation parameters of the dissolution of zinc in 2M NaOH in absence and presence of 11x10-6 M hydrazide derivatives. Corrosive medium
+2 M NaOH
+
+inhibitors Free alkali (a) (b) (C)
+
+Ea*,
+
+kJ mol 5.38 5.71 6.71 5.90
+
+-1
+
+Activation parameters  *, KJ mol -1 H - *J mol-1k-1 S 4.93 78.45 5.41 5.98 5.53 68.66 53.62 66.01
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+11
+
+ISSN 1466-8858
+-3.6
+
+Volume 7 Preprint 30
+
+31 January 2005
+
+-3.8
+
+corrosion rate / T,mg cm- 2 min- 1 K- 1.
+
+-4.0
+
+-4.2
+
+-4.4
+
+-4.6
+
+-4.8
+
+Blank. (a). (c). (b).
+3.00 3.05 3.10 3.15 3.20 3.25 3.30
+
+1/T X 103 -6 Fig.(7 ):log corrosion rate / T vs.1/T for the dissolution of zinc in presence of 11X10 M of hydrazide derivatives.
+
+The values of the slopes obtained at different temperatures permit the calculation of Arrhenius activation energy (Ea *). The activation energy values obtained from this Fig. were found to be 5.38 KJ mol-1 and 6.71 ­ 5.71 KJmol-1 for free and alkali containing inhibitors Table (9). Activation parameters for corrosion of Arrhenius ­ type plot: k = A exp (- Ea */ RT) And transition state ­ type equation: k= RT/ Nh exp (  R) exp (-  S*/ H*/RT)
+*
+
+zinc in 2M NaOH were calculated from (15) (16)
+
+The almost similar values of Ea suggest that the inhibitors are similar in the mechanism action and the order of the efficiency many be related to the preexponential factor A in equation (15). This is further related to concentration, steric effects, metal surfac characters. The relationship between log k/T vs. 1/T gives stlaight line (Fig.7), from its slope,  H* can be calculated and from its intercept S* can be also calculated .
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+12
+
+ISSN 1466-8858 Volume 7 Preprint 30 31 January 2005 the presence of derivatives increases the activation energies of zinc indicating strong adsorption of the inhibitor molecules on the metal surface. The presence of these additives induce energy barrier for the corrosion reaction and this barrier increases with increasing the additive concentration. The higher values of  is explained on the basis that the process of S* adsorption exhibits a rise in the enthalpy of the corrosion process. The calculated activation entropies,  for zinc in 2M NaOH solution are large and S*, negative. The presence of these additives lowers the values of  The changes in  are S*. S* directly proportional to the concentration of the additives. This phenomenon was discussed before as inhibitor-free acid solutions, the transition state of the rate determining step represents a more orderly arrangement relative to the initial state, and hence a negative values for  are produced. In the presence of inhibitor, the system passes from less orderly S* to a more random arrangement and hence . an increase in the values of  is observed. S* 3.5.Galvanostatic measurement Fig (8) shows the galvanostatic polarization curves (E vs. log I) of zinc dissolution in 2M NaOH, in presence of different concentrations of compound (b). An increase in the concentration, of inhibitor shifted the polarization curves towards more negative potentials for cathodic Tafel lines, and towards more positive potentials for anodic Tafel lines. Polarization data suggested that the additives used act as mixed-type inhibitors ( = ). The corrosion kinetic parameters such as corrosion current a C density ( Icorr.), corrosion potential (Ecorr) , cathodic Tafel slope (), anodic Tafel lines (), C a degree of surface coverage ( and percentage inhibition(%I) were derived from the curves ) Fig. 8 are recorded in Table (10) . Table. (10): The effect of concentrations of compound (b) on the free corrosion potential (E corr.), corrosion current density (icorr.), Tafel slopes ( & ), inhibition efficiency a c (%I) and degree of surface coverage ( of of zinc in 2M NaOH at 30°C. ) , a Concentration, -Ecorr., i corr.,  c, mV dec  %I M mV.  cm-2. A mV dec -1 . 1 . 0 1048.3 269.1 78.7 95.2 ---------6 1x10 1047.6 130.2 59.3 83.5 0.525 52.5 -6 3x10 1051.0 124.9 64.7 86.7 0.545 54.5 -6 5x10 1043.7 122.4 61.0 84.6 0.554 55.4 7x10-6 1034.1 119.6 55.3 91.1 0.563 56.3 -6 9x10 1025.5 112.7 51.3 100.5 0.588 58.8 -6 11x10 1032.8 103.8 59.3 87.0 0.621 62.1 3.6.Chemical structure and corrosion inhibition of zinc Skeletal representation of the mode of adsorption of the hydrazide derivatives is shown in Fig (9) , and clearly indicates the active adsorption centers. The order of decreasing inhibition efficiency of the investigated hydrazide derivatives in 2M NaOH is : compound (b) > compound (c) > compound (a) The inhibition efficiency of the compounds depends on many factors (19) , which include the number of adsorption active centers in the molecule and their charge density, molecular size, mode of a desorption, heat of hydrogenation and formation of metallic complexes.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+13
+
+ISSN 1466-8858
+
+Volume 7 Preprint 30
+
+31 January 2005
+
+-920
+
+-960
+
+Blank. -6 1X10 M. 3X10-6 M. -6 5X10 M. 7X10-6 M. -6 9X10 M. 11X10 -6M.
+
+-1000
+
+Potential ,mV (Vs.SCE)
+
+-1040
+
+-1080
+
+-1120
+
+-1160
+
+-1200
+
+2.5 3.0 3.5 4.0 -2 log i , cm . A Fig.(8 ):Galvanostatic polarization curves for the dissolution of zinc in 2M NaOH o in presence and absence of different concentrations of compound(b) at 30 C.
+
+1.0
+
+1.5
+
+2.0
+
+H H CH H N N O
+
+C
+O
+
+N H3C N N
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+14
+
+ISSN 1466-8858
+
+Volume 7 Preprint 30
+
+31 January 2005
+
+H3C
+
+O
+S N
+
+H N
+
+CH
+
+O
+
+H3C
+
+N N
+
+O
+
+The obtained results of the additives (Table 1 ) indicate that: Compound (b) exhibits excellent inhibition power due to:(i) its larger molecular size that may facilitate better surface coverage, (ii) its adsorption through three active centers as shown from Fig (9),and (iii) the presence of p-CH3 (=-0.17) which is highly electron releasing group which enhance the delocalized  -electrons on the active centers of the compound. Compound (c) comes after compound (b) in inhibition efficiency inspite of it has three active centers, because it has lesser molecular size and has no substituent in p-position (Hatom with  =0.0) which contributes no charge density to the molecule . Compound (a) has the lowest inhibition efficiency,in spite of it has three active centers.this is because it has the lowest molecular size and the aromatic ring in compound (c) covers more surface area than the aliphatic ones in compound (a). 4.Conclusion 1- All the additives are found to perform well as a corrosion inhibitors in sodium hydroxide solution and the inhibiting efficiency values of the examined compounds follow the order: compound (b) > compound (c) > compound (a) at all the studied concentrations. 2-The compounds studied are found to act as mixed-type inhibitors, 3- the protection efficiency increases with a decrease in temperature or an increase in the concentration of the studied compounds . 4- The adsorption of" these compounds was found to follow Temkin's adsorption isotherm. 5- The addition of Ba 2+, Ca 2+, Sr2+, Mg2+ , was found to increase the percentage inhibition due to synergistic effect. References 1 ) B.J. Brood, V.E. Leger. In: A.J. Bard (Ed), Encyclopedia of Electrochemistry of the Elements, vol. 85. Marcel Dekker, New York , 1976. 2 ) P.L. Cabot, M. Cortes, F.A. Centellas, J.A. Garrido, E. Periz, J. Electroanal. Chem., 201 (1986) 85. 3 ) R.W. Powers, M.W. Breiter, J. Electrochem. Soc., 116 (1969) 719.
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+15
+
+ISSN 1466-8858 Volume 7 Preprint 30 4 ) N.A. Hampson , G,A. Damjanoiv, J. Electroanat. Chem, 25 (1970) 285. 6 ) M.C.H. Mckubre, D.D. Macdonald, J. Electrochem. Soc.,128 (1981) 524.
+
+31 January 2005
+
+5 ) J,O'M. Bockris, Z. Nagy, A. Damjanoiv, J. Electroanal chem., 119 (1972) 285. 7 ) J. Hendrikx, A. van der putten, W. Visscher E. Barendrech, Electrochim. Acta., 29 (1989) 3594. 8 ) Y.C. Chang, G Prentice, J. Electroanal. Chem., 131 (1984) 1465. 9 ) Y.C. Change, G. Pretice, J. Electrochem. Soc., 132 (1985) 375. 10 ) X. Shan, D. Ren, P. school, G. Prentice, J. Electrochem. Soc., 136 (1989) 3594. 11 ) S.B. Saidman, J.R. Vilche, A.J. Arvia, Electrochim. Acta, 39 (1994) 1401. 12 ) N.A. Hampson, M.J. Tarbox, J. Electrochem. Soc., 110 (1963) 95. 13 ) R.D. Armstrong, M.F. Bell, J. Electroanal.Chem., 55 (1974) 201. 14 ) G. Zhang, "Corrosion and Electrochemistry of Zinc" plenum press, New Yourk, 1996. 15 ) W. Fürbth, M. Stratmann, Corros. Sci., 43 (2001) 207. 16 ) P. Scholl, X. Shan, D. Bonham, G. Prentice, J. Electrochem. Soc, 138 (1991) 895. 17 ) E.E. Abd El Aal, Corrosion. NACE ,55 (1999) 582. 18 ) P. delahay, Double layer and Electrode Kinetics; Interscience Publishers, A Division of John wiley & sons, Inc., New York (1965) 279. 19) Y.A. El- Awady and A.I Ahmed, J. Ind. Chem., 24 ( 1985) 610.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+16
+

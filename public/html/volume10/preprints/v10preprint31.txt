@@ -1,0 +1,319 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 31 Effects of pH and chloride concentration on pitting corrosion of 6061 aluminium alloy.
+
+18 April 2007
+
+B. ZAID1, D. SAIDI1, S. HADJI2 and A. BENZAID3 Division de Technologie du Combustible, Département de Métallurgie. 2 Division de Technologie du Combustible, Département de combustible. 3 Division Réacteur, Département de Radio-isotope. Centre de Recherche Nucléaire de Draria BP.43 SEBALLA, DRARIA, ALGER, ALGERIE Email : zaidbachir@yahoo.com
+1
+
+Abstract: Effects of pH solution and chloride (Cl-) ion concentration on the corrosion behaviour of 6061 aluminium alloy immersed in aqueous solutions of NaCl have been investigated using measurements of weight loss, potentiodynamic polarisation, linear polarisation, cyclic polarisation experiment combined with open circuit potential transient technique and optical or scanning electron microscopy. The corrosion behaviour of the 6061Aluminum Alloy was found to be dependant on nature of the pH and chloride concentration [NaCl] of solution. In acidic or slightly neutral solutions, general and pitting corrosion were occurred simultaneously since corrosion potentials (Ecor) coincided with pitting potentials (Epit). In contrast, exposure to alkaline solutions results in general corrosion. Experience revealed that the 6061Aluminum Alloy was susceptible to pitting corrosion in all chloride solution of concentration ranging between 0.003 to 0.5%wt NaCl and an increase in the chloride concentration slightly shifted both the pitting Epit and corrosion Ecor potentials to more active values. Polarisation resistance measurements in acidic (pH = 2) and alkaline chloride solutions (pH = 12) which are in good agreement with those of weight loss, show that the corrosion kinetic is minimised in slightly neutral solutions (pH = 6). Keywords: 6061Aluminum Alloy, Pitting corrosion, Potentiodynamique and cyclic polarisation curves. 1. Introduction: From a purely thermodynamically point of view, aluminium is active. However, in oxygen containing environment (air, water), aluminium and its alloys are rapidly covered with a dense oxide layer [1, 3]. The oxide film is essentially inert, and prevents corrosion. The corrosion protection properties of this passive oxide film have been demonstrated by several investigators [2-10]. Because of this advantage, aluminium and its alloys are widely used in many industries such as aerospace, water-cooled production, food manufacture, research and test nuclear reactor, reaction vessels, pipes, machinery and chemical batteries. Aluminium and its alloys are generally passive and corrosion resistant in aqueous solutions except for pitting corrosion due to some reactive species, such as chloride [11-13]. The passive film on aluminium alloy surface is a poor electronic conductor and cathode reaction occurs on the micron size particles of impurity constituents or smaller precipitate
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 31 18 April 2007 particles [14-29]. The effect of alloying elements on the breakdown of the passive film was extensively studied using various grades of aluminium and different metals [14-23]. It has been established that in major part, the presence of alloying elements in the microstructure such as insoluble intermetallic particles (Al2Cu, FeAl3) or single elements (Cu, Si), leads to formation of local electrochemical cells between them and the aluminium matrix [24-31]. This gives rise to severe and highly localized attack by pitting in aggressive medium [11-13]. Corrosion by pitting in aluminium alloys is a very complex process that can be affected by various factors such as the type of aggressive ion and its concentration, the pH of the medium, the temperature or the structural characteristics of the oxide passive film [13, 32]. In this respect, the present work is aimed to study the corrosion behaviour of 6061 aluminium alloy in chloride solutions, mainly its pitting corrosion and the morphology of pits through the study of the effect of the physico-chemical factors namely the pH solutions, the chloride concentration and the polarisation. 2. Experimental procedures: 2.1. Sample preparation Corrosion experiments were carried out on electrodes made from rod-shaped specimens of Aluminium Alloy 6061, cold mounted in epoxy resin to give an exposed area of 0.63 or 0.7m² to the medium. The nominal composition of the Aluminium alloy (% by weight) is 1% Mg, 0.6% Si, 0.23% Cu, 0.16% Fe, 0.12% Cr, 0.05% Mn and the rest Al. Before each experiment, the working surfaces of samples were wet ground with emery paper up to 1000 grit (using a polishing machine model "POLIMENT I, Buehler polisher") and then cleaned with ethanol and distilled water, and finally dried with air. 2.2. Solutions All solutions were prepared with distilled water and analytical-grade reagents. NaCl which was provided from Aldrich was added to the distilled water in requisite amount to make a solution with concentration varying between 10-4M to 0.6M (0.003wt. % NaCl to 3.5wt. % NaCl). The pH of the solutions was adjusted by using analytical-grade reagent sodium hydroxide (NaOH) and hydrochloric acid (HCl) purchased from Aldrich. All of the pH measurements are made by means of HANNA type pH-metre.
+
+2.3. Electrochemical measurements Electrochemical measurements were carried out in a conventional three-electrode electrochemical glass cell with a platinum counter electrode and a saturated calomel electrode (SCE) as reference. All the potentials in this paper were reported in the SCE scale. The polarisation curves were recorded by changing the electrode potential automatically with a potentiostat type EG&G 273A, at a scan rate of 0.166mV/s. All the tests were performed under ambient conditions. Aluminium alloy samples were immersed in solution so as to allow them to achieve a stable open circuit potential (OCP) or to develop steady state potential before starting the polarisation scan. OCP measurements indicated that the OCP of the aluminium alloy 6061 at 03 hours of immersion was nearly identical (±20mv) to that of several hours (more than 3
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 31 18 April 2007 hours immersion). Therefore, this time (t = 03hours) was adopted as the required period in order to get stabilisation in all electrochemical measurements. After the period of a stabilisation (time = 3h), the potentiodynamic polarisation curves were plotted by starting scanning electrode potential from an initial potential of 250mV below the open circuit potential (OCP) up to 0volts. For the cyclic polarisation curves, the scan direction was reversed whenever the electrode potential attained the anodic potential of 0volts. Then the potentials were scanned back to the initial potential. A vertex current density of 0.001A/cm2 was used. After the immersion tests and the potentiodynamique polarisation, the samples of 6061 aluminium alloy were examined by using an optical microscope. A few samples were also studied using a scanning electron microscopy (SEM). 3. Results and Discussion: The reproducibility of the presented data was generally checked by duplicate or triplicate measurements and typical results are reported. 3.1. Effect of the pH solution: 3.1.1. Open circuit potential (OCP) measurements: Fig. 2 shows the open circuit potential (OCP) vs. time curves obtained with samples of 6061 aluminium alloy immersed in 3.5wt% NaCl solution of different pH . It can be seen that, exposure to NaCl solution with pH varying from 2 to 12, caused transients in the open circuit potentials OCP of aluminium alloy samples, starting from an increasingly negative initial open circuit potential and lasting for few minutes before the potential stabilised at a rest potential or steady potential. This process is partially dependant on the type of the alloy and electrolyte chemical composition [33-36]. The time taken to reach the steady OCP always decreases with decreasing of solution pH value. It is likely that the finite amount of the taken time to achieve the stabilisation of the OCP is related to the activation or to the transformability of the air-formed oxide film on the alloy surface [37]. In three cases, the open circuit potential OCP is observed to change from more negative potentials to more positive potentials. The potential shift to more anodic direction is often associated with the formation of a protective passive film at the alloy surface. The open circuit potential of the samples of 6061 aluminium alloy exposed to both pH 2 and pH 6 solutions is different in both shape and value from that observed in very alkaline solutions. The curves clearly show that, in the acidic and neutral solutions, the studied material exhibited a relatively stable steady OCP around -725mV, close to the critical pitting potential values of 6061 aluminium alloy as it is shown in fig. 3 [38]. However, exposure to very alkaline solution gives a relatively stable steady OCP around -1375mV, which is considered as corrosion potential since it is more negative compared to the pitting potential of 6061 aluminium alloy measured in acidic and in slightly neutral solutions as mentioned in reference [38].
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+-0,50
+
+Volume 10 Preprint 31
+
+18 April 2007
+
+pH = 2
+-0,75
+
+Potential E (V)
+
+-1,00
+
+pH = 6
+
+-1,25
+
+-1,50
+
+pH = 12
+
+-1,75
+
+0
+
+2500
+
+5000
+
+7500
+
+10000
+
+Time (Sec) Fig. 1: Evolution of the open circuit potential vs. exposure time in 3.5% NaCl solutions at different pH for samples of 6061 aluminium alloy.
+
+3. 1. 2. Weight loss measurements: Weight loss during open to air immersion tests in 2.5wt% NaCl solution at acidic, neutral and alkaline pH for several days at room temperature were obtained from the difference between weight of the samples before and after immersion period. Fig.2 shows the values of the loss weight by unit surface area, corresponding to samples submitted to immersion tests of 8 days. The results from this figure demonstrate that, when the alloy is submitted to immersion in neutral pH medium, a decrease is produced in the weight loss, and an increase is seen in this if the values of the pH are displaced in acidic or alkaline pH. In other words, there is an increase in the alloys susceptibility to corrosion in the acidic and purely alkaline medium. Further, it can be observed that the weight loss per unit area during the immersion studies in 2.5% NaCl solution at different pH is found to follow the order of : pH = 12 >> pH = 2 > pH = 6. The results obtained above can be interpreted by considering the fact that the chemical reactions of aluminium and its alloys are unusual in the sense that these materials are amphoterics, i.e., soluble in acid as well as in alkali solutions [39, 40]. 3+ In acidic solution pH, solubility of Al facilitates the dissolution of the matrix and further accelerates the chloride attack. However, the mechanism of corrosion of the matrix in neutral and alkaline medium is related with the formation of protective layer of aluminium hydroxides Al (OH) 3. The oxide film is uniformly thinned by the chemical dissolution, which is facilitated by the presence of high OH- concentration in alkaline solution [41- 43]. Whereas in neutral pH solutions, the passive film of aluminium hydroxides (Al (OH) 3) formed on 6061 aluminium alloy surface is remarkably stable due to its low solubility, acts as protector for this alloy against corrosive agents.
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 31
+
+18 April 2007
+
+Weight loss (mg/cm²)
+
+5 4 3 2 1 0 2 6 12
+
+pH Fig. 2: Weight loss of samples of 6061 aluminium alloy at different pH after 8 days of immersion in solution of 2.5%NaCl. 3. 1. 3. Linear polarisation A similar results to the above one were drawn from the analysis of the values of polarisation resistance (Rp) calculated from the corresponding curves of linear polarisation recorded for samples of 6061 aluminium alloy exposed to 3.5%NaCl solutions at different pH (figure 4). Thus, in this figure the values of Rp vs. pH of solution are represented.
+
+8 7 6 Rp (Kohm.cm²) 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10 11 12 13 pH Fig.3. Variation of polarisation resistance of samples of 6061 aluminium alloy in 3.5%NaCl solution versus the pH.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 31 18 April 2007 The results from this figure clearly demonstrate that, the polarisation resistance (Rp) of the 6061 aluminium alloy was found to be a maximum in the slightly neutral solutions (about 7.5x10+3) [44]. Furthermore, in this figure it can be appreciated how, in line with the results of weight loss measurements, there is a fall in the polarisation resistance Rp values, and accordingly an increase in the dissolution activity of the system when the pH of solution was displaced in basic or in acidic values. This fact is consistent with the maximum in corrosion rate of 6061 aluminium alloy in basic and acidic solution, and a minimum in corrosion rate in slightly neutral solution, as it can be observed in the figure 2. Therefore, the corrosion dissolution of the samples of 6061 aluminium alloy can be limited to extent level by varying the solution pH. 3. 1. 4. Potentiodynamic polarisation in 3.5wt%NaCl solutions: Fig.4 shows typical potentiodynamic polarization curves for the samples of 6061 aluminium alloy, obtained in solutions of concentration 3.5% NaCl at pH values of (a) 2, (b) 6, and (c) 12, respectively. A similar shape is observed in two polarisation curves which were obtained in the slightly neutral and acidic solution, with a little difference on their cathodic branch controlling the corrosion process, indeed the density current in the slightly neutral solution is the lowest. The onset of pitting is not visible in these two cases since the pitting potentials Epit coincided with the corrosion potentials Ecor and the anodic Tafel slopes of two curves are practically zero. From these results, it can be concluded that the main degradation mechanism in these solutions of pH values 6 and 2 is pitting corrosion and the pitting potential is independent of pH over this pH range [45, 46]. We can observe this on the micrographic photos shown in figs. 10 and 1.
+
+0
+
+Potential E (Volts)
+
+-0,5
+
+-1,0
+
+b
+
+a
+
+a b c
+
+pH = 2 pH = 6 pH = 12
+
+-1,5
+Passive current
+
+c
+
+-2,0 -6 10
+
+10 -
+
+5
+
+10 -4
+
+10 -3
+
+10-2
+
+10 -1
+
+10 0
+
+Current density (Amps/cm²)
+
+Fig. 4: Polarisation curves obtained with a samples of 6061 aluminium alloy in solutions of 3.5% NaCl (a) at pH = 2, (b) at pH = 6, (c) at pH = 12.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 31 18 April 2007 On the contrary, in case of alkaline solutions (pH = 12), the values of corrosion potential Ecor were observed to be lowered to more cathodic values, from -0.740V to -1.320V without a change in the pitting potential. Further, the decrease in the corrosion potential Ecor values, compared to those of acidic and neutral pH, indicate the loss of passivity of aluminium alloy due either to thinning of surface oxide layer by hydroxide ion (OH-) attack (alkaline chemical dissolution) or to the absence of the primary oxide film [43]. However, by increasing the solution pH, the pitting potential still unchanged, a separation of the Ecor from the pitting potential (Epit - Ecor) was observed from the polarisation curves of the figure 4 and at the same time, anodic current density plateau region was formed below the pitting potential Epit. The reasonable value of the anodic current density within this plateau region (1.10-3A.cm-2), which may presumably arise from either the charge transfer reaction at the electrolyte/oxide film interface or the Al3+ ion transport through the oxide film [47], indicates that the 6061 aluminium alloy exhibits a pseudo-passivity instead that passivity, such as defined by Baroux [48]. Comparing the cathodic branches of the polarisation curves for this system at different pH medium (pH: 2, 6 and 12), it can be observed that, while the samples of 6061 aluminium alloy in acidic and alkaline chloride medium, show a high cathodic currents densities Icathodic, the samples of the aluminium alloy exhibit a low cathodic current density Icathodic at slightly neutral medium (fig.4). Further, for a particular chloride ion concentration (for example 3.5%), the lowest cathodic current density registered is that in the slightly neutral medium and the cathodic current density Icathodic of this system, which is equivalent to corrosion rate, is found to be in the order pH 12> pH 2 > pH 6. This result agrees well with the preceding one. 3. 1. 5. Cyclic polarisation in 3.5wt%NaCl solutions: Figure 5 shows a typical cyclic potentiodynamic polarisation curve obtained for sample of 6061 aluminium alloy in contact with 3.5% NaCl solutions having acidic pH (or slightly neutral pH). The solid arrows next to the forward and reverse anodic branches indicate potential scan directions.
+0
+
+pH = 2 and 6 , Potential E (Volts)
+-0,5
+
+Ecor > Erp
+
+Ecor = Epit
+
+-1,0
+
+Erp
+
+-1,5 10 -8
+
+10 -7
+
+10 -6
+
+10 -5
+
+10 -4
+
+10 -3
+
+10 -2
+
+10 -1
+
+Current density I (Amps/cm²) Fig.5: Cyclic polarisation curves obtained with a samples of 6061 aluminium alloy in solutions of 3.5% NaCl at pH = 2 (this curve is similar to that of pH = 6).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 31 18 April 2007 The cathodic portion of a cyclic potentiodynamic scan is useful as a final cleaning step, but it provides no information concerning pitting susceptibility. However, pitting susceptibility can be predicted fairly reliably from the anodic portion of a scan. If the reverse anodic curve is shifted to lower currents (negative hysteresis) or if the reverse curve essentially retraces the ascending curve (neutral hysteresis), no pitting is expected. However, if the reverse anodic curve is shifted to higher currents than the forward curve (positive hysteresis), pitting is expected. Figure 5 shows an example of positive hysteresis, with repassivation potential Erp less than the Ecor and large area of the hysteresis loop, suggesting the nucleation and growth of pitting during the reverse scan [49, 50]. In general, the larger the area of the hysteresis loop, the greater the susceptibility of the material to pitting corrosion.
+0
+
+pH = 12, Erp > Ecor Potential E (Volts)
+-0,5
+
+Epit Erp
+-1,0
+
+-1,5
+
+Ecor
+
+-2,0 10 -7
+
+10 -6
+
+10 -5
+
+10 -4
+
+10 -3
+
+10 -2
+
+10 -1
+
+10 0
+
+Current density I (Amps/cm²) Fig. 6: Cyclic polarisation curves obtained with a samples of 6061 aluminium alloy in solutions of 3.5% NaCl at pH = 12. Figure 6 shows the cyclic potentiodynamic polarisation for a 6061 aluminium alloy sample in 3.5% NaCl aqueous solution at pH = 12. The material showed a classical passive region with the current density practically independent of applied potential up to pitting potential Epit = -0.633V. Then, the current density increased abruptly until reaching certain value after that it continue to increase very slightly with increasing potential and the reverse polarisation curve showed a positive hysteresis, suggesting the nucleation and growth of pitting corrosion at the point of potential breakdown (Epit). Although, the pitting corrosion was preceded by uniform thinning of the oxide film, which overwhelms the pitting corrosion. 3. 2. Effect of chloride concentration on corrosion Figure 7 shows typical anodic polarisation curves obtained with samples of 6061 aluminium alloy exposed to NaCl solutions (pH = 6) at different concentrations. The curves
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 31 18 April 2007 show how the increase in the chloride concentration produces changes in both the anodic current density and the pitting potential Epit of the samples of 6061 aluminium alloy, without appearing to alter the cathodic current density Icathodic, the value of which remains constant about 2.10-6A.cm-2. Thus, the anodic reaction on 6061 aluminium alloy appears to be controlled by the pitting of the 6061 aluminium alloy. The anodic behaviours of samples during exposure to 0.003% up to 5.5% NaCl solutions are similar, each exhibiting pitting potential Epit at the corrosion potential (Ecor). 0.003
+-0,20
+
+Potential E (Volts)
+
+-0,45
+
+0.003%
+
+0.5% 1.5% 5.5%
+
+-0,70
+
+5.5 % NaCl
+-0,95 Epit -1,20 10-8
+
+10 -7
+
+10 -6
+
+10 -5
+
+10 -4
+
+10 -3
+
+10 -2
+
+10 -1
+
+10 0
+
+Current density I (Amps/cm²) Fig. 7: 6061 aluminium alloy polarization curves as a function of chloride concentration showing a decrease in pitting potential with an increase in chloride concentration at pH = 7.
+
+-500 -550 -600 -650 -700 -750 0,001
+
+Pitting Potential, mV
+
+0,01
+
+0,1
+
+1
+
+10
+
+Chloride Concentration, wt%
+
+Fig.8: Pitting potential of a samples of 6061 aluminium alloy (determined from the anodic polarisation curves of fig. 7) as function of the concentration of NaCl, pH = 6. However, when the chloride concentrations were increased, an increase is produced in the anodic
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 31 18 April 2007 current density, as evidenced in figure 7. Furthermore, pitting is observed from the lower concentration 0.003% NaCl up to the higher one, with the pitting potential decreasing with increasing NaCl concentration as shown in the figure 8, The pitting potentials (Epit) were determined from the potentiodynamic polarisation curves and the average results are shown in the figure 8. Thus, it is logical to assume that the pitting potential of the samples of 6061 aluminium alloy immersed in neutral aqueous chloride NaCl solutions is under the corrosion potential and cannot be observed in these conditions. 4. Morphology of corrosion attack: Figure 9, presented the optical micrograph for the as-received sample of 6061 aluminium alloy and polished to mirror quality. This micrograph is presented here for comparison with those of corroded samples. In this figure we can see a network of tiny precipitates.
+
+Fig. 9: Metallographic image of sample of 6061 Aluminium alloy polished to mirror quality (as received).
+
+CP
+
+CP
+
+Pit
+
+Pit
+
+Fig. 10: Optical micrograph recorded on sample of 6061 AA after eight days of immersion in 3.5% NaCl solution at slightly neutral pH.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 31
+
+18 April 2007
+
+Pit
+
+Pit
+
+CP
+
+Fig.11: Optical micrograph recorded on a sample of 6061 AA after eight days of immersion in 3.5% NaCl solution at acidic pH, and morphology of corrosion products accumulated in the periphery of the pit
+
+Pit Pit CP CP
+
+Fig. 12: Optical micrograph showing corrosion morphology of sample of 6061 AA after eight days immersion in 3.5% NaCl solution at pH = 12. Figures 10 and 11 show the optical micrograph of the film formed upon the surface of the sample after immersion test (8days) in 3.5% NaCl solutions at slightly neutral and acidic pH respectively. Hemispherical pits with different size were grown throughout the surfaces of the samples and around each pit a white corrosion products (CP) were accumulated as the result of the worn away by corrosion of the Aluminium alloy matrix in the vicinity area of the precipitates. Attacks with similar morphology have been reported by other authors [29] as localised alkaline corrosion.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 31 18 April 2007 These micrographs clearly show that the damage caused by this type of corrosion is accentuated in solutions of acidic pH, suggesting that the cathodic activity of the system is intensive at low pH. Exposure to solution of alkaline pH results on more severe corrosion attack. Figure 12 shows the morphology of the sample surface immersed in 3.5%NaCl solution at pH = 12 for 8 days. As consequence of this treatment, a film of oxide is formed over the surface of the sample, which is covered with white gelatinous mass (CP), normally called alumina (fig. 12). Optical micrograph of the corroded surfaces of the 6061aluminium alloy samples after the potentiodynamic polarisation in 3.5% NaCl solution at different pH show a novel morphology of the attack which is considerably different from that produced by immersion experiments. As can be observed in Fig. 13, the treatment of the aluminium alloy samples using potentiodynamic anodic polarisation leads to the formation of crystallographic pitting, similar to that described by Gimenez for 5086 Aluminium Alloy [51] or by Wood for pure aluminium [52] and by Zhang for 3103 Aluminium Alloy [53]. The presence of some of geometric facets can be explained by the fact that the attack occurs probably according to well defined crystallographic directions [51].
+
+Fig. 13: Optical micrograph of sample of 6061 AA after the potentiodynamic polarisation in 3.5% NaCl solution at slightly neutral pH. The optical and SEM micrographs (Figures 10 to 13) of the corroded surfaces of the samples after potentiodynamic polarization experiments and immersion tests strongly support the above electrochemical features.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 31
+
+18 April 2007
+
+5. Coclusion:
+This paper describes a study conducted on the effects of pH solution and chloride Clion concentration on the corrosion behaviour of 6061 aluminium alloy immersed in aqueous solutions of NaCl. The corrosion behaviour of the 6061Aluminum Alloy was found to be dependant on nature of the pH and chloride concentration [NaCl] of the solution. The results obtained by tests of weight loss and linear polarisation demonstrate, that the samples of 6061 Aluminium alloy undergo a corrosion process due to intense chemical dissolution by OH- in alkaline solutions and at relatively low degree in acidic solution. In contrast, exposure to slightly neutral solutions results in low pitting corrosion. This means that this material exhibit a notable corrosion resistance in neutral chloride solution which is well validated by Rp measurement. The potentiodynamique polarisation curves showed that the pitting potential Epit is independent of the pH whereas it shifts slightly with an increase in the chloride concentration. The curves showed also, that an increase in the pH increases the current density at the passive state, shifts the corrosion potential Ecor to more active values and enlarges the width of the passive region below the pitting potential Epit. This clearly means that uniform thinning of the initial oxide through the chemical dissolution by hydroxide OH- ion attack dominates over the pitting corrosion by chloride Cl- ion attack, which is well validated by the cyclic polarisation curves. Experience revealed that the 6061Aluminum Alloy undergoes two types of localised corrosion process, leading to the formation of hemispherical and crystallographic pitting. Hemispherical pitting is found to occur on the surface of this material under a simply exposure in chloride solution whereas for the formation of the crystallographic pits, it is necessary to polarise the Alloy.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+References
+
+Volume 10 Preprint 31
+
+18 April 2007
+
+[1]. M. Pourbaix, Atlas of electrochemical equilibrium in aqueous solutions, NACE Cebelcor, Huston, 1974. [2]. R. K. Hart, Trans. Faraday Soc. 50 (1954) 269. [3]. R. K. Hart, Trans. Faraday Soc. 53 (1957) 1020. [4]. D. G. Altenpohl, Aluminium, 29 (1953) 361. [5]. J. M. Bryan, J. Soc. Chem. Ind. 69 (1950) 169. [6]. J. M. Bryan, Chem. and Ind. 34 (1952) 34. [7]. D. G. Altenpohl, Aluminium, 31 (1955) 10. [8]. D. G. Altenpohl, Aluminium, 31 (1955) 62. [9]. D. G. Altenpohl, Aluminium, 33 (1957) 78. [10]. D. G. Altenpohl, Corrosion-NACE, 18 (1962) 143t.
+[11]. M. A. Streicher, Journal of the Electrochemical Society, 103 (1956) 375. [12]. B. E. Wilde and J. S. Armijo, Corrosion, 23 (1967) 208. [13]. Z. Szklarska-Smialowska et al., British Corrosion Journal, 5 (1970) 159. [14]. J. R. Galvele and S. M. Demicheli, Corr. Sci., 11 (1970) 795. [15]. I. L. Muller and J. R. Galvele, Corr. Sci. 17 (1977) 179. [16]. B. Mazurkiewicz and A. Piotrowski, Corr. Sci. 23 (1983) 697. [17]. C. Blanc, B. Lavelle and G. Mankowski, Materials Science Forum, 217 (1996) 1559. [18]. N. V. Vyazovikina, Protect. Met. 35 (1999) 448. [19]. G. Okamoto and T. Shibata, Passivity of Metals, Corrosion Monograph series, R. P. Frankenthal and J. Kruger, eds., The electrochemical Society, Pennington, NJ, p. 646, 1978. [20]. A. J. Sedriks, Corrosion, 42 (1986) 376. [21]. J. R. Kearns and H. E. Devrell, Materials Performance, 26 (1987) 18. [22]. R. S. Alwit, from « Oxides oxide films », John W. Dekker, New York, 4 (1976) 169. [23]. P. M. Natishan, E. MacCafferty, G. K. Hubler, J. Electrochem. Soc. 135 (1988) 321. [24]. O. Lunder, K. Nisancioglu, Corrosion, 44 (1988) 169. [25]. M. Whitaker, A review of information of the affect of impurities on the corrosion resistance of aluminium. Metal Industry (1952). [26]. H. P. Godard, W. B. Jepson, M. R. Bothwell, R. L. Kane, The corrosion of light metals. John Wiley & Sons (1967) pp. 1-218. [27]. C. Blanc and G. Mankowski, Corr. Sci. 39 (1997) 949. [28]. C. Blanc, B. Lavelle and G. Mankowski, Corr. Sci. 39 (1997) 495. [29]. A. Aballe, M. Bethencourt, F. J. Botana, M. J. Cano, M. Marcos, Corr. Sci. 43 (2001) 1657. [30]. M. Bethencourt, F. J. Botana, J. J. Calvino, M. Marcos, M. A. Rodriguez, Mater. Sci. Forum 289-292 (1998) 567-574. [31]. H. S. Isaacs, Corr. Sci. 29 (1989) 313. [32]. Z. Szklarska-Smialowska, Corr. Sci. 41 (1999) 1743. [33]. D. D. Macdonald, H. Song, K. Makela, K. Yoshida, Corrosion, 49 (1993) 8. [34]. I. Sekine, et al. Corr. Sci. 32 (1991) 815. [35]. M. Janik-Czachor, Corrosion, 49 (1993) 763. [36]. W. S. Tait and K. A. Handrich, Corrosion, 50 (1994) 373. [37]. W. S. Tait, Corrosion, 35 (1979) 296.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+[38]. K. Nisancioglu, H. Holtan, Corr. Sci. 18 (1978) 835.
+
+Volume 10 Preprint 31
+
+18 April 2007
+
+[39]. E. Deltombe, M. Pourbaix, Corrosion, 14 (1958) 496t. [40]. T. Morzumi, Hokkaido Daigaku Koga Kubu Kenkyu Hokoko, 42 (1967) 123. [41]. O. R. Brown, J. S. Whitley, Electrochemica. Acta, 32 (1987) 545. [42]. S. M. Moon, S. I. Pyun, Corr. Sci. 39 (1997) 399. [43]. S. I. Pyun, S. M. Moon, S. H. Ahn. S. H. Kim, Corr. Sci. 41 (1999) 653. [44]. E. H. Hollingsworth and H. Y. Hunsicker in "ASM Handbook, Vol. 13, Corrosion", ASM International, Metals Park, OH, (1992) p. 608. [45]. H. Bohni and H. H. Uhlig, J. Electrochem. Soc. 116 (1969) 906. [46]. W. J. Rudd and J. C. Scully, Corr. Sci. 20 (1980) 611. [47]. O. R. Brown, J. S. Whitley, Electrochim. Acta 32 (1987) 545. [48]. P. Lacombe, B. Baroux, G. Beranger, in: Les Aciers Inoxydables, Les Editions de Physique, Les Ulis, France, 1990, p. 163. [49]. Z. Szklarska-Smialowska, Pitting Corrosion of Metals, p. 40, NACE, Houston TX (1986). [50]. D. C. Silverman, Corrosion, 48 (1992) 735. [51]. Ph. Gimenez, J. J. Rameau, M. C. Rebioul, Corrosion, 37 (1981) 673. [52]. G. C. Wood, H. W. Sutton, J. A. Richardson, T. N. K. Riley, A. G. Malherbe, Localised Corrosion, International Corrosion Conference Series NACE-3, 1986, p. 526. [53]. X. Zhang, S. Lo Russo, S. Zandolin, A. Miotello, E. Cattaruzza, P. L. Bonora, L. Benedetti, Corrosion science, 43 (2001) 85.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

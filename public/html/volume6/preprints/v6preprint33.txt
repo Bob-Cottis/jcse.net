@@ -1,0 +1,353 @@
+Volume 6 Paper C078
+
+CHROMIUM
+
+STAINLESS STEEL: ELECTROCHEMICAL STUDY OF THE PASSIVE FILM
+C. M. Abreu, M. J. Cristóbal, X. R. Nóvoa, G. Pena, M. C. Pérez
+
+IMPLANTATION
+
+IN
+
+AISI
+
+304L
+
+E. T. S. E. I., University of Vigo, Lagoas-Marcosende, 9, 36310 ­ Vigo (Spain), rnovoa@uvigo.es
+
+Abstract
+The present work focuses on the effect of chromium implantation on the formation and evolution of the passive layers formed on an austenitic stainless steel (AISI 304L) in an alkaline medium. Cyclic Voltammetry and electrochemical Impedance Spectroscopy have been used for this study. The characterization of the developed passive films has been performed by means of X-Ray Photoelectron Spectroscopy (XPS) and Scanning Electron Microscopy (SEM). Electrochemical measurements show an important increase in the
+
+with, leading to an increase on the Cr/Fe and Ni/Fe ratio in the oxide layer of the implanted steel compared to the unimplanted one. This effect of Ni enrichment is also reflected on the EIS diagrams of the implanted steel, indicating a modification in the resistance and capacitance values. High frequency impedance experiments have also shown the effect of the Cr implantation in the conductive properties of the passive film.
+
+intensity of the peak assigned to the Cr3+/Cr6+ oxidation together
+
+Keywords: Ion Implantation, AISI 304L, Cyclic Voltammetry, EIS, XPS.Introduction
+
+INTRODUCTION
+Since the late 1970s, high dose ion implantation of carbon, nitrogen and metallic ions has been reported as an effective solution for enhancing the lifetime and improving the performance of many kinds of tools for which wear, friction fatigue and corrosion problems are presents. The most abundantly studied materials with regard to surface modification by ion implantation are steels. Chromium ion implantation is a technique used to increase corrosion resistance of low alloy steels [1,2]. For alloyed steels and stainless steels, some works point out that the combined implantation of Cr and N is a good alternative for obtaining excellent combinations of wear and friction properties and corrosion resistance [3,4]. Although previous studies have demonstrated some of the merits of the co-implantation, still there are some ambiguities remained, particularly the effect on the modification of tribology. In the present study we analyze the effect of chromium implantation on the formation and evolution of the passive layer formed on an austenitic stainless steel in an alkaline medium, as first step to study the effect of nitrogen and chromium co-implantation on the development of passive layers on different stainless steels.
+
+Experimental
+Coupons of AISI 304L of 1 x 1x 1.5 cm (18.22 wt.% Cr, 8.58 wt.% Ni, 1.79 wt.% Mn, 0.34 wt.% Si, 0.43 wt.% Mo, 0.023 wt.% C, Fe balance) were cut from cold-rolled plates. Before implantation, the samples were ground with silicon carbide paper up to 600 grit, and then mechanically polished with diamond paste to 6 µm finish.
+
+with an acceleration voltage of 150 KeV. The dose used (saturation dose) was selected taking in consideration the theoretical implantation profiles calculated by means of the PROFILE [5] code, which take into account the material loss due to sputtering. 2
+
+Implantation at a nominal dose of 2x1017 Cr ions/cm2, was undertaken
+
+Electrochemical experiments were performed at 30°C in pre-dearated NaOH 0.1M solutions and under continuous N2 bubbling, in an electrochemical cell with two identical working electrodes (exposed
+
+electrode and a Hg/HgO 0.1M KOH as the reference one. An AUTOLAB 30 Potentiostat (from EcoChemie) was used for cyclic voltammetry and electrochemical impedance measurements. The oxide films are formed, after a cathodic reduction of the native films at ­1.4 V for 1 minute, scanning the potential from hydrogen to oxygen evolution reactions. In order to establish the evolution of the voltammetric curves and to generate films thick enough to be characterised, each sample was cycled eight times at a scan rate of 1mVs-1, which allows relaxation of the redox processes taking place in the passive layers. Just after the voltammetric tests the electrochemical impedance spectra (from 10 kHz down to 1 mHz and 10 mV rms signal amplitude) were registered between ­1.4 V and +0.5V, at 100 mV steps. Immediately after the electrochemical tests, specimens were ultrasonically cleaned, rinsed and dried to observe the morphology of the generated oxide layer, using a JEOL 5410 scanning electron microscope. The chemical characterisation was performed by X-ray photoelectron spectroscopy (XPS) using a VG ESCALAB 250iXL spectrometer. The XPS data were collected using monochromatic Al K radiation at 1486.92 eV at a constant analyser pass energy of 20 eV. at 3 kV. To compensate for sample charging during analyses all the binding energies were referred to the C 1s signal at 285 eV. Quantification of the species in the passive film was performed via a commercial curve fitting routine in which the XPS peaks were deconvoluted into single species peaks. Sensitivity factors for Fe, Cr, and Ni have been calculated using the bulk material as standard; the same values have been used for the ions of these elements, while for oxygen sensitivity factor has been extracted from the Wagner Library [6]. Sputtering rate values were fixed using perfilometry measurements. Depth profile experiments were performed using an EX05 Ar+ Ion Gun
+
+surface of 0.28 cm2 each). A Pt mesh was used as large area counter
+
+3
+
+RESULTS
+3.1. Cyclic Voltammetry
+The voltammograms obtained on the AISI 304L and Cr-implanted steel are depicted in figure 1 and 2 (detailed descriptions have been reported in a previous work [7]). As it can be seen in the figure, three different regions of potential are considered, were similar processes are evolving in both steels. But comparing the evolution of the shown curves, some differences can be pointed out.
+
+200 Zone I 150 Zone II Zone III
+
+Current Density / µA cm
+
+-2
+
+100 50 0 -50 -100 -150 -1.50 -1.25 -1.00 -0.75 -0.50
+1 Cycle 4 Cycle 6 Cycle 8 Cycle
+th th th st
+
+-0.25
+
+0.00
+
+0.25
+
+0.50
+
+Potential / V vs. Hg/HgO
+
+Figure 1: Cyclic voltammograms obtained in NaOH 0.1M solution for AISI 304L. Potential range: ­1.4 V to 0.5 V (vs. Hg/HgO). (dE/dt=1 mVs-1 ).
+
+4
+
+200 Zone I 150
+-2
+
+Zone II
+
+Zone III
+
+Current Density / µA cm
+
+100 50 0 -50 -100 -150 -1.50 -1.25 -1.00 -0.75 -0.50 -0.25 0.00
+1 Cycle 4 Cycle 6 Cycle 8 Cycle
+th th th st
+
+0.25
+
+0.50
+
+Potential / V vs. Hg/HgO
+
+Figure 2: Cyclic voltammograms obtained in NaOH 0.1M solution for (dE/dt = 1 mVs-1 ).
+
+Cr implanted AISI 304L . Potential range: ­1.4 V to 0.5 V (vs. Hg/HgO).
+
+In the iron activity region, implantation reduced the current density of the main redox processes (Fe+2/Fe3O4 and Fe3O4/ Fe+2), moreover, it is interested to note that also modifies the peak shape broadening its base. As a consequence of this, the implanted steel shows a less extended passive region than unimplanted steel. In the Cr and Ni activity region, both the morphology and the intensity of the peak Cr3+/Cr6+ change with the implantation, showing the Cr-implanted steel the maximum peak intensity. A high current level in the Ni2+/Ni3+
+
+process and a displacement towards more cathodic potentials is also registered in the implanted steel.
+
+3.2. Electrochemical Impedance Spectroscopy
+The experimental impedance data have been modelled using an equivalent circuit already proposed for magnetite based passive films [8]. A good agreement exists between experimental and fitted data. All over the considered potential range, three time constants are well differentiated in the obtained impedance spectra for both tested 5
+
+materials. The time constant at higher frequencies is attributed to the double layer process, while R2C2 and R3C3 have been assigned to different redox process taking place in the oxide layers.
+
+3.3. Surface study of the passive films formed by cyclic polarisation.
+After the electrochemical tests, the surface morphology of all samples was observed by SEM. High magnification micrographs (figure 3) both implanted and unimplanted steel, could be described as homogeneous layers of small acicular crystal; however, the film formed on implanted steel is severely cracked. reveals that the oxide surface morphology, which has been growth on
+
+a)
+
+b)
+
+Figure 3: SEM microstructures on a) Unimplanted AISI 304L and b) CrImplanted AISI 304L
+
+3.4. XPS analysis of the passive films on implanted and unimplanted AISI 304L steel.
+The XPS analysis of the passive film generated on AISI 304L after electrochemical measurements shows that the elemental composition Cr3+ and Ni2+. The curve fitting of the spectra gives the following results. The O 1s peak could be fitted with two peaks: one at 530.1 eV corresponding to O2- in chromium and/or iron oxide, and one at 531.3 eV corresponding to OH- in hydroxide species. A metallic peak at 6 is similar to that observed for the native layer, i.e.: OH-, O2-, Fe2+, Fe3+,
+
+574.2 eV and a trivalent oxide peak at 576.4 eV could fit the chromium spectra (Cr 2p3/2). Unfortunately, the chromium implantation has been contaminated with carbon C (binding energy 283.0 eV) along the implanted region. Figure 4 depicts the highresolution Cr 2p3/2 peak on implanted AISI 304L, indicating that chromium has been implanted with a binding energy of 574.2 eV, very similar (BE: 574.5 eV) to that reported for metallic chromium and Crcarbide mixture [9]. A metallic peak at 706.9 eV, a divalent oxide peak at 708.5 eV, a trivalent oxide peak at 710.6 eV, and a satellite peak at 715.1 eV could fit the iron spectra (Fe 2p3/2). In order to simplify the figures, the iron could correspond to a Fe3O4, as indicated by the shape and position of Fe 2p3/2 spectral line, when compared with the X-ray photoelectron spectra of some typical iron corrosion products as: FeO, -Fe2O3, -Fe2O3 and Fe3O4 [10]. contributions of both Fe ions are summed. The two oxidation states of
+
+Figure 4: XPS high resolution Cr 2p emission through the passive film on AISI 304L
+
+7
+
+The fitting of the Cr 2p3/2 and Fe 2p3/2 do not take into account the
+
+contributions of the hydroxide species. However, it is reasonable to consider that the component at 576, eV assigned to the Cr3+ (oxide) and the component 710,6 eV assigned to Fe3+ (oxide) include some
+
+amount of hydroxide spices together with the oxide, as indicate the fact that the FWHM (full width at half maximum) is more than 3 eV especially in the outer most part of the layer. The high resolution [11], as well as the presence of the OH- peak throughout the film,
+
+spectra of Ni 2p3/2 could be fitted with two peaks: one at 852.9 eV
+
+corresponding to a metallic state, and the second one with a binding energy of 855,4 eV, which could be assigned to a divalent oxide state Ni+2 on Ni (OH)2 or NiFe2O4 [6]. The XPS depth profile obtained on the AISI 304L after polarisation in NaOH (figure 5a) shows that the film is composed mainly of iron oxide, with some amount of Cr3+ distributed throughout the film with a maximum located close to the oxide/metal interface, when the iron signal is decreasing. So, the oxide film could be described as an outermost layer of iron oxide (with small amount of Cr3+) and an inner layer constituted by both chromium and iron oxides. Nickel ions are detected only as traces at the outer part of the film; but it is interesting to note that enrichment in the Ni0 signal at the oxide/alloy interface is observed. A similar behaviour is observed for the native oxide layer. This fact has been already reported in the literature [12,13]. It is important to note that, in any case, it is impossible to determine whether it is a mixed iron-chromium spinel in which chromium replaces some of the iron positions. The elemental depth profile of figure 5b, illustrate the effects of chromium implantation in the composition and structure of the oxide layer generated on the stainless steel. First consequence is a reduction in the film thickness, about 115nm in the unimplanted AIS304L and 75 nm in the Cr implanted steel. A second aspect to be considered is the change in the element distribution along the passive films: in the implanted 304L, an 8 whether the oxide film is a mixture of two oxides (Cr2O3 + Fe3O4) or
+
+significant increase on the Cr/Fe ratio is noted, standing out the layer.
+80
+
+higher concentration of Cr3+ and Ni2+ in the outermost part of the
+
+AISI 304L - cycled
+70 60 O
+2-
+
+Atomic Conc. / %
+
+50 40 30 20 10 0 0 50 100
+
+OH Fe Metal Cr Metal Ni Metal Fe Oxide Cr Oxide Ni Oxide
+
+150
+
+200
+
+Depth / nm
+
+Figure 5a : XPS depth profile of AISI 304L cycled in NaOH 0.1M solution
+
+9
+
+80 70 60
+
+AISI 304L Cr implanted - Cycled
+O
+2-
+
+Atomic Conc. / %
+
+50 40 30 20 10 0 0 50 100
+
+OH Fe Metal Cr Metal Ni Metal Fe Oxide Cr Oxide Ni Oxide
+
+150
+
+Depth / nm
+
+Figure 5b : XPS depth profile of Cr-implanted AISI 304L cycled in NaOH 0.1M solution
+
+DISCUSSION.
+The obtained results suggest the formation of a passive film on the AISI 304L based on the magnetite structure, with the incorporation of Cr3+ mainly to the internal part of the layer. In the implanted steel, the evolution in the voltammetric curves and the higher detected levels of Cr and Ni indicate an increasing deviation from this structure.
+
+The higher Cr/Fe ratio measured by XPS elemental profile in the resistance [14]. Nevertheless, the film is generated under potentiodynamic conditions reaching the potential at which the oxidation Cr3+/Cr6+ takes place. The solubility of Cr6+ species in this medium enhances the diffusion of Cr3+ ions towards the outermost part of the film. The ions mobility can generate stresses into the film high enough to cause the cracking of the oxide layer, observed in figure 3b. 10 implanted steel could be considered as a sign of a best corrosion
+
+Electrochemical impedance results in the frequency range 10kHz down to 1 mHz show the presence of three time constants, as it was and R3C3, were assigned to the iron redox processes taking place into the film at the different scanned potentials. The presence of two the presence of two time constants, [15]. In the case of AISI 304L, a clear difference between the external part of the film, that can be considered a nearly pure iron oxide, and the inner region can be considered as a Fe-Cr spinel oxide (figure 4a). For the into account the different concentrarion of chromium and nickel species trough the film (figure 4b). An example of the Nyquist diagrams obtained in the three potential regions considered in the voltammetric curves are depicted in figure 6. Both unimplanted and implanted steels show similar tendencies in electrical parameters obtained by fitting to the equivalent circuit, reaching lower capacitance values (close to double layer capacity) and high resistance values, as expected, in the passive region.
+100
+AISI 304L AISI 304L-Cr implanted
+1 mHz
+
+previously mentioned. Constants at medium and low frequencies, R2C2
+
+environments for iron cations with different energy levels can explain
+
+implanted stainless steels, a similar consideration can be made taking
+
+1 mHz
+
+- Imaginary part
+
+50
+10 mHz
+
+A)
+1 KHz
+
+0
+
+0
+
+50
+
+100
+2
+
+Real Part/ k . cm
+
+11
+
+700 600 500
+AISI 304L AISI 304L + Cr implanted
+
+- Imaginary part
+
+1 mHz
+
+400 300 200 100
+1 KHz 1 mHz
+
+10 mHz
+
+B)
+600 700
+
+0
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+2
+
+Real Part/ k . cm
+
+150
+AISI 304L AISI 304L + Cr implanted
+
+- Imaginary part
+
+100
+
+1 mHz
+
+50 10 mHz
+1 mHz
+
+C)
+0
+1 KHz
+
+0
+
+50
+
+100
+2
+
+150
+
+Real Part/ k . cm
+
+Figure 6 : Impedance spectrum obtained for unimplanted and Crimplanted in NaOH 0.1M solution, using as reference electrode (vs.
+
+Hg/HgO) A) -0.657 V, B) -0.257 V, C) 0.343 V
+
+Nevertheless, some differences between them are observed on figure 6. In general, the Cr implanted steel reach lower values of capacitance and resistance in the three regions, owing to the influence of the allowing elements reactions. In the first potential region, the predominance of the iron redox process above the others reactions, make the registered parameters to approximate between both materials. As the relative importance of iron reaction decreases with the anodic displacement of the potential, the difference increases. In previous works [7] the electrochemical behaviour of pure chromium and nickel electrodes was studied in 12
+
+order to establish their influence in the passive film formation on stainless steels. Regarding these reported results, it can be concluded that in the passive region the main influence is Ni redox process and in the more anodic zone, the Cr3+/Cr6+ reaction. Both mentioned processes are much more important in the implanted stainless steel as it can be derived from XPS analysis, that register a significant increase in Ni2+ and in Cr/Fe ratio. Another aspect of behaviour of the developed films was considered in the present work. Previous research of our group suggest that the conducting properties of passive films formed on stainless steel in alkaline media can also be detected in the high frequency region (40 MHz down to 100Hz). In order to determine the influence of chromium implantation this range was examined in more detail, using an Impedance Analyser (HP4194A) which allows capacitance measurements in a wide range (from 10-14 to 0.1F) with a resolution of 10-16F. For these experiences, the reference and the counter electrodes were removed form the cell, so only the two working electrodes were measured. To minimise noise during the tests the dearation was stopped. Figure 7 displays the registered impedance response of both steels in the high frequency region. As it can be noted, in the unimplanted steel spectra a small but well-defined capacitive arc is noted at the higher frequencies. Using the capacity value obtained from this time constant, a dielectric constant  = 15 is obtained [16], which is in accordance with reported value for magnetite [17]. In the chromium implanted steel this signal does not exist or it is overlapped with the medium and lower frequencies processes, which can be related to the existence of low resistance paths through the cracks present in the film of this stainless steel. On the other hand, this change can be attributed to the different conductive properties of the Cr rich spinel structure formed as consequence of the Cr implantation. However further work will be needed in order to deepen in the high frequency impedance response of both systems. 13
+
+0.8 0.7 0.6
+
+100 Hz
+
+- Imaginary part
+
+0.5 0.4 0.3 0.2
+
+10 MHz
+0.1 0.0 0.1
+
+304L 304L Cr implanted
+0.3 0.4 0.5 0.6 0.7
+2
+
+0.2
+
+0.8
+
+0.9
+
+Real Part/ k . cm
+
+Figure 7: High frequency impedance spectra obtained for implanted and unimplanted 304L in NaOH 0.1M solution at zero current in a twoelectrode cell.
+
+CONCLUSIONS
+The performed experiences on chromium implanted AISI 304L revealed that the passive layer developed under potentiodynamic conditions in 0.1M NaOH is thinner. The higher disposal of Cr in this steel is the origin of the increase in the Cr/Fe ratio through the film, as compared to the unimplanted steel, and the diffusion of chromium species from the metal to the solution can be the reason of the cracking of the oxide layer. Another significant aspect about the composition of the film formed on the implanted steel is the Ni2+ ions enrichment especially in the outermost part. EIS experiences performed in the medium and low frequency range have revealed the influence of the higher amounts of Ni and Cr species present in the film on the electrochemical behaviour. At higher frequencies, the obtained results show a change in the conductivity properties of the film induced by the chromium implantation. 14
+
+ACKNOWLEDGMENTS
+The authors gratefully acknowledge the financial support from the MCYT (Project Nº ) and materials supplying from ACERINOX, S.A. The technical assistance of Dr. Carmen Serra in XPS analysis is specially acknowledged.
+
+References
+
+[1] "Chromium ion implantation for inhibition of corrosion of aluminium", C.M. Rangel, T.I.C. Paiva, Surface and Coatings
+
+Technology, 83, pp. 194-200,1996.
+
+[2] "Effects of B, N, Cr and Mo ion implantation on the corrosion resistance of pure iron and its alloys (GCr15 and Cr4Mo4V)", L. Haolin, 39, 2-4, pp. 187-189,1989. S. Huiquin, M. Chen, Y. Qifa, W. Qiu, X. Deguang, Z. Tianyou, Vacuum,
+
+[3] "Corrosion resistance of N-, Cr- or Cr + N-implanted AISI 420 stainless steel", J.P., Hirvonen, D. Rück, S. Yan, A. Mahiout, P. Torri, J. Likonen, Surface Coating Technology, 74-75, pp. 760-764 ,1995.
+
+[4] E.J. Bienk, N.J. Mikkelsen, Advances in Surface Engineering, vol III: Engineering Applications, Eds. P. K. Datta, J.S. Burnell-Gray, 1997, 218-223 [5] PROFILE, version 3.18, Implant. Sci. Corp., 1991. [6] C. D. Wagner, Practical Surface Analysis, Vol. 1., 2nd edn, J. Wiley and Sons, London, 1990, Appendix 6. [7] C. M. Abreu, M. J. Cristóbal, X. R. Nóvoa, G. Pena, M. C. Pérez, Proc.
+
+V Congr. Nal. de Corr. y Prot., Madrid, Spain June 2000.
+
+[8] "Electrochemical behaviour of steel rebars in concrete: influence of environmental factors and cement chemistry", C. Andrade, M. Keddam, X. R. Nóvoa, M.C. Pérez, C. M. Rangel, H. Takenouti, Electrochimica
+
+Acta, 46, 24-25,pp. 3905-3912, 2001.
+15
+
+248 nm", R. Novak, P. Hess, H. Oetzmann , C. Schmidt, Applied Surface
+
+[9] "XPS characterization of chromium films deposited from Cr(CO)6 at
+
+Science, 43, pp. 11-16, 1989.
+
+[10] "Handbooks of Monochromatic XPS Spectra Series", Volume 2, Commercially Pure Binary Oxides, XPS International, LLC. [11] "The x-ray photoelectron spectra of several oxides of iron and chromium", K. Asami, K. Hashimoto, Corrosion Science, 17, 7, pp. 559-70, 1977.
+
+[12] "X-ray photoelectron spectroscopy and scanning tunneling microscopy study of passive films formed on (100) Fe-18Cr-13Ni single-crystal surface", V. Maurice, W. P. Yang, P. Marcus, Journal of
+
+the Electrochemical Society, 145, 3, pp. 909-920, 1998.
+
+[13] "The resistance to localized corrosion in neutral chloride medium of an AISI 304L stainless steel implanted with nitrogen and neon ions", R. Sabot, R. Devaux, A. M. de Becdelievre, C. Duret-Thual, Corrosion
+
+Science, 33, 7, pp. 1121-34, 1992.
+
+[14] "Study of passive film on stainless steels and high grade nickel base alloy using X-ray photoelectron spectroscopy", A. Neville, T. Hodgkiess, British Corrosion Journal, 35, 3, pp. 183-188, 2000. [15] "Thesis, University of Vigo (Spain)", M. C. Pérez, 1999. [16] "Characterization of the electrochemical behavior of cerium implanted stainless steels", C. M. Abreu, M. J. Cristóbal, X. R. Nóvoa, G. Pena, M. C. Pérez, Electrochimica Acta, 47, 13-14, pp. 2215-2222, 2002.
+
+[17] "EIS and XPS study of surface modification of 316LVM stainless steel after passivation", D. Wallinder, J. Pan, C. Leygraf , A. DelblancBauer, Corrosion Science, 41, 2, pp. 275-289, 1999.
+
+16
+

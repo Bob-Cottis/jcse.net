@@ -1,0 +1,159 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+Removal of Corrosion Product from Inside Heat Exchanger Tubes Used in Topping Unit in Azzawia Refinery / Libya by Chemical Methods. By: Haider M. Essa, M.Sc. E-mail: haidmessa@yahoo.com Abstract: The possibilities for using several chemical agents in the corrosion product removal process such as Citric acid , Hydrochloric acid , EDTA, Oxalic acid , Sulfamic acid , and Hydrofluoric acid were tested in this work. The experiments were carried out for one variable of time , keeping other parameters constant , like concentration of removal agent , concentration of inhibitor and temperature except citric acid experiments were carried out for two variables temperature and time. The dynamic system was designed for corrosion product experiments where the wt.% of removal calculated depending on weight loss of corroded heat exchanger tubes. It was found that the best results obtained for first, 5wt.% inhibited citric acid with 0.05wt.% hexamine inhibitor at 40oC temperature and 3 hrs. , second, 3wt.% inhibited citric acid with 0.05wt.% hexamine inhibitor at 60oC temperature and 2.5 hrs , third 2wt.% inhibited oxalic acid with 0.05 wt.% hexamine inhibitor at 60oC and 1 hr. , fourth ,3wt.% inhibited EDTA with 0.05wt.%hexamine inhibitor at 78oC and 3hrs. .Where approximately 90wt.% corrosion product removal achieved . Introduction: Chemical cleaning program is implemented to prepare the unit for the most efficient operation by removing deposited solids including corrosion product of the tubes metal or any fouling that represents barrier to heat and fluid flow. Very commonly, chemical removal is in correctly called "acid cleaning" because mineral acids were the first widely used cleaning agents, later a variety of non-acid cleaning agents. The corrosion product removal term used here to refer to the removal of corrosion formed during the operation of heat exchanger in topping unit (Azzawia refinery). The purpose of this work is to study the corrosion product scale removal inside tubes of topping unit (HC-HC) heat exchanger (10E1) in Azzawia refinery and search for proper reagent that can be used to remove that corrosion product. The corrosion product deposition occurred in heat exchanger tubes at outlet temperature (90oC) using field corroded carbon steel alloy metal topping unit in Azzawia refinery .The corroded tubes specimens were prepared by cutting sections from the heat exchanger , the tubing was of (2.5 cm) outside diameter and (0.5 cm) in thickness , the corrosion product having the following chemical composition table (1).Metal corrosion product often contain both ferrous and ferric ions the latter is corrosive to carbon steel where kept to minimum in cleaning solution by using the corrosion inhibitor (Hexamine).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+Table (1): Complete Corrosion Product Analysis in Topping Unit Heat Exchanger Tubes. Element Analysis Wt.% Fe 58.25 Cu 0.41 Ni 0.46 Zn 0.28
+No silica present Most sample as Iron oxide , no sulphates or sulphides present. The remain weight was loss on ignition or insoluble in the test solution . The analysis was carried out in Azzawia refinery labs.
+
+All the removal tests were carried out using field corroded , carbon steel (low) heat exchanger tubes , where the cold fluid was crude oil which passes through the tubes , received by pumps from tanks. The hot fluid was intermediate hydrocarbon product from the same topping .As shown in table (2). Table(2): Analysis of Tubes Metal. Element Wt.% Fe 98.93 C 0.14 Si 0.14 Mn 0.38 Cr 0.072 Ni 0.098 Mo 0.012 Cu 0.16
+
+Element Al U H Ti Nb B S P
+
+Wt.% 0.00 0.00 0.034 0.0034 0.00 0.00 0.029 0.015
+
+Many inhibited chemical solutions were used as reagent in chemical cleaning experiments; the reagents were examined over different ranges of time, also different concentration and temperature for some tests. The inhibitor hexamine it was used to minimize the metal corrosion rate during the removal .A dynamic system was designed for corrosion removal tests consist of Q.V.F. glass piping , heating control unit , 15 liter container and (0.25 kw) pump. Where the cleaning solution was circulated through testing specimen. The corroded tubes were prepared by cutting 10 cm long section from cold crude oil tubes , the out side surface was cleaned using sand paper and inserted between two Teflon pieces to prevent removal solution exposure for external surface of tubes. the specimen was then thoroughly washed with distilled water to remove soluble components, then over dried at 60oC for 24 hrs until constant weight . The corrosion product removal wt. % calculation was based on the weight difference at start and end of
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+each test ,the remain corrosion was removed by mechanical method , washed , oven dried at 60oC for 24 hrs and weighed . to calculate the total weight of the corrosion product . 1. Inhibited Citric Acid Experiments: The effects of temperature and time for removal solution of inhibited 5wt.% citric acid with 0.05 wt.% Hexamine inhibitor were tested , the results as shown in tables (3) , (4) and figures (1) , (2).
+
+Table(3): Results of Experimental Runs for Removal Wt.% Using Inhibited (5Wt.%) Citric Acid with Inhibitor Concentration Hexamine (0.05 Wt. %) at Constant Temperature (40 OC). Wt.% Removed Tube Run Time Corrosion Corrosion Length No. Hr. product (gm) (cm) Removal 1 1.0 0.559 10.0 77.80% 2 2.0 0.616 10.0 85.79% 3 3.0 0.667 10.0 92.89% 4 4.0 0.717 10.0 99.86%
+
+Table (4): Results of Experimental Runs for Removal Wt. % Using Inhibited (3Wt. %) Citric Acid with Inhibitor Concentration Hexamine (0.05 Wt. %) at Constant Time of (2.5hr). Total Removed Wt.% Tube Run Temperature Corrosion Corrosion Corrosion Length o C No. Weight Weight product (cm) (gm) (gm) Removal 1 40 0.759 0.515 10.0 67.84 2 50 1.683 1.338 10.0 81.45 3 60 0.827 0.725 10.0 93.75 4 70 0.649 0.649 10.0 99.4 5 80 0.673 0.673 10.0 100.0
+
+2. Inhibited Hydrochloric Acid Experiments: In order examine the effect of time of treatment on the wt.% removal using inhibited HCL, several runs was made at constant temperature indicate the longer time of treatment , the higher wt.% of corrosion product removal see table(5) and figure(3).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+Figure (1): Removal wt.% vs. Time of Treatment of Inhibited (5wt.%) Citric Acid with (0.05 wt.%) Inhibitor (Hexamine) at Constant Temperature of (40oC) .
+
+100 Corrosion Removal (wt.%) 95 90 85 80 75 70 1 2 Time ( Hr.)
+Figure (2): Removal wt. % vs. Temperature of Treatment of Inhibited (3wt.%) Citric Acid with (0.05 wt. %) Inhibitor (Hexamine) at Constant Time (2.5 hr.).
+100 Corrosion Removal (wt.%) 95 90 85 80 75 70 65 60 40 50 60 Temperature ( C)
+o
+
+3
+
+4
+
+70
+
+80
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+Table (5): Results of Experimental Runs for Removal Wt. % Using (5 wt.%) Inhibited (HCL) with (0.05wt. %) at Constant Temperature of (60 oC). Wt.% Removed Tube Run Time Corrosion Corrosion Length No. Hr. product (gm) (cm) Removal 1 1.0 0.859 10.0 55.90% 2 1.5 0.616 10.0 65.04% 3 2.0 0.767 10.0 70.50% 4 2.5 0.717 10.0 71.52% 5 3.0 0.683 10.0 72.00%
+
+Figure (3): Removal wt. % vs. Time of Treatment of Inhibited (5wt.%) Hydrochloric Acid with (0.05 wt. %) Inhibitor (Hexamine) at Constant Temperature of (60oC).
+75 Corrosion Removal (Wt.%) 70 65 60 55 50 1 1.5 2 Time (Hr.) 2.5 3
+
+3. Inhibited Diamine Tetra Acetic Acid (EDTA) Experiments: The experimental results shows that the longer time of treatment, the higher wt. % of corrosion removal see table (6 ) and figure(4 ).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+Table (6): Results of Experimental Runs for Removal Wt. % Using (5 wt. %) Inhibited (EDTA) with (0.05wt. %) at Constant Temperature of (78 oC). Wt.% Removed Tube Run Time Corrosion Corrosion Length No. Hr. product (gm) (cm) Removal 1 1.0 0.736 10.0 46.17% 2 1.5 0.653 10.0 71.63% 3 2.0 0.816 10.0 87.43% 4 3.0 0.694 10.0 89.02% 5 4.0 0.711 10.0 89.60%
+
+Figure (4): Removal wt. % vs. Time of Treatment of Inhibited (5wt. %) EDTA with (0.05 wt. %) Inhibitor (Hexamine) at Constant Temperature of (78oC).
+100 Corrosion Removal (Wt.%) 90 80 70 60 50 40 1 1.5 2 Time (Hr.) 3 4
+
+4. Inhibited Oxalic Acid Experiments: In order examine the effect of time of treatment on the wt.% removal using inhibited Oxalic, several runs was made at constant temperature indicate the longer time of treatment , the higher wt.% of corrosion product removal see table(7) and figure(5).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+Table (7): Results of Experimental Runs for Removal Wt. % Using (2 wt. %) Inhibited Oxalic Acid with (0.05wt. %) at Constant Temperature of (60 oC). Wt.% Removed Tube Run Time Corrosion Corrosion Length No. Hr. product (gm) (cm) Removal 1 1.0 0.802 10.0 96.40% 2 2.0 0.656 10.0 97.51% 3 3.0 0.866 10.0 98.50% 4 4.0 0.907 10.0 98.91%
+
+Figure (5): Removal wt. % vs. Time of Treatment of Inhibited (5wt. %) Oxalic Acid with (0.05 wt. %) Inhibitor (Hexamine) at Constant Temperature of (60oC).
+100 Corrosion Rate (Wt.%) 95 90 85 80 75 70 1 2 Time (Hr.) 3 4
+
+5. Inhibited Sulphamic Acid Experiments: The experimental results shows that the longer time of treatment, the higher wt. % of corrosion removal see table (8 ) and figure(6 ).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+Table (8): Results of Experimental Runs for Removal Wt. % Using (3 wt. %) Inhibited Sulphamic Acid with (0.05wt. %) at Constant Temperature of (40 oC). Wt.% Removed Tube Run Time Corrosion Corrosion Length No. Hr. product (gm) (cm) Removal 1 1.0 0.836 10.0 35.50% 2 1.5 0.729 10.0 51.78% 3 2.0 0.873 10.0 64.42% 4 3.0 0.887 10.0 68.51% 5 4.0 0.762 10.0 69.83%
+
+Figure (6): Removal wt. % vs. Time of Treatment of Inhibited (3wt. %) Sulphamic Acid with (0.05 wt. %) Inhibitor (Hexamine) at Constant Temperature of (40oC) .
+
+80 70 Corrosion Rate (Wt.) 60 50 40 30 20 10 0 1 1.5 2 Time ( Hr.) 3 4
+
+6. Inhibited Hydrofluoric Acid (HF) Experiments: The experimental results shows that the longer time of treatment, the higher wt. % of corrosion removal see table (9 ) and figure(7 ).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+Table (9): Results of Experimental Runs for Removal Wt. % Using (5 wt. %) Inhibited Hydrofluoric Acid with (0.05wt. %) at Constant Temperature of (60 oC). Wt.% Removed Tube Run Time Corrosion Corrosion Length No. Hr. product (gm) (cm) Removal 1 1.0 0.733 10.0 49.30% 2 1.5 0.689 10.0 59.88% 3 2.0 0.816 10.0 68.42% 4 3.0 0.748 10.0 76.65% 5 4.0 0.866 10.0 87.70% Figure (7): Removal wt. % vs. Time of Treatment of Inhibited (5wt. %) Hydrofluoric Acid (HF) with (0.05 wt. %) Inhibitor (Hexamine) at Constant Temperature of (60oC).
+
+100 Corrosion Removal (Wt.) 90 80 70 60 50 40 30 1 1.5 2 Time (hr.)
+Conclusion: 1. The increase in temperature of inhibited acid resulted in the increase in corrosion product which is due to effective penetration of citric acid , also the reaction rate constant increase according to Arrhanius low , but the temperature remained constant during the test because the obtained wt.% removal was acceptable and there is no need to increase the temperature , where the greatest disadvantage of citric acid solution was that the temperature must be maintained otherwise ferrous citrate will be deposited which is very difficult to redissolve.
+
+3
+
+4
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 26
+
+2 March 2007
+
+2. The increase in inhibited citric acid concentration resulted in the increase of corrosion product removal which is due to the increase in concentration gradient between the bulk fluid and the solid-solution interface. Consequently the reaction tare increase but higher level of concentration doesn't tested because the used concentration gave successful results without any added costs of increased concentrations. The used concentration was adjusted to ensure that the univalent ion of citric acid was presented in the maximum amount. 3. Four levels (1,2,3 and 4) hr of time were tested to effect the corrosion product removal by inhibited citric acid , the increase in time resulted in the increase in corrosion product removal which is due to longer time gave the acid the enough time for reacting with all corrosion product where more time needed because of solubility limitation. 4.The effect of time was tested although for other types of chemical agents like inhibited (HF), inhibited oxalic acid , inhibited (HCL), inhibited sulphamic acid and inhibited (EDTA), where for different levels of time tests showed that the increase in time lead to increase in corrosion product removal , but the removal varied between them because of the difference of reactivity to carbon steel corrosion product for these agents. 5. The results showed that cleaning operation was made feasible by addition of (0.05 wt.) concentration Hexamine inhibitor. 6. It was found that the best results obtained for first, 5wt. % inhibited citric acid with 0.05wt. % hexamine inhibitor at 40oC temperature and 3 hrs. , second, 3wt.% inhibited citric acid with 0.05wt.% hexamine inhibitor at 60oC temperature and 2.5 hrs , third 2wt.% inhibited oxalic acid with 0.05 wt.% hexamine inhibitor at 60oC and 1 hr. , fourth ,3wt.% inhibited EDTA with 0.05wt.%hexamine inhibitor at 78oC and 3hrs. .Where approximately 90wt. % corrosion product removal achieved.
+References: 1. Cowan, J.C. & D.J. Weintritt, Water_ Formed Scale Deposits. Houston: Gulf Publishing (1976). 2. Essa, H .M, Decaling of Heat Exchange Equipment by chemical Method. , M
+
+.Sc. Thesis, University Of Baghdad, January (1995). 3. Ashworth, V. Chemical Cleaning in Hydrocarbon Production Seminar, Edutech Services Limited,(1981). 4. Technical Report Prepared by (Edutech Services Limited) U.K. June 1987. 5. Greenberg, S., Mtls Prot., January, 48 (1966). 6. Frenier, W. W. and F. B. Growcock, Corrosion, 40, 12, 663 (1984). 7. Gall, G.P. (and others), Mtls Prot., April, 25 (1986). 8. Fernier, W. W.and E.F. Hoy, Mtls Prot., April, 18(1986). 9. Grinberg, D.L. and T.A.Kuzkina, Prot.of Mtls, 24, 6,801(1989).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

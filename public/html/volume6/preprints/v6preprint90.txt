@@ -1,0 +1,401 @@
+Volume 6 Paper H046 Predicting Type II Hot Corrosion in Industrial Gas Turbines
+N J Simms1, L Heikinheimo2, A Encinas-Oropesa1, S Tuurna2, P J Kilgallon1, J R Nicholls1 and J E Oakey1
+1
+
+Power Generation Technology Centre, Cranfield University, Cranfield, Bedfordshire, MK43 0AL, UK, n.j.simms@cranfield.ac.uk VTT Industrial Systems, PO Box 1704, FIN-02044 VTT, Finland, liisa.heikinheimo@vtt.fi
+
+2
+
+Abstract
+Gas turbines are critical components in the combined cycle power systems being developed to generate electricity from solid fuels, such as coal and biomass. The use of such fuels to produce fuel gases introduces the potential for significant corrosive and erosive damage to gas turbine blades and vanes. The development of predictive models for these components in gas turbines using such fuel gases is one aspect of the introduction of such new technologies. This paper reports results from a series of laboratory tests carried out using the `deposit replenishment' technique to investigate the sensitivity of candidate materials to exposure conditions anticipated in such gas turbines. The materials investigated have included CMSX4 and IN738LC with Pt-Al coatings. The exposure conditions within the laboratory tests have covered ranges of SOx (20-500 vpm) and HCl (10-300 vpm), as well as different Na/K ratios in alkali sulphate deposits, with deposition fluxes of 5 and 15 µg/cm2/h, for periods of up to 1000 hours at 700°C. Data on the performance of materials has been obtained using dimensional metrology: pre-exposure contact measurements and post-exposure measurements of features on polished cross-sections. These measurement methods allow distributions of damage data to be determined for use in the development of materials performance modelling. In addition, the
+
+types of damage observed have been characterised using standard optical and SEM/EDX techniques. Predictive models have been developed from the materials performance data generated within this test programme. These models are compared to previously reported models developed from different ranges of exposure conditions using similar test methods.
+
+Keywords
+Hot corrosion; gas turbine; biomass; coal; solid fuels
+
+Introduction
+There are numerous solid fuel fired advanced power generation systems currently being developed around the world. Many of these systems are combined cycles which utilise both gas and steam turbines and are based on the gasification and/or combustion of solid fuels [#ref01-#ref04]. Most of these power systems were originally developed to enable coal to be used to generate electricity with greatly increased efficiency and much lower environmental emissions (specifically CO2, SOx, NOx and particulates) than with conventional pulverised coal systems. However, it has subsequently been found that many of these coal systems can also be co-fired with various biomasses offering the advantage of further reducing net emissions by partially using these renewable CO2 neutral fuels. In all such combined cycle systems the performance of the gas turbine is vital to the overall plant efficiency and economic viability. However, within such gas turbines hot corrosion and/or erosion have the potential to be life limiting for the combustion gas path vanes and blades. For new fuels to be used in gas turbines, it is necessary that these critical components are manufactured from appropriate materials and that these materials give predictable in-service performance. The requirements for materials in the hot gas paths of gas turbines are very demanding. The materials need to be capable of operating at bulk temperatures up to ~950°C under both high and fluctuating stresses, whilst also withstanding the surrounding environments. The environments produced can be both physically and chemically 2
+
+aggressive, with particles producing erosion or deposition whilst gaseous and vapour phase species produce different forms of deposition, as well as oxidation and hot corrosion. During the last 40 years, these topics have been the subject of many investigations and the potential problems that may be encountered in gas and oil fired gas turbines have been well characterised [#ref05 - #ref07]. Gas turbine materials will oxidise in the combustion gases produced in all gas turbine systems, but the rate of oxidation below ~900-1000°C metal temperature is sufficiently low so as not to be life limiting. However, hot corrosion of turbine materials can occur much more rapidly and is potentially life limiting. For hot corrosion to occur, a liquid (usually sulphate) deposit is required on the surface of components. The formation of this deposit depends on the presence of trace metal species (e.g. sodium, potassium, lead, zinc compounds) in the gas streams and other reactive gas species (e.g. sulphur dioxide (SO2), sulphur trioxide (SO3), HCl). The rates of corrosion will depend (among other factors) on the rate of deposit formation, deposit composition, temperature and the surrounding environment. Two general types of hot corrosion in gas turbine environments have been identified to date [[#ref05 - #ref07]: Type I hot corrosion at ~800900°C; Type II hot corrosion at ~600-800°C. Many similar types of materials degradation can be expected in gas turbines using solid-derived fuels, as some of the contaminant species are the same as for oil and/or gas fired systems [e.g. #ref08-#ref11]. However, the levels of contamination are different, there may be additional as well as absent species and the sources/forms of the contaminant species also differ (affecting both the deposition processes and hot corrosion reactions). The contaminant species of particular interest for corrosive degradation are those containing sulphur, chlorine, alkali metals and other trace metals. The levels of these contaminants are significantly different in the various potential solid fuels and their mixes. These variations persist to differing degrees for each element/fuel utilisation process by the time the gas streams reach the gas turbine [#ref11]. The effects of different fuels on the levels of contaminant vapour phase species, deposition fluxes and deposit compositions (e.g. melting points) requires careful 3
+
+consideration for each process and fuel. Conventionally, the metal vapour species of most concern were alkalis (mainly sodium) in gas turbines fired on clean fuels (either as fuel contaminants or via the combustion air) or vanadium from heavy fuel oils. In coal fired systems, as well as significant levels of both SOX and HCl, combustion derived gases tend to have significant levels of alkali metals (sodium and potassium), whereas gasifier derived fuel gases (when used with hot gas cleaning processes) have higher levels of heavy metals, e.g. lead and zinc [#ref11, #ref12]. Co-firing with biomass or waste fuels changes the levels of all the contaminants, e.g. for trace metals, wheat straw has higher potassium levels and sewage sludges have higher zinc levels [#ref11, #ref12]. Thus, fuel and air quality standards produced for gas turbines fired on more traditional fuels [e.g. #ref13] need to be thoroughly reviewed and revised [#ref08, #ref09, #ref14, #ref15], to take into account the significant differences with these new fuel compositions, as well as the damage rates that will be acceptable for economic power system operation. This paper reports some of the results obtained in laboratory hot corrosion tests that form the latest parts of an on-going systematic investigation of the effect of realistic levels of contaminants and other exposure parameters on the corrosion of candidate gas turbine materials for use in solid fuel fired systems [#ref10, #ref15 - #ref17]. The results relate to the effects of two Na/K sulphate mixes on two base alloys (IN738LC and CMSX-4) and Pt-Al coatings on these materials at 700°C in realistic SOx and HCl environments. Aims of this test work include (a) the generation of materials performance data suitable for inclusion in a database and (b) the development of empirically based predictive models of the corrosive degradation of gas turbine materials in `dirty' gas conditions [#ref10, #ref15 #ref17]. To generate such data it is necessary to carry out dimensional metrology on the test samples before and after their exposure to quantify the materials degradation in terms of accurate and statistically useful metal losses [#ref10, #ref15 - #ref18]. This approach to dimensional metrology is now becoming more widely adopted and has been accepted as the approach to use in the current 4
+
+European COST522 activities [#ref18]. It also formed part of the basis for the EU sponsored TESTCORR activity aimed at developing guidelines for high temperature corrosion testing [#ref19].
+
+Experimental
+Materials Exposures The laboratory hot corrosion tests were carried out using the wellestablished `deposit replenishment' technique to simulate different specific deposition fluxes and deposit compositions in well controlled environments [#ref10, #ref15 - #ref17]. This technique enables the effects of differences between the combusted gases produced from the different fuel mixes and processes to be investigated systematically under well controlled conditions and has been shown to give realistic corrosion damage rates and morphologies and materials damage data suitable for the development of predictive models. The exposure conditions for the tests are summarised in Table 1. The furnace systems used for these tests consisted of furnaces with ceramic lined reaction tubes and mass flow control systems to allow the target gas mixtures to be produced. Figure 1 illustrates such a system used in VTT's laboratory (Cranfield University's system is illustrated in reference [#ref17]). For these tests, the water soluble deposits were sprayed onto warm samples (following the TESTCORR recommended procedures [#ref19]). Table 1 Exposure Conditions for Laboratory Tests Temperature Exposure times 700°C 500, 1000 hours
+
+Gas compositions: 5 volume % O2 ­ 15 % CO2 ­ balance N2 + SOX HCl Deposit compositions 20, 300, 500 vpm 10, 100, 300 vpm 80/20 and 50/50 (Na/K)2SO4 5
+
+Deposition fluxes Deposit re-coat interval
+
+5 and 15 µg/cm2/hour 100 hours
+
+The base alloys exposed in these tests were IN738LC (a conventional, well-established cast corrosion resistant gas turbine blade material) and CMSX-4 (a single crystal material that is being introduced into industrial gas turbine service): their compositions are summarised in Table 2. In addition Pt-Al coated samples of both materials (RT22 on IN738LC and CN91 on CMSX-4) were exposed. (It should be noted that other conditions and materials were studied in this series of tests, but are not included in the scope of this paper). The samples for all the materials were in the form of cylinders (~10 mm diameter and 10 mm long). For ease of coating and machining, these samples were produced in bars that contained ~10-15 samples linked by narrow diameter sections. The samples were each marked with a reference cut for metrology purposes.
+
+6
+
+Table 2 Nominal Compositions (balance Nickel) of Gas Turbine Alloys (wt-%) Alloy Cr Co Mo W Ta Nb Al Ti C Others
+
+IN738LC 16.0 8.5 CMSX-4 6.5
+
+1.7 2.6 1.7 0.9 3.4 3.4 0.11 0.05 Zr, 0.010 B 5.6 1.0 0.1 Hf, 2.9 Re
+
+10.0 0.6 6.0 6.0 -
+
+Materials Performance Assessment The aim of the materials performance assessments was to characterise the damage morphologies produced during the exposures and to determine the extent of metal damage caused to each sample during its exposure. The requirement to produce dimensional measurements of metal damage dominated the processing of the samples. The development and application of a dimensional metrology method has been reported previously [e.g. #ref17 - #ref20]. The methodology is based on the accurate measurement of sample dimensions before and after exposure. For the cylindrical samples used in both these laboratory tests, prior to exposure the sample dimensions were measured at particular orientations around a central plane using accurately calibrated micrometers (±2-5µm). After exposure, polished cross-sections were prepared (using non-aqueous methods) close to and parallel to the pre-exposure measurement plane. The polished cross-sections were measured using an optical microscope/image analysis system with an accurately calibrated x-y stage (±2µm). The post-exposure measurements included the position of the metal surface and other features of the corrosive degradation, e.g. internal corrosion in type I corrosion (Figure 2 [#ref17]). These methods were developed to allow for semi-automation so that large numbers of data points (i.e. > 24 for laboratory samples) could be collected and statistically analysed, before being used in model development. During the exposures, the general performance of the materials was
+
+monitored using mass change data (though such data is not suitable 7
+
+for modelling the performance of materials experiencing hot corrosion damage [#ref18]). During the post exposure metrology process, optical and SEM/EDX studies were undertaken to determine which corrosion mechanism was operating so as to ensure that consistent corrosion models were developed.
+
+Results and Discussions
+Mass change data This is the least useful method of assessing high temperature corrosion damage, as it is not sensitive to localised pitting or internal corrosion damage which are anticipated for type II and type I hot corrosion respectively. However, it is useful in giving an indication of the extent of general corrosion damage and its progress. Mass change data is produced naturally during the course of `deposit replenishment' tests, when the samples are weighed and recoated in deposits every 100 hours. The mass change after each 100 hour cycles is calculated (sprayed deposit mass is subtracted) and used to produce a plot of cumulative mass change (mg/cm2) against time. Figures 3 and 4 illustrate the results produced for IN738LC and RT22 coated IN738LC exposed at 700°C to gas containing 100 vpm SOX and 100 vpm HCl. These results show that lower mass changes were observed materials the 50/50 Na/K sulphate deposits produced higher mass changes than the 80/20 Na/K sulphate deposits. However, the accurate assessment of the performance of the materials in these tests has to be determined from the dimensional metrology techniques, which are reported below. Surface Observations After exposure, the visual appearances of the samples (whether bare or coated) were dark and showed evidence of adherent deposit/scale formation (as expected). CMSX-4 samples often showed considerable spallation of deposit/scale during the thermal cycles carried out to replenish the deposit. 8 on samples with the RT22 coating for both deposits. For both of these
+
+SEM/EDX examinations showed that the outer surfaces of samples with high mass gains (i.e. showing high levels of general corrosion damage) were composed mainly of nickel oxide. Surfaces of samples that showed lower levels of mass change showed the presence of the `deposited' elements and of more resistant chromium and/or aluminium oxides. Cross-sectional Observations Examination of the damage observed on the cross-sections of the exposed samples has enabled qualitative trends in damage as a function of exposure conditions to be identified. Figure 5 illustrates the reduction in damage observed on CN91 coated CMSX-4 at 700°C with a deposition flux of 15 µg/cm2/hour of 50/50 (Na/K)2SO4 when (b) 20 vpm SOX/10 vpm HCl gases. The Pt-Al coatings (RT22 and CN91) clearly suffered significant pitting damage at 700°C; RT22 generally suffered more damage than CN91 under identical exposure conditions. The base alloys IN738LC and CMSX-4 showed more general metal loss under many deposit/gas combinations at 700°C, with CMSX-4 having the greater levels of damage. SEM/EDX examinations were carried out on some of the crosssections. These were used to confirm the type of hot corrosion damage being observed. For example, in samples showing significant the deposit/oxide scale layer: at the outer surface there was a NiO rich region and below that there a was complex oxide region, containing chromia, alumina and where the traces of elements from the deposit and gas environment could be found by EDX analysis. Measurements of materials performance Detailed dimensional metrology was carried out on the samples exposed in the `deposit replenishment' tests. The data on change in sound metal (i.e. change in metal surface position ­ depth of internal penetration) show that IN738LC generally suffers less corrosion damage than CMSX-4 when exposed to the same conditions and CN91 coated CMSX-4 generally suffers less damage than RT22 coated 9 type II damage, two separate layers could generally be detected within the gas composition is changed from (a) 100 vpm SOX/100 vpm HCl to
+
+IN738LC. Figures 6 and 7 illustrate the measurements made around some IN738LC and CMSX-4 samples. Figure 6 shows the effect of different deposit (50/50 and 80/20 (Na/K)2SO4) compositions on and a deposition flux of 15 µg/cm2/hour: the higher potassium IN738LC exposed at 700°C in gas with 100 vpm SOX and 100 vpm HCl containing deposit is generally slightly more damaging. Figure 7 shows the effect of different gas compositions (20/10, 100/100, with a deposition flux of 15 µg/cm2/hour of 50/50 (Na/K)2SO4. 300/100 and 300/500 vpm SOX/HCl) on CMSX-4 exposed at 700°C Corrosion damage at 700°C increases with higher levels of SOx and HCl: changes from 20 or 10 vpm to 100 vpm were more significant than changes from 100 vpm to 300 or 500 vpm. For tests carried out with two `deposition fluxes', the higher flux caused the greater corrosion damage. The graphs in both Figures 6 and 7 illustrate the characteristic variable nature of hot corrosion around materials, and emphases the need for statistical analyses of such results. Analysis of materials performance measurements The datasets obtained from combining the pre and post-exposure metrology have been further processed (a) by correcting for known errors and (b) by ordering the data in terms of the decreasing extent of `change in sound metal' to give probability distributions for each sample exposed in these tests. The probability intervals are calculated as proportions of the `number of data points + 1' (details of this method of assessing corrosion data are presented in, for example, reference [#ref21]). The probability plots obtained from the data given in Figures 6 and 7 are illustrated in Figures 8 and 9. Data can be extracted from these plots to allow comparison of the performances of the materials at different levels of confidence. For example, Figures 10 ­ 12 illustrate the comparative performance of the base alloys and coatings for at damage levels which have a 4% chance of being exceeded. Figure 10 shows the effect on the four materials of with a deposition flux of 15 µg/cm2/hour of 50/50 (Na/K)2SO4 and a HCl level of 100 vpm: the damage observed on IN738LC increased slightly and on CMSX-4 decreased slightly, however, significantly more damage was observed to both the coatings with the higher SOX level. 10 changing SOX levels from 100 to 300 vpm at 700°C after 500 hours,
+
+Figure 11 shows the effect on the four materials of changing HCl levels from 100 to 500 vpm at 700°C after 500 hours, with a deposition flux of 15 µg/cm2/hour of 50/50 (Na/K)2SO4 and a SOX level of 100 vpm: significantly more damage was observed on both the base alloys, whereas less damage was observed to both the coatings with the higher HCl level. Figure 12 shows the effect on the four materials of changing the deposit composition from 50/50 to 80/20 (Na/K)2SO4 at
+
+700°C after 500 hours, with a deposition flux of 15 µg/cm2/hour and a were observed with the 80/20 Na/K deposit. SOX and HCl levels of 100 vpm: in all cases lower levels of damage
+
+The levels of damage observed in these tests at 700°C gives concern over the selection of suitable coatings for turbines using `dirty' fuels. The Pt-Al coatings clearly do not give sufficient protection to be useful at this temperature under the test conditions used (though perform much better at 900°C [#ref22]). The maximum deposition flux level selected was slightly higher (15 µg/cm2/hour) than those predicted (up to 5-10 µg/cm2/hour [#ref23]) for a gas turbine using a `dirty' fuel, but not unreasonably high for a slightly accelerated test. Alkali sulphate deposition fluxes at all these levels have been shown to be within the flux limited corrosion regime for type II hot corrosion [#ref17], so the same corrosion mechanisms would be anticipated in real systems. MCrAlY coatings offer the potential for improved corrosion resistance under such corrosion conditions, as do slurrydiffusion coatings (such as Sermalloy 1515) [#ref22]. The variation in temperatures around real industrial gas turbine aerofoils means that coatings are required that will protect base alloys under both types I and II hot corrosion in gas turbines fired on `dirty' fuels. There are on-going R&D programmes targeting these requirements [#ref22, #ref24]. Alternative process related approaches are possible to try to limit the potential corrosion related problems, for example improved gas cleaning or optimised fuel selection, and are being investigated, but it is doubtful that these could be relied on in practise.
+
+11
+
+Modelling Materials Performance Models of the performance of the materials in these corrosion tests have been derived from the data produced from these tests. These models have been generated using the corrosion damage data at the level where there is a 10% chance of it being exceeded. The models levels and both deposit compositions. Due to the level of corrosion are temperature and material specific, but cover a range of SOx, HCl damage observed in most of the tests, it has been assumed that there is no significant incubation time for the materials tested under these exposure conditions. The basic form of the model is: Corrosion rate = (a*Na+b*K) + (c*Na+d*K)*log SOx + (e*Na+f*K)*log HCl + (g*Na+h*K)*log SOx*log HCl where a ­ h are constants, obtained by least squares fitting methods; Na and K represent the molar flux of these metallic species; SOx and HCl are the concentrations of these gases at atmospheric pressure. The fit of the models produced for the materials at 700°C are illustrated in Figure 13. Inevitably there is some scatter in these models due to the various errors in the source data and the limited number of test conditions that it has been possible to investigate in this study. However, the models predict the damage observed in a wide range of exposure conditions and are a useful tool in assessing potential materials performance in co-fired gas turbines. There have been models developed previously for hot corrosion at 700°C for IN738LC and RT22 [#ref10, #ref16, #ref17, #ref25]. These have mostly used 80/20 (Na/K)2SO4 as the deposit and have investigated the effect of the deposition flux as the main variable, with high contaminant levels in the gases . These models have developed from a parabolic dependence of hot corrosion on deposition flux to a more realistic sigmoidal based dependence as more data became available. The current study has targeted the effects of reduced gas contaminant levels and higher K containing deposits (as anticipated from some biomass fuels, e.g. straw), as well as including a single 12
+
+crystal material (and coating) developed for cleaner operating conditions.
+
+CONCLUSIONS
+A series of hot corrosion tests have been carried out to investigate the sensitivity of candidate materials to the exposure conditions anticipated in gas turbines fired on solid fuels. The tests have used the `deposit replenishment technique to investigate the effects of different deposit compositions (80/20 and 50/50 Na/K sulphates) and were selected to be especially appropriate to gas turbines co-fired on coal and biomass derived gases. The materials investigated have included CMSX4 and IN738LC with Pt-Al coatings. Assessment of the performance of materials in these tests was determined mainly using dimensional metrology methods. The data generated have been used to develop models of the materials performance under the hot corrosion conditions targeted. The four materials tested showed differing responses to changes in the levels of SOX and HCl. However all the materials showed less corrosion damage with the 80/20 Na/K sulphate deposit than with the 50/50 Na/K deposit. The coatings both suffered significant damage at 700°C; in fact the damage to the base alloys at 700°C was within a factor of 2 of these coatings. Uncoated IN738LC showed less damage than CMSX-4 under the same exposure conditions. For the use of `dirty' fuels in gas turbines, there is a need to develop corrosion resistant coatings (especially for CMSX-4) that can be resistant to types I and II hot corrosion, in addition to looking at ways of reducing the corrosiveness of these gas turbine environments. gas compositions (SOX and HCl levels) at 700°C. These conditions
+
+ACKNOWLEDGEMENTS
+The work reported in this paper was partly funded through the European Coal and Steel Community (ECSC) within project number 7220-PR/053.
+
+REFERENCES
+13
+
+!ref01 'Life Cycle Issues in Advanced Energy Systems', Special Issue of
+
+Materials at High Temperature, 20 (2003)
+
+!ref02 `Materials Development for Advanced Vision 21 Power Plants', L A Ruth, Materials for Advanced Power Plants 2002, Eds J LecomteBeckers et al (Forschungszentrum Jülich, 2002) pp1745-1766 !ref03 `Corrosion in Advanced Power Plants', Special Issues of
+
+Materials at High Temperatures 14 (1997).
+
+!ref04 `Innovation in Power Engineering: Role of Materials' W.
+
+Schlachter and G. H. Gessinger., High Temperature Materials for Power
+
+Engineering 1990, Eds E Bachelet et al (Kluwer, 1990) pp1-24.
+
+!ref05 `Superalloys II', C.T. Sims., N. S. Stoloff and W.C. Hagel, Wiley (1987) !ref06 `Hot Corrosion Degradation of Metals and Alloys ­ A Unified Theory', C S Giggins and F S Pettit, Pratt & Whitney Report No. PWA FR11545 (1979) !ref07 `Hot Corrosion Standards, Test Procedures and Performance',
+
+High Temperature Technology 7 (4) (1989)
+
+!ref08 `Coal/Biomass Fuels and the Gas Turbine: Utilisation of Solid Fuels and their Derivatives', M. Decorso, D. Anson, R. Newby, R. Birmingham, UK, ASME Paper 96-GT-76 (ASME, 1996) Wenglarz and I. G Wright, Int. Gas Turbine and Aeroengine Congress,
+
+!ref09 `An Analysis of the Potential for Deposition, Erosion or Corrosion in Gas Turbines Fueled by the Products of Biomass Gasification or Combustion', I.G. Wright, C. Leyens and B.A. Pint, ASME TURBOEXPO 2000, Munich, Germany, ASME Paper 2000-GT-0019 (ASME 2000) !ref10 `Erosion/Corrosion of Gas Turbine Materials for Coal-Fired Combined Cycle Power Generation', N. J. Simms, J. E. Oakey, D. J. 1995 Stephenson, P. J Smith and J. R. Nicholls, Wear, 186-187, pp247-255,
+
+14
+
+!ref11 `Fate of Trace Contaminants from Biomass Fuels in Gasification Systems, P Kilgallon, N J Simms and J E Oakey, Materials for Advanced Jülich, 2002) pp903-912
+
+Power Plants 2002, Eds J Lecomte-Beckers et al (Forschungszentrum
+
+!ref12 `Co-gasification of Coal/Biomass and Coal/Waste Mixtures', Final Report EC APAS Contract COAL-CT92-0001, University of Stuttgart, Germany (1995)
+
+!ref13 `Standard Specification for Gas Turbine Fuel Oils', ASTM D2880 (1990) !ref14 `LM2500 gas turbine modifications for biomass fuel operation', C E Neilson, Biomass and Bioenergy, 15, 3, pp269-273, 1998 !ref15 `Performance of Gas Turbine Materials in "Dirty Fuel" Environments', N J Simms, A Encinas-Oropesa, P Kilgallon and J E Beckers et al (Forschungszentrum Jülich, 2002) pp923-932 Oakey, Materials for Advanced Power Plants 2002, Eds J Lecomte-
+
+!ref16 `Materials for Solid Fuel Fired Gas Turbines: Burner Rig and
+
+Materials Science Forum Vol 369-372 (2001), pp 833-840
+
+Laboratory Studies', N. J. Simms, J. R. Nicholls and J.E. Oakey, in
+
+!ref17 `Development of Type II Hot Corrosion in Solid Fuel fired Gas Turbines in Lifetime Modelling of High Temperature Corrosion Processes', N.J. Simms, P.J. Smith, A. Encinas-Oropesa, S. Ryder, J.R. Nicholls and J.E. Oakey, Lifetime Modelling of High Temperature Publishing, London, 2001) pp246-260
+
+Corrosion Processes, Eds M. Schütze et al, EFC No. 34 (Maney
+
+!ref18 `Environmental Degradation Of Gas Turbine Coatings: Towards Standardised Testing And Databases', N J Simms, D W Bale, D Baxter Lecomte-Beckers et al (Forschungszentrum Jülich, 2002), pp73-88 and J E Oakey, Materials for Advanced Power Engineering 2002, Eds J.
+
+!ref19 `Draft Code of Practice for Discontinuous Corrosion Testing in High Temperature Gaseous Atmospheres', EC Project SMT4-CT952001, ERA Technology, UK (2000)
+
+15
+
+!ref20 `Measurement of Corrosion Damage in Coal-fired Combined Cycle Power Systems', N. J. Simms and J. E. Oakey, Microscopy of
+
+Oxidation 3, (The Institute of Materials, 1997) pp647-658
+
+!ref21 `The Analysis of Oxidation and Hot Corrosion Data ­ A Statistical Approach', J. R. Nicholls and P. Hancock, High Temperature Corrosion, Ed RA Rapp (NACE, 1983) pp198-210
+
+!ref22 `Smart Overlay Coatings ­ Concept and Practice', J R Nicholls, N J Simms, W Y Chan and H E Evans, Surface and Coatings Technology, 149, 2-3, pp236-244 2002
+
+!ref23 `Modelling Alkali Salt Vapour Deposition in the British Coal Topping Cycle System', J E Fackrell, R J Tabberer, J B Young and I R Fantom, ASME Gas Turbine and Aeroengine Congress, The Hague, Netherlands, Paper 94-GT-177 (ASME 1994) !ref24 `ALLBATROS: Advanced Long Life BlAde TuRbine cOating Systems', M-P. Bacos, P.Josso, N. Vialas, D Poquillon, B. Pieraggi, D. Monceau, J.R. Nicholls, N. Simms, A.Encinas-Oropesa,T. Ericsson, S. Stekovic, 1st International Conference on Gas Turbine Technologies, Brussels, July 2003 !ref25 `Prediction of Hot Salt Corrosion Within Utility Gas Turbines', J R Nicholls, P J Smith and J E Oakey, Materials for Advanced Power 1466
+
+Engineering 1994, Eds D. Coutsouradis et al, (Kluwer, 1994), pp1453-
+
+16
+
+Panel A. 1+2 out A.1 in A. 2 in (A = Analyse)
+Brooks 1355-SSV Rotameters
+
+Gas scrubbers (NaOH)
+
+Furnace 2
+Brooks 5850S mass flow controllers
+
+4
+
+Furnace 1
+
+SMD 500-27
+
+SMD 500-27
+
+SMD 500-27
+
+SMD 500-27
+
+VTT Manufacturing Technology Layout of the gas + furnace systems
+Updated version 21.8.2001/PHP Cabinet
+
+No. 1 HCl
+
+No. 1 SO2
+
+No. 2 HCl
+
+No. 2 SO2
+
+Figure 1 Plan of the VTT Corrosion Test Facility for Dry Corrosion Gas Atmospheres
+
+17
+
+D1 C1 To central reference point B1 A1 E1 F1 Measurements taken at equidistant points spaced 300µm
+
+C2
+
+B2
+
+A2
+
+D2
+
+F2
+
+Cn
+
+Bn
+
+An
+
+En
+
+Dn
+
+Fn Where n 24
+
+A = Coating thickness, B = Interdiffusion zone, C = Substrate thickness D = Surface oxide thickness, E = Internal corrosion depth, F = Deposit thickness
+
+Figure 2 Diagram of features to be measured during post-exposure sample metrology [#ref17]
+
+18
+
+120
+
+Mass change (mg/cm2)
+
+100 80 60 40 20 0 0
+
+50/50 (Na/K)2SO4 50/50 (Na/K)2SO4 80/20 (Na/K)2SO4
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+Time (hours)
+Figure 3 Mass change data from IN738LC samples exposed at 700°C in gas with ~100 vpm SOX and ~100 vpm HCl with a deposition flux of 15 µg/cm2/hour
+120 50/50 (Na/K)2SO4 50/50 (Na/K)2SO4 80/20 (Na/K)2SO4
+
+Mass change (mg/cm2)
+
+100 80 60 40 20 0 0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+Time (hours)
+Figure 4 Mass change data from RT22 coated IN738LC samples exposed at 700°C in gas with ~100 vpm SOX and ~100 vpm HCl with a deposition flux of 15 µg/cm2/hour
+
+19
+
+(a)
+
+(b)
+
+20
+
+Figure 5 Effect of changing gas composition from (a) 100 vpm
+
+SOX/100 vpm HCl to (b) 20 vpm SOX/10 vpm HCl on CN91 coated 50/50 (Na/K)2SO4 CMSX-4 exposed at 700°C with a deposition flux of 15 µg/cm2/hour of
+
+21
+
+Change in sound metal (µm)
+
+0 -50 -100 -150 -200 -250 -300 -350
+0 90 180 270 360
+
+Position around sample ( ° ) 80/20 (Na/K)2SO4 50/50 (Na/K)2SO4
+
+Figure 6 Effect of deposit compositions on IN738LC exposed at 700°C in gas with 100 vpm SOX and 100 vpm HCl and a deposition flux of 15 µg/cm2/hour
+0
+
+Change in sound metal (µm)
+
+-50
+
+-100 -150 -200 -250 -300 -350 0 90 180 270 300 SO2/ 500 HCl (vppm) 300 SO2/100 HCl (vppm) 360
+
+Position around sample (°)
+100 SO2/ 100 HCl (vppm) 20 SO2/ 10 HCl (vppm)
+
+Figure 7 Effect of gas composition on CMSX-4 exposed at 700°C with a deposition flux of 15 µg/cm2/hour of 50/50 (Na/K)2SO4
+
+22
+
+0
+
+Change in sound metal (µm)
+
+-50 -100 -150 -200 -250 -300
+
+1
+
+10
+
+30
+
+50
+
+70
+
+90
+
+99
+
+Probability (%)
+80/20 (Na/K)2SO4 50/50 (Na/K)2SO4
+
+Figure 8 Probability plot of the tffect of deposit compositions on and a deposition flux of 15 µg/cm2/hour
+0
+
+IN738LC exposed at 700°C in gas with 100 vpm SOX and 100 vpm HCl
+
+Change in sound metal (µm)
+
+-50 -100 -150 -200 -250 -300
+
+1
+
+10
+
+Probability (%)
+
+30
+
+50
+
+70
+
+90
+
+99
+
+100 SO2/ 100 HCl (vppm) 300 SO2/ 500 HCl (vppm) 20 SO2/ 10 HCl (vppm) 300 SO2/ 100 HCl (vppm)
+
+Figure 9 Probability plot of the effect of gas composition on CMSX-4 exposed at 700°C with a deposition flux of 15 µg/cm2/hour of 50/50 (Na/K)2SO4
+
+23
+
+200 180 160 140 120 100 80 60 40 20 0 IN738LC CMSX-4 RT22 / IN738LC
+
+100 vpm SOx 300 vpm SOx
+
+Damage (µm)
+
+CN91 / CMSX-4
+
+Materials
+
+Figure 10 Effect of changing SOX on the test materials exposed at 700°C for 500 hours with 50/50 (Na/K)2SO4 deposit at a flux of 15 µg/cm2/hour (HCl level 100 vpm)
+
+350 300
+
+100 vpm HCl 500 vpm HCl
+
+Damage (µm)
+
+250 200 150 100 50 0 IN738LC CMSX-4 RT22 / IN738LC
+
+CN91 / CMSX-4
+
+Materials
+
+Figure 11 Effect of changing HCl on the test materials exposed at 700°C for 500 hours with 50/50 (Na/K)2SO4 deposit at a flux of 15 µg/cm2/hour (SOX level 100 vpm)
+
+24
+
+200 180 160 140 120 100 80 60 40 20 0 IN738LC CMSX-4
+
+50/50 (Na/K)2SO4 80/20 (Na/K)2SO4
+
+Damage (µm)
+
+RT22 / IN738LC
+
+CN91 / CMSX-4
+
+Materials
+
+Figure 12 Effect of changing deposit composition on the test materials exposed at 700°C for 500 hours with a deposition flux of 15 µg/cm2/hour (HCl and SOX levels of 100 vpm)
+
+0.6
+
+Predicted corrosion rate (µm/hour)
+
+0.5
+
+0.4
+
+IN738LC, 700°C RT22/IN738LC 700°C CMSX4, 700°C CN91/CMSX4 700°C Ideal match
+
+0.3
+
+0.2
+
+0.1
+
+0 0 0.1 0.2 0.3 0.4 0.5 0.6
+
+Measure corrosion rate (µm/hour)
+
+Figure 13 Predicted corrosion rates as a function of measured corrosion rates for IN738LC and CMSX-4 and Pt-Al coatings at 700°C 25
+

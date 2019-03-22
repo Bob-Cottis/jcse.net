@@ -1,0 +1,453 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 6
+HIGHLY DISPERSED ELECTROCHEMICAL NOISE DATA: SEARCHING FOR REASONS AND POSSIBLE SOLUTIONS
+Mauricio Ohanian, Víctor Martínez-Luaces & Gladys Guineo-Cobs Instituto de Ingeniería Química, Facultad de Ingeniería, UDELAR J. Herrera y Reissig 565,C.P. 11200 Montevideo, Uruguay
+
+Abstract
+Results of Electrochemical Noise (EN) obtained upon low carbon steel are presented. In particular, confidence intervals for corrosion potential, resistance noise, localization index and roll-off slope are calculated. These results present a high dispersion, so methodology is reviewed in order to find possible reasons. The influence of the electrolyte utilised, the sampling period and the trend removal method are analysed for that purpose. As a result of that analysis, the detrending method ­ polynomial fitting ­ seems to be the main reason for the high dispersion obtained. In order to prove that, simulated data are checked using four techniques: polynomial fitting, MAR, Butterworth filter and MICS. The last method (MICS) was developed by this Research Group. MICS consists of computing medians over intervals and then fitting by cubic splines. Results suggest that some methods should not be widely applicable, while analysing the potentiality of others. Keywords: Electrochemical Noise, uncertainty, simulation, trend removal.
+
+1
+
+Introduction
+
+Understanding the corrosion behaviour is required to evaluate the steel structures lifetimes. It also makes possible the adoption of adequate metal protection and conservation procedures. MICAT (In Spanish: Mapa Iberoamericano de Corrosividad Atmosférica) is an international project whose main objective is to characterise atmospherical aggressiveness in Ibero-American countries. The working methodology consists of exposing metallic coupons to different atmospheres. Meteorological and pollution variables are registered during the experiments [1]. Electrochemical techniques are employed (among other methods) for characterising protective properties of rust products. In particular, several authors recommend the Electrochemical Noise (EN) technique [2] . This technique measures the potential and/or current fluctuations produced by variations in corrosion kinetics. An advantage of this technique is that no external signals are required, which allows us to characterise the
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+system in equilibrium conditions. On the other hand, the equipment required is less expensive than the one needed for other techniques [3]. In addition, information provided by EN technique allows us to know about process kinetics and localization, both parameters are important to design metallic structures [4]. EN technique was utilized by this research group, finding an excessively high dispersion for the experimental results [5] . This was the main reason for searching causes and possible solutions in order to control the excessive dispersion in the EN method.
+
+2
+
+Materials and methods
+
+Electrochemical experiences are carried out according to MICAT methodology [6]. A cell arrangement with three electrodes: saturated calomel reference electrode (SCE), working electrode (WE) and counter-electrode (CE) of low carbon steel, are used for performing the experiences. Temperature is maintained at (20±2) ºC. Before the experiences the WE and CE surfaces are chemically treated with hydrochloric acid and Urotropine [6]. Sodium sulphate 0.1M is utilised as electrolyte solution [6]. The potential of the WE against the SCE and the current between the WE and CE are recorded every 0.7 seconds by the electrochemical interface ACM Gill8AC®. Each run lasts an hour. Data are processed employing a nine order polynomial fitting for detrending.
+
+2.1.
+
+Electrolyte modification
+
+Fluctuations of current and potential measures are about 10E-4mA and 10E-2 mV, respectively. Being so small, this variability is transferred to the parameters in EN calculation and might be the main reason for the unsatisfactory confidence intervals obtained (see 3.1.). As a consequence, the electrolyte solution is modified in order to increase conductivity. Therefore the magnitude of the transient states would also be increased. Sodium sulphate concentration is modified to 1M, maintaining equal conditions for sampling and data processing (trend removal by 9 order polynomial fitting). The results are compared with the ones obtained using the diluted solution.
+
+2.2.
+
+Modification in sampling period
+
+According to the sampling theorem, events that occur in a higher frequency than the half of the sampling frequency, appear in the signal spectrum contributing in a lower frequency to power (aliasing) [7]. In order to know the influence of events in the signal, with frequency upon to Nyquist limit, the sample period are modified. An experience is carried out upon low carbon steel (chemically treated as explained before) and the experimental conditions are: sodium sulphate 0.1M and sampling period 0.05s. The experience lasts 10 minutes (12000 records). Then, data obtained are sub-sampled to obtain datasets for sampling periods of 0.1s and 0.7s (6000 and 857 records respectively). Statistical parameters and
+
+spectral density are computed without detrending. By this mean, the possible influence of trend removal process in the final results is avoided.
+
+2.3.
+
+Analysis of trend removal method
+
+Signal processing includes the removal of continuous current components and/or the removal of low frequency signals. In order to evaluate the performance of the different methods, it is necessary to know exactly the drift and noise corresponding to a certain signal. Then, a statistical comparison between the noise extracted by different methods and the real noise could be carried out. For that purpose, signal is simulated by a computer. 2.3.1. EN simulation Simulated noise has a Gaussian distribution with a null mean value and a standard deviation of 0.5. The function used as trendline must be a non- trivial one. Polynomials, sinusoids and exponentials, among others, can be considered as trivial, because they can be easily approached by elementary mathematical methods. This is an important issue in order to test trend removal methods. For the present study, the following curves are utilised as trendlines [5]: Curve 1
+ac 3 f ( x) = -b x   + 1 3  Where (x ) =  t x -1e -t dt
+0 +
+
+x
+
+Euler's Gamma function
+
+Curve 2
+
+f ( x) = y 0 +
+
+2A
+
+w  4( x - xc ) 2 + w 2
+
+Lorentz's function
+
+Trendline parameters are fitted to obtain curves that have similar power. Then, those curves can be considered adequate to test the drift removal methods [5]. In the following figure (Figure 1) simulated noise and tendencies are showed.
+(a)
+2,0 1,5 1,0 0,5
+50
+
+(b)
+
+Simulated Tendency
+
+Noise
+
+0,0 -0,5 -1,0 -1,5 -2,0 -2,5 -500
+
+Curve 1
+
+0
+
+Curve 2
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+4000
+
+-500
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+4000
+
+Time (s)
+
+Time (s)
+
+Figure 1 (a) Simulated noise with distribution N(0, 0.5)
+
+b) Simulated tendencies
+
+2.3.2. Trend removal methods
+
+Four different drift removal methods are analysed. Polynomial fitting and MAR are well known techniques which are widely used [8]. The third method analysed is Butterworth, an analogical filter approach. Finally, MICS is the detrending technique proposed by this Research Group. Polynomial fitting (P9) This is a widely utilised methodology. Trend is fitted using least squares regression. Noise is obtained as the difference between experimental and predicted data by the regression model. In the present work, a nine order polynomial is utilised. MAR-5 In this method, noise is computed as x n - mn , where xn denotes an experimental value and mn represents the following moving average: mn =
+Butterworth This digital filtering technique ­ infinite impulse response ­ is based on analogical filters. It is part of the Matlab Signal Processing Toolbox®:
+H C ( j ) =
+2
+
+15  xn+ p 11 p = -5
+
+1  j  1+    j   c
+2N
+
+N denotes the filter order. 2N-1 are the null derivatives corresponding to a frequency of =0. The cutoff frequency (at c) is fitted by analysing the spectrum of simulated noise and the simulated signal (noise + trend). MICS A group of points (called nodes) are obtained by dividing simulated data into n equal intervals, and computing the median in time and position in the interval. These nodes are matched using cubic splines. Finally, noise was calculated as the difference between the simulated data and the interpolated trend.
+
+3
+
+Results
+
+3.1. Results for EN uncertainty study
+Dataset normality is corroborated about D'Agostino test [9]. The confidence interval can be computed as follows [10]:
+
+x -t
+
+1- , n -1 2
+
+
+
+s   µ  x +t s       1- , n -1  n n  2
+
+For a 10 cases study (9 degrees of freedom), 1.833 is the statistical critical value (t) for a 95% confidence level. Obtained results are shown in Table 1.
+
+Table 1 Results of uncertainty intervals for EN. Corrosion potential (E0) vs SCE in mV, resistance noise (Rn) in -cm2, localization index (LI) and roll off slope (ROS) in dec/Hz. Experience Mean Standard deviation Confidence interval (95% confidence level) Confidence interval / mean Eo (mV) -730 15 -730±9 0.02 Rn (-cm2) 1430 867 1400±500 0.70 LI 0.247 0.145 0.25±0.08 0.68 ROS (dec/Hz) -2.85 0.41 -2.8±0.2 0.17
+
+3.2.
+
+Electrolyte influence analysis
+
+Micat methodology recommends the use of sodium sulphate 0.1M. However, those results are compared with the ones obtained for chemically treated steel without exposure in sodium sulphate 1M, with a sampling period of 0.7s. Experiences are performed upon different points of the test tube surface. For a four case study (3 degrees of freedom), the statistical value t is 2.353 (95% confidence level). The results obtained are shown in Table 2.
+Table 2 Results for electrolyte influence study. Experience Mean Standard deviation Confidence interval (95% confidence level) Confidence interval / mean Eo (mV) -761 23 -760±10 0.03 Rn (-cm2) 1900 1170 1900±700 0.71 LI 0.265 0.286 0.3±0.2 1.25 ROS (dec/Hz) -2.48 0.77 -2.5±0.4 0.36
+
+3.3.
+
+Modification in sampling period
+
+Sampling period influence is analysed upon statistical results. In figure 2, PSD for different sampling periods (0.05s, 0.1s and 0.7s) are shown. The sampling frequencies are 20, 10 and 1.4 Hz respectively. Each experiment lasted 10 minutes (lower frequency limit: 0.017 Hz). Table 3 shows the statistical results for the current for the three obtained populations.
+Table 3 Statistical results for sampling period modification. Sampling period 0.05 0.1 0.7 Current mean 0.06541 0.06541 0.06541 Standard deviation 0.00743 0.00743 0.00741 Number of records 12000 6000 857
+
+10 -5 10 -6 10 -7 10 -8 10 -9 10 -10 10 -11 10 -12 10 -13 10 -14 10 -15 10 -16 10
+
+-4
+
+(a)
+PSD
+
+1E-3
+
+0,01
+
+0,1
+
+1
+
+10
+
+10 -5 10 -6 10 -7 10 -8 10 -9 10 -10 10 -11 10 -12 10 -13 10 -14 10 -15 10 -16 10
+
+-4
+
+(b)
+
+PSD
+
+1E-3
+
+0,01
+
+0,1
+
+1
+
+10
+
+Frequency (Hz) 10 -5 10 -6 10 -7 10 -8 10 -9 10 -10 10 -11 10 -12 10 -13 10 -14 10 -15 10 -16 10
+-4
+
+Frequency (Hz)
+
+(c)
+
+PSD
+
+1E-4
+
+1E-3
+
+0,01
+
+0,1
+
+1
+
+10
+
+Frequency (Hz)
+
+Figure 2 PSD for sampling period of (a) 0.05 s (b) 0.1s (c) 0.7s
+
+3.4.
+
+Trend removal methods
+
+3.4.1. EN simulation
+-6
+
+10 10
+
+-7
+
+Figure 3 Spectral stimation as PSD for (a) Simulated noise b) Curve 1 c) Curve 2
+
+10 PSD 10 10 10
+
+-8
+
+-9
+
+-10
+
+-11
+
+(a)
+1E-3 0,01 Frequency (Hz) 0,1
+
+10 0 10 -1 10 -2 10 -3 10 -4 10 -5 10 -6 10 -7 10 -8 10 -9 10 -10 10 -11 10 -12 10
+
+1
+
+(b)
+1E-3 0,01 Frequency (Hz) 0,1
+
+10 -1 10 -2 10 -3 10 -4 10 -5 10 -6 10 -7 10 -8 10 -9 10 -10 10 -11 10 -12 10
+
+0
+
+PSD
+
+PSD
+
+(c)
+1E-3 0,01 Frequency (Hz) 0,1
+
+In order to assess trend removal methods, a simulated signal is utilised. In Figure 3 PSD for simulated noise and signals (noise + trend), are shown.
+
+3.4.2 Variability due to trend removal
+
+The simulated noise data present a mean of -3.14E-5 and a standard deviation of 0.5043. In Table 4, the statistical results corresponding to trend removal methods employed for simulated signals are shown.
+Table 4 Mean and standard deviation for trend removal methods. P9 Curve 1 2 mean 2.39E-12 2.77E-12 std 0.5034 1.8689 MAR-5 mean -3.03E-4 4.87E-5 std 0.4771 0.4806 Butterworth mean -3.37E-3 -7.86E-3 std 0.5900 0.6489 mean -4.44E-3 -1.10E-3 MIS Std 0.6402 0.6309
+
+4
+
+Discussion
+
+4.1. Uncertainty study of EN
+A high dispersion in the computed parameters, Rn and LI, is observed. Supposing homogeneous surface (after chemical attack), data variability could be assigned to the method: sampling and data processing. See Table 1.
+
+4.2. Electrolyte modification
+The electrochemical data obtained using sodium sulphate 1M (Table 2) are compared against the ones obtained using sodium sulphate 0.1M (Table 1). It is observed that the mean and confidence interval for the electrochemical parameters evaluated are not significantly affected.
+
+4.3
+
+Modification in sampling period
+
+Every spectra had almost the same ROS (about -2.0 dec/Hz). In the spectrum corresponding to the sampling period 0.7s, a breaking point appears in 4E-3 Hz (roll-off frequency), under the Nyquist interval. Regarding the spectrum for the sampling period 0.1s, a two orders increase in power magnitude is also observed. Those differences could be attributed to the aliasing phenomenon: the spectrum is distorted because the power of high frequencies appears at lower frequencies. Statistical parameters for the three populations studied do not presented important differences: only 0.27 % in standard deviation for the sampling period 0.7s regarding 0.05 and 0.1s. These facts are presented in Table 3.
+
+4.4.
+
+Trend removal methods
+
+Analysing spectra in Figure 3, the following observations could be done: (a) The simulated noise is white. Its power is constant regarding the frequency: 1E-7 ­ 1E-8. In (b) and (c) trend influence at low frequencies can be observed, within an important power increase. Means about zero were obtained for every detrending method considered in this paper (Table 4). However, deviation values depended on the method and on the trend curve. As a complement of the statistical study, the influence of each method in the residuals power spectra density (PSD), is analysed.
+4.4.1. 9-order polynomial
+
+This detrending method strongly dependens on the simulated trend curve, as could be stated by looking at the standard deviations presented in Table 4. In curve 1 an adequate fitting is observed, obtaining a white spectrum whose power is similar to the simulated noise.
+
+The curve 2 fitting by using the 9-order polynomial was not effective. This fact can be observed at the lower frequencies of the PSD.
+10
+10 10 10 PSD 10 10 10
+-6
+
+-1 -2 -3 -4 -5 -6 -7 -8 -9
+
+10 10 10 10 PSD 10 10 10 10
+
+-7
+
+-8
+
+-9
+
+-10
+
+-11
+
+(a)
+1E-3 0,01 Frequency (Hz) 0,1
+
+10 10
+
+-10 -11
+
+(b)
+1E-3 0,01 Frequency (Hz) 0,1
+
+Figure 4 PSD with 9-order polynomial trend removal for (a) curve 1 (b) curve 2
+
+4.4.2. MAR-5
+
+In principle, this method would not depend on the curve (Table 4). In fact, standard deviation data would not be very different from the one corresponding to the simulated noise. However, analysing the plot for PSD, it can be stated that the noise obtained is frequency ­ dependent (not white). If it is compared with the simulated noise, it presents a decrease in lower frequencies.
+10 10 10 10 Power
+-4 -5 -6 -7 -8 -9
+
+10 10 10 10 10 10
+
+-6
+
+-7
+
+-8
+
+PSD
+
+10 10 10 10
+
+-9
+
+-10 -11 -12 -13
+
+-10
+
+-11
+
+(a)
+1E-3 0,01 Frequency (Hz) 0,1
+
+10 10
+
+(b)
+1E-3 0,01 Frequency (Hz) 0,1
+
+Figure 5 PSD with MAR-5 trend removal for (a) curve 1 (b) curve 2
+
+4.4.3. Butterworth
+
+10 10 10 PSD 10 10 10 10
+-6
+
+-2 -3 -4 -5 -6 -7 -8 -9
+
+10 10 10 10 PSD 10 10 10 10
+
+-7
+
+-8
+
+-9
+
+-10
+
+-10 -11 -12
+
+-11
+
+(a)
+1E-3 0,01 Frequency (Hz) 0,1
+
+10 10
+
+(b)
+1E-3 0,01 Frequency (Hz) 0,1
+
+Figure 6 PSD with Butterworth trend removal for (a) curve 1 (b) curve 2
+
+The standard deviations obtained are very different from the corresponding to the simulated noise (Table 4), existing a clear dependence with the superimposed signal. Analysing PSD, it could be observed that this method was not effective in detrending lower frequencies.
+4.4.4. MICS
+
+The standard deviations obtained, are different to those corresponding to the simulated noise, although results are robust in facing trend modifications (Table 4). The PSD plots present a general trend for the original white noise, with an overlapping power in the interval (0.05; 0.1) Hz. This fact explains the increase in standard deviation.
+
+10 10 10 10 PSD 10 10 10 10 10
+
+-4 -5 -6 -7
+
+10 10 PSD 10 10
+
+-6
+
+-7
+
+-8 -9
+
+-8
+
+-9
+
+-10 -11 -12
+
+(a)
+1E-3 0,01 Frequency (Hz) 0,1
+
+10
+
+-10
+
+(b)
+1E-3 0,01 Frequency (Hz) 0,1
+
+Figure 7 PSD with MIS trend removal for (a) curve 1 (b) curve 2
+
+5
+
+Conclusions
+
+Regarding the results obtained for the uncertainty study, we conclude that it might not be convenient to utilise the parameters (resistance noise, localisation index and roll off slope), for characterising and analysing the evolution of the rust products (at least for the experimental conditions and data processing employed here). Moreover, is considered that corrosion potential is the only parameter, obtained by the electrochemical noise technique, with a reasonable uncertainty associated. Analysing the possible reasons for the high dispersion of the electrochemical data, three factors were studied: electrolyte, sampling frequency and trend removal method, being the last one the most important. The trend removal methods have been deeply analysed. The polynomial ­ fitting method has a strong dependence on the trend. For the MAR- 5 method the standard deviations obtained are similar to those of the original noise, however PSD is influenced by the superimposed trend. Analysing both the standard deviations and the PSD, the Butterworth filter was not effective for detrending. The deviation obtained using the proposed method (MICS) is different from the original noise, but it is independent of the trend at least in the couple of cases considered. The results presented question the applicability of the trend removal methods utilised.
+
+6
+
+References
+
+[1] `Corrosión y Protección de Metales en las Atmósferas de Iberoamérica ­ Parte I-Mapas de Iberoamérica de corrosividad atmosférica', M. Morcillo et al, CYTED, Spain, pp 1-52, 1999 [2] `Electrochemical Noise Measurements for Corrosion Applications' E. Almeida et al., Ed ASTM, West Conshohocken, PA, USA, pp 411-424, 1996 [3] `Electrochemical Noise Measurements for Corrosion Applications', J. L. Dawson, Electrochemical Noise Measurements for Corrosion Applications, Ed ASTM, West Conshohocken, PA, pp 3-35, 1996 [4] "Interpretation of Electrochemical Noise Data", R. A. Cottis, Corrosion, NACE, 57, 3, 2001. [5] `Corrosión atmosférica: Caracterización estructural y electroquímica de productos de corrosión formados sobre acero de baja aleación en intemperie marina', M. Ohanian, Doctoral Thesis, Facultad de Ingeniería ­ Universidad de la República, Uruguay, pp 35-77, 2004. [6] `Corrosión y Protección de Metales en las Atmósferas de Iberoamérica ­ Parte I-Mapas de Iberoamérica de corrosividad atmosférica', M. Morcillo et al, CYTED, Spain, pp 204-213, 1999. [7] Oppenheim, A. and Schaffer, R.; Discrete Time Signal Processing Prentice-Hall International Editions, Englewood Cliffs, USA, pp 141-215, 1989. [8] Bertocci, U.;Huet, F.; Nogueira, R.P. and Rousseau, P.; "Drift Removal Procedures in the Analysis of Electrochemical Noise", Corrosion, 58, 2002. [9] D'Agostino, R "An omnibus test of normality for moderate, and large size samples". Biometrika 58.2, pp 341 ­ 348 [10] Walpole, R. E, Myers, R. H. & Myers, S. L. Probability and Statistics for engineers and Scientists. 6º edición New Jersey: Prentice-Hall International Editions. 1998
+

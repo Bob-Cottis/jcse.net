@@ -1,0 +1,218 @@
+Volume 6 Paper C038
+------------------------------------------------------------
+
+Erosion corrosion of copper-10%nickel alloy revisited
+Department of Mechanical Engineering, University of Glasgow, Glasgow Q12 8QQ, UK, T.Hodgkiess@mech.gla.ac.uk
+T. Hodgkiess and G. Vassiliou
+
+Abstract
+This paper describes the findings of a study of the corrosion behaviour of copper-10% nickel-base alloy when subjected to impingement erosion, at jet velocities between 2.4-86 m/s, by 3.5% NaCl solution at 19°C. Corrosion monitoring utilised DC polarisation techniques. After short exposures (0.5 and 4 hours), the corrosion rates, obtained by Tafel extrapolation, were determined as a function of impingement velocity. The resulting corrosion-rate/velocity relationships were complex but were more appropriately interpretable in terms of the Reynolds number. Additionally, the corrosion rates were studied as a function of time (up to 72 hours) at a fixed impingement velocity of intermediate severity (17 m/s) and the corrosion rates were observed to be cycling between high and low values. The findings have been discussed in terms of alternating regimes of active corrosion of an unfilmed metal surface (with corrosion under mass transfer control of the anodic reaction) and corrosion processes modified by the presence of a corrosion product film.
+
+Keywords:
+Cu-Ni alloys, corrosion, hydrodynamics, saline water
+
+Introduction
+The extensive use of copper-nickel alloys in marine engineering industries is founded on their generally good durability in most marine conditions. This property, taken together with relatively high thermal conductivity, accounts for one of the most important applications of these materials, i.e. for tubes in heat transfer equipment. Another related application is for other types of pipework such as fire mains. These applications have formed the basis of investigations of the behaviour of copper-nickel alloys in flowing saline water over a period
+
+of several decades. A particular issue of interest has been that of the seawater flow conditions that can be tolerated without loss of corrosion resistance and these studies have led to the emergence of guidelines for upper velocity limits which have been summarised in a recent general review of copper-nickel alloys for seawater corrosion resistance and antifouling [#ref1]. Thus, for heat exchangers, velocity limits of around a few metres per second are widely quoted depending upon actual alloy composition but these figures are almost certainly conservative even for such applications and more-so for other marine uses of copper-nickel alloys. Powell and Michels [#ref1] quote experiences of short-term flows of 12-15 m/s without problems in fire mains and Glover [#ref2] reported successful performance of 90/10 Cu/Ni for ships hulls at speeds up to 19 m/s and also as cladding on the rudder of a ship operating at 12 m/s with severe turbulence induced by the adjacent propeller. Despite the above-mentioned activities aimed at obtaining estimates of "flow-rate performance envelopes" and also considerable study of the constitution of the protective films on the surface of copper-nickel alloys, there has been less effort devoted to the detailed mechanisms of erosion corrosion of these materials. This situation represented part of the impetus behind a recent research study [#ref3] into the erosion corrosion behaviour of copper-nickel alloys under liquid impingement conditions in saline water. Some of the findings from the study are described and discussed in this paper.
+
+Experimental
+The material, whose erosion corrosion behaviour is described herein, was copper-10%Ni conforming to UNS:C70600 of composition: 11.4%Ni, 1.9%Fe, 0.7%Mn. Test samples, of size 20 x 20 mm, were cut from plate of thickness 2.5 mm. Electrical connecting wires were attached to the back faces of the samples prior to their encapsulation in epoxy resin followed by abrasion on silicon carbide papers and diamond polishing to 5-micron finish, washing in methanol and air-drying. The specimens were placed in a liquid impingement rig (Fig. 1) in which the saline solution was continuously re-circulated via a low-pressure pump and a high-pressure pump to produce a liquid jet of 1-mm or 4-mm diameter impinging on the specimens at 90°. Both the jet nozzle and specimen were submerged and the nozzle-specimen distance was 5 mm The impinging velocity was controlled by a pressure regulating valve and the velocities utilised were 2.4-86 m/s, i.e. pertinent to the practical use of copper-nickel alloys but also extended to much higher velocities for the purposes of mechanistic studies.
+
+2
+
+Fig 1: Schematic diagram of liquid jet impingement rig incorporating electrochemical monitoring; A = auxiliary electrode, R = reference electrode, W = working electrode Experiments were carried out at 19 ± 2°C in 3.5% NaCl solution made from analytical-grade NaCl and distilled water. Anodic and cathodic polarisation potentiodynamic scans were undertaken during impingement at 15 mV/minute using a computer-driven potentiostat, platinum counter electrode and a saturated calomel reference electrode (SCE). The polarisation scans were undertaken, at a range of velocities after exposure periods of 30 minutes and 4 hours, whilst maintaining the jet impingement. Only a single pair of (cathodic and anodic) polarisation scans was made on any one sample at the termination of the test. Experiments were carried out at least in duplicate for each condition investigated. Additionally the effect of time was studied over a period of 72h at a fixed impingement velocity of 17 m/s with potentiodynamic sweeps conducted at 30 min, 4, 8, 48 and 72h - again involving a single pair of scans per specimen. In order to obtain more frequent indications of the trends in corrosion rate as a function of time, a number of 22-mV anodic scans were undertaken on a single specimen to yield values of the polarisation resistance, Rp, from the gradients of the linear potential/current plots.
+
+Results
+Effect of impinging velocity Anodic and cathodic polarisation scans, on specimens subjected to impingement for 30 minutes from the 4-mm nozzle, are shown in Fig. 2. There was a substantial negative shift in free corrosion potential (Ecorr) for all velocities compared to the static conditions. The anodic polarisation plots display active dissolution above the free corrosion potential, Ecorr. 3
+
+The cathodic polarisation scans reveal a (not unexpected) large depolarisation of the cathodic reaction under impingement conditions.
+
+Fig. 2: Anodic (upper) and cathodic (lower) polarisation scans after 30 min. impingement with 4-mm nozzle An objective was to obtain values of the corrosion current density, icorr, using the conventional "Tafel extrapolation" approach, i.e. back extrapolation of the linear portions of the E/log i plots back to Ecorr. In this respect, it was recognised that, under the severe hydrodynamic conditions involved in the experiments, the measured anodic polarisation current densities, im, were affected to a significant extent by residual cathodic currents, ic. Consequently, the measured anodic polarisation plots were 4
+
+corrected graphically using the following expression for the "corrected anodic current density", ia. ia = i m + i c An example of this approach is shown in Fig. 3 in which the full lines are the measured anodic and cathodic polarisation plots (with Ecorr set to zero on the graph for convenience of plotting), the solid circles represent the corrected anodic current densities (using the above equation) and the dashed line is the corrected anodic polarisation Tafel line.
+
+Fig. 3: Measured polarisation scans, and corrected anodic plot, after 30 min. impingement at 17 m/s with 1-mm nozzle Table 1 presents the summarised results, of the calculated corrosion rates after a 30-minute impingement, from the entire sequence of experiments involving the two nozzle diameters. The final column in the table gives the corrosion rates converted to instantaneous rates of weight loss using Faradays' laws. The results are plotted in Figs. 4 - 6 and display a rather complex dependence of corrosion rate on impinging velocity that will be discussed later. Also, there is a different relationship obtained from the two nozzle diameters. A similar, but somewhat restricted, set of experiments was also carried out after four hours liquid impingement and the summarised results are given in Table 2. 5
+
+Table 1: Corrosion rates after 30 minutes liquid impingement Velocity, m/s Nozzle diam. Measured mm 0 4.5 17 59 86 2.4 4.5 7.5 11.7 1 1 1 1 4 4 4 4 Average Average corrosio
+
+icorr, µA/cm2 icorr, µA/cm2 rate, mg/h 0.5, 0.5, 0.5 0.5 3.6, 4.3 3.95 0.002 0.018 0.019 0.038 0.052 0.026 0.028 0.047 0.054
+
+4.5, 3.4, 4.5 4.13 6.2, 8.3, 9.5 8.0 11.0, 11.0 5.5, 5.6 6.0, 6.2 10.0, 10.0 11.5, 11.5 11.0 5.55 6.1 10.0 11.5
+
+6
+
+12.5 10
+
+icorr , µA/cm 2
+
+7.5 5 2.5 0 0 25 50 75 100
+
+Velocity, m/s
+Fig 4: Scatter graph of corrosion rate as a function of impingement velocity after 30 min. with 1 mm nozzle
+15
+
+icorr , µA/cm 2
+
+10
+
+5
+
+0 0 5 10 15
+
+Velocity, m/s
+Fig. 5: Scatter graph of corrosion rate as a function of impingement velocity after 30 min. with 4 mm nozzle
+
+7
+
+0.06 0.05 4 mm nozzle
+
+Corrosion rate, mg/h
+
+0.04 0.03 0.02 0.01 0 0
+
+1 mm nozzle
+
+25
+
+50
+
+75
+
+100
+
+Velocity, m/s
+Fig 6: Average values of corrosion rate as a function of impingement velocity after 30 min.
+
+. Table 2: Corrosion rates after 4 hours liquid impingement Velocity, m/s Nozzle diam. Measured mm 0 4.5 17 86 2.4 4.5 1 1 1 4 4 Average Average corrosio
+
+icorr, µA/cm2 icorr, µA/cm2 rate, mg/h 0.5, 0.6 6.3, 6.0 8.0, 9.5 33.0, 34.0 9.0, 8.0 8.5, 8.5 0.55 6.15 8.75 33.5 8.50 8.50 0.003 0.029 0.041 0.157 0.039 0.039
+
+8
+
+Effect of time The effect of time was studied mainly by focusing on an impinging velocity of 17 m/s but with more limited tests at 86 m/s; all experiments being carried out with the 1-mm nozzle. Polarisation plots are shown in Fig. 7 and the summarised corrosion rates, obtained by Tafel extrapolation, are shown in Table 3. Table 3: Corrosion rates after different periods of liquid impingement Velocity, m/s Time, hours Measured Average Average corrosio
+
+icorr, µA/cm2 icorr, µA/cm2 rate, mg/h 17 17 17 17 17 86 86 0,5 4 8 48 72 4 8 4,5, 3,4, 4.5 4.13 8,0, 9.5 8.5, 7.8 16.0, 19.0 14.5, 13.5 33.0, 34.0 53.0, 54.0 8.75 8.15 17,5 14.0 33.5 53.5 0.019 0.041 0.038 0,082 0.066 0.157 0.251
+
+9
+
+Fig. 7: Anodic (upper) and cathodic (lower) polarisation scans after various periods of impingement at 17 m/s and 86 m/s
+
+10
+
+In order to obtain more data to assist in the evaluation of trends in corrosion rate with time, in two experiments at an impingement velocity of 17 m/s, a series of linear polarisation type monitoring exercises was undertaken at times of 30 minutes, 2, 4, 8, 16, 24, 40, 48, and 72 hours. The gradients, Rp, of the potential/current density plots, resulting from the short (22 mV) anodic polarisation scans, were measured followed by calculation of 1/Rp. It should be emphasised that the values of 1/Rp were used simply as an approximate qualitative indication of the trends in corrosion rate and that no attempt was made to quantify these values via estimates of Tafel slopes (obtained from full polarisation scans in other experiments) which would have been inappropriate in the conditions of these experiments. The summarised data are shown in Table 4 from which it is seen that the value of Ecorr shifted continuously in the positive direction whereas the time dependence of the corrosion rate is apparently rather complex. This is shown graphically in Fig. 8 which also reveals a general correlation between the time trends of 1/Rp and of icorr (calculated, Table 3, from Tafel extrapolation of full polarisation scans ) the only slight exception being the small reduction (< 10%) in icorr between 4 and 8 hours. Table 4: Values of Ecorr, Rp and 1/Rp averaged form two experiment 17 m/s Time, (hours) Average Ecorr (mV) 0.5 2 4 8 16 24 40 48 72 -306 -305 -303 -289 -287 -284 -274 -265 -260 Average Rp (kohm cm2) 2.85 1.58 1.46 1.41 0.70 1.56 1.45 0.65 2.06 Average 1 / Rp (1 / kohm cm2) 0.35 0.63 0.68 0.71 1.43 0.64 0.69 1.53 0.49
+
+11
+
+2
+
+20
+
+1 / Rp ( 1 / [kohm cm2])
+
+1.5
+
+15
+
+1
+
+10
+
+0.5
+
+5
+
+0 0 20 40 60 80
+
+0
+
+Time ( hours)
+Fig. 8: 1/Rp and icorr versus time for impingement velocity of 17 m/s (Note: Full line refers to 1/Rp, solid-triangular points refer to icorr calculated from full Tafel plots)
+
+Discussion
+General trends in corrosion rate As displayed in Fig. 6, the corrosion-rate/impingement-velocity relationship appears to be rather complex and the results from the two nozzle sizes fall into two populations. The data for both 30-minute and four-hour exposures are re-plotted, in Figs. 9 and 10, in terms of the more fundamental hydrodynamic parameter, the jet Reynolds number, Re, defined as follows. Re = vd/ where v = velocity (m/s) , d = characteristic length (here taken as the diameter, in m, of the nozzle) and  is the kinematic viscosity (taken as 1 x 10-6 m2/s for seawater at 20°C). Comparison of Figs. 6 and 9 shows that, when plotted in terms of Re, the results from the two nozzles move closer together and the step in the corrosion-rate/hydrodynamic- parameter relationship is more accentuated. Moreover, the results from the four-hour experiments (Fig. 10) provide a good indication of a single relationship between instantaneous corrosion rate and the Reynolds number with a distinct step in the plot at intermediate Re. 12
+
+icorr (µA/cm 2)
+
+0.06 0.05
+
+Corrosion rate, mg/h
+
+4 mm nozzle
+
+0.04 0.03 0.02 0.01 0 0 25000 50000 75000 100000
+
+1 mm nozzle
+
+Re
+Fig 9: Corrosion rate as a function of Reynolds number after 30 min.
+0.2
+
+4mm nozzle
+
+Corrosion rate, mg/h
+
+0.15
+
+1 mm nozzle
+
+0.1
+
+0.05
+
+0 0 25000 50000 75000 100000
+
+Re
+Fig 10: Corrosion rate as a function of Reynolds number after 4 hours Corrosion mechanisms Fig. 11 displays a schematic representation of the observed trends, in this 13
+
+study, of instantaneous corrosion rate as a function of hydrodynamic severity (e.g. Re) for the first few hours of exposure. A schematic curve with some resemblance to Fig. 11 has been suggested [#refs4,5] to be representative of the behaviour of (unspecified) copper-base alloys in seawater but without any actual experimental examples being presented or referenced. In terms of previous experimental demonstration of such a complex relationship, results of the corrosion rates of Cu-10%Ni at 1-10 m/s, with rather similar trends to those displayed in Fig. 11, were reported in a very short Russian paper [#ref6] published some 30 years ago. It is also possible to interpret some other extremely limited data [#ref7] as indicating a partial correspondence to Fig. 11 since the data appeared to demonstrate increasing impingement attack of Cu-10%Ni in seawater in the approximate range 1-3 m/s with possibly similar rates of attack at 3-5 m/s. This paper [#ref7] did not include any mechanistic interpretation of the findings. With respect to other copper-base materials, some workers [#ref8] using a rotating cylinder found that, at high Re (up to 37000), the corrosion rate of copper, brass and tin-bronze was virtually independent of velocity; these findings appear to be analogous to region B in Fig.11. Proposed mechanisms, to account for the different regions, A, B, C of Fig. 11, are presented below.
+
+Fig.11: Schematic representation of relationship between corrosion rate of Cu-10%Ni and hydrodynamic severity in the conditions of this experimental study Region A of Fig. 11 It is relevant to commence the discussion on corrosion mechanisms of Cu10%Ni in the "low-flow" situation by considering corrosion of pure copper in saline solutions. Workers over a long period of time have either demonstrated or argued [#refs9-12] that the corrosion of this metal, under quiescent or mild hydrodynamic conditions is under mixed charge 14
+
+transfer/diffusion control involving Cu --> Cu+ + eand O2 + 2H2O + 4e- --> 4(OH)as the anodic and cathodic reactions respectively and further reaction of the product, Cu+ , of the anodic reaction: Cu+ + 2Cl- --> CuCl2- with transport of the copper complex ion, CuCl2-, from the metal surface into the bulk solution representing the diffusion control process. The influence of increased velocity is to accelerate the ion transport process. It has been postulated [#ref10] that, as the velocity increases, the balance between diffusion and activation control shifts to the latter - this trend being reflected as a gradual levelling-off of the corrosion-rate/velocity relationship. It is suggested that the influence of impingement on the corrosion behaviour of Cu-10%Ni in region A of Fig.11 is essentially along the lines as that (summarised above) for pure copper. Thus the corrosion rate in static and moderate hydrodynamic conditions is under diffusion control of the anodic reaction with the important step being outward diffusion of metal ions, or complexed ions (e.g. CuCl2-) from anodic sites on the metal surface. The increasing corrosion rate with Re is due to accelerated outward diffusive flux of the anodic products through a boundary layer that decreases in thickness with increasing hydrodynamic severity. Experimental support for the above postulated mechanism, involving anodic control, comes, firstly, from the consistent findings in this study of more-negative Ecorr values under impingement conditions than in static NaCl. Additionally, as illustrated in Figs. 2 and 12, the cathodic polarisation plots do not demonstrate concentration polarisation effects. Even under static conditions near to Ecorr, Fig. 12 reveals that the gradient of the cathodic polarisation plot, over a range of about 50 mV from Ecorr, is very similar to that of the other plots relating to increased hydrodynamic severity. This observation for Cu-10%Ni that the cathodic reaction is under activation (rather than diffusion) control is:· contrary to suggestions (without evidence) by one author [#ref13] that the corrosion rate of copper-nickel alloys in flowing seawater up to about 1 m/s is under diffusion control of the oxygen-reduction cathodic reaction,
+
+· but is in accord with the findings and arguments of others [#refs 8-12] that the diffusion control process for pure copper does not involve the oxygen-reduction cathodic reaction because this reaction is under activation control. The gradients of the anodic apparent Tafel slopes after 30 minutes and 4 hours exposure in this study were in the range 50-75 mV/decade which are similar to values obtained in studies of corrosion of pure copper in 15
+
+seawater [#ref9] and in aqueous bromide solutions [#refs 14-15] and is close to the value (60 mV/decade) typical [#refs 14-15] of a metal dissolution reaction that is under diffusion control of dissolution products from the metal surface into the bulk solution. This represents further support for the postulation of anodic diffusion control of the corrosion of Cu-10%Ni in moderate hydrodynamic conditions.
+
+Fig. 12: Cathodic polarisation plots after 30 minutes impingement (dashed line shows the gradient of the plot relating to static conditions in the potential region immediately negative to Ecorr) Region B of Fig. 11 There was evidence (Figs 9 and 10) in this study of a levelling-off of the corrosion-rate/Re relationships at intermediate flow conditions and similar trends have been observed [#refs8,10] in relation to the corrosion of pure copper in respect to which it has been suggested [#refs8,10] that this gradual flattening of the corrosion-rate/velocity relation is due to a shift from predominant diffusion control to charge transfer control. Such a transformation to pure charge transfer control would be consistent with the corrosion rate being independent of velocity (as in region B of Fig. 11) but it is concluded that such a scheme does not account for the behaviour of Cu-10%Ni alloy in the present investigation. The rationale for this assertion is as follows. First, it is difficult to reconcile a scheme resulting in pure charge transfer control at intermediate hydrodynamic severity with the return to increasing corrosion rates at enhanced hydrodynamic severity (region C of Fig. 11). 16
+
+Secondly, there was evidence in the study of the production of corrosion product films on the surface of specimens. Thin patchy films (upper photograph in Fig. 13) were observed after impingement at Re = 45009500, i.e. around the conditions where the corrosion rate starts to become independent of Re. At higher Re values (17000), the films were more prominent but the grain structure of the alloy was clearly visible beneath the film (lower photograph in Fig. 13) - indicating that the alloy was undergoing general-surface, active corrosion, i.e. that the films were not especially protective - as indeed the computed corrosion rates demonstrate.
+
+Fig.13: Corrosion product films on surface of alloy; upper photograph, 4 hours at Re = 9500; lower photograph, 4 hours at Re = 17000; Although the chemical composition of the films were not determined in this investigation, this non-protective behaviour might indicate that they consist of atacamite, Cu2(OH)3Cl, rather than the more protective Cu2O [#refs9,16]. It is thus suggested that the change in corrosion-rate/Re relation from region A to B is associated with the formation of a film on the surface of the alloy. The film will form when the corrosion rate has increased to such an extent that the rate of production of copper ions and (OH)- ions have reached sufficient magnitude to exceed the solubility of some copper-base 17
+
+compound. This film is stable over the Re range of region B and its presence leads to a change of rate control mechanism to one of transport of anodic reaction products through the film. If the film is uniform in coverage and thickness over the relevant Re range, the corrosion-rate/Re profile would be as indicated by region B in Fig. 11. If, however, the film coverage varies from partial-to-complete over a range of Re, then region B in Fig. 11 might exhibit a slightly decreasing corrosion rate with Re; this is perhaps a more likely scenario but was not detectable in the experimental results (Figs. 9-10). Region C of Fig. 11 In this hydrodynamic regime, Cu-10%Ni exhibited rapidly increasing corrosion rate with increasing Re. The plausible explanation of this transformation is that, as the hydrodynamic severity increases, the film, present in conditions represented by region B on Fig. 11, becomes unstable. Strong evidence for this situation was provided by the absence of any films on the alloy after impingement at 86 m/s. The evidence is that the corrosion rate in region C again becomes under mass transfer control with the higher corrosion rates at higher Re being due to increasing de-stabilisation of the surface film. As stated earlier, the apparent anodic Tafel slopes were around 55-70 mV/decade, i.e. indicative of a mass transfer controlled process. The postulation above, of the transformation to region C being initiated by instability of surface films, is in accord with the general suggestion by Lotz [#ref6] that a steeply rising curve like that in region C is associated with a transition from mass transfer hampered by the presence of corrosion product scale towards erosion of the scale. The breakdown of corrosion product films on this copper-nickel alloy is likely to be related to increasing hydrodynamic severity promoting enhanced mass transfer and hence film dissolution [#ref17]. Some time ago, the breakdown of films on copper-nickel alloys in severe hydrodynamic conditions was attributed [#ref18] to the action of shear stresses. This view was later modified to the suggestion of the role of shear stress on corrosion being due to a linkage between shear stress and mass transfer processes [#ref19] and even this influence of shear stress on corrosion processes is disputed by Poulson [#ref17]. Effect of exposure time on corrosion processes Thus far, the discussion has focused on the influence of hydrodynamics on the corrosion rate after short periods (0.5, 4 hours) of exposure. It is well known [#refs1,20] that corrosion product films on copper-nickel alloys become more protective with the passage of time. 18
+
+The discussion is now extended to the influence of time on the corrosion behaviour under constant hydrodynamic conditions. In this study, investigations on this aspect were undertaken largely at 17 m/s (Re = 17000) which was around the region of the change in mechanism at short times (Figs 9 and 10). As demonstrated in Tables 3 and 4 and Fig. 8, there was a complex relationship between corrosion rate and time in the jet impingement conditions with an overall impression that the corrosion rate was cycling between lower and higher values over the 72-hour test period. There was generally good correlation between the corrosion rates determined by Tafel extrapolation of full polarisation scans and those indicated by the 22-mV (Rp) polarisation scans; the only slight exception to this (see Tables 3 and 4 and Fig. 8) being between 4 and 8h where the Tafel extrpolations yielded a very small decrease in icorr in contrast to the "step" in the 1/Rp plot. As shown by the polarisation curves plotted both in semi-log form in Fig. 7 and in linear form (Fig. 14), the anodic polarisation curves were very similar after 4h and 8h at 17 m/s and there was a clear additional degree of polarisation evident in the curve after 72h compared to 48h ­ again in good agreement with the trends in Fig. 8. There was also an obvious feature of a depolarisation of the anodic reaction at 86 m/s compared to 17 m/s. Most of the cathodic polarisation plots displayed similar gradients confirming the expected view that the corrosion process is not under cathodic control in these severe hydrodynamic conditions. Microscopical examination of specimens did not reveal any distinctive differences after impingement at 17 m/s for 4, 8, 48 hours; the constant feature was of a fairly deeply etched structure over the entire surface.
+
+19
+
+Fig. 14: Linear anodic polarisation curves at various times under impinging velocities of 17 and 86 m/s It is of interest to note that linear polarisation data produced by Ijsseling et al [#ref21] exhibited somewhat similar fluctuations with time for copper10%Ni in RDE experiments conducted in seawater at Re of about 30000 and 20°C. A suggested explanation of these cycling corrosion rates involves the idea of progressive formation and breakdown of corrosion product films on the specimen surface. It is postulated that, at 17 m/s impinging velocity, the corrosion rate upon initial exposure is under anodic control via diffusion of products of the anodic reaction across a diffusion boundary layer. As corrosion proceeds, the concentration of the anodic products at the surface continually increases and thus produces a steadily increasing concentration gradient across the boundary layer. This facilitates an increasing corrosion rate with time in this initial exposure period. Fairly quickly (within the first hour), the concentration of anodic products attains a level corresponding to the solubility limit of some copper-base compound that thus forms a film on the metal surface. At this point in time, corrosion control switches from diffusion of soluble ions across a diffusion boundary layer to diffusion across a solid film; i.e. the corrosion rate stabilises or reduces. It is further suggested that the films grown are irregular and there is an increasing degree of surface roughness on a micro-scale that promotes local turbulence and hence accelerates mass transfer processes. It is thus postulated that, after a further period of time, the film is destabilised and the corrosion rate starts to increase again and the next `cycle' of behaviour is commenced. Some support for this notion of the role of increasing surface roughness is provided by limited measurements of surface roughness on Cu-10%Ni specimens obtained using Talysurf profiling equipment and reproduced below. Exposure time at 17 m/s Roughness average, Ra ( µm) Zero (initial surfac 4 hours 0.02 0.06 48 hours 0.35
+
+It should be emphasised that the corrosion rates, even at the lower values in Tables 3 and 4, were not typical of the establishment of fully protective films on copper-nickel alloys [#ref20]. However, the above-suggested mechanism might account for the generally observed behaviour of this alloy at lower velocities than the 17 m/s considered here. Thus, at lower velocities, although there may be an extended period for the formation of the surface film to become established, thereafter, the film might be expected to exist for long times because it is more stable in milder hydrodynamic conditions ­ perhaps for sufficient time for a more protective film (and hence lower corrosion rates) to become established. 20
+
+Influence of different hydrodynamic zones on impinged specimen A submerged jet [#ref22] imposes a number of different hydrodynamic regimes on the surface of a specimen that it strikes. High mass transfer rates occur in the directly impinged region and mass transfer rates fall off in the wall-jet region which begins at a distance of a few nozzle diameters from the centre of the impinged specimen. The intermediate zone between the directly-impinged and wall-jet regions can represent a highly turbulent region ­ although the extent of such elevated mass transfer rates are situation dependent [#ref22]. In this study, with the exception of the impingement velocity of 86 m/s (when severe mechanical erosion was observed in the directlyimpinged zone ­ see next section), the overall appearance of specimens was essentially similar all over the specimen surface, i.e. in all the above-summarised hydrodynamic zones. As mentioned earlier in relation to Fig. 13, the consistent surface feature was of an etched surface with surface films present in some conditions. Other evidence, of similar attack over the specimen surface, was obtained from surface profiling ­ see Fig. 15. This apparent insensitivity to hydrodynamic regions on the specimen (which was also evident from measured, very-small galvanic interactions between the central and outer zones of an impinged specimen [#ref25]) is presumably due to the fact that, in all conditions investigated in this research, the Cu-10%Ni alloy was undergoing active corrosion.
+
+Fig. 15: Surface profile on specimen after 48 hours at 17 m/s (1 mm nozzle)
+
+21
+
+Relationship between corrosion rates and overall material loss during impingement corrosion It is appropriate to point out that, in this research study, estimates of the summed weight loss by pure corrosion processes ­ measured by electrochemical techniques described herein ­ were consistently lower than the actual weight losses measured directly at the end of experiments [#ref3]. It is of interest to note that other workers [#ref23,24] have also reported similar differences between material losses obtained by the two methods of measurement. In this research [#ref3], the difference, between directly measured total weight loss and computed weight loss from electrochemical monitoring, was found [#ref3] to be associated with mechanical erosion and interactive synergy processes and the details of these factors will be reported elsewhere.
+
+Conclusions
+Corrosion rates of copper-10%Ni-base alloy, measured in the early stages (0,5, 4h) of exposure to impinging 3.5% NaCl solution, have been found to have a complex dependency upon the hydrodynamic severity with several different corrosion rate/hydrodynamic regimes. The increasing corrosion rate, as impinging velocity or Reynolds number, Re, increases from zero, has been rationalised in terms of mass transfer control of the anodic reaction. This corrosion mechanism is rather similar to that proposed in the past by other workers for the corrosion of pure copper in aqueous halide solutions. At intermediate values of Re, there is a transition to a situation of relative insensitivity of corrosion rate with hydrodynamic conditions which is attributed to the establishment of surface corrosion product films. Even higher hydrodynamic severity leads to a return to increasing corrosion rate with Re which is interpreted as being due to progressive breakdown of surface films and re-initiation of mass transfer control of the anodic reaction. At a fixed Re, of intermediate severity, the corrosion rate was observed to cycle between high and low values as a function of exposure time and this behaviour has been attributed to alternate sequences of formation and breakdown of corrosion product films on the surface of the alloy.
+
+Acknowledgment
+The provision of laboratory facilities and of support for one of the authors (G.V.), by Professor J.W. Hancock, Head of the Department of Mechanical Engineering, University of Glasgow, is acknowledged.
+
+22
+
+References
+!ref1 `Copper-nickel for seawater corrosion resistance and antifouling ­ a state of the art review', C.A. Powell and H.T. Michels, Paper No. 00627, Corrosion/2000, Orlando, 2000. !ref2 `Copper-nickel alloy for the construction of ship and boat hulls', T.J. Glover, Brit Corr J., 17, 4, pp155-158, 1982. !ref3. `The erosion corrosion behaviour of copper-nickel alloys', G. Vassiliou, Ph.D Thesis, University of Glasgow, 2001. !ref4 `Velocity effects in flow induced corrosion', U. Lotz, Paper No. 27, Corrosion/90, Baltimore, 1990. !ref5 `Flow induced corrosion: 25 years of industrial research', J. Weber, Brit Corr J., 27, 3, pp193-199, 1992. !ref6 Article in Russian, K. Yandushkin and V. Kuris, Zashch. Met., 7, 3, pp317-318, 1971. !ref7 `Jet impingement tests', P.T. Gilbert and F.L. LaQue, J. Electrochem. Soc., 101, 9, pp448-453, 1954. !ref8 `Corrosion rate and damage in flowing NaCl solution'. J. Venzcel, L. Knutsson and G. Wranglen, Corrosion Science, 4, pp1-15 , 1964. !ref9 `Horse shoe corrosion of copper alloys in flowing sea water: mechanism and possibility of cathodic protection of condenser tubes in power stations', G. Bianchi, G. Fiori, P. Lonhi and F. Mazza, Corrosion, 34, 11, pp396-406, 1978. !ref10 `Copper dissolution in sea water under mixed activation and diffusion control', P.A. Lush and M.J. Carr, Corrosion Science, 19, pp1079-1088 1979. !ref11 `The application of low Reynolds number k-. turbulence model to corrosion modelling in the mass transfer entrance region', V. Wang and J. Postlethwaite, Corrosion Science, 39, 7, pp1265-1283, 1997. !ref12 `The rotating disc electrode as a tool for the determination of nickel aluminium bronze and copper corrosion rates in chloride media', G. Kear, D. Barker, F.C. Walsh and K. Strokes, Paper 6, session 8, Corrosion Odyssey 2001, Inst of Corrosion, Edinburgh 2001. !ref13 `Temperature effect on seawater immersion corrosion of 90:10 copper-nickel alloy', R.E. Melchers, Corrosion, 57, 5, pp 440-451, 2001.
+
+23
+
+!ref14 `Anodic polarisation behaviour of copper in aqueous bromide and bromide/benzotriazole solutions', T. Aben and D. Tromans, J. Electrochem. Soc., 142, 2, pp398-404, 1995. !ref15 `Effect of fluid velocity and exposure time on copper corrosion in a concentrated lithium bromide solution', V. Perez-Herranz, M.T. Montanes, J. Garcia-Anton and J.L. Guinon, Corrosion, 57, 10, pp835-842, 2001. !ref16 `Effect of flow on corrosion of copper-nickel alloys in aerated sea water and in sulfide-polluted sea water', B.C. Syrett and S.S. Wong, Corrosion, 36, 2, pp73-83, 1980. !ref17 `Complexities in predicting erosion corrosion', B. Poulson, Wear, 233-235, pp497-504, 1999. !ref18 `Effect of fluid dynamics on the corrosion of copper-base alloys in sea water', K.D. Efird, Corrosion, 33, 1, pp3-8 1977. !ref19 `Correlation of steel corrosion in pipe flow with jet impingement and rotating cylinder tests', K.D. Efird, E.J. Wright, J.A. Boros and T.G.Hailey, Corrosion, 49, 12, pp982-1003, 1993. !ref20 `Guidelines for the use of copper alloys in seawater', A.H. Tuthill, Materials Performance, pp12-22, September 1987. !ref21 `Influence of temperature on corrosion product film formation on CuNi10Fe in the low temperature range', F.P. Ijsseling, L.J.P Drolenga and B.H. Kolster, Brit Corr. J., 17, 4, pp1162-167, 1979. !ref22 `Electrochemical measurements in flowing solutions', B. Poulson, Corrosion Science, 23, 4, pp391-430, 1983. !ref23 `The validity of electrochemical methods for measuring corrosion rates of copper-nickel alloys in sea water', B.C. Syrett and D.D. Macdonald, Corrosion, 35, 11, pp505-509, 1979. !ref24 `The corrosion behaviour of copper alloys, stainless steels and titanium in seawater', F. Mansfeld, G. Liu, H. Xiao, C.H. tsai and B. Little, Corrosion Science, 36, 12, pp2063-2095 1994. !ref25 `Galvanic Interactions during Erosion Corrosion' T. Hodgkiess, D. Mantzavinos, G. Vassiliou, J. Perry, S. Shrestha and A. Faber, This conference.
+
+24
+

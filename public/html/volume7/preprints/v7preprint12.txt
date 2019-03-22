@@ -1,0 +1,259 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 12
+
+Effect of Dunaliella Salina on the corrosion behavior of technical titanium in saline solutions
+M. M. Hefny
+Chemistry Department, Faculty of Science, Cairo University Giza ­ Egypt
+
+And A.A.Dardir and A. Abdel-Tawab
+The Egyptian Salts and Minerals Company (Emisal) Shakshouk ­ Fayoum ­ Egypt.
+
+ABSTRACT
+The corrosion behavior of 99.6 % titanium in aqueous high concentrated salt solutions containing 1.0x105 cell /ml , 35 g of Na2SO4 , 35 g MgSO4 and 130 g of NaCl per liter of solution ( pH 7.9 ) was investigated at 25 oC using standard analytical, biological and electrochemical techniques. It has been
+
+found that the algae Dunaliella salina inhibits the corrosion process of the tested sample as inferred from the decrease of corrosion current with increase of the number of cells in solution. The mechanism of inhibition seems to be preferential adsorption on the cathodic sites of the surface oxide film. The active component ( the adsorbate ) seems to be ß-carotene; as it is being easily released from the cell by the external tension ( the electrode surface ). Further passivation of the surface by the oxygen gas released from the biological activity of the system , metabolism of Dunaliella salina could not excluded.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Introduction
+The present study deals with the corrosion behavior of titanium in presence of Dunaliella salina has been raised due to its use as a construction material in salt and ß-carotene production from Quaron lake water ( El-Fayoum government , Egypt ). The presence of microorganisms and their metabolic activity influence the corrosion behavior of metals by different scenarios. Microbiological investigation of this natural water reveals the presence of a mono culture; the algae Dunaliella salina. Almost, little is known about the effect of algae on titanium. It has been reported that it is not affected by bacteria [1].
+
+The corrosion behavior of titanium and its alloys had been studied extensively. It has been found that these materials have superior corrosion resistance owing to the presence of a passivating oxide film [2] . Furthermore, this class of surface oxide films are more or less defective
+[3]
+
+. The poor adherence of the film is proposed to be a source of its
+
+instability. The adherence of the film as well as its other features depend on its formation conditions, composition of the medium especially the presence of an adsorbate such as a natural biomass. On the other hand, crevice corrosion of titanium can occur at the free corrosion potential [4] . It is a localized form of corrosion. It occurs when metallic parts are in
+
+close contact with non-metallic materials in the corrosive solution. However almost, there is no detailed studies on the corrosion behavior of titanium and its alloys in the presence of biomasses.
+
+2
+
+The tested algae is Dunaliella salina. It is unicellular and belongs to the class Chlorophyceae and the order Volvocales
+[5]
+
+.
+
+It is found
+
+naturally in many aquatic marine habits containing more than 10% salt, e.g., concentrated Quaron lake water. This lake is hypersaline, the
+
+Dunaliella strain which predominates in this lake is Dunaliella Salina. It is ovoid, motile and halotolerant via an osmoregulation mechanism. It is of a commercial interest because it accumulates massive amounts of the precise product ß-carotene. Lacking a cell wall but a mucus surface coat, Dunnaleilla Salina responds easily to external forces by different mechanisms' mainly by secreting ß-carotene and glycerol. It perforates
+
+only in direct sunlight. The present investigation was carried out in door, unless otherwise stated.
+
+Experimental
+The test specimens were of commercially pure titanium ( 99.6 % ) , used in the form of rods with diameter 5.3 mm and length 15 mm. Only the cross sectional area was exposed to the test solution. A stout copper wire was fixed mechanically at the other end. The electrode was then
+
+fitted into glass tubing of appropriate internal diameter; thin layer of resin fixed the whole electrode length inside the tubing. Before each
+
+experiment the exposed electrode surface was mechanically polished with fine emery paper till a bright smooth silver mirror appearance has been obtained. Then rinsed with distilled water, after that dried with a fine filter paper and immediately immersed in the cell filled with a fresh portion of the test solution. The cell is a conventional polarization
+
+electrochemical one. The test solution was naturally aerated (pH~7.9 ).
+
+3
+
+It was prepared as shown below from analytical grade chemicals free or containing occlusions of the cultured algae Dunalialla Salina at 250C. Saturated calomel electrode and platinum wire have been used as the reference and auxiliary electrodes , respectively. All the potentials given here are relative to this reference and all potentiadynamic polarization graphs are run at scan rate 3 mVs-1. A PAR potentiostat model 273/81 was used. It was electronically controlled by EG&G soft ware 252/352 corr II. This study was undertaken with pure culture of the strain Dunaliella salina. The media was prepared by the sequential addition of 130 g of NaCl, 35 g of Na2SO4 and 35 g of MgSO4 to less than 1 L of distilled water. It was then boiled, after that cooled to room temperature. The
+
+minor components; urea, KH2PO4, Fe-EDTA and NaHCO3 nutrient material were added to give the recommended final concentrations; respectively, 0.1, 0.2, 0.002 and 2.0 mM. At last, the solution was completed to 1 L. This solution is the medium. 0.25 L of Dunaliella Salina crop with cell number 1.5x 105 / mL was added to 1 L of the medium in a tank. The crop was supplied from SRI, China. The tank
+
+was kept under net shade where sun light intensity is 40000 to 50000 Lux*. Every morning it was moved to a cool place when air temperature exceeds 35 oC. In the afternoon, when the temperature reaches 35 oC, it was moved to a cool place exposed to sunlight. It was shaken once every hour during the daytime. This culture was diluted with distilled water to keep the same percentage of salts . The growth rate and ßcarotene content were measured every day . The results are given in figure 1.
+
+*Lux :Chinese unit for sun light intensity ,where 1Lux = 250 Watt.
+
+4
+
+0.70 0.60
+
+20
+
+1x106 Cell No./ml
+
+0.50 0.40 0.30 0.20 0.10 0.00 1 2
+
+Cell No ß-Carotene
+
+16 14 12 10 8 6 4 2 0
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+13
+
+14
+
+15
+
+Time / day
+
+Fi Fig.Changes in cell No. and carotene with content with growth time 1 Changes in cell No. and -carotene growth time in medium g.(1) Cell No.:106 cells/ml, carotene: mg/L
+
+Results and Discussion
+The corrosion behavior of the mechanically polished titanium electrode surface was followed by measuring its open circuit potential in free salt solution or containing different occlusions of the algae Dunaliella Salina, figure 2. 900 seconds was found to be a sufficient time to stabilize the open circuit potential and obtaining reproducible and meaningful results, especially we start immediately after that the polarization from the cathodic direction.
+
+5
+
+-Carotene content mg/l
+
+18
+
+-500 -520 O.C. potential /m V -540 -560
+free test solution
+
+-580
+test solution contian 5x104 cell / ml
+
+-600 -620 0
+
+test solution contian 10x104 cell / ml
+
+600 800 Time / S Fig .(2) change of the Open circuit (O.C.) potential of th electrode with immersin to with and without algea
+
+200
+
+400
+
+1000
+
+Typical potentiodynamic curves were obtained in the test solution. They are representatively shown in figure 3. As it is difficult to define a sufficient linear Tafel region in the anodic arm of the observed polarization plots, the value of the corrosion current density was obtained by using an interpolation method [6].
+
+E / mV
+
+1 2
+
+) Fig .3 Poteniodynamic polarization curves at scan rate of 3 mV s-1 : 1- Free solution and 2- in presence of algae ,1x105 cell/ml)
+Log (I / A/cm 6
+
+2
+
+The open circuit potential shift with time towards the electropositive direction indicating further growth of the pre immersion film , Fig. 2 The more or less steady state value becomes higher in the presence of algae, Fig.4, possibly due to the formation of an adsorbed
+
+-480 -490 O.C. potential / mV -500 -510 -520 -530 -540 0 20 30 40 l x 104 Cell No. / ml Fig 4.Increase the more or less steady state oprn ciruit potential (the value measure after 900 S)with Cell number. 10 50
+
+biofilm on the electrode surface. The formation of the biofilm has been confirmed by stripping and analyzing the surface layer. In separate
+
+experiments slicing microbiological analysis of the part of the solution adjacent to the electrode revealed the accumulation of the algae at the electrode surface. The concentration of the algae was found to be more than order of magnitude higher than that in the bulk of the test solution. This value has been obtained by analyzing the surface biofilm layer with respect to chlorophyll a,b and c with extract 90 % acetone measuring the absorbance by (Lambda 2 Prikin
+[7]
+
+, and
+
+Elemer
+
+spectrophotometer) the result are given table 1.
+
+On the other hand,
+
+spectroscopic investigation of this extract reveal the presence of the major secreted substance from Dunaliella Salina, namely ß- carotene. Its surface concentration are also given in table 1.
+
+7
+
+Table 1. Results of measurement of the chlorophyll a,b and c in the biofilm formed on Ti in solution containing in different cell . Cell no./ml a 5x104 1.0x105 2.5x105 0.30 0.62 1.0 Chlorophyll, mg/m2 b 0.19 0.42 0.50 c 0.21 0.51 0.66 1.6 3.2 8.0 ß- carotene, mg/l
+
+The positive shift in the open circuit potential can be attributed to a catalytic action of the biofilm matter with regard to oxygen reduction [8], hence enhancement of passivation of titanium. This enhanced
+
+passivation of titanium has been confirmed from the decrease of the corrosion current, Fig.5.
+
+2.4 2.2 2.0
+
+µ A/cm
+
+2
+
+1.8 1.6 1.4 1.2 1.0 0 10 20
+4
+
+30
+
+40
+
+50
+
+1x10 Cell number /m l Fig 5. Decrease of the corrosion current i corr. with cell number
+
+The mechanism of action of Dunaliella salina, viz., via biofilm formation has the general feature of adsorption processes, i.e., upon saturation of the surface (complete coverage) in the presence of 1.0 x105 cell / ml, the effect of the algae concentration becomes negligible. This trend is
+
+evident from the change of each of the open circuit potential ( Fig. 4 ) and
+8
+
+the corrosion current ( Fig. 5 ). It is plausible that the absorption of Dunaliella salina is preferential on defective cathodic sites of the oxide film, as far as the cathodic branch of the polarization curve was influenced more than the anodic one, figure 3. To elucidate the mechanism of action of Dunaliella salina, differently treated titanium surface has been tested. Modification of the titanium surface has been achieved via anodization of titanium till different potentials, to control the surface state, since the surface properties of the oxide depends on its thickness [3]. The latter parameter has been defined by the anodization potential. It has
+
+been found that the steady state open circuit potential in more positive in presence of the algae for the differently treated surfaces , Fig 6 .
+-250
+
+-300
+
+blank test solution 1x105 cell / ml of the Algea
+
+-350
+
+Es / mV
+
+-400
+
+-450
+
+-500
+
+-550
+
+-600 0 0.1 0.2 0.3 0.4 0.5 0.6 Polarization Potential / V 0.7 0.8 0.9 1
+
+Fig 6. Increase of the more or less steady state potential ,Es potential of differently treates titanium surface with anodized potential
+
+9
+
+Further more the decrease in the corrosion current is higher for the anodized surface as compared with the mechanically polished one, Fig 7.
+2.5 2 Icorr µ A / cm2 1.5 1 0.5 0 0 0.25 0.5 0.75 1 Anodization potential / V Fig 7. Decrease of corrosion current with anodization potential. blank solution 1x105 cell / ml of the algae
+
+Therefore, the role of Dunaliella salina is likely to be repairing of the defective oxide film by the oxygen which is secreted as a result of its metabolic processes. On the other hand, change in the susceptibility of the oxide towards chemical dissolution could be ignored, this because Dunaliella salina does not change the pH of the medium by absorbing CO2 , due to the auto buffer action of the medium. The effect of the
+
+individual secreted substances; glycerol and ß-carotene had been studied using the same techniques. The results show that glycerol have no
+
+influence on the corrosion behavior of titanium, whereas ß- carotene (Fig. 8 ) has almost the same effect as the tested Dunaliella Salina.
+
+10
+
+2.5
+
+-carotene addation
+2.0
+
+Icorr.,µ A / cm2
+
+algae comparison with -carotene
+
+1.5 1.0 0.5 0.0 0 2 4 6 8 10
+
+-carotene mg/l
+Fig 8.change of corrosion current with the ß-carotene content , the result for the algae are given for comparison
+
+Conclusion
+The algae Dunaliella salina was proved to inhibit the corrosion of technical titanium (99.6 %) in nearly neutral highly saline solutions via sticking on the electrode surface and subsequently secreting ßcarotene. The adsorption of these materials seems to be preferential on the cathodic sites of the surface oxide film. On the other hand , released oxygen from the metabolic activity of these micro organisms enhances sealing of the defects with in the surface oxide film.
+
+References
+1. Kh. M. Ismail, A. Jayaraman, T.K. Wood and J.C. Earthman; Electrochimica Acta, 44 (1999) 4685. 2. J.W. Schultze and M. Schweinsberg; ibid , 43 (1998) 2761. 3. M.M. Hefny, A.S. Mogoda and M.S. El-Basiouny ; Br. Corros. J. 21 (1986) 109.
+
+11
+
+4. M.M. Pariona and I.L. Muller: J.Braz. Chem. Soc. 8 (1997) 137. 5. R.C. Cresswell, T.V.A. Rees and N. Shah, eds." Algal and Cyanobacterial Biotechnology " Longman Scientific and Technical Press, 1989 pp 90 ­ 114. 6. D.A. Jones, " Principles and Prevention of Corrosion " (NJ: Prentice ­ Hall, Inc. Simon & Schuster / A Viacom Company ) 2nd ed. pp 144 ­ 1445. 7. Rifaat G. Hanna Australian Water and Technologies Trading Science & Enviroment UV-60 October (1993) 8. A. M. Shams El Din : 22nd Annual Conference , Egyptian Corrosion Society (2003) paper number 6.
+
+12
+

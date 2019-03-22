@@ -1,0 +1,242 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+EVALUATING SURFACE ROUGHNESS BY ELECTROCHEMICAL AND LASER OPTIC ANALYZING TECHNIQUE
+
+Dr. Radha Krishnan. T. K*, Balaji Ganesh. A. Dr. Sathya Narayanan. S^ *Process Control Laboratory, Chemical Engineering Department, National Institute of Technology, Trichy. ^ Corrosion Division, Center for Electro Chemical Research Institute (CECRI), Karaikudi. E mail HYPERLINK "mailto:radha@nitt.edu" "mailto:abganesh@rediffmail.com" radha@nitt.edu , HYPERLINK
+
+abganesh@rediffmail.com
+
+This proposal illustrates the evaluation of degree of surface roughness and rate of corrosion from the experimental data using two dissimilar mechanisms such as optical laser and electro chemical techniques. The adherence of oxides and other dissolved elements as well as even microbes in certain circumstance, on the surface may lead to deteoriation of metals. Surface roughness is considered as a primary impact of any industrial applications such as metal coating, vapour * - Author to whom correspondence to be addressed
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+deposition and even in corrosion monitoring. Both techniques prove its own features to measure surface roughness and corrosion rate that are tabulated as well as explained with respective graphs and figures. By this briefed laser surface treatment it is possible to understand the differences between corrosion, stains and debris. The manipulations of variables are performed and plotted using MATLAB.
+
+Key terms: Surface roughness, electro chemical, optical laser, corrosion rate.
+
+1 Introduction 1 .1 Electrochemical Analysis The sphere of corrosion rate measurement, monitoring the surface and preventive measure, wraps a very broad spectrum of technical activities of an industrialist and scientist. Within the field of corrosion control and prevention, there are technical options such as cathodic and anodic protection, materials selection, chemical dosing and the application of internal and external coatings. Corrosion measurement employs a variety of techniques to determine how corrosive the environment is and at what rate metal loss is being experienced. Corrosion measurement is the quantitative method by which the effectiveness of corrosion control and prevention techniques can be evaluated and provides the
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+feedback to enable corrosion control and prevention methods to be optimized. Corrosion monitoring techniques alone can provide direct and online
+
+measurement of metal loss/corrosion rate in industrial process systems. Weight loss corrosion testing is used more than any other technique. When results of other techniques are in question, they are usually verified with weight loss testing [14]. This method involves exposing a specimen of material (the coupon) to a process environment for a given duration, then removing the specimen for analysis. The basic measurement which is determined from corrosion coupons is weight loss; the weight loss taking place over the period of exposure being expressed as corrosion rate.The simplicity of the measurement offered by the corrosion coupon is such that the coupon technique forms the baseline method of measurement in many corrosion monitoring programs. In a typical monitoring program, coupons are exposed for minimum of a 30day duration before being removed for a laboratory analysis that is shown in Fig.1.This gives basic corrosion rate measurements at a frequency of twelve times per year that is experienced at here. The weight loss resulting from any single coupon exposure yields the "average" value of corrosion occurring during that exposure. The disadvantage of the coupon technique is that, if a corrosion upset occurs during the period of exposure, the coupon alone will not be able to identify the time of occurrence of the upset, and depending upon the peak value of the upset and its duration, may not even register a statistically significant increased weight loss.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+Fig. 1 Corrosion Coupon
+
+1. 2. Laser Optic Surface Analysis The proposed optical laser surface analysis technique may be utilized for continous monitoring of surface from the time it is operated at specific atmospheric condition. When referring to the surface roughness, it is the entire percentage value of roughness is being referred to. To analyze corrosion products, a simple optical surface sensor treatment does not suffice. The adhered particles may be different sizes, from tiny individual spots to large conglomerates along the surface may be contaminated with organic stains from poor handling. Since, the ellipsometer and the scatterometer can be used to distinguish among corrosion, stains and debris. For example, stains do not scatter light and debris and corrosion have different indices of refraction. It should be noted, that small corrosion particles do not scatter light, where as larger corrosion and debris particles may scatter light. Also, it is important not to confuse organic contaminants with corrosion [1]. All surface roughness scatters light. The character of the roughness­heights and spatial wavelengthsdetermines the intensity of the scattering and its angular distribution. As example
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+aluminium coated glass mirror normally scatters approximately 1% of the light that it reflects. In other words, the ratio between the total scattered light and the total reflected light (speclar reflectance plus scattering) is 0.1%. This surface would have a roughness of about 1.6 nm rms [10]. 2 Experimental procedures 2. 1. Electrochemical Analysis Corrosion coupons are generally used in weight loss tests. Properly selected, such coupons will provide quantitative estimates of corrosion rates as well as physical evidence of the type of corrosion occurring in the process environment. In order to provide reproducible data, selected coupons must have a uniform shape, size, surface area, and surface finish. Coupons should be fabricated of an alloy that is similar in composition to the process equipment of interest. In this study, experiments are conducted with mild steel (Iron) as coupon (Density 7.89g/cm3), immersed on 1N HCl acid medium for the specified time on each day of one month period. The weight of coupon is carefully noted before and after the specimen is exposed in to acid medium. At initial stage, the specimen pickled by 3% sulphuric acid for minutes and is rinsed with distilled water. This process can be fulfilled when the specimen was polished to a mirror finish by using different size emery papers and decreased by trichloroethulene. On each day, the coupon is removed from the medium after 24 hours and cleaned with 3 to 5% of sulphuric acid, dried in an oven and weight is measured. Nearly all metallic corrosion processes are electrochemical in nature; they involve water that is in the liquid or
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+vapor phases. The chemical reaction of a corroding metal occurring at the metalliquid interface can be written in a form of anodic and cathodic reactions. An anodic reaction, oxidation, produces electrons. The anodic site is the place where corrosion of metals occur [13]. The cathodic reaction, called reduction, consumes electrons. The anodic and cathodic reactions for a metal (M) are as follows [11, 12]
+
+The over all reaction occurred can be rewritten, Anodic solution of iron
+
+8H2 O
+
+8H+ + 8(OH) -
+
+(1)
+
+4Fe + 8H +
+
+4Fe++ + 8H
+
+(2)
+
+Cathodic Depolarization H 2SO4 + 8H Corrosion Products Fe ++ + 2HCl FeCl2 + 2H+ (4) H2 S + 4H2O (3)
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+3Fe++ + 6(OH)
+
+3Fe (OH) 2
+
+(5)
+
+The net overall reaction for the process is 4Fe + H2SO4 + 2H2O 3Fe (OH) 2 + Fe S (6 )
+
+The weight loss is converted to total thickness loss (T), or average Corrosion rate (R), as follows
+
+T = (W1-W2 )393.7 (A) (d) (7)
+
+R = (W1-W2)(393.7) (365) (A) (d) (D) where T = Metal thickness loss in mils (1.0 mil = 0.001") W1 = Initial coupon weight (g) W2 = Final coupon weight (g) A = Coupon area (cm ) d = Metal/alloy density (g/cm3 ) D = Exposure time (days)
+2
+
+(8)
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+R = Corrosion-rate (mils per year - MPY)
+
+2.2 Laser Optic Surface Analysis
+
+To measure the surface roughness of a metal that involves measuring the scattered current intensity and reflected current intensity of corroded surface coupon. A schematic representation of laser optic surface analyzing experimental setup was implemented as shown in Fig.2. A laser diode is used to generate a 633 nm laser beam that is allowed to focuses on corroded metal coupon at an angle of 45 to the plane of incidence. The focused beam was given the resultant reflected as well as scattered light beams in all direction which were measured by respective photo detectors on either side of laser diode. By measuring the current intensity of individual light beams it is possible to detect percentage of corroded coupon surface roughness.The thickness of the iron was related to the reflectivity, and therefore the reaction and dissolution of the iron oxide film were
+Test Coupon o
+
+Detectors
+
+Light
+
+Rotation Axis
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+Fig 2 Schematic diagram of laser optic surface analyser measured by the degree of reflection. Species from the atmosphere and/or react with the metal reduce the reflectivity. Several Authors reported that the reflectivity of silver micro-mirrors decreased as elements such as H2S, CO, O2, SO2, and H2 adhered onto the external surface of the metal [1, 9, 10]. The surface roughness is the ratio of the intensity of the scattered light to that of the sum of scattered light with the reflected incident light of corroded surface. 3 Results and Discussion 3. 1 Electrochemical Analysis The method is commonly used as a calibration standard for other means of corrosion monitoring, such as linear polarization and electrical resistance. In instances where slow response and averaged data are acceptable, weight loss monitoring is the preferred technique. Coupon tests are low in cost, simple to conduct, and allow the simultaneous evaluation of numerous materials and variations of a single material. Alloy chemistry variations and metallurgical variations (i.e., the effect of heat treatment, microstructure, welding and stress) can be considered. Coupon tests are easily adapted to evaluate specific types of corrosion, such as crevice corrosion and galvanic corrosion. The results from the experimental exposure time, weight loss, surface area exposed and the density of the metal are used to calculate the corrosion rate of the specimen by the advent of equations (7) and (8). The resultant values are tabulated and plotted as shown in Table 1 and in Fig. 3 respectively.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+NO 1 2 3 4 5 6 7 8 9 10
+
+METAL LOSS(mils) 2.04 1.96 2.06 2.29 2.87 3.04 3.57 3.58 3.6 3.93
+
+DATE 12/6/2004 15/6/2004 18/6/2004 22/6/2004 26/6/2004 28/6/2004 2/7/2004 4/7/2004 6/7/2004 11/7/2004
+
+TIME 18:02 18:03 18:03 18:04 18:03 18:03 18:04 18:03 18:03 18:03
+
+Table 1 Metal Loss in mils Vs Date
+
+Fig. 3 Metal loss in mils Vs Date
+
+3.2 Laser Optic Surface Analysis
+
+The scattered and reflected light beams were carefully measured in terms of current intensity by using Micro-Ammeter as shown Fig.2. From this, the percentage of corroded coupon surface roughness was calculated by the ratio of
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+scattered current intensity to the sum of scattered current intensity and the reflected current intensity which are tabulated in Table 2 and further leads to plot the graph between date versus percentage of surface roughness that is shown in Fig. 4.
+
+NO 1 2 3 4 5 6 7 8 9 10
+
+% Surface roughness 41.06 41.34 42.45 42.48 42.54 42.87 43.89 43.98 43.01 43.34
+
+DATE 12/6/2004 15/6/2004 18/6/2004 22/6/2004 26/6/2004 28/6/2004 2/7/2004 4/7/2004 6/7/2004 11/7/2004
+
+Table 2 Degree of Surface Roughness Vs Date
+
+Fig. 4 Degree of surface roughness Vs Date
+
+4 Conclusion
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+The main objective of this proposal is to provide a cost effective and reliable laser optic surface analysis methodology like universally accepted weight loss technique for corrosion prevention, control and detection. It should be noted that, these experiments were conducted with the metals in the similar environment to calculate corrosion rate and surface roughness. To monitor the corrosion influence on the metal surface both corrosion rate and surface roughness will play the important role and these experimental procedures apt for manipulating the parameters respectively. This is proved from the experimental results of suggested dissimilar mechanisms. Smart and methodical exercises of these two dissimilar mechanisms offer information which allows a knowledgeable and experienced industrialist as well as scientist to make reliable predictions of field performance in corrosion monitoring.
+
+References Journals:[1] T Cheng; C Lazik; J Chao; V Velidandla; et al"Corrosion measurements on thin-film disks using optical surface
+
+analysis",Corrosion;May200258,5;ProQuest Science Journals, pg. 408. [2]Asta Richter, Roger Smith, Ronald Ries "Growth and morphology of biological thin films", Applied Surface Science 144­145 1999 pg.419­424.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+[3] J.L. Yao a, B. Ren a, Z.F. Huang a, P.G. Cao b, R.A. Gub, Zhong-Qun Tian "Extending surface Raman spectroscopy to transition metals for practical applications IV. A study on corrosion inhibition of benzotriazole on bare Fe electrodes", Electrochimica Acta 48 (2003) pg.1263-/1271. [4] E. Kalman, "Special issue of trends in corrosion research",Electrochimica Acta 46 (2001) pg.3607. [5] J. A. Gonzalez, A. Molina, M. L. Escudero, and C. Andrade, "Errors in the electrochemical evaluation of very small corrosion rates-I. Polarization resistance method applied to corrosion of steel in concrete," J.Corros. Sci., vol. 25, no. 10, 1985.pg. 917­930 [6]K.Habib, "Initial behavior of corrosion fatigue/hydrogen embrittlement of metallic electrodes in aqueous solutions", Experimental Techniques of Physics, 38 (5/6), 1990 pp. 535-538. Books: [7] Corrosion, Vol13, ASM Handbook, ASM International, 1987 [8] R.K. Chang, T.E. Futak, Surface Enhanced Raman Scattering (Plenum Press, New York, 1982.) [9] Hermann A. Jehn and Andreas Zielonka, Corrosion Testing, Surface Engineering, Vol05,ASM Handbook,(ASM international 1987),pg.635-641.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 22
+
+31 January 2005
+
+[10]
+
+Jean
+
+M.
+
+Bennett,
+
+Characterization
+
+of
+
+surface
+
+roughness,
+
+Characterization of optical materials, (Material characterization series, B-H, 1993.) [11] Fontana, Mars Guy, Corrosion Engineering (McGraw-Hill, 1986.) [12] Jones, Denny A., Principles and Prevention of Corrosion (Macmillan Publishing Company, New York, 1992.) [13]. Uhlig, Herbert H.; R. Winston Revie, Corrosion and Corrosion Control (John Wiley & Sons, Inc., 1985.) [14] Charles G. Arnold and Philip A. Schweitzer P.E, Corrosion tesing techniques, Corrosion and corrosion protection hand book, Second edition, (Marcel Dekker, Inc., New york and Basel, 1983.)
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

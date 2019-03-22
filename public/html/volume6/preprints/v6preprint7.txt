@@ -1,0 +1,140 @@
+Volume 6 Paper C011 New Developments in the Use of Chemicals for Pipeline Corrosion Control
+Baker Petrolite, Kirkby Bank Road, Knowsley Industrial Park, Liverpool L33 7SY, UK chris.bowman@bakerpetrolite.com
+C.W.Bowman
+
+Abstract
+Advances are continually being made in the corrosion management of pipelines, in particular gas production pipelines. Flow simulation models can be developed which allow for changing conditions at particular areas of a pipeline. Corrosion rate trends can be correlated with these simultaneously changing process conditions. It is shown how water hold-up, and its consequent effects, can be overcome by chemical means. Recent developments in corrosion monitoring and inspection techniques that have led to improvements in the way pipelines can be monitored for corrosion are assessed. New developments are also described in the way corrosion inhibitors are evaluated for their environmental acceptability. Keywords: Corrosion, pipeline, gas, monitoring, inspection, inhibitor, foamer, environment
+
+Introduction
+Corrosion is a serious problem with pipelines, both from an internal and external point of view. In the present case consideration is given to the effects of internal corrosion in gas pipelines. For the safe and reliable operation of gas systems it is important to detect the location and quantify the amount of internal corrosion that occurs before significant damage occurs.
+
+Pipeline failures often occur due to pitting corrosion. This will be a
+
+problem if corrosive water collects in traps and there is no provision for chemical treatment. For example, with gas transmission systems the primary location for corrosion to occur is where water coalesces and collects in low spots.
+
+Corrosion in gas pipelines
+With gas pipeline systems the rate of gas flow is not constant over volumes. However, both hydrocarbon production and velocity decrease with time. These lower velocities lead to settling of water and solids in stagnant areas. Corrosion in pipelines can result from these changes in production conditions occurring with time. Internal corrosion is a major cause of pipeline failure, and can approach 50% of all incidents [1]. Pipeline failure is frequently due to pitting, a form of localised corrosion. Actual pipeline failure rates depend on the pitting rate and the wall thickness [2]. Attempting to determine specific pipeline locations that represent an integrity threat is better than applying a corrosion rate to an entire line length. If the locations along a pipeline length most likely to accumulate water have not corroded then other locations less likely to accumulate water are unlikely to have suffered serious corrosion [3]. The actual control of internal corrosion is a vital part of any pipeline time. Initially in the life of a field there are typically high production
+
+integrity management system. Knowledge of the operating conditions together with monitoring of the liquid and solids content can help to determine the locations of highest risk for internal corrosion. Once the highest risk sections of pipeline are identified remediation strategies can be developed including removal of liquids and solids even if the line cannot be pigged. In addition corrosion inhibition can be used to control internal corrosion.
+
+Water hold-up in gas pipelines
+Water accumulation in gas gathering systems cause significant reductions in cross sectional area. The quantity of deposits and liquid
+
+2
+
+hold-up present is a strong indicator of the potential that internal corrosion is occurring.
+
+The measured corrosion rates can be related to liquid hold up. In gas transmission systems, the component which would be a liquid is present normally only as a mist or dispersion within the gas phase. Liquid phases are seen only when system upsets occur though this up is generally present. happens relatively frequently. With gas gathering systems liquid hold-
+
+A corrosive environment within a pipeline segment is created when the shear forces applied by the gas phase on the aqueous phase are insufficient to carry the water over a region of upward inclination. The gas-liquid shear forces are insufficient to overcome the gravitational forces and move the water. When this occurs water accumulates on the up-dip region of the pipeline segment [4]. A localised water fraction as high as 50% of the cross-sectional area of the pipeline can occur and be sustained within the up-dip inclination for up to several thousand feet in length. These water accumulations cause significant pressure drops in gathering systems. Modelling can be used to both predict when water hold up occurs and to measure the amount of liquid. Flow modelling can be used to predict the locations at which water will coalesce, separate and collect. Flow modelling can also be used to determine the amount of water hold-up already present in the line.
+
+Detailed examination of locations along a pipeline where water first builds up provides information about the remaining length of the pipe. Corrosion is most likely (and may be the most severe) where water first accumulates. It has been observed in some low-flow segments that changes in the inclination angle of less than 1 degree (and as little as 0.25 degrees) can be sufficient to cause significant water accumulations. Stagnant water traps will form if the pipeline is inclined above a certain critical angle. The first pipe inclination equal to or greater than the critical angle has the greatest opportunity for internal corrosion due to the probability for liquid hold-up [5]. Evaluation techniques must be 3
+
+applied to verify the pipe integrity at this point. In one example it was up [6]. The critical angle is very sensitive to changes in flow rate and
+
+determined that an angle of 3.34° was the critical angle for water hold-
+
+pressure. For example, it was noted that there was a slight flow rate drop associated with delivery stations along a particular line. To account for this change in flow rate and associated pressure drop the section an associated critical angle was calculated. This angle was
+
+pipeline was segmented based on the operating conditions. For each then compared with the inclination angle. Locations were deemed to be at risk where the inclination angle exceeded the critical angle of the pipeline. The first location where the critical angle was exceeded was assumed to have the highest risk. This data was compared with inline inspection data to help quantify the internal corrosion characteristics. Knowledge of the operating conditions along the entire length of the pipeline will help the assessment of internal corrosion. This includes elevation profile (for water accumulation), low spots and diameter changes. This is in addition to pressure, temperature, flow rates and gas composition (especially CO2, H2S and water levels).
+
+Inspection and Monitoring
+It is very important that an accurate record of any upsets that might affect the corrosive conditions within the specified pipeline is maintained by the operator. For pipelines with limited historical information an in-line inspection tool could be considered to establish a baseline assessment of the internal condition of the pipe. In-line inspection surveys with the use of intelligent pigs can be used to determine the internal corrosion condition of natural gas pipelines. These can be moved through the pipeline either by tether or by the use of product flow. Intelligent pigs are used to survey the corrosion damage within a pipeline using ultra sonic or magnetic flux leakage methods of detection. In most cases magnetic flux leakage tools are used for gas pipelines [7, 8]. They are used to detect and measure the effects of localised corrosion including pits and even cracks [9, 10]. 4
+
+Solids and deposits are frequently overlooked as a part of a monitoring programme but all solids collected from a pipeline need to be identified, catalogued and tracked [11]. It is normally recommended that at least two techniques be used to provide monitoring.
+
+Weight loss coupons and probes if possible should be located at those areas which are the most representative of the highest risk of internal issue. Often it is not possible to gain access to some of the areas of pipelines potentially most at risk from corrosion. Coupons provide a long term average measurement of the corrosion rate and can give a visible indication if localised corrosion or deposits are occurring. Electrochemical probes will give instantaneous estimates of corrosion rates. Electrical resistance probes will give an average corrosion rate over a period of time. New methods of corrosion monitoring include those of non-intrusive techniques for monitoring corrosion. For example, one technique involves inducing an electric current and monitoring the changes in the corresponding electrical field pattern in the pipe wall [12]. These may be due to metal loss from general corrosion, pitting or erosion or other phenomena (e.g. cracks). Sensing pins/electrodes are distributed in an array over the area to be monitored to detect changes in the electrical field pattern. The electrical potential map derived is proportional to the change in wall thickness. The sensitivity of the technique is typically 0.5% of the remaining wall thickness (for general corrosion). High-resolution electrical resistance techniques also have been developed [13]. These should allow accurate corrosion rate determinations to be undertaken more quickly. The technique would not require a conductive water phase. The sensor possesses a high signal to noise ratio, potentially enabling resolution down to +/- 5 ppm for a 1 mm thick element. corrosion. However, retrieval of the coupons or probes is an important
+
+5
+
+Mitigation of corrosion
+A chemical inhibition programme can be used to minimise the corrosion rate. This is especially the case when free water is continuously present or solids and liquids cannot be removed. A corrosion inhibitor is applied to the line to reduce the corrosion rate by at least 90% (often much higher). Laboratory testing and pipeline corrosion rate monitoring are used to determine the effectiveness of a corrosion inhibition programme. For continuous injection into the system the corrosion inhibitor can be injected via an injection quill. Corrosion inhibitor application in pipelines can also be by batch or slug application. In a batch application the inhibitor is placed between two pigs. In lines which can not be pigged a slug of chemical is pumped into the line and the operating flow is used to deliver the corrosion inhibitor. Such treatments are performed on a regular basis. If water or solids are present in a pipeline in low spots the water can be removed by a simple pigging operation. If a pipeline cannot be pigged, hold-up or solids may be removed in some cases depending on operating conditions by the application of a chemical cleaner or foamer. Foamers will entrain liquids into the gas phase to form a `mist' which will be carried through with the gas phase. Cleaners will help suspend solid deposits into a liquid phase. If liquid water is flowing freely through the system an inhibition programme will be required to minimise internal corrosion.
+
+Field study ­ Removal of liquid hold-up
+A sub-sea gas well had not been producing the predicted volumes of gas and the gas gathering line was operating at increased pressures. The production conditions in the line were modelled and representative fluid samples collected. The accumulation of liquids in the flow line was found to be the cause of the problem. Owing to the water hold-up and the increased pressures in the line the corrosion 6
+
+rates in the system had also increased. The pipeline ran ten miles MMSCMD gas and 57.6 cubic metres of water per day. Mechanical removal of the liquids was not possible but a chemical process was used to select the proper chemical to remove the
+
+uphill between the wellhead and the platform. The line produced 0.2
+
+solution was cost effective and was investigated. A rigorous screening accumulated liquids from the flow line by application at the wellhead. gas production rate was increased by 38% with no upsets (Figure 1).
+
+The treatment by the foamer was at a rate of 7.5 litres per day and the The corrosion rates were also expected to have decreased due to the decrease in system pressure and free water. The system experienced a decrease in pressure of more than 10 bar.
+Gas production optimisation
+0.3 0.28 0.26
+
+Gas production (MMSCMD)
+
+0.24 0.22 0.2 0.18 0.16 0.14 0.12 0.1 0 10 20 30 40 50 60 70
+
+Time (days)
+
+Figure 1. Foamer injection started after 16th day. The gas
+line and decreased corrosion rates
+
+production optimisation occurred during removal of water in the
+
+Recent changes in environmental policy
+Much emphasis has been put on making oilfield chemicals more responsive to the surrounding environment in recent years. Changes in environmental regulations over the years have led to ever more 7
+
+stringent environmental criteria which chemicals must face. At the
+
+same time these environmental criteria have gradually become more precise in nature, with specific, but representative, organisms being tested.
+
+To prevent the pollution of the NE Atlantic from land-based and offshore sources a means of control was devised over the use and and adopt a Harmonised Mandatory Control Scheme (HMCS). discharge of offshore chemicals. A European body was set to develop
+
+A new HMCS has been in force in the UK since August 2002. This is operated as a discharge permit system. The main components of the HMCS are a pre-screening scheme and a revised harmonized offshore chemical notification format (which contains environmental property information). This data is used in new software to assess the environmental properties. The software evaluation is called CHARM (Chemical Hazard Assessment and Risk Management). Chemicals such as corrosion inhibitors used on offshore platforms must comply with this process. In most cases in the UK this has replaced the Offshore Chemical Notification Scheme (OCNS) procedure. Initially the pre-screening is undertaken on the chemical components. The chemical must possess biodegradability greater than 20%. Next there must then be compliance with two out of three of the following properties: for toxicity the EC50 should be greater then 10 mg/l, for then 600) or biodegradability greater than 60%. If a component fails pre-screening it will be flagged for substitution. The process then uses CHARM software as a decision-support tool. It involves the calculation of a Hazard Quotient (HQ). The HQ is calculated using values from the environmental properties of the chemical such as toxicity, the % of component in the product and the expected product dose rate (specific to the water or total fluids). These new protocols present a challenge to the selection and use of corrosion inhibitors. However, not only are there corrosion inhibitors which can be used under the new (or the old) schemes but rapid developments have been taking place which allow the deployment of 8 bio-accumulation the Log Pow less than 3 (or molecular weight greater
+
+new chemicals that are more environmentally friendly in nature. These have been found to possess inhibition performance at least as good as the more traditional inhibitor chemistries previously used.
+
+Conclusions
+The specific locations where internal corrosion is most likely to be a threat to the integrity of pipelines need to be determined. Modelling those areas where severe corrosion occurs due to water hold-up will and mitigation to be carried out before failures occur. Corrosion control can be helped by procedures such as removal of liquid hold-up and chemical means including corrosion inhibitors as well as the use of foamers and cleaners. Pipeline inspection and monitoring is essential to help maintain the integrity of the equipment. Some improvements in the way pipelines can be monitored for corrosion have been outlined. Corrosion inhibitors are being developed which offer high levels of protection whilst at the same time having a much reduced effect on the environment in terms of their toxicological, biodegradation and bioaccumulation properties. help this process. This will enable appropriate monitoring, inspection
+
+Acknowledgements
+The author expresses his thanks to Baker Petrolite for permission to present this paper. The author also wishes to record his thanks to his colleagues, in particular W.Y.Mok, for their technical contributions.
+
+References
+1. 2. Energy Utilities Board Report No. 98-G December 1998 "A pipeline integrity management strategy based on multiphase fluid flow and corrosion modelling", P.O.Gartland and J.E.Salomonsen, Paper No. 622, Corrosion 99, San Antonio, 1999 9 "Pipeline Performance in Alberta ­ 1980 to 1997", Alberta
+
+3.
+
+"Internal corrosion direct assessment of gas transmission pipelines ­ application", O.Moghossi, B.Cookingham, L.Perry and N.Sridhar, Paper No. 03204, Corrosion 2003 March 2003 corrosion likelihood and the subsequent development of a D.J.Richardson and G.C.Williamson, Paper No. 02247, Corrosion 2002, April 2002 "Results from a predictive flow model used to assess internal
+
+4.
+
+risk-based integrity plan for a natural gas gathering system",
+
+5.
+
+assessment process for natural gas pipelines", M.Schmidt and J.T.Schmidt, Paper No. 03189, Corrosion 2003, March 2003 "The challenges of implementing the internal corrosion direct assessment method", J.S.McKay, S.F.Biagiotti Jr. and E.S.Hendren, Paper No. 03185, Corrosion 2003, March 2003
+
+"Practical application of the internal corrosion direct
+
+6.
+
+7.
+
+"Intelligent pig inspection, evaluation and remediation of uncoated seamless pipelines", T.R.Shamblin, Paper No. 539, Corrosion 99, San Antonio, 1999
+
+8.
+
+"Application of the Circumferential Component of Magnetic Flux Leakage Measurement for In-Line Inspection of Pipelines", M.A.Siebert and J.E.Sutherland, Paper No. 540, Corrosion 99, San Antonio, 1999
+
+9.
+
+"In-Line Inspection Tools for Crack Detection in Gas and Liquid Pipelines", N.I.Uzelac, H.H.Willems and O.A.Barbian, Paper No. 88, Corrosion 98, San Diego, 1998
+
+10.
+
+"Inspection data management challenge and basis of efficient risk management", K.Germerdonk et al., Pipetronix GmbH, Stutensee, Paper No. 535, Corrosion 99, San Antonio, 1999
+
+11.
+
+"The importance of internal corrosion control in pipeline integrity management", S.E.Campbell, Paper No. 02099, Corrosion 2002, April 2002 "Use of the FSM technique in the laboratory to measure corrosion inhibitor performance in multiphase flow", A.M.Pritchard, P.Webb and H.Horn, Paper No. 8, Corrosion 98, San Diego, 1998
+
+12.
+
+13.
+
+"High resolution metal loss in non-aqueous environments", B.J.Hemblade, J.R.Davies and J.Sutton, Paper No. 225, Corrosion 99, San Antonio, 1999 10
+

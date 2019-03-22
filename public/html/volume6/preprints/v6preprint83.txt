@@ -1,0 +1,357 @@
+Volume 6 Paper H029 Electrochemical behavior of Fe-28Al-2C after high temperature hydrogen treatment
+T. Lahaa, R. Balasubramaniama,*, A. Tewaria, M.N. Mungolea and R.G. Baligidadb a Department of Materials and Metallurgical Engineering Indian Institute of Technology, Kanpur 208 016, INDIA. b Defence Metallurgical Research Laboratory, Hyderabad 500 058, INDIA.
+
+Abstract
+The effect of high temperature heat treatment on the electrochemical behavior of a carbonalloyed iron aluminide of composition Fe-16.2Al-0.54C (in wt %) was studied by potentiodynamic polarization studies. The electrochemical behavior of the as-received alloy was characterized in sulfuric acid of different normalities. Well-polished samples were exposed to hydrogen at 1 atmospheric pressure at 700oC and 900oC for different times. The effect of high temperature hydrogen treatment on the electrochemical behavior of the alloy was addressed. The high temperature treatment did not affect the secondary anodic peak observed in the polarization experiments. The increase in passive range and passive current densities of the hydrogen treated samples, with increasing treatment temperature and time, was attributed to surface compositional changes, which was confirmed by microhardness studies.
+
+KEYWORDS: Iron aluminides, hydrogen treatment, electrochemical behaviour, microhardness
+
+*
+
+Author for correspondence
+
+1. Introduction
+There is an increasing interest in the development of high temperature materials based on intermetallic phases. Intermetallic alloys based on iron aluminides, centered around the stoichiometric compositions Fe3Al and FeAl, are being considered for high temperature structural applications. Specific advantages of iron aluminides include excellent sulphidation resistance, very good oxidation resistance, lower density (5400-6700 kg/m3) which is 30% lower than that of the commercially available high temperature materials, good wear resistance, good cavitation erosion resistance and potential lower cost [1]. Although these alloys exhibit poor room temperature ductility and low fracture toughness, significant improvements have been achieved by alloying additions and process control [1]. The available literature generally addresses iron aluminide compositions with very low (<0.01 wt%) carbon contents because it was reported that carbon reduced ductility [2]. Recently, Baligdad et al reported that addition of carbon in the range of 0.14 to 1.1 wt % significantly increased the strength and hardness of iron aluminides, which was attributed to solid solution strengthening by interstitial carbon in the matrix, to the precipitation of perovskite-based Fe3AlC0.5 phase and the formation of a duplex Fe3Al-Fe3AlC0.5 structure [3-5]. The moderate ductilities exhibited by these alloys have been related to irreversible trapping of hydrogen at bulky carbide-matrix interfaces [6]. An added advantage in these iron aluminides of high carbon content is their excellent machinability, which is due to the presence of uniform carbide precipitates that facilitate the formation of small, uniform-sized chips during machining [4]. One of the key factors in increasing the maximum use temperature is enhanced resistance to high temperature atmospheres. The Fe-Al alloys with higher aluminum and carbon contents are more resistant to oxidation and decarburization [7]. A better oxidation resistance appears to lead to resistance to decarburization in these alloys [8]. The hot corrosion resistance of the carbon-alloyed iron aluminides was superior compared to the base iron aluminide (i.e. without any carbon addition), which has been attributed to the presence of carbides that hinder the diffusion of damaging species down grain boundaries [9,10]. It was reported recently that the experimental potentiodynamic polarization curves of several carbon-alloyed iron aluminide alloys (Fe-15.6Al-0.05C, Fe-15.6 Al-0.14C, Fe-15.6Al0.5C-Fe-15.6Al-1C, in wt %) exhibited a typical secondary anodic peak[11]. Frangini et al. [12] did not, however, report the existence of secondary anodic peak in a hot rolled iron aluminide alloy containing 24.4 wt % Al. The appearance of the secondary anodic peak in acid solution has been
+
+2
+
+proposed to be due to the reoxidation of absorbed hydrogen atoms on the surface [13]. It was, therefore, decided to understand this phenomenon by controlled exposure of a carbon-alloyed iron aluminide to hydrogen at high temperature for several different times. The aim of the present study is to characterize the electrochemical behavior of a carbon-alloyed iron aluminide after high temperature hydrogen treatment.
+
+2. Experimental
+An iron aluminide ingot of composition Fe-16.2Al-0.54C (in wt %), which corresponds to Fe-28.1Al-2.1C in at %, was prepared by air induction melting and chill cast into a cast iron mould. Commercial purity aluminum and mild steel scrap were used as raw materials. Grinding was used to clean the surface of the iron charge. After melting, the slag product was skimmed off. Aluminium pieces were then added to the molten iron bath. The melt was held at 1620o C for a very short time (2 minutes) to prevent aluminum losses and then normalized to room temperature. The ingot was then tested for its soundness by radiography. The ingot (55 mm diameter, 360 mm long) was machined to 50 mm diameter. They were refined in an electro-slag remelting (ESR) furnace of 350 kVA capacity. A commercial prefused flux based on CaF2 was used. The flux was preheated and held at 850oC for 2 hours before use in order to remove moisture. The iron aluminide electrode was remelted under this flux cover and cast into 76 mm ingot in a water cooled steel mould. At the end of the process, the power supply was gradually reduced to impose a condition of hot topping. The ESR ingots were also radiographed to check their soundness. The ingots were then forged to a reduction ratio of 70% and subsequently hot rolled down to strips of 3 mm thickness. The alloy exhibited recrystallized grains after thermomechanical processing. Rectangular specimens (of approximate size 8mm×5mm×3mm) were cut from the alloy strips using a diamond cutter (ISOMET, Buehler). All the surfaces of the specimens were mechanically polished in fine cloth using 0.5µ alumina powder and then degreased using acetone before each experiment. The apparatus for hydrogen attack studies consisted of a tube furnace, a hydrogen gas cylinder, a argon gas cylinder, a gas pressure controller and a gas train. A vertical tube furnace of 150 mm length was employed. Temperature profiling of the furnace showed that a constant temperature zone of about 25 to 30 mm was obtained in the central region of the furnace. The temperature of the furnace was controlled within ±2K and measured by a Pt/Pt-10%Rh thermocouple. A mullite tube (45 mm inner diameter and 460 mm length) acted as the reaction
+3
+
+chamber. The mullite tube was fitted with silicone rubber stopper at the top to provide airtight fitting cover. The gas inlet tube and outlet tubes were inserted through the top of the reaction chamber through the silicone rubber stopper. All these tubes were glass fitted with rubber tubing and sealed with sealant. Teflon tapes were tightly wound on the locations where the glass tubes were fit with the rubber tubes. The specimen was placed inside a quartz crucible with three holes at the bottom to allow easy passage of gas. This crucible was then hung from the top of the furnace using a platinum wire into the reaction zone of the chamber. The experiments were carried out isothermally. Once the furnace attained the test temperature, sufficient time (15 to 20 minutes) was allowed for temperature to stabilize. The furnace was then first flooded with argon gas for 10 minutes to remove all entrapped air and then again hydrogen gas was purged in the reaction chamber to remove the argon gas and to maintain the reaction environment condition inside the furnace before introduction of the sample. A gas train was utilized to monitor the flow rates of the gas and purify it from probable impurities present. Pure gas was passed through a bubbler and capillary flow meter. The gas was then passed through an Ascarite (sodium hydroxide coated silica) column to remove carbon dioxide. It was then passed through anhydrous calcium chloride and Drierite (CaSO4) columns successively before introduction into the reaction chamber. Drierite possesses low equilibrium residual water vapor pressure and therefore, it was used after the anhydrous calcium chloride column in the gas train for efficient removal of moisture. The outlet gas was passed out of the furnace through a bubbler to ensure that the flow of gas was being maintained through the system. Hydrogen treatment was performed for five different conditions changing the treatment temperature and time (at 700oC for 10 h and 48 h, and at 900oC for 144 h, 336 h, 720 h) at one atmospheric hydrogen pressure. The experiment at 900oC for 144h was repeated for duplicate testing. The samples, after hydrogen treatment, were slightly polished to remove a thin oxide layer that had formed on high temperature exposure and utilized for electrochemical studies. Electrochemical polarization studies were conducted using a Perkin Elmer potentiostat (Model 263A) and a flat cell. A silver/silver chloride (SSC) electrode in saturated KCl was used as the reference electrode and the counter electrode was a platinum grid. All the potentials reported in the paper are with respect to SSC electrode (+197 mV vs standard hydrogen electrode). Two sets of experiments were conducted. In the first set, the as-received sample, that had not been treated with hydrogen, was tested at different normalities of H2SO4 from 0.1 N to 1.0 N to study the effect of acid concentration. In the second set, experiments were carried out in a solution of 0.5 N
+4
+
+sulfuric acid on the samples after exposure to hydrogen. The potentiodynamic polarization experiments were carried out in the potential range of ­700 mV to +1600 mV for all the samples. The experiments were started immediately after immersion of the alloy in the electrolyte. All the polarization experiments were carried out at a scan rate of 0.5 mV/s.
+
+3. Results and discussion Microstructures
+A typical microstructure of the as-received material is presented in Figure 1. Two different morphologies of second phase carbide particles were observed: bulky and needle-shaped. The microstructural aspects after the treatments have been discussed in details elsewhere [14].
+
+Needleshaped carbide
+
+Matrix
+
+Bulky carbide
+
+Figure 1. Microstructure of the as-received aluminide showing grain boundaries, bulky carbides and needle-shaped carbides. The needle shaped carbides dissolved in the matrix fairly early. The bulky carbides were degraded along the {111} and {110} crystallographic directions, which has been explained by considering its crystal structure The interfaces between bulky carbides and matrix were affected by the heat treatment, the degradation increasing with increasing time and temperature.
+
+5
+
+Effect of pH
+Figure 2 shows the potentiodynamic polarization behavior of the alloy at different normalities of H2SO4. The corrosion rate (icorr) and Tafel slopes (c and a) at different normalities of H2SO4 solution were determined from the potentiodynamic polarization curves and are tabulated in Table 1.
+
+2000 1500
+
+Potential (mV Vs. SSC)
+
+1000 500 0 -500 -1000 -1500
+
+0.1N 0.2N 0.3N 0.4N 0.5N 0.6N 0.7N 0.8N 0.9N 1.0N H2SO4
+
+-6.0 -5.5 -5.0 -4.5 -4.0 -3.5 -3.0 -2.5 -2.0 -1.5 -1.0 -0.5
+
+Log(current density) (A/cm )
+
+2
+
+Figure 2. Potentiodynamic polarization behavior of as-received aluminide in sulfuric acid of different normalities.
+
+6
+
+Table 1.Values of a, c and icorr obtained from the potentiodynamic polarization curves of asreceived aluminide in sulfuric acid of different normalities
+
+Normality of H2SO4 c (N) 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0 (V/decade) -0.254 -0.245 -0.316 -0.242 -0.247 -0.248 -0.252 -0.251 -0.262 -0.264
+
+a (V/decade) 0.182 0.190 0.188 0.187 0.190 0.174 0.190 0.189 0.160 0.196
+
+icorr (mA/cm2) 0.41 2.24 1.90 3.42 4.13 5.12 5.29 6.17 6.31 6.31
+
+The c and a values were almost similar in different normalities of H2SO4. The c values varied in the range of ­0.242 to -0.264 V/decade, whereas the a values were in the range of 0.174 to 0.196 V/decade. However, the corrosion rate (icorr) increased continuously and systematically (from 0.41 mAcm-2 for 0.1 N to 6.31 mAcm-2 for 1.0 N) with increasing normality of the H2SO4.. The concentration of H+ ion increases with increasing normality and the rate of cathodic reaction (hydrogen evolution reaction) also increases with higher H+ ion concentration. One reason for the observed increase in the anodic reaction rate (i.e. corrosion rate) was, therefore, the higher concentration of H+ available with increasing normalities. The potentiodynamic polarization curves, obtained as a function of solution normality (Figure 2) exhibited active-passive behavior. The values of zero current potential (ZCP), complete passivation potential (Ecp), transpassive potential (Etp) and passive current density (ipass) were obtained from the potentiodynamic polarization curves (Figure 2) and these are summarized in Table 2.
+
+7
+
+Table 2. Passivation parameters obtained from the potentiodynamic polarization curves of as-received aluminide in sulfuric acid of different normalities
+i0
+
+H2SO4 N 0.1 N 0.2 N 0.3 N 0.4 N 0.5 N 0.6 N 0.7 N 0.8 N 0.9 N 1.0 N
+
+ZCP
+
+Epp1
+
+Epp2 mV
+
+Ecp
+
+Eb
+
+Eb-Ecp
+
+icrit1
+
+icrit2
+
+ipass mA/cm2
+
+H+
+
+H2
+
+-554 -543 -560 -544 -535 -535 -544 -522 -537 -546
+
+-238 -362 -357 -364 -370 -385 -393 -385 -375 -320
+
+-65.6 -63.7 -56.7 -59.3 -65.6 -78.9 -66.5 -92.3 -59.3 -45.4
+
+439 493 478 497 501 517 482 437 439 431
+
+1420 1460 1430 1470 1480 1470 1490 1490 1520 1550
+
+981 967 952 973 979 953 1008 1053 1081 1119
+
+5.25 9.55 7.94 14.79 18.20 21.88 21.38 22.51 19.50 22.13
+
+0.98 1.86 1.35 3.09 4.36 5.37 5.25 6.03 4.47 7.08
+
+0.051 0.080 0.060 0.100 0.132 0.110 0.134 0.162 0.250 0.776
+
+0.09 X 10-2 1.61 X 10-2 3.31 X 10-2 2.50 X 10-2 2.95 X 10-2 4.68 X 10-2 4.68 X 10-2 5.50 X 10-2 5.62 X 10-2 6.16 X 10-2
+
+The ZCP, Ecp and Etp were almost similar in different normality solutions. However, ipass generally increased with increasing normality of H2SO4. The value of ipass in case of 0.2 N H2SO4 was slightly more than that in case of 0.3 N H2SO4, the reason for which could not be understood. All experiments were duplicated and the results were highly reproducible. The increasing passive current density with decreasing pH has been recognized [15] and the results of the present study are in conformity with literature. In order to obtain some insights on the dominant reduction reaction in the cathodic region of the polarization diagram, the ZCP was compared with the reversible potential for hydrogen evolution reaction. Table 1 indicates that the ZCP values of the alloy were in the range between -522 to ­566 mV vs SSC. The equilibrium reversible potential for the hydrogen evolution reaction was calculated by Nernst equation to be slightly noble compared to the observed ZCP values. Therefore, it can be concluded that hydrogen evolution was the dominant cathodic reaction. Analysis of the transpassive region was also similarly undertaken. The transpassive potential (Etp) for the samples were compared with the equilibrium reversible potential for the oxygen evolution reaction. As the estimated reversible potentials were moderately active
+8
+
+compared to the transpassive potential (Etp), the transpassive region was concluded to be due to oxygen evolution. The polarization diagrams (Fig. 2) showed an extra anodic peak in addition to the first peak, in conformity with literature [11]. The first anodic peak was observed in the range between ­ 238 mV to ­393 mV for different normalities of H2SO4 solution. A secondary anodic peak was observed in the range of ­45 mV to ­92 mV before reaching the broad passive zone of constant passive current density. It is important to note that the secondary anodic peak was observed for all the normalities of the solution used. The primary passivation potentials (Epp) and critical current densities (icrit) were calculated for both the peaks and tabulated in Table 2. The subscript 1 denotes the active peak and the subscript 2 denotes the nobler peak (i.e. the secondary anodic peak). The Epp1 and Epp2 did not vary significantly in different normality solutions. Although the values of icrit1 exhibited an increase with normalities for some cases (for example, when 0.4 N H2SO4 was used as the electrolyte instead of 0.3 N H2SO4), a general trend of increasing icrit1 with increasing normality was not observed. On the other hand, the icrit2 values increased with increasing normality. As can be noticed in the polarization diagrams (Fig. 2), a larger amount of hydrogen was reduced (indicated by larger cathodic current densities at any fixed potential active to ZCP ) when the specimen was first polarized in the cathodic region (during the potentiodynamic polarization experimental scan) with increasing H+ concentration in electrolyte. Therefore, the increasing icrit2 for the second anodic peak can be explained by the larger amount of hydrogen available for oxidation in solutions of higher nomalities. The exchange current density for the hydrogen evolution reaction ( i0
+H+
+
+) was also
+H2
+
+stimated by extending the cathodic Tafel slope and intersecting it with the parallel line to log (i) axis at the equilibrium reversible potential for the reaction. It is evident from Table 2 that the exchange current densities increased with increasing normality of H2SO4. Therefore, this could be another plausible reason for the observed increase in corrosion rate with increasing H+ concentration, especially since the Tafel c slope was not affected by normalities. The estimated exchange current densities were comparable to those obtained on other carbon-alloyed iron aluminides [11]. Moreover, the exchange current densities were an order of magnitude higher than that on iron (2.0 x 10-3 mA/cm2 in 0.5N H2SO4) [11] and by several orders of magnitude higher than that on Al (7.9 x 10-7 mA/cm2 in 0.5N H2SO4) [11]. The enhanced hydrogen reaction kinetics in carbon alloyed iron aluminides must be related to the presence of carbides in the microstructure.
+9
+
+This is indirectly indicated by higher exchange current densities reported for an Fe-15.6Al-1.0C alloy (50.1 x 10-2 mA/cm2 in 0.5N H2SO4 [11]). Effect of hydrogen treatment The normality of the electrolyte chosen for conducting the potentiodynamic polarization experiments on the hydrogen treated samples was 0.5 N H2SO4. The potentiodynamic polarization curves are shown in Figure 3. The c, a and icorr values, determined from these results, were almost similar for all the samples (Table 3). Therefore, high temperature hydrogen treatment did not have any significant effect on corrosion rate, thereby indicating that corrosion rate is primarily determined by the normality of the electrolyte.
+
+2000
+
+1500
+
+Potential (mV Vs. SSC)
+
+1000
+
+700 C, 10 h 700 C, 48 h
+o
+
+o
+
+900 C, 144 h o 900 C, 144 h (duplicate) 900 C, 336 h 900 C, 720 h
+o o
+
+o
+
+500
+
+0
+
+Before H2-charging
+-500
+
+-1000 -6.0 -5.5 -5.0 -4.5 -4.0 -3.5 -3.0 -2.5
+2
+
+-2.0
+
+-1.5
+
+-1.0
+
+Log(current density) (A/cm )
+
+Figure 3. Potentiodynamic polarization behavior of hydrogen treated Fe-16.2Al-0.54C (wt%) samples in 0.5 N H2SO4 solution
+
+10
+
+Table 3 Values of a, c and icorr obtained from the potentiodynamic polarization curves of the hydrogen treated samples in 0.5 N H2SO4 solution. Sample Temp. (oC) Without treatment 700 700 900 900 900 900 10 48 144 144 336 720 Time (h) c (V/decade) -0.247 -0.248 -0.250 -0.249 -0.246 -0.251 -0.255 a (V/decade) 0.190 0.172 0.187 0.190 0.184 0.189 0.193 icorr (mA/cm2) 4.13 5.15 5.25 5.99 5.76 6.21 6.29
+
+The parameters from the potentiodynamic polarization curves are tabulated in Table 4. The icrit1 values did not exhibit any change with the change with hydrogen treatment temperature and time. Although there was no significant change in the magnitude of icrit2, it increased with treatment temperature and time (from 4.36 mA/cm2 to 6.98 mA/cm2, Table 4). Rao et al [11] noticed similar behavior of carbon-alloyed iron aluminides in 0.5 N H2SO4 solution where icrit2 increased with increase in hydrogen charging time. Table 4. Passivation parameters from the potentiodynamic polarization curves of the hydrogen treated samples in 0.5 N H2SO4 solution Sample Temp. (oC) 700 700 900 900 900 900 Time (h) -535 -535 -542 -535 -542 -535 -546 -370 -382 -391 -385 -385 -390 -321 -65.6 -75.9 -66.6 -92.2 -92.5 -72.3 -43.4 10 48 144 144 336 720 ZCP Epp1 Epp2 Ecp mV 501 516 485 435 436 441 432 1480 1470 1480 1490 1490 1520 1550 979 954 995 1055 1054 1079 1118 18.20 21.85 21.37 23.89 23.91 26.12 20.87 4.36 5.37 5.24 5.99 5.81 6.34 6.98 Eb Eb-Ecp icrit1 icrit2 ipass mA/cm2 0.132 0.108 0.137 0.162 0.191 0.434 0.767 2.95X10-2 3.09X10-2 3.55X10-2 4.98X10-2 5.11X10-2 5.75X10-2 6.15X10-2
+
+i0
+
+H+
+
+H2
+
+Without treatment
+
+11
+
+In the present study, the secondary anodic peak may be attributed to the oxidation of hydrogen atom formed during the initial cathodic polarization of the sample during the potentiodynamic polarization scan. The cathodic part of the potentiodynamic polarization curves (Figure 3) indicate a higher rate of hydrogen reduction on the surface of the samples, with increasing treatment temperature and time. Therefore, the icrit for the secondary anodic peak also increases with increase in treatment temperature and time. The hydrogen dissolved during the high temperature treatment did not play any role on the secondary anodic peak. The ZCP, Epp1, and Epp2 values of the hydrogen treated samples polarized in 0.5 N H2SO4 (Table 4) were similar to the values of as-received samples polarized in 0.1 N to 1.0 N H2SO4 (Table 2). However, Ecp decreased whereas Etp values showed a gradual increase with increase in hydrogen treatment time and temperature. Therefore, the passive ranges in the hydrogen treated Fe-16.2Al-0.54C samples increased with increasing treatment temperature and time. The ipass also increased significantly with increasing treatment temperature and time. The increases in the passive range and ipass must be related to the nature of the passive film that forms on the surface during polarization. In order to understand this, the effect of surface state on polarization behavior was first determined. Effect of surface roughness One possible reason for the change in passive film nature could be the surface condition of the hydrogen-treated samples. It is well known that passive films formed on smooth polished surfaces are superior compared to those on rough surfaces [15]. Microstructural study of the hydrogen treated samples indicated surface roughening with increasing treatment time and temperature [14]. In order to understand the effect of surface roughness, potentiodynamic polarization experiments were carried out on the as-received samples for a mirror polished surface (after cloth polishing using 1 µm alumina powder) and for a rough surface (after wheel grinding). Figure 4 shows the potentiodynamic polarization curves for both these surface finishes in 0.5 N H2SO4 solution. The kinetic (i.e., icorr, Tafel slopes c and a) and the passivation (ZCP, Epp1, Epp2, Ecp, Eb, Eb- Ecp, icrit1, icrit2, ipass and i0
+H+
+
+) parameters were determined from the potentiodynamic
+H2
+
+polarization curves and are tabulated in Tables 5 and 6, respectively. Interestingly, the passivation ranges of the samples with different degree of surface roughness did not differ significantly. The
+12
+
+passive current density apparently decreased with increasing roughness. Therefore, the increase in the passivation ranges and ipass values of hydrogen treated samples with increasing treatment temperature and time can not be attributed to the surface roughness induced by the high temperature hydrogen treatment.
+
+2000
+
+1500
+
+Potential (mV Vs. SSC)
+
+1000
+
+For rough surface For smooth surface
+
+500
+
+0
+
+-500
+
+-1000 -5.5
+
+-5.0
+
+-4.5
+
+-4.0
+
+-3.5
+
+-3.0
+
+-2.5
+2
+
+-2.0
+
+-1.5
+
+Log(current density) (A/cm )
+
+Figure 4. Potentiodynamic polarization of as-received aluminide in 0.5 N H2SO4 after different surface finishes
+
+13
+
+Table 5. The a, c and icorr values obtained from the potentiodynamic polarization curves of as-received aluminide in 0.5 N H2SO4 solution for two different surface finishes. c (V/decade) -0.242 -0.252 a (V/decade) 295 288 icorr (mA/cm2) 4.01 4.19
+
+Type of surfaces Rough smooth
+
+Table 6. Passivation parameters obtained from the potentiodynamic polarization curves of asreceived aluminide in 0.5 N H2SO4 solution for two different surface finishes.
+
+H2SO4 N Rough Smooth
+
+ZCP mV -569 -514
+
+Epp1
+
+Epp2
+
+Ecp
+
+Eb
+
+Eb-Ecp
+
+icrit1 mA/cm2
+
+icrit2
+
+ipass
+
+i0
+
+H+
+
+H2
+
+-285 -373
+
+-72.3 -67.6
+
+491 501
+
+1420 1470
+
+929 969
+
+19.05 18.41
+
+4.17 4.23
+
+0.05 0.13
+
+3.03X10-2 2.81X10-2
+
+Microhardness characterization As surface finish was discounted as the reason for the observed increase in passive current density with hydrogen treatment, it was decided to explore the possibility of changes in surface compositions, which may have caused the observed differences. Compositional changes was studied by microhardness measurements. As compositional changes result in changes in mechanical behavior, microhardness measurements can indirectly indicate surface compositional changes. A major advantage of microhardness measurements is that a large sample area can be sampled so as to obtain statistically meaningful results for comparison purposes. Further, the instrumentation involved is not sophisticated and data collection times are relatively short.
+
+14
+
+The microhardness of the bulky carbides and grains were measured in the as-received alloy as well as all the hydrogen treated samples. Hardness measurement of needle-shaped carbides was not possible because proper indentations could not be made on these small sized carbides. Moreover, they dissolved fairly early into the matrix during high temperature hydrogen treatment. A 50-gram load was applied for the measurement of hardness as this provided optimum size of the indentation. If the size of the indentation is too small, then the measurement error of the diagonal will be high. On the other hand, if a higher load is applied in order to make the indentation, the indentation mark could overlap some nearby phase. Tables 7 and 8 report microhardness results for the bulky carbides and matrix, respectively, as a function of hydrogen treatment properties. Table 7. Hardness of bulky carbides after different high temperature hydrogen treatments.
+
+Treatment Temp (oC) 700 700 900 900 900 900 Time (h) 10 48 144 144 336 720 Without treatment
+
+Diagonal (µm) 13.230 13.241 13.501 13.629 13.593 13.823 13.937
+
+SD 0.586 0.413 0.389 0.547 0.453 0.631 0.336
+
+FOV 30 30 30 30 30 30 30
+
+%Error, +1.618 1.144 1.101 1.568 1.301 1.721 0.978
+
+Hardness kg/mm2 529.73 528.85 508.68 499.17 501.81 485.25 474.89
+
+It is observed from Table 7 that the carbides in the sample, which was treated at 900oC for 720 hours, exhibited the lowest hardness. Two duplicate samples treated at 900oC for 144 h exhibited almost similar hardness. The carbides in the sample treated at 700oC were not significantly affected by the hydrogen treatment. Generally, the hardness of the carbides decreased with increasing temperature and time of hydrogen treatment. The change in hardness of the carbide must be due to interaction with hydrogen and oxygen at high temperature. Hydrogen interaction with carbide results in depletion of carbon from the carbides while oxygen interaction with carbide depletes Al. Therefore, the change in carbide composition with hydrogen treatment was indirectly confirmed by microhardness measurements. The hardness of the matrix (Table 8) also decreased with increasing
+
+15
+
+hydrogen treatment time and temperature. However, the rate of decrease of hardness with increasing treatment temperature and time was lower compared to the carbides. The decrease in hardness of the matrix could probably be due to dealloying from matrix. Table 8. Hardness of matrix after different high temperature hydrogen treatments.
+
+Treatment Temp ( C) 700 700 900 900 900 900
+o
+
+Diagonal Time (h) 10 48 144 144 336 720 (µm) 17.127 17.231 17.397 17.503 17.487 17.763 17.891
+
+SD 0.556 0.491 0.608 0.544 0.631 0.313 0.365
+
+FOV 30 30 30 30 30 30 30
+
+%Error, +1.185 1.045 1.306 1.396 1.982 0.783 0.820
+
+Hardness kg/mm2 316.10 312.29 306.36 302.66 303.21 293.86 289.67
+
+Without treatment
+
+The lower matrix and carbide hardness with increasing temperature and time of hydrogen treatment verified surface compositional changes. As passivation of surfaces in electrolytic solutions is sensitive to surface composition, the change in passive current density with hydrogen treatment can be concluded to result from compositional changes on surfaces that occurred during the high temperature hydrogen treatment.
+
+4. Conclusions
+The salient conclusions of the present study were: 1. Electrochemical polarization studies were conducted on a carbon-alloyed iron aluminide of composition Fe-16.2Al-0.54C (in wt %) both before and after high temperature hydrogen treatments. 2. The as-received alloy, as well as the hydrogen treated samples, exhibited active-passive behavior in 0.5N H2SO4 acidic solution. A secondary anodic peak was observed in the polarization curves. 3. The potentiodynamic polarization behaviour of as-received alloy was studied in sulfuric acid of different normalities (0.1N to 1.0N). The corrosion rate and exchange current density for
+16
+
+hydrogen evolution reaction increased systematically with increasing normality of H2SO4, while the Tafel slopes were similar. The increased corrosion rate has been attributed to the increasing hydrogen ion concentration in the solution and to increasing exchange current density. The critical current density for the second anodic peak increased with normality due to the larger amount of hydrogen available for oxidation in solutions of higher normalities. The passive current density also increased with increasing normality. 4. The corrosion rates of the hydrogen-treated sample were similar in 0.5M H2SO4. The secondary anodic peak increased with increase in treatment temperature and time. This has been attributed to the evolution of hydrogen on the surface during the initial cathodic run of the potentiodynamic polarization scan. The hydrogen dissolved in the material during the high temperature hydrogen treatment did not play any role on the secondary anodic peak. 5. The increase in the passivation ranges and passive current densities of the hydrogen treated samples with increasing treatment temperature and time could not be attributed to the surface roughness induced by the high temperature hydrogen treatment. This has been related to the surface compositional changes that occurred during high temperature hydrogen treatment, which was confirmed by surface microhardness measurements.
+
+Acknowledgement
+The authors would like to acknowledge the support of Defence Research and Development Organization, Ministry of Defence, India.
+
+References
+1. C.T. Liu, K.S. Kumar, J. Metals, 45, pp38- , 1993. 2. `Fracture of Fe 3 Al', W.R. Kerr, Metall. Trans, A,17, pp2298-2300, 1986. 3. `Effect of carbon addition on structure and mechanical properties of electroslag remelted Fe­ 20 wt.% Al alloy', R.G. Baligidad, U. Prakash, A. Radhakrishna, Mater. Sci. Engg. A, 249, pp97-102 1998. 4. `Effect of carbon content mechanical properties of electroslag remelted Fe
+3
+
+Al based
+
+intermetalic alloys', R.G. Baligidad, U. Prakash, V.R. Rao, P.K. Rao and N. B. ballal, ISIJ
+
+International, 36, pp1453-1458, 1996 .
+
+17
+
+5. `Thermal stability and elevated temperature mechanical properties of electroslag remelted Fe16wt.%Al-(0.14-0.5)wt.%C intermetallic alloys', U. Prakash, A. Radhakrishna and R.G. Baligidad, Mater. Sci. Engg, A, 230, pp188-193, 1997. 6. `Hydrogen trapping at carbide-matrix interfaces in Fe3Al-C intermetallics', M. Sen and R. Balasubramaniam, Scripta Mater, 44, pp619-623, 2001. 7. `Effect of Al content on oxidation behaviour of ternary Fe­Al­C alloys', V.S. Rao, R.G. Baligidad and V.S. Raja, Intermetallics, 10, pp73-84, 2002. 8. `On elevated temperature stability of high carbon Fe-Al alloys', R.G. Baligidad, U. Prakash and A. Radha Krishna, Mater. Sci. Engg, A, 265, pp301-305, 1999. 9. `Hot corrosion of Fe 3 Al', D. Das, R. Balasubramaniam and M.N. Mungole, J. Mater. Sci, 37, pp1135-1142, 2002. 10. `Hot corrosion of carbon alloyed Fe3Al-based iron aluminides', D. Das, R. Balasubramaniam and M.N. Mungole, Mater. Sci. Engg, A, 338, pp24-32, 2002. 11. `Effect of carbon on corrosion behaviour of Fe3Al intermetallics in 0.5 N sulphuric acid', V.S. Rao, R.G. Baligidad and V.S. Raja, Corrosion Sci, 44, pp521-533, 2002. 12. `A combined electrochemical and XPS study on the passivity of B2 iron aluminides in sulphuric acid solution', S. Frangini, N.B. De Cristofaro and A. Mignose, Corrosion Sci., 39, pp1431-1442, 1997. 13. `A correlation between phosphorous impurity in stainless steel and a second anodic current maximum in H2SO4 , A.A. Hermas, M.S. Morad and K. Ogura, Corrosion Sci, 41, pp22512266, 1999. 14. `Hydrozen attack in carbon-alloyed iron aluminides-microstructural evolution', T. Laha, R. Balasubramaniam, A. Tewari, M.N. Mungole and R.G. Baligidad, to be published. 15. `Principles and Prevention of Corrosion', D.A. Jones, Maxell Macmillan International, New York, 1992.
+
+18
+

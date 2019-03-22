@@ -1,0 +1,188 @@
+ISSN 1466-8858 Volume 5 Preprint 8
+
+CORROSION OF ROTATING MAGNESIUM ELECTRODE IN NEUTRAL ELECTROLYTES
+* C.O.AUGUSTIN and A.CYRIL# Central Electrochemical Research Institute, Karaikudi- 630 006,Tamilnadu,India. # Raja College of Engineering & Technology, Madurai-625 020, Tamilnadu,India. * caugustin @rediffmail.com ABSTRACT Rotating disc electrode technique is a versatile method to study the electrochemical aspects of solid electrodes. Moreso for the investigation of corrosion of magnesium, on which a bubble effect is usually experienced in static environments. The metal and its alloys are readily recyclable, comparatively cheaper than aluminium, environmentally clean and hence are used in many strategic areas. To popularize further and enhance the application of the magnesium, an understanding of the corrosion aspects is mandatory. The objective of the study was to investigate the corrosion behaviour of primary magnesium( 99.8%) under rotation of 100, 250, 500, 1000 and 2000 rpm in NaCl, MgCl2 and Mg(ClO4)2 electrolytes at various concentrations ranging from 0.1 to 1.0 M. Different data namely Ecorr, Icorr , Tafel slopes and ik show a shift in corrosion potential towards negative direction with rotation and concentration. Similarly the Icorr is found to increase with the rate of rotation of the electrode and increasing the concentration of the electrolytes. Moreover a synergistic influence of concentration and rotation is observed in the study. The plots of i-1 Vs  ­1/2 indicate the relationship between disc current and rate
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+of rotation. The mechanism of electrochemical dissolution has been discussed on the basis of ik computed from i-1 Vs  ­1/2 graphs.
+
+INTRODUCTION An added awareness in magnesium applications potentiality in newer areas has evinced fresh interest in investigating of its electrochemical behaviour. The corrosion aspects of magnesium and its alloys have been studied by galvanostatic, potentiostatic, impedance, gasometric and rotating disc methods [1- 7 ]. The
+
+behaviour of magnesium under normal conditions has been found to be transient in nature with ennoblement in potential to an extent of 1.0 V in comparison to its emf of ­2.37 V Vs SHE [8-9]. This study has been undertaken to investigate the special behaviour of rotating magnesium electrode in solutions containing, sodium chloride,magnesium chloride and magnesium perchlorate at different concentrations. The effect of various anodic and cathodic environments on the mechanism of dissolution of rotating electrode has been studied during this investigation [ 10-13]. The mass transport of the solution has been improved by rotation of the electrode, rather than moving the solution by magnetic stirrer. The important feature of this method is that the electrode surface is highly and uniformly accessible with uniform rate of mass transport. The turbulent flow at very high rotation is achieved through laminar flow patterns of the solution at low electrode rotations. The corrosion
+
+current(Icorr,) corrosion potential(Ecorr,) kinetic current(iK), and such Tafel constants have been calculated for the system and interpreted.
+
+2
+
+EXPERIMENTAL A three electrode polarization set up was used to collect various data under rotating condition of the electrode [6]. The working electrode of the assembly was
+
+electrolytic grade magnesium containing Si 380, Al 340, Fe 320, Cr 30, Zn 30 and Mn 20 ppm. The specimen was turned in to a small knobs with an active surface area 0.3cm2 and connected to the shaft of a rotating setup (pine MSRX). The specimens were polished with 1/0 to 4/0 emery sheets and degreased with acetone. Saturated calomel electrode (SCE) was the reference electrode and platinum was the counter electrode of the experimental cell. The test solution of concentrations 0.10, 0.20 , 0.50 and 1.0 M were prepared from analytical grade NaCl, MgCl2 and Mg(ClO4)2 salts and triple distilled water. The test solution was taken in the cell and the open circuit potential (OCP) was recorded after the system attained equilibrium conditions [14,15]. A constant potential at a sweep rate of 1.0 mV.Sec
+­1
+
+was applied from an
+
+electrochemical analyzer BAS ­1000 model. The measurements were carried out at electrode rotations of 100, 250, 500, 1000 and 2000 rpm from ­200 to +200 mV at thermoset conditions of 32+ 1°C. table 1 ­3. The 
+­1/2
+
+Various data were calculated and presented in
+
+Vs i-1 graphs were drawn for all the systems Figs. 1-3. The
+
+kinetic current values were calculated by the extrapolation of the lines to the current coordinate for the three systems and are given in the table 4. From the Tafel plots, the corrosion parameter Icorr , Ecorr , ba and bc were evaluated. The layer of liquid immediately adjacent to the surface is stagnant with respect to movement towards disc and rotates with it, at the same angular velocity.
+
+3
+
+RESULTS AND DISCUSSION
+
+The potentiodynamic polarisation data for magnesium in NaCl, MgCl2 and Mg(ClO4)2 solutions at different conditions given in tables 1-3, bring out the
+
+following observations. The corrosion potential Ecorr is noticed to be in the vicinity of ­1.52 V in MgCl2(Table-2) which is found to increase with concentration of the medium and rate of rotation of the working electrode . Thus the highest Ecorr for the magnesium is exhibited in 1.0 M MgCl2 at 2000 rpm rotation. Corrosion current Icorr also increases quite expectedly with both rotation and concentration. As is evident from the table the lowest Icorr of 1.4 mA cm-2 is observed in 0.1 M MgCl2 at 100 rpm rotation, and the highest Icorr of 11.6 mAcm-2 in 1.0 M MgCl2 at 2000 rpm rotations. These observations substantiate the combined effect of concentration and rotation on the corrosion of magnesium electrode. The Tafel constant readily confirms the
+
+cathodically controlled mechanistic behaviour of the dynamic electrode as bc is found to be greater than ba , irrespective of the rate of rotation of the electrode or concentration of the MgCl2 solutions.
+
+A similar behaviour of enhancement of Ecoor and Icorr with increasing in concentration of Mg(ClO4)2 and NaCl solution is also observed. However the Ecorr values are noticed to be slightly positive in Mg(ClO4)2 than in NaCl medium. Again the Icorr values are also found to be lowest in Mg(ClO4)2 than in other solutions but NaCl solutions exhibit an aggressive behaviour towards the electrode as evident from the highest I corr value (18.5 mAcm-2) at 2000 rpm rotation in 1.0 M concentration.
+
+4
+
+Table ­ 1 Potentiodynamic polarisation data for Magnesium in NaCl solution
+
+Conc. (M)
+
+ (rpm) 100 250 500 1000 2000 100 250 500 1000 2000 100 250 500 1000 2000 100 250 500 1000 2000
+
+ECorr (-V) 1.57 1.57 1.58 1.58 1.58 1.58 1.57 1.57 1.58 1.57 1.62 1.62 1.63 1.62 1.63 1.65 1.66 1.65 1.66 1.67
+
+Icorr (mA.cm-2) 1.7 2.2 2.8 3.5 3.8 3.6 4.0 4.6 5.2 5.6 7.6 8.0 9.0 10.1 10.7 15.5 16.1 17.0 17.6 18.5
+
+ba (mv/dec) 150 147 144 140 146 143 140 137 136 133 144 141 137 135 132 139 137 135 131 129
+
+bc (mv/dec) 156 150 147 144 140 153 150 147 146 144 -----------
+
+Rp ( cm2) 8.8 7.0 5.2 4.3 3.1 4.3 3.7 3.3 3.1 2.7 3.9 3.6 3.2 2.8 2.5 3.4 3.2 3.0 2.8 2.4
+
+0.10
+
+0.20
+
+0.50
+
+1.0
+
+5
+
+Table ­ 2 Potentiodynamic polarisation data for Magnesium in MgCl2 solution
+
+Conc (M)
+
+ (rpm) 100 250 500 1000 2000 100 250 500 1000 2000 100 250 500 1000 2000 100 250 500 1000 2000
+
+ECorr (-V) 1.52 1.52 1.53 1.53 1.53 1.53 1.54 1.54 1.55 1.55 1.57 1.57 1.58 1.58 1.59 1.61 1.61 1.62 1.63 1.63
+
+Icorr (mA.cm-2) 1.4 1.9 2.5 3.0 3.5 2.7 3.3 3.8 4.6 5.5 5.0 5.8 6.6 7.5 8.8 8.1 8.8 9.5 10.7 11.6
+
+ba (mv/dec) 147 144 141 140 137 132 127 123 120 118 105 102 99 98 95 65 61 57 53 50
+
+bc (mv/dec) 151 148 145 144 142 149 146 142 137 135 -----------
+
+Rp ( cm2) 10.2 8.4 6.8 5.6 5.0 6.8 5.6 4.5 3.8 3.1 4.5 4.0 3.4 3.1 2.9 3.5 3.3 3.1 2.9 2.8
+
+0.10
+
+0.20
+
+0.50
+
+1.0
+
+6
+
+Table ­3 Potentiodynamic polarisation data for Magnesium in Mg(ClO4)2 solution
+
+Conc (M)
+
+ (rpm) 100 250 500 1000 2000 100 250 500 1000 2000 100 250 500 1000 2000 100 250 500 1000 2000
+
+ECorr (-V) 1.46 1.46 1.46 1.47 1.47 1.49 1.49 1.50 1.50 1.51 1.53 1.53 1.54 1.54 1.54 1.58 1.58 1.59 1.59 1.60
+
+Icorr (mA.cm-2) 1.2 1.5 2.0 2.4 3.0 1.9 2.8 3.4 4.0 4.7 3.1 4.0 4.8 5.1 5.5 4.0 4.8 5.3 5.6 6.0
+
+ba (mv/dec) 94 93 91 89 87 74 71 69 66 63 55 54 53 52 51 36 34 33 30 28
+
+bc (mv/dec) 154 153 150 148 145 144 141 137 133 131 144 141 139 137 134 138 137 135 132 130
+
+Rp ( cm2) 12.5 10.0 8.6 7.7 7.0 8.4 7.1 5.8 4.9 3.5 5.4 4.3 3.5 3.4 3.0 3.6 3.5 3.2 3.1 3.0
+
+0.10
+
+0.20
+
+0.50
+
+1.0
+
+7
+
+The electrochemical behaviour of magnesium in NaCl and Mg(ClO4)2 is observed to be decisively under cathodic control as bc >>ba. It is also observed that both the Tafel slope in NaCl are much higher than other solutions. A rationale of the
+
+experimental values available in table 1 unanimously confirms the predictable behaviour of gain in Ecorr and Icorr with concentration and rotation. The contribution from the concentration of the solutions is noticed to be predominant in the enhancement of Icorr as a ten ­ fold increase in NaCl concentration results 14.0 mAcm-2 increase in Icorr, where as for the same 10 fold increase in rotation enhances only 2.4 mA cm-2. It is also understandable from the Icorr that the effect of rotation is more pronounced at high concentrations. Based on the corrosion current, the chloride ion is assessed to be more corrosive than perchlorate ion likewise sodium ion than magensium ion in line with the earlier observation [16]. Based on the observations the electrolytes may be graded in the decreasing order of aggressiveness as NaCl > MgCl2 > Mg(ClO4)2.
+
+The relationship between the rate of rotation of the working electrode and the corrosion current in NaCl, MgCl2, and Mg(ClO)2 are given Figs. 1- 3 respectively. The straight line graphs clearly indicate the phenomenon of increasing current with rate of rotation whereby the system is noticed to obey Levich equation. Hence the electrochemical behaviour of the magnesium in the media under dynamic conditions is well within the prescription of the equation. The slope of the line is decreasing with increasing concentration, which is a proof for the disc current becoming
+
+8
+
+progressively independent of rotation. Ultimately a concentration may be reached at which the disc current is entirely freed from the rotational barriers. RP values given table-1, show the polarization resistance of the magnesium anode in NaCl solution, at different concentrations and rotations. It can be seen that as rotation of the electrode increases, the RP value decreases, thereby indicating enhanced corrosion and vulnerability of attack by violent rotation of the electrode. Similarly for a particular rotation, as concentration increases, the RP value is found to decrease, inferring high corrosion at high concentration. From the table, it is also seen that the lowest RP value of 2.4 cm2 is observed in 1.0M concentration at 2000 rpm rotation showing the most aggressive environment for rotating magnesium electrode. Similarly, the RP values for the rotating magnesium electrode in MgCl2 and Mg(Cl04)2 are given in the tables 2and3 respectively. Similar observations of decreasing trend in RP values with increasing rotation and concentration are observed in these solutions also. Considering the three tables, maximum RP of 12.5 cm2 is resulted at 100 rpm rotation in 0.1M concentration as against the lowest of 2.4 cm2 at 2000 rpm in 1.0M NaCl solution which are reckoned to be the two extremes of the corrosion environment. Accordingly the corrosivity of the electrolytes is found to be in the decreasing order as NaCl>MgCl2>Mg(ClO4)2.
+
+9
+
+Table ­ 4 Kinetic current (ik) values for magnesium
+
+Electrolyte
+
+Concen (M)
+
+OCP (-V) +20
+
+ik (mA cm-2) Over potential (mV) +50 +100 10.9 24.4 32.8 43.1 16.4 12.2 24.8 33.5 6.5 14.8 29.7 46.2 24.6 29.7 39.5 50.1 32.7 49.2 65.7 84.1 13.8 24.8 49.5 78.4
+
++120 32.8 32.7 49.1 62.2 49.5 65.1 99.6 136.2 24.7 32.5 99.8 139.4
+
+NaCl
+
+MgCl2
+
+Mg(ClO4)2
+
+0.10 0.20 0.50 1.0 0.10 0.20 0.50 1.0 0.10 0.20 0.50 1.0
+
+1.57 1.58 1.62 1.65 1.60 1.62 1.64 1.67 1.46 1.49 1.53 1.58
+
+8.2 9.8 14.1 18.0 5.1 6.0 8.1 10.4 3.8 7.5 10.5 14.4
+
+Kinetic current (ik) values furnished in table- 4 show their increase with concentration. For a particular concentration, the quantity is highest in NaCl
+
+followed by MgCl2 and lowest in Mg(ClO4)2. The extent of ik , further ascertains the enhanced corrosivity of the media, giving a reaffirmation of higher activity of NaCl than other solutions. Moreover the very nature of the ik , being low at the infinite rotation conditions certifies that it is independent of concentration and hence
+
+controlled by charged transfer mechanisms only. Higher the value means less and less diffusion control. The quantity helps to identify the change of the mechanism from mass transfer to charge transfer. The highest ik of 18 mAcm-2 resulted in 1.0 M NaCl within the linear polarization range, indicates the electrochemical reaction of magnesium electrode at infinite rotation is governed by charge transfer criteria. 10
+
+Contrarily owing to the lowest ik of 3.8 mAcm-2 in 0.1 M Mg(ClO4)2, the behaviour is assumed to be controlled by mass transfer mechanism.
+
+CONCLUSIONS Both concentration of the medium and rotation of the electrode influence the corrosion potential of the magnesium, which was noticed to be ranging between ­1.46 and - 1.67 V. Highest Icorr of 18.5 mAcm-2 has been resulted in 1.0M NaCl at 2000 rpm rotation and lowest 1.2 mAcm-2 in 0.1M Mg(ClO4)2 at 100 rpm rotation. The kinetic current(ik) is observed to be increased with nature and concentration of the electrolytes. Effect of electrolyte concentration is found to be predominating than
+
+the effect of electrode rotation in the corrosion of the magnesium. The corrosion behaviour of the rotating magnesium electrode is observed to obey Levich equation and the mechanism of electrochemical dissolution of the magnesium in these electrolytes at infinite rotation is controlled by charge transfer processes.
+
+11
+
+REFERENCES: 1. G.P.Zhivotovskaya, I.T.Kuvdeiko and U.A.Petvov, Zasc.Met, 25, P. 269, (1989) 2. 3. 4. 5. 6. 7. 8. E.Gulbrandsen, Electrochim Acta, 38, P. 1403, (1992) L.G.Uavepo, Port.Met, 32, P. 307, (1996) G.Song , A.Atvens and Y.Li, Corros Sci, 39, P. 855, (1997) C.O.Augustin and A.Antonyraj, Corros Reviews, 16, P. 75, (1998) G.Ritzig and M.Gross, J Electroanal Chem, 94, P. 209, (1978) F.Opekav and P.Beran J Electroanal Chem, 69, P. 1, (1 976) G.Song, A.Atrens, D.Stjohn, J.Nairn and Y.Li, Corros Sci, 39, P. 855, (1997) 9. 10. 11. I.J.Polmeav, Mat Sci and Tech, 10, P.1, (1994) G.L.Song and A.Atrens, Corros. Sci. and Tech, 31, P.103, (2002) H.Inoue, K.Sugahave, A.Yamamoto, and H.Tsubakino,Corros Sci, 44, P.603, (2002) 12. F.A.Bonilla, A.Bakani, P.Skeldon, G.E.Thompson, H.Habazaki,
+
+K.Shimizu, .C.John and K.Stevens, Corros Sci, 44, P.1941, (2002) 13. 14. 15. 16. R.Uthayan and D.P Bhatt, J of Power Sources, 39, P.107, (1992) G.L.Maker and J.Kruger , J Electrochem Soc., 137, P.414, (1990) G. Bavil and N. pebere, Corros Sci, 43, P.471, (2001) C.O.Augustin, A.Antonyraj and S.V.K.Iyer, Port Electrochim Acta, 13, P.11, (1995)
+
+12
+
+Fig.1. Plot of i-1 Vs -1/2 for Mg in NaCl at (0.1 (  M, () 0.2M (O) 0.5M and ( ) 1.0 M.
+
+Fig.2. Plot of i-1 Vs -1/2 for Mg in MgCl2 at (0.1 (  M, () 0.2M (O) 0.5 M and ( ) 1.0M. 13
+
+Fig.3. Plot of i-1 Vs -1/2 for Mg in Mg(ClO4)2 at (0.1 (  M, () 0.2M (O) 0.5M and ( ) 1.0 M.
+
+14
+

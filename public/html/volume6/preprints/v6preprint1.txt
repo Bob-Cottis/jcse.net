@@ -1,0 +1,510 @@
+Volume 6 Paper C066 Deterministic Prediction of Localized Corrosion Damage ­ A Reflective Review of Critical Issues
+Digby D. Macdonald1 and George Engelhardt2 Center for Electrochemical Science and Technology Department of Materials Science and Engineering Pennsylvania State University 201 Steidle Building University Park, PA 16802 OLI Systems Inc., 108 American Road, Morris Plains, NJ 07950
+2 1
+
+Abstract
+The accumulation of damage due to localized corrosion [pitting, stress corrosion cracking (SCC), corrosion fatigue (CF), crevice corrosion (CC), and erosion-corrosion (EC)] in complex industrial systems, such as power plants, refineries, desalination systems, etc., poses a threat to continued safe and economic operation, primarily because of the sudden, catastrophic nature of the resulting failures. Of particular interest in managing these forms of damage is the development of robust algorithms that can be used to predict the integrated damage as a function of time and as a function of the operating conditions of the system. Because complex systems of the same design rapidly become unique, due to differences in operating histories, and because failures are rare events, there is generally insufficient data on any given system to derive reliable empirical models that capture the impact of all (or even some) of the important independent variables. Accordingly, empirical models have generally failed to provide a robust basis for predicting the accumulation of corrosion damage in complex systems under realistic operating conditions. The alternative prediction philosophy is determinism, in which the development of damage is described in terms of valid, physico-electrochemical mechanisms with the output being constrained by the natural laws. The differential damage is then integrated along the corrosion evolutionary path for the system (i.e., over the future operating "history") to yield the desired integrated damage, which is the quantity that is most useful to an operator. In this paper, we review the theory of predicting corrosion damage within the framework of Damage Function Analysis (DFA), with particular emphasis on the pitting of aluminum in chloride solutions and on the accumulation of damage from SCC in Type 304 SS components in the primary coolant circuits of Boiling Water (Nuclear) Reactors (BWRs). These cases
+
+have been selected to illustrate the various phases through which localized corrosion damage occurs. Keywords: Deterministic, prediction, corrosion damage, pitting, stress corrosion cracking
+
+Introduction
+Over the past two decades, we have developed powerful, deterministic models and algorithms for predicting the accumulation of damage due to localized corrosion, including pitting, stress corrosion cracking (SCC), crevice corrosion (CC), and corrosion fatigue (CF) in complex industrial systems. Systems that have been modeled to date include electrical power generating facilities and condensing heat exchangers [1-8], among others. These models and algorithms are "deterministic", because their predictions are constrained by the relevant natural laws. Because corrosion is essentially an electrochemical phenomenon, the conservation of charge and Faraday's Law impose the primary constraints. The advantage of determinism, as opposed to empiricism, is that deterministic models require minimal calibration (for example, a single crack growth rate for a given set of environmental and mechanical conditions, in the case of predicting damage due to SCC [9]). Accordingly, deterministic models may be used to predict damage in systems that are unique (as are all industrial systems, once they have operated for any significant time), for which only a minimal failure databases exists. The "coupled environment" models [Coupled Environment Pitting Model (CEPM), Coupled Environment Crevice Model (CECM), Coupled Environment Fracture Model (CEFM), and the Coupled Environment Corrosion Fatigue Model (CECFM)] that are based on the on the coupling of the internal and external environments by the need to conserve charge in the system yield deterministic methods for calculating rates of propagation of localized corrosion events [2-4, 9-17]. Furthermore, when coupled with the point defect model (PDM) for passivity breakdown, and hence for the nucleation of damage, the resulting algorithms provide a comprehensive theoretical basis for predicting localized corrosion damage in the form of Damage Function Analysis (DFA) [18-20]. The algorithms have been used to predict damage due to stress corrosion cracking in BWRs (the DAMAGEPREDICTOR, REMAIN, and ALERT codes, fourteen reactors being modeled to date) [1], pitting damage in condensing heat exchangers [2], and pitting/SCC in LP steam turbine disks [3]. Currently, even more advanced codes of this type are being developed to predict localized corrosion damage in the primary coolant circuits of Pressurized Water Reactors (PWRs) and to predict corrosion fatigue/stress corrosion cracking damage in LP steam turbine blades and disks. This latter code treats all phases of damage, from nucleation to unstable fracture, in a highly deterministic manner. The development of effective localized corrosion damage prediction technologies is not only essential for the successful avoidance of unscheduled downtime, but it is vital for the successful implementation of life extension strategies. Currently, corrosion damage is extrapolated to future times by using various empirical models coupled with damage tolerance analysis (DTA). In this strategy, known damage is surveyed during each subsequent outage, and the damage is extrapolated to the next inspection period
+
+2
+
+allowing for a suitable safety margin. It has been previously argued that this strategy is inaccurate and inefficient, and that in many instances it is too conservative [19]. Instead, we suggest that damage function analysis (DFA) [15, 18-20] is a more effective method for predicting the progression of damage, particularly when combined with periodic inspection. Although corrosion is generally complicated mechanistically, a high level of determinism has been achieved in various treatments of both general and localized corrosion, and the resulting deterministic models can be used to predict accumulated damage in the absence of large calibrating databases. In this paper, the foundations of the deterministic predictions of damage due to localized corrosion are reviewed. The application of damage function analysis (DFA) is illustrated with reference to the pitting of aluminum in chloride-containing solutions and to the accumulation of damage due to stress corrosion cracking (SCC) in water-cooled nuclear power reactors.
+
+Theoretical Foundation of Damage Function Analysis (DFA)
+As noted elsewhere [18-21], localized corrosion damage is completely defined if we know how many pits or cracks (per cm2) have depths between x1 and x2 (x1 < x2) for a given observation time, t. Denoting this number by Nk(x1,x2,t), where index k denotes different types of corrosion events (e.g., pits or cracks), and noting that it is more convenient to use a function of two variables - the integral damage function (IDF), Fk(x,t), - we write
+
+N k (x1 , x2 ,t) = Fk (x1 ,t) - Fk (x2 ,t)
+
+(1)
+
+It is evident that Fk(x,t) yields the number of defects k (per cm2) with the depth larger than x for a given observation time. Furthermore, it is convenient to express the integral DF, Fk(x,t), in terms of the differential DF, fk(x,t), using the relation
+
+Fk (x,t) =  f k (x' ,t)dx'
+x
+
+
+
+(2)
+
+or
+
+f k (x,t) = -
+
+Fk (x,t) t
+
+(3)
+
+The differential DF for defects of type k, fk, is defined from the condition that fk(x,t)dx is the number of defects k (per cm2) having a depth between x and x+dx for a given observation time, t. It is evident that the set of functions fk for all types of defects yields a complete description of damage in the system. As we have shown elsewhere [21], the advantage of using the differential damage function lies in the fact that it obeys a simple differential equation (see below) and accordingly can be calculated for any given set of conditions. Because the function fk has dimensions of #/(cm2 cm) = #/cm3 (analogous to the concentration of a particle), it is convenient, from a mathematical viewpoint, to regard each defect as a "particle" that moves in a direction x that is perpendicular to the surface
+
+3
+
+(with x = 0 being at the metal surface). The coordinate of this particle, x, coincides with the depth of penetration of the defect. Accordingly, fk corresponds to the concentration of the particles and hence must obey the law of mass conservation,
+f k j k + = Rk , t x k = 1, 2,...,K
+
+(4)
+
+where jk and Rk are the flux density and the bulk source (sink) term, respectively, of "particle" k, and K is the total number of different types of corrosion defects in the system. This new formulation of DFA [21] affords considerable advantage over the previous treatment [18-20], in that we now possess a method for readily calculating the damage function (DF) for a system that contains multiple forms of localized corrosion damage and that can accommodate any analytical models for damage nucleation, growth, and death. In doing so, we must solve the system of Equations (4) subject to the following initial and boundary conditions:
+j k = nk (t) at x = 0, t > 0
+
+(5) (6)
+
+and
+f k = f k0 (x) at x > 0, t = 0
+
+where fk0(x) is the initial distribution of defect k [normally, but not always, fk0(x) = 0, because no damage is assumed to exist at zero time] and nk(t) is the rate of nucleation of the same defect [i.e, nk(t)dt is the number of stable defects (per cm2) that nucleate in the induction time interval between t and t + dt]. Consider, as an example, the case of pitting corrosion under constant external conditions. In this instance, we have two kinds of defect (K = 2): active pits described by the damage function, fa, and passivated pits (i.e., those that have "died" through delayed repassivation [16-18]) with the damage function, fp. Assuming that the rate of pit propagation, V, depends only on the depth of the pit, x, (i.e. ja = fa(x,t)V(x), jp = 0) and that the repassivation process obeys the first decay law (i.e. Ra = -Rp = -fa, where  is the delayed repassivation constant) we obtain the following expressions for the differential damage functions [21]:
+f a (Vf a ) + = -f a t x
+
+(7)
+
+and
+
+= f a (8) t with the boundary and initial conditions of Vf a = n(t) at x = 0, t > 0 and fa = fp = 0. An analytical solution to the boundary value problem formulated above yields [21]
+fa = exp[ -(x)] n[t - (x)] V(x)
+
+f p
+
+(9)
+
+4
+
+and
+fp =
+
+exp[ -(x)] N[t - (x)] V(x)
+x dx'  0 V(x'
+
+(10)
+
+where
+
+ pit (x) =
+is the age of a pit with depth x and
+
+)
+
+(11)
+
+N(t) =  n(t' )dt'
+0
+
+t
+
+(12)
+
+is the number of stable pits (per cm2) that nucleate in the time interval between 0 and t. It is important to note that, experimentally, only the sum of the damage functions for active and passive pits, f = fa + fb, is determined and that in many instances the integral damage function only is measured. Accordingly, it is important, for practical reasons, to obtain an equation for the integral damage function (IDF). The desired function is
+
+F(x,t) = exp[ -(x)] N[t - (x)]
+
+(13)
+
+Note that the integral damage function corresponds to the number of remaining pits on a surface, as the surface is removed layer-by-layer in pre-established increments. According to the theory outlined above, calculation of the damage functions [fa, fp, f, and F(x,t)] requires the determination of three independent functions for each kind of corrosion defect, k: The rate of defect nucleation, nk, the flux density (growth rate) of the defect, jk, and the rate of transition of one kind of defect to another, Rk, (for example, the transition of an active pit into a passivated pit or the transition of a pit into a crack). In this "generalized" version of DFA, the component models need not necessarily be analytical in nature, which contributes to its great flexibility in the prediction of damage.
+
+Nucleation of Localized Corrosion Damage
+All localized corrosion on passive metals and alloys (e.g., stainless steels) begins with passivity breakdown. Accordingly, any viable, mechanistically based model for the initiation of localized corrosion must address that issue. A commonly observed scenario is that stress corrosion and corrosion fatigue cracks nucleate from pits, so that any viable theoretical treatment for the accumulation of SCC and CF damage on a surface must begin by addressing not only passivity breakdown but also the transition from metastable pitting to stable pitting, pit growth, and the transition of a pit into a crack. This must be done while recognizing that the nucleation of damage is a generally a progressive phenomenon, in that new damage nucleates while existing damage grows and dies. The theory that has been developed to account for the nucleation of localized corrosion damage forms the basis of damage function analysis (DFA) [18-20], which has now been 5
+
+developed to the point where damage due to pitting, SCC, and CF may be predicted with considerable accuracy in actual industrial systems [2,3]. Space does not allow a comprehensive discussion of all aspects of the theory of initiation here (see Ref. 20 for details), so that only a brief outline will be given.
+
+Figure 1. Cartoon of the passivity breakdown process as envisioned by the Point Defect Model [20]. The key concept is that a necessary condition for passivity breakdown is that the growth of the barrier layer into the substrate must be prevented; this is achieved in the PDM by cation vacancy condensation, which effectively separates the film from the metal, while allowing for the continual dissolution of the barrier layer at the barrier layer/solution interface. Note also, that cation vacancy condensation can only occur where the barrier layer is still connected to the metal, and hence the preferred site of cation vacancy condensation is at the periphery of the blister, resulting in the growth of the blister until breakdown occurs. The size of the blister is determined by competition between the rate of expansion of the blister by cation vacancy condensation and the dissolution of the barrier layer above the breakdown site. The point defect model (PDM) [15, 20] for the growth and breakdown of passive films attributes passivity breakdown at a single site on a surface to the condensation of cation vacancies at the metal/film interface (Figure 1). This process is postulated to
+
+6
+
+occur at a structural inhomogeneity within the barrier layer of the passive film (e.g. at the edge of an inclusion), which is characterized by high cation vacancy diffusivity and/or by a high cation vacancy concentration. Condensation occurs because some environmental stress (e.g. the absorption of chloride ions into surface oxygen vacancies) results in an enhanced rate of generation of cation vacancies at the film/solution (f/s) interface and hence in an enhanced flux of cation vacancies across the barrier layer from the (f/s) interface to the metal/film (m/f) interface (Figure 2). If the flux is sufficiently high that all of the vacancies arriving at the m/f interface cannot be annihilated by cation injection from the underlying metal, the excess vacancies condense to form a void. The void represents a local separation of the barrier layer from the underlying metal, so that the barrier layer ceases to grow into the metal while dissolution at the f/s interface continues to occur. However, growth of the barrier layer into the metal continues to take place at the surrounding areas, where detachment of the film has not occurred, at a rate in the steady state that matches the film dissolution rate. Accordingly, the barrier layer over the cation vacancy condensate thins and eventually ruptures to mark a passivity breakdown event. The resulting pit nucleus may repassivate "promptly", due to its failure to achieve the required separation between the local anode (in the forming cavity) and the local cathode (on the external surface), as demanded by the differential aeration hypothesis. If prompt repassivation occurs, the event is termed "metastable", and is detected as a current pulse in the external circuit when the system is under potential control. If the nucleus survives, by establishing the required anode/cathode separation, it exists as a stable pit, which will continue to grow until it dies due to "delayed" repassivation. One reason that has been postulated [20] for delayed repassivation is the inability of a pit to obtain the necessary resources (oxygen reduction) from the external surfaces to meet the growth demands. This may happen either because of an inherent limitation in the rate of oxygen reduction or because neighboring pits compete for the same resources. This latter scenario results in the "survival of the fittest", and hence is Darwinian in nature [20]. One inescapable result of delayed repassivation is that eventually all pits must die. This result implies that a limit exists to the depth to which pits can propagate and hence provides an opportunity, through the judicious manipulation of the delayed repassivation constant, for limiting the extent of damage by design. On any real surface, there exists a distribution in potential breakdown sites. In the present version of the PDM [15, 20], it is assumed that the sites are normally distributed with respect to the cation vacancy diffusivity. That assumption leads to an analytical expression for the metastable pit nucleation rate, nMS, at an observation time of  as [17]
+2  a  exp -  + b        n MS ( ) = A 2 
+
+(14)
+
+where
+
+a=
+
+ 2 D B
+
+(15)
+
+7
+
+b=
+
+Jm 2 D B
+
+-
+
+D 2 D
+
+(16)
+
+ · VM + VO· 2
+
+'
+
+
+
+(I) Schottky
+Pair Rxn
+
+Null
+
+· VO·
+
++
+
+X-  nH O  X· O 2
+
++
+
+nH O 2
+
+Ion Desorption
+·  X-  nH2O + VO·  VM' + M +
+
+(
+
+)
+
+(II) Cation Vacancy
+Submergence
+·  VO· + (VM ' ) S
+
+(III) Vacancy ­pair
+Coalescence
+·  (VO·  VM ' ) P
+
+Vacancy condensation at the metal/film interface
+
+Localized destruction of the film at the film/solution interface
+
+Figure 2. Possible mechanisms for the role of an aggressive anionic species (e.g., Cl-) in passivity breakdown on passive metals and alloys. Two catalytic processes are envisioned, as identified by the broken circulars. Both processes lead to the regeneration of oxygen vacancies and chloride ion, while also generating cation vacancies that are annihilated by the occupation of the sites by cations from within the film. These processes pump cation vacancies into the film, resulting in the condensation of cation vacancies at the metal/film interface, because the cation vacancy annihilation reaction at that location is incapable of accommodating the cation flux. Note also that these processes will occur at the periphery of the vacancy condensate, thereby explaining the observation of Bargeron and Givens [discussed in Ref. 20] that the absorbed chloride relocates to the edge of the blister (on aluminum) as the
+
+8
+
+blister grows.
+
+and
+
+B=
+
+ FN A a x / 2
+
+RT
+
+ F (  . pH +  .E corr ) + 2w  exp  2 RT  
+
+(17)
+
+The parameter ax is the activity of the aggressive ion (e.g. Cl-) that adsorbs into a surface oxygen vacancy,  is the polarizability of the f/s interface, and  is the dependence of the potential drop across the f/s interface upon pH. D is the mean cation vacancy diffusivity, D is the standard deviation in D,  is the critical (areal) concentration of cation vacancies in the condensate ( ~ 2-3x1015 /cm2), and  is the mole volume of the barrier layer per cation. The parameter Jm is the rate of annihilation of the cation vacancies at the m/f interface, at the periphery of where the film is attached to the substrate metal,  is the barrier layer stoichiometry (MO/2),  is the electric field strength within the film, and F is Faraday's constant. The quantity NA is Avogadro's number, R is the gas constant, and T is the Kelvin temperature. The parameter w is an energy term related to absorption of aggressive anions into oxygen vacancies at the film/solution interface and the subsequent generation of cation vacancies (Figure 2). All of the parameters contained in Equations (14) to (17) can be measured, with the exception of w, either directly or indirectly (e.g., by using electrochemical impedance spectroscopy). In the case of w, the value must be determined by calibration. Parameter A in Equation (14) is determined by normalization with respect to the finite density of potential breakdown sites on the surface. This quantity does not depend upon the time . Accordingly, normalization of the nucleated pit population using the condition
+N(  ) =  n MS (  )d =N 0
+0 
+
+(18)
+
+requires that
+2  a  exp -  + b         d = A = N0 /  2  0
+
+N 0 2a  erfc(b)
+
+(19)
+
+N0 is the maximum number density of breakdown sites (per cm2) that can exist on the metal surface (regardless of whether metastable or stable pitting occurs) and erfc(x) is the complementary error function of x. Accordingly, the metastable pit nucleation rate per unit area of the surface becomes [16] N MS ( ) = N0 a erfc( + b)  erfc(b)
+9
+
+(20)
+
+It is important to note that Equation (20) is valid only if all external parameters (temperature, electrolyte composition, pH, corrosion potential, etc.) do not depend on time. A generalization of PDM for the case when the external conditions are timedependent can be found in Ref. 21. Only stable pits can act as sites for the nucleation of cracks, because the cavity must be sufficiently deep for the stress intensity factor to exceed the critical value for crack nucleation (KISCC and Kth for SCC and CF, respectively). Accordingly, we must modify the above theory to calculate the rate of nucleation of stable pits as
+
+N = .N MS
+
+(21)
+
+where  is the probability that a breakdown event will survive prompt repassivation to form a stable pit. The theory for calculating  from first principles is currently being developed. However, experiment [22-24] shows that for stainless steels in chloride containing solutions at ambient temperature,  has a value of 10-2 to 10-4; that is only about one in a hundred to one in ten thousand breakdown events survives to become a stable pit, demonstrating that the formation of stable pits on a surface is a rare event. Of course, those that survive prompt repassivation and become stable are subject to delayed repassivation, so that a pit that grows to a size that can nucleate a crack is an even more rare event. By combining Equation (21) with a pit growth model, and by assuming that delayed repassivation is a first order process that is characterized by a decay constant , it is a relatively straightforward task to calculate the differential damage function (DDF) [16]. The DDF is the histogram of (stable) pit density on the surface versus pit depth in preselected increments. On the other hand, we may sum all of the events in each depth increment, starting with the deepest event, to derive the integral damage function (IDF) that has been alluded to earlier in this review. Regardless of the exact form, the value of the DF (differential or integral) is that it corresponds to the measured pit depth distribution, and hence represents a vital link between experiment and theory. In order to illustrate some of the properties of the DF, we plot in Figure 3 three predicted differential damage functions for different observation times for the pitting of aluminum in a sodium chloride solution. As shown, the DDF is the histogram of event frequency (e.g., number of events per unit area or the probability of pits having depths within the corresponding increment) versus incremental depth. The DF is readily measured, either in differential form, by simply counting the number of events within each depth increment, or in the integral form, by determining the number of remaining events on the surface, as the surface is removed layer-by-layer in appropriate thickness increments (corresponding to the depth increment). Regardless of the form, the practical value of the DF is two-fold; it yields a natural definition of "failure" and the failure time (FT), and it provides an analytical definition of the extent of damage (EoD). Thus, failure is said to have occurred when the upper extreme in the DF exceeds a critical dimension (Lcr), as indicated in Figure 3, and hence the failure time corresponds to the observation time at which that condition occurs. On the other hand, the EoD corresponds to the area under the DF or, more restrictively, to the area under that part of the DF for which the depth exceeds the critical dimension. 10
+
+600 500
+
+Pits, #/cm
+
+2
+400 300 200 100 0
+
+0.2
+
+De p t h, mm
+
+0.4
+
+0.6
+
+0.8
+
+1 1.0
+
+Lcr
+
+1.2
+
+0
+
+ear e, y Tim
+2
+
+3
+
+Figure 3. Predicted pit distribution on aluminum in NaCl solutions at 25 o C as a function of the observation time. E = -0.384 Vshe, [Cl-] = 0.002 M, pH = 7, and  = 3 year-1.
+The damage function is in fact a probability function and hence the number of stable events that exist on the surface is obtained by multiplying the probability by the total number of potential events. However, the number of events is an integer with a minimum of one (we cannot have a fractional pit). Thus, the number of events calculated must be rounded upwards to have physical significance. This subtlety is of no practical significance if the number of events is large, but it can become important when the number of events is small and/or when defining the properties of the upper extreme, in order to accurately calculate the FT.
+
+11
+
+Normalized Pit Distribution
+
+1.0 0.8 0.6 0.4 0.2 0.0 0.0 0.4 0.3 0.2 0.1 0.0 0.0 0.4 0.3 0.2 0.1 0.0 0.0
+
+=0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+Pit Depth, cm
+
+Normalized Pit Distribution
+
+ = 3 year
+
+-1
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+Pit Depth, cm Normalized Pit Distribution
+
+ = 5 year-1
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+Pit Depth, cm
+
+Figure 4. Influence of the value of  on normalized pit distribution for aluminum in = 0.1 mol/L NaCl solution for Ecorr = -0. 384 V (SHE), pH = 7, T = 25 °C, and tobs = 1 year. The conditions assumed in this calculation correspond to instantaneous nucleation, where all pits nucleate within the first time increment corresponding to the smallest depth increment. This is shown by the fact that the damage function for  = 0 corresponds to a single bar that moves to greater depths as the observation time increases. The distribution in pit depth is therefore the result of delayed repassivation, the extent of which is determined by the value of . The value of the delayed repassivation contact, , has a major impact on the accumulation of pitting corrosion damage.
+
+12
+
+As a means of illustrating some of the more important properties of the DF, we plot in Figure 4 three predicted DDFs for the pitting of aluminum in sodium chloride solution for different values of the delayed repassivation constant, . The quantity plotted on the ordinate is N(L1, L2)/No, where N(L1, L2) is the number of pits having depths between L1 and L2 per unit area for a given observation time, No is the number of potential breakdown sites on the surface, and  is the survival probability for meta stable pits. The latter parameter was arbitrarily assigned a constant value of 0.01 in the present calculations. Examination of the DDFs plotted in Figure 4 shows that the nucleation of damage occurs "instantaneously"; i.e., all of the pits nucleate within the first time (depth) increment. Thus, for the parameter values chosen for this calculation (potential and [Cl-]), and in the absence of delayed repassivation ( = 0), the damage function is in the form of a vertical bar, noting that no distribution is assumed in the pit growth rate. (We have recently included the distribution in the growth rate in DFA in the form of extreme value statistics [21]). The assumption of instantaneous nucleation conditions was made, in order to isolate the impact of delayed repassivation on the form of the damage function, because, as we will see later, delayed repassivation is one of, if not the most, important phenomenon in determining the accumulation of localized corrosion damage. When delayed repassivation occurs, pits die at various times that are less than the observation time and hence populate depths that are less than the maximum depth. Thus, for  = 3 year-1, only a small number of pits are still alive after an observation time of one year (Figure 4). In the case of more intense repassivation ( = 5 year-1), essentially all pits are predicted to be dead. Damage functions of the type shown in Figure 4 have been calculated for the pitting of aluminum in sodium chloride solution for different observation times, chloride concentrations, temperatures, and oxygen concentrations (and hence Ecorr) [25]. As expected, each of these independent variables has an important impact on the depth of the predicted damage and on its distribution. For example, reducing [Cl-] or Ecorr induces a transition from instantaneous nucleation to progressive nucleation, where new damage nucleates while existing pits grow and die. This, too, has a profound impact on the form of the DF. Numerous observations have shown that stress corrosion and corrosion fatigue cracks nucleate at pits, but only if the pits have attained a sufficient depth, although pit geometry is also an important factor. According to Chen, et. al., [26], two conditions must be satisfied for crack nucleation to take place; namely, KI > KISCC (for SCC) or KI > KI,th (CF) and (dL/dt)crack growth > (dL/dt)pit growth. The first requirement defines the mechanical (fracture mechanics) condition that must be met for the prevailing stress and geometry, while the second simply says that the nucleating crack must be able to "out run" the pit. Thus, we may define the critical pit depth for the nucleation of a crack as
+Lcrit K  =  ISCC  '  A 
+2
+
+(22)
+
+where  is the stress and A ' is a geometry dependent parameter that also incorporates short crevice factors. An equivalent expression can be written for the nucleation of a corrosion fatigue crack. Note that Equation (22) is a necessary, but not a sufficient, condition, because the velocity constraint must also be satisfied. Comparison of Lcrit with
+
+13
+
+the pitting distribution (Figure 3) provides a measure of the probability that a pit having sufficient depth exists on the surface to satisfy the fracture mechanics condition given by Equation (22). By definition of the integral damage function, F, this pit can exist if only F(Lcrit,t)  1. Thus the conditions (pits can exist only as integers). A subtle, but important issue arises in this discussion as to whether cracks nucleate at active ("living") or passivated ("dead") pits. It seems that this issue can be resolved by the relative pit versus crack velocity condition expounded by Chen et. al. [26]. Thus, careful consideration of the relative growth rates of pits and cracks (in the case when the environmental component of the crack propagation is comparable with the mechanical component (i.e. in the lower reaches of the Stage I region of the dL/dt versus KI correlation) suggests that the relative velocity condition can only be satisfied if the pits from which cracks nucleate are dead. Thus, for describing the transition from pits into cracks, it would seem that fp [Equation (10)] is the appropriate differential damage function.
+
+Practical Application of DFA
+Initiation Dominated Damage
+Catastrophic failure, in which a component suddenly fails without any outward sign of accumulating damage, is often dominated by the initiation stage, particularly in systems that are subject to stress corrosion cracking or corrosion fatigue where the crack growth rate can be large. One such case is cracking in low-pressure steam turbine blades and disks in thermal power stations. In these systems, the disks, which are manufactured from low alloy steel (ASTM 470/471 NiCrMoV), are subject to stress corrosion cracking, while the AISI Type 403 SS blades fail by corrosion fatigue. In both cases, the cracks commonly nucleate at pits and grow rapidly until failure occurs by unstable crack growth due to mechanical overload, when KI exceeds the fracture toughness, KIC. The failure of a large LP steam turbine disk can be a catastrophic event, resulting in destruction of the turbine and even the turbine hall. It is for this reason that a great deal of attention is now being paid to turbine reliability and in particular to the accumulation of corrosion damage. We have recently modeled the accumulation of damage due to pitting corrosion and corrosion fatigue in disks and blades for a turbine that is subjected to cyclical operation, as summarized in Table 1. Thus, in this case, the corrosion evolutionary path comprises multiple cycles of an operational period of 500 hours at 95 oC under cyclic loading followed by 100-hour shutdown period at 25 oC. The transition period between shutdown and operation was considered to be 0.5 hours, during which time the properties of the system were considered to change linearly with time. Thus, the total cycle time is 600.5 hours and the total operational time was assumed to be 13 years corresponding to 190 cycles. The accumulated damage at any given time (i.e., after the corresponding number of cycles) is obtained by integrating the cavity growth rate over the evolutionary path to that point. The electrochemical parameters assumed in the calculation for the low alloy disk steel and the Type 403 SS blade alloy actually correspond to those for iron and Type 316 SS, respectively, because of a lack of data for the actual alloys of interest.
+
+14
+
+Details of the calculations will be published at a later date.
+
+Table 1. Assumed operating cycle parameters for the development of corrosion fatigue damage in Low Pressure Steam Turbine disks and blades.
+
+Shutdown t = 100 h = 0 T = 25 C [O2] = 8 ppm [Cl-] = 0.3 M pH = 6.96
+0
+
+m= 84 ksi,  = 2 ksi, f = 600 Hz
+
+Operation Cycle t = 500 h  = m+ 0.5(2ft) T = 95 0C [O2] = 20 ppb [Cl-] = 3 M pH = 6.13
+
+3.0 2.5
+
+Carbon Steel
+
+Crack Depth, cm
+
+2.0 1.5
+
+316 Stainless Steel
+1.0 0.5 0.0 0 2 4 6 8 10 12 14 16
+
+Incubation Periods
+
+Time, year
+Figure 5. Plots of accumulated pitting/corrosion fatigue damage in carbon steel and Type 316 SS during a simulated LP steam turbine operating corrosion evolutionary path comprising multiple cycles of shutdown followed by operation as summarized in Table 1.
+
+15
+
+The calculated accumulated damage for both materials is summarized in Figure 1. For the case of the stainless steel in particular, the failure time is dominated by initiation (incubation) and once a crack nucleates it grows rapidly to a super critical dimension. In the case of iron, however, the initiation period is short compared with the total failure time, so that this case corresponds to a growth dominated failure scenario (see below). A number of important conclusions were drawn from this study: At loading frequencies above ca. 100 Hz, fatigue crack growth is due to mechanical fatigue, with negligible impact of the environment. · At loading frequencies below 0.1 Hz, for low R-ratio loading, advection has little impact on corrosion fatigue crack growth rate. Accordingly, crack propagation can be treated as stress corrosion cracking. · The service life of a system is very sensitive to the electrochemical (corrosion) properties of the alloys employed and the environment. · Increasing of the initiation period is the key for increasing of the service life of the system. · The pit propagation rate is usually much higher during shutdowns than it is during operation. Accordingly, it is possible to significantly increase the service life of a system by controlling the environmental conditions during shutdown. While the calculations described above were made for illustrative purposes only, they do demonstrate the level of sophistication that is now being achieved in corrosion damage prediction.
+·
+
+Growth Dominated Damage
+In many practical cases, it is found that the initiation time for localized corrosion damage is short compared with the time over which propagation occurs, so that the failure time is dominated by the propagation stage. Alternatively, inspection may discover damage (pits or cracks) that has already formed in a component and hence the task is reduced to one of predicting by how much the corrosion cavity will extend over the time to the next inspection. An accurate assessment of pit or crack extension over the future evolutionary path to the next inspection is vital, because it is essential for the most cost-effective scheduling of maintenance. Of particular importance in this regard is the fact that crack extension occurs predominantly in the Stage II region of the crack growth rate versus stress intensity factor correlation, in which the CGR is only weakly dependent upon mechanical parameters (stress), but is strongly dependent upon the chemical and electrochemical conditions. Accordingly, it is our position that the extrapolation of damage upon the basis of fracture mechanics alone cannot provide an accurate assessment of crack extension in those cases where environment factors are of paramount importance in the accumulation of damage. This is the case for SCC in systems ranging from nuclear reactors to gas transmission pipelines. Thus the traditional Damage Tolerance method needs to be replaced by the more versatile and physically realistic Damage Function Analysis (DFA) protocol, which incorporates environmental and mechanical aspects explicitly in the prediction philosophy. DFA not only incorporates the nucleation, propagation, and repassivation (death) stages, but it also explicitly
+
+16
+
+satisfies the constraints of determinism, in that the predictions of the component models are constrained by the relevant natural laws. In the first case that we will discuss, it is assumed that a crack already exists in the structure and that the initial crack length is known by inspection. This is a common scenario, because most system operators perform inspections during scheduled outages. To use the inspection data effectively, it is necessary to extrapolate the damage to the next inspection time, taking into account the expected operating conditions. Extrapolation has been performed, in the past, mostly upon the basis of fracture mechanics models and techniques, which generally incorporate environmental data only inadvertently. However, the increasing demand for higher availability has led to the development of various radiolysis models for calculating the concentrations of electroactive species, such as H2, O2, and H2O2, as functions of the reactor operating parameters and the concentration of hydrogen added to the feedwater [4-7, 27-29]. Some of the models also calculate the corrosion potential and crack growth rate, and comparison with laboratory and field data have shown that these calculations are of considerable accuracy [4-7]. One such model, ALERT, combines deterministic water chemistry and corrosion models for calculating radiolytic species concentrations in the HTCs of BWRs and for predicting the damage that accumulates from the corrosion processes (SCC) [1, 4-7, 9-13]. Because some of the radiolysis species are electroactive, they are instrumental in establishing the electrochemical corrosion potential (ECP) of components within the HTC [1, 4-7, 14]. Extensive work in many laboratories worldwide has established that sensitized Type 304SS becomes increasingly susceptible to intergranular stress corrosion cracking in high temperature aqueous solutions as the ECP is increased above a critical value [30]. Constant extension rate tests (CERTs), using round tensile specimens in actual BWR coolant at 288 oC [31], has led the Nuclear Regulatory Commission (NRC) to adopt a value for the critical ECP (Ecrit) of ­0.23 Vshe. However, we note that critical potentials as negative as ­0.4Vshe have been observed in laboratory studies [30]. A distribution in Ecrit in an operating reactor is expected, because of the variability in the degree of sensitization (DOS) of the steel at welds and because of differences in neutron fluence experienced by in-vessel components. Because SCC occurs only when ECP > Ecrit [30], the goal of any water chemistry control protocol for inhibiting cracking in BWR coolant circuits is to displace the ECP to a value that is more negative than the critical value for the component of interest under the prevailing conditions. In hydrogen water chemistry (HWC), which is a mitigation technique that is now being applied to operating reactors, molecular hydrogen is added to the feedwater with the objective of reducing the concentrations of oxidizing species (e.g. O2, H2O2) and/or of displacing the ECP in the negative direction. One of the primary objectives in developing the chemistry/damage simulation codes was to provide a deterministically based technology for assessing the efficacies of various mitigation technologies without incurring the expense of extensive in-plant testing. Our original code (DAMAGE-PREDICTOR) [4-7], from which REMAIN and ALERT were developed, incorporates deterministic modules for estimating the specie concentrations [8], ECP [14], and crack growth rate (CGR) [9-13] for stainless steel components at closely spaced points around the coolant circuit, as a function of coolant pathway geometry, reactor operating parameters (power level, flow velocity, dose rates, etc.), coolant conductivity, and the concentration of hydrogen added to the feedwater.
+
+17
+
+The radiolytic species concentrations are calculated in the steady state using the radiolysis module, RADIOCHEM, which is based on a model that was originally developed to describe the corrosion of high-level nuclear waste containers [8]. Calculation of the ECP was affected by the mixed potential model (MPM) [14, 32], which makes use of the fact that, for a system undergoing general corrosion (which is the process that establishes the ECP), the sum of the current densities due to all charge transfer reactions at the steel surface must be zero. By expressing the redox reaction currents in terms of the generalized Butler-Volmer equation, which incorporates thermodynamic equilibrium, kinetic, and hydrodynamic effects, and by expressing the corrosion current in terms of either the point defect model or as an experimentally derived function (both have been used), it is possible to solve the charge conservation constraint for the corrosion potential (ECP). The MPM has been extensively tested against experimental and field data and has been found to provide accurate estimates of the ECP [1, 32].
+
+1e-6
+
+CRACK GROWTH RATE, cm/s
+
+Experimental Data
+1e-7
+
+KI = 27.5 MPa(m)
+ = 0.3 µS/cm
+
+1/2
+
+1e-8
+
+ = 0.1 µS/cm
+1e-9
+
+Calibration datum
+1e-10 -0.8 -0.6 -0.4 -0.2 0.0 0.2 0.4 0.6
+
+Ecorr, V (SHE)
+Figure 6: Measured and analytically calculated crack growth rates for sensitized Type 304 stainless steel as a function of corrosion potential and ambient temperature conductivity of the environment.
+The deterministic crack growth model (the CEFM) [9-12] estimates the rate of growth of a crack at any point in the coolant circuit. The CEFM is deterministic, in that it satisfies the relevant natural law; the conservation of charge. Furthermore, a basic premise of the CEFM, that current flows from the crack and is consumed on the external surface, has been demonstrated experimentally (see Figure 6) [33, 34]. To our
+
+18
+
+knowledge, the CEFM and variants thereof (e.g. the CECFM) are the only currently available models that satisfy the conservation of charge constraint explicitly. The high degree of determinism is demonstrated by the fact that the models require calibration against only a single CGR/ECP/conductivity/temperature/stress intensity datum for a given degree of sensitization (DOS) of the steel [9, 12]. The MPM and CEFM contain the necessary facilities for modeling noble metal enhanced hydrogen water chemistry (NMEHWC), as affected by the use of catalytic coatings (i.e. noble metals), and for modeling other advanced remedial measures such as dielectric coatings and ultra-low conductivity operation. A considerable achievement of the MPM and CEFM was the prediction that dielectric coatings represented a viable, and indeed an advantageous, alternative to noble metal coatings; a prediction that has been confirmed experimentally [35]. The effectiveness of both strategies arises from modification of the exchange current densities for the redox reactions (oxidation of hydrogen and the reduction of oxygen and hydrogen peroxide) that occur on the steel surface [6, 36]. In the case of the noble metal coatings, the exchange current densities are increased, with the greatest increase occurring for the hydrogen electrode reaction. This renders hydrogen to be a much more effective reducing agent than it is in the absence of the noble metal, thereby making it much more effective in displacing the ECP in the negative direction. In the case of dielectric coatings, the lower exchange current densities render the metal less susceptible to the ECP-raising oxidizing species, with the result that the ECP is also displaced in the negative direction, even in the absence of hydrogen added to the feedwater. DAMAGE-PREDICTOR has been used to model fourteen operating BWRs, including Duane-Arnold, Dresden-2, Grand-Gulf, River-Bend, Susquehanna, Hamaoka-2, Leibstadt, Perry, and Fermi-2. Additionally, the code has been installed in computers at Fermi-2 and has been provided to researchers at the Argonne National Laboratory for use in their NRC-sponsored program on environmentally influenced cracking of reactor alloys in simulated BWR coolant environments. A "second-generation" code, REMAIN [37], has been developed for a German vendor to model BWRs with internal coolant pumps and a third generation code, ALERT, is now used to model BWRs with external pumps. All three generations of code have been validated by direct comparison with plant data (e.g. at the Leibstadt BWR in Switzerland), and are found to simulate accurately hydrogen water chemistry. The codes have also been used to explore various enhanced versions of HWC and to model completely new strategies, such as those that employ noble metal coatings and dielectric coatings. Two of the component models of these codes, in fact, predicted quantitatively the effectiveness of dielectric coatings for inhibiting crack growth in stainless steels in high temperature water, and these predictions have been validated by direct experiment [34, 35]. The speed afforded by the enhanced ALERT code, which employs optimized mathematical algorithms and C++ programming language, permits near "real time" prediction of the accumulated damage (the crack length vs. time for a preconceived operating history). The accumulated damage is the expected crack length, L, which is calculated on a component-by-component basis as a function of the observation time, t, for an envisioned future operating protocol as a solution of the differential equation
+L = V [ power(t), chemistry(t), L(t)] t
+
+(23)
+
+19
+
+3.0
+"Linear" Approach
+
+2.5 Crack Depth (cm)
+
+ L  Slope =    t  t =0
+
+2.0
+
+1.5
+ALERT
+
+1.0
+
+Outages
+0.5 0 12 24 36 48 60 72 84 96 10 12 80 Time (month)
+
+Figure 7. Illustration of the impact of non-linearity in crack growth rate with time on the accumulated damage for stress corrosion cracking in sensitized Type 304 stainless steel in BWR coolant environments and of inadequacy of the linear approach for extrapolating crack propagation for future operating periods (regular and identical outages and fuel cycles). The non-linear crack growth rates were calculated using the Coupled Environment Fracture Model (CEFM), which recognizes the dependence of crack growth rate on crack length.
+with the boundary condition L = L0 at t = 0. The crack growth rate, V, is calculated from the coupled environment fracture model in which the dependencies on the first two independent variables arise from the impact of radiolysis, temperature, flow rate, and impurity concentration on the water chemistry experienced by the crack. However, it is extremely important that any model that is used in calculations of this type incorporates the impact of changing crack geometry, L(t), on the crack growth rate, as discussed below. The CEFM and variants thereof satisfy this condition. The initial crack length,
+
+20
+
+L0, corresponds to the depth of a pre-existing crack (as may have been detected during an inspection or assumed for a safety analysis scenario). The running time for simulating a typical ten-year operating period is less than 10 minutes on a desktop computer or on a notebook PC, and is less than a minute for simulating a single state point {water radiolysis + corrosion potential + crack growth rate}. The importance of recognizing the impact of crack length on crack growth rate is illustrated by the following analysis. Thus, for an occluded crack under constant load, the crack growth rate is predicted to decrease with crack length (and hence time) as noted above. This is due to the fact that, as the crack length increases, a greater IR potential drop occurs down the crack and smaller potential drops occur across the crack tip and across the interfaces external to the crack, where the principal charge transfer reactions take place. Lower potential drops at these locations imply lower rates of reaction and hence lower crack propagation rate than what would be observed in the absence of the increase in the IR potential drop due to the increase in crack length. If this factor is ignored and a "linear" (or constant crack growth rate) approach is used to estimate L(t) as
+ L  L(t) = L0 +   t  t  t =0
+
+(24)
+
+the predicted crack length is significantly overestimated. As an example, we compare the predictions of ALERT and a "linear" approach for the propagation of the same 0.5 cm deep crack in a BWR core shroud over 24 calendar months of operation (two fuel cycles including outages), as shown in Figure 7. The accumulated crack depth, as estimated by the ALERT algorithm, is about 1.5 cm (which is in excellent accord with actual in service inspection data reported recently in Ref. 38). On the other hand, the linear extrapolation of the crack propagation yields 2.9 cm or twice that estimated by ALERT. This difference is significant, and it is not surprising that reactor operators lose confidence in models that predict "failure" well before it actually occurs. As an example of the prediction of accumulated damage in an operating BWR, we show in Figure 8 predicted crack depth versus time for a crack in the core shroud inner surface above the core midplane. The crack was assumed to have an initial depth of 0.5 cm and to be characterized by an initial stress intensity factor of 27.5 MPa.m (a constant stress is also assumed, so that KI increases as the crack grows). Once the length of a crack at a given location exceeds the physical dimension of the component or exceeds the critical value corresponding to KI > KIC, failure of the component is deemed to have occurred. We refer to these two cases as being "damage-controlled" and "stresscontrolled" failures, respectively. It is important to note that, even when the stress intensity increases with time, the crack growth rate is predicted to decrease over the same period. This is a consequence of the negative impact of increasing crack length on the current and potential distributions within the internal and external crack environments, and hence on the crack growth rate, as predicted by the CEFM [12], being more important than the small positive impact of KI on the crack growth rate in the Stage II region. The actual impact that increasing crack length has on the crack growth rate is predicted to be a function of conductivity, ECP, flow rate (even for a high aspect ratio crack), and stress intensity [12, 34]. Accordingly, the predicted accumulated damage
+
+21
+
+becomes a sensitive, nonlinear function of the operating history of the reactor, in a manner that is unlikely to be captured by empirical models.
+3.5 Normal Water Chemistry 3.0 Hydrogen Water Chemistry Normal to Hydrogen Water Chemistry
+
+2.5
+
+2.0
+
+1.5
+
+1.0
+
+0.5
+
+0.0 0 20 40 60 Time (months) 80 100 120
+
+Figure 8. Predicted histories of a growing crack in the core shroud of an operating Boiling Water Reactor as a function of preconceived future operating histories. Note that the discontinuities in the crack length arise from changes in crack growth rate during outages (irregular outages). Note also that hydrogen water chemistry has a major impact on the accumulation of SCC damage and that the effect is more pronounced the earlier that HWC is applied. The effect of HWC is to reduce the crack growth rate by displacing the corrosion potential (ECP) in the negative direction.
+The impact that hydrogen water chemistry (HWC) is predicted to have on the accumulated damage is illustrated in Figure 8. Thus, an immediate addition of 1 ppm (0.5x10-3 mol/kg) of H2 to the feedwater is predicted to decrease the increment in accumulated damage in the core shroud after ten years of operation by a factor of about 4, from 2.2 cm to about 0.5 cm. This is a substantial reduction in the extent of damage that could not have been estimated from the crack growth rates at a single state point alone (because of the different, non-linear dependencies of crack growth rate on time), or by using a model that fails to recognize a dependence of crack growth rate on crack length. The same level of hydrogen addition implemented five years later is predicted to yield 22
+
+much smaller benefits for the considered component and location. Thus, an optimal implementation time may be derived for a given reactor by selecting a HWC initiation time that provides for the most cost effective operation in the future in light of other (technical and economic) factors.
+18%
+
+Contribution of Restart to Accumulated Damage
+
+16% 14% 12% 10% 8% 6% 4% 2% 0%
+
+"Soft" Restart "Hard" Restart
+
+Normal Water Chemistry
+
+Hydrogen Water Chemistry
+
+Figure 9: Impact of water chemistry and restart conditions on the accumulated crack length in the core shroud of an operating BWR.
+The jumps in the accumulated crack depth shown in Figure 8 correspond to unfavorable conditions that exist during restarts, including higher coolant conductivity and transition through the temperature range of 150 to 200°C, where IGSCC in sensitized Type 304 SS exhibits maximum crack growth rate. In order to clarify the impact of restarts on the total accumulated damage (crack depth), calculated contributions to crack advance during restarts are compared with the total crack length in Figure 9. Clearly, the contribution is higher for the hydrogen water chemistry conditions, because of the offhydrogen regimes during startups (hydrogen is not normally added until the reactor reaches operating power). The impact of conductivity control is illustrated by the "soft" restart (lower conductivity) and "hard" restart (high conductivity) scenarios. Importantly, maintenance of low conductivity during shutdown and restart also contributes significantly to minimizing localized corrosion damage. As an indication of the accuracy that can be achieved in predicting the accumulation of SCC damage in an operating reactor, we show in Figure 10 a comparison of the calculated increase in length of a crack in the H-3 weld in the inner surface of a BWR core shroud with the observed value, as determined by inspection [38].
+
+23
+
+The level of agreement is considered to be excellent, considering that estimates had to be made of many parameters (e.g. stress and water conductivity).
+
+2.5
+
+Crack Depth (cm)
+
+2.0
+
+1.5
+
+1.0
+
+Plant measurement [38] ALERT
+
+0.5
+
+0.0 10 12 14 16 18 20
+
+Time After Outage 11 (months)
+Figure 10: Comparison of calculated crack extension with the observed value over a ten month period after Outage No. 11. Note that the crack initiation time was adjusted so that the calculated crack length coincided with the initial point. Accordingly, only the last point has probative value.
+Our work to date has emphasized BWRs, because that is where the greatest need has been in assisting plant operators to specify the most cost-effective operating protocols. However, we have also employed two of the modules (RADIOCHEM and the MPM) of the three generations of codes that have been developed in our program for modeling the primary coolant of commercial pressurized water reactors (PWRs), with the goal of specifying the coolant conditions ([H2], [B], [Li], T) under which cracking of steam generator tubes and other susceptible components might be avoided [39].
+
+Summary and Conclusions
+The rate of development of damage is almost always a strong function of the history of operation. Accordingly, industrial systems and plants that are nominally identical quickly become unique, due to unique operating histories and conditions. This uniqueness, coupled with the fact that failures are generally rare events, means that, in 24
+
+most cases, insufficient statistical failure data are available to devise effective empirical models for predicting the onset and evolution of localized corrosion damage. In most cases, one essentially needs to know the answer about the development of damage in advance before predictions can be made. Clearly, in these cases, empirical methods are of marginal value. The alternative philosophy is determinism, in which prediction is made on the basis of mechanism-based physical and chemical models whose outputs are constrained by the natural laws. In this paper, the foundations of the deterministic prediction of damage due to localized corrosion have been outlined, including the theoretical bases for predicting a complete cycle of damage development: the nucleation, growth, and death of individual events (pits/cracks) and the evolution of damage in an ensemble of events occurring in a progressive manner. Damage is expressed in terms of integral damage functions, which are histograms of event frequency vs. incremental depth. The application of damage function analysis (DFA) has been illustrated with reference to the prediction of pitting damage on aluminum in chloride-containing solution and with reference to the accumulation of damage due to stress corrosion cracking in water-cooled nuclear power reactors.
+
+Acknowledgments
+The authors gratefully acknowledge the support of this work by the U.S. Department of Energy/ Environment Management Science Program under Grant No. DE-FG0797ER62515, NIST though the Advanced Technology Program (co-sponsored by ChevronTexaco , DuPont, Exxon Mobil, Mitsubishi Chemical Co, and Shell Oil Co.), and the Electric Power Research Institute, Palo Alto, California under Contract No. EPP4980/2441. Discussions with Dr. Iouri Balachov of SRI International are gratefully acknowledged.
+
+References
+1. D. D. Macdonald, I Balachov, and G. R. Engelhardt, Power Plant Chemistry, 1, 9 (1999). 2. D. D. Macdonald, C. Liu, M. Urquidi-Macdonald, G. Stickford, B. Hindin and A. K. Agrawal, Corrosion, 50, 761 (1994). 3. C. Liu, and D. D. Macdonald, J. Press. Vessel Tech., 119, 393 (1997). 4. T-K. Yeh, D. D. Macdonald, and A. T. Motta, Nucl. Sci. Eng., 121, 468 (1995). 5. T-K. Yeh, D. D. Macdonald, and A. T. Motta, Nucl. Sci. Eng., 123, 295 (1996). 6. T-K. Yeh, D. D. Macdonald, and A. T. Motta, Nucl. Sci. Eng., 123, 305 (1996). 7. D. D. Macdonald, M. Urquidi-Macdonald, and P-C. Lu, "Towards Deterministic Methods for Predicting Stress Corrosion Cracking Damage in Reactor Heat Transport Circuits" Proceedings of the International Conference on Chemistry in Water Reactors: Operating Experience & New Developments, French Nuclear Society, Nice, France, (1994) 8. D. D. Macdonald and M. Urquidi-Macdonald, Corrosion, 46, 380 (1990).
+
+25
+
+9. G. Engelhardt, D. D. Macdonald and M. Urquidi-Macdonald, Corros. Sci., 41, 2267 (1999). 10. D. D. Macdonald and M. Urquidi-Macdonald, Corros. Sci., 32, 51 (1991). 11. D. D. Macdonald and M. Urquidi-Macdonald, "An Advanced Coupled Environment Fracture Model for Predicting Crack Growth Rates", Proc. Parkins Symp. Fund. Asp. Stress Corr. Crack., TMS, Warrendale, PA, 1992, p.443. 12. D. D. Macdonald, P-C. Lu, M. Urquidi-Macdonald, and T_K. Yeh, Corrosion, 52, 768 (1996). 13. D. D. Macdonald, Corr. Sci., 38, 1003 (1996). 14. D. D. Macdonald, Corrosion, 48, 194 (1992). 15. D. D. Macdonald, J. Electrochem. Soc., 139, 3434 (1992). 16. G. R. Engelhardt, M. Urquidi-Macdonald, and D. D. Macdonald, Corr. Sci., 39, 419 (1997). 17. G. R. Engelhardt, and D. Macdonald, "Modeling of Corrosion Fatigue Chemistry in Sensitized Stainless Steel in Boiling Water Reactor Environments", in CORROSION/2000 NACE International, Houston, TX, (2000), Paper No. 00227. 18. G. R. Engelhardt and D. D. Macdonald, Corrosion, 54, 469 (1998). 19. D. D. Macdonald and M. Urquidi-Macdonald, Corrosion, 48, 354 (1992). 20. D. D. Macdonald, Pure Appl. Chem., 71, 951 (1999). 21. G. R. Engelhardt and D. D. Macdonald, "Unification of the Deterministic and Statistical Approaches for Predicting Localized Corrosion Damage. I. Theoretical Foundation", Corros. Sci., submitted (2003). 22. D. Williams, J Stewart and P. H. Balkwill, Corr. Sci., 36, 1213 (1994). 23. D. E. Williams, C. Westcott, and M. Fleischmann, J. Electrochem. Soc., 132, 1804 (1985). 24. P. C. Pistorius and G. T. Burstein, Corros. Sci., 33, 1885 (1992). 25. D. D. Macdonald and G. R. Engelhardt, "Theoretical Prediction of Pitting Corrosion Damage on Aluminum", in preparation (2003) 26. G. S. Chen, K-C. Wan, M. Gao, R. P. Wei, and A. Flournoy, Mater. Sci. Eng., A219, 126 (1996). 27. C. P. Ruiz, C. C. Lin, T. L. Wong, R. N. Robinson, and R. J. Law, "Modeling HWC for BWR Applications", EPRI-NP-6386, Electric Power Research Institute, Palo Alto, CA, (1989) 28. K. Ishigure, J. Takagi, and H. Shiraishi, Rad. Phys. Chem., 29, 195 (1987). 29. E. Ibe, M. Nagase, M. Sakagami, and S. Uchida, J. Nucl. Sci. Tech., 24, 220 (1987). 30. D. D. Macdonald and G. Cragnolino, "The Critical Potential for the IGSCC of Sensitized Type 304 SS in High Temperature Aqueous Systems". Proc. 2nd Int. Symp. Envir. Degr. Mat. Nucl. Power Systs - Water Reactors. - Water Reactors. (September 9-12, 1985). Monterey, CA., ANS. 31. M. E. Indig and J. L. Nelson, Corrosion, 47, 202 (1991). 32. D. D. Macdonald, H. Song, K. Makela, and K. Yoshida, Corrosion, 49, 8 (1993). 33. M. P. Manahan, Sr., D. D. Macdonald, and A. J. Peterson, Jr., Corr. Sci., 37, 189 (1995).
+
+26
+
+34. D. D. Macdonald and L. Kriksunov, "Flow Rate Dependence of Localized Corrosion in Thermal Power Plant Materials", Advances in Electrochemical Science and Engineering, 5, John Wiley & Sons, New York, N.Y., 1997, p.125. 35. X. Zhou, I. Balachov, and D. D. Macdonald, Corr. Sci., 40, 1349 (1998). 36. T-K. Yeh, M-S. Yu, and D. D. Macdonald, Proc. 8th Int. Symp. Envir. Degr. Mat. Nucl. Power Systs - Water Reactors, Amelia Island, GA, NACE Int., Houston, TX, (1997) 37. I. Balachov, D. D. Macdonald, N. Henzel, and B. Stellwag, "Modeling and Prediction of Materials Integrity in Boiling Water Reactors", Proc. Eurocorr98, Utrecht, NL, Sept. 28-Oct. 1, 1998. 38. J_R. Tang, L. Kao, D_Y. Shiau, L-Y. Chou, C-C. Yao, and S-C. Chiang, Nucl. Tech., 121, 324 (1998). 39. A. Bertuch, J. Pang, and D. D. Macdonald, "The Argument for Low Hydrogen and Lithium Operation in PWR Primary Circuits", Proc. 7th Int. Symp. Envir. Degr. Mat. Nucl. Power Systs - Water Reactors, 2, Breckenridge, CO, NACE, Int., Houston, TX, (1995), p. 687.
+
+27
+

@@ -1,0 +1,149 @@
+ISSN 1466-8858
+
+Volume 4 Preprint 5
+AC Induced Corrosion - Summary of AC Corrosion Cases
+Dae Kyeong Kim Underground Systems Group KERI dkkim@keri.re.kr Jeong Hyo Bae Underground Systems Group KERI jhbae@keri.re.kr David Scantlebury Corrosion & Protection Centre UMIST scantlebury@umist.ac.uk
+
+Abstracts In this paper, the alternating current corrosion cases since 1986 have been reviewed by summarizing the general characteristics of the alternating current corrosion shown in the surveyed literature.
+
+1. Introduction The corrosion of the steel by alternating current was investigated as far back as the early 1900's. And the literature dating back to early 1960's has shown that alternating current can cause the corrosion of the cathodically protected steel under the laboratory conditions. However, until the mid 1980's it was generally acknowledged that although the alternating current could cause the corrosion of metals, the corrosion rate was only a fraction of an equivalent amount of the direct current and furthermore could be controlled by the application of the cathodic protection. The first corrosion failure on a pipeline that was attributed to the alternating current corrosion was in 1986. And since then, substantial research and development on the alternating current corrosion have been carried out. 2. The Cases of Germany 2.1. The Case 11) 2.1.1. The descriptions of the structure - Route name : DN 150 PN 70
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+-
+
+Coating : PE Installed in 1980 The corrosion failure occurred in 1986 The protective current densities were between 1.5 and 3[µA/m2] Parallel with a 16 2/3[Hz], 15[kV] single phase traction system at varying distance The soil at the site was the slightly cohesive clay bearing the soils containing the gravel
+
+2.1.2. The results of the various measurements before and after the failure - The maximum possible pipe-to-remote earth AC voltage was approximately 130[V] - The protective off-potential was more negative than ­1.0[V]/CSE The minimum soil resistivity was 1.9[m]
+
+2.1.3. The characteristics of the corrosion - The corrosion was always found when the surface area of the coating holidays was 1 to 3[cm2]. On the larger or smaller coating holidays, no corrosion had occurred. The coating holidays on the points where the corrosion had occurred showed bulges. And the deposits in the bulge area contained the cations and the anions. The pH value of the corrosion products and the surrounding soils were over 10 Crater-like local corrosion
+
+2.1.4. How could it be concluded that it was AC corrosion? The Lab Test: - Several 10[cm2] coupons placed in the synthetic soil solution with =5.1[m]. Constant alternating current density of 100[A/m2] over a period of 168 days.
+
+- Constant alternating current density of 50[A/m2] over a period of 129 days. The Results of the Lab Test : - The AC density could not be seen to have a significant effect on the rate of the material loss across the surface. - The severe local corrosion occurred. - The coupon whose current density was 100[A/m2] was perforated in three locations. The Field Test: - Fig 2.1 shows the layout of the field test (in the clay and the sand environment).
+
+2
+
+-
+
+Two cases, clay and sand environment, were simulated. Applied alternating currents in the sand environment were 10 to 30[A/m2] Applied alternating currents in the clay environment were 300 to 1,000[A/m2]
+
+DC 60V 220V DC AC
+
+AC : Reference : R for measurement : Test Sample
+
+Figure 2.1 The Field Test Layout (in the clay and the sand environment)
+
+The Results of the Field Test: - Both of the tests showed that the corrosion was more severe when the alternating current was applied - There were some corrosive attack when the alternating current was applied even with the cathodic protection. - No corrosive attack was observed when the condition was without the effects of the alternating current and with the cathodic protection. 2.2. The Case 22) 2.2.1. The descriptions of the structure - Route name : DN 700 PN 70 - Coating : PE - Installed in 1986
+
+3
+
+-
+
+The corrosion attack detected in 1989 IR free protective potential of ­1.1[V] was kept Parallel with 110/220/380[kV] overhead transmission lines of a frequency of 50[Hz] for about 6.6[km]
+
+2.2.2. The results of the various measurements before and after the failure - The maximum possible pipe-to-remote earth AC voltages ranged between 2.5 and 18[V] - The protective off-potential was more negative than ­1.1[V]/CSE The minimum soil resistivity ranged between 180 and 200[m]
+
+2.2.3. The characteristics of the corrosion There is no detailed description on the shape or other characteristics of the corrosion flaws. Only the sizes of the two corroded spots were described as shown in Table 2.1. Table 2.1 Defective spot Defects Area [cm2] 0.2 0.6
+
+Defects Size 5[mm] in diameter 9 x 4 [mm2] and 6 x 4 [mm2]
+
+Corrosion Depth [mm] 0.8 1.0
+
+2.2.4. How could it be concluded that it was AC corrosion? At first, the deductive methods were used to conclude that it was AC corrosion, that is, all the possible causes except the possibility of AC corrosion were examined and excluded. And then, the field simulation was followed to finalize that it was AC corrosion. The Field Test: - After repairing the defects and before backfilling the excavated soil, two test coupons with defined bright surfaces were installed - The AC current flowing at the two test coupons were continuously recorded for 117 hours The Results of the Field Test: - The results of the field test are shown in Table 2.2.
+
+4
+
+Table 2.2 The Results of the Field Test Date July 4 ­ 9, 1990 Coupon No. 1 Area [cm2] 0.785 AC current [mA] 3.8 ­ 7.5 Mean value [mA] 6.0 2 AC current density [A/m ] 48.4 ­ 95.5 2 Mean value [A/m ] 76.4
+
+July 4 ­ 9, 1990 2 10.0 7.1 ­ 12.5 11.1 7.1 ­ 12 11.1
+
+2.3. Summary 2.3.1. The results of AC corrosion research in Germany3,4) After the German cases, which ignited the concern about AC corrosion, so many AC corrosion cases in various countries have been reporting since then. In Germany, the comprehensive research project on AC corrosion was carried out. The objective of the research project was to obtain the information about the corrosion rate of the steel in the water and the soils and the effects of AC current density and frequency under the cathodic protection condition. The results of the research were summarized as the following: - For AC current density of J < 20[A/m2], there is no hazardous AC induced corrosion. For AC current density of J > 100 [A/m2], the corrosion at a rate of 0.1[mm/y] can occur. For AC current density of J > 20[A/m2] and J < 100[A/m2], the corrosion can't be predicted because the corrosion rates vary significantly and pitting occurs over a relatively large area. For AC current density of J > 20[A/m2], the cathodic protection criteria can't be applied. The frequency has no effect on the corrosion rate, particularly for the high AC current density. The corrosion rates differ markedly depending on the medium used. The neutral media containing the significant amounts of salt are considerably less aggressive and the media with a high HCO3 ion content promotes the local corrosive attack. In the case of the corrosion caused by alternating currents, there seems to be a kind of incubation time. During the test period of 30 days, the corrosion rate is extremely low. In the case of the alternating current density of J > 100[A/m2], the corrosion rate increases significantly between the 30th day and the 80th day. The same result could be observed in the case of AC current density of J = 50[A/m2]
+
+-
+
+-
+
+5
+
+-
+
+after 120 days or so. The alternating currents, which last for only a few seconds and are well above the average AC current densities, increase the corrosion rates. In the case of the high direct current density of 5[A/m2], the corrosive attack observed was less significant than that of the density of 2[A/m2]. During the field tests DC density of 0.2[A/m2] caused a reduction in local attacks. However, this effect must be put down to the specific properties of the soil used in the tests. For the practical side of the cathodic protection this effect is only that of secondary importance because the protective current density is the function of the AC influence for the AC affected pipelines.
+
+2.3.2. Summary of AC corrosion cases Two cases are well coincided with the results of the comprehensive researches which were carried out in Germany. That is, the AC current densities of the two cases were above 20[A/m2], which fell on the range of varying corrosion rates relying on the circumstances. The distinctive difference between those two cases is the coating defect size. The first case reported that the corrosion was always found when the surface area of the coating defect was 1 to 3[cm2] and no corrosion had occurred on the larger or smaller size of the coating defect. However, the second case showed that the corrosion could occur on the smaller coating defect as well. This explains well the reason why the comprehensive research did not mention the size of the coating defect.
+
+3. The case of Switzerland5) 3.1. The descriptions of the structure - Route name : GdR (Rhone Valley natural gas pipeline) - Coating : PE - Installed in 1974 - The corrosion failure detected in 1987 - The protective current densities were below 5[mA/m2] Parallel with a 16 2/3[Hz], 15[kV] single phase traction system at varying distance The soil at the site was the sandy soil
+
+3.2. The results of the various measurements before and after the failure - The pipe-to-remote earth AC voltage ranged from 36 to 60[V] near the
+
+6
+
+-
+
+corroded pipeline. The protective potential indicated the effective cathodic protection The sandy soil resistivity was 2,200[m]
+
+3.3. The characteristics of the corrosion - The affected area was up to ten times larger than the damaged part of the faulty place in the PE. - A solid stony type of the corrosion product had formed over the attacked area between the PE and the steel pipe. - The corroded area had a regular and uniform shape and not that of a pit. - The corrosion occurred in the extremely high resistivity soil, which was classified as non-aggressive. 3.4. How could it be concluded that it was AC corrosion? - The examination of the attacked area ruled out the possibility of the corrosion due to the direct current.(refer to the above mentioned the corrosion characteristics) - The analysis of an aqueous extract from the corrosion products gave a weakly alkaline pH of 9.3 to 9.5. - The corrosion products contained the larger quantities of the cations, the anions carbonate, the bicarbonate and the sulphate. - The cathodic protection current flows to each holiday in the coating. 3.5. Summary Several points are well coincided with other AC corrosion cases. For example, the protective potential was under the common protection criteria, the pH of the corrosion products was on the range of alkaline, the corrosion product contained the cations and the anions which showed that there was the anodic reaction as well as the cathodic reaction and so on. The very distinctive difference was that the soil resistivity of the corroded area was extremely high, so called non-aggressive soil. It has not been possible to know the reason yet. Swiss Corrosion Society launched a research project to clarify the mechanism underlying AC corrosion in the laboratory. An interesting result of the research is as the following; - The current density of <30[A/m2] was determined as a criterion for the onset of AC corrosion. 4. The Case of France6)
+
+7
+
+4.1. The descriptions of the structure - Structure : steel gas pipeline - Coating : PE - Installed in 1992 - The corrosion detected in 1993 - 3[km] parallelism with a 400[kV] VHV electric power line 4.2. The results of the various measurements before and after the detection - The pipe-to-remote earth AC voltage was 13[V] - The protective potential indicated the effective cathodic protection - The corrosion depths were equal to 0.1 up to 0.8[mm] - The pH was equal to 13 under disbonding and near the corrosion products - The corrosion products were mainly composed of the iron(magnetite) mixed with the soil 4.3. The characteristics of the corrosion - The corrosion surface had a hard layer of the oxide - The corrosion products shaped the form of a bubble under the coating defect as shown in Figure 2.2.
+
+Coating defect
+
+Coating
+
+Dia.= few mm
+
+Corrosion product
+
+Metal
+Figure 2.2. The Characteristics of AC corrosion
+
+4.4. How could it be concluded that it was AC corrosion? 4.4.1. The lab test The lab tests were launched to know whether a high level of DC current density due to the cathodic protection may provoke the cathodic corrosion and to define the importance of a few parameters in the evaluation of AC corrosion risks of the
+
+8
+
+cathodically protected coupons. Parameters in which were interested were the size and the kind of coating defect, and the level of AC current densities at the same level of DC current density. The results of the lab test were as the following: - The high level of DC current did not affect the corrosion of the pipeline - AC corrosion was initiated in the laboratory 4.4.2. The field test The field tests were launched to initiate the same corrosion as being observed on the pipeline and to confirm that the corrosion was not due to the electrical shielding, the bacterial influence or the cathodic protection, but rather to AC currents. The results of the field test were as the following: - The case with no cathodic protection and no AC current influences showed only the weak, generalized corrosion. - The case with the cathodic protection and AC current influences showed the cases of the corrosion similar to the cases of the corrosion observed on the pipe. - The test result confirmed that cases of the corrosion were not due to the electrical shielding, the sulfate reducing bacteria, or a weak level of the cathodic protection, but were probably due to AC current influences. - The corrosion observed on the pipeline was reproducible. 4.5. Summary The ratio of AC current intensity/DC current intensity was used as one of the evaluation factors for AC corrosion risk. Other factors were the pipe-to-soil potential, AC current density and the soil resistivity. It was concluded that the major parameters, which increase AC corrosion risk were a weak level of the cathodic protection, a high level of AC current density, the small sized coating defects and the low soil resistivity.
+
+5. The Cases of North America7) 5.1. The Case 1 5.1.1. The descriptions of the structure - Structure usage : gas pipeline - Coating : PE Installed in 1987
+
+9
+
+-
+
+The corrosion failure detected in 1991 Parallel with a high voltage AC power line 14[m] away, 4,400[m] length The soil at the site was the slightly cohesive clay bearing the soils containing the gravel
+
+5.1.2. The results of the various measurements before and after the failure - The maximum possible pipe-to-remote earth AC voltage was 26[V] - The protective on-potential ranged from ­1.45[V] to ­1.50[V]/CSE - The penetration rate of the pit was 1.4[mm/y] - The soil at the failure site was the sandy clay having a pH of 8.8 The resistivity of the soil was 130[m] The AC current density at the pit was calculated to be 1,100[A/m2]
+
+5.1.3. The characteristics of the corrosion No detailed data available 5.1.4. How could it be concluded that it was AC corrosion? The cause of the corrosion could not be identified at that time. However, it was concluded that the corrosion was AC induced corrosion due to the extremely high AC current density calculated for the pit site. 5.2. The Case 2 5.2.1. The descriptions of the structure - Structure usage : Oil product pipeline - Coating : PE - Installed in 1976 - The corrosion attack detected in 1994 - The on-potential of ­1.27[V]/CSE was kept - Shared the power line corridor across the north end of Toronto 5.2.2. The results of the various measurements before and after the failure - The maximum possible pipe-to-remote earth AC voltages was 12[V] - The protective potential at the pit was more negative than ­1.18[V]/CSE The soil resistivity near the pit was 300[m] The reddish brown corrosion product had a pH of 10.7 The AC current density was calculated to be 200[A/m2] The average corrosion rate was 0.61[mm/y]
+
+10
+
+5.2.3. The characteristics of the corrosion No detailed data available 5.2.4. How could it be concluded that it was AC corrosion? The following made it possible to conclude that it was AC corrosion. - The potential of the pit area was under the cathodic protection criteria - The negative response for the sulfate reducing bacteria - The high AC current density of 200[A/m2] which was well above 100[A/m2] threshold 5.3. The Case 3 5.3.1. The descriptions of the structure - Structure usage : Natural gas pipeline - Coating : Coal tar - Installed in 1972 - The corrosion anomalies detected in 1995 - The on-potential of ­1.49[V]/CSE was kept - Approximately 40[km] of this 74[km] long pipeline were paralleled by a high voltage power line 5.3.2. The results of the various measurements before and after the detection of the anomalies - The maximum possible pipe-to-remote earth AC voltages was 33[V] - The protective potential at the site was more negative than ­1.05[V]/CSE The moist clay soil resistivity at the site ranged from 1,350[m] to 2,000[m] The pH of the soil adjacent to the pit was higher than 8.2 The AC current density was calculated to be 84[A/m2]
+
+5.3.3. The characteristics of the corrosion - Smooth and generally round or dish-shaped corrosion pit - Most pits covered with a large hemispherical shell of extremely hard soil - The coating around the pit was disbonded bigger than the coating defect size 5.3.4. How could it be concluded that it was AC corrosion? All the possible causes including AC induced corrosion were tested and systematically eliminated all of other possible causes. And the following made it
+
+11
+
+possible to conclude that it was AC corrosion. - The potential of the pit area was under the cathodic protection criteria - The negative response for the sulfate reducing bacteria The high AC current density 5.4. Summary There were no other common characteristics, which represented all of the cases, except the very high AC current density. However, there were a lot of factors, which were quite different from the normal DC corrosion activity and may be the important indicators of AC corrosion activity, as the following. - The very low soil resistivity : This is usually caused by the deicing salt. And this means that the AC current density may be high even if the induced AC voltage is below 15[V]. - The hard soil surrounding the corrosion site : This might be resulted from the localized heating of the soil by the AC current. - The different pit shape : The normal DC corrosion shows the shape of the steepsided pit. However, AC corrosion usually shows the smooth, round as dishshaped. 6. The case of Korea8) 6.1. The descriptions of the structure - Structure usage : Natural gas pipeline - Coating : PE - Installed in 1992 - The corrosion attack detected in 1997 - The protective on-potential ranged from -1.09[V]/CSE to ­2.86[V]/CSE - Parallel with a 22.9[kV] three phase multi grounded neutral power line at varying distance 6.2. The results of the various measurements before and after the corrosion attack detection - The protective potential at the site was more negative than ­1.09[V]/CSE - The AC current density was calculated to be more than 20[A/m2] - The pipe-to-remote earth AC voltages was over 8[V] - No sulphate reducing bacteria 6.3.The characteristics of the corrosion
+
+12
+
+This corrosion attack was found during the routine works of coating holiday detection. The pipelines had been dug out to check the coating defects. So not much of the data, which described the characteristics of the corrosion was available. - Smooth and generally round corrosion pit - The corrosion surface of some location had a hard layer of the oxide 6.4. How could it be concluded that it was AC corrosion? All the possible causes including AC induced corrosion were tested and systematically eliminated all of other possible causes. And the following made it possible to conclude that it was AC corrosion. - The potential of the pit area was under the cathodic protection criteria - The negative response for the sulfate reducing bacteria The high AC current density - There was no sign of other causes 6.5. Summary This was the first case of AC corrosion in Korea. Most of the other AC corrosion cases mentioned above were attributed to the induced AC voltage from the high voltage transmission lines. However, this case was occurred not by the transmission line but by the distribution line. The three phases four wires multi grounding system of the distribution line made it possible to produce enough voltage which could cause AC corrosion on the nearby pipelines. Three phases four wires distribution power system is not popular in European countries, and has been adopted in Korea and some of North American countries. This system has many grounding locations along the power lines. The current, which flows through the grounding electrode produce the induced AC voltage on the pipelines by the resistive coupling. The possibility of which the power lines run parallel with the pipelines is getting higher and higher. This means high probability of AC corrosion. So, appropriate measures must be taken to reduce the possibility of AC corrosion. 7. Summary 7.1. The Characteristics of AC corrosion The eight cases of AC corrosion have been collected and reviewed. With these a few cases, it is difficult to say what the common denominators of the AC corrosion cases are. However, some important characteristics, which most cases show could be helpful to distinguish AC corrosion from DC corrosion. The major characteristics of AC corrosion are as the following:
+
+13
+
+-
+
+Not steep, but round and smooth pit The adhesive corrosion products on the surface The high pH corrosion products The hard soil tubercle around the corrosion site The anions and the cations in the corrosion products
+
+7.2 The onset current density of AC corrosion The fact that AC corrosion depends on AC current density is the common conclusion of the eight cases. However, no case exactly figures out what the onset current density of AC corrosion is. German opinion as shown below is commonly adopted so far. - J < 20[A/m2] : Probably no risk of AC corrosion - J > 20[A/m2] & J < 100[A/m2] : Probably exists but vary with the circumstances - J > 100[A/m2] : AC corrosion 7.3. Measures There is no standard measure against the AC corrosion so far. The only possible way is keeping the induced AC voltage under the limit, which can't cause the AC current density of 20[A/m2] or more. The NACE recommendation9) on the limit of induced AC voltage must be applied carefully because the recommendation was not made for the view of AC corrosion but for the view of human safety. That is, the AC current density can be over 100[A/m2] even if the induced voltage is below 15[V] depending on the circumstances.
+
+References
+1) F. Funk, W. Prinz & H. G. Schoneich, "Untersuchungen zur Wechselstromkorrosion an kathodischer geschutzten Rohrleiturgen", 3R international No. 5, pp. 336-341, 1992. 2) P. Hartmann, "External corrosion on a cathodically protected gas pipeline due to interference from 50 Hz alternating current", 3R international, 30, Issue 10, pp. 584589, 1991. (in German) 3) BMFT-Projekt FE-KKs p. 4/24 A, "Weshselstromkorrosion und kathodischer Schutz-
+
+14
+
+Laborversuche", DVGW (in German) 4) BMFT-Projekt FE-KKs F 5,4/24 B, "Weshselstromkorrosion und kathodischer Schutz-Feldversuche", DVGW (in German) 5) F. Stalder, " Pipeline Failures", Materials Science Forum Vol. 247, pp 139-146, 1997. 6) I. Ragault, "AC Corrosion Induced by V.H.V. Electrical Lines on Polyethylene Coated Steel Gas Line", NACE Corrosion '98, Paper No. 557, 1998. 7) R. G. Wakelin, R.A. Gummow and S. M. Segall, "AC Corrosion ­ Case Histories, Test Procedures, & Mitigation", NACE Corrosion '98, Paper No. 565, 1998. 8) J. H. Bae et al, "Survey on the Corrosion Failure of a Gas Pipelines", Engineering report for KOGAS, 1998.(in Korean) 9) NACE RP0177-95, "Mitigation of Alternating Current and Lightning Effects on Metallic Structures and Corrosion Control Systems", NACE, 1995.
+
+15
+

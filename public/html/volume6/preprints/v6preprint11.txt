@@ -1,0 +1,388 @@
+Volume 6 Paper C016
+
+Potential Dependence of Frictional Coefficient Evaluated by In-situ Nano-scratching for the Passive Iron Surface
+
+Makoto Chiba and Masahiro Seo
+
+Graduate School of Engineering, Hokkaido University, Kita-13Jo, Nishi8Chome, Kita-ku, Sapporo 060-8628, Japan, chiba@elechem1-mc.eng.hokudai.ac.jp
+
+Abstract
+(in air after passivation) nano-scratching tests were performed to the iron single crystal (100) surfaces passivated at 0.0 V ­ 1.0 V (SHE) in pH 8.4 borate solution to evaluate the friction coefficient of the passive surface and its potential dependence. The friction coefficient obtained with in-situ nano-scratching for the passive iron (100)
+
+In-situ (kept potentiostatically in the passive state) and ex-situ
+
+surface was significantly larger than that obtained with ex-situ nano-
+
+scratching. The friction coefficient obtained with ex-situ nanoscratching was almost independent of potential in the passive region. On the other hand, the friction coefficient obtained with in-situ nano-
+
+scratching increased with increasing potential in the passive region. These results were explained in terms of a series of mechano-
+
+electrochemical reaction such as the film rupture, active dissolution and repassivation taking place at the moving front of the indenter during in-situ nano-scratching.
+
+Keywords: Nano-scratching test, Friction coefficient, Single crystal iron, Passive film
+
+Introduction
+studies reported so far were focused on the chemical properties [1There have been many studies of passive films on metals. Most of
+
+13] such as composition, structure and thickness of passive film, semiconductive properties, were few while studies there on or
+
+mechanical properties of passive films on metals. Recently reported chemical it that has been the or
+
+electrochemical properties of passive metal surfaces correlate their mechanical properties to some extent [14-19]. If the correlation between chemical or electrochemical and mechanical properties is made clear, the mechano-electrochemical knowledge valuable for better understanding of the passivity breakdown and repassivation will be acquired. The recent development of nano-indentation or nano-scratching
+
+technique has made feasible to evaluate the mechanical properties of friction coefficient [20-25]. In our previous studies [15,17-19], the
+
+surface thin films on solids such as hardness, elastic modulus or first attempt of in-situ nano-indentation and in-situ nano-scratching
+
+in solution to the single crystal iron surfaces as kept at a constant
+
+potential in the passive region succeeded in getting the substantial information regarding the nano-mechano-electrochemical properties of the passive surfaces. and ex-situ (in air after passivation) nano-scratching techniques were In this study, in-situ (kept potentiostatically in the passive state)
+
+applied to the single crystal iron (100) surfaces passivated at various
+
+2
+
+potentials in pH 8.4 borate solution to evaluate the friction coefficient of the passive iron surface and its potential dependence.
+
+Experimental
+Single crystal iron (100) disk-plate with a diameter of 10 mm and a thickness of 1.4 mm were used for experiments. The iron specimen constant current density of 32 mA cm-2 in a mixture of 70 % HClO4 and was mechanically polished and then finally electropolished with a glacial CH3COOH (1 : 20) at 17 °C. The electrolyte solution employed specimen was performed with a potentiostatic polarization at 0.0 V ­ 1.0 V (SHE) for 1 h in pH 8.4 borate solution, after cathodic reduction of an air-formed film at a constant current density of ­30 µA cm-2 for 10 min. A small electrochemical cell made from Diflon was specially designed for in-situ nano-scratching test in solution. Platinum ring and wire were used as counter and reference electrodes, respectively.
+
+for passivation was pH 8.4 borate solution. The passivation of the iron
+
+The transducer (Hysitron Co. Ltd., Triboscope) for nano-scratching was combined with AFM (Digital Instruments, Nanoscope IIIa) in which and normal and lateral displacements (DN and the electrochemical cell was set. Normal and lateral forces (FN and FL),
+
+D L)
+
+can
+
+be
+
+measured
+
+simultaneously by using this transducer. The iron specimen potenstatically passivated at various potentials in the passive region for 1 h in pH 8.4 borate solution at 25 °C. The scratching was
+
+in-situ
+
+nanoon was the passive
+
+performed the same
+
+specimen surface kept at potential in pH 8.4 borate solution after passivation for 1 h. The ex-
+
+3
+
+situ nano-scratching was also performed on the specimen taken out
+from the solution in air after passivation, washed with milli-Q filtered water and dried with a jet of nitrogen gas. A conical diamond indenter with a tip radius less than 1 µm and an included angle of 90 degree was employed for nano-scratching and attached to a tungsten rod for use in liquid. After nano-scratching test, the morphology of the scratched area can be observed with AFM by using the same tip used for nano-scratching. the tip was indented to the sample surface by a normal force, FN, in the Figure 1 shows the outline of nano-scratching process. At first,
+
+range of 100 ­ 1000 µN and then the tip was moved to the lateral
+
+direction under the constant normal force for 10 s at a scratching rate
+
+of 0.2 µm s-1 between a distance of 2 µm to obtain a lateral force, FL,
+
+displacement, DL. The friction coefficient, µ', is defined with dividing a lateral force, FL, by a normal force, FN, [26] as represented by Eq. (1).
+
+and a normal displacement, DN, respectively, as a function of lateral
+
+µ' = FL / FN
+
+(1)
+
+Results and Discussion
+Figure 2 shows the potentiodynamic anodic polarization curve of the iron (100) surface measured with a potential sweep rate of 100 mV min-1 in pH 8.4 borate solution. The vertical arrows in Fig. 2 represent the potentials at which the nano-scratching tests were performed. of passive film formed potentiostatically on a polycrystalline iron formation potential and is in the range of 2 ­ 5 nm as shown in a dashed line of Fig. 2. coefficient, µ', as a function of lateral displacement, DL, obtained with µN for the iron (100) surface passivated at 0.25 V (SHE) for 1 h in pH Figure 3 shows the normal displacement, DN, and friction According to the ellipsometrical results by Sato et al. [2], the thickness
+
+surface for 1 h in pH 8.4 borate solution increases linearly with film
+
+in-situ (kept at 0.25 V) nano-scratching at a normal force of FN = 500
+
+increasing lateral displacement, DL, passing through a maximum, and 4
+
+8.4 borate solution. The normal displacement, DN, increases with
+
+increases monotonously with increasing lateral displacement, DL, and coefficient is independent of the lateral
+
+attains a steady state. On the other hand, the friction coefficient, µ',
+
+attains a steady state. In the steady state region where the friction
+
+displacement, the friction coefficient is insensitive to displacement. steady friction Here, the change in the normal state value the of was
+
+coefficient
+
+employed for discussion. Figure 4 shows the AFM image area and of for the the the height-profile scratched after
+
+passive iron (100) surface scratching
+
+in-situ
+
+nanoThe the can
+
+groove produced by the scratching resultant and protrusion
+
+test.
+
+be observed clearly from the AFM image. From the height-profile along the dashed line in the AFM image of Fig. 4, it is seen that the depth of the groove, DG, is 50 ­ 100 nm, which is less than the normal displacement, DN, of 70 ­ 120 nm in Fig. 3 a). This difference between
+
+contribution of plastic deformation. Furthermore, as seen from the are less than the changes of DN with DL, which may be caused by the size effect of the tip because the tip radius (< 1 µm) is not sufficiently small to measure exactly the bottom depth of the groove.
+
+DG and DN may be ascribed to the contribution of elastic deformation to DN, since DN contains both contributions of elastic and plastic deformation, while DG after the scratching contains only the
+
+comparison between Fig. 3 a) and Fig. 4 b), the lateral changes of DG
+
+5
+
+the iron (100) surfaces passivated at 0.25 V and 0.75 V (SHE) for 1 h in
+
+force, FN, obtained with in-situ and ex-situ nano-scratching tests to
+
+Figure 5 shows the friction coefficient, µ', as a function of normal
+
+pH 8.4 borate solution. Here, these friction coefficients were obtained by averaging the values measured 10-20 times at each normal force and their standard deviations were 25%. A single crystal may exhibit non-isotropic dependence of friction coefficient on scratching direction. In the present nano-scratching tests, the scratching direction was not specified. The effects of scratching direction on friction coefficient, even they are present, might be masked in the standard deviation of are independent of normal force within the standard deviation of 25 %, while with coefficients, µ', obtained the friction nanodeformation behavior which would provide the
+
+25 %. The friction coefficients obtained with in-situ nano-scratching
+
+scratching increase with increasing normal force,
+
+ex-situ
+
+FN. It should be noted that
+the friction coefficients of obtained with
+
+the iron (100) surfaces
+
+nano-scratching test are larger than those obtained scratching test. Moreover, the friction coefficient of the passivated iron (100) at 0.75 surface V with
+
+in-situ
+
+ex-situ
+
+nano-
+
+obtained by in-situ nano-
+
+scratching test is larger than that of the iron (100) surface passivated at 0.25 V. In contrast, there is no significant difference between the friction coefficient of the iron (100) surface test. passivated 0.25 V and 0.75 V obtained with ex-situ nano-scratching
+
+6
+
+and ex-situ nano-scratching tests under the normal forces, FN = 100 µN and 1000 µN are plotted as a function of potential for the iron (100) surface passivated at various potentials, E. The friction increasing
+
+In Figs. 6 and 7, the friction coefficients, µ', obtained with in-situ
+
+coefficients obtained with in-situ nano-scratching test increase with scratching have no significant potential dependence. The potential
+
+potential, while those obtained with ex-situ nano-
+
+nano-scratching under FN = 100 µN is larger than that (0.18 V-1) under
+
+dependence (0.24 V-1) of the friction coefficient obtained with in-situ
+
+FN = 1000 µN. The normal displacements, DN, under FN = 100 µN and 1000 µN are 30 nm and 150 nm, respectively, irrespective of in-situ and ex-situ nano-scratching, which are much larger than the
+thickness (2 ­ 5 nm) of passive films as seen from the dashed line in Fig. 2. This means that the thickness of passive film does not significantly affect the friction coefficient, which is consistent with the no significant potential dependence of the friction coefficients obtained with ex-situ nano-scratching. In contrast, it seems difficult to explain the significant potential dependence of the friction account a series of mechano-electrochemical reaction which would scratching as discussed later.
+
+coefficient obtained with in-situ nano-scratching without taking into
+
+take place at the moving front of the indenter tip during in-situ nanoIt is generally accepted that the lateral force, FL, consists of the
+
+adhesion term, Fa, and the ploughing term, Fp [26].
+
+FL = Fa + Fp
+The adhesion term, Fa, is given by
+
+(2)
+
+Fa = sA
+
+(3),
+
+where A is the horizontal cross sectional area of the conical indenter
+
+tip in contact with the sample surface (see Fig. 1) and s is the shear defined with dividing FN by A [20]. strength at the scratched interface. Hardness of material surface, H, is
+
+H = FN / A
+
+(4)
+
+7
+
+By substituting Eq. (4) into Eq. (3), the adhesion term, Fa, is represented as follows.
+
+Fa = s (FN / H )
+therefore, is given by
+
+(5)
+
+The contribution of the adhesion term to the friction coefficient, µ'a,
+
+µ'a = s / H
+
+(6).
+
+The ploughing term, Fp, is represented by
+
+Fp = A' pf
+
+(7),
+
+where A' is the vertical cross sectional area of the conical indenter tip
+
+pressure of materials against nano-scratching. The proportional relation holds between A and A' from the geometry of a conical indenter. If the conical indenter has an ideal geometry (ø = 45°), the
+
+in contact with the sample surface (see Fig. 1) and pf is the plastic flow
+
+proportional constant is k = A' / A = (cot ø) /  = 0.318 [26]. The ploughing term, Fp, therefore, can be replaced by
+
+Fp = k A pf
+represented as follows.
+
+(8).
+
+By substituting Eq. (4) into Eq. (8), the ploughing term can be
+
+Fp = (k pf / H) FN (9)
+is eventually given by The contribution of the ploughing term to the friction coefficient, µ'p,
+
+µ'p = k pf / H
+
+(10).
+
+adhesion and ploughing terms is eventually represented by
+
+The net friction coefficient, µ', containing both contributions of
+
+µ' = µ'a + µ'p = s / H + k pf / H
+
+(11).
+
+indentation is about 3 GPa [17], from which µ'a is estimated to be less
+
+room temperature [27] and the value of H obtained with nano-
+
+For a single crystal iron, the value of s is less than 100 MPa at
+
+8
+
+than 0.033. Assuming that pf is equivalent to H [26], µ'p = 0.318 is the experimental values obtained with ex-situ nano-scratching in the range of FN < 300 µN for the passive iron (100) surface. The experimental value, however, deviates upward from the estimated value range of FN > 300 µN. with increasing FN in the estimated from Eq. (10). The net value of µ' is 0.35, which is close to
+
+FN suggests that pf is not equivalent to H for the
+passive iron surface. It considered that the has so far plastic been [26] flow
+
+The dependence of µ' on
+
+materials,
+
+pressure, pf, is peculiar to of
+
+independent
+
+i.e.,
+
+normal force, FN. It is deduced from the present results that the plastic materials themselves but also the normal force, FN. Furthermore, the
+
+the
+
+flow pressure, pf, against nano-scratching does not only depend on
+
+experimental values of µ' obtained with in-situ nano-scratching are which could not be explained without consideration taking a series of
+
+significantly larger than those obtained with ex-situ nano-scratching, into
+
+mechano-electrochemical
+
+reaction (such as the film rupture, active dissolution from the rupture sites and the repassivation) taking place at the moving front of nano-scratching. Since the indenter tip during in-situ the
+
+normal displacement, DN, is thickness of passive film, the
+
+significantly larger than the
+
+9
+
+passive film is ruptured at the moving front of the indenter tip during
+
+nano-scratching. In case of ex-situ nano-scratching, the rupture sites in case of in-situ nano-scratching, active dissolution from the rupture
+
+of passive film would be repaired by air-oxidation. On the other hand, sites and followed by the repassivation would take place. The repassivation may be promoted by a potential difference between the iron substrate at the rupture sites and solution. The repassivation rate, therefore, increases with increasing film formation potential. The pile up of the passive film due to repassivation would provide the high impedance against the movement of the indenter tip to increase the friction coefficient. The significant potential dependence of the friction the increase in repassivation rate due to the increase in the potential coefficient obtained with in-situ nano-scratching may be explained by
+
+difference between the iron substrate and solution. No significant
+
+nano-scratching may be explained by the constant repassivation rate due to air oxidation. At present, there is no appropriate explanation for the potential dependence of friction coefficient obtained with inmechano-electrochemical reaction such as film rupture,
+
+potential dependence of the friction coefficient obtained with ex-situ
+
+situ nano-scratching except for the assumption that a series of
+
+dissolution from the rupture sites and the repassivation takes place at the moving front of the indenter tip.
+
+active
+
+Conclusions
+nano-scratching tests for the iron (100) surface passivated at 0.0 V ­ 1.0 V (SHE) for 1 h pH 8.4 borate solution. The following conclusions were drawn from the in-situ and ex-situ
+
+1) The friction coefficient obtained with in-situ nano-scratching for the passive iron (100) surface was always larger than that of obtained with ex-situ nano-scratching.
+
+2) The friction coefficient of the passive iron (100) surface obtained
+with in-situ nano-scratching increased with increasing the passive film formation potential. In contrast, the friction coefficient
+
+obtained with ex-situ nano-scratching had no significant potential 10
+
+dependence. It has been proposed that a series of mechano-electrochemical reaction active dissolution (film rupture, and
+
+repassivation) takes place at the moving front of the indenter during
+
+nano-scratching in order to scratching.
+
+in-situ
+
+explain the large friction coefficient obtained with in-situ nano-
+
+Acknowledgement
+This work was supported by a Grant-in-Aid for Scientific Research from the Ministry of Education, Science, Sport, and Culture, Japan (No. 13450288).
+
+References
+1. M. Nagayama and M. Cohen, J. Electrochem. Soc., 109, pp781790, 1962. 2. N. Sato, K. Kudo and T. Noda, Electrochim. Acta, 16, pp1909-
+
+1921, 1971.
+
+3. J. W. Schultze and U. Stimming, Z. Phys. Chem. N. F., 98, pp285302, 1975. 4. N. Sato, J. Electrochem. Soc., 123, pp1197-1199, 1976. 5. M. Seo and N. Sato, J. B. Lumsden and R. W. Staehle, Corros. Sci., 17, pp209-217, 1977. 6. M. Sakashita and N. Sato, Corrosion, 35, pp351-355, 1979.
+
+11
+
+7. C. Y. Chao, L. F. Lin and D. D. Macdonald, J. Electrochem. Soc., 128, pp1187-1194, 1981. 8. B. D. Cahan and C.-T. Chen, J. Electrochem. Soc., 129, pp921-
+
+925, 1982.
+
+9. N. Sato, Corrosion, 45, pp354-368, 1989. 10. A. J. Davenport and M. Sansone, J. Electrochem. Soc., 142, pp725-730, 1995.
+
+11. L. J. Oblonsky, A. J. Davenport, M. P. Ryan, H. S. Isaacs and R. C. Newman, J. Electrochem. Soc., 144, pp2398-2404, 1997. 12. M. Büchler, P. Schmuki and H. Böhni, J. Electrochem. Soc., 145,
+
+pp609-614, 1998.
+
+13. A. J. Davenport, L. J. Oblonsky, M. P. Ryan and M. F. Toney, J.
+
+Electrochem. Soc., 147, pp2162-2173, 2000.
+
+14. S. Mischler, A. Spiegel and D. Landolt, Wear, 225-229, pp10781087, 1999. 15. M. Seo, M. Chiba and K. Suzuki, J. Electroanal. Chem., 473, pp49-53, 1999. 16. D. Landolt, S. Mischler and M. Stemp, Electrochim. Acta, 46,
+
+pp3913-3929, 2001.
+
+17. M. Seo and M. Chiba, Electrochim. Acta, 47, pp319-325, 2001. 18. M. Chiba and M. Seo, Corrosion Science, 44, pp2379-2391,
+
+2002.
+
+19. M. Chiba and M. Seo, J. Electrochem. Soc., submitted 20. W. C. Oliver and G. M. Pharr, J. Mater. Res., 7, pp1564-1583, 1992.
+
+21. B. Bhushan (Ed.), Handbook of Micro / Nano Tribology, CRC Press, New York, 1995.
+
+12
+
+22. S. E. Harvey, H. Huang, S. K. Venkataraman and W. W. Gerberich,
+
+J. Mater. Res., 8, pp1291-1299, 1993.
+
+man, Acta Metall. Mater., 41, pp2855-2865, 1993.
+
+23. N. A. Stekmashenko, M. G. Walls, L. M. Brown and Yu. V. Mil-
+
+24. W. W. Gerberich, S. K. Venkataraman, H. Huang, S. E. Harvey and D. L. Kohlstedt, Acta Metall. Mater., 43, pp1569-1576, 1995. 25. W. D. Nix, Mater. Sci. Eng., A 234-236, pp37-44, 1997. 26. D. F. Moore, Principles and Applications of Tribology, Pergamon Press, Oxford, 1975. 27. Y. Aono, E. Kuramoto and K. Kitajima, Rep. Res. Inst. Appl. Mech., Kyushu Univ. XXIX, pp127-193, 1981.
+
+13
+

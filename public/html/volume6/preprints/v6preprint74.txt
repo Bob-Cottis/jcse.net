@@ -1,0 +1,172 @@
+Volume 6 Paper H018
+
+EROSION CORROSION OF COATINGS EXPOSED IN A FLUIDISED BED TEST RIG
+
+Anders Hjörnhede and Anders Nylund
+
+Materials Science and Engineering, Chalmers University of Technology SE 412 96 Göteborg, Sweden, anders.hjornhede@me.chalmers.se, anders.nylund@me.chalmers.se
+Abstract Low alloyed steel tubes deposited with 18 different coatings were exposed in a fluidised bed test rig. The material temperature was 550°C, the erodent silica (SiO2) and the gas environment air. The coatings used in this study were commercially available ones based on Fe, Ni, Co and carbides deposited with the HVOF (High Velocity OxyFuel), arc-spray and laser cladding techniques. After 30 days of exposure the coated tubes were dismounted and the material degradation quantified in terms of diameter reduction and roundness measurements. Further, the tubes were sectioned and the coating cross-sections subjected to a metallographic examination. By processing the data a classification was done. The performance of the thermally sprayed coatings was better compared to what was shown by the laser deposited ones. It is suggested that the larger erosion resistance is due to the presence of hard carbides and oxide inclusions in the coatings. Keywords: thermal spraying, laser cladding, erosion corrosion
+
+Introduction
+
+The importance of the fluidised bed combustion (FBC) technology during production of heat and electricity is steadingly increasing, due to its economical and environmental advantages. The FBC:s in service can be either bubbling or circulating and they may work under atmospheric or pressurised conditions. A drawback with the technique is however that components such as heat exchangers and superheater tubes are susceptible to erosion-corrosion. A solution to the problem is to cover exposed low alloyed steel components with protective coatings. Field studies have shown that the coating performance is strongly dependent on the type of fuel used and the atmospheric conditions developed [ref. 1]. The corrosion resistance of Co- and Fe-based coatings in power plants fired with coal is good, while in biomass fired plants they are subjected to corrosion and erosion-corrosion, respectively [ref. 1]. The best overall performance when comparing different types of plants and fuels is usually shown by Ni-based coatings and the worst by carbidecontaining coatings [ref. 1]. In order to obtain a deeper understanding of the coating degradation processes taking place in commercial thermal plants, there is a need of a reference study under wellcontrolled conditions. The aim of this paper is therefore to determine the erosion-corrosion resistance of coatings deposited with the arcspray, High Velocity Oxyfuel (HVOF) and laser techniques during exposure in a laboratory test rig with air as the fluidising gas and a controlled particle flow.
+
+Experimental
+
+2
+
+a)
+
+b)
+
+Figure 1a) Illustration of the test rig with the exposure positions of the test tubes. b) The lengthwise measurement positions on the tube surface.
+
+A specially designed erosion-corrosion test rig made of stainless steel has been used for the exposures, Fig. 1a. The cross-sectional dimension of the bed vessel is 0.2 m x 0.3 m and the bed height is 0.86 m. Electrical heat radiant elements are mounted around the rig. The erodent material was the commercial product "Silversand 90", which consists of SiO2 with an average particle diameter of 0.7 mm, a sphericity of 0.8 and a density of 2.6 g/cm3. The volume of the
+
+erodent material in the bed was 48 dm3. Air enters the bed through eleven evenly distributed nozzles located at the bottom of the vessel. The minimum fluidisation velocity (Umf) was calculated to be 0.25 m/s an excess gas velocity (Uex) of 0.15 m/s at the test temperature continuously monitoring the bed pressure and temperature. The tube set consists of 59 tubes, of which 21 are exchangeable and used for the experiments. The tube length is 260 mm. In order to calibrate the material wastage at these positions reference tubes made of (Fe18.1Cr10.1Ni1.3Mn0.5Si0.3Mo0.2Cu0.02C) were exposed at 550°C for 1440 h. Coatings deposited 3 on low-alloyed steel tubes AISI 304L stainless steel and the superficial velocity (Ufl) is measured to be 0.4 m/s resulting in 546±1°C. Three probes at different positions (see Fig. 1a) are
+
+(Fe0.15C1Cr0.5Mo) with the arc-spray, High Velocity Oxy-fuel (HVOF) and laser cladding techniques were then exposed in the same positions. The coating compositions are given in Table 1. In order to reflect the commercial use of coated tubes in FBC boilers no pretreatment of the tube surfaces was performed prior to exposure. The exposure time was 720 h at the same operational conditions as used for the reference tubes.
+
+Table 1 Coatings used in this study; coating techniques and compositions.
+
+4
+
+Before exposure the reference tubes were finish-turned to an outer
+Tube position 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 17 19 20 21 Metco 3007 Metcoloy 2 HMSP 1616 HMSP 1660 Inconel 625 Metcoloy 2 Metcoloy 2 Duroc 5171 Duroc 5177 Metco 443 NS Metco 43C NS Metco 8443 Duroc 17x1%C Stellite 21 Stellite 6 Amdry 995C 95 MXC Eutronic 508 Metcoloy 2 HVOF HVOF HVOF HVOF HVOF Arc spray/air Arc spray/air Laser cladding Laser cladding Laser cladding Laser cladding Laser cladding Laser cladding Laser cladding Laser cladding Laser cladding Arc spray/air Arc spray/air Arc spray/N2 80Cr3C216Ni4Cr Fe12.4Cr0.6Ni0.4Mn0.4Si0.36Mn Ni19.5Cr1.0Mn1.0Si0.5Fe0.2C Ni14.8Cr4.3Si3.5Fe3.1B0.75C Ni21.5Cr9.0Mo3.6Nb2.5Fe0.3Si0.05C Fe12.4Cr0.6Ni0.4Mn0.4Si0.36Mn Fe12.4Cr0.6Ni0.4Mn0.4Si0.36Mn Ni21.5Cr9Mo3.65Nb2.5Fe<0.5Mn<0.5Si Ni26.8Cr8.4Mo1.7Fe1.4C0.9Nb0.7Si (NiCr)6Al Ni20Cr Ni18Cr6Al Ni25.0Cr8.8Mo1.9Fe1.9Nb1.0C0.7Si Co27.0Cr5.5Mo2.8Ni0.9Si0.25C<2.0Fe Co28.5Cr4.2W1.1C1.0Si<2.0Ni<1.5Fe Co32Ni21Cr8Al0.5Y Fe30Cr Co30Cr8W3Fe1.7C1Mn1Ni Fe12.4Cr0.6Ni0.4Mn0.4Si0.36Mn Coating Method Composition (wt%)
+
+diameter of 26.4 mm to obtain a smooth surface. The tube diameter was measured at every 30th degree around the tubes at three different 5
+
+lengthwise positions as illustrated in Fig. 1b. In order to compensate for surface irregularities the surface topography was continuously recorded in a roundness profilometer (Mitutoyo Roundtest RA-116). The topography was then superimposed on the diameter and integration gives the area of the cross-section. By repeating the same measurement procedure after exposure and subtracting the crosssectional area of the exposed tube from the corresponding area of the non-exposed tube the material wastage could thereby be estimated. Exactly the same characterisation was made on the coated tubes before and after exposure.
+
+Results and discussion
+Figure 2 shows the material wastage with the circumferential angle as recorded on five 304L tubes positioned at different heights along a vertical line in the test rig (tubes 2, 7, 10, 18 and 21 according to Fig. 1a). The measurements were made in position B on the tube surfaces as defined in Fig. 1b. The appearance of the wastage profiles and the degree of material degradation is the same for tubes 10, 18 and 21 with two wastage maxima observed at the circumferential angles 150° and 225°. The material wastage on the tube at the lowest position
+2 7 10 18 21
+
+60 55 50
+
+Wastage rate [µm/1000h]
+
+45 40 35 30 25 20 15 10 5 0 0 50 100 150 200 250 300 350
+
+Circumferential angle [º]
+
+6
+
+(tube 2) is much less and only one wastage maximum is recorded on the central part on the tube underside. Tube 7 shows a transient behaviour in between that of tube 2 and the tubes in the upper part of the bed. The erosion pattern shown by tube 2 is usually referred to as Type B behaviour, while the wastage profiles of the upper tubes display a typical Type A behaviour [ref. 2]. The difference in wastage behaviour is due to changes in the hydrodynamic conditions [ref 3,4]. It has been suggested [ref. 5] that the Type B behaviour observed in the lower region of the bed is a result of erosion from bubbles that are small in comparison to the bed cross-section and therefore are not constrained by the bed walls. In the upper regions of the bed coalescence into single bubbles, creates a more constrained flow pattern and the wastage profile changes to Type A.
+
+The absolute material loss in position B on the tube surface as a function of exposure position in the test rig is given in Fig. 3 for the
+Figure 2. Material wastage profiles for selected tubes at different heights above the air distributor plate.
+
+reference 304L- tubes (green colour). An inspection of the figure bars reveals that on the same level above the air distributor plate (e.g. tubes 10, 11 and 12) the material degradation is less on the tubes closest to the vessel walls. The red coloured bars show the same parameter as measured for the coatings. The type of coatings located at the specified exposure positions can be seen from Table 1. The fluidisation conditions have been identical in both cases except for the exposure time which was twice as long during the reference experiment.
+
+7
+
+100000 90000 80000
+
+Coating Reference
+
+Material loss [µm /1000h]
+
+70000 60000 50000 40000 30000 20000 10000 0 0 2 4 6 8 10 12 14 16 18 20 22
+
+2
+
+Exposure position in test rig
+
+Figure 3. Absolute material loss on reference tubes [green] and coatings [red] as a function of exposure position.
+
+In order to obtain a comparison with regard to the different exposure positions in the test rig a normalisation was done. The absolute material loss of each coating was divided by the material loss of the reference tube at the corresponding position. The difference in exposure time was accounted for. This relative material loss is presented in Fig. 4 as an average value between the relative material losses as calculated at the three lengthwise tube positions; 80, 130 and 180 mm, (see Fig 1b). It is clearly seen that the coatings deposited with the laser technique are subjected to a higher degree of material loss than the thermally sprayed ones. The erosion rate is 4 (Duroc 5177, Metco 43C NS, Duroc 17x1%C, Stellite 6 and Amdry 995C) to 9 times higher (Metco 8443) than for the reference tubes exposed at the
+
+8
+
+same
+
+positions.
+
+On
+
+comparison
+HVOF Arc-spray Laser
+
+the
+
+10 9 8
+
+Relataive Material Loss
+
+7 6 5 4 3 2 1 0 1 2 3 4 5 6 7+8 9 10 11 12 13 14 15 16 17 18 19 20 21
+
+Exposure position in test rig
+
+Figure 4. Relative material loss for coatings in the test rig.
+
+material
+
+relative
+
+losses of the thermally sprayed coatings are all within the interval 1 (Metcoloy 2, HVOF) to 3.5 (HMSP 1616, HVOF). The Ni-based materials, HMSP 1616, HMSP 1660 and Inconel 625 along with the Cobased Eutronic 508 show the highest erosion rates in this category. There is no observed correlation between the Cr-concentration and the erosion resistance. Despite the same Cr-content (21.5 wt%) and almost the same composition the degree of material loss is 2.5 times larger on the laser deposited Duroc 5171 coating than on the HVOF deposited Inconel 625 coating. The microstructure from the laser deposited coatings is mainly free from pores and oxides, while the thermally sprayed coatings contain 9
+
+significant amounts of oxide inclusions and pores, Table 2. The content of oxide phases in the arc-sprayed Metcoloy 2 coatings is about 15% and the porosity about 3%. The corresponding values for the HVOF-deposited HMSP-1660 coating are 1.9% and 3.7%
+
+respectively. A cross-section of a Metcoloy 2 coating, deposited with the arc-spray technique is shown in Fig. 5a. The layered splatter structure which is typical for arc-sprayed coatings is clearly seen. The black areas are pores and the brownish are Cr ­ rich oxides, [ref. 6]. Figure 5b shows the microstructure of a HVOF deposited HMSP-1660 coating. The porosity is somewhat larger compared to the arc-sprayed coatings, but the oxide phase content is reduced. The microstructure of laser coated Stellite 21 is homogenous and virtually free from pores and oxides, Fig. 5c.
+Table 2. Oxide phase content and porosity for some selected coatings. Coating Duroc 5177, laser Metco 443, laser Stellite 21, laser Metcoloy 2, arc-spray, air as carrier gas Oxide phase content [%] ~0 ~0 ~0 15.1 Porosity [%] ~0 ~0 ~0 2.8
+
+Metcoloy 2, arc-spray, N2 as carrier gas HMSP 1660, HVOF
+
+14.0
+
+2.9
+
+1.9
+
+3.7
+
+Hardness measurements were performed on some coatings which had not been exposed in the test rig. In Table 3 the results are compared with the ones obtained for the exposed tubes. The results show that except for the Metcoloy 2 coating which was arc-sprayed in N2­gas the coatings are slightly softer after exposure. A suggestion for the softening is that the coatings are subjected to recovery and stress relief processes which usually take place at temperatures just below or around the exposure temperature. Considering the Metcoloy 2 coatings the hardness of the oxide phase is larger than that of the metal phase. Thus, the coating is strengthened by the oxide phase. 10
+
+a)
+
+b)
+
+c)
+
+Figure 5. Cross-sections of exposed coatings a) Metcoloy 2, Arc-sprayed in air b) HMSP 1660, HVOF deposited c) Stellite 21, laser deposited (Optical microscopy).
+
+From the experimental results shown above it is clear that the Metco 3007 coating performed very well. The high erosion corrosion resistance has been attributed to the formation of a skeleton network of hard oxide/carbides within a ductile binder [ref. 7]. The coating 1300 HV at 550ºC [ref. 8]. The hardness decrease of Al2O3 and ZrO2 at the same temperature is small compared to that of the metal matrix [ref. 8]. Most likely Cr2O3 shows the same behaviour. It is therefore suggested that the erosion resistance of the thermally sprayed coatings at elevated temperatures is associated with the presence of hard carbide or oxide phases. The correlation between hardness and erosion rate is not straightforward even if the erosion rate is considered to decrease with the coating hardness. It has been stated 11 contains 80 wt% Cr3C2 particles, of which the hardness is about 1000-
+
+that the oxides must be small and well dispersed [ref. 9]. The results in the present study contradict this statement, since the oxide inclusions in the arc­sprayed coatings are relatively large and nondispersed. An improved erosion performance at high temperatures due to the reinforcement of a metal coating with a secondary hard phase has also been observed in a previous study [ref. 10]. The requirement is however that the inter­droplet cohesion is high, either by choice of spray technique or quantity of particles, else the opposite effect is displayed.
+
+temperature. Coating
+
+Table 3 Hardness of the coatings in unexposed and exposed conditions at room
+
+Coating hardness, before exposure [kg/mm2]
+
+Coating hardness, after exposure [kg/mm2] 411 324 411 288 281 768
+
+Hardness of [kg/mm2] 371 404 -
+
+oxide phase
+
+Duroc 5177, laser Metco 443, laser Stellite 21, laser Metcoloy 2, air as carrier gas Metcoloy 2, N2 as carrier gas HMSP 1660, HVOF
+
+450 500 320 260 -
+
+The coating performance during exposure in commercial fluidised bed boilers differs from the laboratory studies [ref. 1]. Metco 3007 tends to oxidise and delaminate from the substrate when exposed in biomass fired boilers at material temperatures of 420ºC and 550ºC. Arcsprayed Metcoloy 2 ­ coatings are also subjected to severe high temperature corrosion during combustion of biofuel. The corrosion attack results in an increased material loss rate and the performance of thermally sprayed coatings in biomass fired boilers is generally weak. However, in the same environments, Stellite 21 and Duroc 12
+
+17x1%C coatings deposited with the laser technique showed no significant corrosion attacks and only a low degree of erosion. Hence, the results from the boiler exposures in comparison with the results terms of material loss. from this study points out that the chemical environment is decisive in
+
+Conclusions
+Twenty coating qualities as deposited with the arc spray, HVOF and laser cladding techniques have been exposed in an erosion test rig under controlled conditions. The conclusions are drawn as follows; Laser deposited coatings are subjected to a higher degree of erosion than thermally sprayed coatings. The coating hardness at the exposure temperature is of major importance. Coatings containing sufficient amounts of oxides or carbides which are relatively hard at the exposure temperature are subjected to a less degree of erosion. The Cr- and Ni- contents seem to be of minor importance for the erosion resistance. The coating performance at elevated temperatures is strongly dependent on the chemical environment.
+
+Acknowledgements
+The KME (Consortium for Material Technology directed towards Thermal Energy Processes) are acknowledged in financing this project. Midroc Metalock AB and Duroc Energy AB are also acknowledged for production of the coatings.
+
+References
+1. Hjörnhede A. and Nylund A., "Performance of erosion corrosion resistant coatings in different combustion environments", 7th Liege Conference Materials for Advanced Power Engineering, Materials for 13
+
+Advanced Power Engineering, eds. J- Lecomte-Beckers, M. Carton, F. Schubert and P. J. Ennis, Part II, (2002), 979-988. 2. Stringer J., Macadam S. S., Wright I. G. and Sethi V. K., Effect of process variables on wastage in fluidized-bed combustors- criteria for test procedures, Jornal De Physique IV, 3(C9), 797-805. 3. Macadam S. S. and Stringer J., The circumferential distribution of wastage on in-bed tubes in fluidized-bed combustors, Wear, 186(1), 325-331. 4. Hou P. Y., Macadam S. S., Zhang H. and Stringer J., Summary of results from the Berkely in-tube erosion simulator, Materials at High Temperatures, 14(3), 325-335. 5. Johansson K., Norling R., Hjörnhede A., Almstedt A-E., Johnson F. and Nylund A., "Hydrodynamics and erosion on horizontal tubes in a fluidized bed at elevated temperature", Submitted to Chemical Engineering Science. 6. Hjörnhede A. and Olefjord I., Erosion Corrosion of Thermally
+
+Sprayed Fe12Cr and Cr3C2 ­ NiCr Coatings, Proc. 5th Int. Symp. On High-Temperature Corrosion and Protection of Materials, Les Embiez, France, May 22 ­ 26, 2000, eds R. Streiff, I.G. Wright, R.C. Krutenat, M. Caillet and A. Galerie, (2001), 507 ­ 514. 7. Wang B. Q., Luer K., The erosion-oxidation behaviour of HVOF Cr3C2 ­ NiCr cermet coating, Wear, 174 (1994) 177-185. 8. Materials Science and Technology: Structure and Properties of Ceramics. Swain m. (Ed), vol 11, VCH (1994).
+
+9. Hoop P. J., Allen C., The high temperature erosion of commercial thermally sprayed metallic and cermet coatings by solid particles, Wear, 233-235 (1999), 334-341. 10. Haeth G. R., Kammer P. A. and Stack M.M., The High Temperature Erosion/Corrosion Behavior of Industrial Thermally Sprayed Coatings, Thermal Spray: Practical Solutions for Engineering Problems, ASM International (1996), 29-37. 14
+

@@ -1,0 +1,215 @@
+Volume 5 Preprint 3 Effects of Benzotriazole on the Localized Corrosion of Copper Nickel Alloys in Sulfide Polluted Salt Water
+N.K.Allam, E.A.Ashour, H.S.Hegazy and B.G.Ateya*
+National Research Centre, Physical Chemistry Department, Electrochemistry and Corrosion Laboratory, Egypt, E-mail: Nageh@psu.com * Chemistry Department, Faculty of Science, Cairo University, Egypt, E-mail: bgateya@yahoo.com
+
+Abstract
+Benzotriazole (BTAH) affects the localized corrosion of Cu10Ni alloy in 3.4% NaCl salt water containing 2 ppm sulfide ions. BTAH concentrations > 5 x 10-4 M imparted corrosion inhibiting efficiency that increased with its concentration. On the other hand, a concentration of 10-4 M BTAH acted as a promoter of pitting corrosion of the alloy in the above medium. The results of optical and scanning electron microscopy could be rationalized on the basis of competitive adsorption of BTAH and sulfide ions on the alloy surface, the simultaneous formation of the protective cuprous oxide and the nonprotective copper sulfide and the incorporation of sulfide ions in the anion deficient lattice structure of Cu2O. The presence of the above phases was identified in the x-ray diffraction spectra of the corrosion products. Key words: copper, nickel, alloy, sea water, pitting, benzotriazole, inhibitor, sulfide pollution, competitive adsorption.
+
+1-Introduction
+Copper-nickel alloys are extensively used in marine environments because of their high resistance to corrosion and biofouling [1,2]. Although pipes made from stainless steel or titanium alloys have higher erosion corrosion resistance than copper
+
+alloys, they have lower heat transfer coefficients, suffer from biofouling and are more costly. Thus ship designers and many land-based power plants [1,3] prefer to use copper nickel alloys. The corrosion resistance of Cu-Ni alloys is attributed to their ability to form protective films of corrosion products on their surfaces. Among these corrosion products, Cu2O plays a vital role in the corrosion protection of Cu-Ni alloys in seawater [4-10]. The inner Cu2O layer is able to incorporate foreign cations that affect its protective properties [11]. Some authors [7,8] suggested that the incorporation of nickel ions in the defective lattice of Cu2O decreases its ionic and electronic conductivity and hence increases its corrosion resistance. Conversely, sulfide ions may affect the integrity and hence the protective characters of the Cu2O layer. Eiselstein [12] reported that in aerated sulfide-polluted seawater the accelerated corrosion of copper-nickel alloys appears to be the result of the sulfide preventing the formation of a protective oxide corrosion product layer. Instead a relatively hard and porous Cu2S layer is formed which has poor protection efficiency against corrosion. The similarity between the oxide and sulfide ions suggests the possibility of incorporation of sulfide ions in the Cu2O lattice (see below). On the other hand, the Cu2O layer is also important for the adsorption of benzotriazole (BTAH), which is a well known inhibitor for the corrosion of copper and its alloys, and is a source of Cu+ ions which are used in the formation of the protective Cu(I)-BTA complex [13]. The incorporation of sulfide ions in the defective lattice of Cu2O is bound to affect the protective properties of the film and hence the corrosion behaviour of the alloy and its response to the use of BTAH (see below). The objective of this paper is to study inhibiting effect of BTAH on the corrosion of Cu10Ni alloy in sulfide polluted salt water. The importance of this work
+
+2
+
+stems from the following: (a) BTAH has been widely studied as a corrosion inhibitor for copper and its alloys in non-polluted media, (b) many natural and industrial water streams are polluted with sulfide ions which are well known corrosion promoters, and (c) the simultaneous presence of sulfide ions and BTAH raise some basic questions about their tendency to interact with the alloy surface.
+
+2- Experimental
+The copper-nickel alloy was supplied by Abu-Keer power station, Alexandria, Egypt containing 87.6% Cu, 10.7% Ni, 1.2% Fe and 0.55% Mn. Rectangular coupons (3 x 2 x 0.1 cm) were polished successively down to 2000 grade SiC papers, degreased with ethanol and finally washed with distilled water. Each coupon was suspended in a 100 ml beaker using glass hooks through holes in the corners of the specimens and allowed to corrode for varying lengths of time, from 5 to 120 h at room temperature (24 ± 2 0C). At the end of the run, the specimens were removed from the solution and rinsed with distilled water. The corroded alloy surfaces were examined using a scanning electron microscopy (SEM, JOEL, JSM-T 20, Japan) and an optical microscope (Wild M 50, Herbrugg, Switzerland). Solutions were prepared with reagent grade chemicals and doubly distilled water. Na2S was obtained from Ridel-de Haën and benzotriazole was obtained from Aldrich Chemical Co. Ltd. All measurements were performed in a solution containing 3.4% NaCl which has a comparable salt level to that of seawater. In view of the value of pK1 of H2S (pK1  7), one concludes that the predominant sulfide species in the polluted medium is HS-.
+
+3
+
+3- Results and Discussions
+3.1 Optical micrographs Figs.1 and 2 display optical micrographs of the corroded alloy surfaces after 5 h of immersion in unpolluted (3.4% NaCl) and in polluted (3.4% NaCl + 2 ppm HS-) media, respectively. Various colours are seen in the corrosion products. The colours of some relevant copper compounds are listed in Table (1). Table (1): The colours of some relevant copper compounds. Compound Cu2O CuO Colour Red Black Cu2Cl2 Cu2(OH)3Cl White Green CuCl2 Yellow Cu(OH)2 CuOH Blue gel Blue Cu2S Black CuS Black
+
+Many of these colours can be seen in Figs.1 and 2. One can easily recognize the abundance of the rose red color of Cu2O and the blue colors of CuOH and Cu(OH)2 in Fig.1 and their substantial absence in Fig.2. The presence of Cu2O is in agreement with the results of earlier works which identified Cu2O in the corrosion products of some copper alloys after immersion for 1 h [14]. Conversely, Fig.2 shows a much lower intensity of Cu2O, CuOH (and Cu(OH)2) and more abundant white and yellow color of presumably Cu2Cl2 ,CuCl2 and many black spots indicating the presence of Cu2S and CuS. The presence of these phases in the corrosion product was confirmed using x-ray diffraction (XRD) [15]. However, some of these black spots might be pits [16]. The corrosion product in the polluted medium is darker than that in the unpolluted medium. This may be attributed to the presence of black CuS and Cu2S on the corroded alloy surface in the polluted medium, both of which were identified using XRD in the corrosion product [15]. This was associated with an increase of several folds in the corrosion rate of the alloy caused by the presence of the sulfide ions [15].
+
+4
+
+Jacobs et al [17] reported that the presence of sulfides increased copper corrosion rates via the formation of a black scale. At a given oxygen/sulfide ratio, Cu2O, Cu2S and CuS will all tend to form on a competitive basis [18]. Because these compounds have different crystal structures, a significant mismatch is likely to occur where one growing crystal impinges on a neighboring crystal of a different structure. The resulting structural defects render the corrosion product film less protective [18].
+
+3.2 Corrosion reactions
+The corrosion reaction in the unpolluted medium is believed to proceed through the following partial reactions [19]: 2Cu + H2O = Cu2O + 2 H+ + 2 e½ O2 + 2 H+ + 2 e- = H2O anodic cathodic (1) (2)
+
+with an overall corrosion reaction represented by 2 Cu + ½ O2 = Cu2O (3)
+
+The resulting Cu2O passivates the surface of the alloy and hence progressively decreases its corrosion rate. On the other hand, in presence of sulfide ions, competing partial anodic reactions involving HS- ions contribute to the corrosion reaction [20, 21], i.e. HS-(aq) + Cu = HS-:Cu (4)
+
+where HS-:Cu refers to an HS- ion adsorbed onto the alloy surface. The adsorbed HSions promote the anodic dissolution reaction, i.e. HS-:Cu = CuS + H+ + 2 e2 HS-:Cu = Cu2S + H2S + 2 e(5) (6)
+
+Combination of the competing partial anodic reactions (Eq. 5 and 6) with the partial cathodic reaction (Eq.2) leads to the following alternate overall corrosion reactions:
+
+5
+
+HS- + Cu + ½ O2 = CuS + OHHS- + 2 Cu + ½ O2 = Cu2S + OH-
+
+(7) (8)
+
+Both Cu2S and CuS are known to be nonprotective [12] or even corrosion promoters [17, 22]. Both have been identified among the corrosion product [15]. The deterioration of the protective characters of Cu2O may also be caused by the incorporation of the sulfide ions into the defective lattice structure of Cu2O, which is known to be anion deficient [23]. The ionic radii of the oxide, O2-, and sulfide, S2-, ions are 1.32 and 1.84 , respectively [24]. Consequently, the incorporation of the (larger) sulfide ion in the (smaller) oxygen vacancy generates considerable strain in the Cu2O lattice. In the event these strains are generated, one expects the resulting Cu2O to be less coherent, more brittle and hence less protective.
+
+3.3 Effects of BTAH
+The effects of BTAH are shown in Figs.3a-d for: (a) 10-2, (b) 10-3 and (c and d) 10-4 M BTAH (c and d representing different regions of the corroded surface). Fig.3a shows a well protected surface indicating that BTAH at 10-2 M inhibits the corrosion of the alloy efficiently. The mechanism of inhibitive action of BTAH is believed to include an adsorption step followed by an electrochemical reaction, i.e. HTAH(aq) + Cu = BTAH:Cu (9)
+
+where BTAH:Cu refers to BTAH adsorbed on the copper surface. This is followed by an electrochemical reaction, i.e. BTAH:Cu = Cu(I)BTA + H+ + e(10)
+
+where Cu(I)BTA is a polymeric complex that forms a protective film [25-30]. Alternatively, the Cu(I)BTA complex may form directly from BTAH and Cu+ ions coming from Cu2O or from the dissolution of the metal, i.e.
+
+6
+
+BTAH + Cu+ = Cu(I)BTA + H+
+
+(11)
+
+An increase in the concentration of BTAH in the electrolyte promotes reactions (9-11) in the forward direction, that is towards more coverage of the alloy surface with adsorbed BTAH and/or the protective complex Cu(I)BTA. On the other hand, Fig.3b shows some mild localized attack within protected regions indicating a lower inhibiting efficiency of BTAH (at 10-3 M) than that seen with the 10-2 M BTAH. Figs. (3 c and d) represent different regions of the surface of the alloy that was inhibited by 10-4 M BTAH. Both reveal various degrees of general and localized attack on the alloy surface. Fig.3c shows a region that suffered much more damage than that shown in Fig.3d. The noteworthy feature here is the extensive pitting in presence of 10-4 M BTAH, which is much more than that observed in the unprotected media without and with the sulfide ions, see Figs. (1 and 2). It is shown elsewhere that BTAH at this concentration inhibits the corrosion of the alloy in the unpolluted medium [15]. This indicates that at this low concentration of BTAH (10-4 M) and in presence of 2 ppm sulfide ions, BTAH promotes the localized corrosion of the alloy. A similar phenomenon was observed by Walker [31] for Cu immersed in ammonium hydroxide and ferric chloride in the presence of BTAH who found that BTAH promoted the corrosion reaction compared to that of the unprotected medium. This finding adds to the evidence that insufficient levels of anodic inhibitors promote localized corrosion [3234]. The corresponding results obtained after 24 h of immersion are shown in Figs. (4 and 5) for unpolluted and polluted media, respectively. The changes in the appearance of the corrosion products reflect changes in their composition and amount. For example, the rose red color of Cu2O in Fig. 1 disappeared and a yellow corrosion
+
+7
+
+product appeared along with some localized attack in the unpolluted medium (see Fig. 4). On the other hand, the appearance of the corrosion product in the polluted medium indicates more of the green product (Cu2(OH)3Cl) compared to that seen at shorter exposure times (see Fig. 2). The morphologies of the alloy surfaces after corroding in the polluted medium in presence of different concentrations of BTAH are shown in Figs. (6a, b and c) for 10-2, 10-3 and 10-4 M BTAH, respectively. The corrosion products are darker than those seen after 5 h of exposure under comparable conditions; see Fig. (3 a-c). While Figs. (6 a and b) show uniform changes of the surface, Fig. (6c) at 10-4 M BTAH shows evidence of localized attack. While the alloy surface shown in Fig. (6a) appears to be well protected, the surface in Fig. (6b) underwent corrosion to a greater extent than that in Fig. (3 b) obtained after 5 h of exposure and otherwise the same conditions. This evidence indicates that the 10-3 M BTAH concentration is gradually losing its efficiency in protecting the surface against the corrosive attack of the polluted medium. Fig. (7) is a representative optical micrograph of the alloy surface that was corroded for 72 hours in the unpolluted medium. Note the red, yellow, green and blue colors of the various corrosion products and the localized changes in the intensity of the attack. On the other hand, Figs. (8a and b) represent different regions of the alloy surface that was corroded in the polluted medium for 72 h. Comparison of Figs. 7 and 8 (after 72 h) with Figs. 4 and 5 (after 24 h) and Figs. 1 and 2 (after 5 h) indicate that the extent of sulfide attack increases with the time of immersion. The effects of BTAH after 72 h of exposure are shown in Fig. (9 a, b and c) for 10-2, 10-3 and 10-4 M BTAH, respectively. Fig. 9a (10-2 M BTAH) displays a well protected surface. On the other hand, Fig. 9b indicates that the 10-3 M BTAH is losing
+
+8
+
+its efficiency in protecting the alloy surface which is undergoing general corrosion. It is instructive here to compare Fig. 9b (72 h of exposure to the polluted medium in presence of 10-3 M BTAH) to Fig. 1 (5 h of exposure in absence of sulfide and BTAH). Both surfaces appear to undergo general corrosion producing similar corrosion products. Fig. 9c (at 10-4 M BTAH) reveals severe pitting attack. Note the localized blue and green colors around the openings of the pits. The corresponding results obtained after 120 h of exposure are shown in Figs. 10 and 11 for unpolluted and polluted media, respectively. There is no significant change in the colors of the corrosion products in the polluted media between Fig. 8 (at 72 h) and Fig. 11 (at 120 h). On the other hand, the green and blue colors that were quite evident in Fig. 7 (after 72 h of exposure in the unpolluted medium) have disappeared in Fig. 10 (after 120 h in the same medium) The effects of BTAH are shown in Fig. 12 a-c (after 120 h of exposure to the polluted media in presence of various concentrations of BTAH. Note the extensive pitting in Fig. 12c (10-4 M BTAH), the general attack in Fig. 12b (10-3 M BTAH) and the well protected surface in Fig. 12a (10-2 M BTAH).
+
+3.4 SEM micrographs
+The corroded surfaces were also inspected using a scanning electron microscope. The effect of exposure time in the polluted medium on the morphology of the corroded alloy surface is shown in Figures 13-16 for exposure times of 5, 24, 72 and 120 h, respectively. They clearly reveal the dangerous growth of the extent of localized corrosion with the time of exposure. On the other hand, Figure 17 shows the morphologies of the alloy surfaces which were corroded for 120 h in the polluted medium in presence of (a)10-2, (b)10-3 and (c)10-4 M BTAH, respectively. Fig. (17a), for 10-2 M BTAH, shows a well protected surface after 120 h of exposure. On the
+
+9
+
+other hand, Fig (17b),for 10-3 M BTAH, shows evidence of general corrosion while Fig. (17c) shows localized corrosion. Inspection of the above micrographs reveals that sulfide ions cause severe attack on the surface of the Cu10Ni alloy in 3.4% NaCl that increases with the time of immersion. On the other hand, the use of BTAH at concentrations  5 x 10-4 M decreases the corrosion damage on the surface of the alloy. While BTAH at 10-2 M BTAH retains its high inhibiting efficiency against the corrosive attack in the polluted medium, an inhibitor level of 10-3 M BTAH gradually losses its efficiency. On the other hand, BTAH at 10-4 M is clearly a promoter of localized corrosion in the polluted medium while it was shown elsewhere to protect the alloy in the unpolluted medium [15].
+
+3.5 Competitive adsorption
+The above results can be rationalized on the basis of competitive adsorption of HS- and BTAH [21] on the alloy surface and the promoting effects of sulfides on the rates of the anodic and cathodic partial reactions [17,35]. In the presence of HS- and BTAH in the same medium, BTAH competes with HS- for adsorption on the active sites of the surface [21], i.e. BTAH aq + HS-:Cu = BTAH:Cu + HS-aq (12)
+
+Reaction (12) is shifted more in the forward direction with increase in the concentration of BTAH in the medium. Consequently, the formation of Cu(I)BTA on the surface is favored (see Eq. 9-11). In this case, the coverage of the alloy surface with adsorbed HS- ions decreases. Hence, the rates of reactions (5-8) decrease.
+
+10
+
+For such a competitive adsorption process and assuming the applicability of the Langmuir isotherm, it can be readily shown that the degrees of coverage of the surface with HS- (HS-) and with BTAH (BTAH) are given by [21]:
+
+HS- = K HS- [HS-] / (1+ K HS- [HS-] + K BTAH [BTAH]) BTAH = K BTAH[BTAH] / (1+ K HS- [HS-] + K BTAH [BTAH])
+
+(13) (14)
+
+where K refers to the equilibrium constant of adsorption of the particular species, i.e. reactions 4 and 9 for HS- and BTAH, respectively. Equations (13) and (14) indicate that an increase in the concentration of BTAH in the medium decreases HS- and increases BTAH and hence decreases the rates of reactions (5-8). The formation of the protective Cu(I)BTA film may be represented by Eqs. (7-9). Conversely, an increase in the concentration of HS- in the medium increases HS- (and the rates of Eqs. 5-8) and decreases BTAH and hence the rates of Eqs.7-9, resulting in more aggressive attack and lower inhibiting efficiency of BTAH.
+
+4 Summary and conclusions
+The present work reveals the effects of sulfide ions (at 2 ppm) and benzotriazole (BTAH) (10-4 ­ 10-2 M) on the corrosion of Cu10Ni alloy in 3.4% NaCl at room temperature. The following points represent major conclusions: 1- Sulfide ions alter the composition and hence properties of the corrosion product film which normally protects the alloy during its corrosion in unpolluted 3.4% NaCl. The initial (5 h) corrosion product in the polluted medium is substantially devoid of Cu2O, CuOH and Cu(OH)2, which are essential components of the protective film that grows on the alloy surface in unpolluted 3.4% NaCl.
+
+11
+
+2- The presence of sulfide ions in the medium (2 ppm) promotes localized attack on the alloy surface. The nucleation of pits was detected during the first few hours of immersion. They grow rapidly with exposure time causing extensive damage to the alloy. 3- Benzotriazole (BTAH) prevented localized corrosion of Cu10Ni alloy in sulfide polluted saltwater provided that its concentration remains  10-3 M BTAH. 4- A concentration of 10-3 M BTAH was not enough to prevent general corrosion of the alloy in the polluted medium up to exposure times of 120 h. However, the same level of BTAH concentration showed very high efficiency against general corrosion of the alloy in the unpolluted 3.4% NaCl over much longer exposure times. 5- The presence of low concentration (10-4 M) of BTAH accelerates localized corrosion in the polluted medium at early times of exposure while it inhibits corrosion in the unpolluted 3.4% NaCl. The subject calls for more systematic studies at various concentrations of both BTAH and HS- using techniques with higher resolution to gain more insight into the prevailing mechanisms.
+
+12
+
+References
+1- C.A.Powell and H.T.Michels, Copper-Nickel Alloys for Seawater Corrosion
+Resistance and Antifouling- A state of the Art Review, Corrosion March 2000, NACE.
+
+2- A.H.Tuthill, Materials Performance, 26 (1987) 12. 3- F.L.LaQue and H.R.Copson, Corrosion Resistance of Metals and Alloys, Reinhold
+Publishing Corporation, New York (1963) p.592.
+
+4- C.Kato, J.E.Castle, B.G.Ateya and H.W.Pickering, J. Electrochem. Soc., 127 (1980)
+1897.
+
+5- D.D.Macdonald, B.C.Syrett and S.S.Wing, Corrosion, 34 (1978) 289. 6- P.Druska and H.H.Strehblow Corros. Sci., 38 (1996) 1369. 7- R.G.Blundy and M.J.Pryor, Corros. Sci., 12 (1972) 65. 8- R.F.North and M.J.Pryor, Corros. Sci., 10 (1970) 297. 9- H.Shih and H.W.Pickering, J. Electrochem. Soc., 134 (1987) 1949. 10- A.M.Beccaria and J.Crousier, Br. Corros. J., 24 (1989) 49. 11- Cited in C.B.Breslin and D.D.Macdonald, Electrochim. Acta, 44 (1998) 643. 12- L.E.Eiselstein, B.C.Syrett, S.S.Wang and R.D.Caligiuri, Corros. Sci., 23 (1983) 223. 13- Z.Xu, S.Lau and P.W.Bohn, Surf. Sci., 296 (1993) 57. 14- B.G.Ateya, E.A.Ashour and S.M.Sayed, J. Electrochem. Soc., 141 (1994) 72. 15- Nageh K. Allam, Corrosion Inhibition of Cu10Ni Alloy in Sulfide Polluted Salt
+Water, M.Sc. Thesis, Cairo University, Egypt, 2003.
+
+16- J.P.Gudas and H.P.Hack, Corrosion, 35 (1979) 67. 17- S.Jacobs and M.Edwards, Water Research, 34 (2000) 2798. 18- B.C.Syrett, Corrosion, 33 (1977) 257. 19- D.Tromans and R.H.Sun, J. Electrochem. Soc., 138 (1991) 3232; D.Tromans, J.
+Electrochem. Soc., 145 (1998) L 42.
+
+20- J.N.Alhajji and M.R.Reda, J. Electrochem. Soc., 142 (1995) 2944. 21- H.S.Hegazy, E.A.Ashour and B.G.Ateya, J. Applied Electrochem., 31 (2001) 1261.
+
+13
+
+22- B.C.Syrett, Corros. Sci., 21 (1981) 187. 23- K.H.Schulz and D.F.Fox, Physical Review B, 43 (1991) 1610. 24- Handbook of Chemistry and Physics, 54th Edition, Robert C. Weast, Editor, CRC
+Press, Cleveland, Ohio (1973) p. F-194.
+
+25- H.Yeung, H.Chan and M.Weaver, J. Langmuir, 15 (1999) 3348. 26- P.G.Fox, G.Lewis and P.G.Boden, Corros. Sci., 19 (1979) 457. 27- T.Hashemi and C.A.Hogarth, Electrochim. Acta, 33 (1988) 1123. 28- M.R.Vogt, W.Polewska, O.M.Magnussen and R.J.J.Behm, J. Electrochem. Soc., 144
+(1997) LI 13.
+
+29- C.Tomkvist, D.Thierry, J.Bergmaii, B.Liedberg and C.Leygraf, J. Electrochem. Soc.,
+136 (l989) 58.
+
+30- M.R.Vogt, R.J.Nichols, O.M.Magnussen and R.J.J.Behm, J. Phys. Chem. B, 102
+(1998) 5859.
+
+31- R.Walker, Corrosion, 29 (1973) 290. 32- M.J.Pryor and M.Cohen, J. Electrochem. Soc., 100 (1953) 203. 33- Ulick R. Evans, An Introduction to Metallic Corrosion, Edward Arnold Publishers,
+LTD., 2nd. Edition, London (1963) p. 151.
+
+34- J.C. Scully, The Fundamentals of Corrosion, Pergamon Press, New York (1990) p.
+136.
+
+35- M. Vazquez and S.R.Desanchez, J. Appl. Electrochem., 28 (1998) 1383.
+
+14
+
+Fig. 1: Optical micrograph of the Cu10Ni alloy surface after 5 hours of immersion in 3.4% NaCl under free corrosion conditions.
+
+Fig. 2: Optical micrograph of the Cu10Ni alloy surface after 5 hours of immersion in 3.4% NaCl + 2 ppm S2- under free corrosion conditions
+
+15
+
+(a) 10-2 M
+
+(b) 10-3 M
+
+(c) 10-4 M
+
+(d) 10-4 M
+
+Fig. 3: Optical micrograph of the Cu10Ni alloy surfaces after 5 hours of immersion in 3.4% NaCl + 2 ppm S2- with different concentrations of BTAH under free corrosion conditions
+
+16
+
+Fig. 4: Optical micrograph of the Cu10Ni alloy surface after 24 hours of immersion in 3.4% NaCl under free corrosion conditions
+
+Fig. 5: Optical micrograph of Cu10Ni alloy after 24 hours of immersion in 3.4% NaCl + 2 ppm S2- under free corrosion conditions
+
+17
+
+(a) 10-2 M
+
+(b) 10-3 M
+
+(c) 10-4 M
+Fig. 6: Optical micrograph of Cu10Ni alloy after 24 hours of immersion in 3.4% NaCl + 2 ppm S2- with different concentrations of BTAH under free corrosion conditions
+
+18
+
+Fig. 7: Optical micrograph of the Cu10Ni alloy surface after 72 hours of immersion in 3.4% NaCl under free corrosion conditions
+
+19
+
+Fig. 8: Optical micrographs of the Cu10Ni alloy after 72 hours of immersion in 3.4% NaCl + 2 ppm S2- under free corrosion conditions
+
+Fig. 9: Optical micrograph of Cu10Ni alloy after 72 hours of immersion in 3.4% NaCl + 2 ppm S2- with different concentrations of BTAH under free corrosion conditions
+
+20
+
+Fig. 10: Optical micrograph of the Cu10Ni alloy surface after 120 hours of immersion in 3.4% NaCl under free corrosion conditions
+
+Fig. 11: Optical micrograph of Cu10Ni alloy after 120 hours of immersion in 3.4% NaCl + 2 ppm S2- under free corrosion conditions
+
+21
+
+Fig. 12: Optical micrograph of Cu10Ni alloy after 120 hours of immersion in 3.4% NaCl + 2 ppm S2- with different concentrations of BTAH under free corrosion conditions
+
+22
+
+Fig. 13: SEM micrographs of the Cu10Ni alloy after 5 hours of immersion in 3.4% NaCl + 2 ppm S2- under free corrosion conditions. (a) and (b) represent two different regions of the alloy surface.
+
+23
+
+Fig.14: SEM micrograph of Cu10Ni alloy after 24 hours of immersion in 3.4% NaCl + 2 ppm S2- under free corrosion conditions
+
+Fig. 15: SEM micrograph of Cu10Ni alloy after 72 hours of immersion in 3.4% NaCl + 2 ppm S2- under free corrosion conditions.
+
+24
+
+Fig. 16: SEM micrograph of Cu10Ni alloy after 120 hours of immersion in 3.4% NaCl + 2 ppm S2- under free corrosion conditions
+
+25
+
+Fig. 17: SEM micrographs of Cu10Ni alloy after 120 hours of immersion in 3.4% NaCl + 2 ppm S2- under free corrosion conditions in presence of different concentrations of BTAH, (a) 10-2, (b) 10-3 and (c) 10-4 M
+26
+

@@ -1,0 +1,92 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 1
+Influence of Heat Treatment on the Corrosion of Microalloyed Steel in Sodium Chloride Solution
+Abdullah I. Almarshad and Sk A. Hossain Corrosion Research Group, AERI
+King Abdulaziz City for Science and Technology P.O. Box 6086, Riyadh ­ 11442, Saudi Arabia Fax: + 966 1 481 3887
+
+asiful_s@yahoo.co.in ABSTRACT In the present investigation corrosion resistance property of E34 microalloy steel has been studied in NaCl solution with concentrations of 0.001M, 0.01M, 0.03M, 0.1M, and 1M NaCl in different microstructural condition such as, as rolled and three repeated quenched conditions. Standard Potentiodynamic Polarization method has been used. It was found that with repeated recrystallization grains become finer and corrosion rate increases for all concentrations suggesting that a compromise has to struck between high mechanical property and corrosion rate. Corrosion rate increased with the concentration of chloride ions upto 0.03M NaCl and then it decreased for all and corrosion potential moves to higher cathodic side as the concentration of chloride ions increased. 1. INTRODUCTION Microalloyed Steels finds wide application in car bodies and other engineering parts because of its high strength as well as high ductility. Very fine grained microstructure is the reason behind the combination of strength and ductility. It has been reported that(1,2) repeated recrystallization leads to further refining of microstructure. Microalloyed Steel has a ferritic matrix that of a mild steel but with an extremely fine grained structure. Alloying additions of niobium and titanium of the order of micro additions brings this refinement in the microstructure. The combination of high strength and ductility of this steel is due to very fine grain structure. One of the methods of further refinement of grain is repeated recrystallization(1,2). Corrosion behavior of steel and the effects of microstructure on such behavior are still an open field for investigation to correlate the metallurgical concept with the corrosion parameters. Only few authors(3-7) have investigated the influence of heat treatment on corrosion behavior of steel in different solution. In the present study, the effect of different concentration of NaCl on the corrosion property of as rolled and repeatedly quenched (recrystallized) microalloyed steels has been studied by potentiodynamic polarization techniques.
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+2. EXPERIMENTAL: 2.1 Materials: The materials, which are commonly called Nb-bearing commercial
+
+microalloyed steel E-34 grades with chemical composition (weight%) Fe, 0.060C, 0.57Mn, 0.008S, 0.012P, 0,020Si, 0,055Al, 0.012Nb. 2.2 Heat Treatment: Four numbers square-section specimen strips of size (10mm x 10mm x 5mm) were cut out with the help of a hack saw from the hot rolled steel plate keeping the long axis of the strips parallel to the rolling direction as determined from the metallographic analysis of the as received microalloyed steel plate and were prepared for heat treatment after grinding in a wheel. In the heat treatment firstly, set the furnace at a temperature of 6000C, just below the lower critical temperature. Out of 4 samples, 3 samples of were kept in the furnace at a temperature of 6000C, just below the lower critical temperature and heated at the scheduled temperature for 45 minutes to get uniform heating of the entire cross-section. After that the samples were taken outside and immediately put into a water bath. The samples were quenched until the temperature came down to room temperature. Now 1 sample was taken out and 2 others were heat treated in similar way, out of which 1 was taken out and other 1 was treated again in same way. During cooling in the quenching bath continuous stirring of the bath has been carried out in all the treatment cycles for uniform heat transfer. All heat treatment cycles were carried out in a Muffle Furnace coupled with a proportional temperature controller with an accuracy level of ± 200C. The furnace atmosphere was not controlled.
+
+2.3. Sample Preparation:
+
+One of the surfaces of the each metallographic specimens as
+
+received [designates as AR], first quench [designates as Q1], second quench [designates as Q2] and third quench [designates as Q3] of each grade were grounded mechanically on the silicon carbide abrasive papers sequentially on 60, 120, 240, 320, 400, 600 grit silicon carbide papers and polished on a Sylvet cloth using coarse and fine Geosyn- Grade I slurry of Al2O3. Specimens were cleaned, washed by water and then by alcohol and dried. All the polished specimens were etched using 2% Nital solution (2% HNO3 in Methanol). With these polished and etched samples optical microscopy, grain size measurement and hardness testing were carried out.
+
+2
+
+2.4 Optical Microscopy, Grain Size Measurement and Hardness Testing: The microstructure were observed, studied and compared while the etched specimens were tested under the optical microscope one by one. Lastly, the photographs of the microstructure were taken with help of a Camera fitted with a microscope. Grain size of each specimen were measured by using areal image analysis with the help of an image analyzing software- Biovis Material Plus- version 1.3; after the metallography of each specimen. ASTM Grain Size Number of the specimens were given in Table 1. Vickers Hardness of the metallographic specimens were carried out in a standard Vickers Hardness Testing machine using square-base diamond pyramid as the indenter and a load of 30kg as per ASTM Standard E92-72. Tests were carried out at least in three different positions on the polished surface of the specimens and average of them was reported in Table 2 as the hardness value of each specimens.
+
+2.5 Corrosion Rate Measurement by Potentiodynamic Polarization method: Polarization studies are carried out in commercially available electrochemical cell. For the present work, the cell was a simple device consisting of a 600ml corning glass beaker fitted with a perplex lid having openings for the working electrode, the counter/auxiliary electrode and the reference electrode. As introduced before the strips of E-34 grade with differently treated conditions were used as working electrode. Specimens were machined into a cuboidal form with an exposed area 1 cm2.An insulated copper wire was secured to one of the surface of each steel specimens with solder at low temperature. The specimens were mounted with epoxide resin in such a way that only the other flat surface contacted with the solution. This flat surface of each specimen was polished mechanically in graded emery paper and final finish was given on a polishing wheel using alumina powder. The polished surface was then thoroughly washed and digressed in ethanol before used and dried at room temperature. For polarization studies with these specimens, 0.001M, 0.01M, 0.03M, 0.1M, and 1M NaCl solution was used as the electrolyte. The electrolyte was prepared from the commercial grade of NaCl and distilled water. Electrochemical experiments were performed in a conventional three- electrode assembly with microalloy steels strips as the working electrode (WE), graphite rod as the counter electrode (CE)
+
+3
+
+and saturated calomel electrode(SCE) as the reference electrode (RE) to which all potentials are referred. The electrochemical cell was properly cleaned and finally washed with distilled water. 500ml.of electrolyte solution was used at a time in the cell for each individual run for polarization measurement. Freshly polished electrodes (specimens) were placed into the electrochemical cell and were pre-exposed to the test solution to attain steady state. Before each experiments, first obtaining the steady state open circuit potential(Ecorr) with sample period 20sec which usually takes different holding times for different concentrations of NaCl after immersion shown in Figure 5 to Figure 8, then potentiodynamic cathodic and anodic polarization curves were obtained with a scan rate 0.2mV/s within the potential range from ­1.2 V vs. Eref to + 1.0 mV vs. Eref..The potentiodynamic polarization diagram are shown in Figure 9 to Figure 12, from where Icorr values are calculated by using Tafel Extrapolation Method. Gamry Instrument, an Electrochemical Measurement Potentiostat was used with a windows based corrosion software Gamry Instrument Framework version 4.02, 2002. 3. RESULTS AND DISSCUSSION: It is found from the Table 1 that ASTM Grain Size Number increases for repeated quench samples. This is because due to repeated recrystallization some new grains grow at the expense of others and a coarse grained material (as rolled) replaces the fine grained recrystallized structure. Hardness values confirm this as it is seen from Table 2 that hardness values increases for quenched samples due to grain refinement. The effect of grain size on the corrosion current density of E34 microalloyed steels in different microstructural viz. as rolled condition and three repeated recrystallised conditions in NaCl solution was studied . From Table 3, it can be found that due to repeated quenching Icorr values are increasing. Grain refinement achieved in repeated quenching renders greater anodic area than coarser grained structure(4). Hence corrosion rate also increases. It is found from the Potential vs. time plot that open circuit potential or Ecorr moves to more cathodic (negative) value with increase in NaCl concentration (Table 4). It is also find that the time to reach the steady state potential decreased as we go for higher NaCl concentration. These behaviors has been found for as received as well as the three repeated samples. It is found from Table 3, that with increase in concentration of NaCl the corrosion rate will increase first upto 0.003M NaCl (3% NaCl) then it will decrease for higher concentrations for as rolled as 4
+
+well as three repeated quench samples. Corrosion rate as a function of NaCl concentrations are shown in Figure 13.
+
+4. Conclusions: Due to repeated recrystallization the ferritic grain size number of the as rolled microalloy steel become increases which indicates refinement of grains. I
+corr
+
+values increases for repeated quenched samples implies that corrosion rate
+
+increases as grain refinement increases. The time taken for steady state open circuit potential i.e. Ecorr will decrease for higher concentrations of NaCl. Ecorr values moves to more cathodic region indicates with increase in NaCl concentrations Ecorr values decreases. Corrosion rate is maximum for 0.03M NaCl concentration as the I corr values increases first with NaCl concentration then it decreases for higher concentration. References: 1. B K Panigrahi : " Processing of low carbon steel plate and hot strip-an overview", Bull. Matter. Sci., 24(4), 361-371 (2001.). 2. Robin M Forbes Jones and Laurence A Jackman: JOM, 51(1), 27-31 (1999). 3. Uhlig H H: Corrosion and Corrosion Control, Wiley, New York, 109-111 (1963). 4. Luo H, Guan Y C and Han K N: Corrosion, 54(8), 619-627 (1998). 5. M.E. Kamp and H.E. Trout.: Corrosion 24, 11 (1968). 6. H.J. Cleary and N.D. Greene: Corros. Sci., 7, 821 (1969). 7. H.J. Cleary and N.D. Greene: Corros. Sci., 9, 3 (1969).
+
+5
+
+Fig. 1 As Received E34 microstructure, Magnification:4x40 X
+
+Fig. 2 First Quench E34 microstructure , Magnification: 4x40 X.
+
+Fig. 3 Second Quench E34 microstructure , Magnification: 4x40 X.
+
+6
+
+Fig. 4 Third Quench E34 microstructure , Magnification: 4x40 X.
+Table 1 ASTM Grain Size E-34 E-38 BSK-46 As Received 10.0 9.3 9.1 First Quench 10.5 9.7 9.7 Second Quench 10.8 10.2 10.5 Third Quench 11.0 10.7 10.8
+
+Table 2 Hardness Values (VHN) E-34 E-38 BSK-46 As Received 146 141 195 First Quench 167 151 201 Second Quench 170 154 210 Third Quench 172 156 215
+
+Table:3 Icorr values at different concentration of NaCl NaCl Conc. (M) 0.001 0.01 0.03 0.1 1 As Received 5.37 6.2 8.9 5.01 4.23 Icorr ( µ amp.) First Quench Second Quench 7.93 13.3 9.58 14.7 13.5 15.7 10.4 11.5 6.67 7.72 Third Quench 13.6 14.4 17.6 12.5 8.58
+
+7
+
+Table: 4 Ecorr values at different concentration of NaCl NaCl Conc. (M) 0.001 0.01 0.03 0.1 1 Ecorr (mV) First Quench Second Quench -476 -482 -494 -516 -620 -655 -647 -617 -630 -643
+
+As Received -564 -630 -650 -665 -687
+
+Third Quench -577 -639 -619 -647 -688
+
+Fig. 5 Potential vs. Time plot of E34 As Received Sample.
+
+Fig. 6 Potential vs. Time plot of E34 First Quench Sample.
+
+8
+
+Fig. 7 Potential vs. Time plot of E34 Second Quench Sample.
+
+Fig. 8 Potential vs. Time plot of E34 Third Quench Sample.
+
+9
+
+Figure:9 Polarization Diagram of E-34 As Received Sample
+
+Figure:10 Polarization Diagram of E-34 First Quench Sample
+
+10
+
+Figure:11 Polarization Diagram of E-34 Second Quench Sample
+
+Figure:12 Polarization Diagram of E-34 Third Quench Sample
+
+11
+
+Figure: 13 Corrosion rate as a function of NaCl concentration.
+
+12
+

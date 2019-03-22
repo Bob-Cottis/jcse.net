@@ -1,0 +1,180 @@
+Volume 6 Paper H072
+
+Protection of Advanced Copper Alloys with Lean Cu-Cr Coatings
+L.U. Ogbuji QSS Group, MS 106-1, NASA Glenn Research Center, Cleveland OH 44135 Phone: 216/433-6463; e-mail: thomas-ogbuji@grc.nasa.gov
+
+Abstract
+
+Advanced copper alloys are used as liners of rocket thrusters and nozzle ramps to ensure dissipation of the high thermal load generated during launch, and Cr-lean coatings are preferred for the protection of these liners from the aggressive ambient. It is shown that adequate protection can be achieved with thin Cu-Cr coatings containing as little as 17 % Cr.
+
+Key words: Cu-Cr, coatings, oxidation, blanching, protection, Cr2O3
+
+Introduction
+
+The excellent thermal conductivity of copper alloys makes them preferred liner materials for rocket engine combustors and nozzle ramps, where conductivity of 300 W/mK (at 20oC), the highest for any material; and comparable values for the advanced Cu alloys being considered for liner application (CuCrNb, CuAgZr, and ODS Cu-Al2O3) are 300-360 W/mK [3], representing a low-to-moderate 6-23% drop from Cu. However, the poor resistance of Cu and its alloys to oxidative degradation needs to be overcome. One solution is the development of special copper alloys with better oxidation resistance, a good example being Cu-8Cr-4Nb [1,2]. Another is the use of an environmental-barrier coating, provided the coating material does not seriously impair thermal conductivity (and ductility) of the liner alloy. dissipation of a huge thermal load is important. Pure Cu has a thermal
+
+Cu-Cr coatings are favored because they can provide a protective Cr2O3 scale upon oxidation, while maintaining good chemical match as well as acceptable thermal match with a Cu-alloy substrate. Ken Chiang and his layer from Cu-30vol.%Cr coatings on Cu alloys [4-6]. NiCrAly is another candidate coating material. Though its intrinsic thermal conductivity is lower than that of Cu-Cr compositions, it enables liner service at higher wall temperatures, while its preferential oxidation to Al2O3 (when its Al content exceeds ~5%) yields an even more protective oxide scale. Our aim was to develop Cu-Cr coatings to protect Cu alloys via adequate formation of Cr2O3, while keeping Cr content low enough not to impair ductility or thermal conductivity of the system. A rough, rule-of-mixtures estimation shows that thermal conductivity of a Cu-30%Cr composition should be ~240 W/mK, only 60% of the value for pure Cu, and 20-35% reduce this deficit of thermal conductivity ­ by reducing its Cr content while preserving its ability to provide Cr2O3 cover. A straight-forward way to do it is to make the coating fine-textured and homogeneous. The coatings studied by Chiang et al. were rather coarse aggregates of Cu and Cr particles. Of course, oxidation would yield Cr2O3 co-workers have demonstrated the formation of a continuous Cr2O3 sub-
+
+below the values given above for candidate liner alloys. It is important to
+
+islands which conform to the same texture but coalesce eventually into a continuous Cr2O3 layer. That is perhaps why they needed 30% and higher Cr levels to achieve protection. Advanced coating techniques now enable
+
+the routine deposition of coatings with fine microstructures. Accordingly, one goal of this work was to demonstrate that Cr-lean coatings can be put down on Cu alloys from powder, using plasma spray or cold spray.
+
+Experimental Details
+
+The coating compositions used in our study were Cu-8.5Cr, Cu-17.1Cr, Cu-21.3Cr, and Cu-25.6 Cr (Cr content in wt %). They were deposited from corresponding powders by low-pressure-plasma spray (LPPS) or by a variant of cold-spray called "kinetic metallization" (KM). The powders, -
+
+2
+
+635 mesh (<15µm average particle size) were made by Crucible Research for Cu-8.5Cr to 650 wppm for Cu-25.6Cr. KM deposition was by Inovati of Pittsburgh, PA, with O2 contents ranging from 425 ppm by wt. (wppm)
+
+of Santa Barbara, CA, and LPPS was done in-house. The substrates were
+
+polished coupons (19mm in diameter, 1.0mm thick). Consolidation of the coatings was done by post-anneal or by HIPing (100 MPa) in Ar at 930oC. Static oxidation test was done in a thermo-gravimetric analyzer (TGA) in 2.2 vol% O2 (bal Ar), while cyclic oxidation was by TGA in air. This choice Rods of the same Cu-Cr compositions made by KM were cut into miniof low-p(O2) ambient was based on a typical thrust-cell environment [8].
+
+disks 5-7 mm in diameter for oxidation-reduction studies, polished to a to-H2/Ar). Details of this novel test are given in a companion paper [7].
+
+mirror finish, and subjected to in-situ cycles of oxidation-reduction (air-
+
+Results and Discussion
+
+Results presented here for coatings on Cu-8Cr-4Nb were similar to those obtained with corresponding coating on Cu-3Ag-0.5Zr (the current Space Shuttle Main Engine liner). So, substrate details did not affect the results. LPPS coatings were brownish due to oxygen pick-up, and turned black upon anneal as the oxygen was incorporated into oxide. In contrast, KM coatings retained their color and luster through deposition and anneal, indicating they were significantly oxygen-free. Accordingly, the rest of just to highlight an advantage of cold deposition for Cu alloys.) Fig. 1 shows a KM-coated sample after 10hr oxidation at 650oC. In (A) a Cu-25.6Cr coating with an oxide skin (to the right) lies on the featureless substrate (to the left). Details of the coating appear in (B): dark Cr lumps within the lighter Cu matrix; (C) and (D) are corresponding EDS spectra. Static Oxidation Fig. 2 presents histograms of the static oxidation weight gains in 2.2% O2 at various temperatures, and a kinetic plot comparing 650oC weight gain rates for the bare substrate and a coated substrate. this paper considers only the KM coatings. (LPPS coatings were mentioned
+
+3
+
+(A)
+
+(B)
+
+(C)
+
+(D)
+
+Fig. 1, SEM section of Cu8Cr4Nb, left in (A), coated with Cu-25.6%Cr and oxidized 10h at 650oC. Higher magnification (B) reveals coating texture; EDS spectra (C), (D) identify Cu (light) and Cr (dark) phases
+4
+
+8 7
+
+550 650 750
+
+Sp.Wt. Gain (mg/cm )
+
+6 5 4 3 2 1 0 bare 8.5Cr 17.1Cr 21.3Cr
+
+2
+
+25.6Cr
+
+wt.% Cr in Cu-Cr Coating (on Cu8Cr4Nb)
+
+3 SpWt Gain (mg/sq-cm) 2.5 2 1.5 1 0.5 0 0 4 8 12 16 20 Oxidation Time (H)
+
+Cu8Cr4Nb w/Cu-17Cr w/Cu-21Cr
+
+Fig. 2: (a) Static oxidation weight gains (at top), and (b) kinetics (bottom) at 650oC, for Cu8Cr4Nb with and without Cu-Cr coatings
+5
+
+The histograms illustrate two key facts. The first is that coating reduces oxidation weight gain, by up to a factor of 4 compared with the uncoated alloy; indeed, the kinetic plots below the histograms illustrate the large differences in oxidation rates (i.e. in slopes) between the bare and coated alloy. The second is that the greater the Cr content of the coating, the more effective it was in reducing weight gain. A third fact, perhaps more interesting than the first two, is evident in the kinetic plot: For the coated samples, up to 80% of the net weight gain was registered in the first ~1.5 set in. Fig. 1(b) also shows that after 1 hr. the coated sample has gained 30% more weight than the uncoated substrate: Oxidation weight gains in the pre-parabolic stage were consistently higher for the coated samples than for the bare alloy, a result that is contra-intuitive. This seeming anomaly is explained by a point made earlier. The Cr2O3 hours, when parabolic kinetics associated with protective Cr2O3 had not
+
+layer starts as discrete nuclei, hence a coarse distribution of Cr will result in a coarse distribution of nuclei. Only when these nuclei coalesce into a continuous Cr2O3 layer does it become a protective diffusion barrier. Up to that point, oxidation of Cu in the coating proceeds unabated. Hence, it is strongly influenced by coating texture. While post-deposition heat the early-stage oxidation produces by far the most weight gain because treatment may consolidate the coating in the sense of improving particle
+
+adhesion and cohesion, it is unlikely to alter the texture. Coating texture is ultimately determined by the size of particle aggregates or "splats" that strike the substrate during deposition. This size factor may be improved by going to finer powders; however, the handling and delivery of very fine powders are not easy tasks. Apart from the coating texture, there may be inhomogeneity in the Cu-Cr distribution carried over from the powder; this is evident in Fig. 1. These inhomogeneities in coating textural and and oxidation protection becomes established. Fig. 2(a) shows also that above ~8%Cr and at temperatures below 750oC, coating composition did not significantly affect sample weight gain. The reason for this is evident in Figs. 3 and 4. Fig. 3 is from Cu-8.5Cr coating
+6
+
+compositional determine when a continuous Cr2O3 layer begins to grow
+
+on a sample after oxidation at 650oC. (Inset is a low-magnification image that includes the alloy substrate as well.) This figure shows a filamentous early network of Cr2O3 just above the alloy substrate, separated from the copper oxide layers by a zone of friable material. (By analogy to similar features found in oxidized Cu-8Cr-4Nb [1,2], this zone is though to be highly porous Cu2O.) Fig. 4 shows the same alloy coated with Cu-17.1Cr (a), and Cu-25.6Cr (b), and oxidized at 650oC. A robust and continuous Cr2O3 layer is evident in both images. Thus, from the standpoint of Cr2O3 protection, there is no obvious advantage in Cr contents above ~17%. The question of whether the Cr reservoir in a Cu-17.1Cr coating is enough to sustain Cr2O3 growth is really a matter of the service life desired. For a space launch thruster, 10 hrs. of cumulative service (which represents hundreds of missions) is quite a long life.
+
+Cr2O3
+
+Spongy zone
+
+Cu2O
+
+CuO
+
+CuCrNb
+
+Cu-8.5Cr
+
+Fig. 3, SEM section of Cu8Cr4Nb coated with Cu-8.5%Cr, oxidized 10h at 650oC, showing nascent Cr2O3 layer beneath copper oxides
+
+7
+
+Cr2O3 network Cu-17.1Cr Coating Cu Oxide
+
+Cu-17.1Cr Coating Cu8Cr4Nb Substrate 100 µm
+
+(a)
+
+Cr2O3 Network
+
+(b)
+
+10 µm
+
+Fig. 4, SEM section of Cu-8Cr-4Nb coated with (a) Cu-17.1Cr and (b) Cu-25.6Cr and oxidized 10h at 650oC. Note Cr2O3 networks.
+8
+
+Cyclic Oxidation Oxide films on these coatings and on the Cu-Cr-Nb substrate tended to spall off upon cooling; hence, resistance to cyclic oxidation is considered an important metric of performance, especially if a substantial thickness of oxide can build up during service. Cylic oxidation results for Cu17.1Cr and Cu-21.3Cr coatings on Cu8Cr4Nb are illustrated in Fig. 5.
+1.02 1
+
+Normalized Sample Wt.
+
+0.98 0.96 0.94 0.92 0.9 0.88 0 4 8 12 16 20 24 28 32 36 40
+
+21.3Cr(1) 21.3Cr(2) 17.1Cr(1) 17.1Cr(2)
+
+Cycle # (15-Minute Cycles)
+
+(a)
+
+750oC
+
+650oC
+
+(b)
+550oC
+
+Cu-17.1Cr
+
+Cu-21.3Cr
+
+Fig. 5, Cyclic-oxidation results for Cu-17.1Cr and Cu-25.5Cr:
+
+9
+
+Fig. 5(a) is a chart of weight gains at 750oC; the numbers in parentheses within the legend refer to repeat experiments. The Cu-21.3%Cr coating did not show any weight loss at 750oC; hence there was no necessity to explore higher-Cr coatings. The Cu-17.1Cr coating began losing weight after ~3.5h at 750oC; after 10h it was down to 90% of its starting weight. At 650oC and below, none of the coatings registered any weight loss. In a separate experiment [7] the substrate alloy, Cu-8Cr-4Nb, was found to and other Cu alloys were found to have lost significantly more weight. cyclic-oxidation degradation is obvious. Fig. 5(b) shows the surface appearance of the samples after 40 oxidation the Cu-17.1Cr coating after exposure at 750oC: The oxide cover became have lost 15% of its initial weight after similar oxidation cycles at 650oC; Hence, the effectiveness of these Cu-Cr coatings in protecting against
+
+cycles at various temperatures. The only visible degradation appeared on breached around the edge and center hole, no doubt causing weight loss to begin in the 4th hour (Fig. 5a). Since temperatures at the wall are not approximating a worst-case cyclic-oxidation scenario. Oxidation-Reduction Cycling This aspect of the study was intended to determine how Cu-Cr coatings "blanching" (which is elaborated elsewhere [1,2] and in the companion paper [7]). Behavior in a cyclic oxidation-reduction test was considered an indicator of blanching resistance. The controls in this study were the alloys 3Ag-0.5Zr and Cu-8Cr-4Nb. The former exhibits no net change of weight in oxidation-reduction cycling and emerges with deep surface pits and fissures similar to features seen on this alloy after blanching attack in service; the latter registers a monotonic weight gain due to the growth of a protective oxide cover that resists reduction [7]. Fig. 6 summarizes the results of oxidation-reduction cycling for Cu-Cr. Fig. 6(a) plots weight change versus time for the three Cu-Cr coatings in the legend; all three behaved very similarly. Fig 6(b) is a high-resolution
+10
+
+expected to exceed 700oC in service, the 750oC results may be seen as
+
+might fare in an environment in which Cu alloys are usually degraded by
+
+segment of the Cu-21.3Cr plot, showing individual weight gain-and-loss (oxidation-reduction) cycles; 6(c) is a plot of weight gain versus square root of time, for the same Cu-21.3Cr, indicating overall parabolic weight of the Cu-21.3Cr sample at the end of cycling, showing a covering mat of oxide which was identified by EDS as Cr2O3. Cu-17.1Cr and Cu-25.6Cr completely removed by reduction in each cycle, leaving only Cr2O3. gave the same results: The Cu2O/CuO that formed during oxidation was gain, as may be expected for Cr2O3 protection. Fig. 6(d) is an SEM image
+
+Fig. 6, Charts and image showing that oxidation-reduction cycling caused parabolic growth of Cr2O3 (only) on Cu-Cr coatings at 800oC
+
+Note, however, that this result was obtained at 800oC. It is not known what would happen at lower temperatures (say, 600oC), where the growth of Cr2O3 is quite sluggish, while the growth of more easily reduced copper oxides is comparably brisk. This point is under investigation.
+11
+
+Summary and Conclusion:
+
+To assess their effectiveness as environmental barriers for Cu alloys, CuCr coatings were tested for resistance to three categories of oxidationrelated degradation: (1) static oxidation in 2.2% O2, (2) cyclic oxidation in
+
+air, and (3) oxidation-reduction cycling (in air and 5%H2 environments). Cu-17.1Cr was found to be borderline adequate, whereas Cu-21.3Cr and Cu-25.5Cr were superior. But since Cu-21.3Cr and Cu-25.5Cr showed about the same level of resistance to degradation in all categories, there would be no need to go above 21.3%Cr content, in view of the attendant deficit in coating ductility and thermal conductivity. Further improvement may come from refining the coating texture and also homogenizing its composition. Using finer (<10-micron) powders and co-deposition of elemental Cu and Cr rather than pre-blended Cu-Cr powders are two ways to go. These approaches will be explored in future work.
+
+References:
+
+1. L. Ogbuji, "The General Isothermal Oxidation Behavior of Cu-8Cr-4Nb" 2. L. Ogbuji and D. Humphrey, "Comparison of the Oxidation Rates of 3. L. Ogbuji and D.L. Humphrey, "Oxidation Behavior of Cu Alloy Candidates for Rocket Engine Applications", poster paper submitted at the National Space & Missile Materials Conf., Colorado Springs, USA, June 24-28, 2002 4. K.T. Chiang and J.L. Yuen, "Oxidation Studies of Cu-Cr-Coated Cu-Nb Microcomposite", Surf. & Coat. Tech., 61 (1993) 20-24 5. K.T. Chiang and J.P. Ampaya, "Oxidation Kinetics of Cu-30vol.%Cr Coating", Surf. & Coat. Tech., 78 (1996) 243-247 6. K.T. Chiang, P.D. Krotz, and J.L. Yuen, "Blanching Resistant Cu-Cr 14-19 Some New Copper Alloys" (submitted to Oxidation of Metals) (submitted to Materials at High Temperatures)
+
+Coating by Vacuum Plasma Spray", Surf. & Coat. Tech., 76-77 (1995)
+
+7. L.U. Ogbuji, "Oxidation-Reduction Resistance of Advanced Copper Alloys", pp... of these proceedings (Paper H071)
+8. D.B. Morgan and A.C. Kobayashi, NASA CR-184345 of August 1989
+
+12
+

@@ -1,0 +1,230 @@
+Volume 6 Paper C013 Electrochemical Corrosion Behavior of Tubing Alloys in Simulated Space Shuttle Launch Pad Conditions
+L. M. Calle1, R.D. Vinje2, and L.G. MacDowell1
+1
+
+NASA, Mail Code YA-F2-T, Kennedy Space Center, FL 32899, USA, Luz.M.Calle@nasa.gov 2 ASRC Aerospace, Mail Code ASRC-15, Kennedy Space Center, FL 32899, USA
+
+Abstract
+At the Kennedy Space Center, NASA relies on stainless steel (SS) tubing to supply the gases and fluids required to launch the Space Shuttle. 300 series SS tubing has been used for decades but the highly corrosive environment at the launch pad has proven to be detrimental to these alloys. An upgrade with higher alloy content materials has become necessary in order to provide a safer and long lasting launch facility. In the effort to find the most suitable material to replace the existing AISI 304L SS (UNS S30403) and AISI 316L SS (UNS S31603) shuttle tubing, a study involving atmospheric exposure at the corrosion test site near the launch pads and electrochemical measurements is being conducted. This paper presents the results of an investigation in which stainless steels of the 300 series, 304L, 316L, and AISI 317L SS (UNS S31703) as well as highly alloyed stainless steels 254-SMO (UNS S32154), AL-6XN (N08367) and AL29-4C (UNS S44735) were evaluated using direct current (DC) electrochemical techniques in three different electrolyte solutions. The solutions consisted of neutral 3.55% NaCl, 3.55% NaCl in 0.1N HCl, and 3.55% NaCl in 1.0N HCl. These solutions were chosen to simulate an environment that is less, similar, and more aggressive respectively than the conditions at the Space Shuttle launch pads.
+
+The electrochemical results were compared to the atmospheric exposure data and evaluated for their ability to predict the long-term corrosion performance of the alloys. Keywords: 304L, 316L, 317L, 254-SMO, AL-6XN, AL29-4C, stainless steel, acidic NaCl, DC measurements, atmospheric exposure.
+
+Introduction
+304L stainless steel (304L SS) tubing is used in various supply lines that service the Orbiter at the Kennedy Space Center (KSC) launch pads. The atmosphere at the launch site has a very high chloride content caused by the proximity of the Atlantic Ocean. During a launch, the exhaust products from the fuel combination reaction in the solid rocket boosters produces hydrochloric acid. The acidic chloride environment is aggressive to most metals and causes severe pitting in some of the common stainless steel alloys. 304L SS tubing is susceptible to pitting corrosion that can cause cracking and rupture of both high-pressure gas and fluid systems.1 The failures can be life threatening to launch pad personnel in the immediate vicinity. Outages in the systems where the failure occurs can create schedule impact to normal operation and shuttle launches. The use of a better tubing alloy for launch pad applications would greatly reduce the probability of failure, improve safety, lessen maintenance costs, and reduce downtime losses. The objective of this work was to study the electrochemical behavior of corrosion resistant tubing alloys to replace the 304L SS tubing at the Space Shuttle launch sites. The stainless steel alloys chosen for this investigation were: 304L, 316L, 317L, AL6XN, AL29-4C and 254 SMO. 304L SS was included in the study for comparison purposes. These alloys were tested in three different electrolytes that provided less severe, similar, and more aggressive conditions than those found at the launch pads at the Kennedy Space Center in Florida (USA).
+
+2
+
+Materials and Methods
+Alloys Table 1 lists the tubing alloys chosen for this investigation. Table 2 lists trade name, UNS number, and chemical composition of each material. The specimens were flat sample coupons, 3.2 cm in diameter, from Metal Samples Co. The test specimens were polished to 600-grit, ultrasonically degreased in a detergent solution, and wiped with acetone before testing. TABLE 1 Alloys
+
+Alloy
+304L 316L 317L AL-6XN AL29-4C 254 SMO
+
+Class
+Low carbon austenitic stainless steel Molybdenum-containing austenitic stainless steel Molybdenum-containing austenitic stainless steel Superaustenitic stainless steel Superferritic stainless steel Austenitic stainless steel
+
+Experimental A model 352 SoftCorrTM III Corrosion Measurement System, manufactured by EG&G Princeton Applied Research, was used for all electrochemical measurements. The equipment includes the software that is designed to measure and analyze corrosion data. The electrochemical cell (flat cell) included a saturated calomel reference electrode (SCE), a platinum-on-niobium counter electrode, the working electrode, and a bubbler/vent tube. The specimen holder in the cell is designed such that the exposed metal surface area is 1 cm2. 3
+
+TABLE 2 Chemical Composition of Stainless Steels Alloys Alloy 304L 316L 317L AL-6XN AL29-4C 254 SMO S31254 55.162 17.900 20.000 6.050 0.490 0.012 0.196 0.350 0.019 0.001 0.680
+
+UNS Number S30403 S31603 S31703 N08367 S44735 Fe Ni Cr Mo Mn C N Si P
+S
+
+71.567 69.053 63.525 48.118 8.200 18.33 0.500 1.470 0.023 0.030 0.380 0.030 10.140 13.200 23.88 16.240 18.100 20.470 2.070 1.780 0.019 0.050 0.280 0.027 3.160 1.510 0.017 0.030 0.460 0.027 0.001 0.150 6.260 0.300 0.020 0.330 0.40 0.021 0.0003 0.200
+
+66.594 0.260 28.750 3.780 0.260 0.020 0.031 0.280 0.023 0.002
+
+0.0002 0.001 0.460 0.340 0.240
+
+Cu Co Nb Ti
+
+0.290 0.360
+
+Three different aerated electrolyte solutions were used: (1) 3.55% NaCl, (2) 3.55% NaCl­0.1N HCl and (3) 3.55% NaCl­1.0N HCl. These solutions emulate less than, similar to, and more aggressive conditions than those found at the launch pads at KSC. 4
+
+Corrosion potential, linear, and cyclic polarization data were gathered for the alloys under the three different electrolyte conditions. Polarization resistance determinations were generally based on ASTM G59. Cyclic polarization data were gathered using ASTM G 61as a guideline. Duplicate and triplicate tests had essentially the same
+
+outcome. The reported results are the averages of two or more runs. The corrosion potential was monitored until the sample reached a
+
+potential that was stable within ±5 mV for a period of 10 minutes. Linear polarization measurements were performed immediately after. A potential range of ±20 mV versus open circuit potential was used for these measurements. The scan rate was 0.166 mV/sec. A linear graph of potential (E) versus current (I) was obtained and the polarization resistance (Rp) calculated. Cyclic polarization measurements were started at ­250mV relative to the corrosion potential (Ecorr). The scan rate was 0.166mV/sec. The scans were reversed when the current density reached 5mA/cm2. The reverse potential scan continued until the potential returned to the (I) was obtained. From this graph, the breakdown potential (Ebd), repassivation potential (Erp), and the area of the hysteresis loop were obtained. Linear and cyclic polarization results were calculated using the SoftCorr III software. Atmospheric Exposure A beach atmospheric exposure site near the launch pads was used to evaluate the performance of the six alloys included in this study for their resistance to localized corrosion under atmospheric conditions similar to those at the launch pad. Three tubes of each alloy were exposed. A 10 percent (v/v) solution of HCl and 28.5 grams of alumina powder per 500 ml of solution was mixed into acid slurry to simulate solid rocket booster deposition. One set of tubes was sprayed every two weeks with the acid slurry to accelerate the corrosion effect. The other set was left exposed to the natural marine seacoast environment. starting potential of ­250 mV relative to Ecorr. A graph of E versus Log
+
+Results and Discussion
+5
+
+Corrosion Potential Corrosion potential gives an indication of how noble a metal is in a given environment. In general, a more positive corrosion potential means that the metal can be expected to be more resistant to corrosion in that particular electrolyte than one with a more negative corrosion potential. Thus, most metals can be ranked according to as passive materials, can fluctuate from an active to passive state depending on the environment to which they are exposed, the velocity of the solution, and passivation treatments applied during manufacturing. The corrosion potential for each alloy was monitored from the initial time of immersion until a stable potential was observed. The alloys differed in the time it took for the potential to stabilize. For simplicity, Figure 1 shows only the open circuit potential for the SS alloys at times just prior to and during stabilization. Table 3 lists the average value of the stable open circuit potential. Contrary to what was expected based on the composition of the alloys, the highly alloyed SS 254-SMO, AL6XN and AL29-4C did not exhibit a more noble stable potential when compared to 316L and 317L in 3.55% NaCl (Figure 1a). This exposed to the atmosphere at the corrosion test site. As it was behavior did not correlate with the performance of the tubing samples expected, 304L was the most active alloy in this environment with a stable corrosion potential of ­173 mV vs. SCE. In 3.55% NaCl-0.1N HCL, the three highly alloyed SS displayed a more noble potential than the 300 series SS as it was expected based on their composition. This behavior became more pronounced when the concentration of HCl in the 3.55% NaCl solution was increased to 1.0N. Figure 1c shows a clear distinction between the more noble behavior of the highly alloyed SS in the 3.55% NaCl-1.0N HCl and the more resistance to corrosion based on corrosion potential. Stainless steels,
+
+6
+
+(a)
+
+(b)
+
+7
+
+(c) FIGURE 1. Corrosion potential of SS Alloys in (a) neutral 3.55% NaCl, (b) 3.55% NaCl-0.1N HCl, and (c) 3.55% NaCl-1.0N HCl. active behavior of the 300 series SS. The ennoblement of the higher alloyed SS as the concentration of HCl in the 3.55% NaCl solution increased was most pronounced for AL29-4C (269 mV increase in the corrosion potential) followed by AL-6XN (153 mV increase) and 254 SMO (144 mV increase). This behavior correlated very well with the actual corrosion performance of the alloys under atmospheric exposure. The transition toward a more active corrosion potential of the 300 series SS as the concentration of HCl in the electrolyte increased can be attributed to the fact that these SS are easily attacked by HCl because the passive film is not easily attained.2 Chloride (Cl-) ions are well known for their ability to attack SS by penetrating the protective layer at any discontinuity of the oxide film. The addition of HCl, a reducing acid, exacerbates the attack by interfering with the formation of the oxide film.3 Polarization Resistance Figure 2 shows linear polarization plots for SS 316L in 3.55% NaCl with increasing HCl concentrations (neutral (a), 0.1N (b), and 1.0N (c)). It is evident from the figure that the slope of the line is decreases as the acidity of the 3.55% NaCl solution increases. This behavior is indicative of the decrease in the polarization resistance. Table 4 summarizes the 0.1N HCl, and in 3.55% NaCl-1.0N HCl for all the alloys. The Rp values show that increasing the HCl concentration in the 3.55% NaCl solution resulted in a significant decrease in the Rp values of the 300 series SS. rate, in the presence of increasing concentrations of HCl, can be The decrease in the Rp values, indicative of an increase in the corrosion polarization resistance, Rp, values in neutral 3.55% NaCl, 3.55% NaCl-
+
+attributed to the fact that the protective layer of the 300 series SS becomes unstable. This is illustrated by the drastic decrease in Rp from
+
+8
+
+1.36 Mohms.cm2 in neutral 3.55% NaCl to 159 ohms.cm2 in 3.55%NaCl-1.0N HCl for 316L (Figure 2 and Table 4).
+
+were approximately of the same order of magnitude as those for the 300 series SS. However, the Rp values for these alloys remained high as the concentration of
+
+Rp values for AL-6XN, AL29-4C, and 254 SMO in neutral 3.55% NaCl
+
+(a)
+
+(b)
+
+9
+
+(c) FIGURE 2. Linear polarization curves for 316L in (a) neutral 3.55% NaCl, (b) 3.55% NaCl-0.1N HCl, and (c) 3.55% NaCl-1.0N HCl. HCl in the 3.55% NaCl solution increased. AL-6XN and 254 SMO showed a slight decrease in Rp as the concentration of HCl increased while AL29-4C exhibited no change in Rp after the initial slight increase. The lower corrosion rates of AL6XN, AL29-4C, and 254-SMO SS can be attributed to the presence of greater amounts of chromium, nickel and molybdenum that result in a more stable protective layer on the surface of the alloy. The low corrosion rate of AL29-4C, which remained fairly unchanged with the increased concentration of HCl, can be attributed to its high (28.750%) chromium content. Cyclic Polarization determine the tendency of the alloys to undergo localized (pitting or crevice) corrosion when placed in the electrolyte solutions. The resulting plot of the potential-current function is strongly indicative of the tendency of the material to undergo localized attack. In effect, the function traces a hysteresis loop, with the area of the loop indicating the amount of localized corrosion of the material. From the area value, it is possible to analyze the performance of the alloys. Hysteresis loop area values should be very small for alloys that are highly resistant to Cyclic Polarization measurements were performed in order to
+
+10
+
+localized corrosion. In this case, the reverse scan traces almost exactly over the forward scan.4,5 Two important potentials, also used to characterize the hysteresis forward scan "knee" potential. Pitting is characterized by a rapid
+
+loop, are the critical breakdown potential, Ebd, defined as the potential increase in current with a very small change in potential. Above this potential, pits initiate and propagate. The repassivation potential, Erp, is defined as the point where the reverse scan intersects the forward scan. At this potential, localized attack stops and the current decreases significantly past the passive current density. The more positive the value of Ebd, the more resistant the alloy is to initiation of resistant the alloy to corrosion. 6 Values of Ebd and Erp for the SS alloys in the three different electrolytes are shown in Table 5. Cyclic polarization scans for three of the alloys included in this investigation are shown in Figures 3-5. Hysteresis loop area values are given in Table 6. Figure 3 shows a cyclic polarization scan for SS AL29-4C in 3.55% NaCl-1.0N HCl. In this case, the reverse scan traced almost exactly over the forward scan resulting in TABLE 3 Corrosion potentials of SS alloys in neutral 3.55% NaCl, 3.55% NaCl0.1N HCl, and in 3.55% NaCl-1.0N 3.55% NaCl Alloy 304L 316L 317L AL-6XN AL29-4C Ecorr (mV) Neutral -155 -102 -111 -125 -132 11 0.1N HCl -122 -130 -150 12 110 1.0N HCl -349 -320 -318 28 137 localized corrosion. Also, the more positive the value of Erp, the more
+
+254 SMO
+
+-132
+
+-48
+
+12
+
+no hysteresis. This is characteristic of an alloy that is highly resistant to localized corrosion. Figure 4 shows the overlay of the cyclic polarization scans for SS 316L and SS 254-SMO in 3.55% NaCl-1.0N HCl. The hysteresis loop area values for these two alloys are very similar under these conditions (5.58 and 5.98 coulombs respectively) indicating a high resistant to localized corrosion. However, because of the significance of Ebd and Erp, it is important to take also into account the position of the scan in the E vs. Log (I) diagram when analyzing While the area of the hysteresis loop is very similar (Figure 4), the position of the scans in the plot is very different. The values of Ebd and Erp for 316L are ­42 mV and ­37 mV respectively, while the values for 254-SMO are 877 mV and 890 mV. These results indicate that 254SMO is a superior alloy in its corrosion resistance to localized corrosion when compared to 316L under the same conditions. Similar results were obtained for AL-6XN and AL29-4C. TABLE 4 Polarization resistance of SS alloys in 3.55% NaCl in various concentrations of HCl Rp (ohms.cm2) Alloy 304L 316L 317L AL-6XN AL29-4C 254 SMO Neutral 6.37x105 1.36x106 1.49x106 1.40x106 0.882x106 1.08x106 0.1N HCl 7.05 x105 4.80 x105 2.99 x105 1.18 x106 1.09 x106 1.01 x106 12 1.0N HCl 2.00 x102 1.59 x102 1.93 x102 0.615 x106 1.09 x106 0.782 x106 cyclic polarization data. Values for Ebd and Erp are shown in Table 6.
+
+TABLE 5 Critical breakdown potential and repassivation potential for SS alloys 3.55% NaCl in different concentrations of HCl Neutral 0.1N HCl
+
+Alloy 304L 316L 317L AL-6XN AL29-4C 254 SMO
+
+Ebd (mV) Erp (mV)
+
+Ebd (mV) Erp (mV)
+
+Ebd (mV) Erp (mV)
+
+1.0N HCl
+
+366 380 622 922 964 952
+
+-136 -143 -131 906 964 939
+
+167 135 432 816 818 825
+
+-153 -164 -91 835 N/A 831
+
+-60 -42 -90 902 878 877
+
+-58 -37 -89 904 N/A 890
+
+FIGURE 3. Cyclic polarization for AL29-4C in 3.55% NaCl-1.0N HCl
+
+13
+
+FIGURE 4. Cyclic polarization for 316L and 254-SMO in 1.0N-HCl 3.55% NaCl SS AL29-4C is an alloy very resistive to localized corrosion as indicated by the very small hysteresis loop area in the cyclic polarization scan obtained in neutral 3.55% NaCl. The increase in the acid concentration of the 3.55% NaCl solution to 0.1N resulted in a negative hysteresis. A further increase to 1.0N in the concentration of the acid resulted in no hysteresis (Figure 3). SS AL-6XN and 254 SMO exhibited small hysteresis loop areas in the three electrolytes indicative of their resistance to localized corrosion in neutral and acidic 3.55% NaCl. Figure 5 shows the effect of increasing HCl concentration on the cyclic polarization scans of SS 304L. The scan in neutral 3.55% NaCl solution displays a higher corrosion potential as well as lower current density. When the HCl concentration was increased to 0.1N, the corrosion potential became more negative and the current density increased. The metal still portrays passive behavior where the voltage increases with small changes in current density. However, increasing the acid concentration to1.0N HCl affects the alloy more drastically. Past the 14
+
+corrosion potential, the material experiences anodic dissolution and then repassivates over a small voltage range and rapidly experiences the other 300 series SS. For these alloys, a decrease in the hysteresis loop area cannot be interpreted as an indication of increased resistance to localized corrosion. A decrease in the difference between Ecorr and Ebd has been associated with increased susceptibility to localized corrosion.7 Table 6 shows the three different electrolytes. The values for the 300 series SS are lower than those for the higher alloyed materials and their decrease as the concentration of acid in the electrolyte increases is greater than for the higher alloyed materials. These results are in agreement with results from visual observations of the samples as well as with the atmospheric exposure data on the susceptibility to localized corrosion of these alloys. the values for the difference between Ecorr and Ebd for the SS alloys in breakdown of the passive film at Ebd. Similar behavior was observed for
+
+15
+
+FIGURE 5. Cyclic polarization scans for 304L in neutral, 0.1N and 1.0N HCl-3.55% NaCl solutions Pitting Resistance Equivalent Number It is well established that the pitting corrosion resistance of stainless steels depends mainly upon their chromium, molybdenum, and nitrogen contents. This resistance is evaluated empirically through the pitting resistance equivalent number (PREN) defined as PREN = (%Cr) + (3.0) x (%Mo) + (15) x (%N) where the percentage corresponds to the weigh percentage of the
+
+are shown in Table 8. These values are in good agreement with the experimental results.
+
+element in the alloy.8,9,10 PREN numbers for the alloys investigated
+
+16
+
+TABLE 6 Area of hysteresis loop for SS alloys in 3.55% NaCl with various concentrations of HCl Alloy 304L 316L 317L AL-6XN AL29-4C 254 SMO Area of Hysteresis Loop (coulombs) Neutral 0.1N HCl 1.0N HCl 22.96 15.99 33.12 5.07 5.23 5.11 11.36 12.35 23.53 3.23 10.42 5.58 12.58 1.69
+
+Negative Hysteresis No Hysteresis 4.85 TABLE 7 5.98
+
+Difference between Ecorr and Ebd for SS alloys in 3.55% NaCl with different concentrations of HCl Ebd-Ecorr (mV) Alloy 304L 316L 317L AL-6XN Neutral 0.1N HCl 1.0N HCl 514 510 810 1081 401 424 730 895 757 978 287 271 221 950 746 944
+
+AL29-4C 1129 254 SMO 1106
+
+17
+
+TABLE 7 PREN numbers for stainless steel alloys Alloy 304L 316L 317L AL-6XN AL29-4C 254 SMO PREN 19 26 31 46 40 43
+
+Atmospheric Exposure The most important criteria of any laboratory test for localized corrosion is that it must rate alloys consistently with service performance in environments that cause localized corrosion. In this study, the laboratory results were compared to the two-year atmospheric exposure data. Detailed results of the atmospheric exposure have been previously reported elsewhere.11 Photographs of the tubes after one year of atmospheric exposure with no acid rinse are shown in Figure 5. Photographs of the tubes after two years of atmospheric exposure with biweekly acid rinse are shown in Figure 6. A photograph of SS 304L is not shown because the tube failed prior to the two-year evaluation and was removed from the test rack. A summary of the visual evaluation of the tubing test articles after two years of atmospheric exposure is summarized in Table 8.
+
+18
+
+TABLE 8 Visual observations of tube specimens after two years of atmospheric exposure Visual Observations after Two Years of Atmospheric Exposure Alloy Natural With Acid-Alumina Slurry Rinse
+
+304L
+
+Tubes in poor condition with pits and brown spots all over
+
+Tubes failed due to pitting. Pits went through the thickness of the tube 2 out 3 tubes failed. Remaining tube in bad condition with brown spots and pits all over
+
+316L
+
+Tubes in poor condition with pits and brown stains. Better than 304L
+
+317L
+
+Brown spots and pits on the tube. Better than 316L
+
+1 out 3 tubes failed. Pits and brown spots all over the tube. Better condition than 316L Tubes look in good condition with slight discoloration Tubes in good condition
+
+AL-6XN
+
+Light browning of the tube.
+
+AL29-4C
+
+Slight discoloration of the tubes. Over all in good condition.
+
+254-SMO
+
+Tube is in good condition. Some spots along the seam weld
+
+Tubes look very good except for pits on the seam weld
+
+19
+
+304L
+
+316L
+
+20
+
+317L
+
+AL29-4C
+
+21
+
+AL-6XN
+
+254-SMO
+
+FIGURE 5. Tubing after two years of natural seacoast atmospheric exposure (no acid rinse.
+
+22
+
+FIGURE 5. Photographs of tubing sections after two years of seacoast atmospheric exposure with acid rinse every two weeks.
+
+Conclusions
+23
+
+Electrochemical measurements of the six alloys indicated that the higher alloyed SS 254 SMO, AL29-4C, and AL-6XN exhibited a significantly higher resistance to localized corrosion than the 300 series SS.
+
+The stable corrosion potential values obtained in neutral 3.55% NaCl did not correlate with the performance of the alloys under natural seacoast atmospheric exposure.
+
+A correlation was found between the stable corrosion potential values obtained in acidic 3.55% NaCl and the corrosion performance of the alloys under atmospheric exposure with and without acid rinse. There was a correlation between the corrosion performance of the alloys during the two year atmospheric exposure and the corrosion rates based on polarization resistance values. The area of the hysteresis loop cannot be used as the sole criterion to predict susceptibility to localized corrosion. There was a correlation between the atmospheric exposure data and the susceptibility to localized corrosion that was predicted based on the difference between Ebd and Ecorr. These predictions were in agreement with the expectations based on the PREN calculated for the alloys.
+
+References
+
+1 S. McDanels, Failure Analysis of Launch Pad Tubing, Microstructural Science, 25, p. 125-129 (1998). 2 Metals Hanbook, 13, p. 557, (ASM International, Metals Park, OH, 1987). 3 N.G. Thompson and J.H. Pager, DC electrochemical Test Methods, p. 57, (Houston, TX: NACE International, 1986). 4 W.S. Tait, Corrosion, 34 (6) (1978): pp.214-217. 5 W.S. Tait, corrosion, 35 (7) (1979): pp. 296-300. 24
+
+6 Z. Szklarska-Smialowska, M. Janik-Czacho, Corros. Sci. 11 12(1971): p. 901. 7 J. Beddoes and J. Gordon Parr, Introduction to Stainless Steels (ASM International, Materials Park, OH, 1999, p. 83. 8 M.J. Matthews, Metall. Mater. Technol. 5 (1982): p. 205. 9 C.A. Clark, P. Gentil, P. Guha, "Development of Improved Alloy Duplex Steel, ed. J. Van Liere (The Hague, The Netherlands: Netherlands instituut Voor Lastechniek, 1986). 10 A.J. Sedriks, Corrosion 42, 7 (1986): p. 376. 11 R.G. Barile, L.G. MacDowell, J. Curran, L.M. Calle, and T. Hodge, "Corrosion of Stainless Steel tubing in a Spacecraft Launch Environment," Paper No. 02152, Corrosion/2002, 57th Annual Conference & Exposition, April 7-11, 2002, Denver, Colorado.
+
+25
+

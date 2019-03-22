@@ -1,0 +1,724 @@
+Monitoring of the External Corrosion of Buried Pipelines 
+ 
+A.I. Marshakov, M.A. Petrunin, V.E. Ignatenko, Ɍ.A. Nenasheva, Ɍ.A. Yurasova, L.B. 
+Maksaeva, A.A. Rybkin 
+A.N. Frumkin Institute of Physical Chemistry and Electrochemistry Russian Academy 
+of Sciences, 31 Leninsky prospect, Moscow GSP-1, 119071 Russian Federation. 
+Email: tnenasheva@inbox.ru (T.A. Nenasheva) 
+Received: 
+Abstract 
+The  methods  for the monitoring  of  various  types  of  external  corrosion  of 
+underground  pipelines  are investigated.  The  various  scenarios  where  electrical 
+resistance soil corrosion probes can be used for corrosion damage assessment or 
+for the control of cathodic protection effectiveness are described. The possibilities 
+of  using  hydrogen probes  for the prediction  of  stress  corrosion  cracking  of 
+pipelines are discussed. 
+Key words: pipeline, cathodic protection, corrosion monitoring  
+2 
+ 
+1. Introduction 
+Currently, the main methods for monitoring the corrosion state of underground 
+pipelines  are  electrometric diagnostics  with  control  excavations  and  in-line 
+inspection. The use of these methods requires heavy financial expenditures; hence, 
+the development  of PHPORGV  IRU  POH  LQGLUHŃPµ  GHPHUPLQMPLRQ  RI  POH  ŃRUURVLRQ 
+state and protection efficiency of pipelines is attractive. Principally, this problem 
+can be solved by statistical analysis and mathematical simulation models relating 
+cases of the corrosion failures of pipelines to their design features, age, operating 
+conditions, data on geological types, chemical composition and microbial activity 
+of the soils,  and  cathodic  protection  parameters [1].  However,  the  number  of 
+factors taken into account in such models is too large, and the currently available 
+databases  lack sufficient data  for  the  development  of  mathematical  models of 
+high reliability. In view of this, the main goals in the development of the theory of 
+pipe steel corrosion in soil is to determine the main factors in the origination and 
+growth  of  various  types  of  corrosion  defects  and to develop  methods for  their 
+monitoring along the route of existing pipelines. 
+The common goals of corrosion monitoring (CM) of underground pipelines are to 
+determine the following parameters: 
+1) The corrosivity of the soil and/or under-film electrolyte toward various types of 
+corrosion damage to the pipe steel; 
+2) The corrosion  risk  for  a  pipeline  segment,  namely, the presence  of  galvanic 
+macropairs, stray currents, and induced alternating currents; 
+3) The state of the isolating coating; 
+4) The efficiency of the pipeline cathodic protection (CP). 
+The following parameters are of major importance in the nucleation of local types 
+of corrosion: the state of pipe surface, the presence of non-metallic inclusions and 
+metallurgical defects in the pipe steel, and the magnitude and frequency of the 
+3 
+ 
+mechanical strains in the pipe. It is unlikely that all factors affecting the growth of 
+various corrosion defects can be monitored on existing pipelines. Therefore, under 
+actual  operation  cRQGLPLRQV  MQ\  LQGLUHŃPµ  GLMJQRVPLŃ  PHPORGV  RLOO provide a 
+SURNMNLOLVPLŃ HVPLPMPH RI POH SLSHOLQH·V ŃRUURVLRQ VPMPHB +RRHYHU VPXGLHV RQ  POH 
+mechanisms and kinetics of the underground corrosion of pipe steel will improve 
+the reliability of such estimates. 
+An LGHMOµ  SMVVLYH  SLSHOLQH  SURPHŃPLRQ, excluding  any  contact  of  the  metal  with 
+electrolytes and preventing the origination of any corrosion defects, theoretically 
+makes it unnecessary to know the corrosion mechanism of pipe steel in soils. The 
+use  of  factory-applied  coatings  has  made  it  possible  to significantly  reduce 
+pipeline  corrosion  damage.  However, some mechanical  damage  to  the  pipe 
+insulation  during  transportation,  pipeline  assembly  and  operation is  inevitable. 
+"WHMNHUµ ŃRMPLQJV MUH XVed when insulating pipe joints under field conditions, and 
+the protective properties of coatings degrade over prolonged pipeline operation. 
+Hence, monitoring the pipe outer surface corrosion remains a problem of current 
+interest, even where modern isolation pipeline coatings are used. 
+ Determination of the state of the pipeline insulating coating is an important 
+part of CM; however, this issue will not be covered in this communication because 
+methods  for  monitoring  the  insulation  quality  are well-known  and have  been 
+described [2-4]. 
+1.1. Types  of  corrosion  damage  and  general  principles  of  their 
+control 
+At  the  first  stage  of  organising  the  CM,  one  needs  to  determine what types  of 
+corrosion  damage  to  the  pipeline  outer  wall are to  be  monitored. From  the 
+viewpoint of the electrochemical process mechanism, only three types of external 
+pipeline corrosion can be distinguished: uniform corrosion, crevice corrosion, and 
+stress corrosion cracking. 
+4 
+ 
+Uniform underground corrosion is an arbitrary term because it implies that the 
+metal surface is equipotential, its structure is uniform, and the corrosion medium 
+is homogeneous and has a uniform composition. None of the three conditions are 
+met in the underground corrosion of real-life steel structures. However, the rate of 
+uniform corrosion determined, e.g., from the mass loss of a check specimen, can 
+be used for comparative assessment of the soil corrosivity and efficiency of the 
+electrochemical protection. 
+Crevice corrosion is the most widespread type of underground corrosion of steel 
+structures; it is impossible without a potential difference between two areas of a 
+pipe  surface.  Differences  in  the  electrode  potential  appear  for  various  reasons: 
+stray currents in the soil, operation of macro corrosion cells formed by parts of a 
+pipeline  buried  in  soils  with  differing  chemical  compositions  or  degrees of 
+aeration,  operation  of  galvanic  elements  at  the  level  of  ground  waters  or  in  a 
+crevice between a pipe surface and a delaminated insulating coating, etc. 
+Stress corrosion cracking is currently the most hazardous type of underground 
+corrosion of high-pressure gas pipelines. The origination and growth of a crevice 
+in  a  metal  is  determined  by  a  combination  of  three  factors: the magnitude  of 
+mechanical stress, the alloy structure and composition, and composition of the 
+corrosive medium. 
+The  other  known  types  of  local  corrosion,  such  as  pitting  or  intergranular 
+corrosion,  are  not  typical in underground  pipelines.  It  is  possible  that  such 
+corrosion defects appear at the early growth stages of a crack or crevice. 
+Local  corrosion  defects  can  be  initiated  either  in  a  coating  defect  or  under  a 
+delaminated coating. The CM methods will differ depending on the location of the 
+corrosion defect. 
+At the second stage of organising the CM, methods for monitoring the possibility 
+of the origination and/or growth rate of corrosion sites are defined. There are two 
+5 
+ 
+approaches to address this problem. The first one is to use methods that directly 
+measure the metal mass loss or corrosion penetration depth. This goal is achieved 
+using  probes  whose  working  electrodes undergo  corrosion  under  conditions 
+VLPLOMU  PR  POH  ŃRUURVLRQ  ŃRQGLPLRQV  RI  POH  SLSH·V  RXPVLGH  RMOOB  7OH  VHŃRQG 
+approach  is  to  monitor  the  factors  that  cause  the  initiation  and  growth  of  a 
+corrosion site, namely: the pipe potential, the chemical composition of the soil (or 
+under-film)  electrolyte,  and  changes  in  the  metal  properties  that  accompany 
+corrosion. The second CM approach requires knowledge of the origination reasons 
+and the growth mechanism of a corrosion site. As this knowledge is accumulated, 
+ideas  about  the  critical  values  of  the  factors  being  monitored  change,  and 
+sometimes the question arises: do we monitor the right factor? 
+The choice of the factor to be monitored is determined not only by the existence 
+of an unambiguous functional relationship between this factor and the external 
+corrosion rate of the pipeline but also by the cost of the measurements. From this 
+point of view, indirect monitoring methods are generally advantageous. 
+1.2. Measuring the potential of pipeline segments 
+Currently, the efficiency of pipeline electrochemical protection is monitored using 
+the  protective  potential  value. The  electrode  potential  is  an  indirect  parameter 
+characterizing the metal corrosion rate; hence, the CP protective potential is also 
+an indirect parameter that characterizes the pipeline protection level. What are the 
+grounds for this statement? 
+In the first stage of the development of the scientific bases of the method for the 
+electrochemical protection of steel structures in soils and natural waters, attempts 
+were made to give a thermodynamic substantiation to the protective potential, i.e., 
+to relate this value with the equilibrium potential of iron, E0 (SHE): 
+Fe ĺ Fe2+ + 2Ɲ, E0 =- 0.44 V + (RT/2F) ln[Fe2+]   (1) 
+6 
+ 
+At first sight, this approach appears to be justified if one sets a permissible rate 
+for the diffusion transfer of iron ions to the electrolyte bulk and thus defines the 
+maximum  permissible  concentration  of  iron  cations  at  the  metal  surface 
+Baeckmann  and  Schwenk [5]. However, Equation  (1)  fails  to  account for the 
+participation  of  electrolyte  components  in  the  iron  dissolution  reaction 
+Florianovich [6] and, in  particular,  the  possible  formation  of  hardly-soluble 
+corrosion products. In fact, considering that iron hydroxide is formed on the metal 
+surface, the equilibrium potential of the anodic reaction can be determined as: 
+Fe + 2OH- ĺ Fe(OH)2 + 2Ɲ,  E0 = ²0.877 V ² (RT/F) ln[OH-]   (2) 
+Equation (2) should occur upon alkalization of the near-electrode solution layer 
+due to the cathodic reduction of oxygen or water. 
+Natural soils contain activators of iron anodic dissolution, e.g., CO3
+2-(HCO3
+-) and S2- 
+(HS-) anions,  which  shift  E0 in  the  negative  direction  as  their  concentration  is 
+increased. Calculation of E0 for the formation of iron carbonate and sulphide gives 
+by Equations (3) and (4): 
+Fe + CO3
+2- ĺ FeCO3 + 2Ɲ,  E0 = ²0.756 V  ² (RT/2F) ln[CO3
+2-]   (3) 
+Fe +  S2- ĺ FeS + 2Ɲ, E0 = ²0.95 V ² (RT/2F) ln[S2-]   (4) 
+The thermodynamic substantiation of the protective potential value became even 
+less justified after  the  development  of  the  concept  of the chemical  coupling  of 
+partial corrosion reactions [7]. Chemical coupling implies that a fraction of the free 
+energy  produced  by  one  reaction  compensates for the  energy  consumption  by 
+another  (induced)  reaction.  As  a  result,  the  quasi-equilibrium  potential  of  the 
+induced reaction shifts in the negative direction. A possible mechanism of chemical 
+coupling  of the partial  corrosion  reactions  involves  the  participation  of  the 
+intermediates  of  the  oxidant  reduction  in  the  anodic  process. Oxygen-containing 
+oxidants (which form OH- ions upon reduction) accelerate iron dissolution in acidic 
+media (pH 1-3) at a constant potential, with an acceleration factor of several tens [8-
+7 
+ 
+9].  In  weakly- acidic  and  neutral  electrolytes,  the  accelerating  effect  of  oxygen-
+containing oxidants weakens or is not observed. However, even in pH-neutral media, 
+iron  dissolution  would  be  accelerated  in  the  presence  of sulphur- or  nitrogen-
+containing  compounds  that  are  reduced  to  give sulphide ions  or  ammonia 
+molecules. 
+Thus, the metal dissolution rate is not solely a function of potential because it also 
+depends on the composition of the corrosive medium and on the rates of other 
+electrode  reactions.  The  currently  accepted  range  of  protective  potentials  for 
+pipelines  (-0.85  to -1.15 V  vs.  CSE)  has  been  established  empirically,  based  on 
+results of long-term practical electrochemical protection of steel structures. The 
+effect  of  the  corrosion  medium  composition  on  the  electrochemical  kinetics  of 
+iron dissolution is taken into account when establishing the minimum protective 
+potential, which either increases (in absolute magnitude) to -0.95 V in soils with 
+microbiological activity or decreases to -0.75 V in low-mineralised high-resistivity 
+soils [10].  
+Despite  the  absence  of  theoretical  substantiations  of  the  protective  potential, 
+monitoring  this  value  along  a  pipeline versus time  is  currently  the  basis  for 
+determining  the  electrochemical  protection  efficiency  of  underground  pipelines. 
+However, this criterion of electrochemical protection efficiency has one significant 
+drawback: its value does not ensure a quantitative determination of the residual 
+corrosion  rate  of  the  outside  pipe  wall.  As  a  rule,  this  results  in  considerable 
+financial expense required to maintain too negative protective potentials; however, 
+in certain cases, the lack of knowledge of the residual corrosion rate may result in 
+the origination of hazardous corrosion defects on the outside pipe wall in a hole 
+of the isolating coating. 
+Furthermore,  considerable  difficulties  exist  in the protective  potential 
+measurements of a pipeline segment, primarily due to the compensation of the 
+ohmic component (IR) in the measured potential value. First, due to the existence 
+8 
+ 
+of the IR-component, the potential that is established on the metal in real modes 
+of electrochemical protection depends on the area of a hole in an isolating coating 
+[11]. Second,  despite  the  progress  in  the methods  for  elimination  of  the ohmic 
+component [3] the results of the polarized potential measurements in the zones of 
+direct  and  alternating  stray  currents  are  not  sufficiently  reliable.  Third,  it  is 
+difficult to measure the polarized potential in high-resistance soils (rocky, dry, or 
+permafrost) or on pipelines with a heat-insulating coating. 
+It is practically useless to measure the potential of a pipeline segment to assess 
+the  initiation  probability  and  growth  rate  of  local  corrosion  defects  under  a 
+delaminated coating. 
+Thus, to overcome CM problems, it is insufficient to measure the pipe polarized  
+potential, and it is necessary to search for new methods for assessing the pipeline 
+corrosion state and CP efficiency. 
+1.3. Determination of the pipe outside corrosion rate using electrical 
+resistance probes 
+Electrical resistance probes (ER probes) are widely used to monitor corrosion rates 
+in various technical areas. Their operating principle is based on the fact that the 
+electric  resistance of  metallic  conductors increases  as  the  cross-sectional  area 
+decreases due to corrosion. In the case of pipeline CM, a corrosion probe is placed 
+in the soil adjacent to the pipe surface and is electrically connected to the pipeline 
+[12-15]. 
+1.4. Assessment  of  the  possibility  of  hydrogen  induced stress 
+cracking of a steel pipeline  
+ The possibility of the origination of such hazardous corrosion as hydrogen 
+induced stress cracking  (HISC) of  pipe  steel  can  be  monitored  using  hydrogen 
+probes. The  dissolution  of  atomic  hydrogen  in  steel  can  result  in  hydrogen 
+9 
+ 
+embrittlement and, hence, in the stress corrosion cracking (SCC) of steel. A crack 
+grows when the hydrogen concentration in the metal exceeds a certain critical value. 
+The  critical  concentration  values  are  reached  at  critical  rates  of  hydrogen 
+permeation into steel [16-17]. The rates of hydrogen permeation into steel can be 
+measured under field conditions using hydrogen probes [16]. 
+In  this  paper, the  opportunity  to  assess  the  pipeline corrosion  state  and  CP 
+efficiency using ER probes and hydrogen probes are discussed.   
+2. Experimental procedure 
+2.1. Design of electrical resistance probes 
+The corrosion penetration depth (¨d) is calculated either from an increase in the 
+working element (WE) resistance (for general corrosion) or from the time until WE 
+rupture (for local corrosion). The general corrosion rate is determined as: 
+¨d = d0(1 ² R0/R
+)/
+ ,                                            (5) 
+where d0 is the initial thickness of WE; R0 is the initial WE resistance; and R
+ is the 
+WE resistance upon exposure time, 
+.  
+By simultaneously recording the WE and thermal sensor resistances, it is possible to 
+bring the WE resistance to a standard temperature. Then, the observed changes in 
+the readings from ER probe can be attributed to corrosion effects. 
+The  surface  (S  MQG  POLŃNQHVV  RI  POH  (5  SURNH·V  J(  MUH  VHOHŃPHG  NMVHG  RQ  POH 
+following conflicting requirements: 
+- The d0 value should be large to ensure a long life of the probe. It has been 
+determined experimentally that the following requirement should be met when the 
+rate or uniform corrosion is determined: ¨d < 0.5 d0 [18]. 
+- High  sensitivity  (or  improvement  of the probe  response  time)  requires 
+10 
+ 
+either a small d0 or high-precision measurements of WE resistance; however, the 
+latter approach considerably increases the cost of the measuring instrument; 
+- High reproducibility of ER probe readings requires a sufficiently large area 
+of metal contact with the heterogeneous medium (soil). 
+- The power  consumption  for  electrochemical  protection  with  a  probe 
+connected to the pipe is minimised by decreasing S. However, at too low S values, 
+the probe potential in the real pipeline CP circuits will be more negative than the 
+metal potential in the coating holes [11] hence, S should not be smaller than the 
+maximum area of a coating defect on the pipeline segment being monitored. 
+- The probe design should allow it to be located as close as possible to the 
+pipeline;  however,  installation  of  a  probe  directly  on  the  pipe  surface  generally 
+makes mounting more expensive. 
+Furthermore,  the  dimensions  and  configuration  of  the  working  element should 
+allow assessment of the crevice growth rate based on the rupture time, 
+rup. 
+ All of the above requirements cannot be achieved in a single sensor. In view 
+of this, a number of ER probe types have been developed by [12, 13, 19, 20], and the 
+use of a specific probe in a CM system depends on the intended purpose. Below 
+described results were obtained by using two types of ER probes (Table 1). 
+Table 1. Dimensions and uses of WEs in corrosion ER probes. 
+Probe type 
+WE 
+thickness, 
+µm 
+WE surface area, 
+cm2 Probe application 
+DK 100 30 - 330 
+Monitoring the pipeline corrosion rate in 
+insulating coating defects; assessment of 
+cathodic protection performance 
+VIK 0.1  - 0.2 4.5 
+Express analysis of soil corrosivity; 
+assessment of cathodic protection 
+performance 
+DK  probe is  a  cylindrical  corrosion  probe  equipped  with  a  built-in  resistance 
+thermometer. The working element of DK probe is a 100 µm thick steel foil band, 
+11 
+ 
+3 mm wide, arranged on a plastic tube in the form of a one-layer winding with a 
+1.5  mm  step. The  length  of WE  can  be  varied  from  1  to  11  m.  The  chemical 
+composition (wt %) of WE steel is as follows: C: 0.05, Mn: 0.38, Si: 0.03, Cr: 0.05, Cu: 
+0.15, S: 0.04, P: 0.035, Al: 0.16, Ni: 0.09.  
+The working element of the VIK probe consists of a 0.1 - 0.2 µm iron layer thick 
+vapour-deposited on a dielectric support by decomposition of iron pentacarbonyl. 
+It is used for the express assessment (within 1 to 2 days) of soil corrosivity and for 
+monitoring  the  parameters  of the electrochemical  protection  of  pipelines. VIK 
+probe is  characterised  by  high  sensitivity  and  fast  response  (approximately 30 
+min), but its lifetime is as short as several days. The reliability of corrosion rates 
+obtained  using  the  VIK  was  confirmed  by  the  gravimetric  method  using  steel 
+specimens [19]. 
+2.2. Design and operating principle of the hydrogen probe 
+The DH-1 hydrogen probe was developed by [21].The probe operation is based on 
+the  use  of  the  Devanathan-6PMŃOXUVNL·V  ŃHOO.   $  SURNH·V  100  P  POLŃN  VPHHO 
+membrane is electrically connected to a pipe, and its outside surface has the same 
+potential as the pipe. Hydrogen formed on the outer membrane surface partially 
+enters  into  the  metal  and  diffuses  to  the  internal  membrane  surface.  On  the 
+internal membrane surface, a potential is maintained at which atomic hydrogen is 
+oxidised. Under steady-state conditions, hydrogen concentration in the metal (CH) 
+can be calculated from the current of the hydrogen penetration through the steel 
+membrane, ip (Equation 6):  
+CH = ip L M/F 
+ D, (6) 
+where L is the membrane thickness, M is the atomic mass of hydrogen, F is the 
+Faraday  constant, 
+ is  the  specific  density  of  the  steel,  and D is  the  hydrogen 
+diffusion coefficient in the steel. Thus, ip can be considered as a criterion of the 
+steel hydrogen embrittlement hazard. 
+12 
+ 
+2.3. Design of the CM point 
+Typical  CM  point was  equipped with  several ER-probes  or  hydrogen  probes, 
+reference electrode (CSE), data logger with satellite transmitter for collecting and 
+transmitting  of  data  (Fig. 1). All  probes  have  electric  contact  with the pipeline 
+except ER-probes which were used for determination of corrosion activity of soil. 
+The probes were installed into ground close (not far 5 cm) to pipe surface. 
+ 
+Fig. 1:  Design of typical CM point. 
+2.4. Data collection 
+IR probes were monitored at least 2 times per day for the first month. Thereafter, 
+the monitoring frequency was decreased, but it was not less than one reading per 
+month. Hydrogen  probes were  monitored  at  least  4 times per day for  the  test 
+
+13 
+ 
+period.   
+3. Results and discussion 
+3.1. Use  of  ER  probes  for  the measurement  of  the  "residual" 
+corrosion rate in the case of CP operation 
+Figure 2 shows  the  thickness  variation (
+d)  of  working  elements  in  DK probe 
+(Figure 2a) and VIK probes (Figure 2b) versus time. The probes were connected to 
+an  operating  gas  pipeline  at  the  drainage  point  of  the  cathodic  station.  The 
+pipeline polarized potential was -1.15 V (CSE). An approximately constant 
+d in 
+the VIK probes is established within 15 hours and that in DK probes, within 2-5 
+days.  The  subsequent  variations  of 
+d during  the  entire  test  (22  days)  are 
+insignificant.  The  measured  steel  corrosion  rate  under  these  conditions  is 
+negligibly small (below 10 
+m/year), which proves the efficiency of the pipeline 
+cathodic  protection.  The  surface  area  of  the  working  element  in  DK  is 
+approximately 20 times larger than that in VIK. This is why it takes much longer 
+for a protective potential to be established on DK probes in comparison with VIK 
+probes. 
+   
+Fig. 2: Variation of WE thickness of two DK probes (a) and a VIK probe (b) at the 
+pipeline cathodic protection potential. 
+
+
+14 
+ 
+3.2. Corrosion  rate  measurement  in  a  coating  defect  with 
+disconnected CP 
+A DK probe was installed on a segment of a working gas pipeline. The CP was 
+temporarily disconnected. Figure 3 shows the variation in time of the thickness of 
+the  probe  working  layer.  The  initial  test  period  (~1  hour)  was  not  taken  into 
+account  in the corrosion  rate  calculations.  The  corrosion  rate  measured  by  the 
+probe was approximately 0.5 mm/year, which classifies this gas pipeline section as 
+a high corrosion hazard. 
+  
+Fig. 3: WE thickness variation in a DK probe with disconnected CP. 
+The accuracy and reliability of corrosion rate measurements increase as either the 
+probe exposure time or the measurement frequency increase. Figure 4 shows the 
+
+d vs. time plot obtained on a DK probe that was connected to an operating oil 
+pipeline  not  equipped  with  a F3  V\VPHPB  7OH  UHVLVPMQŃH  RI  POH  SURNH·V  J(  RMV 
+measured  every  hour. Although  the  measured 
+d values  are  scattered,  the 
+variation of these values in time can be fitted by a linear equation with a high 
+correlation  factor; and the  calculated  corrosion  rate  equals  0.2  mm/year. This 
+
+15 
+ 
+corrosion rate remained almost unchanged for 40 days at this pipeline section. 
+  
+Fig. 4: Time variation of the WE thickness in a DK probe at a field oil pipeline 
+segment without CP. 
+3.3. Soil corrosivity measurement 
+Probes can be used to assess the soil corrosivity expressed in corrosion rate units. 
+Express assessments can be performed by means of VIK probes, using a resistance 
+meter with a measurement accuracy of 0.1 Ohm as the measuring tool. 
+Figure 5 presents the variation of WE thickness vs. time in three VIK probes at the 
+free corrosion potential. The corrosion rate calculations were performed without 
+ŃRQVLGHUMPLRQ IRU POH LQLPLMO PHVP SHULRG a20 PLQ GXULQJ ROLŃO POH SURNH·V J( 
+acquires a constant temperature and potential. Figure 4 shows that after 20 hours 
+of testing, the 
+d significantly exceeds  0.5d0, whereas the 
+d - 
+ plot  strongly 
+deviates  from  linearity.  This  confirms  the  limited  lifetime  of  the  probe, during 
+which  its  corrosion  rate  can  be  considered  constant.  The  mean  corrosion  rate 
+calculated over a period of up to 20 hours equals 45 µm/year. 
+ 
+
+16 
+ 
+  
+Fig. 5: Variation of the WE thickness in VIK probes not connected to a pipeline. 
+Thus,  within  certain  limitations,  VIK  probes  can  be  used  to  assess  the  free 
+corrosion  rate  of  steel  in  a  specific  soil (i.e., its  corrosivity),  the  assessment 
+duration being one day. If longer-term problems are to be solved, for example, to 
+assess  the  effect  of  seasonal  factors  (variation  of  soil  electrical  resistance, 
+temperature,  humidity,  and  chemical  composition)  on  the  corrosion  kinetics  of 
+underground structures, it is recommended to use DK probes that provide more 
+adequate integral estimates of the steel corrosion rate. 
+3.4. Assessment of local corrosion rates 
+The  corrosion  rate  calculated  from the electrical  resistance  variation  is  an 
+averaged quantity. For example, Figure 6 provides the thickness profiles of certain 
+sections  of  a  working  element  (steel  band  with d0 =  100 µm)  in  a  DK  probe 
+installed at a distance of 1 km from an operating CP device. Based on the results 
+of  a  one-year  exposure,  the  mean  corrosion  rate  was  0.017  mm/year). The 
+corrosion of the probe's working element is distributed rather uniformly, though 
+in certain places, 
+d is up to 50 µm, and the local corrosion rate is approximately 
+three times higher than the mean value. 
+
+17 
+ 
+The  ratio  of the penetration  depths  of the crevice  corrosion  (¨dL)  and the 
+tentatively  uniform  corrosion  (¨d)  depends  on  many  factors,  including  the 
+composition  of  the  corrosive  medium.  Repeated  attempts  have  been  made  to 
+assess this ratio for the corrosion of carbon steels in soils; this was also reflected 
+in certain standards [22].  As noted above, the rate of crevice corrosion can be 
+MVVHVVHG IURP POH SURNH·V J( UXSPXUH PLPH (Equation 5) 
+¨dL = d0/
+rup                                             (5) 
+Although 
+rup GHSHQGV RQ POH SURNH J(·V POLŃNQHVV MQG RLGPOB +RRHYHU ŃRPSMULVRQ 
+of  the ¨dL values  determined  using  probes  of  the  same  type  provides  certain 
+information  on  the  degree  of  non-uniformity  of the external  corrosion  on the 
+pipeline segment being monitored. 
+  
+Fig. 6: 7OLŃNQHVV SURILOH RI M G. SURNH·V J( MIPHU 12 PRQPOV RI H[SRVXUH MP POH 
+gas pipeline CP potential. 
+For example, Table 2 lists average values of ¨d, ¨dL, and their ratios measured 
+using  DK  probes  on  operating  field  oil  pipelines  without  CP.  The  pipe  walls  of 
+these pipelines had been repeatedly ruptured; as result, the adjacent soil has been 
+
+18 
+ 
+salted  with  water  and  has  acquired  a  high  corrosivity.  Corrosion macropairs 
+formed  in  locations  where  the  pipeline  crossed  the  boundaries  of  natural  and 
+salted soils, which explains the high corrosion rates of the probe WEs. As follows 
+from Table 2, the local corrosion rates are up to 2.7 mm/year, whereas the ¨dL/¨d 
+ratio  varies  from  9.7  to  1.9;  the  mean ¨dL/¨d value  at the monitored  pipeline 
+sections amounts to 3.6. The corrosion rates at the pipeline sections located in 
+soils with lower corrosivity are several times smaller, but the mean ¨dL/¨d ratio is 
+also approximately 3. However, upon longer exposure of the probes, the measured 
+corrosion rates should decrease, and the ¨dL/¨d ratio should increase. 
+Table 2. Uniform corrosion and crevice corrosion rates and their ratios (¨dL/¨d) 
+measured at pipelines in the absence of CP. 
+Inspection 
+station number 
+Uniform corrosion 
+rate, mm/year 
+Crevice corrosion 
+rate, mm/year ¨dL/¨d  
+1 0.325 1.30 4.0 
+2 0.316 1.33 4.2 
+3 1.00 2.68 2.7 
+4 0.312 0.63 2.0 
+5 0.112 1.09 9.7 
+6 0.208 0.39 1.9 
+7 0.660 1.40 2.1 
+8 0.275 0.74 2.7 
+9 0.445 1.25 2.8 
+ 
+Thus, corrosion probes can be used efficiently to achieve the following goals in 
+monitoring the external corrosion of underground pipelines: 
+- PHMVXUHPHQP  RI  UHVLGXMOµ  ŃRUURVLRQ  UMPHV  MP  POH  SURPHŃPLYH  SRPHQPLMO  LBHB 
+determining the performance of CP; 
+- corrosion rate measurements in a coating defect and ranking of pipeline sections 
+by corrosion hazard, taking into account the effect of stray currents and currents 
+of extensive macropairs; 
+- measurement of soil corrosivity with respect to uniform and crevice corrosion. 
+19 
+ 
+3.5. Assessment of the possibility of HISC of a steel pipeline in the 
+operating zone of cathodic stations 
+The  measurement  of  the  hydrogen permeation rate  on  operating  pipelines  was 
+part  of a program  of  RAO  Gazprom  in  1995-1997  aimed  at investigating the 
+causes of  corrosion  failures  previously  observed  on  the  pipelines  of the 
+Krasnoturyinsk district, Sverdlovsk region, Russia [23]. To this end, control sites 
+were  arranged  at  CP  drainage  points, with  four  to  six  DH-1  hydrogen  probes 
+installed on each. Figure 7 shows the results of the ip measurements at one of the 
+sites taken over 1.5 years. One can see that the maximum flux density of hydrogen 
+into the steel did not exceed 12 - 13 µA/cm2, mainly in the summer months. The 
+gas pipeline potentials measured without correction for the ohmic drop ranged 
+from -2.5 to -3.5 V (CSE). 
+  
+Fig. 7: Plot of the current densities measured by hydrogen probes at control 
+site; 1 - 4 - parallel gas pipelines. 
+The critical ip values, at which crack growth by the steel hydrogen embrittlement 
+mechanism is triggered, were determined by laboratory experiments on specimens 
+with  pre-formed  cracks.  The  ambiguous  effect  of  cathodic  polarisation  on  the 
+
+20 
+ 
+crack  growth  rate was  used  for  this  purpose [24].  Cathodic  polarisation  would 
+slow  down  the  growth  of  corrosion  cracks  by  the  mechanism of local  anodic 
+dissolution  of  metal and  accelerate  the  growth  by  the hydrogen  induced  stress 
+corrosion mechanism HISC. 
+In laboratory tests, HISC becomes the major crack growth mechanism in ɏ70 pipe 
+steel at current densities of hydrogen penetration through membrane above 100 
+µA/cm2 (at L = 100 µm) [17]. The hydrogen probes did not give such readings at 
+any pipelines in the Krasnoturinsk district. It was thus concluded that cathodic 
+protection does not stimulate the SCC of underground pipelines. 
+This conclusion is only correct for steels of this strength grade and for the types 
+of  soils  studied.  It  is  possible  that  in  soils  containing hydrogen  absorption 
+promoters,  e.g.,  hydrogen sulphide,  hydrogen  can  be  accumulated  in  higher 
+concentrations. 
+The use of X80 and X100 steels, as well as consideration for cyclic mechanical 
+stress, may result in adjustments of the critical rates of hydrogen absorption by 
+steel  at  which  metal  hydrogen  embrittlement  occurs.  Furthermore,  some 
+researchers believe that the SCC of pipe steels in environments with near-neutral 
+pH results from a synergistic effect of hydrogen and stress on local metal anodic 
+dissolution [25-27]. It  follows  that  cathodic  protection can prevent  the 
+development of stress corrosion, but at potentials near the corrosion potential, an 
+increase  in  the  concentration  of absorbed hydrogen  can  accelerate  the  crack 
+growth. 
+3.6. Promising methods of indirect local corrosion diagnostics under 
+delaminated pipeline coatings 
+Monitoring the state of the external pipe surface under a delaminated coating is 
+the most difficult problem faced in the corrosion monitoring of pipelines. The use 
+of ER  probes was  suggested for  the  monitoring  of  under-film  corrosion [18]. 
+21 
+ 
+However, the experience in application of under-film corrosion probes is rather 
+scarce because the probes have to be installed directly onto a pipe surface, making 
+it difficult to reproduce the conditions of under-film corrosion growth. 
+It is more promising to develop CM methods that allow for the prediction of the 
+origination  and  growth  of  local  corrosion  defects  by analysing the  chemical 
+composition  of  the  soil  electrolytes and/or  by  measuring  the  partial  corrosion 
+reaction rates on a probe placed into the soil near a pipe wall or into the under-
+film  electrolyte.  The  development  of  such  CM  methods  requires  a  deeper 
+understanding  of  the  local  corrosion  initiation centre and  growth  mechanism. 
+Because stress  corrosion  cracking  of  pipe  steel in  soils  with  near-neutral  pH  is 
+currently  the  most  hazardous  type  of  under-film  corrosion,  researchers have 
+mainly focused on studies of this phenomenon [28-30].  
+In  particular,  the  presence  of  CO2 and  H2S  in  the  corrosive  medium  accelerates 
+crack  growth [28-32] and  shortens  the  time  until  crack  appearance [33]. In 
+addition, crack colonies on pipe walls are found in anaerobic soils that have pH 
+values  of  5.5-7.5. Therefore, it  is  considered  necessary  to  monitor  the  soil 
+electrolyte pH and oxygen, hydrogen sulphide and carbon dioxide levels. 
+Because carbonic  acid  and  hydrogen sulphide molecules  dissociate  to  give  the 
+respective ions, it was suggested that the composition of the soil electrolytes be 
+determined in the field using ion-selective electrodes. 
+Soils at pipeline segments where crack colonies formed were found to have higher 
+concentrations of sulphide-containing compounds (HS- and S2- ions) (Figure 8). 
+22 
+ 
+  
+Fig. 8: Changes in the concentration of sulphide-containing compounds in a soil 
+electrolyte  at  a  pipeline  segment. Arrows denote  the  locations  of  the  crack 
+colonies found upon control excavations. 
+The oxygen concentration in a soil electrolyte can be determined from the rate of 
+its  cathodic  reduction  on  a  special  test  electrode  made  of  pipe  steel.  It  is  also 
+considered reasonable to determine the hydrogen absorption rate and the kinetics 
+of  pipe  steel  anodic  dissolution  in  the  soil  electrolyte  at  a  pipeline  being 
+monitored. The anodic current values at a preset potential and the character of the 
+current  variation versus time  can  be  indications  of  local  steel  dissolution,  and 
+therefore  show  the  possibility  of  the  formation  of  a  mechanical  stress 
+concentrator on the pipe surface. 
+Measurements made using special probes, which include ion-selective electrodes 
+and electrodes made of pipe steel, should improve the reliability of the existing 
+method  for the discovery  of  pipeline  segments  potentially  prone  to  stress 
+corrosion. Further  research on the  impact  of  the  composition  of the soil 
+electrolytes on pipe steel SCC should lead to the establishment of new criteria for 
+determining the possibility of crack initiation and assessment of the growth rate 
+
+23 
+ 
+of cracks in pipe steel under delaminated coatings. 
+4. ɋonclusions 
+Currently, the  most  urgent  goals  of  underground  pipeline  external  corrosion 
+monitoring  include:  1)  assessment  of the CP  efficiency  by  determining  the 
+UHVLGXMOµ ŃRUURVLRQ UMPH 2 UMQNLQJ SLSHOLQH VHJPHQPV N\ POH PHPMO ŃRUURVLRQ UMPH 
+in  a  through  coating  defect  in  the  absence  of  CP, and 3)  predicting  the 
+development of hazardous corrosion defects (cracks and crevices), primarily under 
+a delaminated coating. The first two CM goals can be achieved using various ER 
+probes. 
+GHPHUPLQMPLRQ  RI  POH  UHVLGXMOµ  ŃRUURVLRQ  UMPH  ŃRPSOHPHQPV  POH  H[LVPLQJ  F3 
+efficiency monitoring that is based on polarized potential measurements. Hence, 
+corrosion sensors should be installed in areas with unstable temporal variation of 
+the  potential  (zones  of  stray  or  induced  currents)  or  where  measurements  of 
+potential  are  complicated  (high-resistance  soils,  heat-insulated  pipelines).  The 
+main problem that remains unresolved involves the measurement of the efficiency 
+criterion of the pipeline protection, i.e., the UHVLGXMOµ XQLIRUP ŃRUURVLRQ UMPHB $P 
+the moment, we can agree with the authors of [18] that a rate of uniform corrosion 
+below 25 µm/year measured over a period of one year is an indicator of efficient 
+CP, but it is impossible to make a final decision on the magnitude of this criterion 
+without the large-scale use of corrosion sensors. 
+Ranking pipeline sections based on the use of corrosion sensors provides grounds 
+for  decreasing  (in  absolute  magnitude)  the  CP  protective  potential  at  pipeline 
+sections  with  low  corrosion  susceptibility,  or  otherwise  strengthening  the 
+corrosion  protection  (by  CP  installation,  changing  the  operating  modes  of the 
+cathodic stations, pipeline re-insulation) at pipeline sections with high corrosion 
+susceptibility. 
+Prediction of the origination of hazardous corrosion defects under delaminated 
+24 
+ 
+pipeline coatings remains the most difficult problem of CM. However, the progress 
+made in understanding the stress corrosion mechanism in pH-neutral soils and the 
+development of express methods for determining the chemical composition of soil 
+electrolytes and electrode reaction rates leading to the growth of cracks, allows 
+one  to  expect  a  substantial  improvement  in  the  reliability  of  the  methods  for 
+diagnostics of potentially hazardous pipeline segments. 
+References 
+[1] Cole,  I.S.,  &  Marney,  D.  The  science  of  pipe  corrosion:  A  review  of  the 
+literature on the corrosion of ferrous metals in soils. Journal of Corrosion 
+Science, 56 (2012) 5-16. 
+[2] Peabody A.W.  Control  of  Pipeline  Corrosion,  2nd  ed.,  ed.  R.  Bianchetti. 
+Houston, TX: NACE International (2001).  
+[3] NACE Standard SP0169-2007 Control of External Corrosion on Underground 
+or Submerged Metallic Piping Systems. 
+[4] ANSI/NACE  SP0502-2008.  Pipeline  External  Corrosion  Direct  Assessment 
+Methodology. Houston, TX: NACE (2008). 
+[5] Baeckmann,  W.  &  Schwenk,  W.  Handbuch  des  kathodischen 
+Korrosionsschutzes. (2th ed). Basel: Verlag Chemie, (Chapter 2) (1980). 
+[6] Florianovich, G.M. Mechanism of active dissolution of metals of iron group. 
+Advances in science and technology. Ser. Corrosion and corrosion protection, 
+(in Russian) 6 (1978) 136-164. 
+[7] Zartsin,  I.D.,  &  Marshakov,  A.I.  Thermodynamic  conjugation  of  the  partial 
+processes  of  metal  corrosion  in  the  presence  of  oxidizers.    Protection  of 
+Metals, 32 (1996) 388-393. 
+[8] Marshakov,  A.I.,  & Mikhailovsky,  Yu.N.  Effect  of  oxygen  and  oxygen-
+containing oxidizers on the rate of the active dissolution of metals in acid 
+media. Russian Journal of Electrochemistry, 30 (1994) 476-480. 
+[9] Marshakov, A. I., & Ignatenko, V. E. Effect of nitrite anions on the rate of iron 
+dissolution  in  acid  electrolytes. Journal  of  Applied  Electrochemistry, 29 
+25 
+ 
+(1999) 201-207. 
+[10] GOST  R  51164-98  (Russian  State  Standart).  Steel  trunk  pipelines. 
+General requirements from corrosion protection (in Russian). 
+[11] Freiman,  L.I.  A  Simple  Substantiation  of  Monitoring  the  Cathodic 
+Protection  of  Underground  Pipelines  by  Potential  Sensors.  Protection  of 
+metals, 37 (6) (2001) 605-607. 
+[12] Mikhailovsky,  Yu.N.,  Marshakov,  A.I.,  &  Petrov,  N.A.  Monitoring  of 
+underground  pipeline corrosion  condition  with  sensory  instruments. 
+Protection of Metals, 33 (3) (1997) 293-295. 
+[13] Mikhailovsky,  Yu.N.,  Marshakov,  A.I.,  Ignatenko,  V.E.,  & Petrov,  N.A. 
+Estimation of the probability of hydrogen embrittlement of steel pipelines in 
+the operation zones of cathodic stations. Protection of Metals, 36 (2) (2000) 
+118-123. 
+[14] Khan,  N.A.  Use  of  ER  Soil  Corrosion  Probe  to  Determine  the 
+Effectiveness  of  Cathodic  Protection.    Corrosion/02.  Houston,  TX:  NACE, 
+(2002) paper no. 104. 
+[15] NACE  Publication  1C184.  Hydrogen  permeation  measurement  and 
+monitoring technology. Houston, TX: NACE (2008). 
+[16] Nielsen,  L.V.  Hydrogen-related  stress  corrosion  cracking  in  line  pipe 
+sPHHOB  HQ  3URŃHHGLQJV  (852F255·E7  OHOG  22-25  September.  Trondheim, 
+Norway, 1 (1997) 141. 
+[17] Ignatenko,  V.E.,  Marshakov,  A.I.,  Marichev,  V.A.  et  al.  a. Effect  of 
+cathodic polarization on the corrosion cracking rate in pipe steels. Protection 
+of Metals, 36 (2) (2000) 111-117. 
+[18] NACE Publication 05107. Corrosion Probe in Soil or Concrete. Houston, 
+TX: NACE (2007). 
+[19] Ignatenko,  V.E.,  Marshakov,  A.I.,  Rybkina,  A.A.  et  al.  Highly  sensitive 
+indicator  for  monitoring  the  corrosion  state  of  underground  pipe-lines. 
+Corrosion: materials and protection, (in Russian) 5 (2005) 12-17  
+[20] Marshakov, A.I., Petrov, N.A., Nenasheva, T.A. et al. Monitoring of the 
+26 
+ 
+external corrosion of underground steel pipelines. Corrosion: materials and 
+protection, (in Russian) 4 (2011) 13-23.  
+[21] Mikhailovsky,  Yu.N.,  Marshakov,  A.I.,  Popova,  V.M.  et  al.  Hydrogen 
+penetration  sensor  for  steel  constructions  in  a  variety  of  corrosion 
+environments. Zashchita metallov, (in Russian) 29 (4) (1993) 647-649.  
+[22] Standard  DIN  50  929.  Corrosion  of  metals. Underground  and 
+underwater  pipelines  and  structural  components,  Berlin,  German:  Institute 
+for Standardization. (Part 3) (1985). 
+[23] Mikhailovsky, Yu.N., Marshakov, A.I., & Ignatenko, V.E. b. Monitoring of 
+the  corrosion  state  of  underground  pipelines  with  corroding  resistors-
+transducers. Protection of Metals, 36 (2) (2000) 583-587. 
+[24] Marichev,  V.A. Ambiguous  effect  of  cathodic  polarization  on  crack 
+growth  as  the  general  regularity  of  stress-corrosion  cracking  of  structural 
+materials. Werkstoffe und Korrosion, 40 (1989) 304-308. 
+[25] Been, J., King, F., & Sutherby, R. Environmentally assisted cracking of 
+pipeline  steels  in  near-neutral  pH  environments.  Environment-induced 
+cracking of materials. Amsterdam: Elsevier, 2 (2004) 221. 
+[26] Li, M.C., & Cheng, Y.F. Mechanistic investigation of hydrogen-enhanced 
+anodic dissolution of X-70 pipe steel and its implication on near-neutral pH 
+SCC of pipelines. Electrochimica Acta, 52 (28) (2007) 811-8117. 
+[27] Liu, Z.Y., Li, X.G., & Cheng, Y.F. Mechanictic aspect of near-neutral pH 
+stress corrosion cracking of pipelines under cathodic polarization. Corrosion 
+Science, 55 (1) (2012) 54-60. 
+[28] Baker,  M.  Integrity  Management  Program.  Stress  corrosion  cracking 
+study. Department of Transportation. Office of Pipeline Safety, final report, 
+OPS TTO8. Basel: Verlag Chemie, (2005) p. 63. 
+[29] Eadie,  R.L.  Near-Neutral  pH  Stress  Corrosion  Cracking  in  Steel 
+Pipelines. 16-th International Corrosion Congress. September 19-24. Beijing. 
+China. (2005) paper no. 04-Keynote. 
+[30] Malkin, A.I., Marshakov, A.I., Ignatenko, V.E., & Arabei, A.B. Processes of 
+27 
+ 
+nucleation  and  growth  of  corrosion  cracks  on  main  pipeline  steel.  Part  2 
+Kinetic  regularities  and  effect  of  exploitation  conditions  on  SCC  of  pipe 
+steels  in  aqua  media.    Corrosion:  materials  and  protection, (in  Russian) 2 
+(2010) 1-13. 
+[31] Yang, W., Li G., Guo, H., Huang, C., & Zhou, J. Stress corrosion cracking 
+of pipeline steels. 16-th Int. Corros. Congress; Beijing. China. (2005) paper 
+no. 10-SCC-13. 
+[32] Eadie, R.L., Szklarz, K.E., & Sutherby, R.L. Corrosion fatigue and near-
+neutral  pH  stress  corrosion  crackinf  of  pipeline  steel  and  the  effect  of 
+hydrogen sulfide. Corrosion, (2005) 61 (2) 167-173. 
+[33] Petrunin,  M.A.,  Maksaeva,  L.B.,  Yurasova,  T.A.,  & Marshakov,  A.I. 
+Initiation  of  stress  corrosion  cracking  on  pipe  steels.  Effect  of  corrosion-
+active media composition. 207 Meeting of the Electrochem Soc., May 15-20, 
+Quebec, Canada. (2005) paper no 241. 

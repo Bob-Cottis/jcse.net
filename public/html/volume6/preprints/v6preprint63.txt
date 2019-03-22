@@ -1,0 +1,188 @@
+Volume 6 Paper H003 Corrosion Resistant CVD Mullite Coatings
+S.N. Basu and V.K. Sarin
+
+Department of Manufacturing Engineering, Boston University, Brookline, MA 02446, USA, basu@bu.edu
+
+Abstract
+Dense, crystalline mullite (3Al2O3.2SiO2) coatings of uniform thickness have been deposited by chemical vapor deposition (CVD) on SiC substrates, using the AlCl3-SiCl4-CO2-H2 system. A graded coating composition has been achieved in the coatings, with the Al/Si ratio being close to stoichiometric (~ 3) at the coating/substrate interface for CTE for superior hot-corrosion resistance. These mullite coatings have exhibited excellent high temperature oxidation, hot-corrosion and coalslag corrosion resistance and have proven to be very effective in protecting the SiC substrates from corrosive atmospheres. Keywords: mullite, environmental barrier coatings, chemical vapor deposition, oxidation, hot-corrosion, coal-slag corrosion. match, and increasing monotonically towards the outer coating surface
+
+Introduction
+Over the next decade, the increase in demand for electricity in the United States is projected to be around 80 GW [1]. A major portion of this increased demand will be met by advanced gas turbine systems. This next generation of advanced gas turbine systems will have to operate with improved fuel efficiency and reduced emissions, mandating the use of higher operating temperatures. Currently, superalloys with thermal barrier coatings have been driven close to their limit in high temperature applications. For a significant increase in operating temperatures, a new
+
+class of materials will have to be introduced. Silicon-based ceramics such as SiC and Si3N4 are leading candidate materials for the next generation of high temperature materials. Although these Si-based ceramics have excellent oxidation resistance due to the formation of a protective SiO2 layer at the surface during high temperature exposures, they have two major limitations. In complex combustion environments, the presence of elements such as Na, Va, and S, lead to the formation of corrosive oxides such as Na2O, V2O5, SO2 and SO3. These oxides react with the protective silica scales formed on the Sibased ceramics forming non-protective low melting temperature silicates, leading to severe pit formation, material loss and increased porosity [2]. Also, in the presence of high-pressure water vapor, the protective silica scale volatilizes to gaseous Si-O-H species, exposing the ceramic surface [3]. This leads to an accelerated oxidation of the ceramic surface to SiO2, which in turn volatilizes. This repeated cycling of oxidation and volatilization leads to a rapid recession of the surface of the Si-based ceramic. To avoid the problems of hot corrosion and recession, refractory environmental barrier coatings (EBC) on these Sibased ceramics need to be developed. Environmental barrier coatings have several requirements [4]. The surface of the coating needs to be environmentally durable to the aggressive atmospheres it is exposed to. The coating has to act as an
+
+effective diffusion barrier, and must be mechanically tough to be free of cracks in order to prevent exposure of the substrate to the environment. The coating must be stable to avoid deleterious phase changes during long-term high temperature exposures. The coatings should have a close coefficient of thermal expansion (CTE) match with the substrate to minimize thermal stresses during temperature cycling. And finally, the coating should have a good chemical compatibility with the substrate for adherent bonding at the interface.
+
+Several coating systems have been explored for protection of SiC against hot-corrosion and recession. Although alumina and zirconia have 2 excellent hot-corrosion and recession resistance, they lack toughness
+
+and have a substantial CTE mismatch with the Si-based ceramics (SiC: 4.3-5.6 X106/oC, Al2O3: 7.2-9.1X106/oC, ZrO2: 7.0-10.1X106/oC). Consequently, yttria stabilized zirconia coatings deposited by electron beam assisted physical vapor deposition (EB-PVD) and layered multiphase AlN/Al2O3+ZrO2, grown by CVD on SiC substrates were found to fail at 1200°C by blistering, cracking and spalling under thermal cycling and contact stresses [5]. Mullite (3Al2O3·2SiO2) is a promising coating material for silicon-based ceramics due to its excellent corrosion resistance, creep resistance and high temperature strength. Mullite has a much better CTE (3Al2O3.2SiO2: 5.7X106/oC) match with the SiC. Plasma sprayed mullite and mullitebased EBCs have been deposited on SiC substrates for hot-corrosion
+
+protection [6]. In this study, mullite EBCs have been deposited by the CVD technique, which lends itself readily for control of coating microstructure, uniformity and thickness, even on complex parts with edges, corners and curvatures. In addition, the CVD process leads to coatings that have substantially lower residual stresses due to the lack of rapid quenching inherent to the plasma spray process, thereby avoiding porosity and microcracks.
+
+Growth of Mullite Coatings
+H2 system in a hot-wall CVD reactor [7], with the overall reaction: 6AlCl3 + 2SiCl4 + 13CO2+ 13H2 Mullite coatings were grown on SiC substrates using the AlCl3-SiCl4-CO2-
+
+3Al2O3·2SiO2+ 13CO + 26HCl (1)
+
+a mullite
+
+b
+
+SiC
+3
+
+Figure 1. SEM micrographs of CVD mullite coatings on a) planar SiC and b) SiC fibers. Detailed thermodynamic analysis of the AlCl3-SiCl4-CO2-H2 system was
+
+carried out to identify the parameters to be used for CVD mullite growth [7]. These results were used to identify the range of process parameters within which coating optimization was experimentally carried out. The optimal growth temperature was found to be 950°C with a deposition rate of ~ 5 microns/hr. Figure 1a shows a fracture cross section of a typical adherent and uniform mullite coating on SiC. As mentioned, the CVD process has the ability to deposit uniform coatings on parts with complex shapes with large curvatures. Figure 1b shows a 20 micron diameter SiC fiber uniformly coated with CVD mullite [8]. It has been found that CVD mullite coatings can be grown with a range of input AlCl3/SiCl4 ratios. The change in the gas-phase composition in the
+
+CVD reactor leads to a change in the surface composition of the growing coating. With an appropriate choice of gas-phase AlCl3/SiCl4 input ratio,
+
+a
+
+10 8 6
+
+nanocrystalline layer
+
+b
+
+Al/Si Rati 4 o
+2 0 0 2 4 6 8 crystalline layer
+
+QuickTimeTM and a Photo - JPEG decompressor are needed to see this picture.
+
+2 µm
+
+10
+
+Distance from interface (µm)
+
+the coating composition can be graded [9], as shown in Figure 2 (the 4
+
+composition is expressed as the Al/Si ratio, with the stoichiometric Al/Si ratio in mullite being 3). Figure 2. a) Composition (expressed as the Al/Si ratio) variation in a functionally graded CVD mullite coating. b) Cross-sectional TEM micrograph of crystalline mullite grains. There are several interesting features in Figure 2, which need to be elaborated upon. Firstly, when the composition is graded, mullite grains growing coating is within a narrow range of 3.2±0.3 [10], which is do not nucleate during deposition unless the surface composition of the around the value of stoichiometric mullite. Interestingly, the same holds true if the composition is graded to be alumina-rich, as was the case for growth on Al2O3 substrates, in which the Al/Si ratio close to the interface was high (>5). In either case, when the Al/Si ratio was outside the critical range (3.2±0.3), mullite did not nucleate directly. Instead, co-deposition in a vitreous silica matrix occurs [11]. Figure 3a shows the TEM of nano-sized (~5 nm) -Al2O3 crystallites (SAD pattern shown in Figure 3)
+
+micrograph of the region of transition from the `nanocrystalline' to crystallne layer on a SiC substrate. However, once nucleated, the mullite grains can be made to grow over a wide range of non-stoichiometric compositions. Figure 2b shows a TEM micrograph of mullite grains
+
+whose surface composition is highly alumina-rich (Al/Si ratio of ~ 8).
+
+a
+
+Crystalline mullite
+
+b
+
+-alumin a + silica 10 nm 100 nm
+
+5
+
+Figure 3. a) transition region between the nanocrystalline to the crystalline region in an as-deposited CVD mullite coating. The inset diffraction pattern of the crystalline layer is consistent with [001] mullite, while that from the nanocrystalline layer is consistent with nanocrystalline -alumina. b) Complete transformation of the nanocrystalline layer to equiaxed mullite grains after a 100 h anneal at 1300°C. The SAD pattern from one of the grains is consistent with [214] mullite.
+
+Phase Transformations in Mullite Coatings
+The nanocrystalline region gets converted to mullite on annealing at temperatures of 1100oC and above. Figure 3b shows such a transformation to equiaxed mullite grains after a 100 h anneal at 1300°C. A accompanying SAD diffraction pattern from one of the equiaxed grains is consistent with mullite. It is important to note that this transformation occurs without any microcracking, or porosity formation [12]. The adhesion of CVD mullite coatings was evaluated by cycling them between 1250°C and room temperature. The test consisted of rapid insertion and removal of the samples from the hot zone of the furnace after holding the sample for 1 hour at temperature. After 500 cycles, the coating exhibited no signs of cracking and/or spallation. The excellent adhesion of the coating can be partially attributed to two reasons. The first is the formation of equiaxed mullite grains in the nanocrystalline layer surface leading to a close CTE match at the coating/substrate interface. The second is the gradation of the CTE across the thickness of the mullite coating, which avoids any abrupt changes of CTE across the coating thickness, while allowing the coating surface to be highly alumina-rich. Furthermore, as can be seen in the cross-sectional TEM micrograph in Figure 4a, the high-alumina coating surface (Al/Si ~ 8) showed no signs of phase separation after a total of 500 h at 1250°C. However, if the coating was further annealed for 100 h at 1400°C, phase transformations in the high-Al regions did occur. Figure 4b shows the regions of the coating. It is significant to note that this precipitation 6 formation of 100300 nm sized - Al2O3 precipitates in the highly Al-rich
+
+phenomenon was not accompanied by the formation of any microcracks. The precipitation of the corundum phase in Al-rich mullite is consistent with reports by other researchers [13], suggesting that annealing Al-rich CVD mullite may be a viable method of producing uniform finely dispersed Al2O3/mullite nano-composite coatings.
+
+a
+
+b - Al2O3 2 µm
+
+QuickTimeTM and a Photo - JPEG decompressor are needed to see this picture.
+
+mullit e
+
+100 nm
+
+Figure 4. TEM micrographs showing a) no phase separation in the Al-rich portion of the CVD mullite coating after 500 at 1250°C, while b) nanosized -alumina precipitates form after 100 h at 1400°C.
+
+Oxidation and Corrosion Protection
+The mullite coatings were excellent oxidation barriers for SiC substrates. Figure 5 shows a plot of weight gain for mullite-coated and uncoated Nicalon SiC fibers oxidized in flowing oxygen at 1300°C [8]. The uncoated fibers were found to gain weight due to the formation of SiO2 at the the mullite coated SiC fibers showed almost no weight gain, and exhibited no signs of cracking or spallation after oxidation. surface, part of which spalled when the sample was cooled. In contrast,
+
+7
+
+14 12 10 % Wt 8 gain 6 4 2 0 0 20 40 60 Time (h
+Figure 5. Weight gain versus time plots for uncoated and CVD mullite coated SiC fibers oxidized at 1300°C for 100 h.
+
+80
+
+100
+
+Mullite coated and uncoated SiC substrates have also been subjected to hot corrosion tests by loading the surface with about 5 mg/cm2 of 1100°C for 300 hours [14]. The uncoated SiC substrate showed Na2SO4 and subjecting the samples to flowing oxygen (200 sccm) at substantial weight gain after an initial weight loss. Weight loss occurs due to the formation of gaseous products while weight gain can be attributed to the formation of silica due to oxidation of SiC. The silica scale formed by oxidation of SiC reacts with Na2SO4 to form a liquid phase, through which transport is rapid enough to expose the surface of the non-reacted SiC to further oxidation [2]. The depth of hot-corrosion attack was found to be in excess of 20 µm for the uncoated SiC substrate as shown in weight gain. Examination of the sample after oxidation showed no Figure 6a. In direct contrast, the mullite coated SiC sample exhibited no formation of silica. The Al rich surface of mullite allowed the coating to remain unreacted in the presence of molten Na2SO4, as shown in Figure 6b, indicating that the CVD mullite coating acted as a very effective hot corrosion barrier.
+
+8
+
+a
+
+b
+
+CVD Mullite
+
+Figure 6. Cross sections of a) uncoated and b) CVD mullite coated SiC after 300 h exposure to molten Na2SO4 at 1100°C. The effectiveness of CVD mullite coatings against corrosion attack by an 1260°C, the uncoated SiC substrates suffered severe material loss and
+
+acidic Fe-based coal slag was investigated [15]. After a 300h exposure at pitting due to coal slag corrosion, as shown in Figure 7a. Uniform CVD mullite coatings were found to be very effective in protection against the coal slag. The coating did not degrade in the presence of the liquid slag and did not allow liquid slag seepage to the SiC substrate. As shown in Figure 7b, the CVD mullite coating protected the substrate from pitting. Although some diffusion of Fe to the coating/SiC interface was seen, no cracking or spallation was observed in the uniform mullite coatings.
+
+Conclusions
+Dense, adherent and uniform CVD mullite coatings were deposited on SiC substrates. These coatings had a graded composition, being close to stoichiometric mullite at the interface, and Al-rich at the surface. The coatings exhibited excellent high temperature oxidation and corrosion resistance and were highly successful in protecting the SiC substrates from aggressive environments.
+
+9
+
+a
+a
+
+b
+
+100
+
+Figure 7. Coal slag corrosion of a) uncoated and b) CVD mullite coated SiC after 100 h at 1260°C.
+
+Acknowledgements
+The authors would like to acknowledge Dr. Michael Auger, Dr. Ping Hou and Dr. Arun Pattanaik for their contributions to this research. The electron microscopy studies were carried out at the Center for Electron Microscopy at MIT. This research has been partially supported by the National Science Foundation under contract No. CMS 01122539.
+
+References
+1. 'Vision 21 Program Plan, Clean Energy Plants for the 21st Century', Federal Energy Technology Center, U.S. Department of Energy, 1999. 2. 'Corrosion of Silicon-Based Ceramics in Combustion Environment', N.S. Jacobson, J. Am. Ceram. Soc., 76 , 1, pp3-28, 1993.
+
+3. 'SiC Recession Caused by SiO2 Scale Volatility under Combustion Conditions: I, Experimental Results and Empirical Model', R.C. Robinson and J.L. Smialek, J. Am. Ceram. Soc., 82, 7, pp1817-27, 1999.
+
+Ceramics', K.N. Lee, Surface and Coatings Tech., 133-134, pp1-7, 2000.
+
+4. 'Current Status of Environmental Barrier Coatings for Si-Based
+
+10
+
+5. J. Schienle and J. Smyth, Final Report, ONRL/Sub/84-47992/1 (1987), Garrett Turbine Engine Company. 6. 'New Generation of Plasma-Sprayed Mullite Coatings on Silicon 3, pp705-710, 1995. Carbide', K.N. Lee, R.A. Miller and N.S. Jacobson, J. Am. Ceram. Soc., 78,
+
+7. 'Synthesis of Mullite Coatings by Chemical Vapor Deposition', R.P. Mulpuri and V.K. Sarin, J. Mater. Res., 11, 6, pp1315-1324, (1996). 8. 'Mullite interfacial coatings for SiC fibers', S. Varadarajan, A.K. 2001.
+
+Pattanaik and V.K. Sarin, Surf . & Coatings Technol., 139, pp153-160,
+
+9. 'Formation of Mullite Coatings on Silicon Based Ceramics by Chemical
+
+Vapor Deposition', S.N. Basu, P. Hou and V. K. Sarin, Journal of Refractory
+
+Metals and Hard Materials, 16, 4-6, pp343-352, 1999.
+
+10. 'Nucleation Mechanisms in Chemically Vapor-Deposited Mullite 14, 7, pp2952-2958, 1999.
+
+Coatings on SiC', P. Hou, S. N. Basu and V. K. Sarin, J. Materials Research,
+
+11. 'Structure of Mullite Coatings Grown by Chemical Vapor Deposition ', pp48-54, 1997.
+
+D. Doppalapudi and S. N. Basu, Materials Science and Engineering, A231,
+
+12. 'Structure and high temperature stability of compositionally graded
+
+Journal of Refractory Metals and Hard Materials, 19, 4-6, pp467-477,
+2001. 13. 'Formation of alumina rich 9:1 mullite and its transformation to low
+
+CVD mullite coatings', P. Hou, S.N. Basu and V.K. Sarin, International
+
+Eur. Ceram. Soc. 16, pp109-113, 1996.
+
+aluminum mullite upon heating', R.X. Fisher, H. Schneider and D. Voll, J.
+
+14. 'High Temperature Oxidation and Corrosion of CVD Mullite Coated
+
+SiC', A.K. Pattanaik and V.K. Sarin, Surface Modification Technologies XII, 11
+
+T.S.Sudarshan, K.A.Khor, and M.Jeandin, Eds., ASM International, Materials Park,OH, pp91-101, 1998. 15. 'Coal Slag Protection of SiC with Chemically Vapor Deposited Mullite 10, pp2429 -2435, 2000. Coatings', M.L. Auger, A. Sengupta and V.K. Sarin, J. Am. Ceram. Soc., 83,
+
+12
+

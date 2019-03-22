@@ -1,0 +1,291 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Factors Affecting the Autocatalytic Dissolution of Cobalt in HNO3 S. M. Abd El Haleem and E. E. Abd El Aal* Chemistry Department, Faculty of Science, Zagazig University, Zagazig, Egypt *Author to whom corresponding should be addressed. * E-mail: emad_abdelaal@hotmail.com Abstract Cobalt corrodes in dilute HNO3 solutions according to an autocatalytic mechanism involving the formation of HNO2 . The rate of metal dissolution increases with the acid concentration. Passivation of cobalt starts to take place in concentrated HNO3 solutions due to the formation of a passive oxide film on the metal surface. Addition of inorganic anions in either neutral or acidic forms affects the rate of cobalt dissolution and supports the proposed autocatalytic mechanism. Introduction Inspite of the undoubted scientific and practical importance of cobalt as an alloying element usually used to improve the corrosion resistance of many metals [1- 6], its electrochemical behaviour has not been studied in depth. The corrosion and passivation behavior of cobalt in aqueous solutions depend mainly on the composition and pH of the solution [7-10]. According to the theoretical potential- pH diagrams [11], cobalt is uncorrodible in neutral or alkaline solutions free from oxidizing agents, slightly corrodible in acid solutions free from oxidizing agents. However, in presence of such oxidizing agents Co becomes very corrodible in acidic and alkaline solutions [12]. Most investigations on cobalt have been carried out in basic solutions where a stable passive film is formed on the metal surface [13-21]. In acidic solutions, on the other hand, the passive film carried out by the metal surface
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+is unstable and dissolves via a pure chemical reaction [5,19,20]. The opencircuit potential of cobalt, in acidic solutions, (pH 1- 6), does not change with time, its value depends on the solution pH and becomes more negative as the pH increases [19]. The kinetics of the passivation and activation of cobalt in orthophosphoric and perchloric acids are investigated by Heusler [7]. Stationary state passivity of cobalt is due to a multiphase oxide formation. The higher oxide next to the electrolyte dissolves very slowly while a highly soluble lower oxide forms in contact with the solution below a well-defined potential. On account of the large hydrogen overpotential of cobalt, it is practically uncorroded by nonoxidizing acids [11]. However, if it is put in contact with a substance of low hydrogen overpotential such as platinum, corrosion occurs with evolution of hydrogen [7,22]. Hydrogen evolution on cobalt in acid solutions is assumed to take place according to the proton discharge-electrochemical desorption mechanism. In presence of water cobalt covers itself with a layer oxide and becomes passive [11]. The present paper reports on the corrosion of cobalt in HNO3 solutions. Special attention is paid to the effect of acid concentration, solution volume / surface area ratio and the presence of several inorganic additives. Because the reaction between cobalt and HNO3 solution is highly exothermic, the Mylius thermometric corrosion test [23] is used. This method has been applied to study the corrosion of a variety of metals [24- 32], metal powders [33] and alloys [34,35]. The technique has proved to be of value in the rapid evaluation of additives [27-32] and in studying pitting
+
+corrosion [25,26,28,34,36]. Experimental The Mylius corrosion test depends on measuring the temperature variation during the reaction of a metal test piece with a definite volume of a 2
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+corroding solution [23]. Starting from an initial temperature (Tinitial), the temperature rises to a maximum value (Tmax. ) and then decreases again. The reaction number (R.N.) is defined as: R.N. =
+Tmax. - Tinitial C min -1 t
+
+where t is the time taken from the start of experiment to reach Tm . The R.N. is proportional, therefore, to the rate of corrosion of the metal. The thermometric vessel used is made of Pyrex glass. Kept inside a Dewar flask to minimize heat radiation. In the present investigation cobalt powder is used as the test metal. A weighed sample of the powdered metal is assumed to be proportional to a definite surface area [33]. Dissolution of the cobalt samples is studied in HNO3 solutions of different concentrations. These are prepared by dilution from a concentrated mother solution of B.D.H quality. The molarites are determined by titration against a standard NaOH solution using methyl orange as indicator. All chemicals used are of A.R. grade and are used without any further purification. Several sets of experiments are carried out. In one set, weighed samples of cobalt, of specified surface area, are made to react with a constant volume (15 ml) of HNO3 solutions of increasing concentration. In other set of experiments, the reverse, cobalt samples of increasing weights (increasing surface areas) are made to react with 15 ml HNO3 solutions of one and the same concentration. In another set of experiments, the effect of increasing the volume of HNO3 solution of a definite concentration on the reaction rate of certain weighed samples of powdered cobalt (constant surface area) is examined.
+
+3
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+The effect of addition of increasing concentrations of NaNO2, NaNO3, NaCl, Na2SO4, Na3PO4, HCl, H2SO4 and H3PO4, on the dissolution of cobalt in 4 M HNO3 is also examined. Results and Discussion The curves of Fig. 1( A and B) represent the variation of the temperature of the system when 0.5 gm of cobalt samples, of specified surface area, are made to react with 15 ml of HNO3 of different concentrations. As can be seen, the reaction between cobalt and HNO3 is violent and the temperature increases steadily and rapidly with time to attain a maximum value, Tm , before it declines again slowly. The maximum temperature depends on the acid concentration, becomes higher the higher the latter. Within the concentration range studied. T, i.e. (Tm - Ti), varies with the acid molarity, M, according to the curve of Fig. 2 (A). From this curve, T varies linearly with the acid concentration up to 4 ­ 5 M HNO3, while between ~ 5 and 7 M HNO3, T becomes more/or less independent of the acid concentration. However, at acid concentration higher than 8M, T starts to drop gradually. A clearer picture about the reaction between cobalt and HNO3 is obtained when one considers the variation of the reaction number (R.N.) with the acid concentration. As is seen from Fig. 2 (B), the R.N. increases with the acid concentration, and reaches a maximum at  6M. The occurrence of a maximum in the R.N. - concentration curve indicates that the metal dissolution in HNO3 is governed by two opposing reactions. The first favouring corrosion, and increases with the acid concentration. A behaviour which will be treated later on the basis that the dissolution reaction depends more on the NO3- ion (or one of its reduction product) than on the overall acidity of the solution. On the other hand, further increase in the nitric acid 4
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+concentration, more than 6M solutions, raises in the meantime the oxidizing properties of the medium, which helps in developing and sustaining a passive film on the surface of the metal. The stability of the passive film in solutions of concentration higher than 6M HNO3 increases with the acid concentration and the overall rate of cobalt dissolution is lowered and correspondingly the R.N. steadily decreases. It is of interest to note that similar behaviour was reported in the case of iron [25], steel [36, 37] , tin [27], lead [31,32] and nickel [28]. The reaction between HNO3 and a base metal like zinc and magnesium produces compounds rich in H2 (e.g. NH3 or NH2- NH2). On the other hand, the attack on a noble metal such as copper or silver leads to the formation of O2 - rich products such as NO, NO2 and HNO2 [38]. The reaction between Fe, Ni and Co has features common to both types of metals. It yields both ammonium salts as well as nitrogen oxides [38]. Therefore, a simple mechanism, which accounts for the autocatalytic character of the attack, assumes the primary displacement of H+ ion from the solution [38]: H+ + e = H (7)
+
+Because the interaction between the metal atoms and HNO3 represents a path with a considerable decease in free energy, hydrogen evolution does not occur, and the acid is reduced instead: H + HNO3 = H2O + NO2 (8)
+
+The formed NO2 is assumed to adsorb on the metal surface and to take up an electron to yield NO2-. This in strong acid solutions gives undissociated HNO2, which reacts with HNO3 to yield two NO2 molecules: NO2 + e = NO2H+ + NO2- = HNO2 5
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+(9) (10)
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+HNO2 + HNO3 = 2NO2 + H2O
+
+(11)
+
+Equation (11) represents the chain propagation reaction, since two molecules of NO2 are produced form the disappearance of a single molecule. Chain termination on the surface of cobalt occurs through reduction of HNO3 and formation of HNO2. The results of the present investigation lend support to some of the steps suggested in the above mechanism. These results will be shown later based on the effect of various additions on the dissolution behaviour of cobalt in 4 M HNO3. Passivity of Co established in HNO3 solution > 6M, is thought to take place when enough HNO2 is formed. The latter would act as a cathodic depolarizer that raises the anodic current density on Co surface to the level required for passivation to take place [28, 30-32]. Effect of solution volume/surface area ratio on the dissolution of cobalt in HNO3 Temperature-time curves for the dissolution of cobalt in HNO3 solutions are constructed to show the effect of changing the ratio of solution volume/surface area exposed, on the dissolution process. Two sets of experiments are carried out. In the first, cobalt samples of increasing weights (increasing surface areas) are made to react with 15 ml 6 M HNO3 solutions, Fig. 3. The curves have the same features as those reported in Fig. 1. The maximum temperature, Tm, increases with increasing the exposed surface area, while the time, t, required to reach these maxima becomes shorter. Both effects indicated increased dissolution rate as the exposed surface area increases. The more interesting feature of the curves of Fig. 3, is the fact that
+
+6
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+the slope of the rising pats of the curves which reflects the rate of reaction is markedly increased with increasing in the exposed surface area. Quite different is the effect of increasing the volume of the corroding HNO3 solutions while keeping the exposed surface area (weight of samples) unchanged. Fig. 4 represents such behaviour when cobalt test samples of (0.5 gm) are made to react with increasing volumes (5-25 ml) of 6 M HNO3 , solutions. These curves reveal that the maximum temperature, Tm, becomes very low as the acid volume increases, while the time taken to reach this maximum becomes shorter. The slope of the rising parts of the curves of Fig. 4 remains more/ or less unchanged irrespective of the solution volume, indicating that the mechanism of dissolution of Co is always the same. Although the features of the curves of Figs. 3 and 4 are qualitatively different, they reveal the same conclusion that increasing the solution volume/surface area ratio affects the R.N. of the dissolution of cobalt in HNO3. That this is actually the case can be seen from Fig. 5 which shows that, within the experimental range examined using both procedures, the reaction number (R.N.) of the dissolution of cobalt in 6M HNO3 remains more or less unchanged up to a solution volume/ surface area ratio  50.
+
+However, using procedure 1, it is very clear that when the solution volume/area ratio is further increased, the reaction number (R.N.) starts to decrease markedly due to decreased corrosion rate. This last behaviour is not quite clear from the curve obtained, using procedure 2, since the solution volume/ surface area ratio does not exceed the value of 50. Effect of Inorganic additives The effect of addition of some inorganic anions, in the form of either their neutral salts or acids , on the dissolution of Co in 4 M HNO3 solutions is also investigated. This acid concentration represents the range where Co is 7
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+assumed to dissolve freely in HNO3 solutions according to the autocatalytic mechanism (Eqs. 6 - 11). Of interest is the behaviour of both NO2- and NO3- ions when added to 4M HNO3 acid solutions. The curves of Fig. 6 (A and B) represent the thermometric behaviour of Co when increasing concentrations of NaNO2 and NaNO3 are, respectively, added to 4 M HNO3 acid solutions. Thus, the addition of NO2- ions up to 10-3 M promotes the corrosion of Co by increasing the R.N. above that measured in the additive- free solution, as a result of the simultaneous increase in Tm and the diminution of the time, t, necessary to reach this maximum temperature. This could be clearly demonstrated by curve 1 in Fig. 7,which represents, the percentage variation in R.N.:
+
+(R.N.) add - (R.N.) free X100 (R.N.) free
+
+(12)
+
+as a function of the logarithms of the molar concentration of the additives. The percentage increase in R.N. in presence of NO2- ions up to 10-3 M supports the proposed participation of the NO2- ions or one of its reaction products in the rate-determining step of the autocatalytic mechanism, (Eqs. 9 and 10). However, the addition of NO2- ions in concentrations higher than 10-3 M, causes the decrease of the rate of Co dissolution. This could be recognized from the noticed decrease of the R.N. calculated at these relative high NO2- ion concentrations. Corrosion retardation (in presence of these NO2- concentration) is assumed to be due to the possible formation of oxide film on the metal surface and/or to the inhibitive effect of the possibly produced ammonia and/or some H2- rich species e.g. reduction products, which act as adsorption inhibitors [34, 39].
+
+8
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+It is of interest ,however, to note that while the increase of HNO3 concentration increases the rate of dissolution of Co, the addition of NaNO3 inhibits it. This could be clearly seen from the curves of Fig. 6 (B) and curve 2 of Fig. 7, which shows that the addition of NO3- ions causes the decrease of the R.N. with increasing the nitrate concentration. A behaviour which strongly illustrates the participation of the H+ in the dissolution mechanism, as has been assumed in step (10). The fact that the NO3- ion inhibits the dissolution of Co more than the other studied ions may be attributed to its reduction on the surfaces of Co according to a reaction of the type [40]. NO3- + 10 H+ + 8 e = NH4+ + 2H2 O (13)
+
+In the presence of excess NO3- ion, the consumption of H+ ions at the level of the electrode surface in the ratio of 10 H+ to each NO3- ion would hinder the chain propagation of the autocatalytic mechanism, leading to the observed retardation of metal dissolution . Similar behaviour was demonstrated for the dissolution of Cu in HNO3 [26], which depends not only on the H+ and NO3but also on the H+/NO3- ratio, as is clear from curve 2 of Fig.( 7). The effect of chloride, sulphate and phosphate ions on the dissolution of Co in 4M HNO3 solutions is further investigated. The ions are added either in their neutral or acidic forms. As can be seen from the curves of Fig. 8 (A and B), these ions in both forms, retard the dissolution reaction of Co . The way by which the percentage variation of R.N. with the logarithms of the additive concentration reveals that the inhibition process takes place in two different ways. Thus, in presence of lower concentrations of these additives a drop in the rate of corrosion is noticed on increasing the additive concentration up to a certain level, which depends on the type of added ions. Thereafter, nearly horizontal plateau regions are obtained in which the rate of corrosion is independent of the further inhibitor addition. In these regions, the 9
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+decrease in R.N. is brought about by both the decrease in Tm and elongation of the time (t) required to reaching that maxima. The inhibiting action of these ions at these lower concentrations is assumed to be due to the adsorption on the active sites of metal surface. The first parts of the curves of Fig. 8 (A and B) represent an adsorption isotherm of the Freundlich type. Both the tendency of adsorption of these ions and the solubility of the corresponding Co salts are expected to determine the extent of their action as inhibitors of Co dissolution. At higher concentration of these ions, a marked decrease in the percentage variation of R.N. is observed with a corresponding increase in the inhibition efficiency of these ions. It is to be noted that the reduction in R.N. at these relatively high concentrations of the additives is brought about by the decrease in Tm while the time , t, remains more/or less unchanged. It is assumed here that inhibition of Co dissolution occurs by a way of interaction with the partial cathodic process. These results can be tentatively explained on the basis of the occurrence of competitive adsorption on the metal surface. These ions are assumed to displace some catholic depolarizing components from the active sites on the metal surface [27,31,32]. The fact that H+ ions are involved in the autocatalytic dissolution of Co in HNO3 (Eq. 10) could be clearly established when one compares the inhibition effect of the added anions when present in their neutral or acid forms. Thus, from the curves of, Fig. (8 A and B), it is clearly seen that in the presence of comparable concentrations of each ion, the percentage reduction of R.N. is larger for the neutral form than for the acidic form of the additives due to the participation of H+ in the autocatalytic dissolution mechanism. From the pervious results, one can conclude that the dissolution of cobalt in HNO3 is inhibited by the added anions and the inhibition efficiency 10
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+decreases in the order: NO3- (strong) > C1- > SO42- > PO43- (weak). Both the tendency of adsorption of these anions and the solubility of the corresponding Co salts are expected to determine the extent of their inhibition action of cobalt dissolution. Conclusions Using the Mylius thermometric method to follow corrosion behaviour of cobalt in HNO3 solutions of different concentration the following conclusions could be drawn: 1-In dilute HNO3 solutions, Co dissolves freely according to an autocatalytic mechanism involving the formation of HNO2 as an intermediate species. 2- In concentrated HNO3 solutions, on the other hand, a passivation process starts to take place on Co surface as a result of formation of an oxide film on the metal surface. 3- The rate of Co dissolution in dilute HNO3 solutions is affected by the change of the solution volume/surface area ratio. 3- The addition of several inorganic anions, in their neutral or acidic forms, affects the rate of Co dissolution in dilute HNO3 solutions, and supports the proposed autocatalytic mechanism. Reference 1-A.R.Trueman, D.P. Schweinsberg and G.A. Hope , Corrosion Sci., 41 (1999) 1377. 2-M.Reyes and A. Neville, J. Material Engineering and Performance,10 (2001) 723. 3-H.Guo and Ch. Liang , J. Biomedical Engineering, 19 (2002) 589.
+
+11
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+4-A.Gunha, S.D. Carpenter, J.Z. Ferreira, D. Carpenter and J.P.E. Farr, Corrosion Engineering Sci. and Technol., 38 (2003) 313. 5-J.Di Martino, C. Rapin, P. Berthod, R. Podor and P. Steinmetz, Corrosion Sci., 46 (2004) 1865. 6-L.Reclaru, H.Lüthy, P. Eschler, A. Blatter and C.Susz. Biomaterials, 26 (2005) 4358. 7- K. E. Heusler, Corrosion Sci., 6 (1965) 183 . 8- D. Sazou, M. Pagitsas and G. Kokkinidis, J. Electroanal. Chem., 289 (1990) 217. 9- D. Sazou and M. Pagitsas, J. Electroanal Chem., 304 (1991) 171. 10-J.A.Calderón, O.R. Mattos, O.E. Barcia, S.I. Córdoba de Torresi, Electrochim. Acta, 47 (2002) 4531. 11-M. Pourbaix, ed. by E. Deltombe and M. Pourbaix, "Atlas of Electrochemical Equilibria in Aqueous Solutions" (Oxford, U.K., Pergamon Press, 1966) p. 322. 12-R.S.Young, Electrochim. Acta, 9 (1964) 1645. 13- T.R. Jayaraman, V.K. Venkatesan and H.V.K. Udupa, Electrochim. Acta , 20 (1975) 209. 14- R.D. Armstrong and A.C. Coates, J. Electroanal. Chem., 50 (1974) 303. 15- H. Gomez Meier, J.R. Vilche and A.J. Arvia, J. Electroanal. Chem., 134 (1982) 251. 16- S.S. Abd El Rehim, A.A. El Basosi and M.M Osman, J. Electroanal, Chem., 348 (1993) 99.
+
+12
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+17- S.S. Abd El Rehim, A.A. El Basosi, S.M. El Zein and M.M Osman, Collect. Czech. Chem. Commun., 59 (1994) 2383. 18-A.M. Human, B.Roebuck and H.E. Exner , Materials Sci. and Engineering, A241 (1998) 202. 19- W.A. Badawly F.M. Al. Kharafi and J.R. Al Ajmi, J. Appl. Electrochem., 30 (2000) 693. 20-S. Sutthiruangwong and G.Mori, International J. of Refractory & Hard Materials, 21 (2003) 135. 21- K.M. Ismail and W.A. Badawy, Apple. Electrochem., 30 (2000) 1303. 22- H. Gohr and H. Kruger, Electrochim. Acta, 11 (1966) 835. 23- F. Mylius, Z. Metallkunde, 14 (1922) 223. 24-K.Aziz and A.M. Shams El Din, Corrosion Sci., 5 (1965) 489. 25-A.M Shams El Din and M. Y. Fakher , Corrosion Sci., 14 (1974) 635. 26- R.H. Saleh, J.M. Abd El Kader, A.A. El. Hosary and A.M Shams El Din, Electroanal. Chem., 62 (1975) 297. 27- S. M. Abd El Haleem, M.G.A. Khedr and M.A. El Kot, Corrosion Prev. & Control, 28 (1981) 5. 28- M. G. A. Khedr, H. M. Mabrouk and S. M. Abd El Haleem, Corrosion Prev. & Control., 30 (1983) 17. 29- H.A. Dossoki, A.A. Abd El Fatah and S.M. Abd El Haleem, Corrosion Prev. & Control., 31 (1984) 18. 30-E.E. Abd El Aal, Bull. Sco. Chim. Fr., 128 (1991) 889. 31-S. Abd El Wanees , E.E. Abd El Aal and A. Abd El Aal , Bull. Sco. Chim. Fr., 128 (1991) 889. J.
+
+13
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+32-E.E. Abd El Aal, S. Abd El Wanees and A. Abd El Aal , J. Materials Science, 27 (1992) 365. 33- B. Sanyal and K. Srivastava, Br. Corrosion J., 8 (1973) 28 . 34- A.M. Shams El Din, A.A. El Hosary and M.M. Gawish, Corrosion Sci., 16 (1976) 485. 35- R.A. Arain and A.M. Shams El Din, Thermochim. Acta, 89 (1985) 171. 36- M.G.A. Khedr, H.M. Killa, W. E. Tayor and S.M. Abd El Haleem, Corrosion Prev. & Control., 29 (1982) 14. 37- S.M. Abd El Haleem, M.G. A. Khedr and H.M. Killa, Br. Corrosion J., 16 (1981) 42 . 38- U.R. Evans, The Corrosion and Oxidation of Metal, Arnold, P. 324 (1960). 39- M.J. Pryor and M. Choen, J. Electrochem. Soc., 98 (1951) 263. 40- R.V. Moshtev, E.B. Budevsky and N.I. Christova, Corrosion Sci., 3 (1963) 125.
+
+14
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig. 1(A). Temperature ­ time curves for the reaction between Co and HNO3 solutions of different concentrations : (1) 1 M , (2) 2M , (3) 3 M, (4) 4 M, (5) 5 M and (6) 6 M.
+
+15
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig. 1(B). Temperature ­ time curves for the reaction between Co and HNO3 solutions of different concentrations : (1) 7 M, (2) 8 M, (3) 9 M, (4) 10 M, (5) 11 M and (6) 12 M.
+
+16
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig.2(A). Variation of the T i.e. ( Tmax. ­ Tinitial) with the concentrations of HNO3.
+
+Fig.2(B). Variation of the reaction number, R.N., of Co dissolution with the concentration of HNO3.
+
+17
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig.3. Variation of the temperature with time for the dissolution of different weights of Co in 15 ml 6 M HNO3 solutions: (1) 0.05 gram,
+
+(2) 0.1 gram, (3) 0.2 gram, (4) 0.3 gram, (5) 0.4 gram, (6) 0.5 gram, (7) 0.6 gram, (8) 0.7 gram, (9) 0.8 gram, (10) 0.9 gram and (11) 1.0 gram.
+
+18
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig.4. Variation of the temperature with time for the dissolution of 0.5 gram Co in 6 M HNO3 solutions of different volumes : (1) 5 ml, (2) 10 ml, (3) 15 ml, (4) 20 ml and (5) 25 ml.
+
+19
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig.5. Variation of the reaction number, R.N., with the solution volume /area ratio, for the dissolution of Co in 6 M HNO3 using procedure (1) and (2).
+
+20
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig 6(A). Temperature ­ time curves for the dissolution of Co in 4 M HNO3 solution in presence of different concentration of NaNO2 : (1) 0.0 M, (2) 1x10-6 M, (3) 1x10-5 M, (4) 1x10-4 M, (5) 1x10-3 M, (6) 1x10-2 M ,(7) 1x10-1 M and (8) 3x10-1M .
+
+21
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig 6(B). Temperature ­ time curves for the dissolution of Co in 4 M HNO3 solution in presence of different concentration of NaNO3 : (1) 0.0 M, (2) 1x10-6 M, (3) 1x10-5 M, (4) 1x10-4 M, (5) 1x10-3 M, (6) 1x10-2 M ,(7) 4x10-1 M and (8) 5x10-1M .
+
+22
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig.7. Percentage variation in the reaction number, % R.N., for Co dissolution in 4 M HNO3 solution as a function of the logarithm of the molar concentration of (1) NaNO2 and (2) NaNO3.
+
+23
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig.8(A). Percentage variation in the reaction number, % R.N., for Co dissolution in 4 M HNO3 solution as a function of the logarithm of the molar concentration of (1) NaCl (2) Na2SO4 and (3) Na3PO4.
+
+24
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 1
+
+29 March 2006
+
+Fig. 8(B). Percentage variation in the reaction number, % R.N., for Co dissolution in 4 M HNO3 solution as a function of the logarithm of the molar concentration of (1) HCl , (2) H3PO4 and (3) H2SO4 .
+
+25
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

@@ -1,0 +1,149 @@
+ISSN 1466-8858
+
+Volume 10, Preprint 46
+
+submitted 16 August 2007
+
+THE EFFECTS OF CASTING PARAMETERS ON THE IMPROVEMENT OF THE ANODIC EFFICIENCY OF THE CAST MAGNESIUM ANODES
+E. Fadaei, M. Emamy, C. Dehghanian and S. Jafarpisheh, School of Metallurgy and Materials, University of Tehran, Tehran, Iran
+
+Abstract Magnesium is the most widely used material for galvanic anodes. Magnesium sacrificial anode systems are designed for the cathodic protection of steel under fresh water conditions and for underground structures and pipelines. Casting process is normally used for these types of anodes. In this work the effects of casting parameters including filling system, casting temperature and mould temperature have been studied on the performance of a high potential anode (magnesium-manganese alloys). Electrochemical polarization and ASTM G97-89 standard methods were used to evaluate the anodic behavior, potential and current capacity of the anodes. First, it was found that using appropriate filling system shows remarkable decrease effects on the anode internal defects. Furthermore, the results showed that metallic moulds having higher temperatures could provide appropriate conditions for obtaining homogenous structures. The optimum conditions of anode operation obtained when mould temperature was kept at 250 ºC with a constant casting temperature (710 ºC), in which a uniform structure was obtained. This can provide a homogenous anodic dissolution of the anode which introduces optimum efficiency of the anodes. Keywords: Magnesium; Sacrificial anode; Efficiency; Casting parameters 1. Introduction Cathodic protection is an electrochemical means for corrosion control. There are two types of cathodic protection: Sacrificial anode, and impressed current. Sacrificial anode systems are simple in shape and materials used for sacrificial anodes are active metals such as zinc, magnesium and aluminum alloys [1-3]. Magnesium is the most commonly used sacrificial anode material for the protection of buried structures. Their low density and high potential make them particularly useful as sacrificial anodes [4]. There are two groups of magnesium alloys in cathodic protection: Magnesium containing approximately 0.5-1.3% manganese (high potential magnesium anodes) and magnesium containing approximately 6% aluminum, 3% Zinc and 0.15% manganese [5]. Mg-Mn anodes have a great performance in high resistivity soils, where the anodes inherent negative potential and high current output per unit weight is desirable, i.e. their capacity to drain the current [6]. Manganese is a scavenger element having high utility in magnesium alloying for control of the effects of impurities, especially iron. Manganese counteracts iron in at least two ways: (1) it lowers the iron content of the metal by settling iron from the melt and; (2) during solidification it surrounds iron particles left in metal making them inactive as local cathodes. By this solidification mechanism manganese replaces the iron as the effective local cathode. The potential difference between the manganese particle and the magnesium has been shown to be much less than that between the
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 iron particle
+
+Volume 10, Preprint 46 submitted 16 August 2007 and magnesium. Manganese, therefore, becomes a very important alloying element [7, 8]. With respect to the importance of Mg-Mn anodes in the protection of industrial plants, sound casting of these anodes is so important. Casting and solidification parameters play an important role not only on obtaining sound castings, but also introducing castings with well distributed alloying elements. Superheat and mould temperature are two major casting parameters. Magnesium's low heat capacity results in a high cooling rate that causes problems when casting is made in low-pressure permanent moulds. This creates a need for control of the mould and superheat temperature [9]. In this work, the influence of casting temperature on the performance, efficiency and microstructure of these anodes has been studied.
+
+2. Experimental procedure In this study, pure magnesium was used as the based alloy and manganese was added to molten metal in the form of Mg-15%Mn master alloy and Mg-1%Mn was fabricated. The tests were carried out by the use of two electric furnaces, one for melting magnesium and the other for preheating the materials. The melting of the magnesium-manganese alloys was performed in an atmospheric controlled electrical furnace in a graphite crucible. In each test, pure magnesium was heated up to 250 ºC before melting starts. In each test about 0.1 wt. % of each charge a protective flux (Magrex 36 from Foseco) was on the charge material surface. The flux addition is helpful to prevent burning of Mg [10]. Mg-Mn master alloy was added to the pure magnesium after melting. Then after about 20 minutes, melt was stirred gently for about 1 minute before cleaning and pouring into the mould. Two types of cast iron moulds were prepared. First one was simply filled directly from the top and the second one was designed with low turbulence bottom filling. Afterwards, mould temperatures were selected in 25, 100, 175, 250 and 325 ºC in a constant casting temperature (i.e. 750 ºC). After this stage, the optimum mould temperature was obtained (250 ºC) and casting temperatures were selected at 710, 750, 790 and 830 ºC where mould temperature was kept at 250 ºC. Microstructure studies were made after grinding and polishing the specimens by optical microscope and also scanning electron microscope (Cam Scan- MV2300). Etching of the specimens was accomplished by dilute citric acid [11]. Electrochemical tests were performed using evaluating current capacity, efficiency and oxidation potential of the anodes. The efficiency and driving potential for magnesium sacrificial anode were evaluated according to ASTM G97 standard. Cylindrical specimens (12.7 mm diameter and 152 mm long) were machined from cast anodes. The test was performed with a constant anodic current density (0.039 mA/cm2) applied to the anode for a period of 14 days. A saturated calomel electrode and a steel plate were used as the reference and counter electrodes. Fig. 1 shows experimental cells, where: P: DC power supply C: Cu-CuSO4 coulometer or electronic coulometer E: Calomel electrode After 14 days, open-circuit potentials of the test specimens were measured during 1 hour. At the end of the test the specimens were removed and cleaned for 20 minutes in the cleaning solution (250 g CrO3 in 1000 ml H2O). The specimens were then rinsed
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 in distilled
+
+Volume 10, Preprint minutes and weighed to 0.0001August 2007 submitted 16 g water, dried in an oven at 105 ºC for 30 46
+
+[12, 13]. The effective current capacity of an anode is the total columbic charge (current-time) produced by unit mass of an anode as a result of electrochemical dissolution. The theoretical current capacity can be calculated according to Faraday's law [14]. Theoretically, pure magnesium has a current capacity of 2200 ampere-hours per kilogram. In practice, the effective current capacity of the anode is less than the theoretical value. The anode efficiency can be defined as the useful ampere-hours charge that is derived from the anode in practice compared with that should be theoretically obtainable [15]:
+
+Fig. 1. Experimental cells setup [12]
+
+3. Results and discussion The influence of filling system on the anode efficiency and current capacity of MgMn anode, by accelerated dissolution tests, is `shown in Table 1. The results indicate that filling system in casting process may affect the anodic current capacity and efficiency. The anodic current capacity and efficiency were increased from -1540 A.h.kg -1 to -1654 A.h.kg -1 and from 33% to 43% respectively.
+Table 1. Potential, current capacity and efficiency values of anodes with different casting systems. Casting System Bottom pouring Direct top pouring Mould temperature (ºC ) 250 250 superheat temperature (ºC ) 750 750 Potential (mVSCE) -1654 -1540 Current Capacity (Ah/Kg) 957 732 Efficiency (%) 43 33
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 The potential
+
+Volume 10, shown 46 submitted 16 is variations vs. time curves are Preprint in Fig. 2. It shows the potential August 2007 shifted to less negative values by using top pouring system.
+
+1600 1550 -E (mV SCE) 1500 1450 1400 1350 1300 1 2 3 4 5 6 7 8 9 10 11 12 13 14 t (day) a b
+
+Fig. 2. Potential variation vs. time plots for magnesium anodes with different casting systems, a): bottom pouring b) top pouring Fig. 3 shows the microstructure of specimens which were cast directly from top of the mould. It is seen that some inclusions are produced in grain boundaries (Fig 3). These inclusions have cathodic potential and therefore self corrosion occur in the anode which leads to localized attack with a consequent anode efficiency reduction. Furthermore, filling system has important role in reduction of the porosity which is inevitable in normal casting.
+
+Fig. 3. Microstructure of Mg-Mn alloys that was fabricated without filling system The results obtained from the effects of the mould and casting temperature on potential, current capacity and efficiency of magnesium anodes, by accelerated dissolution tests (ASTM G97-89 tests). Table 2 and 3 show the results.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 46
+
+submitted 16 August 2007
+
+Table 2, Potential, current capacity and efficiency values of anodes with different mould temperatures
+Mould temperature (ºC) 25 100 175 250 325 Casting temperature (ºC) 750 750 750 750 750 Potential (mVSCE) -1631 -1642 -1640 -1654 -1649 Current Capacity (Ah/Kg) 661 774 844 957 909 Efficiency (%) 30 35 38 43 41
+
+Table 3, Potential, current capacity and efficiency values of anodes with different casting temperatures Mould temperature (ºC) 250 250 250 250 casting temperature (ºC) 710 750 790 830 Potential (mVSCE) -1659 -1654 -1644 -1627 Current Capacity (Ah/Kg) 1013 957 703 450 Efficiency (%) 46 43 32 20
+
+It is also seen that mould and casting temperatures affect the current capacity and efficiency of the magnesium anodes while the maximum efficiency was obtained at 250 ºC and 710 ºC for mould temperature and casting temperature respectively. Fig. 4 and Fig. 5 show the potential variation vs. time curves for magnesium anodes at different mould temperatures and different casting temperatures.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+1570
+
+Volume 10, Preprint 46
+
+submitted 16 August 2007
+
+1560
+
+1550 a b c d e -E (mV SCE)
+
+1540
+
+1530
+
+1520
+
+1510 0 1 2 3 4 5 6 7 t (day) 8 9 10 11 12 13 14
+
+Fig. 4. Potential variation vs. time plots for magnesium anodes at mould temperatures: (a) 25, (b) 100, (c) 175, (d) 250, (e) 325 C
+1570
+
+1560
+
+1550 -E (mV SCE)
+
+a b c
+
+1540
+
+d
+
+1530
+
+1520
+
+1510 0 1 2 3 4 5 6 7 t (day) 8 9 10 11 12 13 14
+
+Fig. 5. Potential variation vs. time plots for magnesium anodes at casting temperature: (a): 710 (b): 750 (c): 790 (d): 830 ºC
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 According
+
+to the results of Fig. 4 Volume 10, Preprint 46 that higher mouldsubmitted 16 August 2007 and Fig. 5, it is seen temperatures and lower casting temperatures can provide the best working potential of the anodes. In polarization, local changes of chemical composition led to the formation of local cells and corrosion attack. The result of such a behavior shows a decrease in anode efficiency. These types of fluctuations may cause non-uniform solution of anode and instability in anodic potential. The uniform consumption of Mg-Mn anode during its service time is crucial for cathodic protection aims. Hence, it is necessary to control major casting parameters for obtaining uniformity in cast anodes. These figures also show that corrosion may be more uniform if cooling rate decreases (applying higher mould temperature and lower superheat). The use of a high superheat and the possible directional growth encourage columnar grain growth instead of equiaxed grains [16]. Columnar structure in cast products generates non-uniform structure and of course non-uniformity in physical, chemical and mechanical properties of the anodes [17].
+
+Fig. 6 shows a typical microstructure of an anode in as-cast condition. EDAX analyses show (can be see later) that the microstructure consists of  - Mg solid solution, eutectic between Mg and Fe and maybe Mn in alloy.
+
+Fig. 6. Microstructure observed in sample at casting temperature 750 °C and mould temperatures 25 °C Table 4 and 5 summarize the results obtained from point analysis and Fig. 7 and 8 illustrate the results obtained from line scan of specimens prepared in 750 °C and 710 °C casting temperature and 25°C and 250 °C mould temperatures respectively from white bands which spread out the entire sample. According to the line scan analysis and EDAX results, Mn and Fe concentrations decrease in grain boundaries and interdendritic regions by decreasing the cooling rate. It could be said that casting conditions define the Mn and Fe enriched zone distribution at interdendritics or grain boundary regions. Furthermore, lower cooling
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 rates (upper
+
+Volume 10, Preprint 46 submitted 16 August 2007 mould temperature and lower superheat temperature) produce a uniform distribution of solute elements and decrease the amount of segregation. As a matter of fact, this uniformity has a significant effect on improving the anode efficiency and current capacity and its potential. So, the anode consumption during cathodic protection will be constant.
+
+Table 4. EDAX analysis of anode at casting temperature 750 ºC and mould temperatures 25 °C from white band Element Weight % Mg 87.40 Mn Fe 11.25 1.34
+
+Table 5. EDAX analyses of sample at casting temperature 710 ºC and mould temperatures 250 ºC from white band Element Weight % Mg 89.84 Mn Fe 9.10 1.05
+
+Fig. 7. Microstructure and line scan analysis observed in sample at casting temperature 750 ºC and mould temperatures 25 ºC
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 46
+
+submitted 16 August 2007
+
+Fig. 8. Microstructure and line scan analysis observed in sample at casting temperature 710 ºC and mould temperatures 250 ºC
+
+4. Conclusion 1) An appropriate filling system improves the anode efficiency by decreasing inclusions and casting defects. With the use of non-turbulence filling system it is highly expected undesired inclusions can not be produced during magnesium anode casting.
+2) The efficiency of the magnesium-manganese anode is increased if a proper mould temperature (250 ºC) and optimum casting temperature (710 ºC) are selected. 3) Equi-axed grains are valuable to retain the uniform distribution of alloying elements and are introduced at lower cooling rates (higher mould temperature and lower casting temperature). It is also expected that uniform corrosion occurs during cathodic protection of Mg anodes.
+
+5. Acknowledgement The authors wish to acknowledge the financial contribution of University of Tehran.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 4. References
+
+Volume 10, Preprint 46
+
+submitted 16 August 2007
+
+[1] ASM Handbook, Vol. 13, Ninth edition (1987) 467. [2] British standard BS 7361, Cathodic protection, British standards institution (1998) 29. [3] H. Sina, M. Emamy, M. Saremi, A. Keyvani, M. Mahta and J. Campbell, Mat. Sci. and Eng. A 431 (2006) 263. [4] A.W. Peabody, Control of pipeline corrosion, NACE international, Second edition (2001) 181. [5] E. F. Emley, Principles of magnesium technology, Pergamon press, First edition (1966) 93. [6] B. Campillo, An improvement of the anodic efficiency of commercial Mg anodes, The NACE international annual conference and exposition (1996), Paper No. 201. [7] J. G. Kim and Y. W. Kim, Advanced Mg-Mn-Ca sacrificial anode materials for cathodic protection, Mater. and Corro. 52 (2001) 137. [8] L. West and T. Lewicki, Civil engineering corrosion control, Air Force Civil Engineering Center (1975) 61. [9] A. F. Mark and B. R. Davis, Mould coatings of magnesium permanent mould casting, AFS transaction (2003) 1029. [10] R. W. Heine, Principles of metal casting, McGraw-Hill, second edition (1967) 289. [11] G.F. Vander Voort, Metallography principles and practice, McGraw-Hill (1984) 659. [12] Standard test method for laboratory of magnesium sacrificial anode test specimens for underground application. ASTM G 97-89, Philadelphia (1997) 1. [13] J.G. Kim and Y. W. Kim, Advanced Mg-Mn-Ca sacrificial anode materials for cathodic protection, Mater. and Corro. 52 (2001) 137. [14] R.A. Gummow, Performance efficiency of high-potential Mg anodes for cathodically protecting iron water mains, Materials performance (may 2004) 28. [15] L. L. Sheir and R. A. Jarman, Corrosion Control, Butterworth-Heinemann Ltd., Oxford, OX (1994) 10:31. [16] D.G. McCartney, "Grain refinement of Al and its alloys using inoculants', Inter. Mat. Rev., (1986) 34. [17] R.A. Jarman, G.T. Burstein, "Corrosion metal environment reductions", John Wiley, New York (1994) 38-50.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

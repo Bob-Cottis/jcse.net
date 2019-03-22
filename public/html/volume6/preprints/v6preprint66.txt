@@ -1,0 +1,256 @@
+Volume 6 Paper H008
+
+Internal-Corrosion Processes in Ni-Base Alloys
+U. Krupp, S.-Y. Chang, H.-J. Christ
+
+Institut für Werkstofftechnik, Universität Siegen, 57068 Siegen, Germany krupp@ifwt.mb.uni-siegen.de
+
+Abstract
+Wagner's theory of internal oxidation provides a fundamental and simple description for several internal-corrosion phenomena. The present paper shows that also internal nitridation of Ni-base alloys follows generally a parabolic rate law as it was proposed by Wagner. On the other hand, internal corrosion under near-service conditions depends on a great variety of factors, e.g., the local chemical composition and the oxide scale integrity. Therefore, a numerical computer model has been developed that combines a finite-difference diffusion calculation with a powerful thermodynamic software ChemApp. The technical value and required extensions of the model are discussed by means of applying it to experiments that simulate internal corrosion as a consequence of oxide scale failure. Keywords: Internal Corrosion, Internal Nitridation, Internal Oxidation, Nitrogen Diffusion, Ni-Base Alloys, Finite-Difference Method.
+
+Introduction
+Alumina-forming Ni-base superalloys, which are frequently used for cast gas-turbine blades, may suffer a strong attack by internal oxidation and nitridation when the near-surface concentration of aluminium drops locally below a critical value that is required to form a superficial Al2O3 scale. This can happen as a consequence of repeated scale spalling or cracking and re-healing at mechanically or thermally high-loaded locations, e.g., leading edges and cooling holes
+
+of turbine blades. The transition from external to internal oxidation of Al allows nitrogen to penetrate the underlying alloy and to form Al, Ti, and Cr nitrides [#ref1]. Due to the high diffusivity of N as compared to O in Ni-base alloys [#ref2], the high specific volume of the nitride precipitates and the dissolution of the ´phase, internal nitridation causes a deep deterioration of the mechanical properties of Ni-base superalloys. The occasional occurrence of internal Ti nitrides during hightemperature oxidation of Ni-base superalloys is reported in several papers, e.g., [#ref3][#ref4], as well as internal nitridation processes in ammonia-containing atmospheres, e.g., [#ref5] [#ref6], but only a few studies are focussed on a quantitative description of internal nitridation in nitrogen-based atmospheres, e.g., [#ref7] [#ref8]. The following chapters give an introduction in Wagner's classical theory and an alternative numerical approach to treat internalcorrosion processes. These concepts are discussed by examples for internal nitridation, without oxidation in pure nitrogen as well as a consequence of oxide scale failure.
+
+The Classical Theory of Internal Oxidation
+According to the classical concept, which was originally proposed by Wagner [#ref9], internal oxidation is driven by the diffusion of a gaseous species, e.g., oxygen, nitrogen or carbon, into an at least binary alloy (AB) and the chemical reaction with the less-noble solute (B) leading to the precipitation of a thermodynamically-stable compound (BO). With the simplifying assumptions that (i) the progress of the internal precipitation front  is a parabolic function of the exposure time t, (ii) the thermodynamic stability of the precipitating drops to zero at the reaction front , (iii) the surface concentration
+
+compound is very high, i.e., the concentration of the reacting species
+s cO of the penetrating species is constant, i.e., there is no interaction
+
+with a growing scale, and (iv) the diffusion of the alloying element B (DB) is slow compared to the diffusion of the penetrating species O (DO)
+
+2
+
+s cO DB << 0 << 1 , DO cB
+
+(1)
+
+coupling of the diffusion fluxes at  in combination with mathematical rearrangements and simplifications (for details see [#ref9]) yields the
+s
+
+Wagner approach for the internal precipitation depth  as a function of
+0
+
+the permeability of the penetrating element DO cO , the stoichiometric coefficient  of the precipitate  and the initial concentration cB of the less-noble alloying element B:
+s DOcO t = 2 0  cB 13 2 parabolic contstant kO
+
+(2)
+
+Fig. 1 shows schematically the concentration profiles of the reacting species during internal oxidation.
+
+oxygen and the oxide-forming alloying element B during internal oxidation Note that the concentrations of the diffusing species are close to zero at the reaction front. While the negligibility of the solubility product is high-temperature corrosion processes involve the formation of compounds of moderate stability. Additionally, boundary conditions 3 a useful assumption for stable compounds like Al2O3 or TiN, many
+
+Fig. 1: Schematic representation of the concentration profiles of
+
+may not be constant, i.e., the formation of a superficial oxide scale changes the concentration of oxygen and nitrogen at the metal surface and the chemical alloy composition in the near-surface area as a function of time. Due to oxide spalling or cracking events the surface. Even though Wagner's theory has been tried to modify and to adapt to more complex situations, e.g., in [#ref10], a numerical model taking local thermodynamic equilibrium into consideration seems to be the near-service conditions. most-flexible approach to simulate internal corrosion processes under concentration gradients can be inhomogeneous along the specimen
+
+Treating Internal Corrosion Processes by Computer Simulation
+The most common approach to solve the diffusion differential equation (Fick's 2nd law)
+
+c  2c = -D 2 t x
+
+(3)
+
+is the finite-difference method, which is described in detail in [#ref11]. Here, the partial derivatives in equ. 3, usually normalized according to
+
+X =x d T= D t d2 , C = c c0
+(4)
+
+where d denotes a characteristic length, e.g., the specimen thickness,
+
+and c0 the initial concentration of the diffusing species (with diffusivity
+
+D), are expressed by differential quotients
+
+j j  C Ci j +1 - Ci j  2C Ci+1 - 2Ci j + Ci-1 = = and T T X 2 X 2
+
+(5).
+
+Inserting equ. 5 in equ. 4 yields the normalized concentration Ci j +1 for the time step j+1 from three concentrations at the location steps i-1,
+
+i, and i+1 for the preceding time step j (explicit method).
+
+4
+
+C i j +1 = C i j +
+
+T C i j+1 - 2C i j + C i j-1 2 X
+
+(
+
+)
+
+(6) .
+
+A higher precision and stability is obtained when applying the implicit method (Crank-Nicholson method, see [#ref11]) where the partial 2 2 derivation  C X is substituted by the mean of the finite difference expressions for the time steps j and j+1, respectively:
+j j j j  2C 1  Ci++1 - 2Ci j +1 + Ci-+1 Ci+1 - 2Ci j + Ci-1  1  =1 +  X 2 X 2 X 2 2   
+
+(7) .
+
+Then the corresponding finite-difference equation becomes:
+
+C i j +1 = C i j +
+
+T j+ j j+ j C i +1 1 + 2C i +1 - 2 C i j +1 + 2C i j + C i -1 1 + 2C i -1 , 2 2X
+
+[(
+
+)(
+
+)(
+
+)]
+
+(8)
+
+which requires an implicit algorithm to obtain the concentrations j Ci =+1 n at the time step j+1 from the preceding time step j. 1... Since internal corrosion is a diffusion-controlled process accompanied by chemical reaction and precipitation, the concentrations calculated for each time step have to be corrected according to thermodynamic equilibrium. This was realized by integrating the commercial thermodynamic program library ChemApp into the finite-difference model, which is based on the Gibb's energy minimization method making use of problem-specific data sets. To optimise this procedure with respect to the processing time the originally-developed model was recently replaced by a parallel computation unit, which enables to allow multiple starts of the thermodynamic subroutine at the same time [#ref13]. Figure 2 shows a schematic representation of the finite-difference mesh for a one-dimensional treatment of multi-component internal corrosion phenomena. Examples for the application of the model are given in the following chapters (see Fig. 7 and Fig. 9).
+
+5
+
+Internal Nitridation of Ni-Cr-Al-Ti Alloys
+For many high-temperature processes nitrogen is considered as a non-corrosive inert gas. Especially Ni alloys seem not to have any low (cN0.005At.%, T=1000°C at p(N2)=1bar [#ref14]). susceptibility to nitridation since the nitrogen solubility is extremely
+
+Fig. 2: Schematic representation of the simulation procedure for internal corrosion combining the finite-difference algorithm (compare equ. 8) with the thermodynamic program library ChemApp Therefore, exposure of a Ni-6Ti model alloy to nitrogen atmosphere amount of Ti sponge to minimize the content of residual oxygen and to suppress oxidation) does not result in internal nitridation ­ but as a consequence of the high affinity of Ti to nitrogen a superficial TiN scale is formed (Fig. 3a). Only when the solute concentration (cTi) falls external scale formation to internal precipitation. Exemplary, this is shown in Fig. 3b for internal nitridation of a Ni-2Ti model alloy during exposure to nitrogen atmosphere. below a critical value (cTi<6 wt%) nitridation attack changes from (50 Vol.% N2, 45 Vol.% He, 5 Vol. % H2 supplemented by a small
+
+6
+
+Fig. 3: (a) External TiN scale formation on Ni-6Ti and (b) internal nitridation by TiN precipitates in Ni-2Ti (80h, 900°C, nitrogen)
+
+The necessity to treat internal corrosion phenomena by a sound thermodynamic equilibrium calculation becomes obvious when chromium is added to Ni-2Ti. Depending on the temperature Cr does not form nitrides itself as long as its concentration is held below a crit critical value ( cCr  20 wt% at T=1000°C) but the exposure of Ni-xCr2Ti model alloys to nitrogen atmosphere yields an increasing depth of TiN precipitation with increasing initial Cr concentration (compare Fig. 4a and b). The internal nitridation kinetics as a function of the Cr concentration the parabolic equation for the TiN penetration depth  are summarized in Fig. 4d, where the nitridation constant kN refers to
+
+ 2 = 2k N t .
+
+(9)
+
+cCr=20wt% and increasing the Ti concentration from cTi=2wt% to cTi=6wt%, then the internal TiN precipitation depth decreases while the
+TiN volume fraction becomes higher (compare Fig. 4b (Ni-20Cr-2Ti) with Fig. 4c (Ni-20Cr-6Ti) both represent the same experimental conditions). This result is in agreement with the prediction of the Wagner approach (equ. 2) , where the solute concentration (here cTi) is 2).
+
+On the other hand, when keeping the Cr concentration constant at
+
+part of the denominator of the constant (kN, corresponds to kO in equ.
+
+Cr promotes the susceptibility of Ni-base alloys to internal nitridation by boosting their solubility for atomic nitrogen, probably as a consequence of an increase in the lattice spacing (see [#ref153]). 7
+
+nitrogen) (a) cCr=5%, cTi=2% (b) cCr=20%, cTi=2% (c) cCr=20%, cTi=6% and (d) corresponding nitridation constants kN
+
+Fig. 4: Internal Nitridation by TiN in Ni-Cr-Ti alloys (100h, 1100°C,
+
+Figure 5 shows the dependence of the maximum soluble nitrogen concentration in Ni-Cr alloys as a function of the Cr concentration at different temperatures, calculated by ChemApp in combination with a special data set for the system Ni-Cr-Al-Ti-N [#ref12]. The slope of the curves becomes zero at Cr concentrations above that Cr nitrides (CrN, Cr2N, and the ternary  phase [#ref16]) are stable.
+
+concentration for T=800°C, 900°C, and 1000°C at p(N2)=0,5 bar 8
+
+Fig. 5: Nitrogen solubility in Ni-Cr alloys as a function of the Cr
+
+Using the data given by Fig. 5 to estimate the surface concentration of nitrogen c N (corresponding to cO in equ. 2) during exposure in N2 Fig. 4d the effective diffusion coefficient DN for nitrogen in Ni-Cr alloys can be obtained, e.g., for nitrogen diffusion through a TiN precipitation zone in the model alloy Ni-20Cr DN becomes:
+s s
+
+atmosphere and applying equ. 2 to the internal nitridation (TiN) data in
+
+DN in Ni-20Cr
+
+kJ     125.72 -6 m mol  exp - = 4.7 10 [#ref17]. s RT      
+2
+
+(10)
+
+The results revealed that it is probably not only the solubility of nitrogen in Ni-base alloys, that is affected by the initial Cr content, but also the nitrogen diffusion that is accelerated when a higher Cr concentration is present. When more than one solute can form stable internal corrosion products, then the application of the Wagner approach is not useful any more. E.g., to treat the simultaneous internal precipitation of TiN and AlN during exposure of the model alloy Ni-20Cr-2Al-2Ti to equ. 10 (literature data for the Al and Ti diffusivity) and the nitrogen atmosphere (Fig. 6a) the estimated diffusion coefficient DN in
+
+thermodynamic data set for the system Ni-Cr-Al-Ti-N [#ref12] in combination with the finite-difference simulation (see previous chapter) were used. Figure 6b represents the concentration profiles and the predicted internal precipitation depths calculated by this results. approach, which are in reasonable agreement with the experimental
+
+Internal Corrosion of Ni-Base Superalloys as a Consequence of Oxide Scale Failure
+Since Ni-base superalloys contain Cr concentrations between
+
+cCr=10wt% and cCr=20wt% they are basically prone to internal
+
+nitrogen penetration, but when the scale is repeatedly damaged by cracking and spalling at high-loaded locations, e.g., sharp corners, this protection can get lost and the alloy suffers massive attack by 9
+
+nitridation. Usually a dense Al2O3 scale protects the alloys against
+
+internal oxidation and nitridation. Such a situation is shown in Fig 7 schematically (a) and for a specimen edge of the single-crystalline Nibase superalloy CMSX-6 after isothermal exposure to air (b).
+
+Fig. 5: Simultaneous internal nitridation by TiN and AlN in Ni-20Cr-2Al-2Ti (100h, 1000°C, nitrogen) (a) experimental result and (b) corresponding calculated concentration profiles
+
+Fig. 7: (a) Schematic representation of the mechanism of internal oxidation and nitridation at a specimen edge of the superalloy CMSX-6 after 1000h exposure to nitrogen atmosphere at T=1000°C corrosion caused by cracks in the oxide scale and (b) internal
+
+Oxide-scale cracking occurs also as a consequence of thermal cycling due to the difference in the coefficient of thermal expansion between the oxide and the underlying alloy. Figure 8 compares the oxidation and nitridation behavior within the Ni-base alloy Ni-20Cr-2Ti-2Al during isothermal exposure (a) and under thermal-cycling conditions 10
+
+(b), where the specimen was cooled down periodically for 15 minutes activity aN at the metal interface to a value that is not sufficient for after 5h intervals. While an intact Cr2O3 scale reduces the nitrogen
+
+strong internal nitridation attack, cracks in the oxide scale shifts the
+
+a deep zone of internal TiN precipitation. It should be emphasized that internal oxidation of Al is present in both cases. This is because the oxygen activity below the Cr2O3 scale is still high enough to form Al2O3, which is of high thermodynamic stability.
+
+atmospheric nitrogen activity aN toward the metal interface resulting in
+
+Fig. 8: Oxidation/nitridation behavior of the Ni-base alloy Ni-20Cr2Al-2Ti (a) after isothermal exposure for 100h at T=1000°C to air and (b) after thermal-cycling (100h, 5h intervals at T=1000°C, air) To simulate such complex situations leading to internal corrosion the finite-difference computer model was extended by a start condition, which takes oxide growth and thermally-induced cracking into account. Once a crack has been established, inward diffusion starts 11
+
+from the root of the crack acting as a source into a two-dimensional finite-difference mesh [#ref18] while internal corrosion is considered by the integrated thermodynamic module ChemApp. Fig. 9a shows an example of a calculated two-dimensional internal TiN zone emanating from a crack in the oxide scale. The predicted lateral dimension of the internal nitridation front agrees with the one obtained in a nitridation 20Cr-2Ti was generated artificially by a small diamond saw cut before exposing the specimen to nitrogen atmosphere [#ref18]. experiment where a crack in a thermally-grown Cr2O3 scale on Ni-
+
+Fig. 9: Internal nitridation by TiN in Ni-20Cr-2Ti as a consequence of a crack in the Cr2O3 scale (a) calculated lateral TiN concentration profile and (b) TiN-precipitation zone (100h, T=1000°C, nitrogen, after preoxidation and crack generation)
+
+Conclusions
+Under simplified conditions internal nitridation of Ni-base alloys can be treated by Wagner's classical theory of internal oxidation. However, since this analytical approach is restricted to only one precipitated compound of high thermodynamic stability and constant boundary conditions, a numerical simulation was applied to predict internal corrosion phenomena under more complex near-service conditions. This simulation integrates the thermodynamic module ChemApp into a finite-difference diffusion calculation. By applying the program in 12
+
+combination with a special data set to internal nitridation of Ni-Cr-AlTi alloys, the experimental results could be reproduced, e.g., (i) that Cr promotes the internal corrosion attack by TiN in Ni-xCr-2Ti alloys and (ii) that internal TiN formation is accompanied by simultaneous AlN formation in Ni-20Cr-2Al-Ti. The model has been extended to describe internal corrosion as a consequence of oxide-scale failure and it is intended to comprise also oxide growth and breakdown interactions between internal corrosion and mechanical loading. kinetics, corrosion-induced phase transformations in the alloy and
+
+References
+!ref1 `Selective Oxidation and Internal Nitridation During HighTemperature Exposure of Nickel-Base Superalloys', U. Krupp, H.-J. Christ, Met. Mat. Trans. A, 31, pp47, 2000. D.L. Douglass, JOM, 11, pp74, 1991.
+
+!ref2 `Anomalous Behavior During Internal Oxidation and Nitridation',
+
+!ref3 `Selective Carbide Oxidation and Internal Nitridation of the NiBase Superalloys IN738LC and IN939 in Air', J. Litz, A. Rahmel, M. Schorr, Oxid. Met., 30, pp95, 1989.
+
+!ref4 `Nitridation Attack in a Simulated Gas Turbine Combustion pp1263, 1994.
+
+Environment, Proc. Materials for Adv. Power Engng., Liege, Belgium,
+
+of Ni-Cr Alloys', A.A. Kodentsov, M.J.H. van Dal, J.K. Kivilathti, F.J.J. van Loo, Ber. Bunsenges. Phys. Chem., 102, pp1326, 1998.
+
+!ref5 `Thermodynamics and Kinetics of Internal Reactions: Nitridation
+
+!ref6 `Comparison of Internal Nitridation in Ammonia and in Nitrogen', K. Tjokro, D.J. Young, Oxid. Met., 44, pp453, 1995.
+
+!ref7 `Simultaneous Internal Oxidation and Nitridation of Ni-Cr-Al Alloys', S. Han, D.J. Young, Oxid. Met., 55, pp223, 2001.
+
+!ref8 `Internal Nitridation of Ni-Base Alloys Part I: Behavior of Binary and Ternary Alloys of the System Ni-Cr-Al-Ti', U. Krupp, H.-J. Christ,
+
+Oxid. Met., 52, pp277, 1999.
+
+13
+
+!ref9 `Reaktionstypen bei der Oxydation von Legierungen', C. Wagner,
+
+Z. Elektrochemie, 63, pp772, 1959.
+
+!ref10 `Über die Innere Oxidation von Metallegierungen ', G. Böhm, M. Kahlweit, Acta Met., 12, pp642, 1964.
+
+!ref11 `The Mathematics of Diffusion', J. Crank, Oxford University Press, London, 1975. !ref12 `ChemSage/ChemApp Data Set for the System Ni-Cr-Al-Ti-N' K.
+
+Hack, Herzogenrath 1995
+
+!ref13 `Simulationskonzepte für Hochtemperatur-Korrosionsprozesse', U. Buschmann, W. Wiechert, U. Krupp, H.-J. Christ, Proc. ASIM 16.
+
+Symposium Simulationstechnik, Rostock, Germany, pp353, 2002.
+
+Solubilities of Gas in Alloys', D. Bouchard, J.S. Kirkaldy, J. Alloys
+
+!ref14 `Utilization of a Thermogravimetric Technique to Determine Low
+
+Compounds, 283, pp311, 1999.
+
+!ref15 `Lattice Parameters of Ni(), Ni3Al(´) and Ni3Ga(´) Solid Solutions with Additions of Transition and B-Subgroup Elements', Y. Mishima, S. Ochiai, T. Suzuki, Acta Metall., 6, pp1161, 1985.
+
+!ref16 `Precipitation of the ternary  phase during Nitriding of Ni-Cr and Ni-Cr-Ti Alloys and Thermodynamic Prediction Using the Ni-Cr-N pp1006, 2000. System', U. Krupp, S.-Y. Chang, H.-J. Christ, Z. Metallkunde, 12,
+
+!ref17 `Internal Nitridation of Ni-Base Alloys Part I: Behavior of Christ, Oxid. Met., 52, pp299, 1999.
+
+Quaternary Alloys and Computer-Based Description', U. Krupp, H.-J.
+
+!ref18 `Modelling Internal Corrosion Processes as a Consequence of Oxide-Scale Failure' U. Krupp, S.-Y. Chang, H.-J. Christ, Proc. ECF-
+
+Workshop: Life Time Modelling of High-Temperature Corrosion Processes, Frankfurt, Germany, 2001
+
+14
+

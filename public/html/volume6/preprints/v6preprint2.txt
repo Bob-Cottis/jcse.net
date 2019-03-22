@@ -1,0 +1,174 @@
+Volume 6 Paper H071
+
+Oxidation-Reduction Resistance of Advanced Copper Alloys
+L.U. Ogbuji*, D.L. Humphrey*, and J.A. Setlock# (*QSS Group, #CWRU) MS 106-1, NASA Glenn Research Center, Cleveland OH 44135 Phone: 216/433-6463; e-mail: thomas-ogbuji@grc.nasa.gov
+
+Abstract
+
+Resistance to oxidation and blanching is a key issue in advanced copper alloys under development for NASA's next-generation of reusable launch vehicles. Candidate alloys, including dispersion-strengthened Cu-Cr-Nb, for oxidation resistance by static TGA exposures in low-p(O2) and cyclic oxidation in air, and by cyclic oxidation-reduction exposures (using air for oxidation and CO/CO2 or H2/Ar for reduction) to simulate expected service environments. The test protocol and results are presented. solution-strengthened Cu-Ag-Zr, and ODS Cu-Al2O3, are being evaluated
+
+Key Words: Cu alloys, oxidation-reduction and blanching degradation
+
+Introduction
+
+Due to their high thermal conductivity, copper alloys make excellent liners for the hot sections of high-heat-flux engines, such as combustion chambers of rocket engines for launching space payloads. However, in that aggressive service environment Cu alloys are prone to degradation by oxidation-related phenomena. In a combustor there are always issues of static and cyclic oxidation; in a hydrogen-fueled ("LH2-LOX") rocket engine there is the additional issue of blanching, which causes the most serious oxidation-related damage to the liners [1-4]. Blanching is caused by spatial and temporal variations in oxidant-to-fuel (O/F) ratio, which change the local ambient from oxidizing to reducing and back [3]. Oxide film formed in the fuel-lean cycle is reduced and removed in the fuel-rich
+
+cycle, thus exposing the metal to further attack. Therefore, blanching is somewhat analogous to cyclic oxidation, except that the duration of an oxidation-reduction cycle may be measured in microseconds, rather than the minutes or hours that characterize cyclic oxidation. The "blanched" (i.e. bleached) spots indicate accelerated degradation, which has serious consequences for the impairment of cooling systems beneath the liner. Thus, evaluation of copper alloys for oxidative degradation involves tests for static oxidation, cyclic oxidation, and oxidation-reduction resistance. Advanced copper alloys of interest to aerospace engine makers (as liners for thrust cell combustion chambers and nozzle ramps) are under study at NASA and in industry. They include: Cu-8Cr-4Nb, developed by the NASA Glenn Research Center in conjunction with Case Western Reserve the current Space Shuttle Main Engine liner); and Cu-0.1Zr ("Amzirc"). Cu-8Cr-4Nb is a dispersion-strengthened alloy, comprised of a Cu matrix with a 14 vol. % dispersion of insoluble Cr2Nb precipitates [5]; the other two are solution-strengthened alloys. All are of interest to thrustcell designers because of their very good thermal and mechanical properties, especially at elevated temperatures. These alloys, along with oxidative degradation, as part of NASA's program for next-generation University (designated "GRCop-84"); Cu-3Ag-0.1Zr ("NARloy-Z", which is
+
+Cu-Al2O3 ("Glidcop", an ODS alloy) have been evaluated for resistance to launch technology (NGLT). The ODS alloy has a nano-scale dispersion of Al2O3 in Cu; there are three versions, with 15, 25, and 60 wt% Al (0.3, 0.5, and 1.1 wt% Al2O3, respectively), designated Glidcop "AL-15", "AL-25", and "AL-60", respectively. The evaluation performed in this study included static oxidation by TGA in various oxygen partial pressures dictated by the thermodynamics of a LOX/LH2 engine, cyclic oxidation in air, and oxidation-reduction experiments conducted by in-situ switching between oxidant and reductant gases for various programmed durations.
+
+Experimental Details
+
+The materials were PM alloys, extruded and rolled to develop optimum mechanical properties. Samples for oxidation were cut into rectangular or
+
+2
+
+circular coupons 1 mm thick, with 19 mm as their largest dimensions, and polished to 1000-grit finish; those for oxidation-reduction were cut into mini-disks 5-7 mm in diameter and polished wafer-thin to a mirror finish. Static TGA oxidation was conducted in oxygen diluted with argon to temperatures of 550 - 850oC; oxidation durations were 10-50 hours. Cyclic oxidation was done in air at 500 ­ 700oC, each run consisting of twenty half-hour cycles (for total exposure times of 10 hours) with the samples weighed on every cycle. For blanching simulation the mini-disks were cycled at 800oC between air and reducing gas. This reductant was hydrogen concentration permitted by safety considerations). All gases were of ultra-high-purity grade. The oxidation-reduction schedule was: 0.5 hr to heat to 800oC in H2/Ar, ~3 hrs of oxidation-reduction cycling, and 1 hr of cooling to room temperature in H2/Ar. One oxidation-reduction cycle consisted of exposure for tO minutes in air was done in-situ. The values of tO and tR were optimized to satisfy two followed by tR minutes in H2/Ar. Switching between the two environments initially 90%CO/10% CO2, later 5% H2 in Ar (5% being the maximum desired O2 concentrations ranging from 0.033 vol% to 100% O2, at
+
+criteria: (1) that a detectable quantity of oxide be observed to grow in the oxidation half-cycle and then to be fully consumed in the reduction halfcycle thereby exposing the substrate for further reaction; and (2) that a large number of cycles be accommodated in a 5-hr experiment, for maximum cumulative effect. In practice this amounted to fixing tO at a low value and increasing tR until both criteria were satisfied. The values of tO and tR, respectively, that gave satisfactory results are 0.5 and 5 minutes for reduction in CO/CO2; for reduction in 5%H2/Ar they were 0.1 and 5
+
+minutes. This need to amplify the oxidation and reduction effects also rather than the wall temperature of ~600-700oC expected in service. necessitated doing the test at the rather high temperature of ~800oC,
+
+3
+
+Results and Discussion
+Static Oxidation TGA results for the Cu alloys are compared in Fig. 1 for a representative set of conditions. Note that: (1) 700oC is in the upper reaches of expected service temperatures, and oxidation rates and mechanisms were found to be independent of p(O2) in the range of 0.25%-100% O2 [6]. (2) Cu and the two solution-strengthened alloys are in one class, with very similar oxidation rates; and the dispersion-strengthened alloys (Cu-8Cr-4Nb kinetics are parabolic for all the alloys (and stayed so for temperatures and in all ambients with 0.25% and higher O2 concentrations).
+8
+
+and Cu-Al2O3) in another class with much lower oxidation rates. (3) The
+
+Pure Cu
+7 6
+
+Cu-Zr Cu-Ag-Zr
+
+SpWt Gain (mg/cm )
+
+2
+
+5 4
+
+3 2 1
+
+Cu-Cr-Nb Cu-Al2O3
+
+0 1 1.5 2 2.5 3
+0.5
+
+3.5
+
+4
+
+Square Root of Time (H )
+
+Fig. 1, Oxidation kinetics in 2.2% O2 at 700oC, illustrating parabolic behavior for Cu and the alloys at all temperatures investigated and in 0.25 vol % to 100% O2
+4
+
+The uniformly parabolic kinetics are consistent with the fact that the major event occurring in each case is oxidation of Cu to its usual duplex oxide. In Cu and the solution-sterngthened alloys, this conversion of Cu to Cu2O/CuO remains the sole oxidation process involved. In the dispersion-strengthened alloys, on the other hand, the overall rate is controlled by processes no doubt involving the dispersoids. For Cu-8Cr4Nb that process is a modified reservoir effect resulting from oxidation of Cr2Nb [6]; the sub-layer of Cr-Nb oxides is indicated in Fig.2, and beneath it is a characteristic precipitate-free zone in the substrate. For Cu-Al2O3 it seems obvious that the slow oxidation kinetics must relate to the presence of nano-disperse Al2O3, but the exact details remain as yet unidentified. Fuller accounts of these observations appear elsewhere [6]. oxide (Cu2O/CuO), which is controlled by diffusion of Cu through the
+
+FOL DOL PFZ
+
+10.0 µm
+
+Fig. 2, SEM cross-section of Cu-8Cr-4Nb oxidized in air at 700oC, layer of Cu2O; DOL (dense oxide layer) is a layer of Cr-Nb oxides; PFZ is a precipitate-free zone induced in the matrix by oxidation.
+
+showing oxide/substrate boundary: FOL (friable oxide layer) is inner
+
+5
+
+Temperature Cycling Fig. 3(a) shows cyclic-oxidation weight changes for several Cu alloys. The which differ in only their Al2O3 contents, is unexplained. Apart from that the same as in static oxidation, with the dispersion-strengthened alloys Weight changes correlated inversely with retention of oxide scale: The entirely away on cooling. Fig. 3(b) shows some of the cycled samples. disparity among the three Cu-Al2O3 compositions (ODS-15, 25, and 60), disparity, and the insignificant weight change of pure Cu, the hierarchy is all resisting cyclic oxidation better than the solution-strengthened alloys. poor performers emerged without oxide cover, their scales having spalled
+
+1.05 0.95 Rel. Sample Wt.
+
+0.85 0.75 0.65 0.55 0
+
+Cu-Zr pureCu ODS-15 CuAgZr CuCrNb ODS-25 ODS-60 4 8 12 16 20
+
+Cycle # (30-Minute Cycles)
+Fig. 3a, Cyclic-oxidation weight changes in air at 600oC
+6
+
+Cu-Zr
+
+Glidcop-15
+
+NARloy-Z
+
+GRCop-84
+
+Glidcop-25
+
+Glidcop-60
+
+Fig. 3(b), Cu alloys after 10 hrs. of cyclic oxidation in air at 600oC. Cu-8Cr-4Nb, which had the lowest weight change in Fig. 3(a), also shows the fullest oxide cover in Fig. 3(b). These 600oC cyclic-oxidation results are representative of the results obtained at the other temperatures: the dispersion-strengthened alloys resisted cyclic oxidation (i.e. exhibited the least weight changes) better than the solution-strengthened alloys, and good performance in this regard correlated with retention of oxide scale through the cycles.
+
+7
+
+Oxidation-Reduction Cycling Fig. 4 shows the weight-change responses of Cu-8Cr-4Nb and Cu-3Ag0.5Zr (which is know to undergo blanching) during oxidation-reduction, with oxidation performed in air and reduction in CO/CO2 or H2/Ar as indicated. The responses are qualitatively the same for the two different reductants. Cu-3Ag-0.5Zr, which is prone to blanching, is characterized by a flat weight-gain response (after the ~20 minutes it took to attain exposure temperature). Thus, for this material, weight gained during the In contrast, Cu-8Cr-4Nb is characterized by continuous weight gain, reaching saturation after ~2 hrs.
+0.16 0.14 0.12
+
+oxidation stage of a cycle was completely lost during the reducing stage.
+
+CuCrN b- H 2 CuCrN b- CO CuAgZr- H 2 CuAgZr- CO
+
+Weight Change (mg)
+
+0.1 0.08 0.06 0.04 0.02 0 30 60 90 120 150 180 210
+
+-0.02 0
+
+Exposure Time (Minutes)
+
+Fig. 4, Weight-change profiles for Cu-3Ag-0.5Zr and Cu-8Cr-4Nb
+
+during oxidation-reduction exposures at 800oC. In each case air was the oxidant and CO or H2 the active reductant, as indicated.
+
+8
+
+The appearance of the samples after oxidation-reduction also correlated with the above weight-gain profiles: Cu-3Ag-0.5Zr coupons emerged with a clean, metallic luster while Cu-8Cr-4Nb coupons came out dark.
+
+(a)
+
+1 µm
+
+(b)
+9
+
+10 µm
+
+Fig. 5, SEM images of (a) Cu-3Ag-0.5Zr and (b) Cu-8Cr-4Nb
+
+surfaces after oxidation-reduction cycling: The former is bare, with deep fissures (shown at higher magnification) indicative of extensive attack, while the later is covered by protective oxide. Shown in Fig. 5 are SEM images of the sample surfaces: Cu-3Ag-0.5Zr
+
+was deeply pitted and scarred, while Cu-8Cr-4Nb was fully covered in a mat identified by EDS as oxides of Cr and Nb as detailed elsewhere [7]. It seems these Cr-Nb-O phases resist reduction and hence protect the substrate from further degradation. In other words, to the extent that oxidation-reduction is a key factor in blanching attack, this alloy should resist blanching at the temperatures where Cr-Nb oxides grow [7].
+
+Summary and Conclusion:
+
+In an effort to assess, by laboratory means, the blanching resistance of an advanced Cu alloy, Cu-8Cr-4Nb, this material was subjected to 40-50
+
+in-situ cycles of oxidation-reduction. The same treatment was given to
+
+Cu-3Ag-0.5Zr, an alloy that is known to undergo blanching degradation in service as a rocket engine liner. Cu-3Ag-0.5Zr, which usually forms a Cu2O/CuO scale, registered zero net weight gain during the exposure;
+
+the sample emerged without oxide cover, its surface deeply sculpted in a manner consistent with blanching features usually observed in service. In contrast, Cu-8Cr-4Nb (which usually forms an additional subscale of CrNb oxides) registered continuous weight gain, and the sample emerged with a protective cover of Cr-Nb oxides which are resistant to reduction. Cu-8Cr-4Nb is very likely to resist blanching degradation in service since it has been shown in this study to resist oxidation-reduction, and also Cu-3Ag-0.5Cr). shown (elsewhere) to resist static and cyclic oxidation much better than
+
+Acknowledgment:
+
+10
+
+This work was conducted at NASA Glenn Research Center (GRC) as part of the 2nd-Generation Reusable Launch Vehicle (RLV-Gen2) program. It was funded under contract No. NAS 3-98008. The authors are grateful to D.L. Ellis of CWRU (at GRC) for supplying materials, and to B.A. Lerch of GRC for helpful discussion of the results.
+
+References:
+
+1. D.B. Morgan and J.E. Franklin, "Hot-Fire Test Investigation of Copper of August 1989
+
+Combustion Chamber Blanching", NASA Contract Report NAS 8-36167
+
+2. D.B Morgan, T. Nguyentat, J.E. Franklin, and A.C. Kobayashi, "Investigation of Copper Alloy Combustion Chamber Degradation by R. Richmond & S.T. Wu. eds. Marshall Space Flight Center, Huntsville, Alabama (1988) 3. M. Murphy, R.E. Anderson, D.C. Rousar, and J.A. VanKleeck, "Effects of Oxygen/Hydrogen Combustion Chamber Environment on Copper II, R. Richmond & S.T. Wu. eds. Marshall Space Flight Center, Huntsville, Alabama (1988) 4. R.J. Quentmeyer, "Thrust Chamber Thermal Barrier Coating Techniques", NASA Tech. Memo. 100933 (Prsented at 72nd Specialists' Meeting of the Propulsion and Energetics Panel at Bath, U.K., Oct 1988 5. Dave Ellis etc. (on GRCop-84) 6. L.U. Ogbuji, D.L. Humphrey, and J.A. Setlock, "Comparison of the Oxidation Rates of Some New Copper Alloys" (to appear in Oxidation Alloys", Advanced Earth-to-Orbit Propulsion Technology, (1986) vol. Blanching", Advanced Earth-to-Orbit Propulsion Tech., (1988) vol. II,
+
+7. L.U. Ogbuji, "The General Isothermal Oxidation behavior of Cu-8Cr4Nb" (to appear in Materials at High Temperatures)
+
+of Metals)
+
+11
+

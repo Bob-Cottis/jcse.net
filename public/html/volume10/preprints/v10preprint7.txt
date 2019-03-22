@@ -1,0 +1,627 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+ASSESSMENT OF REMAINING LIFE OF AUSTENITIC STEEL SUPERHEATER TUBES IN PULVERIZED FIRED OIL SHALE BOILERS ­ Part I
+H. Tallermo, I. Klevtsov, T. Bojarinova, A. Dedov
+
+Tallinn University of Technology, Thermal Engineering Department, 11712 Tallinn, Estonia, klevtsov@staff.ttu.ee
+Roger Crane
+
+Mechanical Engineering Department, University of South Florida, Tampa, Florida 33620, Crane@eng.usf.edu
+Abstract The high-temperature corrosion of three austenitic boiler steels with chlorine containing ash deposits, was experimentally tested under conditions simulating the super-heater of an oil shale boiler. The empirical kinetic equations were established for prediction of corrosion depth depending on operational time and temperature. The best corrosion resistance has been found for steel X8CrNiMoNb1616. Keywords: oil shale, boiler, super-heater, austenitic steel, corrosion Introduction In the firing process inorganic matter produces several chemically active compounds, notably potassium chloride [1], leading to both fouling and accelerated high-temperature corrosion in superheater and reheater tubes. Accelerated high temperature corrosion in the presence of chlorine has been a serious problem drawing considerable attention over the years. The problem was first encountered in coal firing boilers [2,3], later in waste incinerators [4] and recently biomass fired boilers developed as alternative energy sources [5-7]. Unfortunately, due to significant differences in (1) the combustion and fouling processes (2) the deposit chemistry and (3) deposit structure, it is virtually impossible to predict oil shale boiler corrosion rates from these prior results. A more precise prediction, based on conditions 1
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 7 25 August 2006 close to those experienced in the operation of oil shale boilers, is therefore needed.
+
+High temperature corrosion of boiler steels subjected to oil shale ash has been under investigation at the Thermal Engineering Department of Tallinn University of Technology (TED TUT) over the last four decades [1]. The problem has persisted in that laboratory and industrial corrosion tests have not yet uncovered any "ideal" boiler steel capable of long term, elevated temperature operation in the presence of oil shale deposits. These investigations are being continued with the investigation of the following austenitic steels: B-407 (ASTM), X8CrNiNb1613 and X8CrNiMoNb1616 (DIN 17459). Corrosion Tests
+
+Figure 1. High Temperature Metal Corrosion Test Arrangement. 1­electric furnace; 2­temperature measurement and control instrumentation; 3 ­ test speciman; 4 ­ thermocouples; 5 ­ combustion chamber; 6 ­ fan.
+
+2
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 7 25 August 2006 The laboratory corrosion tests of boiler steels were conducted following established techniques [8, 9]. Combustion products from natural gas were directed into the furnaces (Fig. 1) by the pipe header and over electrically heated vertical tube-type furnaces having an inner diameter of 40 mm. To avoid condensation of water vapor the pipe header was heated by electrical an excess air ratio was maintained in the range of 1.25-1.30. The
+
+heating coils. Natural gas was burned in a special combustion chamber where combustion gas velocity in the furnaces was about 0.15-0.18 m/s. According to gas analyses the content of O2 and CO2 in combustion products of natural gas was 4 % and 10 %, respectively.
+
+Every furnace had an isothermal zone not less than 100 mm in length. The maintenance of constant temperature in the isothermal zones and associated temperature measurements were logged through analog control units and thermocouple sensors. During these experiments the temperature of the furnaces was maintained at levels of 540, 580 and 620° with an accuracy of ±2°.
+
+Figure 2. Test specimen - new (right) and corroded (left) The corrosion tests were performed on flat electrically polished specimens (Fig. 2) cut from original boiler tubes with dimensions of 31040 mm. Chemical compositions of the examined steels are presented in Table 1. Sets of three specimens were tested at each temperature and for each time interval (12 sets or 36 specimens for each steel). Prior to the tests all 3
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 7 25 August 2006 specimen were degreased, precisely measured and weighed. They were then coated with a mixture of oil shale ash and ethyl alcohol to simulate oil shale deposits. Electrical precipitator ash, with a chlorine content of about 0.5%,
+
+was used in the laboratory experiments. The coated specimen were dried at
+
+the ambient temperature (20-25°C) and placed with special hanger rods into the furnaces preheated to the specified temperatures. To compensate for the consumption of chlorine, the specimen were recoated at regular intervals. These were removed from the furnace, cooled to ambient temperature and Table 2 shows the total chemical composition of the ash used in corrosion tests. recoated with a fresh ash-alcohol mixture after every 10 hours of exposure.
+
+Steel grade
+
+Content, %
+C Si Mn 1,00 2,00 Cr 17,919,0 Ni 11,013,0 Mo P S Nb Ti Cu
+
+12Ch18N12T
+
+0,12
+
+0,80
+
+-
+
+0,035
+
+0,020
+
+-
+
+0,70
+
+0,30
+
+X8CrNiNb1613
+
+0,04
+
+0,30 0,60
+
+1,50
+
+15,017,0
+
+12,014,0
+
+-
+
+0,035
+
+0,015
+
+1,2
+
+-
+
+-
+
+0,04
+X8CrNiMoNb1616
+
+-
+
+0,30 0,60
+
+0,10 0,05
+B-407
+
+1,50
+
+15,50 17,50
+
+15,50 17,50
+
+1,60 2,00
+
+0,035
+
+0,015
+
+1,2
+
+-
+
+-
+
+-
+
+0,10
+
+1,0
+
+1,50
+
+21,0
+
+31,40
+
+-
+
+0,150
+
+-
+
+0,50
+
+-
+
+Table 1. Steel Chemical Composition
+Components, % SiO2 Fly ash 28,4 Fe2O
+3
+
+Al2O3 14,46
+
+CaO 32,0 2
+
+MgO 3,78
+
+SO3 9,91
+
+K2O 6,71
+
+Na2 O 0,56
+
+Cl 0,50
+
+3,66
+
+Table 2. Chemical Composition of Oil Shale Fly Ash Used in Corrosion Tests 4
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 7 25 August 2006 The oxide scale was removed from the specimen in a liquid sodium environment by blowing ammonia [10]. The quantity of corroded material was determined through mass differences (accuracy of ±0.1 mg) of the cleaned specimen, determined before and after testing. The average differences. Discussion of Results The results of laboratory tests are presented in Fig 3-5 for the respective steels with regression around the kinetic equation of corrosion depth, lnS -
+
+corrosion depth was then calculated (S, mm) on the basis of these mass
+
+ln.
+Corrosion depth, mm
+
+0.050
+
+540°C 580°C 620°C
+
+0.010
+
+0.002 100
+
+Time, h
+
+1000
+
+Figure 3. Corrosion Depth of Steel B-407
+
+Corrosion Depth, mm
+
+0.040
+
+540°C 580°C 620°C
+
+0.010 0.004 100
+
+Time, h
+
+1000
+
+Figure 4. Corrosion Depth of Steel X8CrNiNb1613
+
+5
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+0.010
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+Corrosion Depth, mm
+
+540°C 580°C 620°C 0.001 100
+
+Time, h
+
+1000
+
+Figure 5. Corrosion Depth of Steel X8CrNiMoNb1616 For comparison, the results of an earlier tests using 12Ch18N12T (TY 14-3460-75) are shown in Figure 6. In logarithmic coordinates the kinetic lines of high temperature corrosion are straight lines and usually expressed by following empirical correlation: ln S ' =  -  T -1 + ( + T ) ln  , where: (1)
+
+S ­ corrosion depth, mm;  ­ metal temperature, ;  - time, h; , , ,  - coefficients depending on ash characteristics of the (+T) is termed the corrosion process exponent. All coefficients have
+been determined experimentally. particular fuel, grade and temperature of the metal. The coefficient
+
+0.400
+
+Corrosion Depth, mm
+
+0.100
+
+5 45 °C 5 80 °C 6 20 °C 6 50 °C
+
+0.010 0.003 100 1000
+
+Time, h
+
+6000
+
+Figure 6. Corrosion Depth of Steel 12Ch18N12T 6
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+As seen from equation (1), the corrosion process exponent is generally
+
+proportional to the operating temperature of the metal. Regression lines of the 12Ch18N12T (Fig. 6) demonstrate this classical case with the following empirical equation: ln(S)= -8.12 - 297/T + (-0.84 + 0.00178·T)ln ; (St Err 0.34). (2)
+
+A similar dependence was established by fitting the corrosion test data for B407 (solid lines in fig. 3). The regression equation in this case is:
+
+ln(S)= -3.5 - 3077/T + (-1.11 + 0.00184·T)ln ; (St Err 0.3).
+
+(3)
+
+0.040 B-407 X8CrNiNb1613 X8CrNiMoNb1616 12Cr18Ni12Ti 1000 h
+
+0.030 Corrosion Depth, mm
+
+0.020
+
+0.010
+
+0.000 540
+
+560
+
+580
+
+600
+
+620
+
+Metal Temperature, °C
+0.400 B-407 X8CrNiNb1613 X8CrNiMoNb1616 12Cr18Ni12Ti 25000 h
+
+Corrosion Depth, mm
+
+0.300
+
+0.200
+
+0.100
+
+0.000 540 560 580 600 620
+
+Metal Temperature, °C
+
+Figure 7. Corrosion Depth after 1000 h and 25000 h of Exposure 7
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+By comparison of equations (2) and (3) it could be noted that the relationship between the exponent of corrosion and the metal temperature is practically identical, i.e. the same slope, for both cases. The absolute value of the corrosion depth for B-407 is about the same as for 12Ch18N12T in the temperature range and tests duration 1000 h investigated (Fig 7). Assuming similar temperature dependences for the corrosion process
+
+exponent, the following empirical equations, were established for prediction of corrosion depth of the steels X8CrNiNb1613 and X8CrNiMoNb1616, respectively:
+
+ln(S)=6.0-620/T +(-1.12+1.810-3T)ln ; (St Err 0.188) ln(S)=-13.5+4027/T + (-0.97+1.810-3T)ln ; (St Err 0.194)
+On the basis of established regression equations some predictions of
+
+(4) (5)
+
+corrosion depth for the considered steels are presented in Table 3 and Fig.7. The time period of 25000 h corresponds roughly to general major overhauls intervals.
+
+=1000 h
+540°C -407 (3) X8CrNiNb1613 (6) X8CrNiMoNb1616 (7) 12Ch18N12T (2) 0.010 0.012 0.006 0.014 580°C 0.020 0.020 0.007 0.023 620°C 0.039 0.034 0.010 0.038 540°C 0.035 0.035 0.027 0.097
+
+=25000 h
+580°C 0.087 0.076 0.045 0.202 620°C 0.215 0.163 0.075 0.422
+
+Table 3. Predicted Corrosion Depth for Austenitic Steels Subject to Oil Shale Fly Ash in Pulverized Fired Boilers, S, mm
+
+The corrosion resistance of 12Ch18N12T, -407, X8CrNiNb1613 after 1000 h of operation are projected to be similar. Steel X8CrNiMoNb1616 was found to have the least corrosion depth.
+
+8
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 7 25 August 2006 After 25000 h all of the steels except the steel 12Ch18N12T have practically the same corrosion resistance at 540°C. There are essential differences in steel is X8CrNiMoNb1616 - the worst is -407. At the same time the properties of the steels at higher temperatures. The best corrosion resistant corrosion depth of the steel B-407 at 620°C is 2 times less than the corrosion tests with a stable oxide scale under the layer of oil shale ash deposits;
+
+depth of the steel 12Ch18N12T. These results were obtained by the corrosion however, the periodic destruction of the oxide scale that occurs in actual boiler operation has been previously found to sharply accelerate corrosion. Thus the final form of equation for prediction of the high temperature corrosion in the presence of oil shale ash could be established only after testing under actual operating conditions.
+
+Conclusions 1. The empirical equations for prediction of corrosion depth of examined steels under stable layer of the oil shale ash deposits were established. 2. According to the laboratory corrosion tests the best corrosion resistant steel is X8CrNiMoNb1616. References 1 Ots A. Põlevkivi põletustehnika (Oil Shale Fuel Combustion) // Tallinn, 2004 (In Estonian). 2 Baxter L.L. and Nielsen H.P., (1997), The effect of fuel-bound chlorine and alkali on corrosion initiation, Prepr. Pap. Am. Chem. Soc., Div. Fuel Chem., 42, (4), 1091-1095. 3 James P.J. and Pinder L.W., (1997), Effect of coal chlorine on the fireside corrosion of boiler furnace wall and superheater/reheater tubing; Mater. High Temperature, 14, (3), 187-196. 4 M.P. de Jong and R.G.I. Leferink, (2001), Experiences with the KEMA corrosion probe in waste incineration plants and coal fired boilers, Int. Conf. Baltica V, "Condition and Life Management for Power Plants", Porvoo, June 6-8, pp. 223-234.
+
+9
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 7 25 August 2006 5 Uusitalo M., Vuoristo P., Mäntylä T., (2001), Corrosion and erosioncorrosion of thermally sprayed coatings at elevated temperatures, Int. Conf. Baltica V, "Condition and Life Management for Power Plants", Porvoo, June 6-8, pp. 247-261. 6 Nielsen H.P., Frandsen F.J., Dam-Johansen K., Baxter L.L., The
+
+implications of chlorine-associated corrosion on the operation of biomass-fired boilers, Progress in Energy and Combustion Science 26 (2000) 283­298
+
+7 Wieck-Hansen K., Overgaard P., Larsen O. H., (2000), Cofiring coal and straw in a 150MWe power boiler experiences, Biomass and Bioenergy, 19, 395-409. 8 Rules for Determination of Corrosive Resistance of Boiler Alloys at Elevated Temperatures ­ PTM 108.030.116-78 (in Russian). 9 Steam Boilers. Method of Corrosion Tests ­ OCT 108.030.01-75, Moscow, 1973 (in Russian). 10 Antikain P.A. Korroziya metalla parogeneratorov. (Corrosion of Metal of Steam Boilers)// Moscow, Energia, 1977 (In Russian). 11 Wegst C.W. Key to steel. // Verlag Stahlschlüssel Wegst GMBH, 1998.
+
+10
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+Attachment: Additional Copies of Images and Tables
+
+Figure 1. High Temperature Metal Corrosion Test Arrangement. 1 ­ electrical furnace; 2 ­temperature measurement and control instrumentation; 3 ­ test specimen; 4 ­ thermocouples; 5 ­ combustion chamber; 6 ­ fan.
+
+11
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+Figure 2. Test specimen - new (right) and corroded (left)
+
+0.050 Corrosion depth, mm
+
+540°C 580°C 620°C
+
+0.010
+
+0.002 100
+
+Time, h
+
+1000
+
+Figure 3. Corrosion Depth of Steel B-407
+
+12
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+Corrosion Depth, mm
+
+ISSN 1466-8858
+0.040 540°C 580°C 620°C
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+0.010 0.004 100
+
+Time, h
+
+1000
+
+Figure 4. Corrosion Depth of Steel X8CrNiNb1613
+0.010
+
+Corrosion Depth, mm
+
+540°C 580°C 620°C 0.001 100
+
+Time, h
+
+1000
+
+Figure 5. Corrosion Depth of Steel X8CrNiMoNb1616
+
+0.400
+
+Corrosion Depth, mm
+
+0.100
+
+5 45 °C 5 80 °C 6 20 °C 6 50 °C
+
+0.010 0.003 100 1000
+
+Time, h
+
+6000
+
+Figure 6. Corrosion Depth of Steel 12Ch18N12T 13
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+14
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+0.040
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+0.030 Corrosion Depth, mm
+
+B-407 X8CrNiNb1613 X8CrNiMoNb1616 12Cr18Ni12Ti
+
+1000 h
+
+0.020
+
+0.010
+
+0.000 540
+
+560
+
+580
+
+600
+
+620
+
+Metal Temperature, °C
+0.400 B-407 X8CrNiNb1613 X8CrNiMoNb1616 12Cr18Ni12Ti 0.200 25000 h
+
+Corrosion Depth, mm
+
+0.300
+
+0.100
+
+0.000 540 560 580 600 620
+
+Metal Temperature, °C
+
+Figure 7. Corrosion Depth after 1000 h and 25000 h of Exposure
+
+15
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 7
+
+25 August 2006
+
+Table 1. Steel Chemical Composition Content, %
+C Si Mn Cr Ni Mo P S N b Ti Cu
+
+Steel grade
+
+12Ch1 *
+
+8N12T
+
+0,12
+
+0,80
+
+1,00 2,00
+
+17,919,0
+
+11,013,0
+
+-
+
+0,03 5
+
+0,02 0
+
+-
+
+0,7 0
+
+0,3 0
+
+X8CrNiNb1613
+
+0,04
+
+0,30 0,60
+
+1,50
+
+15,017,0 15,50 17,50
+
+12,014,0 15,50 17,50
+
+-
+
+0,03 5
+
+0,01 5
+
+1, 2
+
+-
+
+-
+
+X8CrNiMoNb161 6
+
+0,04 0,10 0,05
+
+0,30 0,60
+
+1,50
+
+1,60 2,00
+
+0,03 5
+
+0,01 5
+
+1, 2
+
+-
+
+-
+
+B-407
+
+-
+
+0,10
+
+1,0
+
+1,50
+
+21,0
+
+31,40
+
+-
+
+0,15 0
+
+-
+
+0,5 0
+
+-
+
+* steel designation in accordance with [11].
+
+Table 2. Chemical Composition of Oil Shale Fly Ash Used in Corrosion Tests
+Components, % SiO2 Fly ash 28,4 Fe2O
+3
+
+Al2O3 14,46
+
+CaO 32,0 2
+
+MgO 3,78
+
+SO3 9,91
+
+K2O 6,71
+
+Na2 O 0,56
+
+Cl 0,50
+
+3,66
+
+Table 3. Predicted Corrosion Depth for Austenitic Steels Subject to Oil Shale Fly Ash in Pulverized Fired Boilers,
+
+S, mm
+
+16
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 7
+
+=1000 h
+580°C 0.020 0.020 0.007 0.023
+
+=25000 h
+540°C 0.035 0.035 0.027 0.097 580°C 0.087 0.076 0.045 0.202
+
+25 August 2006
+
+540°C -407 (3) X8CrNiNb1613 (6) X8CrNiMoNb1616 (7) 12Ch18N12T (2) 0.010 0.012 0.006 0.014
+
+620°C 0.039 0.034 0.010 0.038
+
+620°C 0.215 0.163 0.075 0.422
+
+17
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

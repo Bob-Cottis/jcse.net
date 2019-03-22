@@ -1,0 +1,280 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+CORROSION BEHAVIOUR OF LOW CARBON STEEL IN ARTIFICIAL SEAWATER USING TP, LP, EIS, HARMONIC ANALYSIS (HA) AND NEW METHOD DYNAMIC ELECTROCHEMICAL IMPEDANCE SPECTROSCOPY (DEIS)
+
+K. Darowicki1 H.Gerengi*2 G. Bereket2 P.Slepski1 A.Zielinski1
+Gdansk University of Technology, Chenical Faculty, Department of Electrochemistry, Corrosion and Material Engineering. Narutowicza Str. 11/12, 80-952, Gdansk Wrzeszcz, POLAND 2 Department of Chemistry, Faculty of Arts and Science, Eskiehir Osmangazi University, 26480 Eskiehir, Turkey
+1
+
+Abstract Electrochemical methods play an important role in corrosion researches so; there is a wide range of techniques for the monitoring of corrosion. The aim of this paper was to collect experimental data with different methods and to find correlation between them. The corrosion behaviour of low carbon steel (AISI 1026) has been studied in artificial seawater using tafel extrapolation (TP), linear polarisation (LP), electrochemical impedance spectroscopy (EIS), harmonic analysis and very a new method dynamic electrochemical impedance spectroscopy (DES). All results were determined and compared with each other. Keywords Corrosion; Low carbon steel; Tafel extrapolation (TP); Linear polarisation (LP); Electrochemical impedance spectroscopy (EIS); Harmonic analysis (HA); Dynamic electrochemical impedance spectroscopy (DES);
+
+1. Introduction Low carbon steel is a very important alloy that finds wide applications in industry, metallurgy and construction fields. Also, carbon steels has been widely employed as a construction materials for pipe work in the oil and gas production such as down hole tubular, flow lines and transmission pipelines [1-2]. Instantaneous corrosion rate measurements are often obtained through the use of electrochemical measurements such as LP, ER and EIS. Electrochemical impedance spectroscopy has become a very powerful tool for the analysis of corrosion processes. It used as a method of general applicability for investigation of localized corrosion. But EIS has limitations. For good results the corrosion system must be stable [3]. Recently, Darowicki et al. [4-5] have presented a new mode (DEIS) of electrochemical impedance measurement. In this method the impedance spectra are determined for narrow periods of time. So, this method can be appropriate for impedance measurements of corrosion. Harmonic analysis response of a system to a sinusoidal voltage or current perturbation has been interest to electrochemists for a number of years [6-7]. The main advantage of harmonic analysis (HA) is that the measurement of corrosion rate does not employ presumed values for the Tafel slopes. Measurements can be undertaken in a fraction of the time of conventional methods (e.g., LP, ER and EIS) [8]. In the present investigation, it is proposed to compare the corrosion behaviour of low carbon steel in artificial seawater with five different electrochemical methods such as TP, LP, EIS, DEIS and harmonic analysis.
+*
+
+Corresponding author. Tel: +90-535-397-10-84; E-mail address: huararat@hotmail.com
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 1 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+2. Experimental Approach 2.1. Materials Electrochemical measurements were all carried out in a three-electrode type cell with separate compartments for the reference electrode (Ag/AgCl) and the counter electrode was platinum (Pt) plate. Experiments were performed under nonflowing conditions. The working electrode was a low carbon steel (AISI 1026). The area of this electrode was 0.785 cm2 and Surface of the working electrode was prepared by grinding abrasive paper of 400-1800 gradation. Next they were rinsed with distilled water and degreased with acetone. Before main experiments the working electrode was immersed in aerated artificial seawater and allowed to stabilize for 30 minutes [9]. The low carbon steel (AISI 1026) had the composition; (wt. %): 0.22-0.28 C, 0.90-1.10 Mn, 0.3 Ni, 0.3 Cr, 0.04 (max) P, 0.05 (max) S and the rest Fe. Chemical Composition of the artificial seawater is given in Table 1. [10]. pH of this water was 8.10 and Resistivity was () 25 -cm. We measured resistivity with Nilsson electrical resistance Conductance meter model 400. Table 1 Analyze of artificial seawater that we used Component NaCl MgCl2 Na2SO4 CaCl2 NaHCO3 KBr H3BO3 Concentrations, g/l 24,53 5,20 4,09 1,16 0,201 0,101 0,027
+
+2. Results and discussion 2.2.1 Corrosion current at open circuit potential In order to estimate the corrosion current at the open circuit (corrosion) potential, the electrode potential must be perturbed according to any of the methods of Tafel extrapolation, linear polarisation or EIS. All these three methods were investigated and the results shall be compared below. 2.2.1.1. Tafel extrapolation (TP) This technique uses data obtained from cathodic and anodic polarization measurements. Cathodic data are preferred, since these are easier to measure experimentally. The total anodic and cathodic polarization curves corresponding to hydrogen evolution and metal dissolution are superimposed as dotted lines. To determine the corrosion rate from such polarization measurements, the Tafel region is extrapolated to the corrosion potential, as shown in Fig. 1. The polarisation resistance (Rp) was calculated using the Stern­Geary Equation. [12]:
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 2 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+icorr =
+
+icorr
+
+a c 1 2,303( a +  c ) R p B = Rp
+
+(1)
+
+(2)
+
+a, c and corr values obtained from fig.1. Results were listed in table 2. The experiment curves were recorded in anodic and cathodic direction at the scan rate of 1 mVs-1.
+
+2
+
+1
+
+0
+
+Log j (m-2)
+
+-1
+
+-1.2
+
+-2
+
+-3
+
+-4 -1 -0.9
+
+-0.83
+-0.8 -0.7 -0.6
+
+E (V)
+Fig.1. Tafel extrapolation curve of low carbon steel in artificial seawater 2.1.1.2. Linear polarisation resistance (LP) The linear polarisation resistance method is an alternative to determining the corrosion rate at the open circuit potential. The perturbation potential was +/- 20 mV. Our scan rate was 0.166 mVs-1. We obtained Rp value from fig. 2. If we compared Ecorr and Rp results with Tafel extrapolation method (table 2.), there were some differences between them. Those differences were reported in a previous research study [13-14-15-16]. We thought that such differences could depend on scan rate and frequency. Because, we obtained similar results from comparison of linear polarisation and electrochemical impedance spectroscopy methods.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 3 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+Table 2 A comparison of Rp and Ecorr results from linear polarisation and Tafel extrapolation methods Analyze Linear polarisation Tafel extrapolation Rp (cm-2) 2630 3150 Ecorr (V) -0.667 -0.823
+
+20.0
+0 5 10 15 20
+
+25 25
+
+20
+
+10.0
+
+j / Acm-2
+
+15
+
+0.0
+10
+
+-10.0
+5
+
+-20.0 -0.720
+
+0
+
+-0.710
+
+-0.700
+
+-0.690
+
+-0.680
+
+-0.670
+
+E/V
+Fig. 2. Linear polarisation curve of low carbon steel in artificial seawater 2.1.1.3. Electrochemical impedance spectroscopy (EIS) Electrochemical impedance spectroscopy (EIS) measurements were performed in the frequency range 1 MHz to 0.01 Hz with a signal amplitude perturbation of 10 mV.with PARSTAT 2263 electrochemical Analyze equipment. We obtained fig. 3. and fig.4. from EIS measurement. For such curves we used the Zsimpwin 3.20 software to evaluate the polarisation resistance and the results are given in table 3.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 4 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+1600
+
+1200
+
+-jZ'' / cm2
+
+800
+
+400
+
+0 0 400
+
+Z' / cm2
+
+800
+
+1200
+
+1600
+
+Fig. 3. Nyquist plot for the low carbon steel in artificial seawater solution.
+
+10000
+
+80
+
+60 1000 40 100 20 10 0
+
+1 0.01 0.1 1 10 100
+
+-20 1000 10000100000
+
+F / Hz
+Fig. 4. Bode plots for low carbon steel in artificial seawater solution.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 5 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+Angle / deg.
+
+|Z| / cm2
+
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+Table 3 A comparison of Rp and corr results that obtained by all techniques Analyze Tafel extrapolation Linear polarisation EIS Harmonic Analysis DEIS RP(cm-2) 3150 2630 2900 2683 2174 corr (Acm-2) 6.302 7.548 6.845 6.80 9.13
+
+2.2. Harmonic analysis (HA) Harmonic analysis (HA) measurements were performed by means of voltage sine perturbation signal (amplitude 100 mV, frequency 7 Hz), generated by National Instruments DAQ-PCI 6052 A/D card. Parstat 2263 potentiostat was used a current-voltage converter. 2.2.1 Introduction of HA In this technique the frequency of the measuring voltage must be selected carefully. Selection of the perturbation amplitude U0, must be compromised between achieving steady-state conditions and the achievement of satisfactory accuracy in the measurement of the second and third harmonic components. It has been suggested that values of U0 between /2 and  (where  equals ba = 2.303 or bc = 2.303, whichever is smaller) are suitable [17] with errors in the vicinity of 10% when U0/ = 1 and becoming negligible as U0/ approaches 0.5. The capabilities of the instrumentation must also be considered when selecting U0. For the stern model of electrical double layer, an electrode polarized near the corrosion potential by a sinusoidal voltage of angular frequency  and voltage amplitude U0, over a period t, will yield a faradaic current density, current obtained by [18]; i = icorr(exp(2.3U0sin t/ba) ­ exp(2.3U0sin t/bc)) (3)
+
+Where ba and bc were the anodic and cathodic Tafel slopes, and icorr was the corrosion current density. The amplitudes of the harmonic components can be obtained by Fourier series expansion of the expantial terms in eq. (3) above, if = i0 + i1sint ­ i2cos2t ­ i3sin3t+..... (4)
+
+The first term of the series in eq.(4), i0 is the DC component of the current caused by faradaic rectification, while the coefficients of the other components (i1, i2, i3 .....) were the amplitudes of the harmonic components. The magnitudes of the first three harmonic components were given by eqs. 5-6 and 7;
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 6 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+1 1 i1 = icorr    +  U 0  c a 1 1 U 2  2 + 2 0 i1 = -icorr    a c  4 1 1 U 3 i1 = -icorr  3 + 3  0    a  c  24
+
+(5) (6) (7)
+
+Eqs. (5)­(6) can be employed with both small and large amplitude alternating voltages, with the value of U0 being limited by the potential range validity of Eq. (3). Devay and Maszaros [18] also proposed the following equations for the determination of corrosion currents and Tafel slopes;
+
+icorr =
+
+i12
+2 48 2i1i3 - i2
+
+(8)
+
+1 1 = ba ,c 4.6U 0
+
+ i1 i2   i ±4 i   1  corr
+
+(9)
+
+In response to the use of Eqs. (8) and (9), other authors [19] expressed concerns that a term was omitted from Eq. (5), which is equal to three times the absolute value of the third harmonic, and it should not be neglected, i.e., Eq. (5) becomes;
+
+ 1 1 i1 = icorr  +    a  c 
+
+ 1 1 1  3 U 0 +  3 + 3 U 0   8  a c     
+
+(10)
+
+and alters Eqs. (8) and (9) to;
+
+icorr =
+
+4  
+
+(i1 + 3i3 )2 212 3 2(i1 + 3i3 )i3 + i2  
+
+
+(11)
+
+1 1  i1 + 3i3 i  = ±4 2  i ba , c 4.6U 0  corr i1 + 3i3  
+2.2.2. Results of HA
+
+(12)
+
+An amplitude of 100 mV and frequency of 7 Hz were utilized in all HA measurements. The HA measurements were compared in table 3. The first, second and third harmonic currents were determined and the data were processed manually by using Eqs. (10)­(12). All measurement results are similar with each other. The reason of
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 7 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+differences was stated in 2.1.1.2. part. But those differences were very small value. In table 4, we compared Tafel results and harmonic analysis results. There was good correlation between them. HA, spectrum was shown at fig. 5. Table 4 A comparison of a, b and corr results obtained by Tafel extrapolation and Harmonic analysis Analyze Tafel extrapolation Harmonic analysis a(mV) 58 57.147 b (mV) 216 158.83 corr (Acm-2) 6.3 6.8
+
+Fig 5. Harmonic analysis spectrum of low carbon steel in artificial seawater solution.
+
+2.3 Dynamic electrochemical impedance spectroscopy (DEIS) Dynamic electrochemical impedance spectroscopy (DEIS) measurements were performed on a setup assembled in the Gdansk University of Technology by Department of Electrochemistry Corrosion and Materials Engineering [11]. Generation of the AC signal was performed with a National Instruments Ltd. PCI-6120 digital-analog card. The same card was used for measurement of the current and voltage signals. A KGLstat v. 2.1 potentiostat was used as a current-voltage converter. The perturbation signal was a package composed of voltage sinusoids of the frequency range 4.5 kHz to 700 mHz. The low limit of measurement frequency depended on the length of analyzing window (10s). In the other words the low frequency limit depended on the time scale of the analysis performed. The sampling frequency was 12.5 kHz. The amplitudes of all sinusoids were equal to 5mV. We took two measurements by using this method. First was 10 minutes after prepared our solution for experiment (fig. 6). From this figure we obtained that our system was non-stationary. So this method should be also use before every experiment for to take knowledge about system. At second measurement it was clear that our system was stationary. Impedance values were changing very slowly (fig. 7). Results that obtained from this method were listed at table 3.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 8 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+Fig.6. First measurement of DEIS (after 10 minutes)
+
+Fig.7. Second measurement of DEIS (after 30 minutes)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 9 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 18
+
+27 November 2006
+
+3. Conclusions · · · · Low carbon steel has been studied using Tafel extrapolation, Linear polarisation, EIS, Harmonic analysis and DEIS. All results were having small differences between each other. But those differences depend on measurement technique of methods. The results of this study demonstrate that HA is a relatively rapid measurement technique, which will vary depending on the frequency, chosen for the analysis. There are a few practical problems with HA technique. The levels of the harmonics can be quite low compared to the fundamental and can be hard to measure, especially in the presence of any noise. DEIS method should be use before every experiment for to take knowledge about system. It gives perfect results about system.
+
+Acknowledgements This work was financed by the Faculty of Chemistry, Department of Electrochemistry, Corrosion and Materials Engineering of the Gdansk University of Technology.
+
+References
+[1] B.Ridd, T.J. Blakset, D. Queen, Corrosion, NACE, Paper No (78), Houston, Texas, 1998. [2] M.A.Migahed, M.Abd-El-Raouf , A.M.Al-Sabagh , H.M.Abd-El-Bary, Effectiveness of some non ionic surfactants as corrosion inhibitors for carbon steel pipelines in oil fields, Electrochimica Acta 50 (2005) 4683­4689 [3] A.N.Rothwell, J.L.Dawson D.A.Eden, J.W.Palmer, Interpreting electrochemical impedance from segmented electrode arrangements, American society for testing and materials, Philadelphia, 1993, pp. 237-251 [4] K.Darowicki, J.Orlikowski, G.Lentka, Instantaneous impedance spectra of a non-stationary model electrical system, Journal of Electroanalytical Chemistry 486 (2000) 106­110 [5] K.Darowicki, J.Orlikowski, A.Arutunow, Dynamic electrochemical impedance spectroscopy measurements of passive layer cracking under static tensile stresses, J Solid State Eletrochem (2004)8.352­359 [6] D.C.Smith, Electroanalitic Chemistry, vol.1, M.Dekker, Newyork, 1969 [7] G.P.Roa, A.K.Mishra, , Electroanalitic Chemistry 77(1977)276 [8] William Durnie, Roland De Marco , Alan Jefferson, Brian Kinsella Harmonic analysis of carbon dioxide corrosion, Corrosion Science 44 (2002) 1213­1221 [9] G.Petkova, E.Sokolova, S.Raicheva, P.Ivanov, Br.Corros. J. 31 (1996) 55 [10] H.Gerengi, Osmangazi University science institute, M.Sc. Thesis 1170 (2003)67 [11] K.Darowicki, Theoretical description of the measuring method of instantaneous impedance spectra, Journal of Electroanalytical Chemistry 486 (2000) 101­105 [12] M.Stern and A.L.Geary, Electrochem. Soc. 104 (1957) 56 [13] R.F.Stratfull, Criteria for cathodic protection of bridge decks, Corrosion of Reinforcement in Concrete Construction, Society of Chemical Industry, London, 1983, pp. 287­ 331. [14] H.R.Soleymani, M.E.Ismail, Comparing corrosion measurement methods to assess the corrosion activity of laboratory OPC and HPC concrete specimens, Cement and Concrete Research 34 (2004) 2037­2044 [15] R.Akid, D.J.Mills, A comparison between conventional macroscopic and novel microscopic scanning electrochemical methods to evaluate galvanic corrosion, corrosion science 43(2001) 1203-1216 [16] B.Zhu, G.Lindbergh, Corrosion behaviour of high-chromium ferritic steels in molten carbonate in cathode environment, Electrochimica Acta 46 (2001) 2593­2604 [17] J.Devay, L.Meszaros, Acta Chim. Acad. Sci. Hung. 100 (1979) 183 [18] L.Meszaros, G.Meszaros, B.Lengyel, J.Electrochem. Soc. 141 (8) (1994) 2068. [19] J.P.Diard, G.Le Gorrec, C.Montella, J.Electrochem. Soc. 142 (10) (1995) 3612.
+
+10 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

@@ -1,0 +1,300 @@
+ISSN 1466-8858
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+Corrosion Inhibition Studies Of Mild Steel In Acid Medium Using Plant Products
+V.G.Vasudha1, R.Saratha2
+1 Department. of Chemistry, Nirmala College for Women, Coimbatore, Tamilnadu, India. 2 Department of Chemistry, Avinashilingam Deemed University, Coimbatore, Tamilnadu, India.
+
+Abstract
+Efficiency of acid extract of dry seeds of Erythrina Suberosa as corrosion inhibitor for mild steel in HCl medium is investigated in the present study. Experimental methods include weight loss and polarization studies. The results indicate Erythrina suberosa seeds to be a good corrosion inhibitor of a mixed type and having efficiency as high as 98% at 1% inhibitor concentration. Adsorption isotherms reveal that it obeys Temkin, Freunlich, Langmuir and Flory-Huggins isotherms.
+
+Key Words: Erythrina Suberosa, Corrosion inhibitor, Plant Products, Mild Steel, Acid
+Medium.
+
+Introduction
+Mild steel is widely used in various industries as a structural material. It is exposed to aggressive environments like concentrated acids, alkalies, salt solutions etc which leads to its degradation. Considerable quantum of corrosion loss of steel occurs in acid medium and inhibitors for mild steel corrosion in acid medium find importance among other corrosive media.
+
+In addition to the several synthetic organic compounds, large number of natural products like Andrographis paniculata (1) Rosemarinus officianalis (2)Allium cepa, Allium sativum, Momordica charantia (3) Eugenia jambolans (4) Calotropis giganta(5).Pongamia glabra, Annona squamosa (6) Zenthoxylum alatum (7) Nypa
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+fruiticans wurmb (8) Citrus paradisi (9) and Lawsonia inermis (10) have been tried as mild steel corrosion inhibitors. In the present study the corrosion inhibitory effect of acid extract of seeds of Erythrina suberosa roxb (ERS) have been investigated. Weight loss and polarization studies were carried out.
+
+Experimental
+Sheet of mild steel obtained locally and of 2mm thickness was mechanically cut in to coupons of 5x1 cm2 size, having a hole of uniform diameter to facilitate suspension of the coupon in the test solution. The coupons were mechanically cleaned followed by polishing with emery sheet of fine quality to expose shining polished surface. To remove any oil and organic impurities coupons were degreased with acetone and finally with de-ionised water, dried and stored in a desiccator. Accurate weight of the samples were taken using electronic balance. For polarization studies mild steel specimens with an exposed area of 1cm2 were used.
+
+Material Inhibitor Material
+5% stock solution of the inhibitor material (ERS acid extract) was prepared by refluxing 10 gms of dry Erythrina Suberosa seeds powder with 200ml of IN HCl. for 3 hours. The refluxed solution was allowed to stand overnight and filtered through ordinary filter paper. The residue was repeatedly washed with small amounts of IN HCl and the filtrate made upto 200 ml. From this 5% solution, different concentrations of inhibitor solutions ranging from 0.01% to 1% were diluted. The chemicals used were of Analar grade.
+
+Weight loss method
+Three sets of experiments were conducted for the immersion times ½ hour,2hours and 6 hours. Pre-weighed mild steel specimens (in triplicate) were suspended for different immersion periods in 1N HCl with and without the inhibitor in different concentrations ranging from .01% to 1%. After the specified time the coupons were removed from test solution, thoroughly washed with NaHCO3 solution and deionised water, dried well and then weighed. The percentage of inhibitor efficiency (IE %) for various concentrations of the inhibitor were calculated as
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+I.E.% =
+
+Weight loss without inhibitor ­ weight. loss with inhibitor X 100 Weight loss without inhibitor
+
+impedance Polarisation and impedance studies
+Potentiodymamic anodic and cathodic polarization curves were obtained with a scan rate of 2 mv/s in the potential range from -0.2mv to -0.8mv relative to the corrosion potential (Ecorr). Values of the corrosion current density Icorr were obtained by extrapolation of the cathodic branch of the polarization curve back to Ecorr. Measurements of Rp in the vicinity of Ecorr were also carried out. Impedance spectra were recorded at Ecorr in the frequency range 0 to 400Hz. The values were computed using Solatron 1280B.
+
+Results and Discussion Table .1
+Inhibition Efficiency at different inhibitor concentration and different immersion times
+Concentration % 0.01 0.02 0.05 0.07 0.1 0.2 0.5 1 1/2 hr 55.91 77.27 80.46 85 86.4 89.55 92.27 99 Time 2 hrs 59.65 71.32 84.73 86.59 89.09 92.69 96.4 98.96 6 hrs 65.61 75.49 82.42 85.57 89.99 93.97 95.76 97.3
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+ERS ACID EXTRACT INHIBITION EFFICIENCIES AT DIFFERENT INHIBITION CONCENTRATION AND DIFFERENT IMMERSION TIMES
+120 100 80 60 40 20 0 0.01 0.02 0.05 0.07 0.1 0.2 0.5 CONCENTRATION 1
+
+1/2 hr 2 hrs 6 hrs
+
+I.E%
+
+Figure 1 Table 1 shows the inhibitor efficiency for different inhibitor concentration and different immersion periods. It is found that as the inhibitor concentration increases, inhibitor efficiency increases suggesting adsorption of the inhibitor material on the metal surface. Maximum . efficiency of about 98% is reached at 1% concentration of the inhibitor. It is also found that as the immersion time is changed, inhibitor efficiency changes especially at very low concentration. (0.01.02% ). Erythrina seed is found to be a good inhibitor even for a short immersion time of ½ hour. Optimum efficiency is reached in 2 hours time since for longer immersion time there is not much of change in efficiency.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Table ­ 2 Adsorption Isotherm Values :
+Langmuir isotherm
+½ Hour 2 Hrs 1.6649 0.7365 0.9987 6 Hrs 1.5312 0.6352 0.9985
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+Freundlich isotherm
+½ Hr 0.0208 0.1233 0.9366 2 Hrs 0.0377 0.1181 0.9349 6 Hrs 0.0182 0.0945 0.9758
+
+Temkin isotherm
+½ Hr 1.0112 0.2074 0.9549 2 Hrs 1.0541 0.2095 0.9525 6 Hrs 1.0221 0.1744 0.9859
+
+Intercept Slope Corelation
+
+0.0267 0.1704 0.9387
+
+FloryFlory-Huggins Isotherm
+½ Hour 2 Hours 2.3587 1.4266 0.9992 6 Hours 2.5401 1.6610 0.9969
+
+Frumkin Isotherm
+½ Hour 101.1171 20.7413 0.9549 2 Hours 105.4089 20.9454 0.9525 6 Hours 102.2068 17.4429 0.9859
+
+Intercept Slope Corelation
+
+0.2492 16.2797 0.9252
+
+Adsorption Isotherm values are important to explain the mechanism of corrosion inhibition. The surface coverage  values are calculated from weight loss values. Various adsorption isotherms are tried. Best fit of the isotherms and the values are tabulated in Table 2. The regression values of all isotherms are nearly equal to 1. From that the inhibitor is found to obey Langmuir, Temkin, Freundlich, Frumkin,and Flory-Huggins Isotherm.
+
+Table 3 Potentiodynamic Polarization parameters for Mild Steel in the presence of ERS in 1N HCL
+Concentration of Inhibitor (% w/v) Blank 0.01 0.05 0.5 Inhibitor Ecorr mAmps
+-0.4949 - 0.4882 -0.4864 -0.4848
+
+Icorr Amp/Cm2
+0.005458 0.003143 0.001518 0.00034263
+
+ba mv
+175.41 181.64 134.28 139.96
+
+bc mv
+128.35 116.13 95.418 108.52
+
+Efficiency Ohm/cm2 Tafel Linear
+5.9382 9.9176 15.375 76.064 42.41 72.19 9373 40.12 61.38 92.19
+
+Rp
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 42
+
+Table ­ 4
+
+submitted 24 July 2007
+
+Impedance parameters for Mild Steel in the presence of ERS in 1N HCL
+Concentration of Inhibitor (% w/v) Blank HCl 0.01% ERS 0.05% ERS 0.5%ERS 0.0001917 0.0001558 0.0001295 0.00006524 19.62 1 72.31 168.91 315.53 72.87 81.98 93.78 18.73 32.45 65.99 Cdl Farads Rct ohms Inhibitor Efficiency Tafel Linear
+
+0
+
+I
+
+-0.25
+
+E (Vol ts)
+
+-0.50
+
+-0.75
+BLANK HCl.cor BLANK HCl+0.01%ERS.cor BLANK HCl+0.05%ERS.cor BLANK HCl+0.5%ERS.cor
+
+-1.00 10-6
+
+10-5
+
+10-4
+
+-3 10
+
+10-2
+
+10-1
+
+100
+
+(Amps/cm2) Figure 2. POTENTIODYNAMIC POLARIZATION OF
+MILD STEEL IN HCI IN THE PRESENCE OF ERS
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+-300
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+-200
+
+Z ''
+
+-100
+
+0
+HCL.Z HCL+0.01%ERS.Z HCL+0.05%ERS.Z HCL+0.5%ERS.Z
+
+100 0 100 200 300 400
+
+Z'
+
+Figure 3 Nyquist Plot Mild steel in HCl in the presence of ERS
+103 102
+HCL.Z HCL+0.01%ERS.Z HCL+0.05%ERS.Z HCL+0.5%ERS.Z
+
+|Z|
+
+101 100 10-1 10-1
+
+100
+
+101
+
+102
+
+103
+
+104
+
+105
+
+Frequency (Hz)
+
+-75 -50
+
+theta
+
+-25 0 25 10-1
+
+100
+
+101
+
+102
+
+103
+
+104
+
+105
+
+Frequency (Hz)
+BODE PLOT FOR MILD STEEL IN HCl IN THE PRESENCE OF ERS
+
+Figure 4 BODE PLOT ­ MILD STEEL IN HCI IN THE PRESENCE OF ERS
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+Polarisation
+To evaluate the effect of the extract on the electrochemical behaviour of mild steel, cathodic and anodic polarization experiments were carried out. Electrochemical corrosion parameters such as corrosion current. Icorr, corrosion potential Ecorr and inhibition efficiency (I.E %) are given in the table 3. In the presence of the extract the Icorr value decreases, thereby indicating that the inhibitor is corrosion inhibitive in nature. The steady values of Ecorr indicate that the extract might have predominantly acted as mixed inhibitor to retard both the rates of hydrogen ion reduction and anodic dissolution of mild steel. The values of ba and bc have not been shifted to any particular direction from the blank values indicating again the mixed mode of inhibition. From the values of inhibition efficiency, it is clear that the corrosion inhibition may be due to the increase in the adsorption of phytochemical constituents of the Erythrina seeds extract on the metal surface. The adsorption may also be due to the negatively charged metal surface and the protonated species of the constituents in the acidic solution on the metal surface. When the content of inhibitor material was increased from 0.01% to 0.5% the Rp values also increased from 9.9 (0.01%), to 15(0.05%) and 76(0.5%). Accordingly the values of I.E % calculated from the experimental and calculated values of Rp were also increased because the coverage of the active surface of mild steel corroding in acid was increased.
+
+Impedance studies:
+Table 4 gives the results of the impedance studies, which are also presented as Nyquist plots. Figure 3 shows the plots in the absence and presence of acid extract of plant materials. It is seen that the Rct values increase in the presence of the extract and increased with increase in concentration of the inhibitor indicating that the acid extract of Erythrina seeds is corrosion inhibitive in nature. The Table 4 also gives the values of the double layer capacitance. Cdl the values of which increased with increase in the inhibitor dose.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Mechanism of inhibition
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+Phyto-chemical studies (11,12,13) on Erythrina Suberosa seeds indicate that it contains the alkaloids erysotrine,erysodine,erythraline, hyponine, erythroidine and erbydine in addition to the other compounds. The structures of these compounds are as follows :
+
+erythraline
+
+erythroidine
+
+erybidine
+
+Erysotine
+
+The structures of these compounds suggest that these may be chemisorbed on the metal surface and thus. Inhibit metal corrosion
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Conclusion
+· · · · ·
+
+Volume 10, Preprint 42
+
+submitted 24 July 2007
+
+Acid extract of Erythrina Suberosa seeds acts as good corrosion inhibitor for mild steel in 1N HCl medium. Inhibitor efficiency increases with inhibitor concentration. Maximum inhibitor efficiency was 98% at 1% in the concentration. Mechanism of inhibitor is by chemisorption. It obeys Freundlich Temkin, Langmuir and Flory - Huggins isotherms. Polarisation studies indicate the inhibitor to be of a mixed type.
+
+References
+1. S.P.Ramesh ,K.P.Vinod Kumar ,M.G.Sethuraman, Bull. of Electrochemistry 17, 3, pp 141-144, 2001 2. E.Chaieb , A.Bouyanzer , B.Hammoudi , M.Benkaddour and M.Berrabah, Trans SAEST vol.39 No 3-4, pp 58-60, 2004 3. K.S.Parikh and K.J.Joshi, Trans SAEST vol. 39 No.3-4, pp29-35,2004 4. Smita A.Verma and G.N.Mehta, Trans SAEST vol. 32 No.4 , p89,1997 5. Smita A.Verma and G.N.Metha, Trans SAEST vol. 33 No.4, pp160162,1998 6. P.Sakthivel, P.V.Nirmala, S.Umamaheshwari ,A. Alice Arul Antony , G.Paruthimal Kalaignan ,A.Gopalan, T.Vasudevan, Bull. of Electrochemistry 15,2, p83,1999 7. G.Gunasekaran L.R.Chauhan, Electrochimica Acta, 49,p4387,2004 8. K.O.Orubite , N.C.Oforka Materials letters 58, p1768,2004 9. O.K. Abiola, N.C. Oforka and E.E. Ebenso, Journal of Corrosion Science and Engineering, vol.5, paper 10 10. A.Y.El-Etre , M.Abdullah , Z.E.El-Tantaway Corr.Sci. 47,385-395,2005 11. Harkishan Singh, Amrik Singh Chawla, Experientia, 25,1785,1969 12. Harkishan Singh, Amrik Singh Chawla, Journal of Pharmaceutical Sciences, 59, 1179,1970 13. P. Khaomek, N. Ruangrunsi, E. Saifah, C. Ichino, M. Kobayashi, Nature medicine , 58,84,2004
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

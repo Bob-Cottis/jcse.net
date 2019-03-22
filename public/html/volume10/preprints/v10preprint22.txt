@@ -1,0 +1,335 @@
+ISSN 1466-8858
+
+submitted 1 February 2007
+
+Volume 10 Preprint 22
+
+Some Imidazole Derivative Compounds and the Investigation of Their Corrosion Inhibition Activities toward Carbon Steel in 1% NaCl Solution Utilizing Tafel Method
+Deana Wahyuningrum, Sadijah Achmad, Yana Maolana Syah, Buchari and Bambang Ariwahjoedi
+
+Department of Chemistry, Faculty of Mathematics and Natural Sciences, Institut Teknologi Bandung, Jl. Ganesa No. 10 Bandung 40132, Jawa Barat, Indonesia, deana@chem.itb.ac.id
+
+Abstract
+Four imidazole derivative compounds: imidazole, compound 1(2,4,5triphenyl-1H-imidazole), 2 (2-hexyl-4,5-diphenyl-1H-imidazole) and been synthesized utilizing microwave assisted organic synthesis 3 ((E)-2-ethyl-4,5-diphenyl-1-(prop-1-enyl)-1H-imidazole) have
+
+(MAOS) method, in order to investigate their corrosion inhibition mechanism on carbon steel surface. The determination of corrosion inhibition activities of the compounds utilized Tafel plot method. Based on the analysis of Tafel plot data, there was linearity of each Langmuir isotherm adsorptions of each compound, which represent the monolayer formation of each compound on the carbon steel surface. The free Gibbs adsorption energy values, G0ads, for Imidazole, compound 1, 2 and 3 are ­28.01, -34.29, -31.68 and 33.26 kJ/mol, respectively, which indicated the spontaneity of adsorption process of each compound on carbon steel surface and
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at should not normally be referenced in published work. © UMIST 2004. http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it
+
+also have the potent to interact with carbon steel through semiphysiosorption or semi-chemisorption.
+
+Keywords: imidazole; Langmuir isotherm adsorption; Microwave
+
+Assisted Organic Synthesis; Tafel plot; corrosion inhibition activities.
+
+Introduction
+The corrosion process of carbon steel pipelines in gas and oilfield mining induced by the presence of carbon dioxide and water has been a serious problem in the oil and gas industry for decades [1]. One of parts of carbon steel pipelines, caused by carbon dioxide and other acidic media is the use of organic corrosion inhibitors [1][2][3][4]. The common organic corrosion inhibitors that widely and commercially used to minimize the corrosion induced by carbon dioxide and acidic media in the gas and oilfield industries are imidazoline derivative compounds. Recently, the studies concerning the correlation between the structure of organic corrosion inhibitors and their corrosion inhibition ability have been quite numerous. There are several studies involving the effect of oxygen, nitrogen and sulphur containing compounds, acyclic and heterocyclic, towards the corrosion inhibition ability [5][6][7][8]. In Indonesia, the gas and oilfield mining is still one of important industries that would give valuable commodity and income to the nation. Therefore, the quest of better performance of organic corrosion inhibitor would be quite crucial considering the effectiveness of production cost. This work was contributed to this sort of quest as well as to the most essential purpose in practicing science methodology. The purpose of this work mainly is to synthesize some imidazole derivative compounds utilizing the novel method in organic synthesis, microwave assisted organic synthesis (MAOS). Many scientists have been engaged in a vast of disciplines that have applied the rapid heating associated with microwave technology to a number of useful processes [9][10][11][12]. This technology opens up new opportunities to the synthetic chemist, in the form of new reactions that are not possible using conventional heating, improved reaction 2 the most effective ways to protect the corrosion, especially the internal
+
+yields, decreased reaction times and even solvent free reaction conditions [10].
+
+The other aim of this work is to analyze the correlation between the
+
+synthesized products structure and their corrosion inhibition activities towards carbon steel in 1% NaCl solution utilizing Tafel plot method. Therefore, in this paper we report some results of the microwaveassisted organic synthesis of some imidazole derivative compounds carbon steel in 1% NaCl solution.
+
+and the analysis of their corrosion inhibitor corrosion activities toward
+
+Experimental
+A. General Procedure All of reagents used in this research are GR grade. All of solvents were distilled before used. The microwave assisted organic synthesis (MAOS) method was utilizing a GE domestic microwave oven type JEI642WC. The characterization of synthesized products was analyzed using BUCK-IR® at Department of Chemistry ITB for the determination of infrared spectrums, and the determination of the melting point of structure elucidation was determined utilizing JEOL DELTA NMR 400 MHz (1H-NMR) and 100 MHz (13C-NMR), using CDCl3 and acetone-d6 as solvents, at Universiti Kebangsaan Malaysia. The determination of inhibition activity of synthesized products employing VoltaLab® apparatus at Department of Chemistry ITB, with carbon steel electrode as working electrode, SCE (Saturated Calomel Electrode) as reference electrode, and platinum electrode as auxiliary electrode. B. The Synthesis of Imidazole Derivative Compounds All of the synthesis procedures of imidazole derivative compounds were summarized as follows (also presented in Scheme 1). This method was the modification of the method used previously by Wolkenberg, et.al. [11] and Usyatinsky, et.al. [12]: 2 mmols of diketones (glyoxal for the synthesis of unsubstituted imidazole; benzil for the synthesis of compound 1, compound 2 and compound 3), 2 mmols of aldehydes, 20 mmols of ammonium acetate and 10 mL acetic acid glacial were placed in 100 mL PYREX® Erlenmeyer flask. The 3 products utilizing the Fisher-Johns® Melt-Temp Apparatus. The
+
+reaction mixtures were stirred well, and then the flask was placed in
+
+the GE domestic microwave oven type JEI642WC. The reaction mixtures were irradiated at 700 W of power for several times until the reaction temperature was no longer raised or achieving the stable temperature. The flask was taken out from the oven and was cooled to 40oC. Then the flask was placed in the ice bath. Into the reaction mixtures were cloudiness appeared. The crude products were filtered out and the residue was washed with aquadest. The crude products were purified utilizing preparative TLC with n-hexane/ethyl acetate = 7:3 (V/V) as eluents. The product were recrystallized in n-hexane/ethyl acetate = 1:1 (V/V). Compound 1 (2,4,5-triphenyl-1H-imidazole): 1H-NMR 400 MHz JEOL 2 Hz, 2H); 7.58 ­ 7.56 (m, 4 H); 7.47 ­ 7.45 (t, 2H); 7.34 ­ 7.26 (m, 7H).
+13C-NMR
+
+added drop wises of saturated ammonium hydroxide solution until the
+
+DELTA (CDCl3):  (ppm) 11.05 (s, broad, 1H); 7.95 ­ 7.92 (dd J = 8 and 100 MHz JEOL DELTA (CDCl3):  145.9, 131.5, 129.6
+
+128.9, 128.6, 127.8, 127.4, 125.3. m/e: 296; 218; 193; 190; 165; 163; 148; 104; 89; 77; 63; 39. Compound 2 (2-hexyl-4,5-diphenyl-1H-imidazole): 1H-NMR 400 MHz JEOL DELTA (Acetone-d6):  (ppm) 11.3 (s, broad, 1H); 7.53 ­ 7.45 (m,
+13C-NMR
+
+4H); 7.35 ­ 7.28 (m, 4H); 7.25 ­ 7.20 (m, 2H); 2.70 (t, 2H); 1.75 (q, 2H); 1.40 ­ 1.29 (m, 6H); 0.88 (s, 3H). (Acetone-d6):  (ppm) 149.4; 130.5; 129.3; 129.1; 128.9; 128.7; 32.3; 100 MHz JEOL DELTA
+
+30.4; 30.2; 29.0; 23.2; 14.3. m/e: 304; 289; 261; 247; 234; 219; 190; 165; 152; 116; 103; 89; 77; 55; 41. Compound 3 ((E)-2-ethyl-4,5-diphenyl-1-(prop-1-enyl)-1H-
+
+imidazole): 1H-NMR 400 MHz JEOL DELTA (CDCl3):  (ppm) 7.93 ­ 7.91 2.71 (q, 2H); 2.27 ­ 2.23 (q, 1H); 1.35 ­ 1.31 (t, 3H); 1.08 ­ 1.04 (t, 3H).
+13C-NMR
+
+(dd, 2H); 7.49 ­ 7.44 (m, 4H); 7.36 ­ 7.24 (m, 4H); 6.21 (t, 1H); 2.80 ­ 100 MHz JEOL DELTA (CDCl3):  (ppm) 149.4; 148.5;
+
+139; 115; 104; 89; 77; 63; 39. Imidazole:
+13C-NMR
+
+21.9; 21.6; 13.8; 12.7.m/e: 288; 273; 248; 234; 218; 193; 165; 152;
+
+131.8; 130.2; 129.6; 129.4; 129.3; 129.0; 128.5; 128.2; 125.8; 125.5;
+
+100 MHz JEOL DELTA (CDCl3):  (ppm) 135.12 4
+
+(1C); 121.85 (2C). m/e: 68; 41; 28; 14.
+
+C. The Determination of Corrosion Inhibition Activity An amount of 2 mgs of products was dissolved in 250 mL 1% (w/v) NaCl solution, to give 8 ppm concentration of sample solutions. The 1% (w/v) NaCl solution was also used as blank solution in each stirrer was introduced 250 mL of blank solution. The working electrode (carbon steel), the reference electrode (SCE), and auxiliary electrode (platinum electrode) were immersed into the electrolyte solution. Carbon dioxide gas was introduced into the electrolyte solution until saturation reached. The measurements utilizing measurement. Into the 400 mL beaker glass equip with magnetic
+
+Voltalab® and Tafel Method software program until the curve of
+measurements of each sample solution must be initiated by the measurement of blank solution. The inhibition activity can be calculated using following equation [6][7][8]:
+% EI = Blank Corrotion Rate (mm/Y) - Sample Corrosion Rate (mm/Y) Blank Corrosion Rate (mm/Y)
+
+potential measurement towards time was completely formed well. The
+
+x100%
+
+(1)
+
+Or
+% EI = IBlank (mA/cm ) - ISample (mA/cm )
+2 2
+
+IBlank (mA/cm )
+2
+
+x100%
+
+(2)
+
+Results and Discussion
+The synthesis of imidazole derivative compounds was carried out utilizing the MAOS (Microwave Assisted Organic Synthesis) method,
+
+which was the modification of the methods depicted by Wolkenberg, et.al. [11] and Usyatinsky, et.al. [12]. The results of the synthesis of
+
+imidazole derivative compounds were summarized in Table 1. The structures of each product were presented on Figure 1.
+
+5
+
+Table 1. The synthesis of imidazole derivative compounds utilizing the MAOS method at 700 W irradiation powers.
+R1 O O + O R2
+
++ 20 mmol NH4OAc in 10 mL HOAc
+
+R1 diketone, 2mmol Entry 1 2 3 4 -R1 -H -C6H5 -R2 -H -C6H5
+
+microwave irradiation at 700 W
+
+Product
+
+Aldehyde, 2 mmol Reaction Temperature Times (oC) (seconds) 65 40 50 150 117 110 112 132 Melting Points (oC) 75-77 271-272 253-255 216-218 Yields (%) 91.32 88.24 91.21 Product imidazole 2,4,5-triphenyl1H-imidazole
+
+-C6H5 -C6H13 -C6H5 -C2H5
+
+2-hexyl-4,5diphenyl-1Himidazole (E)-2-ethyl-4,587.25 diphenyl-1-(prop-1enyl)-1H-imidazole
+
+HN N imidazole
+
+H N N Compound 1 2,4,5-triphenyl-1H-imidazole H N N Compound 2 Compound 3 (Z)-2-ethyl-4,5diphenyl-1-(prop-1enyl)-1H-imidazole N N
+
+2-hexyl-4,5-diphenyl-1H-imidazole
+
+Figure 1. The structures of imidazole derivative compounds based on spectroscopy data analysis The investigation of the corrosion inhibition activities of imidazole, compound 1(2,4,5-triphenyl-1H-imidazole), 2 (2-hexyl-4,5diphenyl-1H-imidazole) and 3 ((E)-2-ethyl-4,5-diphenyl-1-(prop-1-
+
+enyl)-1H-imidazole) toward carbon steel in 1% NaCl solution were determined utilizing the Tafel plot method. The results were 6
+
+summarized in Table 2. The efficiency inhibition activities of each compound were calculated based on equation (1) and (2).
+
+imidazole derivative compounds towards carbon steel in 1% NaCl solution utilizing Tafel method
+
+Table 2. The efficiency inhibition activities (%EI) of synthesized
+
+Sample Imidazole Compound 1 Compound 2 Compound 3
+
+Icorr of 1% NaCl
+solution 0.1326 0.1235 0.1309 0.1636 (mA/cm2)
+
+Icorr of sample
+in 1% NaCl solution 0.0984 0.0591 0.1061 0.1044 (mA/cm2)
+
+% EI (Efficiency Inhibition) 27.65 52.15 18.95 36.19
+
+From Table 2 it was observed that the corrosion inhibition activities of imidazole derivative compounds depend on the structure and substituents attached to the imidazole ring framework. Compound 1 (2,4,5-triphenyl-1H-imidazole) gave the highest corrosion inhibition corrosion inhibition activity should be related to the presence of three aromatic benzene rings attached to imidazole ring framework, which have the potent to interact with iron of carbon steel through their phi's () electrons as Lewis base. The planarity of compound 1's structure should be an additional account to the readily close packed in the activities than unsubstituted imidazole, compound 2 and 3. This
+
+interaction process with carbon steel surface. The additional phi's () electron at the N(1) position and the ethyl substituent at C(2) position of imidazole ring of compound 3 ((E)-2-ethyl-4,5-diphenyl-1-(prop1-enyl)-1H-imidazole) contributed to the better corrosion inhibition activity of compound 3 compare to unsubstituted imidazole. The electron-donating group of ethyl substituent on compound 3 increased the basicity of imidazole ring framework; therefore it would be a better Lewis base to interact with the acid Lewis carbon steel. On the other hand, the similar electron donating property of hexyl substituent on compound 2 (2-hexyl-4,5-diphenyl-1H-imidazole) did 7
+
+not increase its corrosion inhibition activity compare to unsubstituted imidazole. The basicity of compound 2 should be higher than unsubstituted imidazole; however the steric and bulky structure caused by the presence of long alkyl group (hexyl group) would prevent the close packed interaction between compound 2 and carbon not achieve the better protection on carbon steel surface. steel surface. Therefore the preventive layer made by compound 2 did
+
+In order to investigate the corrosion inhibition mechanism we analyzed the relationship between the various concentrations of corrosion analysis of the adsorption mechanism of imidazole derivative compounds towards carbon steel can be derived by the determination of the degree of surface coverage () according to the following equation [6][7],  I inh   Iuninh    inhibitors and their corrosion efficiency inhibition percentages. The
+
+ = 1-  
+
+(3)
+
+with Iinh and Iuninh is the corrosion current density (in mA/cm2) of the degree of surface coverage, , at various concentrations of
+
+sample solution with and without inhibitor, respectively. The data of compound 1b, 2b and 3b at 27 oC was also presented on Table 3.
+
+Based on Table 3 below, the most suitable relationship between
+
+of surface coverage, , is the Langmuir isotherm adsorption in the simplest form, which is the linear relationship between Cinh and
+
+concentration of corrosion inhibitor compounds, Cinh, and the degree
+
+Cinh/ , according to the following equation [6][7],
+
+=
+
+bCinh 1 + bCinh
+
+(4)
+
+with b is the adsorption coefficient; Cinh is the concentration of corrosion inhibitor compounds and  is the degree of surface coverage. Table 3 represents the data of each compound at concentration of 8, 16 and 32 ppms of sample in 1% NaCl solution.
+
+8
+
+Table 3. The correlation between %EI of imidazole derivative
+
+compounds and the degree of surface coverage, , on carbon steel Sample C (ppm) 1.2E-04 Imidazole 2.4E-04 4.7E-04 2.7E-05 Compound 1 5.4E-05 1.1E-04 2.6E-05 Compound 2 5.3E-05 1.1E-04 2.8E-05 Compound 3 5.6E-05 1.1E-04 %EI 25.79 13.29 18.09 52.15 24.62 30.94 18.95 22.42 26.12 36.19 31.25 34.71  0.26 0.13 0.18 0.52 0.25 0.31 0.19 0.22 0.26 0.36 0.31 0.35 C/ Log C Log(/1-) -0.46 -0.81 -0.66 0.04 -0.49 -0.35 -0.63 -0.54 -0.45 -0.25 -0.34 -0.27
+
+4.6E-04 -3.93 1.8E-03 -3.63 2.6E-03 -3.33 5.2E-05 -4.57 2.2E-04 -4.27 3.5E-04 -3.97 1.4E-04 -4.58 2.4E-04 -4.28 4.0E-04 -3.98 7.7E-05 -4.56 1.8E-04 -4.26 3.2E-04 -3.95
+
+Figure 2 represents the linear relationship according to Langmuir adsorption isotherm of the synthesized products. The value of b, the adsorption coefficient, which is equal to the adsorption equilibrium constant (Kads), of each compound was presented on Table 4. The value of free Gibbs adsorption energy (G0ads, in kJ/mol) of each compound, which is also presented on Table 4, can be determined using the following equation [6][7],
+K ads =
+0  Gads  1 exp  -  55  RT 
+
+(5)
+
+with R = ideal gas constant = 8.314 J/mol.K and T is temperature in K. 9
+
+Langmuir Isotherm Adsorption of Imidazole
+3,0E-03 2,5E-03 2,0E-03 y = 5,7143x + 4E-05 R2 = 0,9014
+
+Langmuir Isotherm Adsorption of Compound 1
+4,00E-04 y = 3,4891x - 1E-05 3,50E-04 R2 = 0,9322 3,00E-04 2,50E-04 2,00E-04 1,50E-04 1,00E-04 5,00E-05 0,00E+00 0,00E+00 5,00E-05 1,00E-04 1,50E-04 Compound 1 C (M)
+
+C/
+
+1,0E-03 5,0E-04 0,0E+00 0,0E 1,0E- 2,0E- 3,0E- 4,0E- 5,0E+00 04 04 04 04 04 Imidazole C (M)
+
+Langmuir Isotherm Adsorption of Compound 2
+5,0E-04 4,0E-04 y = 3,324x + 5E-05 R2 = 0,9989
+
+C/
+
+1,5E-03
+
+Langmuir Isotherm Adsorption of Compound 3
+3,5E-04 3,0E-04 2,5E-04 2,0E-04 1,5E-04 1,0E-04 5,0E-05 y = 2,8691x + 6E-06 R2 = 0,9915
+
+C/
+
+2,0E-04 1,0E-04 0,0E+00 0,0E+00 Compound 2
+
+C/
+
+3,0E-04
+
+5,0E-05
+
+1,0E-04
+
+1,5E-04
+
+0,0E+00 0,0E+00 Compound 3
+
+5,0E-05
+
+1,0E-04
+
+1,5E-04
+
+C (M)
+
+C (M)
+
+Figure 2. The linear relationship between concentration of corrosion inhibitor compounds, Cinh, and Cinh/ , according to Langmuir adsorption isotherm of imidazole, compound 1, 2 and 3.
+
+The linearity of each Langmuir isotherm adsorptions of each compounds, as shown on Figure 2, represent the monolayer formation of each compound on the carbon steel surface. Based on Table 4 we compound are negatives, which indicated the spontaneity of adsorption process of each compound on carbon steel surface. The more negative of G0ads value the more spontaneous its adsorption would increase. The value of G0ads up to ­ 20 kJ/mol is consistent process on metal surface, therefore the corrosion inhibition activity with the physical adsorption (physiosorption), whether the value of can see that all of free Gibbs adsorption energy values, G0ads, for each
+
+G0ads, which is above ­ 40 kJ/mol, is consistent with the chemical
+
+adsorption (chemisorption) [6][7]. Therefore, imidazole, compound 1, 2 and 3 have the potent to interact with carbon steel through semi10
+
+physiosorption or semi-chemisorption because of their G0ads values are in between ­ 20 kJ/mol and ­ 40 kJ/mol. Table 4. The coefficient adsorption values (b) and free Gibbs derivative compounds at 27oC (300K) Sample Imidazole Compound 1 Compound 2 Compound 3
+
+adsorption energy (G0ads, in kJ/mol) of the synthesized imidazole
+
+b (M-1)
+1358.23 16834.86 5910.58 11127.99
+
+G0ads, (kJ/mol)
+-28.01 -34.29 -31.68 -33.26
+
+Figure 3 represents the simulation of the arrangements of imidazole, been in its minimized energy utilizing the MM2 program in Chem3D Ultra 8.0 of ChemOffice Cambridgesoft® software. compound 1, 2 and 3 on metal surface. Each structure has already
+
+metal surface
+
+Notes: : : : : : :
+
+metal surface interaction between lone pair electrons of N atom of imidazole ring and metal surface interaction between phi's () electrons of aromatics ring or double bonds and metal surface the black/dark grey spheres represent the C atoms the white spheres represent the H atoms the blue spheres represent the N atoms the pink spheres represent the lone pair electrons of N atom of imidazole ring
+
+Figure 3. The description of three-dimensional simulation, which illustrates the interactions of imidazole derivative compounds on the 11
+
+metal surface, utilized the Chem3D Ultra 8.0® software. Metal surface is indicated by the arrangements of round balls under each molecule. As we can see from Figure 3 that the adsorption sites of compound 1
+
+are at lone pair electrons of imidazole ring and phi's () electrons of three aromatic benzene rings and imidazole ring itself. The adsorption sites of compound 1 are more various in amount and
+
+quality than imidazole, compound 2 and 3 resulting the highest in its corrosion inhibition activity and the more negative of its free Gibbs adsorption energy. Thus compound 1 has the most spontaneous
+
+adsorption process on metal surface than others. On the other hand, unsubstituted imidazole has the least interaction than the others that caused the smallest efficiency inhibition and the least adsorption spontaneity on metal surface. The steric hindrance of hexyl group of compound 2 has made the interaction between its Lewis bases sites and the Lewis acid metal surface became weaker than compound 1 and 3 that caused the low efficiency corrosion inhibition.
+
+Conclusions
+The synthesis of imidazole derivative compounds utilizing the MAOS method produced four types of compounds: imidazole, compound 1(2,4,5-triphenyl-1H-imidazole), 2 (2-hexyl-4,5-diphenyl-1Himidazole) and 3 ((E)-2-ethyl-4,5-diphenyl-1-(prop-1-enyl)-1Himidazole). Compound 1 has the highest corrosion inhibition activity towards carbon steel (52.12%) at 8 ppm concentrations in 1% NaCl solution. Based on the analysis of Tafel plot data, the most suitable relationship between concentration of corrosion inhibitor compounds,
+
+Cinh, and the degree of surface coverage, , is the Langmuir isotherm
+adsorption in the simplest form. The linearity of each Langmuir isotherm adsorptions of each compounds represent the monolayer formation of each compound on the carbon steel surface. All of free Gibbs adsorption energy values, G0ads, for each compound is a negative, which indicated the spontaneity of adsorption process of and 3 have the potent to interact with carbon steel through semiare in between ­ 20 kJ/mol and ­ 40 kJ/mol. 12 each compound on carbon steel surface. Imidazole, compound 1, 2 physiosorption or semi-chemisorption because of their G0ads values
+
+Acknowledgements
+The team would like to thank to Dr. Jalifah Latip from Chemistry from TU Berlin and Dr. Andreas Schaeffer from FU Berlin for the permission in taking the measurements of NMR spectroscopy of synthesized products using JEOL DELTA NMR at Universiti Kebangsaan Malaysia and FU Berlin. The team would also thank to Mr. Sudomo for the mass spectrophotometry measurements. This research is partially granted by BPPS scholarship for the first author. from Department of Chemistry of Universitas Gajah Mada Yogyakarta Department of Universiti Kebangsaan Malaysia, Prof. Dieter Ziessow
+
+References
+1.
+`Corrosion inhibitor studies in large flow loop at high temperature 43, pp1839-1849, 2001. and high pressure', Hong, T. and W.P. Jepson, Corrosion Science,
+
+2.
+
+`Surface-Enhanced Raman Spectroscopy Studies on the Interaction of Imidazole with a Silver Electrode in Acetonitrile Solution', Cao, P., R. Gu, and Z. Tian, J. Phys. Chem. B, 107, pp769-7773, 2003.
+
+3.
+
+`Corrosion inhibition approach of oil production systems in pp684-688, 2004.
+
+offshore oilfield', Zhao, L., et al., Materials and Corrosion, 55, 9,
+
+4.
+
+`Effect of Azole Compounds on Corrosion of Copper in Acid pp27-34, 1998
+
+Medium', Gomma, G.K., et.al, Materials Chemistry and Physics, 56,
+
+5. 6.
+
+`Inhibitor Selection Based On Nichols Plot in Corrosion Studies', Ali Hassanzadeh, et.al, Acta. Chim. Slov., 51, pp305-316, 2004.
+
+`Adsorption and Inhibitive Properties of Benzimidazole Derivatives in Acid Mild Steel Corrosion', Popova, A., Christov, M., Raicheva, S., and Sokolova, E., Corrosion Science, 46, pp1333-1350, 2004.
+
+13
+
+7.
+
+`The Effect of The Chemical Structure of Some Nitrogen- and Sulphur-Containing Organic Compounds on Their Corrosion Inhibiting Action', Raicheva, S.N., Aleksiev, B.V., Sokolova, E.I.,
+
+Corrosion Science, 34, 2, pp343-350, 1992.
+
+8.
+
+`Molecular Modelling of the Inhibition of Mild Steel Carbon Dioxide Corrosion by Imidazolines', Ramachandran, S., Jovancicevic, V., Corrosion, 55, 33, pp259-267, 1999.
+
+9.
+
+`Controlled Microwave Heating in Modern Organic Synthesis',
+
+Kappe, C.O., Angew. Chem. Int. ed., 43, pp6250-6284, 2004.
+
+10. `Synthesis of Substituted Imidazoles via Organocatalysis', Frantz, D.E., et al., Organic Letters, 6, 5, pp843-846 2004. 11. `Efficient Synthesis of Imidazoles from Aldehydes and 1,2Organic Letters, 6, 9, pp1453-1456, 2004.
+Diketones Using Microwave Irradiation', Wolkenberg, S.E., et al.,
+
+12. `Microwave-assisted synthesis of substituted imidazole on a solid
+support under solvent-free conditions', Usyatinsky, A.Y. and Y.L. Khmelnitsky, Tetrahedron Letters, 41, pp5031-5034, 2000.
+
+14
+

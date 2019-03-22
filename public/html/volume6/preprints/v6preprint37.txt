@@ -1,0 +1,257 @@
+Volume 6 Paper C086
+
+The Influence of Hexamethylenetetramine on the Corrosion and Hydrogen Permeation of Type API 5L-X52 Steel
+R. Réquiz, A. Delgado; A. Rivas and A. Ruiz
+
+Departamento de Ciencia de Materiales, Universidad Simón Bolívar, Apartado 89000, Caracas 1080, Venezuela. E-mail: rrequiz@usb.ve
+
+Abstract
+hydrogen permeation behaviour was evaluated on a type API 5L-X52 steel The inhibitive effect of hexamethylenetetramine on the corrosion and
+
+in 1N H2SO4 solution. Potentiodynamic polarization curves were employed to determine the electrochemical behaviour of the steel, while the Devanathan-Stachurski technique was used to estimate the hydrogen permeation rate. Optical and scanning electron microscopies and energy dispersive X-ray analysis were used for surface analysis. Additionally, to detect the hydrogen damage in the steel, an ultrasonic technique based on the sound wave attenuation was employed. The obtained results clearly indicate that Hexamethylenetetramine inhibits efficiently the corrosion of
+
+the steel but increase the quantity of absorbed hydrogen in the bulk metal. The organic compound seems to have a specific influence on the hydrogen evolution reaction, reducing the active site numbers were hydrogen could be reduced and partially blocking the recombination of atomic hydrogen to molecular hydrogen on the steel surface. Apparently, this effect leads to a larger hydrogen absorption into the metal lattice. In the samples that were tested in solutions containing inhibitor, considerable superficial damages such as blistering and hydrogen induced cracking were observed. Moreover, the higher inhibitor concentration, the larger is the mechanical damage observed in steel.
+
+Keywords: corrosion inhibitor, hexamethylenetetramine, API 5L-X52 steel, hydrogen permeation, hydrogen induced cracking, blistering, ultrasonic testing, attenuation.
+
+Introduction
+Metallic materials may absorb considerable amounts of hydrogen in corrosion, but especially in industrial processes that involve production, transport and crude oil refining. Atomic hydrogen may diffuse through a practical conditions such as electroplating, cathodic protection and
+
+metal lattice because of its smaller size, and then it can recombine to form molecular hydrogen within structural defects such as inclusions, voids and microcracks among other places. Hydrogen embrittlement occurs as a result of hydrogen adsorption on the metal surface, with its consequent absorption within the metal lattice. The irreversible hydrogen trapping into metals lead to a progressive degradation of their mechanical properties and increases the probability of cracking. The above described phenomena high in the aqueous environments where the metal is immersed [#ref1-5]. Corrosion inhibitors have been widely used to decrease hydrogen in steels. Previous studies [#ref4,6,7] have already
+
+could occur in a higher extent when the hydrogen sulphide concentration is
+
+penetration
+
+demonstrated the effectiveness of several organic compounds to reduce the corrosion rate and hydrogen absorption in metals exposed to sour environments, inhibiting the hydrogen evolution reaction by means of physical isolation of metal surface and/or modifying the electrical double layer. Amines are well know by their inhibiting effect on the corrosion in carbon and low alloy steels, specially in systems containing H2S. The presence of nitrogen in the organic compound with unsaturated bonds allows the adsorption of the organic compound on the metal surface, therefore hindering the metal dissolution [#ref8]. However, it also have been found that some organic compounds can effectively inhibit the corrosion of metals but stimulate the hydrogen absorption within the metal lattice, because the recombination reaction of atomic adsorbed hydrogen on the metal surface is partially blocked [#ref9]. 2
+
+that could help to reduce and prevent catastrophic failures in pipelines
+
+Ultrasonic inspection of metallic materials is an adequate technique
+
+systems and industrial equipments. Conventional techniques have not exhibited good detectability for hydrogen damage in steels, but very good results have been obtained using non-conventional methods like attenuation, backscattering signal, spectral analysis and ultrasonic velocity change [#ref10,11]. The damage caused by hydrogen changes the way in which ultrasonic waves are propagated. The presence of dissolved the longitudinal and shear ultrasonic waves. The objective of this study was to investigate the inhibitive action of hydrogen into the metal bulk may affect the elasticity modulus reducing
+
+hexamethylenetetramine on the corrosion and hydrogen permeation behaviour of type API 5L-X52 steel, which is commonly used in the oil industry for production and transportation of natural gas and crude oil.
+
+Experimental
+Materials Preparation
+The metallic material used in the present work was an API 5L grade X52 steel. The chemical composition of the steel is presented in table 1.
+Table 1. Chemical composition of the API 5L-X52 steel.
+
+Concentration (wt %) Steel
+API 5L-X52
+
+C
+0.14 ±0.01
+
+Si
+0.30 ± 0.01
+
+Mn
+1.2 ±0.1
+
+S
+0.004 ± 0.0001
+
+lengthwise from an 11 mm thick pipeline. Some stripes were machined to 8
+
+The specimens were made from rectangular pieces of steel cut
+
+mm thickness and subsequently cold rolled to 1mm thickness in several 3
+
+steps with two intermediate annealings in pure nitrogen atmosphere at
+
+600ºC for 60 min. The reason for the heat treatments was to keep, as far as possible, the original microstructure. For polarization studies, samples of 1cm x 1cm were used, while for the hydrogen permeation measurements specimens of about 2cm x 5cm were employed. Another group of samples was machined to 5mm in thickness. This group was used for the ultrasonic evaluation performed after the hydrogen permeation tests.
+
+Polarization
+standard. A five electrodes corrosion cell was used. Steel specimens, with an exposed area of 1cm2, were employed as working electrodes while a saturated calomel electrode (SCE) and two platinum electrodes were used as the reference electrode and counter electrodes respectively. The working (180, 240, 320, 400 and 600 grid), rinsed with double distilled water and acetone and then dried. Prior to the experiment, the samples were an ultrasonic bath with xylene, rinsed with acetone and dried quickly by warm air blowing. prepared by polishing with 1µm high purity alumina powder, degreased in electrodes were mechanically polished with different grades of emery paper Polarization studies were performed according to ASTM G5-87
+
+All tests were carried out in 1N H2SO4 solution prepared from analytical grade reagent and double distilled water. The hexamethylenetetramine (HMT) was used at 3 different concentrations, that amount of solid HMT into the sulphuric acid solution. High purity nitrogen was bubbled through the electrolyte prior and during the experiment in order to keep the system free of dissolved oxygen. The Potentiodynamic polarization curves were obtained using a potential scan rate of 10 mV/min 200mV above the open circuit potential. A PC4 750 Gamry potentiostat was room temperature. 4 starting from 500mV below Ecorr and moving in the anodic direction to is, 10-2, 10-3 and 10-4M. This was achieved by dissolving the appropriate
+
+used for polarization measurements. All experiments were performed at
+
+Hydrogen Permeation Studies
+API 5L-X52 steel, the electrochemical technique developed by DevanathanStachurski was employed. The experiments were performed in a specially designed and built two compartment cell separated by the hydrogen permeation test specimen. The electrolytes on the cathodic and anodic side of the cell were 1N H2SO4 and 0.1M NaOH respectively. On the cathodic side, the inhibitor (HMT) was added to the electrolytic solution prior to filling the compartment, at the same concentrations stated before. Both solutions were prepared from analytical grade reagents and double distilled water. In order to reduce any possible electrolyte impurities, the solutions were pre-electrolyzed in separate electrolytic cells by imposing a current density of 3mA/cm2 during 3 hours. Additionally, the electrolytes were cell. The transfer was made without any air contact. The steel membranes were prepared, as described above, by In order to investigate the hydrogen permeation rate through type
+
+deaerated with pure hydrogen gas before placing it into the permeation
+
+conventional metallographic grinding and polished using 1µm high purity alumina powder. Specimen surfaces were rinsed with double-distilled water and ultrasonically cleaned in xylene during 15 minutes, rinsed with acetone and then dried by warm air blowing. Later on, just before the experiments, the anodic side of the membrane was coated with electroless palladium using a commercial solution (Pallamerse). An area of 0.9 cm2 of the steel membrane was exposed to the solution. The anodic side of the cell was potentiostatically maintained at
+
+0.150mV vs. SCE using an EG&G PARC model 363 potentiostat/galvanostat
+
+to ensure that the steel was in its passivation zone and to oxidize the atomic hydrogen that diffused through the membrane. Prior to the permeation experiment, the anodic side was left polarized at that potential for 12 h. After that time has elapsed a typical passivation current of 300 nA/cm2 was obtained. Then, the cathodic compartment was filled with the acid solution with or without the inhibitor and the potential was held constant at -900mV vs. SCE employing a Microstat model 1503 5 potenciostat. The anodic current was recorded as a function of time using a
+
+DakBook k/216 data acquisition system. All the experiments were carried out at room temperature.
+
+Ultrasonic Evaluation and Surface Analysis
+In order to detect the hydrogen damage into the steel, an ultrasonic analysis was conducted on steel samples of 5mm thickness before and after the hydrogen permeation tests. Thick specimens were selected for this study since evaluation on thin specimens (1mm thick) produced noisy signals. All the measurements were performed using a Krautkramer USM 22 ultrasonic equipment and a 10Mz frequency transducer model KBA525. backwall echoes and the test specimen thickness. On the other hand, optical and scanning electron microscopy techniques were employed to study the steel surface morphology after the hydrogen permeation tests, and energy dispersive X-ray analysis was used to characterize some inclusions observed in the metallic material. Results and Discussion The attenuation coefficient  was calculated based on the first and second
+
+Steel Microstructure
+The steel microstructure in the as-received condition, observed by optical microscopy, was a typical banded ferrite/perlite structure (figure 1a). Elongated and rounded inclusions, mainly MnS, were observed; some aluminates, silicates and calcium inclusions were also found within the material. The cold rolled and annealed samples showed a microstructure mainly comprised by ferrite with fine pearlite and fragmented spherodized cementite (figure 1b).
+
+6
+
+Figure 1. Microstructure of the API 5L-X52 steel in: a) as-received condition, b) cold rolled and annealed.
+
+Polarization Studies
+Figure 2 shows the potentiodynamic polarization curves of the samples at different hexamethylenetetramine concentrations. As it can be of HMT in the electrolyte increased from 10-4M to 10-2M. Additionally, the form of the curves is very similar either in the cathodic or in the anodic reduction apparently remain unaltered in the presence of the side, which indicates that the mechanisms of iron dissolution and hydrogen hexamethylenetetramine. The main difference in the above mentioned curves is observed in the current density values. It is clear from figure 2 that for the same potential, the samples tested in presence of the organic compound showed current density values, both anodic and cathodic, lower than those samples tested without inhibitor. Moreover, for the same electrode potential, the current densities decreased with increasing inhibitor concentration. This indicates a reduction in the corrosion rate of the steel with increasing inhibitor concentration. Apparently, adsorbed molecules of the organic compound decrease the active surface area where both electrochemical reactions take place, delaying the corrosion of the steel. Based on these results, if the samples are polarized at a specific cathodic potential in presence of inhibitor, the hydrogen atoms will be produced at a lower rate. seen, the corrosion potential was only slightly affected as the concentration
+
+7
+
+The corrosion inhibitor efficiency and cathodic inhibitor efficiency at ­
+
+900mV (SCE) were calculated from figure 2 and the results are presented in table 2. As it can be noticed, the highest inhibition effect is attained at concentrations of 10-3M of HMT. If the inhibitor is added to the electrolyte at concentrations greater than this, the inhibition efficiency diminished. As a result, the corrosion rate increases again. On the other hand, when the potential value is above -350mV (SCE), the curves tend to be overlapped. This is a clear indication that the organic compound is not efficient when the steel potential is ennobled. This could be due to the repulsion between the protonated organic compound and the increasingly positive metallic the steel surface mainly by electrostatic forces.
+
+surface. This result suggests that the organic molecules are adsorbed on
+
+Figure 2. Potentiodynamic polarization curves for the steel in deareated 1N H2SO4 + HMT at 25ºC.
+
+Table 2. Corrosion inhibitor efficiency.
+
+8
+
+Concentration (M)
+E = Ecorr E=-900mV (SCE)
+
+0 0% 0%
+
+10-4 33% 27%
+
+10-3 66% 57%
+
+10-2 50% 45%
+
+Hydrogen Permeation Studies
+concentrations of hexamethylenetetramine were measured as a function of time and the results are displayed in figure 3. As it can be seen from this figure the curves followed a similar pattern, that is, an increase in the permeation current density until a steady state is attained after several hours of exposure. It can also be observed that the permeation current Moreover, the samples tested with the highest concentration The hydrogen permeation transients of the steel for the various
+
+density increases with the increase on the inhibitor concentration. of hexamethylenetetramine, showed permeation currents four times greater than those of the samples tested without inhibitor. Opposite to what was expected, the organic compound stimulated the hydrogen permeation, even though less atomic hydrogen was produced on the steel surface. As a result, more hydrogen damage such as blistering and cracking would be expected in the samples tested in the inhibitor presence.
+
+9
+
+Figure 3. Hydrogen permeation curves for 1mm thick membranes in deareated 1N H2SO4 + HMT at 25ºC.
+
+Figure 4 shows the possible mechanism of hydrogen evolution and penetration in presence and absence of hexamethylenetetramine. Essentially, in absence of inhibitor, the hydrogen evolution reaction (HER) reactions involve the hydrogen ions discharge on the steel surface, followed by two which correspond to hydrogen desorption (chemical or
+
+electrochemical recombination) and hydrogen absorption within the metal lattice (figure 4a) [#ref12]. Nevertheless, if there are adsorbed molecules of the organic compound in the steel surface, the recombination reaction of electrochemical reduced hydrogen could be inhibited. Therefore, adsorbed atomic hydrogen activity may increase and as a result more hydrogen penetration is promoted into the steel (figure 4b) [#ref12]. The hydrogen diffusion coefficients were determined for the steel membranes by four different methods [#ref6] and the results are presented in table 3. The values obtained in this work are similar to those previously obtained for similar steels by other researchers [#ref2,7]. Nevertheless, diffusion coefficients values around one order of magnitude greater than 10
+
+those have been reported for the same steel too [#ref14]. It could be modified the hydrogen diffusivity on the steel.
+
+possible that the cold rolled and the annealing treatments have slightly
+
+Figure 4. Schematic representation of the HER: a) in the absence of HMT, b) in the presence of HMT.
+
+Table 3. Hydrogen diffusion coefficients attained by different analytical techniques for the API 5L-X52 steel in deareated 1N H2SO4.
+
+Method
+Time Lag Laplace method: slope Laplace method: intercept Fourier method
+
+D [cm2/s]
+3,48x10-7 3,48x10-7 3,17x10-7 4,05x10-7
+
+11
+
+Surface Analysis
+the 1N H2SO4 solution did not show any evidence of hydrogen damage, neither at the surface nor into the metal. These results seem to indicate that, under these conditions, the hydrogen concentration within the metal was insufficient to promote the formation of blisters and cracks. However, the plates exposed to the acid solution in the presence of inhibitor were susceptible to hydrogen induced cracking and blistering at all concentrations. Moreover, the higher the inhibitor concentration, the larger the mechanical damage observed in the steel. Figure 5 shows several micrographs obtained by scanning electron microscopy for the sample these figures, large blisters as long as 300µm, were seen on t he steel tested with the highest inhibitor concentration. As it can be seen from surface. Most of them, as shown in figure 5a, are aligned in the cold rolled direction. Figures 5b and 5c are another micrographs showing cracking propagation around the blisters. This result is a clear indication of the high hydrogen pressures generated inside the blisters. Figure 5d is a detail of a crack growing on the steel surface. Cracks propagation seems to be intergranular. Nevertheless, transgranular propagation of cracks was also observed. The microstructural analysis made after the samples were exposed to
+
+12
+
+Figure 5. SEM micrographs of a sample exposed to the 1N H2SO4 +10-2M HMT solution. a) general view. b,c) blisters details. d) crack details.
+
+Micrographs of the sample exposed to the 1N H2SO4 + 10-4M HMT solution are displayed in figure 6. As it can be noticed, long and continuous cracks are located on the steel surface parallel to the rolling plane. Moreover, a stepwise cracking pattern was observed (figure 6a). As pointed out by Domizzi et al. [#ref15], this result could be related with a more uniform distribution of MnS particles throughout the material. On the other hand many cracks, like those presented in figure 6b, were also associated to MnS inclusions. This finding is consistent with previous investigations made on similar steels [#ref15].
+
+13
+
+Figure 6. SEM micrographs of a sample exposed to 1N H2SO4 +10-4M HMT. a) microcracks developing near the largest crack. b) cracks detail.
+
+Ultrasonic Evaluation
+samples exposed to the 1N H2SO4 and 1N H2SO4 +10-2M HMT solutions for over 24 hours. In addition, the backwall echoes spectrum for the samples before the hydrogen permeation test is also presented in the same figure as reference. All measurements were carried out using a 10MHz transducer and a 46dB gain. As it can be noticed, the ultrasonic spectrum remains (figure 7b). This could means that the backwall echoes have the same amplitude than those echoes registered before the hydrogen permeation test. This result suggests that the material under the experimental conditions did not show any susceptibility to hydrogen induced cracking or blistering, which is consistent with the results previously discussed for similar specimens in the microstructural analysis. However, the ultrasonic spectrum hexamethylenetetramine showed higher attenuation levels than that of the of the steels tested in solutions containing unaltered after the samples were cathodically charged in 1N H2SO4 solution Figure 7 shows the backwall echoes spectra for 5mm thickness
+
+samples exposed to the acid solution without inhibitor (figure 7c). Since the samples evaluated with the highest concentration of inhibitor exhibited the larger mechanical damage such as blisters and cracks, it could be possible to relate these changes in the attenuation levels with the hydrogen damage produced in the steel. Some researchers [#ref10,11] have previously demonstrated that the backwall echoes spectrum changes with hydrogen attack is due to the presence of extra of scatterers. Higher 14
+
+attenuation levels are observed in attacked samples because hydrogen damage can be considered itself as an additional scatterer. This is especially certain at high ultrasonic frequencies.
+
+testing in H2SO4 solution and c) after testing in H2SO4 + 10-2M HMT solution.
+
+Figure 7.Pulse-echo signal for steel samples: a) before hydrogen permeation test, b) after
+
+Attenuation measurements were taken on the samples at an ultrasonic frequency of 10MHz and the results are presented in table 4. As it can be seen, there are no appreciable changes in the sound wave attenuation of those samples exposed to the 1N H2SO4 solution. This means that the hydrogen effect within the metal is not large enough to produce Nevertheless, for those samples exposed to the solution containing inhibitor, a registered. Once again, the obtained results allow drawing the conclusion damage. significant increase in the attenuation coefficient was appreciable changes in the ultrasonic waves propagation.
+
+that the organic compound increases the steel susceptibility to hydrogen
+
+Table 4. Attenuation coefficients measured with an ultrasonic frequency of 10MHz.
+
+Condition
+
+Ultrasonic attenuation coefficient  [dB/cm] 1.938 1.938 3.223
+
+Before hydrogen permeation test Tested in H2SO4 solution Tested in H2SO4 + 10-2M HMT solution
+
+15
+
+Conclusions The hexamethylenetetramine inhibits efficiently the corrosion of the
+
+steel but increases the quantity of absorbed hydrogen into the metal lattice. The organic compound seems to have a specific influence on the hydrogen surface. can be reduced and therefore, partially blocking the hydrogen evolution reaction, apparently diminishing the active sites were recombination of atomic hydrogen to molecular hydrogen on the steel
+
+In the absence of inhibitor, the hydrogen that diffused through the metal did not induce considerable damages such as blisters or hydrogen induced cracking.
+
+The susceptibility to hydrogen damage of the API 5L-X52 steel in sulphuric acid increases in the presence of hexamethylenetetramine. damage observed in the steel. Ultrasonic analysis of the samples showed that the height of the backwall echoes decrease and the sound wave attenuation coefficient is greater when the quantity of hydrogen in the sample increases. Moreover, the higher inhibitor concentration, the larger the mechanical
+
+Acknowledgement
+The authors wish to thank the Fondo Nacional de Ciencia, Tecnología e Innovación, FONACYT, for the financial support to the USB-Proyecto 97003781.
+
+References
+!ref1"Hydrogen permeation measurement in low carbon steel with polymer electrolyte fuel cell", H.NG, PhD. Thesis, University of Manchester Institute
+
+of Science and Technology, pp14-26, 2001.
+!ref2"The effect of organic
+
+compounds
+
+on inhibition of
+
+hydrogen
+
+White, Journal of the Electrochemical Society, 144, pp2313-2317, 1997. 16
+
+permeation through a mild steel membrane", H. Duarte, D. See, B. Popov, R.
+
+!ref3"Mechanism and kinetics of electrochemical hydrogen entry and degradation of metallic systems. Electrochemical hydrogen in metals", R. Iyer, H. Pickering, Annu. Rev. Mater. Sci., 20, pp299-338, 1990. !ref4"Organic compounds as effective inhibitors for hydrogen permeation of type 1010 steel", H. Duarte, D. See, B. Popov, R. White, Corrosion, 54, 3. pp187-193, 1998.
+
+!ref5"Hydrogen effects on steel. Process Industries Corrosion. The Theory and Practice", D. Warren, NACE, Houston, p31,1986. !ref6"The effect of H2S concentration and pH on hydrogen permeation in
+
+Corrosion Science 29, 1, pp89-104, 1989.
+
+AISI 410 stainless steel in 5% NaCl", A. Turnbull, M. Saenz, N. Thomas,
+
+!ref7"Electrochemical hydrogen permeation studies of several mono- and diamines", Y. Al-Janabi, A. Lewis, Journal of the Electrochemical Society, 42, 9, pp2865-2872, 1995.
+
+!ref8"Trybutylamine as corrosion inhibitor for mild steel in hydrochloric pp2637-2642, 2000.
+
+acid", J. Bastidas, J.Polo, E. Cano, C. Torres, Journal of Materials Science, 35,
+
+!ref9"Corrosion Inhibitors", I. Rozenfeld, Mc Graw-Hill, New York, pp267279, 1971. !ref10"Hydrogen damage detection by ultrasonic spectral analysis", S. 1999. Kruger, J. Rebello, P. Camargo, NDT & E International, 32, pp275-281,
+
+!ref11"Ultrasonic detection of hydrogen attack in steels". A. Birring, M. Bartlett, K. Kawano, Corrosion, 45, 3, pp259-263, 1989.
+
+!ref12"Analysis of hydrogen evolution and entry into metals for the
+
+Electrochemical Society, 136, 9, pp2463-2470, 1989.
+
+discharge-recombination process", R. Iyer, H. Pickering, Journal of the
+
+17
+
+!ref13"Inhibition of hydrogen effusion from steel-An overlooked and
+
+underestimated phenomenon", G. Schmitt, B. Sadlowsky, J. Noga, NACE.
+
+Corrosion 2000. Paper N° 00466.
+
+Corrosion Science, 19, 12, pp2171-2181, 1987.
+
+!ref14"Hydrogen trapping by cold worked X-52 steel", Z. Szklarska, Z. Xia,
+
+!ref15"Influence of sulphur content and inclusion distribution on the hydrogen induced blister cracking in pressure vessel and pipeline steels", G. Domizzi, G. Anteri, J. Ovejero, Corrosion Science, 43, pp325-339, 2001.
+
+18
+

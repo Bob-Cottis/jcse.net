@@ -1,0 +1,29 @@
+{{--<select size="1" name="titles_id">--}}
+    <option value="0">select Title</option>
+    <option value="1"> </option>
+    <option value="2">Acad Prof</option>
+    <option value="3">Ass Prof</option>
+    <option value="4">Docent</option>
+    <option value="5">Dr</option>
+    <option value="6">Dr Ing</option>
+    <option value="7">Dr Ir</option>
+    <option value="8">Dra</option>
+    <option value="9">Eng.</option>
+    <option value="10">Herrn</option>
+    <option value="11">Ing</option>
+    <option value="12">Ir</option>
+    <option value="13">M</option>
+    <option value="14">Miss</option>
+    <option value="15">Mlle</option>
+    <option value="16">Mme</option>
+    <option value="17">Mr</option>
+    <option value="18">Mrs</option>
+    <option value="19">Ms</option>
+    <option value="21">Prof Dr</option>
+    <option value="20">Professor</option>
+    <option value="22">RNDr</option>
+    <option value="23">Sir</option>
+    <option value="24">Snr</option>
+    <option value="25">Sra</option>
+    <option value="26">The</option>
+{{--</select>--}}

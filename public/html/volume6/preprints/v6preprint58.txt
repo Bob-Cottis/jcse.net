@@ -1,0 +1,218 @@
+Volume 6 Paper C134
+
+The Visual Determination of Exfoliation Rate of Al Alloy Slices in Humidity
+X. Zhao and G. S. Frankel
+
+Fontana Corrosion Center, The Ohio State University, 477 Watts Hall, 2041 College Rd., Columbus, OH 43210, USA, frankel.10@osu.edu
+
+Abstract
+A new technique, Exfoliation of Slices in Humidity (ESH), was developed for the determination of exfoliation corrosion (EFC) susceptibility and quantification of EFC kinetics. Two AA7178 plates taken from the wingskin of a retired KC135 airplane were used as test samples. Samples were pretreated by potentiostatic polarization in chloride solution, during which they developed a corrosion morphology of combined sharp IGC and selective grain attack. exposure to high humidity after pretreatment of properly oriented and unconstrained samples resulted in the development of EFC. The EFC kinetics were determined by measuring the width of the unattacked region of the sample. The different behavior of the two plates during outdoor exposure at Daytona Beach was reflected by the ESH results. These results show the capability of the ESH test to discriminate between plates of varying susceptibility and to quantitatively determine EFC rates. Keywords: Al alloy, exfoliation corrosion Subsequent
+
+Introduction
+Exfoliation corrosion (EFC) is a form of intergranular corrosion that occurs on susceptibility of Al alloys to EFC can be assessed by exposure testing. ASTM G34, known as the EXCO test, involves exposure to an oxidizing acidic chloride the surface of wrought aluminum alloys with elongated grain structures. The
+
+solution and comparison of the resulting surface to standard photographs [1,2]. Other tests involving exposure to aggressive environments have been devised, including the ASSET and MASTMAASIS tests [3,4]. The behavior of Al alloys in these accelerated environments has been correlated to long term exposure in less-aggressive natural environments [5-8]. Determination of EFC kinetics is tests exist for determination of EFC rates. Robinson and coworkers have used a [9-11]. useful for the development of predictive failure models, but no standardized deflection technique to quantify exfoliation extent and determine EFC kinetics specimens having undergone EFC is determined from their compliance under four-point bending. measurements. The rate of EFC can be assessed from periodic A technique that is However, the deflection technique is valid only when the In this technique, the effective remaining load-bearing section of
+
+thinning of the specimen during corrosion is uniform. improve the understanding of EFC. developed.
+
+effective and also simple is required in order to assess EFC kinetics and further
+
+determination of EFC susceptibility and quantification of EFC kinetics is being The Exfoliation of Slices in Humidity (ESH) technique involves exposure of properly-oriented free standing alloy pillars to high humidity following an initial electrochemical pretreatment.
+
+In this work, a new test for the
+
+Test samples were machined from a piece of
+
+"bad"
+
+a wingskin of a retired KC135 airplane. The wingskin section contained two plates attached to an underlying support beam by steel rivets. The piece of wingskin was test site exposed in the uncoated condition at an atmospheric exposure
+
+near
+
+"good"
+Figure1.Daytona Beach Exposure Sample. 9 Month Exposure Of Bare Material (Al and Steel Rivets).
+
+Daytona Beach, FL. As shown in figure 1, the two plates in the test piece exhibited vastly different exfoliation behavior during the exposure near the seacoast: one of the plates exfoliated badly next to the steel rivets and the other plate only developed
+
+cosmetic surface attack.
+
+The two plates are referred to as "good" and "bad"
+
+plates in reference to their EFC susceptibility. 2
+
+Experimental
+Samples were machined from the "good" and "bad" plates in the shape of axis of each pillar was in the longitudinal orientation of the microstructure pillar thickness was oriented in the plate transverse direction. rectangular pillars. The pillars were 3-4 cm long, oriented such that the long (along the rolling direction). The pillar thickness was around 1 mm, and the The width of each pillar was the full plate through-thickness in the short transverse direction: 4.1 and 4.6 mm for the "good" and "bad" plates respectively. The polished. All other faces were ground to 800 grit. pillar edges, which were the original outer surfaces of the plate, were lightly The electrochemical pretreatment was 7 h in 1 M NaCl at a potential of ­710 mV SCE. Following the
+
+pretreatment, the sample was rinsed with DI water and placed in a humidity chamber, consisting of a sealed beaker containing a saturated salt solution at room temperature (22-25C). Several salts were used to create a range of constant humidity: sodium sulfate (Na2SO4), ammonium chloride (NH4Cl),
+
+potassium iodide (KI), potassium carbonate (K2CO3), and calcium chloride (CaCl2). reported in the CRC Handbook [12] and the values measured by an RH meter were close, as shown in table1. Table.1 Humidity associated with saturated salt solutions. Salt Na2SO4 NH4Cl KI K2CO3·2H2O CaCl2·6H2O %RH (from CRC [12]) 93 at 20oC 79.3 at 20oC 56.2 at 100oC 43 at 24.5oC 32.3 at 20oC %RH (measured) at RT 96 76.5 65.1 49 30.1 The humidity expected above saturated solutions of these salts as
+
+Following the electrochemical pretreatment, the samples exfoliated when exposed to a high humidity. The EFC started at the outer edges and moved inward. The contrast between at the boundary of the outer exfoliated and inner unattacked regions was sufficient to allow tracking of the EFC kinetics by analysis of digital photographs of the sample taken through the glass walls of
+
+3
+
+the humidity chamber. The photographs recorded the pillar face that showed the transverse section of the microstructure. Exfoliation tests of "good" and "bad" 7178 samples were performed in different humidities created by saturated aqueous solutions of the salts in the above progress of exfoliation corrosion. Detailed metallographic analysis was performed on T, S, and L sections of the "good" and "bad" plates. Samples were polished down to 1 micron and etched by Keller's etchant. table. Digital pictures were taken through the beakers every day to monitor the
+
+Results and Discussion
+Figure 2 shows images of the "good" and bad plates from the AA7178 wingskin sample exposed to 96% RH for 0-52 days following electrochemical pretreatment. After several days of high humidity exposure (96% RH), EFC was evident on both edges of the slice from the "bad" plate and it continued to progress over
+4.07mm
+
+the exposure period of almost 2 months,
+7days 15days 27days 52days
+
+0day
+
+Figure 2a.
+
+The behavior of the slice
+
+removed from the "good" plate behaved quite differently. Severe EFC formed on one side of the sample (left side of images in Figure 2b), while the other side of the sample was practically unattacked. attacked in the ESH test was the side of the plate that was exposed upwards to The side of the slice that was not
+
+(a)
+
+3.86mm
+
+the
+2days 6days 29days 52days
+
+environment
+
+at
+
+Daytona
+
+Beach.
+
+0day
+
+Overall, the "bad" sample was attacked
+
+Figure 2. Image of AA7178 wingskin sample exposed to 96% humidity following electrochemical pretreatment. (a) "Bad" sample. (b) "Good" sample.
+
+(b)
+
+much faster than the "good" sample. As seen in Figure 2, corrosion product oozed out of the sides (corresponding to 4
+
+transverse face of the microstructure) of both good and bad samples upon exposure to 96% RH. This deliquescence is evidence of the chloride corrosion product deposited in the microstructure during the electrochemical pretreatment. The kinetics of EFC can be determined by measuring the change in width of the central unexfoliated region. Regions with different rates of attack are evident as shown in figure 3. The EFC started out slowly, about 0.01 mm/day. Then,
+1 0.8
+Bad sample 1 Good sample 1 Bad sample 2 Good sample 2
+
+after some delay time on the order of 2 weeks, the rate increased to a higher value, about 0.03 mm/day. then decreased again to a lower value of about 0.005 mm/day. This indicates that there is a susceptible layer inside the plate near the surface. different behavior of the two plates during outdoor exposure at Daytona
+0 10 20 30 40 50 60
+
+Width Change (mm)
+
+The rate
+
+0.6 0.4 0.2 0 -0.2 -10
+
+The
+
+Beach is reflected by the ESH results. ESH testing was performed on "good" and "bad" samples under a range of humidities. different exfoliation The two plates exhibited behavior In the lowest
+
+Time (days)
+
+Figure 3. Exfoliation corrosion kinetics of RH.
+
+AA7178 wingskin samples exposed to 96%
+
+in
+
+1
+
+different humidities.
+"bad" plate "good" plate
+
+humidity (30%, CaCl2), the surfaces of
+0.8
+
+Width Change (mm)
+
+both samples were still rather shiny after 60 days exposure, and no EFC was
+96% RH
+
+0.6
+
+evident. Clearly this humidity is below the critical humidity of the corrosion product. In 49% RH, some product oozed out of the surface and EFC was
+
+0.4
+76% RH
+
+0.2
+
+seen on the down side of the "good"
+0 0 5 10 15 20 25
+65% RH
+
+30
+
+35
+
+sample after 3 days. However, the EFC
+
+Time (days)
+
+ceased after that time, perhaps as a result of a drying out of the corrosion
+
+Figure 4. Exfoliation Corrosion kinetics of AA7178 wingskin sample exposed to different humidities.
+
+5
+
+product formed during the pretreatment as a result of equilibration with the humidity in the chamber. In 65.1% RH, both sides of the "bad" sample exfoliated gradually after around 1 week exposure even though no change was observed at the beginning. increasing humidity. The critical humidity for EFC propagation seems to be just positions along the axis of each sample for RH values from 65-96%. Above 49% RH, samples exfoliated more severely with
+
+above 50%. The width of the unattacked region was measured at ten different these measurements, the average rate of EFC was determined. The average EFC rate was 3.0, 4.2, and 14.2, µm/day for the "bad" samples in 66, 76, and 96% RH, respectively. For "good" samples, the values were 0.61, 0.76, and 5.0 From
+
+µm/day, respectively, for the same humidities. The EFC kinetics of wingskin samples are shown in figure 4. The microstructure of the two plates exhibit differences that correlate with the EFC behavior. As shown in figure 5, the "bad" plate has a microstructure that has more elongated grains. In contrast, the near-surface regions of the "good" plate exhibit smaller grains with a smaller aspect ratio. exhibit faster IGC in the S direction). help explain the different EFC behavior. A recrystallized equiaxed microstructure should be more resistant to exfoliation (but should There is no clear difference in the microstructure of the near-surface up and down sides of the "good" sample to
+
+Summary
+The exfoliation corrosion behavior of two plates taken from a retired KC135 was studied using a new approach. exposed to constant humidity. Slices of the plates with particular orientations were electrochemically pretreated in chloride solution and then The rate of exfoliation corrosion was determined quantitatively by analysis of digital images of the slices. environment. The
+
+results correlated with the exfoliation behavior during exposure to a seacoast
+
+6
+
+S
+
+0.2 mm
+
+L
+
+a. UP SIDE
+
+b.
+Figure 5. Metallographic sections of AA7178 wingskin plate. (a) "Bad" plate. (b) "Good" plate. and then wrapping around to end at the left side of the bottom image in each pair.
+
+The sections are through thickness montages, starting at the right of the top image in each pair
+
+Acknowledgements
+The authors acknowledge the support of AFRL with a contract through S&K Technologies and are grateful to Mr. Jim Suzel from S&K Technologies for providing the samples. The exposure testing at Daytona Beach was performed by Dr. William Abbott of Battelle.
+
+References
+1. ASTM STP G34, Test for Exfoliation Corrosion Susceptibility in 7xxx Series 1979. Copper Containing Aluminum Alloys, EXCO Test. ASTM, Philadelphia, PA,
+
+7
+
+2. 3. 4.
+
+S. Lee and B.W. Lifka, Advances in Localized Corrosion ASTM-STP 1134, 1,1992. B.W. Lifka, D.D. Sprowls, Localised corrosion-cause of metal failure, in: G.S. Haynes, R. Baboian, ASTM G85-85 A2, Modified Salt Spray (Fog) Testing, Laboratory Corrosion Tests and Standards, ASTM STP 866. American Society for Testing Materials, Philadelphia, PA, pp578-583, 1985. ASTM STP 516, ASTM, Philadelphia, PA, pp38-65, 1972.
+
+6.
+
+5.
+
+B.W. Lifka, D.O.Sprowls, Corrosion, 22, pp7-15, 1966.
+
+B.W. Lifka, D.O.Sprowls, Corrosion in Natural Environment, in: ASTM STP 558, ASTM, Philadelphia, PA, pp99-113, pp306-333, 1973.
+
+7. 9. 8.
+
+J. De Damborenea and A. Conde, Brit. Corr. J., 30, 292-296,1995. E.A.G. Liddiard, J.A. Whittaker, H.K. Farmery, J. Inst. Metals, 89, pp377384, 1960-61. R. Braun, Brit. Corr. J., 30, pp203-208, 1995.
+
+10. M.J. Robinson, N.C. Jackson, Brit. Corr. J., 34, pp45-49,1999
+
+12. "Handbook of Chemistry and Physics," R. C. Weast, ed., 61st edition, CRC Press, 1980.
+
+11. M.J. Robinson, N.C. Jackson, Corr. Sci., 41, pp1013-1028, 1999.
+
+8
+

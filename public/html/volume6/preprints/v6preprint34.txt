@@ -1,0 +1,148 @@
+Volume 6 Paper C079
+
+The Growth Rate Estimation of the Corrosion Films on Steels Exposed in the Atmospheric Environments
+H. Ogawa(1), T. Shinohara(2), S. Tsujikawa(3) (1)Division of Environmental Engineering, Kanazawa Institute of
+
+Technology, 7-1 Ohgigaoka, Nonoichi, Ishikawa 921-8501, Japan, ogawa@neptune.kanazawa-it.ac.jp, (2)Life-Time Prediction Group, Material Engineering Laboratory, National Institute for Materials Science(NIMS), 1-2-1 Sengen, Tsukuba, Ibaraki 305-0041, Japan, (3)Professor Emeritus, The University of Tokyo, 7-3-1 Hongo, Bunkyoku, Tokyo 113-0033, Japan.
+
+Abstract
+A couple of the electrodes, anode and cathode, embedded in the cement mortal was employed for estimating the corrosion rate and the growth rate of the corrosion film on the steel exposed in the atmospheric environment. The cathode electrode was fully embedded in the cement mortal, and the half length of the anode electrode emerged from the surface of cement mortal in the air. The corrosion current between the anode and cathode was monitored and recorded in the data logger with 10 minutes interval or in the recorder through the zero shunt ammeter. The corrosion loss calculated based on the recorded corrosion current showed a good agreement with that measured on the anode after finishing the exposure. With this experimental result we can conclude that the anode and the cathode are estimated to be electrochemically separated in the corrosion reactions on the couple of both electrodes embedded in the mortal specimen. Based on the analysis of the recorded corrosion current it revealed that the different types of corrosion current ­ time relationship were observed corresponding to the film growth stages.
+
+Keywords: Atmospheric Corrosion, Steels, Corrosion Current, Corrosion Film, Film Growth Rate, Cement Mortal
+
+Introduction
+The various kinds of methods are provided for estimating the corrosion rates and the growth rates of the corrosion films [ref. 1][ref.
+
+2 ][ref. 3][ref. 4]. Recently the sensors with the function of the improved polarization resistance [ref. 3][ref. 4] have been employed
+for the atmospheric corrosion monitoring. However, those are the indirect measures for estimating the corrosion rates. In the cement paste pore solutions in the equilibrium with the cement compounds
+
+indicate the high pH value, about 13.5, and thus steels can maintain the passive state in these solutions. In the case that we prepare a set of a steel cathode fully embedded in the cement mortar and a steel anode partly stuck in it and partially exposed in the air, the cathode will be in the passive state and the anode will function as an active one. Accordingly corrosion of the anode will be observed in the wet conditions of the cement mortar specimen when the anode and cathode are connected, and the corrosion rate of the anode will be measured as the flow of the corrosion current between the anode and cathode. In this investigation the measured currents between a couple of the electrodes mentioned above were examined whether they corresponded to the corrosion rates of the anode materials and analyzed what mechanism controlled the current through the test duration.
+
+Experimental Specimen
+The schematic illustration for the test specimen is indicated in Fig.1. The cathode is fully embedded in the cement mortar and the anode is partly stuck in the mortar as shown in Fig.2. The upper part of the anode was coated with silicone resin except the top portion for the electrical contact and the bottom part of 15mm in length was embedded in the mortar. The middle part of 10mm in length with the bare surface was exposed in the atmospheric environment. The 2
+
+Fig.1 Schematic illustration of the mortar specimen
+
+Fig.2 Geometry of the anode electrode
+
+mortar cathode material was the cold rolled low carbon steel with 0.18mm thick, 30mm wide, and 200mm long. The cathode material was rounded and settled in the location at the centre position in depth and 10mm distance from the side surface of mortar specimen. The lead of Type 316 stainless steel wire was resistance-welded to the corner of the cathode and coated with silicone resin except the Table 1 The chemical compositions of the anode materials Material SM400 C Si Mn 1.23 1.01 0.60 P S Cu Ni 0.1 3.04 Cr 0.49 V 0.06 -
+
+0.11 0.19
+
+0.019 0.005
+
+SMA490 0.13 0.46 St.3Ni 0.10 0.20
+
+0.012 0.009 0.32 0.005 0.001 0.38
+
+electrical contact at the top part. For the anode electrode the following materials were employed : The pure iron wire with 1mm diameter, the carbon steel SM400( ASTM A529), and two kind of the weathering 3
+
+steels, SMA490(ISO4952) and 3Ni steel(a trial product of Nippon Steel Corporation), with 3mm square. The chemical compositions are indicated in Table 1.
+
+Experimental Procedures
+The current between the cathode and the anode exposed in the atmospheric environments was measured at 10min interval and stored in the data logger illustrated as A in Fig.1. The indoor exposure was also performed simulating the rainy condition. A cycle of the rainy surface of the mortar specimen and following it the spontaneous drying. For the indoor exposure the corrosion current between the cathode and anode was stored in the recorder through the zero shunt ammeter. After the atmospheric exposure the corroded anode of the pure iron wire was sampled from the cement mortar specimen, and the corrosion losses(the corroded volumes) were estimated by the geometrical method based on the corrosion morphology. condition was scheduled with spreading the pure water of 10ml on the
+
+Experimental Results
+The recorded current distribution for the anode electrode of SMA490 during the exposure for the first two month was indicated in Fig.3. The
+
+80 70 60 50 40 30 20 10 0 0 2000 4000 6000 Test durati  m i on(  n) 8000 10000
+
+C urrent(A )
+
+Fig.3 The corrosion current distribution on the test duration 4
+
+1
+
+C urrent( 
+
+0. 8 0. 6 0. 4 0. 2 0 0 100 200 300 Test D urati on(x10m i n) 400 500
+
+Fig. 4 The current rising after 6 months exposure
+90 80 70
+
+C urrent  A
+
+60 50 40 30 20 10 0 0 10000 20000 30000 Test durati m i on n 40000
+
+Fig.5 The current decreasing on the indoor exposure for 30 cycles
+
+current rising observed in Fig.3 corresponded to the rainy durations and the peak values of the observed current decreased with the test duration because of the film formation originating from the corrosion products. After the exposing duration for 6 months the current 5
+
+patterns changed to the small pulse-like risings and the following plateaus on the rainy durations as observed in Fig.4. The current diminished and faded away with drying of the water film at the surface of the cement mortar specimen. The similar current changes on the test duration were observed for all of the anode materials. The
+
+appearance of the current decreasing for the long exposures can be perceived more clearly on the measured current for the case of the thirty wet and dry cycles are recorded on that figure. A cycle indoor exposures as observed on Fig.5. The current responses for the corresponds to a rainy duration of the outdoor atmospheric exposure. The small current rising and plateau similar to that observed on Fig.4 started after twelve cycles on Fig.5. The film formation can be assumed to finish at this time.
+
+Discussion
+The accumulated charges, the integrated values of the measured current through the test duration, were plotted against the corrosion losses of the anode electrodes, and the linear relationship between them was indicated as shown in Fig.6. The deviation between the Faraday law and the relationship of Fig.6 becomes larger with increase of the corrosion losses. Based on this result we can conclude that the measured current between the cathode and the anode electrodes on the tested specimens corresponds to the corrosion (dissolution) of the anode electrode, and, accordingly, this means that we can immediately estimate the corrosion rate of the metallic material in the atmospheric environment with the test method employed in this investigation. The peak heights of the corrosion current decreased with test duration as observed in Fig.3, and it can be assumed that the decreasing of the corrosion current corresponds to that of the metallic surface on the anode electrode causing in the corrosion film formation. As a result the corrosion current observed through the rainy duration can be divided into the two stages: In the first stage the peak heights of the observed current decreased abruptly with exposing duration. The current decreasing through this stage may correspond to the film formation. The first stage of the current was followed by the steady one, the second stage, with small rising and the plateau as observed on Fig.4, and such state of the recorded current will indicate finishing 6
+
+A ccum ul ated charge  
+
+10 8 6 4 2 0 0 0. 1 0. 2 0. 3
+
+
+0. 4
+
+0. 5
+
+V ol e of corrosi l um on oss  
+
+. Fig.6 The relationship between the corrosion current and the corrosion loss of the anode electrode of the film formation on the anode electrode as the corrosion product. In the second stage the current rising recorded in Fig.4 will correspond to the dissolution of metallic ions at the defects(cracks) of the film, and the plateau current will indicate that through the film like the passive one on the polarization curve. The film formation can be formulated as the following. dS indicates the extent of the film formed during dt, and i does the corrosion current at time t, then, dS=C1idt C1 : constant (1)
+
+The decrease of the current at t correlates with that of the metallic surface extent,-dS, di=-C2dS C2 : constant (2)
+
+Equation (3) can be introduced from Eqs.(1) and (2), logi=C0-kt C0, k : constant (3)
+
+Equation (3) will represent the decreasing of the observed peak heights of the current rising of the corrosion current as a function of the rainy duration in the atmospheric exposure. It can be assumed that the film growth will be depressed in the dried condition of the mortar specimen, and thus, a set of the array of the current risings was 7
+
+C urrent,i ( ,l  ni
+
+5 4 3 2 1 0 0 2000 4000 6000 8000 Test durati t(m i on, n) 10000 12000
+
+ : S M A 490  : S M 400  : 3N i
+
+Fig.7 The relationship between the current peak heights and the test durations formed by skipping the interval duration between the current risings recorded on Fig.1 and plotted against the test duration in accordance with the Eq.(3) as expressed on Fig.7. The linear relationship as predicted from Eq.(3) was revealed for each anode electrode of the three materials. k in Eq.(3) will denote the growth rate of the film and the curvature of the linear relationship in Fig.7 will correspond to k in Eq.(3). The films on the anode electrodes were produced as a result of the deposition of their corrosion products. As observed on Fig.7 the films will be formed in the similar growth rates for the three materials. This result may imply that the corrosion currents depend mainly on the iron dissolution of the anode materials. After finishing the film formation the recorded current through the rainy duration was changed to the small current raising and plateau as observed on Fig.4. On the current rising figure of Fig.4 the current decaying will conform the following formulation. The current rising will originate in the corrosion current at the cracks presenting in the film. If we assume the film thickness x as formed in the duration t at the crack, the current i will be introduced as the following equation, i=a1/x a1 : constant (4)
+
+The increase of film thickness dx in the duration dt can be designated as Eq.(5),
+
+8
+
+dx= a2idt
+
+a2 : constant
+
+(5)
+
+Equation(6) can be introduced from eqs.(4) and (5), 1/i2=a0(t+t0) a0, t0 : constant (6)
+
+70 60 50 40 30 20 10 0 0 50 100 150 Test durati on(m i n) 200 250
+
+Fig.8 1/i2-t plotting for the current decaying on Fig.4 The relationship between the current i and the time t on the current decaying process of Fig.4 formulated with Eq.(6) was demonstrated as shown in Fig.8. The curvature of the linear relationship of Fig.8 corresponding to Eq.(6) may indicate the velocity for repairing the film cracking. The plateau of the current observed on Fig.4 will indicate the protective function of the formed film and its current density will control the corrosion loss of the material because the accumulated charge for the plateau current of Fig.4 will be larger than that for the initial rising current of Fig.3 and Fig.4 through the life time of the materials.
+
+Conclusion
+The results of this investigation show that the cement mortal specimen with embedded a couple of electrodes, cathode and anode, can be employed for estimating the growth rate of the corrosion film on steels exposed in the atmospheric environments. (1) The anode and the cathode were electrochemically separated on the couple of both electrodes. The corrosion loss calculated based on 9
+
+2 C urrent,(A ),1/i i
+
+the recorded current indicates a good agreement with that measured on the anode material. (2) The corrosion films formed on the anode electrodes were produced as the result of the deposition of the corrosion products of the anode electrode materials. The growth rate of the film was related to the peak heights of the corrosion current,i,decayed to the test duration,t,in accordance with the following equation, lni=C0-kt C0,k : constant decaying curvature of the peak heights of the corrosion current. The
+
+In this equation k is a parameter corresponding to the growth rate of the film. (3) After the film formation was finished the small risings followed the plateaus of the current were observed during the rainy duration. The small current rising will originate in the metallic dissolution at the defective parts formed in the film. The current decaying on that current rising will correspond to the action of defect repairing in the film. The following relationship between the current, i, and the test duration, t, was formulated, 1/i2=a0(t+t0) a0, t0 : constant
+
+On the above mentioned equation a0 will respond to the repairing velocity at the defects in the film. The plateau current will be the film maintenance current like the passive current on the polarization curve.
+
+References
+Ref.1, `Atmospheric corrosion test method', H.H.Lawson, NACE
+
+International, 1995.
+
+edition)', E.Mattsson, The Institute of Materials, 1996.
+
+Ref. 2, `Basic corrosion technology for Scientists and Engineers(Second
+
+10
+
+Ref. 3, `Evaluation of an atmospheric corrosion monitor', F.H.Haynie, ASTM STP1137(V.Chaker, ed), ASTM, pp90-107, 1992. Ref. 4 , `Evaluation of corrosivity of marine atmosphere by
+
+ACM(Atmospheric Corrosion Monitor) type corrosion sensor', T.Shinohara, S.Tsujikawa, S.Motoda, Y.Suzuki, W.Oshikawa, S.Itomura, T.Fukushima, and T.Izumo, Proc. International Symposium on Plant Aging and Life Prediction of Corrodible Strucrures(T.Shoji and T.Shibata, ed.), NACE International, pp453-460, 1997.
+
+11
+

@@ -1,0 +1,311 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 33
+
+31 January 2005
+
+INFLUENCE OF THE THERMAL TREATMENTS ON THE ELECTROCHEMICAL BEHAVIOR OF A STAINLES STEEL (AISI 304).
+Y. Boudinara, M. Touikerb, N.Hammoudaa, K. Belmokrea.
+a
+
+Laboratory of corrosion and treatments of surface (L.C.T.S)Université of Skikda, BP 26, Road Elhadaïk - 21000 Skikda. Algeria E-mail: boudinar_yamina@yahoo.fr b S-H/Institut Algeria of Oil, the platanes ­ 21000 Skikda. Algeria
+
+absract: In spite of their resistance in many aggressive environments, the stainless steels can be sensitive to some types of corrosion, such as the intergranular corrosion, that can provoke a real disaggregation of the metal due to the selective attack of the spaces between the grains. Following some thermal treatments, a precipitation of chromium carbide carries a local impoverishment in chromium below the necessary content to enssure the protection. To this end, we have studied the effect of the thermal treatments (over-tempering and the income to 600°C) on the electrochemical behavior of an austenitic stainless steel type AISI 304,with regard to corrosion, in a simulated soil. The metallographic study and the observation in optic microscope realized up on steel in a delivery state, over-tempered and sensitized show that the obtained electrochemical classification allows to deduce that steel in the delivery state is the most resistant. Keywords: Corrosion, stainless steel , thermal treatments, soil.
+
+1. Introduction The resistance to the corrosion of the stainless steels can be assigned to the formation in the surface of metal, in an oxidizing millieu, of a passive chromium oxide film between metal and the surrounding milieu.The protective degree depends on the thickness of the film, its homogeneity, its adhesion and oxygen diffusion[1.2]. This natural and spontaneous passivation only occurs in some conditions. The resistance of the stainless steels also depends on the manufacture process (type of soldering, thermal treatment, cleaning procedure....), of the conception, the way the surface is finished, and the techniques of passivation. The austenitic stainless steels preserve in an ordinary temperature their gamma structure, from which the name is derived; they are usually called or referred to18-08 or 18-10, according to their percentage in Cr and in Ni [3.4]. we can get a strong austenitic solution oversaturated with carbon by over-tempering. The intergranular precipitation of a carbide rich in chromium is caused by a reheating to 600°C, it is at the origin of the sensitiveness to the intergranular corrosion (photo d).
+
+-1© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 2. experimental
+
+Volume 7 Preprint 33
+
+31 January 2005
+
+We have studied three types of samples treated in different ways: one in a delivery state and the two others, over-tempered and sensitized. The samples are prepared according to the procedure presented in the figure1. We have put into evidence the linking between the potential of rupture and the resistance to the corrosion through the study of the curves of polarization of the stainless steels. We have used the stationary electrochemical methods (evolution of the potential according to the immersion time and the polarization curves).
+
+AISI 304
+
+Over-tempered to 1050°C during 10mn,cooling fast to water.
+
+The delivery state
+
+Over-tempered to 1050° during 10mn cooling fast to the water, come back then to 600°C during 40mn, cooling to the free air.
+
+The enrobage
+
+Preparation of surface
+
+Fig1: procedure of the different thermal treatments.
+
+-2© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 2.1. Used material
+
+Volume 7 Preprint 33
+
+31 January 2005
+
+The subjectile that has been utilized is a stainless steel type Z6CN18-09 (AFNOR) that corresponds to an AISI 304 according to the American Norm. Table 1: Chemical composition of stainless steel AISI 304. Elements Weight % C 0.045 Cr 18.8 Ni 9.9 Mn 1.02 Si 0.55 P S
+
+0.021 0.001
+
+2.2. Steel structure The stainless steel AISI 304 is attacked életrolytiquely under 6 volts during 2 to 3 minutes by an aqueous solution of acid oxalic (H2C2O4) à10% (test ASTM 407) [5]. This attack puts in evidence the carbides and reveal the joints of grains (grains polyedral austenitic). The micrographies obtained photos (a, b, c), reveal: Photo (a) presents a austenitic structure () grains thin polyedral macles, homogeneous and monophased. Photo (b) shows a typical structure of grains, to facies polyedral homogeneous macles (thermal origin macle), feature of the strong solutions centered on the cubic system to centered faces, monophased. Photo (c) shows: - migration of the joints of grains, - loss of polyedral grains, - loss of the macles, - precipitation of the carbides of Cr23C6 chromium in the joints of grains. 2.3. Solution We have performed our test in a simulated soil solution normally aired and agitated. its chemical composition is given in the table 2: Table 2: Chemical composition of the affected soil solution (g/l) K2SO4 1.82 Na2SO2 37.48 NaCl NaHCO3 22.69 0.16 MgSO4 29.04 CaSO4 2.00
+
+-3© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 33
+
+31 January 2005
+
+Photo (a): AISI 304 to the delivery state (G 300).
+
+Photo (b): AISI 304 to the over-tempered state to 1050°C (G 300).
+
+Photo (c): AISI 304 sensitized to 600°C (G 300). Photos (a, b, c): micrographie of stainless steel austenitic AISI 304. 2.4. Apparatus The retained electrochemical installation consists of three electrodes: reference electrode (SCE), work electrode and conter electrode in Pt. The device equipment used for currenttension curves is consists of a potentiostat - galvanostat models PGP 201, 230V, 50-60 Hz to electronic configuration joined to a computer allowing the measures of potentiocinetic polarization to be indicated and recorded automatically (fig.2). -4© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 33
+
+31 January 2005
+
+Potentiostat
+
+Computer
+
+(ECS)
+
+(Pt)
+
+Soil simulated Fig2: electrochemical cells. 2.5 Electrochemical tests We have used two types of electrochemical tests : the first corresponds to the following of the corrosion potential free(E = f (time)), the second to anodic polarization tests in potentiodynamic condition (i=f(E)), on samples of srface 1cm2. The rate of scanning in potential is 30mV.mn-1. The retained solution is a simulated soil (with renewal). The temperature is that of the ambient environment. 3. Experimental results 3.1. Free potential We have performed the test of free potential whithout neglecting the general conditions of preparation of the surface of the sample. The presented results (fig. 3-4) show that the two curves of the over-tempered and sensitized steels take the same forme. Their potentials tend toward more and more negatives values. We note that over-tempered steel is more noble than the sensitized steel. Whereas, steel in the delivery state, the potential is negative during the first time, takes more noble values, showing the formation of a film at the surface of the sample. 3.2 Potentiodynamic measure The average value of the free potential, obtained after 30minutes, for steel in the delivery state is: -233 ± 20 mV/SCE. This preliminary study E = f (t) is immediately followed by a potentiodynamic study realized in definite conditions (neutral pH, ambient temperature, scanning speed 30mV.mn-1, domain of potential 600mV). The test is stopped when the density of current reaches 100µA.cm-2. The polarization curves (I-E) obtained for the three samples are presented in the figure 4 5. According to the pace of the curves we note for steel in the delivery state : · A passive domain included between -347mV/SCE and +473mV/SCE, corresponding to a density of very weak passive current variable between 1.02 and 2.5µA.cm-2. -5© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 33
+
+31 January 2005
+
+An active domain where we have a straightforward departure of the current intensity corresponding to the value of the potential of rupture (Er). For the over-tempered and sensitized steels we note: absence of passivation domain. The results are assembled in table 3.
+
+·
+
+p te tia V C ) o n l(m /S E
+
+-210
+
+-220
+
+Delivery state
+-230
+
+-240
+
+-250 0 5 10 15 20 25 30
+
+time(mn)
+
+Fig3: Evolution of the potential according to the immersion time of stainless steels AISI 304 in the delivery state.
+
+p otentia V/SC l(m E)
+
+-200
+
+Delivery state
+
+-250
+
+-300
+
+Over-tempered
+
+-350
+
+sensitized
+-400
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+time(mn)
+
+Fig4: Evolution of the potential according to the immersion time of stainless steels AISI 304
+
+-6© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 µA.cm-2
+
+Volume 7 Preprint 33
+
+31 January 2005
+
+100
+
+Delivery state
+
+50 Ecorr 0 Er
+
+-50
+
+-600
+
+-400
+
+-200
+
+0
+
+200
+
+400
+
+(mV)
+
+Fig5: polarization curve of the stainless steel in the delivery state, in the simulated soil
+
+µA.cm-2 100
+
+sensitized
+50
+
+over-tremped
+
+delivery state
+
+0
+
+-50
+
+-100
+
+-150 -600 -400 -200 0 200 400 (mV)
+
+Fig6: Impact of the thermal treatments on the potential rupture (Er), speed of scanning 30mV.mn-1 in the simulated soil. -7© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 7 Preprint 33 31 January 2005 Table 3: Rupture potential evolution according to the thermal treatment temperature
+
+Steel AISI 304
+
+Eim (mV/SCE)
+
+Est (mV/SCE)
+
+Ecorr (mV/SCE) Er (mV/SCE) The size of the grains (µm)
+
+Over-tempered Sensibilized Delivery state
+
+-261± 30 -330± 60 -211±30
+
+-351± 20 -408± 50 -233±20
+
+-388± 10 -407± 40 -341±30
+
+-90± 70 -180± 70 +473±40
+
+0.0075
+
+0.0023
+
+Eim : potential of immersion (t=0mn). Est : stationary potential (t=30mn).
+
+Ecorr : potential of corrosion (i=0 µA.cm-2). Er : potential of rupture.
+
+3.3 determination of the corrosion current for the over-tempered and sensitized steels. For the determination of the speed of corrosion current, we have made use of the tafel strainght lines.The rate of scanning is 10mV.mn-1. The obtained results are gathered in the table 4. Table 4: Values of the speeds of corrosion of the over-tempered and sensitized steels
+
+Steel AISI 304
+
+Ecorr (mV/SCE)
+
+icorr (µA.cm-2)
+
+V (mm.an-1)
+
+Rp (K..cm²)
+
+Over-tempered Sensitized
+
+-378 -428
+
+1.43 1.86
+
+0.016 0.022
+
+37.57 29.45
+
+To the analysis of the table 4, we note: § § that the determination of the density of corrosion current, permits to distinguish the effect of the thermal treatments on the behavior of steel AISI 304 opposite of the corrosion. that the speed of steel corrosion sensitized is more important than the overtempered steel.
+
+-8© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 4. discussion
+
+Volume 7 Preprint 33
+
+31 January 2005
+
+These results show, the absence of a domain of passivation of the over-tempered and sensitized steels (fig. 6). The comparison between the different values of the potential permits to dedce: That the difference between the values calculated of the rupture potential for a overtempered and sensitized steels is notably (superior to the experimental mistake). This result appears logical, because for a sensitized steel (fig.7), the curve shows the limit of solubility of the carbon in the strong solution (S.S), that is to say the content in carbon decreases in the S.S in the same sense that with the temperature. It explains the precipitation of the carbides with the lowering of the temperature during the slow cooling. The precipitation takes place by diffusion. Then, for a steel AISI 304 (0.045%C), the S.S to 1050°C contains 0.045%C and, after cooling fast to the water, steel keeps the homogeneous structure 0.045%C oversaturated of carbon of where its instability. As warming 0.045%C oversaturated to 600°C and conducts from it a slow cooling, a process of diffusion releases to re-establish the percentage of the carbon in the limits of solubility of the cubic centered  in according to the curve (fig 7). The carbides of Cr23C6 chromium form themselves preferentially to the joints of grains ( photo d). To ambient temperature, the sensitized steel possesses a two-phase structure (+C.C), making it as susceptible to the corrosion (fig. 6). while the over-tempered steel, possess a monophased structure () and homogeneous ( photo b ): the fast cooling stops the diffusion from occurring and therefore absence of the formation of the chromium carbides.
+
+Temperature (°C) 800 1000 1200 Homogeneous strong solution
+
+200 300 400 500 600
+
+Precipitation of carbide Cr23C6
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+C%
+
+Fig7: Limit of solubility of the carbon in the strong solution: Fe-Cr- Ni [6]. -9© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 33
+
+31 January 2005
+
+G 800
+
+G 1100 Photo (d): precipitation of the chromium carbides in the joints of grains of a stainless steel AISI 304 after sensitization treatment . The comparison between the polarization curves obtained for steels in the delivery state and those of steels having undergone a treatment thermic (fig.6) allows us to say that: *The stainless steel in the delivery state possesses an enough important domain of passivation of the order of 800mV/SCE, according to [7-12], the general pace of the polarization curve is of type" passive system ", thing that we don't meet in the cases of the - 10 © University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 7 Preprint 33 31 January 2005 over-tempered and sensitized steels. Explaining its best holding thus of the corrosion in the solution of simulated soil. *The thermal treatments (over-tempered, sensitization) have an unfavorable effect on the behavior of steel opposite of the corrosion, that will probably be due to: - the surface of the sample treated is small enough compared to the length of maintenance in the oven. - to the used material (the existence possible of the impurities).
+
+We registe for sensitized steel to 600°C during 40 minutes, a weak resistance to the corrosion and a heterogeneous structure (+C.C) to the joints of grains, that would be due to the presence of the chromium carbides, also dragging a local dechromisation source of intergranular corrosion (photo d). The samples in the delivery state and over-tempered, present a homogeneous structure (without precipitation of the carbides) then, that in the test of corrosion we record a difference that would be due to the difference in the size of the grains (observation through the metallographic microscope) (photo a, b) at the time of the exam of the microstructure; since the two samples have the same chemical composition. The measuring of the size of the grains by the method coupling (photo d) show that it is more importand in the over-tempered steel (0.0075µm) than in steel in the delivery state (0.0023µm). The size of the grains influences a lot on the behavior of steel AISI 304 opposite the oxidization to hot [6]. The authors [6], showed that to the course of the heating toward the high temperatures (1050°C), the size of the grains increases. This increase encourages the penetration of the oxygen in steel AISI 304 taking place mainly to the joints of grains of the over-tempered steel. Besides, we maintained the over-tempered subjectile in an electric oven to the temperature (1050°C) without protective atmosphere (to the free air), during 10 minutes. This last underwent an oxidization to warm (penetration of the oxygen more or less important). We also have, at the time of the test of corrosion, confirmed its weak resistance to the corrosion in relation to steel in the delivery state that possesses thin grains because the big grains (structure ) of the over-tempered steel accelerate the process of corrosion, it results in the absence of the passivation domain . 5. conclusion It appears distinctly, according to the results obtained by the different techniques (potentiodynamics curves, free potential, the observation to the optic microscope) that a stainless steel containing AISI 304 18% of Cr and 10% of Ni to the delivery state presents a better resistance to the corrosion in the simulated soil. The role of the carbon has been put in evidence, in the case of the over-tempered and sensitized alloys, driving to the precipitation of the carbides. This effect drove to a important modification of the curves intensity - potential in the domain of passivity. The metallographic study to the optic microscope achieved on the nuances AISI 304 in the delivery state over-tempered and sensitized permits to bind the two main electrochemical criterias to features metallurgic notably:
+
+- 11 © University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 7 Preprint 33 31 January 2005 Ø The size of the grains: more the size is small, more steel is resistant. Ø The sensitization to 600°C provokes in a steel AISI 304 a precipitation of the chromium carbides (Cr23C6) that drags, to the neighborhood of these precipitate, a reduction important of the content in chromium returning thus locally the alloy a lot of corrodable.
+
+Acknowledgments Iwould like to thank Mr M.Mouats teacher of english language at technical high school of Skikda, for his help in translating this paper.
+
+6. References [1] Hannani. H, Kermiche. F, Pourbaix . A, Belmokre.K, "charcterisation of passive movie one AISI 304 stainless steel", transactions of the institute of metal "Tras.I.M.F" finishining, vol. 75. (1). (1998) pp.7-9. [2] Hannani. H, Belmokre.K , AC impedance study of oxygenates reduction one has platinium dispersed porous carbon electrode" transactions of the institute of metal "Tras.I.M.F" finishining, vol.78.(4) . (2000). pp.168-170. [3] Lacombes. P, Baroux.B, Beranger.G, "steel rustproof ", The Editions of Physics, (1990). pp. 855-878. [4] Kawabe .Y, Nakagawa.R, Mukoyama.T, Trans.Iron and Steel Inst of Japan. (8).(1968). pp.352-361. [5] test ASTM 407, Metals Handbook. Ninth Edition, flight (13). Corrosion. (1987). [6] Dovecote. L, Hochmann .J, Edition of physics. (1990). [7] Lombres..M, ParisVI thesis. (1971). [8] Satos .N, Cohen .M, Electrochen. J, Soc. 111.(1964). [9] Fehlners F. P, Mott. N.F, Oxid.Met. vol. l59.(2). (1970). [10] Boo W. T, Vanmuylder. J, Winand. R, Corros.sci. vol. 23. (12). (1983).pp. 1307-14. [11] Rozenfelds .L., Korrozia Zachita Izadatelsvo Metallouguia. (1970). [12] kawabes.Y, Nakagawa. R, Mukoyama .T, Trans.Iron and Steel Inst Japan,(8 ). (1968). pp.352- 361.
+
+- 12 © University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

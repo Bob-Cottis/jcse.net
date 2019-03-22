@@ -1,0 +1,222 @@
+Volume 6 Paper C093 Initial Stage of Localized Corrosion on Zn - 5 mass% Al Alloy Coated Steels by Pulsed Photon Film Removal Technique
+SAKAIRI Masatoshia, ITABASHI Kazumab and TAKAHASHI Hideakia a : Graduate School of Engineering, Hokkaido University, Kita 13, Nishi 8, Kita-ku, Sapporo, 060-8628, Japan msakairi@eng.hokudai.ac.jp b : NTT DoCoMo Hokkaido Inc., Kita 1, Nishi 14, Chyou-ku, Sapporo, 060-0001, Japan
+
+Abstract
+A pulsed photon film removal technique, film removal by a focused one pulse of pulsed Nd- YAG laser beam irradiation, has been developed since it enables the oxide film stripping at extremely high rate without any contamination from film removal tools. In the present investigation, Zn, Zn - 5 mass% Al and Zn - 55 mass% Al alloy coated steel specimens covered with protective nitrocellulose film were irradiated with a focused one pulse of pulsed Nd - YAG laser beam at a constant potential in 0.1 kmol / m3 Na2B4O7 (pH = 9.4) solutions with / without chloride ions to monitor the current transient. Irradiation with a pulsed laser in solutions causes abrupt removal of the nitrocellulose film on the specimens at the laser-irradiated area. Without chloride ions, oxide films were reformed in the solutions at 1 V. However, in chloride ion containing solutions, localized corrosion of coated layers occurs at high potentials, while film reformation occurs at low potentials. It was also found that chloride ions enhance dissolution of aluminum and zinc at the very initial period after laser irradiation. For long time polarization after laser irradiation in chloride ions containing solutions, corrosion products formed on nitrocellulose film removed area. Keywords: Zn-Al alloy coated steels, localized corrosion, pulsed photon film removal technique, chloride ions, Nd-YAG laser
+
+Introduction
+Because of its excellent performance in corrosion protection, particularly in atmospheric environments, zinc alloy coated steels are widely used for vehicle and architecture. The corrosion protection of the steels by coated layers are ascribe to cathodic protection by galvanic reaction between zinc and substrate[1], and there stable and compact corrosion products shows high corrosion resistance[2 - 4].
+
+Atmospheric corrosion studies have investigated the composition of corrosion products formed on Zn for various exposure conditions [ 5 - 9 ]. R. Ramanauskas et al. has characterized corrosion products formed on electrodeposited Zn and Zn alloy in atmospheric environments such as marine and urban by x-ray diffraction and x-ray photoelectron spectroscopy [10]. Katayama et. al. has attempted to monitor the corrosion rate of Zn and Zn-Al coated steels under cyclic wet - dry conditions [11]. Analysis of abrupt destroyed of passive oxide films on Al-Zn alloy coated layer on steel and its repair is important to understand the localized corrosion of steel. Analysis of this behavior has been carried out by monitoring potential- or current- transients after mechanically stripping [12-17] of the oxide films. The mechanical film stripping poses problem in film stripping rate, contamination from stripping tools, and stress or strain on the substrate. Recently, film stripping by pulsed photon film removal (focused plus laser irradiation) method, which resolves many of the problems has been reported. The irradiation of a pulsed laser beam is able to strip the oxide film at extremely high rate without any contamination from film removing tools. It has been applied for Zn-Al and Al-Si coated steel by Sakairi et al.[18 - 20], iron electrodes by Oltra et al. [21 - 24], and on aluminum electrodes by Sakairi et al. [25, 26] and Takahahshi et al.[27]. Without chloride ions, oxide films were reformed in the borate solution after removal of the anodic oxide film by photon rupture method. However, in chloride ion containing solutions, pitting corrosion occurs at high potentials, while film reformation occurs at low potentials. It was also found that chloride ions enhance dissolution of aluminum at the very initial period after laser irradiation[27]. In the present investigations, zinc - aluminum alloy coated steel specimens covered with protective film were irradiated with one pulse of pulsed Nd-YAG laser beam at constant potential in sodium tetra-borate solutions with and without chloride ions to measure current transients.
+
+Experimental
+Specimen : Zn, Zn - 5 mass % Al and Zn - 55 mass% Al coated steel sheets were cut into 20 x 20 mm with handle, and edges were covered by silicone. The pulsed photon film removal technique need inactive film to reduce residual current. In this study, the specimens were dipped in nitrocellulose / ethyl-acetate solution to form protective film. Pulsed Photon Film Removal Technique [24] : The specimens were immersed in 0.1 kmol / m3 Na2B4O7 with 0.01 kmol / m3 NaCl ((pH = 9.2) solutions. Then specimens were irradiated with one pulse of the Nd-YAG laser ( Spectra-Physics Co., GCR 130-10) beam focused on the surface with lens at constant potential. The laser beam used was the second harmonic wave with 532 nm wavelength, 8 ns plus duration, and laser power, P, was adjusted at 30 mW. Current transients after laser irradiation were measured with a computer system through an A/D converter. The laser irradiation time was detected by photo-detector. Polarization curves : Polarization curves were also measured to investigate pitting potential in 0.1 kmol / m3 Na2B4O7 ( pH = 9.2 ) with 0.01 kmol / m3 NaCl solutions by a potential scanning method, 0.3 mV/s.
+
+2
+
+Characterization : Cross section of specimen was analyzed by electron probe micro analyzer (EPMA, JEOL, JXA-8900M WD/ED). After experiments, specimens surface were examined by confocal scanning laser microscope (CSLM, LASERTEC CO., 1SA21 ).
+
+Results
+Characteristics of Coated layer Figure 1 shows CSLM contrast images of surface, a) Zn, b) Zn- 5 mass% Al and Zn - 55 mass% Zn coated steels. An area of Al rich region is increased with Al concentration in the coated layer, because of solubility of Al in Zn is very small. Figure 2 shows EPMA analyzed results of cross section of a) Zn, b) Zn- 5 mass% Al and Zn - 55 mass% Zn coated steels. The coated layers are almost uniform and thickness are about 19 µm in each samples. From this figure, we can not observes alloy layer inside the coated layer in Zn- Al alloy coated samples. However, there are many flows inside the coated layer. Polarization behavior Figure 3 shows the anodic polarization curves of Zn, Zn-5 mass% Al and Zn-55 mass % Al coated steels ( with out protective film ) up to 2.5 mA cm-2 in 0.1 kmol / m3 Na2B4O7 ( pH 9.2 ) with 0.01 kmol / m3 NaCl solutions. The rest potential Zn coated steel is about 200 mV higher than that of Zn-Al alloy coated steels. It does not depend on Al concentration. These results suggest that protective film, for example Zn(OH)2, may be formed on Zn coated steel in pH 9.2 solution. If cathodic reaction rate is almost same on all samples, this layer can be reduce rate of anodic reaction, with the result that rest potential was decreased. In every samples, currents increase with electrochemical noise, current fluctuations, with increasing potential. Each current fluctuation in the figure is related to each event of initial stage of pitting or localized corrosion [28]. The pitting potential of Zn coated steel is more than 1V higher than that of Zn-Al alloy coated steels. Figure 4 shows top view of the samples after polarization. There are many corrosion products in every samples, caused by localized corrosion. Corrosion products of Zn coated steel has red color, it means the corrosion products reached the steel substrate. Film removed in Cl- free solutions Figure 5 shows the change in current, I, with time, t, obtained after laser irradiation in 0.1 kmol/m3 Na2B4O7 at Es = 1.0 V vs. Ag/AgCl. The transient currents show 0.4 ms of induction time before the abrupt increases and show the maximum of current, Ip, just after increasing. The slope of the log I vs. log t curves show about - 0.3 at the initial stage, and then -1 at late stage after t = 10 ms in chloride free solution. The slopes at the initial stage were slightly smaller as potential was set at higher value. These results suggest that the oxide film formation occur accompanying by the film dissolution at the initial stage after t = 0.4 ms, and At the late stage after t = 10 ms, the film formation kinetics follow the inverse logarithmic law, according to Cabrera-Mott theory. CSLM cross sectional image of sample after laser irradiation at Es = 1.0 V vs. Ag/AgCl for 1 s in 0.1 kmol/m3 Na2B4O7 shown in Fig. 6. The protective film was completely removed at the laser irradiated area. The film removed area shows a concave and its 3
+
+diameter is about 200 µm. There is any corrosion products at the protective film removed area. Effect of Cl- on localized corrosion Figure 7 shows the change in current, I, with time, t, obtained after laser irradiation in 0.1 kmol/m3 Na2B4O7 with 0.01 kmol/m3 NaCl at Es = 1.0 V vs. Ag/AgCl. In Clcontaining solutions, current decreases with time at the initial and then re-increases after a minimum. This means, chloride ions enhanced dissolution of metal substrate. In the same solutions at low potential, transient currents showed almost same as Fig 5. Figure 8 shows CSLM surface contrast and 3 D images at 4 s after laser irradiation in 0.1 kmol/m3 Na2B4O7 witht 0.01 kmol / m3 NaCl solutions at Es = 1.0 V vs. Ag/AgCl. Precipitates are observed at the laser irradiated area, which were produced by the preferential dissolution of the alloy layer. From 3 D image, these areas are about 10 µm higher than other area. Figure 9 shows change in current with time obtained for 3600 s after laser irradiation in 0.1 kmol/m3 Na2B4O7 with 0.01 kmol/m3 NaCl at Es = 1.0 V vs. Ag/AgCl. At the initial stage, before 5 s, after laser irradiation, currents decrease through the minimum increase again with current fluctuation and then decreases with elapsed time for Zn and Zn-5mass% Al coated samples. The average current after 2000s is increase with increasing aluminum concentration. During polarization, gas evolution was occurred at nitrocellulose film removed area on Zn - Al alloy coated samples. This result suggests that these current fluctuations especially long cycle current fluctuations, related not only localized corrosion but also related gas bubbles leave from the electrode surface. Figure 10 shows top view of the samples after polarization for 3600 s after laser irradiation in 0.1 kmol/m3 Na2B4O7 with 0.01 kmol/m3 NaCl at Es = 1.0 V vs. Ag/AgCl. A corrosion products, which colors are white or gray, formed just on nitrocellulose film removed area. The corrosion product size, which formed on Zn and Zn - 5 mass% Al coated steels is large enough to cover the nitrocellulose film removed area, however its on Zn - 55 mass% coated layer is not enough to cover the area.
+
+Discussion
+Very initial stage The nitrocellulose film was removed by laser irradiation at irradiated area and then the coated layer exposed to the solution. Metals are oxidized electrochemically to Zn2+ and Al3+ ions, and these ions react with water to form oxide or hydroxide film. Zn2+ + 2H2O = Zn(OH)2 + 2H+ 2 Al3+ + 3 H2O = Al2O3 + 6 H+ [1] [2]
+
+In the solution without chloride ions, film is continuously reforming, so current transients shows sudden increase, maximum and the continuously decreases with slope of about -1. In the chloride ion containing solutions, zinc dissolves as zinc-aquo complexes after the coated layer was exposed to the solutions may compete with Eq. 1. Aluminum also dissolution by forming aluminum-chloride complexes may compete with Eq. 2 at high set potential. 4
+
+Zn = Znad2+ + 2eZnad2+ + aq = Zn2+ (aq) Al = Alad3+ +3eAlad3+ + n Cl- = [ AlCln ]3-n
+
+[3] [4]
+
+Because of these mechanism, current did not decrease with time after the maximum. Long time polarization During polarization, metal hydroxide (corrosion products) also formed on the nitrocellulose film removed area. Zn + 2H2O = Zn(OH)2 + 2H+ Al + 3H2O = Al(OH)3 + 3H+ [5] [6]
+
+These corrosion products cover the dissolved area as protective film to reduce corrosion rate. In alkaline solution, Zn(OH)2 is stable but aluminum and its hydroxide dissolve as Al + 4OH- = Al(OH)4 - + 4eAl(OH)3 + OH- = Al(OH)4 [7] [8]
+
+This means corrosion products formed on high aluminum containing coated layer does not show good corrosion resistance. The average current of coated sample becomes bigger with concentration of aluminium. In Cl- containing solution, oxygen gas can be evolved on coated surface at 1V vs. Ag/AgCl. 2H2O = O2 + 4H+ + 4e[9]
+
+The evolved oxygen gas also temporary cover coated layer reducing dissolution of metals. The total amount of oxygen gas is depend on composition of coated layer. It may be possible H2 gas was evolved on aluminum metal at 1V vs. Ag/AgCl.as 2Al + 6H2O = 2Al3+ + 3H2 + 6OH[10]
+
+The gas bubbles, which were evolved especially on high Al contained samples during anodic polarization may contain O2 and H2.
+
+Conclusions
+The pulsed photon film removal technique was attempt to study initial stage of localized corrosion on Zn, Z - 5 mass% Al and Zn - 55 mass% Al alloy coated steel specimens covered with protective nitrocellulose film, and the following conclusions may be drawn. 1) The nitrocellulose film on the specimen can be removed locally by the pulsed photon film removal technique.
+
+5
+
+2) In 0.1 kmol/m3 Na2B4O7 solutions, oxide films are reformed at 1 V vs. Ag/AgCl after removal of the nitrocellulose film. 3) Localized corrosion occurs with forming corrosion products and gas evolution in chloride ion containing solutions at the nitrocellulose film removed area.
+
+Acknowledgements
+The authors wish to Nippon Steel Co. for supply zinc and zinc - aluminum alloy coated samples. The study was partly financially supported by The Iron and Steel Institute of Japan and by Japan Society for the Promotion of Science.
+
+References
+1. G. X. Zhang, " Corrosion and Electrochemistory of Zinc ", Plenum Publication Co., New York (1996). 2. Y. Hisamatsu, Bull. Jpn. Instl. Mtals, 20, 3 (1981). 3. J. Oka, H. Asano, M. Takahsugi and K. Yamamoto, J. Iron and Steel Inst. Jpn., 68, A57 (1982). 4. Y. Miyoshi, J. Oka and S. Maeda, Trans ISIJ, 23, 974 (1983). 5. T. E. Graedel, J. Electrochem. Soc., 136, 193C (1989). 6. J. E. Svensson and L. G. Johansson, ibid., 143, 51 (1989). 7. J. E. Svensson and L. G. Johansson, Corrosion Sci., 34, 721 (1993). 8. J. J. Frei, Corrosion, 42, 422 (1986). 9. S. Oesch and M. Faller, ibid, 39, 1505 (1997). 10. R. Ramanauskas, P. Quintana, P. Bartolo-Perez and L. Diaz-Ballote, Corrosion, 56, 588 (2000). 11. H. Katayama Y. -C. Tay, A. S. Vioria, A. Nishikata and T. Tsuru, Mate. Trans. JIM., 38, 1089 (1997). 12. F. P. Ford, G. T. Burstein, and T.P. Hoar, J. Electrochem. Soc., 127, 1325 (1980) 13. G. T. Burstein and P. I. Marshall, Corros. Sci., 23, 125 (1983). 14. G.T. Burstein and R. C. Newman, Electrochim. Acta, 25, 1009 (1980). 15. G.T. Burstein and R. J. Cinderey, Corros. Sci., 32, 1195 (1991). 16. R. J. Cindery and G. T. Burnstein, ibid., 33, 493 (1992). 17. R. J. Cindery and G. T. Burnstein, ibid., 33, 499 (1992). 18. M. Sakairi, K. Itabashi and H. Takahashi, Corrosion Science and Technology, 31, 426 - 431, (2002) 19. M. Sakairi, K. Itabashi and H. Takahashi, Proc. of Japan-China Joint Seminar on Marin Corrosion, 58-65 (2002). 20. M. Sakairi, K Itabashi and H. Takahashi, submitted to Zaorup-to-Kankyo 21. R. Oltra, G. M. Indrianjafy and M. Keddam, Materials Science Forum, 44 & 45, 259 (1989). 22. R. Oltra, G. M. Indrianjafy and R. Roberge, J. Electrochem. Soc., 140, 343 (1993). 23. R. Oltra, G. M. Indrianjafy, M. Keddam and H. Takenouti, Corros. Sci., 35, 827 (1993) 24. M. Itagaki, R. Oltra, B. Vuillemin, M. Keddam, and H. Takenouti, J. Electrochem. Soc., 144, 64 (1997). 25. M. Sakairi, Y. Ohira and H. Takahashi, Elcetrochem. Soc. Proc. Vol. 97-26, 643 (1997).
+
+6
+
+26. M. Sakairi, Y. Ohira and H. Takahahshi, Zairyo-Kagaku, 34, 275 (1997). 27. H. Takahahshi, M. Sakairi and Y. Ohira, Elcetrochem. Soc. Proc. Vol. 99-27, 377 (1999). 28. M. Sakairi, Denki Kagaku, 66, 1093, (1998).
+
+Figures
+
+Zn
+
+50 µm Zn-5 mass% Al
+
+50 µm Zn- 55 mass% Al
+
+50 µm Fig. 1 CSLM contrast images of surface, Zn, Zn- 5 mass% Al and Zn 55 mass% Al coated steels.
+
+7
+
+Zn
+
+Zn-5 mass% Al
+
+Zn-55 mass% Al
+
+Fig. 2 EPMA analyzed results of cross section, a) Zn, b) Zn- 5 mass% Al and Zn - 55 mass% Zn coated steels.
+
+8
+
+10
+Zn Zn - 5 mass%Al Zn - 55 mass%Al
+
+Current density, |i| / mA cm
+
+-2
+
+1
+
+0.1
+
+0.01
+
+0.001 -1.0
+
+-0.5
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+Potential, E / V ( vs. Ag / AgCl )
+Fig. 3 Anodic polarization curves of Zn, Zn-5 mass % Al and Zn 55mass% Al coated steels in 0.1 kmol / m3 Na2B4O7 ( pH = 9.2 ) with 0.01 kmol / m3 NaCl solutions. Sweep rate : 0.3 mV/ s
+
+9
+
+Zn
+
+Zn-5 mass% Al
+
+Zn-55 mass% Al
+
+5 mm
+
+Fig. 4 Top view of the samples after polarization in 0.1 kmol / m3 Na2B4O7 with 0.01 kmol / m3 NaCl solutions.
+
+10
+
+10 Zn Zn - 5 mass%Al Zn - 55 mass%Al
+
+1
+
+Current, I / mA
+
+0.1
+
+-1
+0.01
+
+0.001 0.1
+
+1
+
+10
+
+100
+
+1000
+
+Time, t / ms
+
+Fig. 5 Change in current, I, with time, t, obtained after laser irradiation in 0.1 kmol/m3 Na2B4O7 at Es = 1.0 V vs. Ag/AgCl.
+
+11
+
+Resi Laser irradiated area
+
+Protective film Zn-5 mass% Al
+
+Steel
+
+200 µm
+
+Fig. 6 CSLM cross sectional image of sample at 4 s after laser irradiation in 0.1 kmol/m3 Na2B4O7 at Es = 1.0 V vs. Ag/AgCl.
+
+12
+
+10
+
+1
+
+Current, I / mA
+
+0.1 Zn Zn-5 mass% Al Zn-55 mass% Al 0.01
+
+0.001 0.1
+
+1
+
+10
+
+100
+
+1000
+
+Potential, E/V vs Ag/AgCl
+Fig. 7 Change in current, I, with time, t, obtained after laser irradiation in 0.1 kmol/m3 Na2B4O7 with 0.01 kmol/m3 NaCl at Es = 1.0 V vs. Ag/AgCl.
+
+13
+
+Zn
+
+200 µm
+
+Zn-5mass% Al
+
+200 µm
+
+Zn-55mass% Al
+
+200 µm
+
+Fig. 8 CSLM contrast (left) and 3D (rihgt) images of specimen surface at 4 s after laser irradiation in 0.1 kmol / m3 Na2B4O7 with 0.01 kmol / m3 NaCl solution at 1.0 V
+
+14
+
+Zn Zn - 5 mass%Al Zn - 55 mass%Al
+
+Current, I / mA
+
+0.5
+
+0.0 0 1000 2000 3000
+
+Time, t / s
+Fig. 9 Change in current with time obtained for 3600s after laser irradiation in 0.1 kmol/m3 Na2B4O7 with 0.01 kmol/m3 NaCl at Es = 1.0 V vs. Ag/AgCl.
+
+Zn
+
+Zn- 5mass% Al
+
+Zn-55mass% Al
+
+1 mm Fig. 10 Top view of the samples after polarization for 3600s at 1.0 V in 0.1 kmol / m3 Na2B4O7 with 0.01 kmol / m3 NaCl.
+
+15
+

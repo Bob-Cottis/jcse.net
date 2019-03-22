@@ -1,0 +1,211 @@
+Volume 6 Paper C056 The Corrosion Prevention Behaviour of Organic Coatings under the Tidal Zone Simulation
+Yen-Chin Lin1, Yuan-Po Lee2, Jiunn-Shyong Luo3 and Wen-Ta Tsai1
+1Department
+
+of Materials Science, National Cheng-Kung University, 1 Ta-Hsueh Road, Tainan 701, Taiwan 60 Erh-Jen Road, Sec. 1, Jen-Te Hsiang, Tainan 717, Taiwan
+of Cosmetic Science, Chia-Nan University of Pharmacy and Science,
+
+2Department
+
+3Materials
+
+Research Lab., Industrial Technology Research Institute, Bldg. 52, 195 Sec. 4, Chung Hsing Rd., Chutung, Hsinchu 31040, Taiwan
+
+Abstract
+Offshore structures in tidal zone have encountered serious corrosion problems, which have been much severe than atmospheric or aqueous corrosion. The use of organic coatings has been one of the major ways to standards which can be used to evaluate the physical and chemical properties of the coatings. However, it is still desirable to develop a method that can environment used, especially for tide wave conditions. Therefore, an apparatus which could generate tide waves was developed to study the durability and protective ability of organic coatings for metal offshore materials. In this study, impermeable behaviour of epoxy, acrylic and polyurethane resin were examined under the tidal zone simulation. The results were also compared with the results obtained from traditional salt spray testing method. Impermeable behaviour of these coatings were evaluated by the time to the first observed rusts or blisters. The result shows that epoxy resin coating has shorten the test time and more close to the real corrosion situation under the protect these structure materials. There are many methods described in ASTM
+
+better anti-corrosion ability than polyurethane resin and acrylic resin has the worst protective ability. Compared with the results obtained from salt spray test, both methods show satisfactory correlation. However, the time need for test under the tidal zone simulation is shorter than that for salt spray test. Keywords: tidal zone simulation, organic coating, coating corrosion behaviour
+
+Introduction
+Structures in natural environment experience temperature and humidity changes no matter for the short-term day to night period or the long-term four seasons' period which gives different degree of corrosion problems. Compared to atmospheric or aqueous corrosion, offshore structures in tidal zone have encountered much severe corrosion problems [1,2]. At most of the cases, organic coatings are used to protect these structures [1]. Although there are many standard methods for the evaluation of organic coatings, such as salt spray test [3], adhesion test [4,5], Blistering test [6], etc... Salt spray test has been a good measure of film quality. Films with good adhesion are important in the protection of substrate. If films are not scored in salt spray tests, it often reflects the presence of pores or channels in the coatings for corrosion failure [ 7 , 8 ]. Besides, Funke has noted that electrochemical testing has gain considerable attention and consequently is highly recommended for the characterization of the protective properties of organic coatings [ 9 ]. El-Mahdy has also mentioned that electrochemical investigate electrochemical and corrosion systems [10]. No matter how, the testing results of the mentioned techniques only show the corrosion behaviour of the specimen under the tested environment and do not reveal the real situation of corrosion of the organic coatings in the environment under usage. In this case, the testing method will be inappropriate for the evaluation of organic coatings along especially in a seriously corrosive environment such as the tide wave zone. The major purpose of this work is to investigate the influence of the
+2
+
+impedance spectroscopy (EIS) is now established as a powerful technique for
+
+environment, simulated tidal zone in this case, to organic coatings and the
+
+possible mechanism of the corrosion process. The work involves the
+
+evaluation of the corrosion behaviour of acrylic, epoxy and polyurethane coated carbon steel specimens under simulated tidal zone. Salt spray tests were also performed for these specimens as reference.
+
+Experimental
+A schematic diagram of the experimental procedure was shown in Figure 1. The detailed procedure is described as follows:
+
+Figure 1. Expereimental Procedure Preparation of samples The specimens were prepared by applying acrylic, epoxy or polyurethane resin on Sa 2½ blast-cleaned [11] low-carbon steel substrates, which had been applied for three different thicknesses, 60, 100 and 200µm. previously cut to the dimension of 70×50×6mm3. Each coating has been
+
+3
+
+The tidal zone simulated cycle The tidal zone is simulated using a 100×30×20cm3 acrylic tank with artificial sea water [ASTM D1141-9] as shown in Figure 2. The specimens were set facing forwards, which is parallel to the flow direction of the water. The volume of artificial sea water is 32 litres when the specimens are totally immersed in water, the rate of water inlet and outlet is controlled both at 1000ml/min by two magnetic valves with laminar flow. The water filling and drain periods are both 30minutes and the specimen
+
+was totally immersed in water for 90minutes during the wet-period and dried in air for 90 minutes during the dry-period as well. A complete cycle takes 4 hours and there will be 6 cycles per day.
+
+Figure 2. Tidal Zone Simulation Apparatus Salt spray test Salt spray test was carried out according to ASTM B-117-95 standard. The
+
+salt solution is 5 ± 1% sodium chloride aqueous solution. The pH value of the
+
+salt solution is 6.5-7.2 at 35°C. The specimens are examined according to ASTM D-610, ASTM D714 and ASTM D1654 standards for appearance, rusts and blisters.
+
+4
+
+Specimen examination The specimens were examined at the beginning and the 7th, 15th, 30th, 45th, 60th and 90th days of the tidal zone simulation by electrochemical test morphology in order to understand the corrosion mechanism of the coatings. The electrochemical tests include the measurement of open-circuit potential (OCP) and the electrochemical impedance analysis. The impedance measurements were carried out, when the open-circuit potential became steady, at 10kHz to 1mHz with an amplitude of 20 mV. and scanning electron microscopy (SEM) with EDX for the cross-sectional
+
+Results and Discussion
+Corrosion of acrylic resin under simulated tidal zone From the surface morphology, red rusts were observed after 180 cycles of tidal wave simulation test for the specimens with coating thickness of 60 and 100 µm, however, red rusts were observed after 270 cycles for specimen with coating thickness of 200 µm. The coatings were observed to break and peel off after 360 cycles for the specimens with coating thickness of 60 and 100 µm and 540 cycles for specimen with coating thickness of 200 µm. The cross-sectional morphology as shown in Figure 3 shows that the thickness of the acrylic coating was decreased around one third for specimen with coating thickness of 60 µm after 540 cycles. The result of element analysis also shows that chlorine, which was not found in the coating before the tidal wave simulation test, was found in the coating after 540 cycles. This means that chloride ion in the solution could diffuse into the acrylic coating layer during the tidal wave simulation test, which may contribute to the deteriorate or break down of the coating.
+
+Titanium oxide coating coating
+5
+
+40 µm
+
+crack
+
+15 µm
+
+(a)
+
+(b)
+
+Figure 3. The cross-section morphology of acrylic resin coated specimen with cycles of the tidal wave simulation test.
+
+coating thickness of 60 µm at (a) the beginning and (b) after 540
+
+From the results of impedance measurement, the relationship of the resistance and capacitance of the coating versus time are shown in Figure 4. It shows that the resistance of the coating was decreased as the tested cycles increase, which may be due to the diffusion of water or ions into the coating layer. This phenomena were also observed at the specimens with coating thickness of 100 and 200 µm.
+
+The capacitance of the coating was increased during the tidal wave simulation test. In Figure 4, a suddenly increase of capacitance was observed, which was correlated with the time when red rust, blister or even the break down of coating was observed. The initial increase of capacitance could be attributed from the water which diffused into the coating. As the water or ions reaches the substrate, severe corrosion occurs. The corrosion of substrate will dramatically change the capacitance of the specimen.
+
+6
+
+(a)
+Figure 4.
+
+(b)
+
+The relationship of (a) resistance and (b) capacitance versus time of acrylic coating with coating thickness of 60 µm.
+
+Corrosion of epoxy resin under simulated tidal zone From the surface morphology, red rusts were observed after 180 cycles of
+
+tidal wave simulation test for the specimens with coating thickness of 60 µm, 360 cycles for the specimens with coating thickness of 100 µm and 540 cycles for specimen with coating thickness of 200 µm. Small blisters were observed after 360 cycles for the specimens with coating thickness of 60 and became more and bigger after 540 cycles. For specimen with coating thickness of 100 µm and 200 µm, no blister was found at the end of the testing period.
+
+thickness of the epoxy coating was decreased around one fourth for specimen
+
+The cross-sectional morphology as shown in Figure 5 shows that the
+
+with coating thickness of 60 µm after 540 cycles. The result of element analysis also shows that chlorine, which was not found in the coating before the tidal wave simulation test, was found in the coating after 540 cycles. This also means that chloride ion in the solution could diffuse into the epoxy coating layer during the tidal wave simulation test, which may contribute to the deteriorate or break down of the coating. However, the interface of epoxy simulation test. coating and low-carbon steel substrate still remains intact after the tidal wave
+
+7
+
+coating
+
+coating
+
+30µm
+
+20µm (b)
+
+(a)
+Figure 5.
+
+The cross-section morphology of epoxy resin coated specimen with cycles of the tidal wave simulation test.
+
+coating thickness of 60 µm at (a) the beginning and (b) after 540
+
+From the results of impedance measurement, the relationship of the shows that the resistance of the coating was decreased as the tested cycles increase, which may be also due to the diffusion of water or ions into the coating layer. This phenomena were also observed at the specimens with coating thickness of 100 and 200 µm. resistance and capacitance of the coating versus time are shown in Figure 6. It
+
+The capacitance of the coating was increased during the tidal wave simulation test. In Figure 6, the increase of capacitance was observed to be inverse proportional to the thickness of the coating but all reach a steady value after several cycles.
+
+(a)
+8
+
+(b)
+
+Figure 6.
+
+The relationship of (a) resistance and (b) capacitance versus time of epoxy coating with coating thickness of 60 µm.
+
+Corrosion of polyurethane resin under simulated tidal zone From the surface morphology, white corrosion products were observed
+
+after 42 cycles of tidal wave simulation test for the specimens with coating 100 µm. Red rusts were observed after 90 cycles for the specimens with
+
+thickness of 60 µm and 90 cycles for the specimens with coating thickness of coating thickness of 60 µm and 180 cycles for the specimens with coating thickness of 100 µm. Only white corrosion products were found for the specimens with coating thickness of 200 µm at the end of the testing period. The result of XRD analysis shows that the composition of the white corrosion products are ZnO, Zn(OH)2 and Zn5(OH)8Cl22H2O. The cross-sectional morphology as shown in Figure 7 shows that the specimen with coating thickness of 60 µm after 540 cycles and crack was also thickness of the polyurethane coating was decreased around one fifth for
+
+The result of element analysis also shows that chlorine, which was not found in the coating before the tidal wave simulation test, was found in the coating after 540 cycles. This means that chloride ion in the solution could diffuse into the polyurethane coating layer during the tidal wave simulation test, which may contribute to the deterioration or break down of the coating.
+
+found at the interface of polyurthane coating and low-carbon steel substrate.
+
+Zn Zn coating 35µm
+crack
+
+coating
+
+15µm
+
+(a)
+9
+
+(b)
+
+Figure 7. The cross-section morphology of polyurethane resin coated (b) after 540 cycles of the tidal wave simulation test.
+
+specimen with coating thickness of 60 µm at (a) the beginning and
+
+From the results of impedance measurement, the relationship of the shows that the resistance of the coating was also decreased as the tested cycles increase, which may be also due to the diffusion of water or ions into the coating thickness of 100 and 200 µm. coating layer. These phenomena were also observed at the specimens with resistance and capacitance of the coating versus time are shown in Figure 8. It
+
+(a)
+Figure 8.
+
+(b)
+
+The relationship of (a) resistance and (b) capacitance versus time of polyurethane coating with coating thickness of 60 µm.
+
+The capacitance of the coating was increased during the tidal wave inverse proportional to the thickness of the coating and all reach a steady value after several cycles except for the specimens with coating thickness of 60 µm. simulation test. In Figure 8, the increase of capacitance was observed to be
+
+Corrosion of different coatings under simulated tidal zone The relationship of resistance and capacitance versus time of acrylic, epoxy and polyurethane coatings are shown in Figure 9. Acrylic coating has obviously lower resistance than epoxy and polyurethane coatings, which might
+10
+
+be explained the worst corrosion protection of acrylic coating. Together with coating; the capacitance also increase a lot in the beginning of the test for
+
+the capacitance changes, it goes a sudden increase after 180 cycles for acrylic polyurethane coating. However, the capacitance of epoxy coating almost remains the same during the testing period. As described, the changes of resistance and capacitance are both related to the diffusion of water or ions into the coating layer. Therefore, coatings with higher resistance for the diffusion of water or ions could provide better protection ability for the substrate. Instead of the selection of different coatings, the increase of coating thickness could be also provide a better protection for the substrate.
+
+(a)
+Figure 9. coatings with coating thickness of 200 µm.
+
+(b)
+
+The relationship of (a) resistance and (b) capacitance versus time of
+
+Comparison of tidal zone simulation and salt spray tests' result The comparison is based on the time when red rust or blister was first coating, the time when red rust or blister was first observed is the same. However, the time became longer for epoxy and polyurethane coatings especially for epoxy coating. In this case, many of the high performance coatings nowadays would become inappropriate to be evaluated by salt spray testing method. observed on the surface of the specimen, which is shown in Table 1. For acrylic
+
+Test
+Corrosion Product Coatings
+
+Tidal Zone test
+11
+
+Salt spray Test
+
+Red rust Acrylic resin 200µm Epoxy resin 200µm PU resin 200µm 30 90 60
+
+Blister 60  
+
+Red rust 30  90
+
+Blister 60  
+
+Table 1. The time when the corrosion of specimen was observed (in days). Conclusion It was observed that tidal zone simulation test could provide a environment, in which the traditional corrosion-monitoring method such as salt spray test can not achieve, to evaluate the high performance coating systems. The monitoring of impedance and corrosion potential are also very useful for estimating the time of underlying steel corrosion. The monitoring of impedance and corrosion potential together with the tidal zone simulation test would be a very powerful technique to understand the corrosion behaviour of high performance coating systems.
+
+12
+
+References
+
+1 K. Barton, `Protection Against Atompspheric Corrosion Mechanisms,' p.165, Marcel Dekker, New York, 1987.
+
+2 H. E. Townsend, L. Allegra, R. J. Dutton, and S. A. Kriner, Materials
+
+Performance, 25, 8, p. 36, 1986.
+
+3 ASTM B117-97 Standard Practice for Operating Salt Spray (Fog) Apparatus. 4 ASTM D4541-95 Standard Test Method for Pull-Off Strength of Coatings Using Portable Adhesion. 5 ASTM D3359 Standard Method for Measuring Adhesion by Tape Test 6 ASTM D714-87 Standard for Evaluating Degree of Blistering of Paint. 7 A. Mercurio and R. Flynn, J. Coat. Tech., 51, 45, 1979. 8 Grouke, J. Coating Technology, 49, 69, 1977 9 W. Funke, Progress in Organic. Coatings, 31, 5, 1997. 10 G. A. El-Mahdy, A. Nishikata and T. Tsuru, Corrosion Science, 42, 183, 2000.
+
+11 ISO 8501: Preparation of steel substrates before application of paint and related products. Visual assessment of surface cleanliness. Part 1-Rust grades and preparation grades of uncoated steel substrates, ISO, Geneva, Switzerland, 1988.
+
+13
+

@@ -1,0 +1,173 @@
+Volume 6 Paper C042
+
+Corrosion in Hot Gas Converters of Sulphuric Acid Plant
+M.B. Ives, K.S. Coley and J. Rodda Walter W. Smeltzer Corrosion Laboratory, McMaster University, Hamilton, Ont. L8S 4L7 Abstract Weight loss measurements on a range of austenitic stainless steels exposed for up to three years in the hotter sections of SO2/SO3 converters of sulphuric acid plants are compared with the behaviour of similar steels in laboratory-controlled gravimetric experiments in simulated sulphur-containing atmospheres. The plant data indicate that the alloy currently in common use, S30409, exhibits accelerated corrosion above 630°C. However, the microstructure is quite stable, with only some sensitization evident in the periods under study. High silicon stainless steels are shown to have superior corrosion resistance at all operating temperatures, but microstructural variations, such as the precipitation of silicon-rich phases, suggest the need for additional mechanical property analysis on the exposed alloys. Microstructural examination of the scales formed on the alloys after plant exposure indicate that S30409 corrodes by the formation of a sulphate phase which is not protective. The high-silicon alloys demonstrate superior corrosion resistance which is attributed to a silicon-rich phase at the oxide-metal interface. Keywords Sulphuric acid production, hot gas converter, sulphur dioxide, stainless steels, silicon effects
+
+Introduction Many sulphuric acid plants in Canada use the off-gas from metal smelting operations. Corrosion of the hot gas converter heat exchangers, main body and catalyst support systems has been found to produce significant quantity of scale in the gas stream, requiring regular screening of the catalyst beds, sometimes at higher frequencies than regular scheduled maintenance. Converter and Configuration Heat Exchanger
+
+The hot gas converter system is designed to optimize the reaction whereby SO2 is converted to SO3. It is a system of vessels which consists of the Figure 1. Schematic of a Converter converter, usually containing four beds and Hot Heat Exchanger of V2O5 catalysts, with heat exchangers located after each catalyst bed, which utilise the heat of the reaction to preheat the incoming gas to the reaction temperature, and cool the reacted gas. A schematic is shown in Figure 1. For simplicity only the one of the heat exchangers is shown. This heat exchanger is located in the gas stream directly after the 1st bed, where the majority of the conversion takes place, the majority of heat is generated, and thus is called the `hot' heat exchanger. It is the only process vessel between the 1st and 2nd catalyst beds, and therefore the tubes of this heat exchanger, along with the 1st bed support structure and the associated gas ducts, represent the sources of the scale which foul the catalyst bed. The photograph in Figure 2 shows the bottom vestibule of the hot exchanger with some loose scale clearly visible in the tubes. In the plant where the 2nd and 3rd bed fouling is the most serious, the materials of construction are AISI 304H for the converter vessel walls, ducting and heat exchanger, while AISI 321 was used as the support screen for the catalyst bed.
+
+Figure 2 The Alloy Coupon Programme
+
+Over the last few years, a series of (stainless steel) alloys were mounted on racks and mounted within the hot gas converters. The programme called for two coupon racks of alloys to be
+
+inserted into each of five Canadian acid plants. One coupon rack would be placed at the exit of the first catalyst bed (the hottest region of the converter), and one in the gas stream before it enters the second catalyst bed. It was supposed that the gas content would be the same at these two locations, with gas temperature the only variable. Additionally, in one plant a coupon rack was placed below the 2nd pass to obtain an intermediate temperature. The access to the converter is limited to the normal operating cycle of the plant. The converter is only opened for catalyst screening, which is scheduled to coincide with the maintenance shut-down of the smelter. These shut-downs are not always scheduled annually, but are taken when required. This meant that the coupons would be installed at one shutdown and removed at the next, and the duration of the exposure was fixed by the plant operations. A summary of the actual exposure periods is provided in Figure 3.
+
+Figure 3, Coupon rack exposure program. Stainless Steels Studied Table 1 lists the alloys used in this project, along with the detailed compositions for each alloy from the mill specifications provided by the steel supplier. TABLE 1, Composition of Alloys
+
+AISI - Trade & Heat No. 304H-32562-4A 304H-576370 321H-461740 321H-383153 309-82451-4D 310-84062-2A 33-55027
+KHR 35H.HiSi
+
+UNS No. S30409 S30409 S32109 S32109 S30900 S31000 R20033 S31254
+
+253MA 45TM-31854 RA85H- 045908LL1 1815LCSI- 20919 A611-R32916 A611-R31670 2509- 66009
+
+S30600 S30601 S30601
+
+Cr Ni Mn Si Mo C N Cu Other 18.27 8.24 1.57 0.37 0.36 0.050 0.060 0.41 18.43 8.53 1.35 0.45 0.058 0.057 0.3-0.5 Ti 17.14 9.05 1.25 0.43 0.34 0.044 0.010 0.4 Ti 17.23 9.12 1.43 0.62 0.043 0.013 22.41 12.23 1.67 0.44 0.34 0.060 0.080 0.22 25.32 19.26 1.50 0.53 0.32 0.040 0.030 0.24 32.75 31.35 0.63 0.3 1.49 0.012 0.4 0.54 25.00 35.00 1.50 1.75 1.5 0.450 21.00 11.00 0.80 1.75 0.080 0.180 27.50 46.75 0.31 2.70 0.100 0.05 0.08Ce 18.53 14.73 0.31 3.61 0.01 0.204 0.006 0.01 0.8 Al, 0.0005B, 0.01 Nb 18.25 15.40 1.39 4.35 <0.01 0.005 0.011 17.30 17.33 0.61 5.26 0.010 0.017 17.25 17.21 0.70 5.17 0.004 0.017 9.25 24.55 1.40 7.05 0.007
+
+In addition some experimental surface-alloyed samples were produced using a pack cementation technique, which diffused aluminum and silicon into the surfaces of 304H samples. Plant Operating Data Operating data was collected from the plants in hourly averages for the full exposure periods. This included the temperatures, above and below the catalyst beds where the racks were exposed, and the %SO2 and %O2 gas contents entering the plant. This data provided information on the number of shutdowns and temperature excursions occurring during each exposure period. Histograms of the data were prepared to obtain averages for the temperatures and observe the spread in temperature. Since the exposure durations were quite long, much of the scale had spalled by the time of sample removal. Therefore the samples were cleaned of all retained scale using a glass bead blast, and the corrosion rate was calculated from the weight loss data. Corrosion Rates Measured The "1 year" corrosion rates as a function of temperature are summarized below for all the samples in all the plants, for S30409 (Figure 4a), alloys with higher chromium and nickel content (Figure 4b), and for the "high silicon" alloys (Figure 5).
+
+7 6 Corrosion Rate, mpy 5 4 3 2 1 0 400
+
+450
+
+500
+
+550
+
+600
+
+650
+
+Temperature, C
+
+Figure 4a, Corrosion of S30409 as a function of temperature, 1 year exposures
+
+7 6 Corrosion Rate, mpy 5 4
+
+It 3 that all 2 alloys in Figures 1 4b exhibit d 0 n rates 400 450 500 550 600 600°C, Temperature, C increasin chromium S30900 S31000 R20033 nickel Figure 4b. Corrosion of tested alloys high in chromium and nickel. is not at these higher operating temperatures.
+
+650
+
+is clear t h e included 4A and increase corrosio above and that g the a n d contents effective
+
+The corrosion rates of the alloys containing more than 1% silicon are substantially better at the higher temperatures, as seen in Figure 5. The influence of the amount of alloyed silicon in the alloys is shown in Figure 6.
+
+7 6 Corrosion Rate, mpy 5 4 3 2 1 0 400 253MA
+
+450
+
+500 550 Temperature, C RA85H A610
+
+600 A611
+
+650 2509
+
+Figure 5, Corrosion of high Silicon alloys, 1 year exposures.
+7.0 6.0 Corrosion Rate, mpy 5.0 4.0 3.0 2.0 1.0 0.0 0.0 1.0 2.0 3.0 % (wt) Si 4.0 5.0 6.0 High C Alloy, Sensitized Ni Base Alloy
+
+Figure 6. Effect of alloyed silicon on corrosion rates at 635°C, (2-year exposures) It is clear that increasing silicon increases the corrosion resistance. However, for effective application it is important to appreciate the mechanical behaviour of the Si-containing alloys, since silicon is frequently considered an embrittling species in iron-base alloys.
+
+In order to clarify the time dependence of corrosion rates, it is instructive to superimpose the rate measurements from 1, 2, and 3 year exposures in a given plant. These are shown graphically in Figures 7 (for samples placed at the lower temperature, 420°C) and Figure 8 (for samples at
+
+0.10 Weight Loss/Area, g/cm
+2
+
+0.08 0.06 0.04 0.02 0.00 0 5000 10000 15000 20000 25000 30000 Elapsed Time, hours 304H year 1 304H 2 years Add year 1+ 2+ 3 304H year 2 304H 3 years 304H year 3 Add year 1 + 2
+
+Figure 7, multiple years exposure for S30409 at 420°C, above bed 2 620°C).
+
+0.30 Weight Loss/Area, g/cm
+2
+
+0.25 0.20 0.15 0.10 0.05 0.00 0 5000 10000 15000 20000 25000 30000 Elapsed Time, hours
+304H year 1 304H 2 years Add year 1+ 2+ 3 304H year 2 304H 3 years 304H year 3 Add year 1 + 2
+
+Figure 8, Multiple years analysis for S30409 at 620oC, below bed 1
+
+Conclusions from the Coupon Exposure Measurements The results summarized above indicate that the corrosion rate of the alloy currently the most commonly used in converters, S30409, and other stainless steels with higher content of chromium and nickel, experience significant corrosion above about 625°C (Figure 4), suggesting a prime cause of bed fouling when converters are operated above this temperature. The silicon-containing alloys exhibit much lower corrosion rates at these temperatures (Figure 5), with even better performance as the Si alloy level is increased (Figure 6), suggesting good alloy candidates for future plant, assuming their mechanical properties are acceptable. In this regard the creep strength of S30600 alloy, containing over 4% Si, has been determined1 to be quite similar to S30409. The multiple-year comparisons suggest that at the lower temperatures, corrosion rates decrease with time over a 3-year period such that superpositioning the rates for the individual years sum to much less than the measured rate of the 2- and 3-year samples (Figure 7). However, at the higher temperature (Figure 8) the superpositions indicate a better correlation among the multi-year samples. One conclusion2 from this observation is that spalling of the scales occurs within one year at the higher temperature so that each sample is regularly reduced back to "bare" metal, whereas at the lower temperature, the scale is more adherent. The topic of scale spalling will be discussed further below. Scale Microstructure Samples removed from the exposed racks, after cleaning of the scale, were metallographically prepared to determine microstructural modification occurring during exposure. The stainless steel samples were etched by swabbing with a modified "Glyceregia" etchant3. The following micrographs were originally obtained at 320X magnification. Figures 9-12 suggest some grain boundary "sensitization" over the 3-year period, but no changes which might suggest significant degradation of mechanical performance.
+
+Figure 9. S30409 not exposed in plant
+
+Figure 10. S30409, 1 year at 635°C
+
+Figure 11. S30409, 2 years at 635°C
+
+Figure 12. S30409, 3 years exposure at 635°C
+
+Similar micrographs for the 5% Si alloy S30601 after shown in Figures 13 to 16. The high silicon content appears to modify the microstructure significantly after 3-years exposure on the same racks as the S31609 coupons shown above. Figure 16 indicates a profound change in the alloy, presumably by the precipitation of a Si-rich phase which is readily etched. This alloy also exhibits a distinctive subscale below the exposed surface.
+
+Figure 13. S30601, unexposed
+
+Figure 14. S30601, 1 year at 635°C
+
+Figure 15. S 30601, 2 years at 635°C
+
+Figure 16. S30601, 3 year at 635°C
+
+The development of new phases in the high Si alloys is also demonstrated in Figures 17 and 18, for the 4% alloy S30600. A distinct Widmanstätten structure has developed in this alloy, in addition to the subscale.
+
+Figure 17. S30600, 1 year exposure at 625°C.
+
+Figure 18. S30600, 3 year exposure at 625°C, (lower magnification)
+
+Pottable samples for scale metallography
+
+Figure 19. Rack of "metallographic" samples after exposure for 1 year above Bed 2 (high temperature) in Plant A In an effort to retain the scale on the alloys at the end of a campaign, a set of small samples were installed on the rack shown in Figure 19. Immediately on removal from the converter the samples were potted in curable resin to permit sectioning and metallographic examination back in the laboratory. As is seen from the Figure, significant scaling still occurred, although some of the scale seen above originated from the holder plate. Despite difficulties in retaining the scale, conditions within the wet acidic atmosphere within the potting, and in moisture pickup on transfer to the scanning electron microscope, some complete scale structures were observable. Typical scales are seen in Figure 20, for S30409 and Figure 21, for S30601.
+
+Figure 20. Scale structure on S30409 after 1 year at 625°C (marker is 200:m)
+
+Figure 21. Scale structure on S30601 after 1 year at 625°C (marker is 200:m)
+
+Recalling the significant difference in corrosion rate for these two alloys at this temperature, the scale on the high silicon alloy (Figure 21) is compact, probably with an unresolved barrier layer close to the metal. The scale on the low alloy sample (Figure 20) is much thicker and shows a clear gap at the scale/alloy interface, suggesting spalling ­ probably during the cool-down period. X-ray diffraction analysis of these scales suggested they comprise both oxides and sulphates, but no sulfides. Table 2 provides a simple breakdown of the phases detected in the two alloys. after plant exposure to a gas containing 11% SO3 at 635°C for 26,000h. Table 2: X-ray diffraction analysis of scales on S30409 and S30601 M2O3 S30409 S30601 major minor M2(SO4)3 major major sulphides absent absent
+
+Scaling Kinetics Determined in the Laboratory In order to better understand the oxidation processes occurring in the converters, a parallel study has been made in the laboratory, using a gravimetric balance to continuously monitor sample mass, and thereby determine corrosion kinetics. SO2 was added to the gas stream and a gold wire was installed near the sample in order to aid the conversion to SO3. Figure 22 summarizes the weight gain data for S30409 at four temperatures, plotted on scales to demonstrate parabolic kinetics. The largest oxidation was observed at 620°C. At 720°C the rate has been reduced.
+2 (Weight gain) , (mg /cm )
+4
+
+620
+
+2
+
+1.5 720
+
+2
+
+1
+
+0.5
+
+520 420 0 50 Linear (620C) Linear (420C) 100 Time (Hours) Linear (720C) Linear (520C) 150 200
+
+0
+
+Figure 22, Parabolic plot of the weight gain for S30409 at four temperatures in 7% SO2
+
+Weight gain (mg2/cm4)
+
+Figure 23 shows the kinetic data2 in 7% SO2 at 620°C for the two alloys of interest. The S30409 alloy shows an initially linear rate followed by an increase ("breakaway") after 150h. The S30601 alloy exhibits a significantly lower reaction rate, consistent with the observations of scale structure. Because of the large difference in time scale, direct comparison of the short laboratory runs with the much longer field exposures is not possible. However, the trends of the two observations are consistent.
+
+12 10 8 6 4 2 0 0 100 S30409 200 300 Time (hours) S30601 Linear (150 hrs) 400 500 600
+
+Figure 23 It is also probable that thermal cycling in the plants, caused by both routine and unexpected shutdowns, exacerbates the corrosion situation by producing additional opportunities for spalling at the relatively weak scale/metal interfaces. The detailed frequency of major temperature changes has been recorded for all plants, and there is some relationship between these events and larger corrosion rates. Such temperature cycling is probably more significant than plant to plant variations in gas stream SO2 contents. This has recently been demonstrated in the laboratory4. Figure 24 shows oxidation kinetics obtained from three samples of S30409 alloy placed in a tube furnace with 7% SO2 and a gold catalyst. One sample was removed and weighed after 120h, and another after a total exposure time of 520h. The third sample was removed from the furnace every 24h, cooled to room temperature and mass determined before being replaced into the furnace. The first two samples provide the "isothermal oxidation" kinetics, and the other (eight) measurements provide the "cyclic oxidation" curve after successive removals and reheats.
+
+4.5 4.0 Weight Gain (mg/cm2) 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0 0 100 200 300 400 Exposure Time (hrs) 500 600 Cyclic Oxidation (24hrs) Isothermal Oxidation
+
+Figure 24
+
+It is clear that temperature interruptions significantly increase the weight changes, supporting the importance of plant down times on the corrosion behaviour of S30409.
+
+The observations from another cycling experiment is shown in Figure 25. All weight changes in this plot are the result of 24h thermal cycling between 620°C and ambient. This data show that SO2 is necessary for the spalling effect. Cycling in air for 200h without sulphurcontaining species causes less than 2% of the weight gain when SO2 is present.
+
+4.5 4.0 Weight gain (mg/cm ) 3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0 0 50 100 150 200 Exposure Time (hrs) 250 300 7%SO2 Air
+2
+
+Figure 25 Discussion The plant and laboratory data show that in conditions typical of sulphuric acid converters the corrosion of alloy S30406 (or 304H) proceeds by the formation of a duplex scale, the outer layer consisting of a mixed iron-chromium-sulphate and the inner layer mainly iron chromium oxide with either sulphide or sulphate dispersed through the scale. The X-ray diffraction data suggests that the sulphur in the inner scale arises from sulphate. Clearly, the experimental evidence of a sudden drop in reaction rate above 620°C, when the temperature exceeds that for the stability of iron and chromium sulphate, emphasizes the importance of sulphate in the corrosion mechanism. This importance has also been demonstrated by others5,6, but it was also found that the kinetics were only rapid if a mixed oxide-sulphide layer existed below the outer sulphate. There was no direct evidence for such a layer in the current work. However the presence of sulphide was indicated by the evolution of hydrogen sulphide when the scale was dissolved in nitric acid. The reaction kinetics follow an essentially linear relationship in the plant and are approximately parabolic in short term laboratory experiments. There is some consistency between the laboratory and plant data if one considers that breakaway corrosion occurs after about 500h at 620°C. This would lead to approximately linear behaviour over 26,000h. If we assume that the onset of breakaway is much later at 420°C, probably after one year, we would expect to observe an increase in rate over a three year period at this temperature. Also if the corrosion is on the cusp between breakaway and protectiveness at 420°C, we would expect to find a certain amount of scatter in the plant data depending on minor plant to plant variations. Indeed this scatter is observed in Figure 4.
+
+Conclusions 1. In sulphuric acid converters, the stainless steel S30409 corrodes via iron-chromium-sulphate formation. The kinetics are parabolic in the early stages but undergo breakaway to a linear rate law over longer periods. Operating hot gas converters at temperatures constantly in excess of 620°C will require higher alloys to reduce the corrosion rates. Alloyed silicon is shown to decrease the corrosion rate by up to an order of magnitude.
+
+2.
+
+Examination of the scales on the high-silicon alloy, S30601, indicate that this decrease in rate may be due to a thin silicon rich oxide formed at the scale/alloy interface. Acknowledgments This research was funded by the Natural Sciences and Engineering Research Council of Canada under a Cooperative Research and Development Grant, and contributed to by a consortium comprising Cecebe Technologies Inc, Teck-Cominco Ltd, Falconbridge Ltd, Inco Ltd, Kubota Metal Corporation, NORAM Engineering and Constructors Ltd, and Noranda Inc. The authors also wish to thank Avesta Polarit and Thyssen Marathon for supplying the alloy samples; Sladjana Zdero for much of the sample preparation and metallography; Khaled Draou and Weiguo Yang for the laboratory kinetic data. References 1. 2. 3. 4. 5. 6. J. Magnan, Kubota Metal Corporation, unpublished research. K. Draou et al. in Proceedings, 15th International Symposium on Corrosion, p. Modified Glyceregia: Mixed in order: 3 drops of glycerol, 10 mls Acetic Acid, 15 mls HCl, 10 mls HNO3 Weiguo Yang, M.Eng., unpublished research, McMaster University, 2002. K.P. Lilerud, B. Haflan and P. Kofstad, Oxidation of Metals, 21, p.119 (1984) A. Andersen and P. Kofstad, Corros. Sci. 24, p.731 (1984)
+

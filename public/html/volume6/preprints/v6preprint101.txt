@@ -1,0 +1,361 @@
+Volume 6 Paper H061 Corrosion Behaviour of Chromium Steels for Interconnects in Solid Oxide Fuel Cells
+Thomas Fich Pedersen, Peter B. Friehling, Jørgen B. Bilde-Sørensen, Søren Linderoth
+
+Materials Research Department, Risø National Laboratory, DK-4000 Roskilde, Denmark, Thomas.Fich@risoe.dk
+
+Abstract
+The corrosion behaviour of two recently developed 22% Cr-steel alloys, JS-3 from Krupp-Thyssen and ZMG232 from Hitachi Metals, have been compared with a commercial 21% Cr steel St 1.4509. The two former steels have been specially developed for application in SOFC. The materials have been exposed to air (air + 1%H2O) for 670 hours at temperatures ranging from (SEM) combined with Energy Dispersive X-ray (EDX) spectroscopy to determine the composition and the degree of delamination of the scale as well as the rate of corrosion. The results have shown that St 1.4509 and ZMG232 form a SiO2 layer between the chromia scale and the metal substrate under the present test conditions. This layer does not form in the JS-3 steel, which may be the reason for the better contact resistance observed by others [#ref7]. The content of Mn has the beneficial effect of forming a Cr,Mn spinel layer on top of the Cr2O3. This layer reduces the Cr evaporation from the surface and acts as a contact layer in the SOFC stack. 750-950°C. The samples were examined by Scanning Electron Microscopy
+
+Keywords: Interconnect, chromium steel, high temperature oxidation, SOFC, fuel cell
+
+Introduction
+Metallic interconnect components for solid oxide fuel cells (SOFC) have very demanding specifications. They should be electrically conducting at high
+
+temperatures from 750°C to 950°C, they should be able to connect electrically to the other components, they should fit the thermal expansion coefficient of the other materials of the cell and they also have to be stable in both oxidising and reducing environments. This reduces the number of candidate materials considerably. Ferritic stainless steel with Cr content
+
+around 20-25wt% have been suggested because of the reasonably good fit in thermal expansion coefficient to the YSZ electrolytes used in SOFC (TEC of have additions of Si or Al, which form electrically insulating layers. This is detrimental for the function of the fuel cell. Pure Cr steels have too high oxidation rates and they also have a tendency to scale spalling, thereby destroying the good electrical contact. In the present work the corrosion behaviour of two different recently developed 22% Cr-steel alloys, JS-3 from Krupp-Thyssen and ZMG232 from Hitachi, have been compared with a commercial 21% Cr steel St 1.4509. The two former steels have been specially developed for application in SOFC. 10-1110-6 K-1) 1. However, most commercial alloys for high temperature use
+
+Experimentals
+The three steel types, which have been examined in this work, are designated ZMG232, JS-3 and St 1.4509 respectively. ZMG232 is developed and delivered by Hitachi Metals, JS-3 is a model steel developed by Forschungszentrum Jülich and delivered by Krupp-Thyssen and St 1.4509 is a commercial 21% Cr steel. The composition of the two commercial steel types is given in Table 1. JS-3 is a Fe/Cr/Mn steel with a low content of Mn, Ti and La [#ref7]
+Steel type Fe Cr
+
+Mn
+
+Si
+
+Ni
+
+Al
+
+N
+
+V
+
+Ti
+
+ZMG232 74.3 22 0.51 0.43 1.3
+
+0.24 0.004
+
+st1.4509 77.1 20.9 0.42 0.54 0.26 <0.01 0.019 0.05 0.12 Table 1 Composition (wt%) of the examined steel types given by the suppliers.
+
+Samples with dimension 15x20x2 mm (for JS-3 and ZMG232) and 20x15x1.5 mm (for st 1.4509) were exposed to an atmosphere of air and 1% H2O in a furnace at temperatures of 750°C, 800°C, 850°C and 900°C for 670 hours. Prior to the oxidation tests the samples were polished to a surface finish of 1200 grit and cleaned with acetone in an ultrasonic bath. The atmosphere in the furnace was controlled by flushing the furnace continuously with air that 2
+
+was bubbled through micropore-filtered water with a temperature of 7°C. bottle in a refrigerator.
+
+The temperature of the water was controlled by keeping the water in a glass
+
+The weight gain of the samples due to oxidation was measured by weighing the samples before and after the exposure on a high precision scale. The samples were mounted in epoxy and cut to produce cross sections that were polished and coated with a thin layer of carbon. The cross sections were then analysed by SEM and EDX to evaluate the oxidation mechanisms. The samples were examined in a JEOL LVSEM JSM-5310LV running in high vacuum mode, equipped with a Noran Quest EDX attachment.
+
+Results
+Oxidation rate The oxidation rate expressed as weight gain per area is shown in Figure 1. With the assumption of a parabolic growth rate of the scale as suggested by Wagner [2], the parabolic constant Kp can be calculated according to:
+
+ M   = Kp t  A
+
+2
+
+eq. 1
+
+parabolic constant and t is the time.
+
+Where M is the weight gain, A is the surface area of the sample, Kp is the
+
+The assumption of parabolic growth (eq.1) seems reasonable considering
+
+that the scale was rather coherent and dense, and it therefore is reasonable to assume that the growth of the scale is diffusion controlled. Kp is assumed to have an Arrhenius type dependence of the temperature [3]. Spalling was clearly occurring on samples of St 1.4509 at 800°C, 850°C and at 900°C. This causes the abnormal weight gains and therefore it was not possible to calculate a Kp value.
+
+3
+
+Figure 1. Area specific weight gain of the samples after 670 hours at 4 temperatures.
+
+Under the assumption that Kp can be expressed as:
+ EA  -   RT 
+
+KP = A  e
+
+eq. 2
+
+The curve fitting in Figure 2 gives the following values for EA:
+
+Material JS-3 ZMG232
+
+Activation Energy EA (eV) 2.83 2.76
+
+Table 2. Activation energy for the formation of the scale.
+
+4
+
+Figure 2. Plot of Kp vs 1/T under the assumption that (M/A)2=Kpt.
+
+SEM investigation of cross sections
+
+ZMG232 steel
+Cross sections of the ZMG 232 steel after exposure to respectively 750, 800, 850 and 900°C for 670 hours is shown in Figure 3. The images show a coherent scale with good bonding to the substrate alloy. The scale basically has the same structure at all 4 temperatures although it is significantly thinner at the two lower temperatures. At all temperatures there are particles of oxides in the alloy below the scale. The scale has a duplex nature with a top layer consisting of a (Cr,Mn) oxide layer and a bottom layer of Cr2O3. This formation of (Cr,Mn) oxide on the surface is typical of Mn containing Cr steel [4], and it is due to the high diffusion coefficient of Mn in Cr2O3 [5]. Immediately under the scale bottom layer there is a metallic layer apparently enriched in Cr compared with the substrate alloy. The Fe:Cr ratio is approximately 3:4 (atomic), corresponding to 55wt% Cr (see Table 3, Figure 4 and Figure 5). However this is connected with some uncertainty, as it may be a by-effect of the size of the x-ray excitation volume in the EDX probe. The high apparent O concentration in point 6 in Figure 4 seems to indicate this. Nevertheless, the contrast indicates that it is a metallic layer and it is interesting that it forms. It may be the result of a reduction of the 5
+
+Cr2O3 scale by the formation of the underlying layer/particles described next. Under the metallic layer particles of MnCr2O4 are formed as well as an almost continuous layer of SiO2. This combination of a layer of SiO2 and MnCr2O4 and an intermediate layer is not seen in any of the other two materials that are considered in the present work. The region under this layer is characterized by small particles of aluminium oxides.
+
+a)
+
+b)
+
+c)
+
+d)
+
+Figure 3. SEM-BSE micrographs of cross-section of ZMG232 steel after 670 hours exposure at a) 750°C, b) 800°C, c) 850°C and d) 900°C respectively. All images are recorded at the same magnification.
+
+6
+
+Figure 4.
+
+The crosses identify spots where EDX analysis was made. 1 30.31 0 2 64.86 24.45 2.38 7.37 3 Point number 4 79.16 5 3.94 6 71.72 0 7 75.09 0.03
+
+SEM-BSE micrograph of the cross section of ZMG232 steel after 670h at 850°C.
+
+at% O Al Si Cr Fe Ni Zr O
+
+38.06
+
+Mn
+
+15.15 53.73
+
+0.52
+
+0.28 0
+
+6.58
+
+0
+
+11.86 42.35
+
+0.65 0
+
+0.04 12
+
+72.99
+
+3.35 5.21
+
+21.31 1.25
+
+0.22 0.06 1
+
+0.05 0.61 2
+
+0.21 0.29 3
+
+0.16
+
+0.05 0.03 4
+
+0.17
+
+0.26
+
+15.57
+
+0.18
+
+0.04 0.04 5
+
+12.41
+
+0
+
+24.43
+
+0.19
+
+0.08 0.03 6
+
+0.13 0.02 7 48.19
+
+0.1
+
+0
+
+wt% Al Si Cr Fe Ni Zr
+
+11.26
+
+Mn
+
+18.29 69.68
+
+0.34
+
+0
+
+45.13
+
+28.69 5.39
+
+15.92
+
+0.34 0
+
+4.64
+
+55.39
+
+0
+
+16.13 61.83
+
+0.48 0
+
+0.04
+
+59.36
+
+27.28
+
+4.12
+
+30.42 3.31
+
+5.4
+
+43.09
+
+0.13
+
+0.3
+
+17.89
+
+12.53 0.39 0.12
+
+2.43
+
+0.13
+
+0.69
+
+0.32
+
+0.47
+
+0.73
+
+30.4 26.03
+
+0.19
+
+0
+
+0
+
+50.95
+
+0.22
+
+0.04
+
+0.13
+
+0.19
+
+0.12
+
+0.11
+
+0.18
+
+0.23
+
+0
+
+0.08
+
+0.3
+
+Table 3. Composition in the spots marked in Figure 4. The absolute value of the O
+
+component is not realistic, but the value given indicates whether it is an oxide or not.
+
+7
+
+Figure 5. Composition profile of the scale for ZMG232 after exposure to 850°C. Notice the the picture. The thin white line indicates the line along which the profiles were recorded.
+
+rise in Mn concentration at the subscale layer and at the surface of the scale to the right in
+
+JS-3 steel
+The cross-sections of the JS-3 steel samples after exposure are shown in Figure 6. The scale in this sample has a much better connection to the substrate than the scale on the ZMG232 steel. This is due to the formation of metallic globules at the interface between the scale and the alloy. Furthermore, there is no formation of a continuous SiO2 layer under the scale, because of the lower Si content of this alloy. The scale itself has a duplex structure with a top layer consisting of Cr and Mn rich oxide as it was seen for ZMG232 with an atomic Cr:Mn ratio of approximately 1.6 roughly consistent with the spinel MnCr2O4 that have been seen by others particles under the scale are (Al,Ti) oxides. The composition of the different components is illustrated by the element profiles in Figure 7. [#ref4][#ref7] in Fe, Cr, Mn alloys. The bottom layer consists of Cr2O3. The
+
+8
+
+a)
+
+b)
+
+b)
+
+d)
+
+Figure 6. SEM-BSE micrographs of cross-section of JS-3 steel after 670 hours exposure at a) 750°C, b) 800°C, c) 850°C and d) 900°C respectively. All images are recorded at the same magnification.
+
+Figure 7. Element profiles of Mn, Cr, Al and Ti of the scale formed at 850°C in JS-3 steel.
+
+9
+
+St 1.4509
+From the micrographs in Figure 8 it is clear that the scale on steel St 1.4509 has a strong tendency to fracture and spall off, and the scale is significantly thicker than it was for the other two alloys. The scale composition on this steel is again duplex with a Mn rich layer at the surface and a base scale of Cr2O3. The Mn content of this alloy is slightly lower than JS-3 and ZMG232, the total scale thickness as it appears from Figure 8-c and -d. At the
+
+which may be the reason why the top scale layer constitutes a smaller part of interface between the scale and the substrate alloy a layer of SiO2 is formed (see Figure 9) and there are also particles of Cr2O3 formed in the region under the scale.
+
+a)
+
+b)
+
+c)
+
+d)
+
+Figure 8. SEM-BSE micrographs of cross sections of st 1.4509 after 670 hours exposure at a) 750°C, b) 800°C, c) 850°C and d) 900°C respectively. All images are recorded at the same magnification.
+
+10
+
+Figure 9. Element profiles for Mn, Si, and Cr in st 1.4509 exposed to 800°C
+
+Discussion
+Mn has been shown to have an adverse effect on the oxidation rate for Mn content above 2wt% in alloys of Fe, Cr and Mn [#ref4]. This is due to the fact that MnO is more thermodynamically stable than Cr2O3, and that Mn has a very high diffusivity in iron based alloys [#ref4] and in Cr2O3 [#ref5] at elevated temperatures. However in alloys for SOFC interconnect components a small amount of Mn can have the positive effect of forming a surface layer that reduces Cr evaporation from the surface [6]. Other workers have also shown that the formation of the external spinel layer of MnCr2O4 improves the contact resistance to the surface [7]. A comparison of the contact resistance to JS-3 and ZMG232, showed that after 500h the contact resistance to ZMG232 was almost a factor 4 higher than for JS-3. Since both alloys form the surface layer of Cr,Mn oxide, and the thickness of the scale is layer under the ZMG232 scale. The present work also demonstrates the effect a lowering of the Si content combined with an addition of Al has on the stability of the scale. Formation of a continuous SiO2 non-conducting layer at the interface between the scale and the substrate is bound to increase the contact resistance. The presence of Al in very moderate amounts apparently 11 approximately the same, the main difference is the formation of the SiO2
+
+reduces the formation of this layer without a continuous Al2O3 layer being formed.
+
+On JS-3 we observe regions that are apparently not oxidised as fast as the rest of the substrate. This causes the interface between the substrate and the scale to have a meander shape, and thereby the effective contact area between metal and oxide is increased. This again will lower the contact resistance between the two phases and secure a good geometrical bonding of the scale.
+
+The alumina and Al/Ti oxide particles that are formed under the scale in ZMG232 and JS-3 steel respectively may make the transition in thermal expansion coefficient between the oxide scale and the metal substrate more gradual, and thereby reduce the shear stress in the interface that can cause spalling of the oxide.
+
+Conclusion
+Commercial high Cr ferritic steels like St 1.4509 have several drawbacks as interconnect materials for SOFC because of the spalling of the scale. Other high temperature resistant alloys usually base their durability on the formation of either SiO2 or alumina under the Cr2O3 scale. This acts as a diffusion barrier for Cr and therefore reduces the growth rate of the scale. However, a continuous layer of silica or alumina destroys the function of the materials as interconnectors. The two new steel types developed for SOFC (with Mn added, a reduced amount of Si and small additions of Al/Ti) exhibit more coherent scales with good bonding to the substrate and a lower scale growth rate. We also observe the formation of Cr,Mn oxide spinel at the surface of the scale, which have been shown by others to give better contact resistance and reduce the amount of Cr evaporation from the surface. All this is beneficial for the function of the cathode and the performance of the fuel between the chromia scale and the metal substrate under the present test conditions. This layer does not form in the JS-3 steel, which may be the reason for the better contact resistance observed by others [#ref7]. The oxidation rate that is measured is still too high for the steel to be used directly as an interconnect material alone in long term use. However, combined with suitable ceramic contact layers of the perovskite type, that 12 cell. The results have shown that St 1.4509 and ZMG232 forms a SiO2 layer
+
+can further reduce the oxidation rate and form good electrical contact with the scale surface of the steel, it shows good promise to function well as a metallic interconnector for SOFC planar stacks.
+
+Acknowledgements
+The work has been conducted under the CORE-SOFC project funded by the European Commission under contract No. ENK5-CT-2000-00308. The the examined materials. partner Forschungszentrum Jülich is acknowledged for providing samples of
+
+References 1 Al., Proc. of the 5th European Solid Oxide Fuel Cell Forum, 1, p281, 2002. 2 3 "Development of Ferritic Fe-Cr Alloy for SOFC Separator", T. Uehara et.
+
+Z.physik. Chem., C. Wagner, B21, p25, 1933.
+p18, 1966. "High Temperature Oxidation of Metals", Per Kofstad, John Wiley & Sons,
+
+4
+
+p157, 1991. 5 6
+
+Oxidation of Metals, Marasco, A.L. and Young, D.J., 36 (No.s 1 and 2), Oxidation of Metals, Lobnig, R.E. et al., 37 Nos. 1/2, p81, 1992.
+
+Gindorf et.al., pp812-821, 1999. 7
+
+Proc. 6th International Symposium on Solid Oxide Fuel Cells (SOFC VI), C.
+"Long Term Oxidation Behaviour and Compatibility with Contact
+
+Materials of Newly Developed Ferritic Interconnector Steel", J. Pirónp248, 2002.
+
+Abellán et.al., Proc. of the 5th European Solid Oxide Fuel Cell Forum, 1,
+
+13
+

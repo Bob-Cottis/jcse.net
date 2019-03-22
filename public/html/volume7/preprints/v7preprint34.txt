@@ -1,0 +1,271 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+Characterization of Permeability of fly ash concrete
+Natarajan, C. Department of Civil Engineering, National Institute of Technology, Tiruchirappalli, India. email. : nataraj@nitt.edu. Key words Concrete composites, Fly ash, Durability. Abstract The challenge of the civil engineering community in future will be to execute projects in harmony with the nature using the concept for sustainable development involving the use of high performance, economic friendly materials produced at reasonable cost with the lowest possible environment impact .In the context of the predominant building material concrete, it is necessary to identify less expensive cement substitutes. In recent years many researchers have established that the use of supplementary cementations materials (SCM)like fly ash, blast furnace slag , silica fume , activated metokaolin, rice husk ash etc which can improve the various properties in fresh and hardened states of concrete as well as to curb the rise in construction cost. The focus of the study here is to make a quantitative assessment of different cement replacement levels (CRL) with fly ash on the durability properties of normal concrete mixes and arrive at the optimum level of replacement cement with fly ash. This paper reports on the M20 & M35 Grade of concrete mixes having different replacement level of cement with low calcium fly ash (class F). The results show that the fly ash concretes have superior durability properties and will improve the performance of composite of fly ash is used as a partial substitute to Portland cement. Introduction Over the past few years the study of corrosion in concrete has become increasingly important for better performance of buildings and other structures. The results of corrosion are rust staining and spalling and weaker systems. A number of remedies have been suggested to alleviate such problems, both during design and construction. Among the remedies the code also specified the use of a variety of supplementary cementitious materials (SCM) like as fly ash, ground granulated blast furnace slag, condensed silica fume, high reactivity metakaolin, rice husk ash etc.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+In fresh concrete these SCMs improve workability and reduce the heat of hydration, whereas in hardened concrete they reduces the permeability by the pozzolonic reaction increasing the durability.In addition to the cost saving by the replacement of considerable amount of cement, it reduces CO 2 emission during the manufacture of Portland cement. The SCMs are mainly industrial by products from thermal power plants and steel plants. The performance of SCM mainly depends upon the percentage incorporation of these materials in cement. A pozzolana is a siliceous and aluminous material, which itself possesses little, or no cementitious value but in finely divided form and in the presence of moisture, chemically reacts with calcium hydroxide at ordinary temperatures to form compounds possessing cementitious product. The additional hydrated calcium silicate in pozzolana increases the denseness of the matrix and refines the pore structure. An attempt has been made in this paper to study the cementing efficiency factor k, for M20 & M35 concrete mixtures with different percentages of fly ash without any addition of chemical admixtures. The effect of different percentage of replacement of cement, that of 10, 20,30,40,50 and 60 percent with fly ash respectively was studied. The proportion of flyash is normally 18-20% in the case of class F flyash and if the class C flyash is used higher replacement level is possible if Portland cement is used. If the replacement level is more than 25% there is a marginal reduction in strength observed by (Huyen and Meusel, 1981). (Ganesh Babu et al., 1994) reported that the efficiency factor depends on the replacement levels and it varied from1.1 to 0.15 for replacements ranging from 10-75%. (Bharat kumar et al., 2001) have investigated the durability properties of high performance concrete using fly ash and slag by adopting the efficiency factor k. They varied the k value from 0.32 to 0.55. It was found that at 28 days the strength of blended cement concrete was less than that of normal concrete. At 56 days more strength was obtained in fly ash concrete at 20% replacement level. (Gopala Krishnan 2001) adopting ACI committee method 211.4 for mix design and using higher cement content and obtained higher strength at 28 days in fly ash blended concrete than ordinary Portland cement concrete. Longer and immediate wet curing is essential for achieving strength and durability in blended cement concrete than those required for conventional concrete. (Kanitakis, 1982) used an initial surface test to examine the permeability of contents with
+
+2
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+Class C and class F fly ash. Measurements were made at 7, 17, 28, and 56 days curing. From the results, they concluded that fly ash concrete is more permeable at early ages and while at later ages permeability gets reduced. (Sorn 2001), conducted rapid chloride permeability test both on ordinary Portland cement & fly ash concrete. Concrete mix design was done by replacing fly ash by fine and coarse aggregate instead of cement (addition method). The diffusion coefficient of ordinary Portland cement concrete was 10.8×10-12 m2/sec at 28 days and 6.1×10 -12 m2/sec at 90 days whereas in fly ash concrete ,it was 3.5 ×10-12 m2/sec at and 0.4×10-12 m2/sec respectively. Fly ash concrete was evaluated at reduced w/c ratio than ordinary Portland cement concrete. Mix Proportions Conventional mix procedure used to obtain the values for cement content and w/c ratio was modified by introducing a fly ash cementing equivalent factor (k). This cementing equivalent factor was defined such that the mass of fly ash was equivalent to the mass of k.f. The required strength and workability of concrete are controlled by the volume ratio's of cement sized particles to water and aggregate and by the relationship between strength and the ratio of water content (w) to total cementing material (w/(c+kf)). The value of k is not constant and it varied depending on the type of fly ash used and its replacement level. A series of experimental studies are planned in the present =2.67p2-3.75p+1.64 =2.78p2-3.8p+1.45 =f/(c + f) = Percentage of fly ash =Fly ash content in kg =Cement content in "kg"
+
+investigation and the value of k is arrived using the following relations k7 k28 p p f c Experimental work In order to compare the different percentage of fly ash replacement level of cement with zero replacement, the size of specimens considered in this study was same as that given by standards (ASTMC618). The overall dimensions of the specimens are 100mm cubes,100x100x500mm with an effective span of 400mm and 100mm diameter and 200mm high cylinders.
+
+3
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+Materials The materials considered in this study include cement , sand, coarse aggregate and low calcium fly ash (class F). Cement: a Sand: Coarse aggregate: Fly ­ash: a Water: The cement used in this study was ordinary Portland cement (43grade) Locally available river sand passing 4.75 mm I.S. sieve. The maximum size of coarse aggregate was 12.5 mm. The fly-ash confirming to class F and obtained from Neyveli lignite corporation. Clear potable cauvery water.
+
+Micro structure related properties The micro structure related properties of concrete, such as, permeability, absorption, sorptivity and chloride diffusion were evaluated as follows. Permeable voids and water absorption: It is a usual practice to asses the water permeability characteristics when assessing the durability characteristics. Permeability can be measured by conducting water permeability test as per standards, percentage of water absorption test and initial surface absorption test. In the present investigation, percentage of water absorption, percentage of permeable voids and percentage of total voids has been determined. This test was done as per procedure given in (ASTM C642-90) by oven drying method. To determine the percentage of total voids, apparent specific gravity of the specimen has to be determined .For this, the specimen were broken, crushed and powdered. 64 grams of powdered sample were taken after sieved through 90 micron sieve. Using Lee-chatlier flask, the specific gravity of the powdered sample was determined. From the above data percentage of water absorption, percentage of permeable voids, percentage of total voids, and coefficient of water absorption were determined. Sorptivity Concrete disks were cast and disk had a diameter of 84mm and a thickness of 50mm.The sample was preconditioned to a certain moisture condition at 70 C for 7 days and then allowed to cool in a sealed container for three days .The sides of the concrete sample were sealed .The initial mass of the sample was taken and it was immersed to a depth of water
+
+4
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+5-10 mm in the water .At selected times the sample was removed from the water and the excess water blotted off with a damp paper towel and sample weighed. It was then immersed in the water and the stopwatch started again. The gain in mass per unit area over the density of water is plotted versus the square root of the elapsed time. The slope of the line of best fit of theses points was reported as the sorptivity. Chloride Diffusion Test Mortar disc of size 85mm diameter and 40mm thickness were casted and allowed to cure for 28 days. After 28 days of curing the concrete specimens were subjected to chloride diffusion test by impressing 10V. Two halves of the specimen is sealed with pvc
+
+container of diameter 90mm. One side of the container is filled with 10% NaCl solution (that side of the cell will be connected to the negative terminal of the power supply). Other side is filled with 0.1 M NaOH solution (which will be connected to the positive terminal of the power supply). Chloride concentration was to be stabilized in compartment 2 increasing linearly with time. This condition is similar to quasi steadystate diffusion through a disk. The experiment was conduced till steady-state condition was reached.
+
+Results And Discussions Durability properties after 28 days of water curing, the specimens were tested to determine the durability related properties, such as permeability, voids, water absorption, sorptivity and chloride diffusion and the results are given in Table I and compares the water absorption and permeability of 40% Fly ash concrete with ordinary Portland cement concrete, at the end of 28 and 56 days of curing. Water absorption In M20 grade concrete at the end of 28th day curing % of water absorption is less in control concrete when compared to 40% fly ash concrete. It is 4.68% and 5.13% in ordinary Portland cement and fly ash concrete respectively. At the end of 56th days of curing, % of water absorption is reduced and it is 4.38% and 4.78% in ordinary Portland cement and fly ash concrete respectively. This indicates with curing time period, % of water absorption is reduced. In the case of M35 grade concrete, % of water absorption is
+
+5
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+less in fly ash concrete when compared to ordinary Portland cement concrete at both the curing period. Coefficient of water absorption Table I compares the co-efficient of water absorption of 40% fly ash concrete with ordinary Portland cement concrete in M20 and M35 grade respectively. It is observed that above in M20 grade co efficient of water absorption is less in ordinary Portland cement concrete where as it is move in M35 grade concrete when compared to 40% fly ash concrete. For M20 grade ordinary Portland cement concrete initially the value is 4.24x1010
+
+m2/sec and reduces to 3.11x10 -10 m2/sec at the end of 56 days of curing .In the case of
+2 -10 2
+
+40% fly ash concrete initially the value is 5.44x10-10 m2/sec and reduces to 3,67x10-10 m /sec at the end of 56 days of curing. In M35 grade the value is 3.89 x10 reduces to 2.96 x10
+-10 2
+
+m /sec and
+
+m /sec in ordinary Portland cement concrete, and 40% fly ash
+
+concrete it is 3.16 x10-10 m2/sec and reduces to 1.29 x10-10 m2/sec at the end of 56 days of curing respectively. Permeable voids Table I shows the percentage of permeable voids of ordinary Portland cement and 40% fly ash concrete .From the table it can be seen that the percentage of permeable voids are more in 40% fly ash concrete in M20 grade and they are less in M35 grade when compared to ordinary Portland cement concrete. The results also indicate the ercentage of permeable voids reduces with curing .For M35 grade at the end of 56 days of curing. It is 5.655% in fly ash respectively. Total voids From Table I it can be seen that similar trend as observed in percentage permeable voids is also observed in percentage obtained between 28 and 56 days of curing .Hence it is shown that the effect of curing does not produce much effect on percentage of total voids. But grade of concrete reduces the percentage of total voids .In M20 grade it is 41% whereas in M35 grade it is 38% irrespective of presence fly ash or not. From the above discussion it can be inferred from the durability point of view the minimum concrete grade required is M35 since it performs better in water absorption studies when compared to M20 grade. concrete and it is 6.64% in ordinary Portland cement concrete
+
+6
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+7
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+Table I Comparison of water absorption and permeability data % of Water absorption at the end of 30min. 28th 56th day day 4.68 4.38 4.78 4.16 3.01 Co-efficient of Water absorption X10-10 m/sec 28th 56th day day 4.24 3.11 5.44 3.89 3.16 3.67 2.96 1.29 % Permeable voids 28th day 8.44 9.43 6.64 5.65 56th day 6.94 7.85 6.6 5.65
+
+Total voids 28th day 0.41 0.42 0.40 0.39 56th day 0.40 0.41 0.39 0.37
+
+Grade
+
+System
+
+M20
+
+M35
+
+Control 40% flyash concrete 5.13 Control 4.6 40% fly ash concrete 3.81
+
+Studies on sorptivity Figures 1 and 2 show the results of sorptivity for M20 & M35 concrete. From the slope of the each curve sorptivity was calculated and given in Table II. It can be inferred that in M20 grade up to 40% replacement, the sorptivity is same i.e. 3.32x10 -5 m/ and it is sec more at 60% replacement level when compared to ordinary Portland cement concrete .In M35 grade up to 40% replacement, the sorptivity value is same i.e. 5.82x10-5 m/ sec where as at 50 and 60% replacement level it is more i.e. 7.04x10
+-5
+
+m/ when sec
+
+compared to ordinary Portland cement concrete. It is also inferred that it does not correlate with permeability data.
+
+Figure 1 Sorptivity measurement for M20 grade concrete
+1.200
+
+Ratio of volume of water
+
+Control concrete 40% fly ash concrete
+0.800
+
+50% fly ash concrete 60% fly ash concrete
+
+0.400 0 15 30 45
+
+Time[sec]
+
+8
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+Figure 2 Sorptivity measurement for M35 grade concrete
+1.500
+
+Ratio of Vo lume of water
+
+1.000
+
+Control concrete
+0.500
+
+40% fly ash concrete 50% fly ash concrete 60% fly ash concrete
+
+0.000 0 15 30 45
+
+Time [sec]
+
+Table II Sorptivity results for various replacement level of fly ash concrete Grade of concrete Replacement levels Control 40% M20 50% 60% Control 40% M35 50% 60% Sorptivity, m/ sec 2.49x10-5 3.32x10-5 4.90x10-5 6.02x10
+-5
+
+4.78x10-5 5.82x10-5 7.04x10-5 7.27x10
+-5
+
+Studies on Chloride diffusion From the Figures 3 and 4 where chloride diffusion are plotted for M20& M35.It can be seen that the chloride concentration is less in 40% fly ash concrete (with k) when compared to ordinary Portland cement concrete. The diffusion coefficients of the three concretes are given in Table III for M35 grade concrete and M20 grade concrete. The Table III gives the years of initiation of corrosion rate in control concrete and the chloride diffusion coefficient for 40% simple replacement fly ash with and with out k.
+
+9
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+From the above discussion it can be inferred that in both the grades chloride diffusion coefficient is less in 40% fly ash concrete (with k) when compared to ordinary Portland cement concrete.
+
+Figure 3 Chloride concentration for M20 grade concrete
+1.800
+
+Control
+Chlo ri de concentration ratio
+
+Without k
+1.200
+
+With k
+
+0.600
+
+0.000 0 40 Time [hours] 80 120
+
+Figure 4 Chloride concentration for M35 grade concrete
+1.5
+
+Control Without k
+C hlori de concen tratio n ra ti o
+
+With k
+1
+
+0.5
+
+0 0 40
+
+Time [hours]
+
+80
+
+120
+
+Table III Chloride diffusion Results for various grades Concrete grade Replacement levels 0%-control M20 40%-without k 40%-with k Time Taken To initiation of corrosion, years 6.15 5.94 6.61
+
+Diffusion coefficient m2/sec 1.727x10
+-12
+
+1.789 x10-12 1.608 x10-12
+
+10
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+0%-control M35 40%-without k 40%-with k
+
+0.663 x10 0.758 x10
+
+-12 -12
+
+16.02 14.01 18.16
+
+0.585 x10-12
+
+Figure 5 Chloride diffusion coefficient
+2
+
+Diffusion coe fficie nt x 10e -1 2 [m2/sec]
+
+1.5
+
+0%-control 40%-without k 40%-with k
+
+1
+
+0.5
+
+0 M20 M35
+
+This is more in 40% fly ash concrete with out k when compared to ordinary Portland cement concrete. This is due to pozzolanic reaction, the permeability has been reduced. This reduces the permeability of chloride and causes the lesser value of chloride diffusion coefficient and is given in Figure 5. Conclusions The following are the broad conclusions of 40% -60% fly ash concrete by comparing with ordinary Portland cement concrete. The addition of fly ash causes reduction of workability as well as the bleeding in fresh concrete.  The percentage of water absorption is less in fly ash concrete.  Coefficient of water is less in Fly ash concrete in M35 grade and it is more in M20 grade.  In all replacement levels the sorptivity is more in fly ash concrete than controlled concrete at both the grades.  The chloride diffusion co efficient of fly ash concrete is less in both the grades of concrete.
+
+11
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 34
+
+31 January 2005
+
+References Huyen, F. J and Meusel, J W. (1981), "Evaluation for durability and strength development of a ground granulated blast furnace slag", Journal of Cement Concrete and Aggregate, Vol. 3 No.1, pp 40-52. Ganesh Babu, K.,Siva,G Achiesel and Scheisel.. (1994), "Early strength behaviour of fly ash concretes", Journal of Cement and Concrete Research, Vol. 24 No.2, pp.227-284 Bharath Kumar B.H., and Gopalakrishnan. (2001), "Mixture proportion of high performance concrete", Seventh CANMET/ACI International Conference on fly ash, silica fume, slag and natural pozzolan in concrete, SP-199, ACI, Detroit, pp.311-326. Gopalakrishnan, G. (2001) "Effect of partial replacement of cement with fly ash on the strength and durability of HPC", Indian Concrete Journal, pp 335-341. Kanitakis, I.M., (1982) "Permeability of concrete containing pulverized fuel ash", 5th International symposium on Concrete Technology, Mexico,pp311-322. Sorn, V. (2001) "Performance of fly ash concretes in accelerated and natural chloride th exposure regime", 7 CANMET/ ACI International Conference on fly ash, silica fume, slag and natural pozzolan in concrete SP-199, ACI Detroit, pp 185-204. ASTM C 618, "Standard specification for coal fly ash and raw or calcined natural pozzolan for use as a mineral admixture in Portland cement concrete". ASTM C 642, "Permeability and water absorption test method specification for coal fly ash and raw or calcined natural pozzolan for use as a mineral admixture in Portland cement concrete".
+
+12
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

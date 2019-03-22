@@ -1,0 +1,429 @@
+Volume 6 Paper H032 Influence of dew point on the selective oxidation during annealing of cold rolled DP and Ti-IF steels
+I. Parezanovi, M. Spiegel
+
+High Temperature Reactions Group, Department of Interface Chemistry and Surface Engineering, Max Planck Institut für Eisenforschung, MaxPlanck Str. 1, 40237 Düsseldorf, Germany, parezanovic@mpie.de; spiegel@mpie.de
+
+Abstract
+Cold rolled steels for the automobile industry are protected against wet corrosion by Zn coatings, applied by `Hot Dip Galvanizing'. The industrial annealing process leads to the formation of surface oxides, partially removed in a reduction annealing step (5 % H2-N2, D.P ­30°C, 820 °C) before galvanizing. However, oxides of alloying elements like Mn, Al, Si, Cr, are not reduced during annealing and failures occur in the zinc coating due to a bad wettability of the surface with Zn bath. The most important parameter in the oxidation process is the dew point of the reduction-annealing atmosphere. By increasing the dew point, from ­60 to 0°C, it is possible to attain conditions for the selective oxidation and to change the oxidation mode of elements Al, Mn,Si etc. from external to internal. Cold rolled DP and different Ti-IF steels annealed at 820°C for 60 s in 5 % H2-N2 atmosphere with different dew points (-60, -30 and 0°C) are investigated, regarding the chemical composition, amount, distribution and size of the surface oxides. XPS depth profiles of the oxide layers and results from FE-SEM with EDX are used to elucidate the oxidation behaviour of Mn, Si and Al on the steel surfaces. Keywords: dew point, selective oxidation, external oxidation, internal
+
+oxidation.
+
+Introduction
+A new generation of high strength steels like dual phase, TRIP and Interstitial Free (IF) meet more and more demanding criteria for the steels in auto industry, such as lighter and stiffer car bodies which improve safety and reduce fuel consumption, good formability and weldability. Good corrosion protection of these steel sheets is as important as a good mechanical properties and is more or less
+
+successfully achieved by galvanizing. One of the main still existing problems in the galvanizing process is unsatisfying wettability of the steel surfaces with Zn bath due to presence of oxides. After cold-rolling the sheets always undergo an annealing to accomplish the recrystallization and to remove residual oil from the rolling process. The annealing is always done in a protective hydrogen-nitrogen atmosphere which is reducing for iron oxides. During the annealing process at high temperatures ( 800°C) very fast diffusion and segregation of atoms of alloying elements occurs at the surface. Elements like Mn, Al, Si, Ti etc. with a very high affinity to the oxygen, form in the annealing cycle oxides which stay on the surface and are "poorly" wetted by the Zn bath. Results of experiments with a ­N2 annealing atmosphere show no reduction of mentioned oxides as well [#ref1]. Thermodynamical calculations [#ref2] show that is practically impossible to reach the annealing conditions in which the oxidation of Al, Mn, Si would be avoided. These oxides are present rather in the form of islands than as continuous layer. Whether the oxidation is in external or internal mode depends on a few criteria well described by Wagner [#ref3]. higher hydrogen content (15 %) compared to those in standard 5 % H2
+
+The aim of this work is to give an overview on selective oxidation of different steels and in different annealing conditions. Not only the segregation of metallic but also of non-metallic elements like C, S, P and B plays an important role in oxidation-reduction process during the annealing.
+
+2
+
+Experimental
+One dual phase steel (DP 500, ferritic-austenitic) and three IF steels (Ti-IF, TiNb-IF 1, TiNb-IF 2, ferritic) were investigated. The steel compositions, concerning the most important elements for this investigation, is presented in Table 1: Table 1: Composition of investigated steels (concerning the most important elements for this investigation). (wt % 103) C DP 500 Ti-IF 70 2,8 N 5,9 3,3 5 Mn Si Al B 3,2 0,1 15 Cr P S 6 Nb Ti 25 73
+
+1400 100 34 85 370 6 12 7 44 7
+
+450 14 16 3 6
+
+TiNb-IF 1 2,6
+
+36 1,1 21 24 12 6,3 28 20
+
+TiNb-IF 2 3,9 traces 192
+
+21 traces 10
+
+Samples of 15 x 15 mm in size were cut from cold rolled steel sheets. After the cleaning in a weak alkali solution and ultrasonic bath with ethanol for 15 min, samples were annealed in a cycle used in the industry. The annealing cycle is shown in Fig. 1.
+
+800
+
+Temperature (°C)
+
+600
+
+400
+
+200
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+Time (s)
+
+Figure 1: The annealing cycle.
+
+3
+
+Experiments were done in 5 % H2-N2 atmosphere at three different
+
+dew points -60, -30 and 0°C (p(H2O) = 11, 370 and 5,99103 vppm respectively) and after reaching 820°C samples were held for 60 s at this temperature. Well defined heating regime is accomplished using an IR furnace controlled with thermo regulator. The oxygen content is ppm during the experiments. The water vapour content (p(H2O) is measured with Oxygen analyser (Fuel cell sensor) and was below 2
+
+measured with a Moisture Analyser (Al2O3 sensor).
+
+After annealing the samples were taken out and transported to the XPS (X-ray photoelectron spectroscopy) and FE-SEM (Field emission scanning electron microscopy) for the further investigation and analysis. XPS (Quantum 2000) and LEO 1550 VP FE-SEM were used for the surface investigations.
+
+Results and Discussion
+As well as the annealing conditions the steel composition plays an Images of the steel surfaces after annealing at dew point ­60°C presented in Fig. 2 (a-d) show significant differences between the steel surfaces. important role in the oxidation as already reported [#ref4,5,6]. FE-SEM
+
+200 nm
+Fig. 2. a): FE-SEM image of DP 500 surface. Fig. 2. b): FE-SEM image of Ti-IF surface.
+
+4
+
+Fig. 2. c): FE-SEM image of TiNb-IF Fig. 2. d): FE-SEM image of TiNb1 surface. IF 2 surface. The surface of DP 500 (Fig. 2 (a)) differs significantly in oxide shape and distribution from the rest three IF grades. The XPS measurement on DP 500 as well as EDX analysis confirmed that mostly BN and small (around 100 ­ 200 nm in diameter) globular Al oxides are present on the surface. Hexagonal BN can be formed according to two mechanisms: I) Diffused B from the steel can react with the nitrogen from the N-rich atmosphere and BN forms, or II) nucleation occurs through cosegregation of boron and nitrogen or by precipitation of the components form the supersaturated matrix [#ref7]. For the I mechanism to occur nitrogen has to react on the surface according to: N2 = 2N (dissolved) This reaction has a high activation energy and needs high (1)
+
+temperatures. Segregation of elements like sulphur, oxygen and other surface active elements can retard this reaction. h-BN can precipitate at 700-850°C by mechanism II if the material has dissolved N in concentration > 1000 wt ppm and dissolved boron > 100 wt ppm (results on austenitic stainless steel) [#ref8] and the same authors found that segregated nitrogen trapped boron. In the case of our steel both mechanisms are possible and it seems that rather a thin layer of very small BN particles is formed. We assume that BN forms by mechanism I. A small amount of CrN found by XPS analysis leads to the conclusion that N from the steel reacts with Cr (Cr and N cosegregate at lower temperatures) and with Al, since AlN particles are
+
+5
+
+seen with FE-SEM and confirmed with EDX analysis. Al peak is at 75,62 eV corresponding to Al2O3 and some weak Mn peak at 641,51 eV corresponds to MnO. Comparison of XPS peaks on all samples is presented in Fig. 3.
+3000 2500 2000
+DP 500 T i-IF T iNb-IF 1 T iNb-IF 2
+
+Al2p
+Cps
+
+1500 1000 500 0 90 85 80 75 Binding energy (eV) 70 65
+
+5000 4500 4000 3500 3000 2500 2000 1500 1000 680
+
+DP500 T i-IF T iNb-IF 1 T iNb-IF 2
+
+Mn2p
+
+Cps
+
+670
+
+660
+
+650
+
+640
+
+630
+
+620
+
+Binding energy (eV)
+
+12000 10000
+DP500 T i-IF T iNb-IF 1
+
+N1s
+Cps
+
+5000 4000 3000 2000 1000 0
+
+DP500 T i-IF T iNb-IF 1
+
+B1s
+
+Cps
+
+8000 6000 4000 2000 0 415
+
+410
+
+405
+
+400
+
+395
+
+390
+
+200
+
+195
+
+190
+
+185
+
+Binding energy (eV)
+
+Binding energy (eV)
+
+Fig. 3: The XPS spectra of Al, Mn, N and B on different steels at dew point ­60°C. Ti-IF with the highest Al content of all investigated steels shows a distinct Al peak (Fig. 3) but on TiNb-IF 1 steel the Al peak is as strong as on Ti-IF steel indicating that not only the concentration of elements controls segregation and oxidation rates. The Al peak at 75,96 eV belongs to Al in Al2O3 while the Mn peak at 641,81 eV belongs to Mn in MnO. The oxide particles are more or less 50 nm in diameter (Fig. 2 (b)). The B peak at 189,46 eV, belonging to BN, is found on the surface (although is peak hardly visible (Fig.3 )) as well as TiN formed by the reaction of Ti and N from the matrix or by chemisorptions induced segregation. Morphologically the surface of TINb-IF 1 looks like the Ti-IF surface (FE-SEM image, Fig. 2 (c)). Oxides smaller than 50 nm in diameter are distributed everywhere on the surface, but more numerous at the grain boundaries. They were identified as Al2O3 and MnO. B is present 6
+
+as BN and B2O3 oxide on the surface. This is difference compared to
+
+the DP 500, where only BN is formed. This can be partly explained by the ferritic matrix of TiNb-IF 1. It is known that BN grows epitaxially on (111) fcc alloys, so the nucleation rate of BN is maybe slower in TiIF steel. The B peak at 192,54 eV belongs to B in B2O3 and is 65,75 % favourable [#ref9]. of B signal. Formation of B2O3 at 820°C is thermodynamically very
+
+On TiNb-IF 2 surface very small (less than 20 nm) oxides are formed during the annealing at dew point ­60°C. This steel contains B and N in traces. The surface concentrations of Al and Mn are less than on the other steels and do not correspond to the bulk concentrations. The Al peak is at higher energy, 77,4 eV, than in the case of other steels and corresponds to Al in Al2O3 as well [#ref10]. Mn peak lies also at the binding energy of 645,5 eV (higher than in other three steels) and can be attributed to MnO/Mn2O3 [#ref11]. EDX analysis shows that TiNb carbides formed by reaction with C from the steel and also some nitrides are present on the surface. This N is probably dissolved on the surface from the atmosphere. Table 2: Compounds and elements found on the steel surfaces after annealing at dew point ­60°C. Industrial grade Dew point (°C) -60
+
+DP 500 Ti-IF TiNb-IF 1 TiNb-IF 2
+
+Al2O3 and MnO external oxides, BN, some AlN and some CrN Al2O3 and some MnO external oxides, some BN, some TiN, some S Al2O3 and some MnO external oxides, B2O3, some BN, some TiN, some S Al2O3 and some MnO/Mn2O3 external oxides, some TiNbC, some TiNbN, some S
+
+7
+
+Increasing the dew point to ­30°C, a higher amount of H2O  370 vppm, is introduced in the annealing atmosphere. This determines the p(O2) in system (p(O2) = 1,0610-24), according to the reaction: H2O = H2 +1/2 O2 of oxidation mode are met leading to the internal Al oxidation and (2)
+
+Under these higher pressures of O2 and H2O conditions for the change external Mn, Si, Cr oxidation. According to Wagner theory there is a critical ratio between oxygen and solute element permeability which defines the oxidation mode:
+
+No(S)  Do >> NB(O)  DB ­ internal oxidation, No(S)  Do << NB(O)  DB ­ external oxidation. No(s) - O2 solubility in alloy (atom fraction); Do - diffusivity of oxygen
+of the solute B in alloy (cm2s-1). in alloy (cm2s-1); NB(o) ­solute B initial concentration; DB -diffusivity
+
+By increasing the dew point of the gas atmosphere the surface oxygen concentration increases and a change from external to internal oxidation is possible. FE-SEM images of the steels surfaces at DP = -30°C are presented in Figs. 4. (a-d).
+
+Fig. 4. a): FE-SEM image of DP 500 surface (dew point ­30°C).
+
+Fig. 4. b): FE-SEM image of Ti-IF surface (dew point ­30°C).
+
+8
+
+Fig. 4. c): FE-SEM image of TiNb-IF 1 surface (dew point ­30°C).
+
+Fig. 4. d): FE-SEM image of TiNb-IF 2 surface (dew point ­ 30°C).
+
+Clear differences in the surface morphology and chemistry are visible and more exhibited between the investigated steels. On DP 500 surface oxides are different in size (from 100 nm to 1µm in diameter) and morphology (globular, lense-like to undefined shape) while TiNbIF 2 surface is covered with oxides mostly smaller than 20 nm (Fig. 4 (d)). XPS analysis (Fig. 5) shows Al, Mn, Si and Cr XPS signals for the different steels.
+3500
+DP 50 0
+2 3 00
+
+12000
+T i N b -I F 1 T i N b -I F 2
+
+3000 2500 Cps 2000 1500 1000 500 71
+
+T i-IF
+
+Al2p
+C ps
+
+2 2 50
+
+2 2 00
+
+10000
+Cps
+
+2 1 50
+
+2 1 00
+
+8000 6000 4000 2000 0 670
+
+DP 500 T i-IF T iNb-IF 1 T iNb-IF 2
+
+Mn2p
+
+2 0 50
+
+2 0 00 70 71 7 2 73 74 75 76 7 7 78 7 9 80 81 82 83 84 85
+
+B i n d i n g e n e rg y ( e V )
+
+72
+
+73 74 75 Binding Energy (eV)
+
+76
+
+77
+
+660
+
+650
+
+640
+
+630
+
+Binding energy (eV)
+10000
+
+4000 3500 3000 2500 2000 1500 1000 500 97
+
+DP 500 T i-IF T iNb-IF 1 T iNb-IF 2
+
+Si2p
+Cps
+
+DP 500 T i-IF T iNb-IF 1 T iNb-IF 2
+
+8000 6000 4000 2000
+
+Cr2p
+
+Cps
+
+99
+
+101
+
+103
+
+105
+
+0 605
+
+595
+
+585
+
+575
+
+565
+
+Binding energy (eV)
+
+Binding energy (eV)
+
+Fig. 5: The XPS peaks of Al, Mn, Si and Cr on different steels at dew point ­30°C. 9
+
+Generally the intensity of the Al signal decreases for the increased dew point (Fig. 5). The peak energy still corresponds to Al2O3 and since Al one can conclude that the decreased amount of Al oxide present on has the highest affinity toward the oxygen of all investigated elements, the surface is due to the shifting of the oxidation to the internal. This is additionally confirmed by an increase of the Al signal with sputter 642 eV respectively, belonging to MnSiO3 [#ref12]. Some amount of Mn is present as MnO ( 7 %) and B is almost undetectable. Mn present on TiNb-IF 1 is oxidised and EDX qualitatively analysis of oxide particles yielded the results presented in Figs. 6 (a, b). It can be assumed that B is more likely present as oxide than as segregated atoms [#ref1]. According to the phenomenon of quasi-sudden oxidation of the decreases and leads to the conditions with a lower dew point, explaining also a stronger signal of Al on the surface of TiNb-IF 1 compared to TiNb-IF 2 with a higher Al concentration in bulk (three IF steel a mix of Al2O3 and Mn2SiO4 oxides. times higher). The same authors[#ref1] found on the surface of TiNbdepth. On DP 500 and Ti-IF surfaces the Mn peak is at 642,03 eV and
+
+surface, due to B oxidation [#ref1], the surface oxygen concentration
+
+1
+a) Point 1
+
+2
+
+Fig. 6: FE-SEM image of TiNb-IF 1 surface with EDX analysis of oxide particles.
+
+b) Point 2
+
+10
+
+On Figs. 6 (a, b) two kind of oxides can be distinguished, Mn and B oxide on the surface and Al and Si oxides at the grain boundaries. A further confirmation of Mn, B oxide presence on TiNb-IF 1 surface is to stronger intensities. confirmed by an AES mapping (Fig. 7) where brighter areas correspond
+
+Iron
+
+1 um
+
+Oxygen
+
+1 µm
+
+Manganese
+
+1 um
+
+Boron
+
+1 um
+
+Fig. 7: TiNb-IF 1 steel surface, AES mapping. Al, Si oxides below Mn, B oxides are more likely only at the grain boundaries since the grain boundary transport of oxygen is ratecontrolling process for growth of Al2O3 scales at high temperatures while for Mn the growth of oxide film above the grains is found as well. The conclusion is that Mn/B oxides are formed on the surface and below these oxides at the grain boundaries oxidise Al and Si. Nucleation and growth of oxides are orientation dependent (Fig. 4 (c)) and faceting is more exhibited with increasing a dew point due to oxygen adsorption. On TiNB-IF 2 surface Mn peak at 640,8 eV corresponds to MnO and the other at higher energy can be attributed to Mn silicate, although the Si peak is hardly detectable. This excess of Mn oxides is understandable if we know that if Mn/Si ration (in weight %) is higher than 4 an excess of Mn is expected on the surface [#ref1].
+
+11
+
+Chromium, externally oxidised, is also found on steel surfaces (Fig. 5) and the Cr peak is at 576,9 eV, 577,2 eV and 575,2 eV for DP 500, TiIF, TiNb-IF 2 respectively, corresponding to Cr in Cr2O3. The results of compounds and elements found on the surfaces after annealing at the dew point ­30°C are summarized in Table 3. Table 3: Compounds and elements found on the surfaces after annealing at dew point = ­30°C. Industrial grade
+
+Dew point (°C) -30 External MnSiO3, some MnO and Cr2O3, Al2O3 oxides shifting to internally oxidized, AlN External MnSiO3, some MnO and Cr2O3 oxides, some Al2O3 oxide shifting to internally oxidized, TiN grain boundaries, TiN, some S
+
+DP 500 Ti-IF
+
+TiNb-IF 1 External Mn, B - oxides, and below Al and Si oxides at the
+TiNb-IF 2 External MnO, Mn, Si - oxides and Cr2O3, TiNb carbides FE-SEM Images of steel surfaces after annealing in the atmosphere with dew point 0°C are presented in Figs. 8 (a-d).
+
+Fig. 8. a): FE-SEM image of DP 500 surface (dew point 0°C).
+
+Fig. 8. b): FE-SEM image of Ti-IF surface (dew point 0°C).
+
+12
+
+Fig. 8. c): FE-SEM image of TiNb-IF 1 surface (dew point 0°C).
+
+Fig. 8. d): FE-SEM image of TiNbIF 2 surface (dew point 0°C).
+
+Annealing in the atmosphere with the dew point (0°C) leads to decrease of the Mn signal (XPS measurement, Fig. 9).
+4000 3000
+Cps
+DP 500 T i-IF T iNb-IF 1 T iNb-IF 2
+
+P2p
+Cps
+
+7000 5000 3000 1000 670
+
+DP 500 T i-IF T iNb-IF 1 T iNb-IF 2
+
+Mn2p
+
+2000 1000 0 125 130 135 140 145 150 Binding energy (eV)
+
+660
+
+650
+
+640
+
+630
+
+Binding energy (eV)
+
+Fig. 9: XPS peaks of P and Mn on different steels at dew point 0°C. The strongest signal of Mn is found on the surface of DP 500 since this alloy has the highest Mn content. Selective oxidation of P is a dominant process at dew point 0°C and these Fe, Mn phosphates are particularly observed and confirmed by EDX at grain boundaries (darker oxides in Figs. 8 (c) and 8 (d)). Although P bulk concentration in DP 500 is smaller than in TiNb-IF 1, the P peak is weaker on the surface of the latter (Fig. 9) and the P peak intensity is the strongest for TiNb-IF 2 with 0,012 wt % P leading to the conclusion that P surface concentration is not only dependent on bulk concentration. This phenomenon is closely related to the concentration of N, B and Si in the alloy. DP 500 alloy has the highest Si and high N and B concentrations whereas TiNb-IF 2 contain B and N in traces and has a
+
+13
+
+low Si content. A clear peak of S found on the surface of TiNb-IF 2 formed compound on these surfaces is Fe, Mn phosphate, hardly
+
+indicates that in this case S did not impede the P segregation. Possibly detectable are Si and Cr on the surface which indicates shifting of Si and Cr oxidation in the internal mode.
+
+Table 4: Compounds and elements found on the steel surfaces after annealing at dew point = 0°C. Industrial grade
+
+Dew point (°C) 0 External Fe, Mn phosphates External Fe, Mn, phosphates, some S, TiN External Fe, Mn phosphates, TiC External Fe, Mn phosphates, some S, TiNb carbides
+
+DP 500 Ti-IF TiNb-IF 1 TiNb-IF 2
+
+Conclusions
+Due to the selective oxidation phenomenon, modifications of steel surfaces can be obtained with a change of oxidation-reduction conditions. Changes of the dew point of the annealing atmosphere, from ­60 to 0°C leads to external oxidation of Al and Mn at ­60°, Mn, Si and Cr at ­30°C and P at 0°C, and internal oxidation of Al at ­30°C and 0°C, Si and Cr at 0°C. On all investigated alloys, DP 500, Ti-IF, TiNB-IF 1 and TiNb-IF 2, external oxidation of Al is observed at dew point ­60°C and Al2O3 is formed. N2 present in the annealing atmosphere in a high amount, reacts with B, fast segregating from the steel, and forms BN. This occurs specially on DP 500 due to austeniticferritic structure, since hexagonal BN epitaxially grows on (111) fcc. than by cosegregation of B and N from alloy. BN causes a "screening effect" to further absorption of O2 on the steel surface and oxidation. Some externally oxidised Mn is also found at this low dew point. With increasing dew point (­30°C), p(H2O) around 370 vppm, the higher This BN is rather formed by adsorption of N from N-rich atmosphere
+
+14
+
+pressure of O2 leads to Al internal oxidation, below the surface, which is seen from the decreasing of Al signal on XPS spectrum. External oxidation of Mn is maximal at dew point ­30°C, as well as Si and Cr
+
+on the Mn/Si wt % ratio, while Cr is mostly found as Cr2O3. In the case of TiNb-IF 1 alloy Mn, B oxides are found on the surface, and below these at the grain boundaries Al and Si oxides. External P oxidation is a dominant process at the dew point 0°C, most probably Mn3(PO4)2 or at this dew point since their oxidation changes to the internal mode. Some further AES measurements and investigations will be done on the influence of non-metallic like C, S, B, P, N on each other segregation. Fe, Mn phosphates are formed. Mn, Si and Cr are almost undetectable
+
+oxidation. Formation of both MnSiO3 and MnO is possible, depending
+
+Acknowledgements
+The authors gratefully acknowledge the support of Prof. Dr H. J. Grabke during the preparation of this paper.
+
+References
+!ref1 `Selective oxidation of TiNb stabilized steels during recrystalization annealing, and steel/Zn reactivity',P. Drillet, Z. 195-202. Zermout, D. Bouleau, J. M. Mataigne, Galvatech'2001 (Brussels) pp. !ref2 R. L. Weast, Handbook of chemistry and Physics (C. R. C. Press,
+
+Cleveland, Ohio, 1974.)
+
+!ref3 `Reaktionstypen bei der Oxydation von Legierungen' C. Wagner,
+
+Z. Electrochem. 63, 7, pp772-782, 1959.
+
+!ref4 `Selective oxidation during annealing of steel sheets in H2/N2' Olefjord, W. Leijon, U. Jelvestam, Application of Surface Science, 6, pp241-255, 1980.
+
+!ref5 `Use of XPS to investigate surface problems in ULC deep drawing pp334-338, 1999.
+
+steels' M. Lamberigts, J. P. Servais, Applied Surface Science 144-145,
+
+15
+
+!ref6 `Application of surface analysis techniques in the investigation of coating metallurgical problems', X. Vanden Eynde, J. P. Servais, L. Bordignon, M. Lamberigts, Galvatech'2001 (Brussels) pp. 187-194. !ref7 `Segregation on the surface of steels in heat treatment and pp95-113, 1995. oxidation', H. J. Grabke, V. Leroy, H. Viefaus, ISIJ International, 35, 2,
+
+!ref8 R. H. Stuhlen, R. Bastasz, J. Vac. Sci. Technol., 16, 3, 1979. !ref9 HSC Program, Outokupmu Research Oy, Finland. !ref10 `C1s and Au4f7/2 referenced XPS binding energy data obtained with different aluminium oxides, -hydroxides and ­fluorides', O. Bose. E. Kemnitz, A. Lippitz, W.E.S. Unger, Fresenius. J. Anal. Chem., 358, pp175-179.
+
+!ref11 `Application of W-ray photoelectron spectroscopy to the analysis of stainless steel welding aerosols', R. K. Tandor, R. Payling, B. E. Chenhall, P. T. Crisp, J. Ellis, R. S. Baker, Application of Surface
+
+Science, 20, pp527-537, 1985.
+
+!ref12 Practical surface analysis, D. Briggs, M. P. Seah, , John WILLEY &
+
+SONS. 1, second edition 1993.
+
+16
+

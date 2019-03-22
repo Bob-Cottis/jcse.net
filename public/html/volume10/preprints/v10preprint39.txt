@@ -1,0 +1,382 @@
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+Aqueous extracts for fenugreek leaves and seeds as green Inhibitors for mild steel corrosion in acidic solutions
+Ehteram A. Noor
+King Abd El Aziz university (Girls, college of Education),chemistry department Kingdom of Saudi Arabia, Phone: +00966(026939746), E-Mail: m7o7o7n@hotmail.com
+
+Abstract Electrochemical impedance spectroscopy and potentiodynamic polarization measurements were used to study the effect of aqueous extract of fenugreek leaves (AEFL) and aqueous extract of fenugreek seeds (AEFS) on the corrosion of mild steel in HCl and H2SO4 solutions. In both acids, AEFL and AEFS act predominately as anodic type inhibitors. The inhibition efficiency of both AEFL and AEFS increases with increasing of their concentration in 2.0 M of both acids, but at certain concentration of both extracts it decreases with increasing concentration of both acids. However, in HCl solutions, the inhibition efficiency of both AEFL and AEFS was always greater than in H2SO4 solutions for otherwise identical conditions. In HCl solutions the adsorption of both AEFL and AEFS on mild steel surface obeys the Langmuir adsorption isotherm, while obeys the Temkin adsorption isotherm in H2SO4 solutions. It was found that the obtained results from EIS and PDP measurements are in good agreement. Good correlation between the inhibitor constituents and its inhibition efficiency in both acids was obtained and discussed.
+
+Introduction Corrosion of metals is a very common problem that has economic implications costing billions of dollars each year. Corrosion environment can be broadly classified as atmospheric, underground/soil waste, acidic, alkaline and combinations of these. A wide variety of acid or alkaline conditions are encountered in common environments. Many of the several corrosion problems encountered in the industries involves acids and in certain cases due to alkalis and solvents. Hence corrosion inhibition programs are now required in many industries such as oil and gas exploration and production, petroleum refining, chemical manufacturing and the product additive industries. The corrosion inhibition is achieved by the addition of inhibitors to the system that prevent corrosion from taking place on metal surface. Inhibitors are chemicals that often work by adsorbing themselves on the metallic surface, protecting the metal surface by forming a film. The scientific and technical corrosion literature has descriptions and lists of numerous chemical compounds that exhibit inhibitive properties [1-15]. Of these only very few are actually used in practice. This is partly due to the fact that desirable properties of an inhibitor usually extend beyond those simply related to metal protection. Considerations of cost, toxicity, availability and environmental friendliness are of considerable importance in order to assess the current state of the art in the so called green chemistry. By definition, green chemistry is the design, development, and implementation of chemical products and processes to reduce or eliminate the use and generation of substances hazardous to human health and the environment. Unfortunately, some of the technically most important and most effective inhibitors for use in acid bath or cleaning with acids are toxic and therefore subjected to extensive handling and storage restrictions. Accordingly, the replacement of some toxic expensive chemical inhibitors by green inhibitors (i.e. environmentally friendly inhibitors) obtained from natural sources is required to keep
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 1 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+the environment more healthy, safely and under pollution control. Natural products of plant origin contain different organic compounds (e.g. alkaloids, tannins, pigments organic and amino acids) and most are known to have inhibitive actions [6, 16]. Various natural products, e.g. Toppaco extract [17], aloe extract [18], Mahasudarshana Churna extract [19], Azadirachta Indica leaves extract [20], Natural Honey [21, 22], some Herbs extracts [23], Opuntia extract [24], Camel's Urine [25], juice of Citrus Paradisi [26] and artemisia oil [27], etc. have been reported to be very good inhibitors. Fenugreek is an annual plant widely cultivated for both medicinal and culinary uses. Fenugreek leavs (see Fig. 1b) are used as herb, while Fenugreek seeds (see Fig. 1a) are used as spice in India, China and Middle East for centuries. Fenugreek has been used for numerous traditional indications [28]: Fenugreek seeds are rich in vitamin E and is one of the earliest spices known to man. Fresh fenugreek leaves are beneficial in the treatment of indigestion, flatulence and a sluggish liver. The dried leaves of the fenugreek is used as a quality flavour for meat, fish and vegetable dishes. An infusion of the leaves is used as a gargle for recurrent mouth ulcers. A gargle made from the seeds is best for ordinary sore throat. Fresh Fenugreek leaves paste applied over the scalp regularly before bath helps hair grow, preserves natural color, keeps hair silky and also cures dandruff. Fenugreek seeds made in gruel, given to nursing mothers increase the flow of milk. Topically, the gelatinous texture of fenugreek seed may have some benefit for soothing skin that is irritated by eczema or other conditions. It has also been applied as a warm poultice to relieve muscle aches and gout pain. However, numerous animal studies and preliminary trials in humans have found that fenugreek seeds can inhibit cancer of the liver, lower blood cholesterol levels and also have an anti-diabetic effect [29]. So, as commonly eaten food, fenugreek is generally regarded as safe [30]. From the above point of view, the present work aimed to test the inhibitive characteristics of aqueous extract of fenugreek leaves (AEFL) as well as of fenugreek seeds (AEFS) for mild steel corrosion in 2.0 M of HCl and H2SO4 solutions at 30o C by electrochemical impedance spectroscopy (EIS) and potentiodynamic polarization (PDP) measurements. Experimental 1- Mild steel The utilized mild steel has the following composition: C= 0.250%, Mn=0.480, Si=0.300, Ni=0.040, Cr=0.060, Mo=0.020, S=0.021, P=0.019 and the rest up to 100% Fe. 2- Inhibitor The studied inhibitor is of natural plant material with the potential name Fenugreek. The dried leaves and seeds of Fenugreek were obtained from Indian productions. Stock solution of the inhibitor extracts were prepared by boiling 10 g of dried, grounded fenugreek leafs or seeds in 250 ml of de-ionized water for 1 h. The extracts were kept all night and then filtered, completed to 250 ml by de-ionized water. Both the freshly prepared extract and that aged for tow moths give almost the same results. 3- Solutions
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 2 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+The aggressive solutions were prepared from analytical grade reagents (HCl and H2SO4) and deionized water. The required concentrations (0.5%, 1.0%, 2.0%, 5.0% and 10.0% v/v) of AEFL and AEFS were prepared by diluting with 2.0 M of HCl and H2SO4 solutions. In all experiments, the temperature of solutions was controlled at 30o C using a water thermostat. 2- Electrochemical measurements Electrochemical testing of inhibitors has the major benefit of short measurements time and giving vital information about the mechanism of inhibition. Confidence in these measurements is gained by replication. The electrochemical cell is a conventional three-electrode Pyrex glass cell. The mild steel specimen was embedded in Teflon holder using epoxy resin with an exposed area of 0.785 cm2. A platinum wire was used as an auxiliary electrode. The reference electrode was a saturated calomel electrode (SCE) coupled to a Luggin capillary whose tip was located between the working electrode and the auxiliary electrode. Electrochemical measurements were run by using a potentiostate/galvanoatate (ACM Gill AC instrument model 655) and a personal computer were used. ACM Gill software was used for EIS and PDP analysis. Prior to each experiment, the working electrode was polished successively with different grade of emery papers, then the polished metal surface was rinsed with de-ionized water, ethanol and finally dipped in the tested solution. After 10 minute of electrode immersion to attain open circuit potential, the electrochemical measurements will be done as follows: Firstly, the EIS measurements were carried out using AC signals of amplitude 10 mV peak-to-peak at the open circuit potential in the frequency range of 10 KHz to 0.5 Hz. The charge transfer resistance ( Rct ) values have been calculated from the difference in the impedance at low and high frequencies as suggested by Trsuru et al. [31]. The capacitance of the double layer ( C dl ) values are estimated from the frequency ( f ) at which the imaginary component of the impedance (-Z") is maximum and obtained from the equation:
+ f (- Z max . ) = 1 2C dl Rct
+
+(1)
+
+The percentage inhibition efficiency ( IE (%) ) values from EIS measurements were calculated from Rct data as follows:
+R -1 IE Rct (%) = (1 - ct ) × 100 - Rct1 °
+
+(2)
+
+- - where Rct1 and Rct1 are the reciprocals of charge transfer resistance in absence and presence of 
+
+inhibitor. Secondly, for each experiment, after impedance spectrum was obtained the potentiodynamic current-potential curves will be recorded immediately by changing the electrode potential automatically from ­550 to ­350 with scan rate of 1 mV s-1. Tafel lines extrapolation method was used for detecting icorr. and E corr. values for the studied systems. Because of the presence of a degree of non-linearity in the part of the obtained polarization curves, the corresponding anodic and cathodic Tafel slopes ( ba and bc ) were calculated as a slope of the points after corrosion potential ( icorr. ) by ± 50 mV using a computer least square analysis. The IE (%) values from PDP measurements were calculated as follows:
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 3 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+IE icorr . (%) = (1 -
+
+i corr.
+ i corr.
+
+) × 100
+
+(3)
+
+ where icorr. and icorr are the corrosion current densities in absence and presence of inhibitor. All the electrochemical measurements were performed in stagnant aerated solutions adjusted at 30° C.
+
+Results and discussion 1- EIS measurements Figure 2 and 3 show the Nyquist plots recorded for mild steel in 2.0 M of HCl and H2SO4, respectively, in the absence and presence of increasing concentrations of AEFL. Similar plots were obtained for mild steel in both acids in the presence of different concentrations of AEFS and not shown. In general, as impedance diagrams for solutions examined have almost a semicircular appearance, it indicates that the corrosion of steel is mainly controlled by a charge transfer process [32-34]. The systems can be simulated by a simple circuit model of the randle type (see Fig. 4) which consists of parallel combination of resistor, Rct , and a capacitor, C dl , both are in series to resistor, Rsol . . Randle equivalent circuit was successfully applied for some corrosion and corrosion inhibition systems [35-41]. All EIS parameters ( Rct , icorr and C dlt ) and the IE Rct (%) obtained for mild steel corrosion in both acids in absence and presence of different concentrations of both AEFL and AEFS were recorded in Table 1. The results in this table can be illustrated as follows: inh. uninh inh uninh inh uninh In H2SO4 solutions, an acceleration behavior ( Rct . < Rct . , icorr > icorr . and C dl . > C dl . ) is observed with the addition of low concentrations of AEFL (  1.0 v/v%. ). In general, Rct value increases with inhibitor concentration leading to a decrease in icorr for mild steel in the tested solutions. Double layer capacitance value ( C dl ) decreases as the concentration of both extracts increases which indicates the adsorption of the inhibitor on the metal surface. Both extracts inhibit mild steel corrosion in 2.0 M HCl solution more than in H2SO4 solution. While in each acid AEFS inhibits mild steel corrosion more than AEFL. 2- PDP measurements Figures 5 and 6 show the effect of AEFS on the anodic and cathodic polarization curves for mild steel in 2.0 M of HCl and H2SO4, respectively. Similar curves were obtained in the case of AEFL in both acids and not shown. It was observed that, in HCl and H2SO4, both extracts increase also both of the anodic and cathodic overpotentials but its influence on the cathodic side is much less obvious (act predominately as anodic inhibitors). All polarization parameters, that is, corrosion potential ( E corr. ), Tafel slopes ( bc and ba ), corrosion current density ( icorr. ) and the corresponding IE icorr . (%) values for mild steel corrosion in both acids in absence and presence of different concentrations of both extracts were estimated and listed in Table 2 and the following observation could be drawn: The anodic (ba) and cathodic (bc) Tafel slopes are approximately constant suggesting the inhibiting action of both extracts by adsorption at the metal surface according to blocking adsorption mechanism. Hence, both extracts decrease the surface area available for anodic dissolution and cathodic hydrogen evolution reaction without affecting the reaction mechanism.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 4 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+The values of E corr. change somewhat to less negative values with increasing extracts concentration in both acids. The obtained icorr. values have the same trend as that obtained from EIS measurements The IE icorr . (%) values are in good agreement with that obtained from EIS measurements. 3- Adsorption isotherm Assuming that the corrosion inhibition were caused by the adsorption of the extract species on mild steel surface from both acids, the degree of surface coverage,  , for different concentrations of both AEFL and AEFS in both acids was evaluated from EIS and PDP measurements by applying the ratio IE (%) / 100 . Attempts were made to fit  values to various adsorption isotherms and by far the best fit was obtained with the Langmuir isotherm [42] for both AEFL and AEFS in HCl solutions and with Temkin [43] isotherm for both extracts in H2SO4 solutions. According to Langmuir and Temkin isotherms,  is related to inhibitor concentration, C inh. , via the following Eqs., respectively:
+C inh.  -1 = 1 K e.c.a. + C inh.
+
+(4) (5)
+
+=
+
+1 1 ln K e.c.a. + ln Cinh. (-2a) ( -2a )
+
+Equations 4 and 5 predict a linear plot between values of C inh.  -1 and C inh. (see Fig. 7) and between values of  and ln C inh. (see Fig. 8), respectively; where K e.c.a. is the equilibrium constant of inhibitor adsorption and a is the Frumkin lateral interaction factor [44], describing the molecular interactions in the adsorbed layer and is a measure for the steepness of the adsorption isotherm. It can have both positive and negative values. The more positive the value of a , the steeper is the  adsorption isotherm. It is well known that the standard free energy of adsorption, G ads. , is related
+ to the equilibrium constant of adsorption, K e.c.a. , and G ads. can be calculated by the following equation:
+
+log K e.c.a. = - log C H 2O -
+
+ G ads.
+
+2.303RT
+
+(6)
+
+where C H 2O is the concentration of water molecules at metal electrolyte interface. All adsorption parameters obtained for the adsorption of both AEFL and AEFS on mild steel surface from HCl and H2SO4 at 30°C were recorded in Tables 3 and 4, respectively. Inspection of Table 3 and 4, the following results can be obtained: The slopes of Langmuir relation are closed to unity indicating that both AEFL and AEFS were adsorbed on mild steel surface from 2.0 M HCl solutions by forming mono adsorbed layer [45] and there was no interactions among the adsorbed species [46, 47]. The negative values of a factor indicates the existence of repulsive forces among the adsorbed species on mild steel in H2SO4 solutions emphasizing the lowest inhibitive properties of both AEFL and AEFS in such solutions.  The negative values of G ads. indicate spontaneous interaction of inhibitor species with the corroding mild steel surface [48, 49].
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 5 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+ From G ads. values, both AEFL and AEFS have better performance in HCl solutions than in H2SO4. On the other hand, AEFS is more effective corrosion inhibitor than AEFL in both acids
+
+4- Inhibitor constituents and inhibition mechanism The active constituents in Fenugreek plant are [28]: Alkaloides: Trimethylamine, Neurin, Trigonelline (N-methyl-pyridinum-3-carboxylate), Choline (trimethyl ethanolamine), Gentianine, Carpaine and Betain Amino acids: Isoleucine; 4-hydroxyisoleucine, histidine, leucine, L-tryptophan,alanine and argenine. Saponins: Graecunins, fenugrin B, fenugreekine and trigofoenosides A-G. Seroidal sapinogens: Yamogenin, diosgenin, smilagenin, sarsasapogenin, tigogenin, neotigogenin, gitogenin, neogitogenin and yuccagenin. Fiber: Gum and neutral detergent. Others: Coumarin, lipids, vitamins and minerals. Most of the above substances are concentrated in seeds part more than the other parts, explaining why AEFS has good inhibitory action as compared with AEFL. As noticed, fenugreek plant contains a wide variety of N-containing compounds (e.g. amines, amino acids, quaternary Nheterocyclic compounds, etc.). So, the inhibitory action of both AEFL and EEFS can be discussed as follows: It was reported [50] that N-containing compounds such as amines, amino acids and quaternary ammonium salts are relatively ineffective in prevention corrosion of iron and steel in H2SO4 solutions unless certain anions, especially halide (except fluoride) and pseudo-halide ions, are present. This long known synergistic effect [51, 52] is widely used in inhibitor formulation. As a rule of thumb, N-containing compounds exert their best efficiencies in HCl solutions [50]. According to Bockris and Drazic [53], the inhibition mechanism can be explained by the Fe - (Inh.)ads. intermediates: (7) This Fe - (Inh.)ads. intermediate forms an adsorption layer of the inhibitor. The adsorption layer acts as a hindrance to the aggressive solution and enhances the protection of the metal surface. Initially when there is insufficient Fe - (Inh.)ads. to cover the metal surface, because the inhibitor concentration is low or because the adsorption rate is slow, the metal dissolution takes place at sites on mild steel surface free of Fe - (Inh.)ads. . If the charge transfer occurs with de-sorption of intermediate complex, the inhibitor will function as an accelerator [54]. With high inhibitor concentration a compact and coherent inhibitor over layer may be formed on mild steel surface, reducing chemical attack of the metal. An acceleration behavior was reported for mild steel in H2SO4 in the presence of some amino phenols and this behavior tends to decrease with the increase in the inhibitor concentration, while they behave very well as corrosion inhibitors in HCl solutions [54]. These observations are similar to that obtained in the present work. The better performance of both AEFL and AEFS in 2.0 M HCl solutions as compared in H2SO4 can be explained in the following way: In Aqueous acidic solutions amines exist either as neutral molecules or in the form of onium ions while the originally quaternary ammonium ions exist in such solutions only in the cationic form. The possibility of cation adsorption by electrostatic forces is determined by the electric
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 6 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+Fe + Inh.  Fe - (Inh.)ads.  Fe n + + ne - + Inh.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+charge of the electrode with respect to the solution, i.e., by the potential of zero charge (p.z.c.) with respect to E corr. . This model defines the  -potential [55], which is expressed as:  = E corr . - p.z.c. (8) It was reported that the iron (56) and steel (57) surface is positively charged in acid solutions (i.e. positive value for  potential). Accordingly, direct adsorption of onium ions on the positively charged metal surface is not favorable. Accordingly the extent of onium ions adsorption depends on the nature of the anions in acidic solutions. Chloride ions of smaller size and having no primary hydration sheaths are more strongly adsorbed on the positively charged metal surface than the heavily hydrated ions of sulphate [58]. This results in a change from a positive to a negative charge, thus increasing the electrostatic component of the energy of adsorption [59]. So a close-backed inhibitor film will form on the metal surface and inhibit iron ions to enter the solution. Similarly lesser adsorption of sulphate ions on the metal surface leads to lesser inhibition of corrosion. Antropov [60] suggests that the adsorption of the amine is by means of onium ion. Other authors [61, 62] generally assumed the existence of onium ions in the bulk of the acid solution and subsequent discharge with the formation of molecules at the interface, with the consequent chenisorption through a lone pair of electrons of the hetero-atom. Hackerman and McCafferty [62] suggested that an organic amine-type inhibitor can act in two different ways: 2 (1) It can compete with the anions of the acid ( Cl - or SO4 - ) for position on the water-covered metal surface. In doing so the protonated amine loses its protons on entering the double layer and gets chemisorbed by donating a pair of electrons to the metal. (2) Protonated amines can be electrostatically adsorbed on the anions-covered metal surface through its hydrogen ions. Both these mechanisms can increase the inhibitor, performance depending on the type of anions in the acidic solution. To elucidate these mechanisms further studies must be done on temperature effect and halide ion additions on the corrosion inhibition of mild steel by AEFL or AEFS in both acids. 5- Effect of acid concentration The effect of different acid molarities (1 M-5.5 M) on the inhibitive efficiency ( IE Rct . (%) ) of AEFL and AEFS at concentration level of 2.0 v/v% is shown in Fig. 9. It may be generalized that the inhibition efficiency of both extracts decreases with increase in the concentration of both acids. This behavior may be traced to the increase tendency of the metal to react with acid and liberate hydrogen vigorously [63]. This may not allow the establishment of adsorption process sufficiently and rapidly resulting in decrease of inhibition. However at all the studied acid concentrations the AEFL and AEFS inhibit mild steel corrosion in HCl solutions greater than in H2SO4 solutions.
+
+Conclusions  In HCl and H2SO4 solutions, both AEFL and AEFS act predominately as anodic type inhibitors.  The inhibition efficiency of both AEFL and AEFS increases with increasing of their concentration in 2.0 M of both acids, but at certain concentration of both extracts it decreases with increasing concentration of both acids.  In HCl solutions, the inhibition efficiency of both AEFL and AEFS was always greater than in H2SO4 solutions for otherwise identical conditions.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 8 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+ The adsorption of both AEFL and AEFS on mild steel surface in HCl solutions obeys the Langmuir adsorption isotherm, while obeys the Temkin adsorption isotherm in H2SO4 solutions.  The obtained results from EIS and PDP measurements are in good agreement.  Good correlation between the inhibitor constituents and its inhibition efficiency in both acids was obtained and discussed.
+
+References 1. G . Schmitt and K. Bedbur, Werkstoffe und Koeeosion 36 (1985) 273. 2. M. Partos and N. Hackerman, J. Electrochem. Soc. 129 (12) (1992) 3428. 3. C. Monticelli, A. Frignani, G. Brunoro, G. Trbanelli, F. Zucchi and M. Tassinari, Corros. Sci. 35 (5-8) (1993) 1483. 4. T. Vasudevan, S. Muralidharan, S. Alwarappan and S. Iyer, Corros. Sci. 37 (8) (1995) 1235. 5. M. Quraishi, M. Wajid Khan, M. Ajmal, S. Muralidharan and S. Iyer, J. Appl. Electrochem. 26 (1996) 1253. 6. M.A. Abdel Rahim, H. B. Hassn and M. W. Khalil, Mat.-wiss., u. Werkstofftech. 28 (1997) 198. 7. B. Müller, M. Shahid and G. Kinet, Corros. Sci. 41 (1999) 1323. 8. L. Elkadi, B. Mernari, M. Traisnel, F. Bentiss and M. Lagrenée, Corros. Sci. 42 (2000) 703. 9. S. S. Abd El Rehim, H. H. Hassan and M. A. Amin, Mater. Chem. Phys. 70 (2001) 64. 10. A. A. Mazhar, S.T. Arab and E. A. Noor, Corrosion 58 (3) (2002) 192. 11. E. A. Noor and A. H. Al Moubaraki, Internat. J. Chem. 13 (3) (2003) 139. 12. A. Yurt, G. Gereket and C. Ogretir, J. Molecular Structure: THEOCHEM 725 (2005) 215. 13. E. Noor, Corros. Sci. 47 (2005) 33. 14. M. Bouklah, A. Ouassini, B. Hammouti and A. Idrissi, Appl. Surf. Sci., 250 (1-4) (2005) 50. 15. K. C. Emregul and M. Hayvali, Corros. Sci. 48 (4) (2006) 797. 16. G. N. Methta and T. P. Sastry, J. Electrochem. Soc. India 30 (4) (1981) 284. 17. K. Srivastava and P. Srivastava, Corrosion Prevention & Control December (1980) 5. 18. R. M. Saleh, M. A. Abd El-Alim and A. A. Hosary, Corrosion Prevention & Control February (1983) 9. 19. S. J. Zakvi and G. N. Mehta, J. Electrochem. Soc. India 37 (1988) 237. 20. U. J. Ekpe, E. E. Ebenso and U. J. Ibok, J. W. Afr. Sci. Assoc. 37 (1994) 13. 21. A. Y. El-Etre, Corros. Sci. 40 (11) (1998) 1845. 22. A. Y. El-Etre and M. Abdallah, Corros. Sci. 42 (2000) 731. 23. E. Khamis and N. Alandis, Mat.-wiss., u. Werkstofftech. 33 (2002) 1. 24. A. Y. El-Etre, Corros. Sci. 45 (2003) 2485. 25. E. A. Noor, Egypt. J. Chem. 47 (3) (2004) 305. 26. O. K. Abiola, N. C. Oforka and E. E. Ebenso, JCSE 5 (10) (2004) 1. 27. M. Benabdellah, M. Bekaddour, B. Hammouti, M. Bendahhou and A. Aouniti, Appl. Surf. Sci. 252 (18) (2006) 6212. 28. http://www.fenugreek-seeds.com/ 29. A. Chevallier, The Encyclopedia of Medicinal Plants Dolrling Kindersley. London (1996) ISBN 9-780751-303148. 30. RD. Shama, A. Sarkar, DK. Hazra, et al Phytother. Res. 10 (1996) 519. 31. T. Tsura, S. Haruyama and B. Gijustsu, J. Jpn. Soc. Corros. Eng. 2 (1978) 570. 32. M. Metikos-Hukovi and R. Babi, J. Appl. Electrochem. 28 (1998) 433.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 9 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+33. L. Larabi and Y. Harek, Portug. Electrochi. Acta 22 (2004) 227. 34. F.Bentiss, M.Lebrini and M.Lagrene, Corros. Sci. 47 (2005) 2915. 35. E. McCafferty and N. Hackerman, J. Electrochem. Soc. Frbruary (1972) 146. 36. F. Bentiss, M. Traisnel and M. Lagrenee, J. Appl. Electrochem. 31 (2001) 41. 37. A. Ashassi-Sorkhabi, B. Shabani, B. Aligholipour and D. Seifzadeh, Appl. Surf. Sci. (2005) 38. P. Zhao, Q. Liang c, Y. Li, Appl. Surf. Sci. 252 (2005) 1596. 39. C. Jeyaprabha, S. Sathiyanarayanan, S. Muralidharan and G. Venkatachari, J. Braz. Chem. Soc., 17 (2006) 61. 40. I. Dehri and M. Ozcan, , Mater. Chem. Phys, 98 (2006) 316­323 41. K.F. Khaled, Appl. Surf. Sci., 252 (2006) 4120­4128 42. I. Langmuir, J. Amer. Chem. Soc. 39 (1947) 1848. 43. M. I. Temkin, Zh. Fiz. Khim 15 (1941) 296. 44. D. M. Drazic, L. J. Vracar, V. J. Drazic, Electrochim. Acta 39 (8/9) (1994) 1165. 45. L.-G. Qiu, A.-J. Xie and T.-H. Shen, Corros. Sci. 47 (2005) 273. 46. A. Y. El-Etre, Corros. Sci. 43 (2001) 1031. 47. F. Bentiss, M. Lagrenee, M. Traisnel and J. C. Hornez, Corrosion 55 (1999) 968. 48. J. Marsh, Advanced Organic Chemistry, 3rd Edition, Wiley Eastern, New Delhi (1988). 49. G. K. Gomma, M. H. Wahdan, Mater. Chem. Phys. 39 (1995) 209. 50. G. Schmitt, Br. Corros. J. 19 (1984) 165. 51. S. Muralidharan, S. Syed Azim, S. V. Iyer, Ind. J. Chem. Technol. 5 (1998) 167. 52. N. Calkan, S. Bbilgis, Appl. Surf. Sci. 153 (2000) 128. 53. J. O,M. Bockris, D. Drazic, Electrochim. Acta 7 (1962) 293. 54. S. Rengamani, S. Muralidharan, M. A. Kulandainathan, S. V. Iyer, J, Appl. Electrochem. 24 (1994) 355. 55. L. I. Antropov, Proc. 1st Inter. Cong. Met. Corros. (London, United Kingdom: 1961) 147. 56. B. B. Damaskin, O. A. Petrii, V. V. Batrakov, "Adsorption of Organic Compounds on Electrodes" (New York & London: Plenum Press: 1971) 265. 57. G. Banerjee, S. N. Malhotra, Corrosion 48 (1992) 10. 58. S. Muralidharan, P. Chandrakumari, K. Madhavan, T. Vasudevan, S. V. Iyer, Anti-Corrosion Methods and Materials 41 (1994) 4. 59. R. J. Meakins, Br. Corros. J. 8 (1973) 230. 60. L. I. Antropov, Corros, Sci. 7 (1967) 607. 61. G. Trabanelli, F. Zucchi, G. Gullini, V. Carassiti, Werkstoffe und Korrosion 20 (1969) 1012. 62. N. Hackerman, E. McCafferty, Proc. 5th Inter. Cong. Met. Corros. (Tokyo: 1987) 542. 63. J. D. Talati, D. K. Gandhi, Corros. Sci. 23 (1983) 1315.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 10 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+The Figures:
+
+(a)
+
+(b)
+
+Fig. 1. The trifoliate Fenugreek leaves and (b) The yellow rhombic Fenugreek seeds.
+
+Fig. 2. Nyquist plots for mild steel in 2.0 M HCl in absence and presence of different concentrations of AEFL at 30° C.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 11 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+Fig. 3. Nyquist plots for mild steel in 2.0 M H2SO4 in absence and presence of different concentrations of AEFL at 30° C.
+
+Cdl Rsol.
+
+Rct
+
+Fig. 4. The equivalent circuit model for the metal/solution interface.
+
+Fig. 5. Potentiodynamic Polarization curves for mild steel in 2.0 M HCl in absence and presence of different concentrations of AEFS at 30° C.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 12 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+Fig. 6. Potentiodynamic Polarization curves for mild steel in 2.0 M H2SO4 in absence and presence of different concentrations of AEFS at 30° C.
+
+140 120 100
+-1 inh.
+
+A EFL
+
+ C
+
+80 60 40 20 0 0
+140 120
+
+E IS PDP
+20 40 60 80 100 120
+
+
+
+-1
+
+100
+inh.
+
+A EFS
+
+80 60 40 20 0
+
+C
+
+E IS PDP
+0 20 40 60 80
+-1
+
+100
+
+120
+
+C
+
+in h .
+
+(m l l )
+
+Fig. 7. Langmuir isotherm for adsorption of AEFL and AEFS on mild steel surface in 2.0M HCl at 30° C.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 13 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+0 .9 0 .6 0 .3
+
+A EFL
+
+
+
+0 .0 -0 .3 -0 .6 1 .0 0 .8 0 .6 0 .4 1 .5 2 .0 2 .5 3 .0 3 .5 4 .0 4 .5 5 .0
+
+E IS PD P
+
+A EFS
+
+
+
+0 .2 0 .0 1 .0 1 .5 2 .0 2 .5 3 .0 3 .5 4 .0
+
+E IS PDP
+
+4 .5
+
+5 .0
+
+l n C in h . ( C in h . , m l l - 1 )
+
+Fig. 8. Temkin isotherm for adsorption of AEFL and AEFS on mild steel surface in 2.0M H2SO4 at 30° C.
+
+90 80
+
+HCl
+
+IER (%)
+
+70 60 50 40 0.0 50 40 0.2 0.4 0.6 0.8
+
+cy
+
+AEFL AEFS
+
+H2SO4
+
+IER (%)
+
+30 20 10 0 -10 -20
+0.0 0.2 0.4 0.6 0.8
+
+cy
+
+AEFL AEFS
+
+logCAcid, (CAcid, M)
+
+Fig. 9. Effect of acid concentration on inhibition efficiency of 2.0 v/v% AEFL and AEFS for mild steel at 30° C.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 14 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+The Tables:
+
+Table. 1. EIS parameters and corresponding IE Rct (%) for mild steel corrosion in 2.0 M of HCl and H2SO4 in absence and presence of different concentrations of AEFL and AEFS.
+Cinh (v/v %) AEFL 0.0 0.5 1.0 2.0 5.0 10.0 AEFS 0.5 1.0 2.0 5.0 10.0 HCl Cdl; Icorr (µF cm-2) (mA cm-2) 1883.0 745.5 737.8 657.1 515.6 487.8 741.6 725.8 623.3 439.5 372.9 6.03 1.95 1.61 1.39 1.13 1.06 1.94 1.44 1.37 1.05 0.91 H2SO4 Cdl; Icorr (µF cm-2) (mA cm-2) 1706.0 7264.0 2949.0 1568.0 1028.0 546.1 1876.0 1704.0 979.0 827.6 667.9 4.19 5.33 5.13 3.37 2.44 1.47 4.06 2.85 2.53 1.95 1.56
+
+Rct ( cm2) 4.33 13.41 16.23 18.84 23.08 24.56 13.47 18.07 18.98 24.92 28.61
+
+IE (%) 67.71 73.32 77.02 81.24 82.37 67.85 76.04 77.19 82.62 84.87
+
+Rct ( cm2) 6.06 4.90 5.09 7.73 10.68 17.71 6.41 9.15 10.33 13.41 16.68
+
+IE (%) -23.67 -19.06 21.60 43.26 65.78 5.46 33.77 41.34 54.81 63.67
+
+Table. 2. PDP parameters and corresponding IE icorr . (%) for mild steel corrosion in 2.0 M of HCl and H2SO4 in absence and presence of different concentrations of AEFL and AEFS.
+Cinh (v/v %) AEFL 0.0 0.5 1.0 2.0 5.0 10.0 AEFS 0.0 0.5 1.0 2.0 5.0 10.0 HCl ba Icorr (mA cm-2) (mV) 73 70 71 74 73 70 73 71 73 65 65 62 6.04 2.82 1.76 1.57 1.06 0.77 6.04 1.92 1.36 1.33 1.03 0.74 H2SO4 ba Icorr (mA cm-2) (mV) 60 55 52 51 47 47 60 53 46 49 46 44 4.30 5.46 5.32 3.70 2.52 1.84 4.30 3.82 3.01 2.61 1.94 1.40
+
+-Ecorr (mV) 478 480 467 467 466 465 478 503 490 485 466 468
+
+-bc (mV) 65 64 61 63 64 65 65 61 65 51 56 58
+
+IE (%) 53.31 70.86 74.01 82.45 87.25 68.21 77.48 77.98 82.95 87.75
+
+-Ecorr (mV) 462 450 443 439 437 437 462 450 448 442 441 439
+
+-bc (mV) 51 47 46 45 47 45 51 42 43 43 41 39
+
+IE (%) -26.98 -23.72 13.95 41.40 57.21 11.16 30.00 39.30 54.88 67.44
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 15 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 39
+
+submitted 15 July 2007
+
+Table. 3. Langmuir adsorption isotherm parameters for AEFL and AEFS onto mild steel in HCl at 30o C.
+Adsorption parameters
+C inh.
+
+v/v % AEFL AEFS
+
+Slope EIS 1.20 1.20 PDP 1.12 1.12
+
+K e.c.a. (ml l)
+
+-1
+
+ G ads. KJ mol
+
+-1
+
+EIS 0.506 0.526
+
+PDP 0.290 0.408
+
+EIS -15.69 -15.79
+
+PDP -14.29 -15.15
+
+Table. 4. Temkin adsorption isotherm parameters for AEFL and AEFS onto mild steel in H2SO4 at 30o C.
+Adsorption parameters
+C inh.
+
+v/v % AEFL AEFS EIS -1.58 -2.79
+
+a PDP -1.62 -2.78
+
+K e.c.a. (ml l)
+
+-1
+
+ G ads. KJ mol
+
+-1
+
+EIS 0.080 0.421
+
+PDP 0.068 0.389
+
+EIS -11.04 -15.23
+
+PDP -10.62 -15.03
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 16 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

@@ -1,0 +1,366 @@
+Volume 6 Paper C113
+
+Metal Surfaces with Ultrahydrophobic Protection and Self-Cleaning
+M. Thieme1, R. Frenzel2, V. Hein1, H. Worch1
+1
+
+Properties: Perspectives for Corrosion
+
+Technische Universität Dresden, Institut für Werkstoffwissenschaft, D-01062 Dresden 2 Institut für Polymerforschung Dresden e.V., Hohe Str. 6, D-01069 Dresden mithi@rcs.urz.tu-dresden.de
+
+Abstract
+This contribution describes the generation of ultrahydrophobic aluminium surfaces in view of improving the corrosion prevention behaviour of this material group. The morphological and chemical prerequisites for ultrahydrophobicity are fulfilled by a treatment which comprises an anodisation step under intensified conditions and a chemical modification. The paper focusses on i) findings gained for the special anodisation procedure and for the produced oxidic layers, such as the composition, micro-structure and micro-hardness, ii) the chemical modification and the wetting properties achieved in dependence on the morphology of the substrates, and iii) results of first tests directed on the evaluation of the resistance of different coating systems towards water and light exposure. Keywords: aluminium, anodisation, oxide layer, micro-roughness, ultrahydrophobicity, bionics, stability testing
+
+Introduction
+
+Water shows a remarkably ambivalent behaviour with respect to corrosion. On the one hand, it is an essential prerequisite for generating passive layers well-known for iron, nickel, chromium, hand, water molecules play a key role in the course of the active titanium, aluminium and many other elements and alloys. On the other dissolution as the transfer of metal ions from the solid into aqueous precipitation of solid, non-protecting layers. One of the traditional ways for preventing metal surfaces from such an attack comprises the formation of separating layers between substrates and media. This strategy is well-known in corrosion science under the designation `passive corrosion protection'. In the case of aluminium, which exhibits a very high thermodynamic tendency for the formation of its oxide, the surface is usually anodised forming oxidic layers with thicknesses from nanometers up to about 0,1 mm. Normally, this type of conversion layers are very hydrophilic; porous sub-layers absorb water and with it also dissolved deleterious substances. Moreover, corrosion-stimulating solid particles may deposit on the surface. On this background, it can be expected that the protecting effect of anodised layers on Al and its alloys will be enhanced, if the separation is combined with water-repelling properties and, even better, with ultrahydrophobic properties, which are connected with self-cleaning effects, too. This property profile is an originally natural strategy, which was evolved in order to minimise deleterious effects of water itself and of micro-biological attack. Clearly, such a strategy has found considerable attention, stimulated by the fundamental investigations properties of the leaves of the lotus plant (Nelumbo nucifera) and a promoted a bionics-based development in technology. Meanwhile, impacts are recognised in various fields, such as ceramics, plastics and paintings for facades. In each case, certain morphological and chemical features must be generated. of Barthlott and Neinhuis [#ref01,02] into the water-repelling
+
+electrolyte solutions, which may subsequently be connected with the
+
+great number of other herbs. They created the term `Lotus-effect®' and
+
+We have transferred ultrahydrophobicity to metals such as aluminium and titanium. In contrary to pathways using structured hydrophobic coatings of higher thickness, we produced the required micro2
+
+roughness directly on the metals' surfaces utilising quite different approaches [#ref03]. This was followed by a thin-film coating (chemical modification) affecting neither the morphology nor the
+
+optical look. Alkyl silanes without or with fluorine-substituted chain, polyelectrolyte/surfactant complexes were successfully employed
+
+-functionalised alkyl silanes, a fluorine-containing co-polymer, and [#ref03], alkanephosphonic acids as well. Efforts are now being made to improve the mechanical stability of the systems developed.
+
+This contribution refers to the major technological pathway elaborated that comprises an anodisation step under intensified conditions, where formation of an oxidic layer and micro-roughening are simultaneously done. The paper focusses on i) findings gained for the special anodisation procedure and for the produced oxidic layers, such as the composition, micro-structure and micro-hardness, ii) the chemical modification and the wetting properties achieved in dependence on the morphology of the substrates, and iii) results of first tests which are directed on the evaluation of the resistance of different coating systems towards water and light exposure.
+
+Experimental
+
+3
+
+Materials: Pure aluminium EN AW-Al 99.5 (EN AW-1050) was used as well as the materials Al 99.9 (1090; Merck) and Al Mg1 (5005). The size of the sheet specimens was 26x38 mm2. Pretreatment: All the specimens were initially undergone a cleaning pre-treatment (abbr. `P'), consisting of alkaline pickling (1 M NaOH, ambient temperature, 10 min) and neutralising (1 M HNO3, 60 s);. Anodisation: For micro-roughening, the specimens were anodised
+
+under the following conditions which are designated as `intensified' sulphate concentration of 2.3 mol L-1 (c(Al3+)max = 0.36 mol L-1), (abbr. `Asi'): stirred solutions of H2SO4 and Al2(SO4)3 with a total temperature T = (40±1) °C, current density j = 28-30 mA cm-2, for at least 3.6 ks.
+
+duration t = 1.2 ks. The specimens were rinsed and water-immersed
+
+Other well-known anodisation procedures were applied for comparison [#ref04,05]: i) the usual sulphuric acid anodisation (18thickness and hardness of the layer (1.7 M H2SO4, 1 °C, 22 mA cm-2, 0.9 ks; `Ash'), iii) conditions for generating a barrier-type oxide layer (0,5 M B(OH)3 + 0,05 M Na2B4O7, ca. 22 °C, 2.5 mA cm-2, max. 40 V; `Ab'). Additionally, alternative conditions for achieving ultrahydrophobicity (0.5 M H2SO4, 10 mA cm-2, 10.8 ks; [#ref07]) were tested. Thermal treatments (`T') up to 450 °C were added in some cases. Mass changes were followed by weighing, where m1 - starting mass, 20 °C, 15 mA cm-2, 1.5 ks; `Asu'), ii) conditions for generating greater
+
+m2 ­ mass after anodisation, m3 ­ mass after thermal treatment. These parameters were supplemented by the mass m4 after stripping the
+layer in a small volume of 1 M H2SO4 and 0.7 M HCl, respectively (40 °C, 2.4 ks). These values were corrected for data obtained with specimens without oxide, because the stripping proved to be not fully selective. Before stripping the specimens were immersed in water for 1 h. Chemical modification (`cM'): The following solutions were employed: · hexadecyltrimethoxysilane (HTMS) (5 vol.% in aceton, 3 h), 4
+
+·
+
+tetradecanephosphonic acid (TDPA) (0.1 wt.% in ethanol-water 1+1, 12 h), both for routine testing,
+
+·
+
+butylmethylether, 3 h), ·
+
+perfluoroalkyltriethoxysilane (PFATES) (2 vol.% in t-
+
+[3-(2-aminoethyl)aminopropyl]trimethoxysilane (AAPS) (10 vol.% in ethanol, 3 h) followed by coating with the fluoropolymer poly(tetrafluoroethylene-co-2,2'-bis(trifluoromethyl)-4,5difluoro-1,3-dioxole) (Teflon® AF; DuPont) (0.6 wt.% in perfluoro-(2-perfluoro-n-butyl)-tetrahydrofuran (FC75; 3M)).
+
+Characterisation: The morphology was examined by scanning electron microscopy (Zeiss DSM 982 Gemini) preferably under specimen tilting. Roughness and roughness parameters were assessed by atomic force microscopy (AFM; Digital Instruments Dimension 3100 in tapping mode equipped with Pointprobe or UltraSharp silicon cantilevers; Nanosensors). Additionally, the confocal laser scanning microscopy (Zeiss LSM 510) was used. Metallographic cross-sectioning was done for studying the micro-hardness (Vickers diamond, 50 mN, 20 single measurements on one specimen) and the micro-structure of different oxide types. The latter was accomplished using the etching technique [#ref11], respectively. after Weck and ac metal deposition from a bath with SnSO4 and CuSO4
+
+Structural information on the atomic level was derived from X-ray diffraction (XRD; Siemens D 500) and from nuclear magnetic resonance spectrometry (NMR) probing the surface. Water content and binding or adsorption of the modification substances were studied by infrared spectrometry (FT-IRRAS; PerkinElmer FTS 2000 equipped with an autoimage microscope and a motorised xyz-stage). Additionally, quantitative analysis of the hydrogen content was accomplished by nuclear reaction analysis (NRA [#ref08]) employing the reaction 1H (15N, )
+12C 27Al
+
+nuclei (Bruker MSL 300, magic
+
+angle spinning) in the powdered layer material scratched off from the
+
+(tandem generator,
+15N,
+
+resonance energy 6.385 MeV, max. dosis ca. 3e+13
+
+6 mm2). Basic
+
+information on the composition of the anodic layers was gained from 5
+
+chemical analyses of the dissolved oxidic layers using complexometry with back titration [#ref12] (mAl,ox ­ mass of Al in the layer), ICP-MS (Metrohm, equipped with suppressor and conductivity detector; (Perkin-Elmer ELAN 5000; mAl,ox*, mMg,ox*) and ion chromatography
+
+mSO4,ox). The stripping had been optimised before in view of selectivity
+and completeness. Small acid volumes of 1 M H2SO4 and 0.7 M HCl, respectively, were used (40 °C, 2400 s; m4 ­ mass after stripping).
+
+The wetting properties were characterised by dynamic contact angle (DCA) measurements (Krüss DSA10) based on 3-5 sites on each specimen.
+
+Stability tests: i) Water spraying using a home-made setup, which directed a fine water beam (ca. 1 ml s-1) in an angle of 45° onto the centre of the specimens. An area of about 40 mm2 was affected. Durations of 4 h, 24 h and 100 h were employed including specimens with HTMS, PFATES and Teflon® AF coatings. ii) Constant-climate tests according to DIN 50017-KK (40 °C, 100 wt.% relative moisture under dewing, exposure 360 h) including TDPA, PFATES and Teflon® AF coatings, 8 specimens each. iii) Simulating weathering tests according to DIN EN ISO 11341, Zyklus A, comprising a change of moistening and drying (period length 2 h) combined with Xenon lamp radiation (exposure 360 h; Institut für Korrosionsschutz Dresden GmbH). Likewise, TDPA-, PFATES- and Teflon® AF-coated specimens (4 of each) were tested.
+
+Results and Discussion
+Characteristics of the intensified anodisation process Electrochemical features: Chronopotentiometric curves of the anodic process are characterised by an initially steep potential rise up to a maximum at about 12 V, which is reached after a few seconds pointing to the fast buildup of the barrier film (see below). In the following a potential plateau is formed at a level of 9-10 V. The slight variation of the potential heights reflect the different conductivity of the solutions according to the varying H+-to-Al3+ ratio. The curves are similar to those for the usual anodisation conditions where the potential levels 6
+
+are higher by about 2 V. This indicates that the oxide forming proceeds qualitatively in a similar manner. Mass analysis: Further insight into the anodisation process was gained from the analysis of the mass parameters in dependence on the anodisation time t (Fig. 1a). The value (m2-m1)/A, which is connected with the anodisation process itself, passes a shallow maximum for anodisation times of about 0.3 ks and moves into the negative range beyond 0.6 ks, i.e. the specimens are undergone an increasing mass loss in the course of anodisation. The specific oxide mass (m2-m4)/A grows up to a limiting value of about 2.5 mg cm-2 for anodisation times of more than 1.2 ks, disregarding the potential constancy from Faraday's law very correctly. This means that the transformation of Al into Al(III) proceeds exclusively on electrochemical basis.
+3 2 1 0 -1 -2 -3 -4 -5
+-1 -2  m A / mg cm
+
+about 10 s on. The overall metal loss described by (m4-m1)/A obeys
+
+0,50
+
+m2-m4
+ ox, r Al
+
+0,45 0,40 0,35 0,30 0,25 0,20 60 0 20 40
+
+m2-m1 m4-m1
+0 20
+
+ox rAl
+q / C cm -2
+60
+
+q / C cm -2
+
+40
+
+Fig. 1. Characteristics of the anodisation under intensified T, j
+
+conditions and medium stirring intensity for varied anodic charge
+
+Faraday's law (green line); b) oxide formation effectivity ox acc. to (1) data. based on m4-m1, and mass ratio rAl acc. to (2); means of 2-8 single
+
+density q; a) specific mass changes m/A and spec. metal loss acc. to
+
+Oxide formation effectivity: The degree of the formation of the oxidic layer was characterised by the oxide formation effectivity ox as that determined by complexometric titration following the selective dissolution) ratioed by the total metal loss. The latter quantity may be substituted by the charge density q as stated above: portion of the oxidised Al(III) which is bound in the layer (mAl,ox as
+
+7
+
+ ox =
+
+mAl,ox zF mAl,ox / A = m4 - m1 M Al q
+
+(1)
+
+(possibly with the exception of the first point at 100 s), whereon it decreases with increasing duration in a practically linear manner down to about 0.2. Interestingly, experiments without stirring resulted in even lower effectivities (ox = -(0.1-0.15) for t = 800-1200 s). Similar results were obtained with Al 99.9 and Al Mg1. It should be noted that the relatively low values of the effectivity may be disadvantageous from an economic point of view, but this is a consequence of the occurring reactions which are leading to the specific morphology (see below) as the major target of the anodic treatment. It is well-known that the oxide formation effectivity of the usual anodisation process is much higher due to the lower temperature. Comparative measurements gave values of nearly 80 wt.%. Morphology and wetting properties After anodisation under the intensified conditions according to the `Asi' procedure stated, the surface is given a micro-roughness characterised by non-regularly ordered mountain-like structure elements of typically 1-2 µm in distance and height (Fig. 2a, b). Additionally, a very fine, sub-µm-scale roughness can be seen. Contrarily, the usual anodisation `Asu' is characterised by a more or less flat, shell-like shaped (oxidic) surface (Fig. 2c). Subsequent hotwater sealing may lead to a complete change of the respective morphologies.
+
+has a maximum of ox  0.45 at the beginning of the anodisation
+
+Fig. 1b shows the course of ox vs. q. The oxide formation effectivity
+
+40 µm
+
+2 µm
+
+2 µm
+
+Fig. 2. SEM images of differently anodised surfaces; a) Al 99.5, `P' + `Asi'; b) Al Mg1, `P' + `Asi' (35° tilted); c) Al 99.5, `P' + `Asu'. 8
+
+These features have been proved to be decisive in view of the issue, whether or not the surface will display ultrahydrophobicity. Only on micro-rough surfaces, advancing and receding angles of 150-160° treatment (see below). each were received, following an appropriate chemical modification
+
+Whereas the `Asi'-produced surface was very uniform on Al 99.9, with Al 99.5 hole-like features (dimension of about 10 µm, Fig. 2a) occurred additionally. These regions are ascribed to oxygen gas evolution at sites of impurities in the material [#ref06]. The wetting properties were not affected.
+
+Surprisingly, the treatment conditions given by Shibuichi and cofailed in achieving ultrahydrophobicity. workers [#ref07] did not produce a suitable roughness and, hence,
+
+In view of generating micro-rough surfaces and ultrahydrophobic properties, a closer examination of the influence of the anodisation parameters led to the following conclusions: · The anodisation time had to exceed a certain minimum duration to produce the micro-rough surface type. At T = 40 °C, j = 28 mA cm-2 a minimum duration of about 1.0 ks was found; however, influences of the temperature and the stirring rate were detected (Fig. 3). A sharp change in the microscopic shape may occur in between only 0.1 ks during anodisation.
+
+5 µm
+
+5 µm
+
+5 µm
+
+stirring intensity (a-c); Al 99.9, `P' + `Asi', t = 1.0 ks. ·
+
+Fig. 3. SEM images (35° tilted) of anodised surfaces under increasing
+
+The temperature showed a `treatment window' which ranges This window becomes more narrow for t = 1.2 ks. 9
+
+altogether from 35 °C to 50 °C at j = 28 mA cm-2, t = 1.5 ks.
+
+At 40 °C, the current density could be varied from 28 up to 42 mA cm2
+
+(or even more) without changing the microscopic shape and, hence,
+
+not be compensated for by prolonged duration, i.e. the charge density is an important, but not the decisive quantity. Structural and mechanical properties No characteristic features of any oxyhydroxide or hydroxide anodised specimens, independent of the anodisation type. NMR revealed that the Al atoms are surrounded by O in a non-uniform manner. AlO4, AlO5 and AlO6 coordination was found at the same time, thus excluding the presence of a certain crystalline compound. Rather an amorphous structure should be present. The same holds for the powder material after a thermal treatment at 450 °C, 3.6 ks. XRD detected traces of bayerite -Al(OH)3. compounds could be gained by X-ray diffraction measurements on
+
+the wetting behaviour. Disadvantageous effects of a lower c.d. could
+
+Infrared measurements pointed to a difference between `Asi'- and `Asu'-generated layers comparing the region below 900 cm-1, in which the Al-O binding is displayed (Fig. 4). This reflects a different atomic binding for Al, even after tempering (see below).
+2,5 2 1,5 1 0,5 0 4000 3500 3000 2500 2000 1500 1000 500 P+Asi+T P+Asu
+
+Wavenumber  ' / cm -1
+
+Fig. 4. FT-IRRAS results of specimens after different anodisation (plus thermal treatment). Images of cross-sections indicated an average layer thickness of about 10 µm with a profile height of 2 µm. Stripping of the oxidic layer led to a specific mass loss of 2.3 mg cm-2 corresponding to a density of about 2.3 g cm-3, which is similar to the tabulated value of 2.42 g cm-3 10
+
+Absorbance A
+
+P+Asi
+
+for Al(OH)3, but considerably lower than for Al2O3 (3.90 g cm-3 [#ref13,14]).
+
+porous, anisotropic nature of the major part of the layer. This finding could be unambiguously visualised by `decorating' the pores with a highly contrasting metal filling (Fig. 5a). Additionally, the crosssections were etched to achieve a greater differentiation of the bulk of the layer. Fig. 5b demonstrates that the outer part of the layer underneath the micro-rough surface appears uniform, whereas the chemical stability of the oxidic substance is locally different. This statement was true also for `Asu'-type oxides (Fig. 5c).
+
+Under high magnification, SEM images of cross-sections revealed the
+
+inner part shows a fibre-like micro-structure, which means that the
+
+2 µm
+
+5 µm
+
+5 µm
+
+5 µm
+
+Fig. 5. SEM images of cross-sections; a) `P' + `Asi' plus cathodic deposition of Sn/Cu into the pore grounds of the oxidic layer; b) `P' + `Asi', cross-section etched; c) `P' + `Asu', cross-section etched; d) `P' + `Asi' + Cu evaporated for contrasting, micro-hardness indent in the oxidic layer; substrate-layer interfaces marked by arrows. Micro-hardness indents were nearly regularly shaped without any cracks (Fig. 5d). This points to a certain degree of compressibility, which is obviously larger in the lateral direction, as is expressed by the marked asymmetry of the indents. The micro-hardness amounted to 11
+
+250-290 HV 0.005 / 5 for `Asi'-produced layers on Al and Al Mg1. This was probably somewhat lower than for `Asu' (296±34 for T = was in the range ±10-15 %. Of course, the hardness of `Ash'-type 23 °C, 343±33 for 16 °C). The standard deviation on a single specimen specimens was highest (403±30). Thermal post-treatments may lead to an enhancement of the micro-hardness, especially with Al Mg1. Interestingly, the subsequent application of coating systems (see
+
+below) influences the micro-hardness of the oxidic layer. Whereas an enhancing tendency was found for specimens treated in non-aqueous media containing silanes, the micro-hardness was considerably concentration (e.g. 253 HV 0.005 diminished by employing TDPA solution, which contain water in a high specimen). However, TDPA solution did not reduce the mechanical 168 HV 0.005 for an Al Mg1
+
+stability following a thermal treatment. Thus, re-hydratisation phenomena can be limited or even prevented. Analytical results referring to the oxidic layers
+
+Al content: The content of Al in the oxidic layer was ratioed by its total mass in order to get a first information on what compound the layer substance might represent: rAl = mAl,ox m2 - m4 (2)
+
+= 0.45, Al(OH)3 (=Al2O3.3H2O) to rAl = 0,35. The experimental results the course of anodisation. This means the composition would lie without further components was preliminarily assumed. Mg content: The analysis data based on ICP-MS gave practically the same Mg/Al mass ratio as in the original material.
+
+For instance, AlOOH (= Al2O3.H2O) would correspond to a mass ratio rAl (Fig. 1b) gave values of rAl = 0.34-0.41 with an increasing tendency in between the hydroxide and the oxyhydroxide, if an oxidic compound
+
+Water content: The anodic layers contain a noticeable content of water depending on the type of anodisation, but also on the degree of the preceding water immersion. The content of hydroxyl groups and/or incorporated water molecules could be semi-quantitatively determined 12
+
+by FT-IRRAS investigation based on the region of 3400-3500 cm-1. The `Asi' layers contained markedly more water than `Asu' layers (Fig. 4). Moreover, the measurements showed that the water concentration in `Asi'-type layers was reduced by thermal treatment down to the level of `Asu' layers. However, a complete dehydratisation could not be achieved under the conditions chosen (400 °C, 0.9-3.6 ks). This finding does not correspond to the hydrargillite [#ref13]. Based on gravimetrical control, the amount of the desorbed water reached a limit of 3-4 wt.% in the temperature range of 350-450 °C. However, this content is not a constant. Following a prolonged water immersion of 20 h, a much greater water amount was indicated by IRRAS and the thermally removed portion was higher (10 wt.%). These results were contrasted by data from NRA referring to a depth of about 1 µm. Here, two parts could be discriminated: i) easily removable hydrogen, probably owing to physically adsorbed water, ii) stationary concentrations. The total concentrations were calculated as Assuming again a hydroxidic-oxidic compound of the formula atomic ratios to rH,at = 18.8 at.% H (`Asi') and 7.4 at.% H (`Asu'). statements given for the thermal transformation of bayerite and
+
+Al2O3.xH2O for the `Asi'-produced layer type, the following values may be assessed for x: xtherm  0.22 and xNRA  0.65, respectively. The discrepancy xtherm  xNRA underlines that a great portion of the total
+
+amount of incorporated water appears to be bound relatively strongly. Sulphate incorporation: Sulphate was qualitatively indicated by IRRAS analogous to (2) was defined. Values of rSO4  0.17 were found, equal [#ref05]. This means that the simplified formula Al2O3.xH2O of the layer substance should no longer be acceptable. Formation and composition of the oxidic layer From all these findings ideas about the formation of the layer may be derived. The principal composition of the layer type generated by intensified anodisation is similar to the usually acid-produced oxide [#ref05]. Thereafter, the composite layer consists of a very thin barrier 13 to data for usual anodic layers formed in sulphuric acid media (S-O binding, 950-1000 cm-1). Based on mass data, a mass ratio
+
+film at the metal-oxide interface and a much thicker sub-layer of porous nature (Fig. 5a, b). The total potential decay is divided between the resistance of the solid state conduction process in the barrier film (thickness db  0.9 nm [#ref05]) and, to a presumably lesser extent, the electrolyte resistance in the pores. The layer growth takes place primarily at the interfaces of the barrier film connected with the transport of Al3+ and O2- ions through the defective oxidic solid according to the brutto reaction
+
+2 Al + (3+x) H2O  Al2O3.(H2O)x + 6 H+ + 6 elayer proceeds so that db remains constant. Obviously, the interior electric field (Fig. 5a, b). In the pores and at the outer interface, equilibria of the form Al3+ + x H2O  Al(OH)x(3-x)+ + x H+ will establish regulating dissolution and precipitation.
+
+(3)
+
+At the same time, a transformation of the barrier layer into the porous structure of the porous sub-layer is formed under the influence of the
+
+(4)
+
+Additionally, the ions SO42- and HSO4- from the electrolyte solution will participate in the reactions and incorporate into the solid. Substituting now Al2O3.xH2O by the extended formula Al2[O3-y-z/2 (SO42-)y (HSO4)z].xH2O and assuming y << z because of the dissociation equilibria of H2SO4, it is possible to give a rough idea about the composition of the  0.17 and rH,at  0.19) and the corresponding molar masses the under `Asi' conditions. The thickness growth of the porous layer is increasingly limited by the chemical dissolution at the outer interface, until a stationary state will establish. The stirring effect may be understood considering the heat production at the ground and in the pores of the layer. In case of an unstirred solution the temperature rise will inevitably lead to a more intensive dissolution, connected with stronger profiling (Fig. 3a) and a decrease of the oxide forming effectivity compared to stirring. layer substance. From the experimental mass ratio data (rAl  0.40, rSO4 coefficients z  0.24 and x  0.52 are calculated for layers produced
+
+14
+
+Chemical modification and wetting properties Extensive selection tests were carried out for choosing suitable hydrophobic compounds. This led to the employment of various compound groups, such as differently functionalised reactive alkylsilanes, alkanephosphonic acids, fluoropolymers, and
+
+polyelectrolyte/surfactant complexes, which can covalently react with the hydroxylated surface, simply adsorbed or electrostatically bound [#ref03].
+
+Fig. 6 displays a comparison of the wetting behaviour based on `P'-
+
+For routine preparation, the application of an easy silane was sought.
+
+treated (non-anodised) Al 99.9 and coatings of alkyltrialkoxysilanes, which are expected to react with the solid (s) primarily according to: s-OH + (R-O)3SiCnH2n+1  s-O-Si(OR)2CnH2n+1 + R-O-H The wetting angles, especially r, increased with increasing chain (5)
+
+length up to n  16. Therefore, HTMS was chosen as a standard compound.
+a,r / °
+100 80 60 40 20 0 1 3 8 10 16 18
+
+Chain length n
+
+Fig. 6. Wetting angles a (left bars) and r (right bars) of `P'-treated Al 99.9 following a modification using alkyltrialkoxysilanes (CnH2n+1Si(OR)3. Wetting angle data for different pretreatments and HTMS modification are compiled in Table 1. For the `Asi'-treated surface type, ultrahydrophobicity was clearly achieved. The corresponding contact off the specimen even in case of a minute inclination. The most angle hysteresis (a - r) was mostly negligible. Water droplets will roll
+
+striking differences to the non-roughened surface types are seen for 15
+
+the receding angles. As expected, all the non-coated surface types were completely wettable in a fresh state. Treatment `P' + `Asi' (sulphuric acid, T, j intensified, t = 1.2-1.5 ks) + `cM' (HTMS)
+
+a / °
+
+r / °
+
+151-161 144-160
+
+`P' + `cM' (HTMS) `P' + `Ab' (borate buffer) + `cM' (HTMS) `P' + `Asu' (sulphuric acid, T, j regular) + `cM' (HTMS)
+
+108
+
+70
+
+113-128 29-86 80-105 26-62
+
+`P' + `As' (j intensified) + `cM' (HTMS) `P' + `As' (T intensified) + `cM' (HTMS) `P' + `As' [#ref7] + `cM' (HTMS)
+
+79±3 145±1 110±0.3
+
+21±4 103±13 22±5
+
+Table 1. Comparison of wetting properties of differently treated surface types (data scattering: standard deviation for one specimen, span widths for several specimens). Altogether, ultrahydrophobicity was achieved employing HTMS, chlorosilanes, PFATES, TDPA, Teflon and others based on microroughened oxidic surfaces, thus forming inorganic-organic hybrid systems. The modification coatings can generally not be detected by means of SEM. IRRAS investigations, however, indicated typical features of the coatings additionally to those owing to the substrates (Fig. 7): i) alkyl chains of HTMS and TDPA (C-H stretch, 28003000 cm-1), ii) C-F binding preferably of the alkyl chains with PFATES (1250 cm-1).
+
+16
+
+3
+
+1 0,5 0
+3500 2500 1500 500
+
+Wavenumber  ' / cm -1
+
+Fig. 7. FT-IRRAS results of coated specimens following `P'+'Asi'; (single bands) ­ HTMS after water spray test, dark green ­ PFATES after water spray test. The quantitative determination of surface energies is only restrictedly possible, because this quantity is not defined for a material-air composite surface, as is in fact produced by the intensified anodisation (cf. below). The maximum wetting angle values measured for more or less flat surfaces plus modification correspond to surface energies of s,min = 6-8 mJ m-2 based on the equation of Li and Neumann [#ref09]: orange ­ HTMS, light green ­ PFATES, pink ­ AAPS / Teflon® AF; brown
+
+cos a = -1 + 2
+
+s exp(- ß ( l -  s ) 2 ) l
+
+Absorbance A
+
+2,5 2 1,5
+
+(6)
+
+where l - surface tension of water as the test liquid (72.8 mJ m-2) and level of the surface energy is equal to the value given for the than for flat PTFE (18.5 mJ m-2 [#ref07]) For micro-profiled and chemically modified substrates, the profileto the formula given by Cassie and Baxter [#ref10]: bearing area tp to a resting water droplet may be assessed according
+
+ - constant ( = 0.0001247 m2 mJ-1). It should be noted that this
+
+trifluoromethyl group (ca. 6 mJ m-2), whereas it is considerably lower
+
+cos rough = t p  cos smooth - (1 - t p )
+
+(7)
+
+A level of only 10 wt.% is obtained for ultrahydrophobic surfaces. The corresponding force for the droplet to start rolling on such a surface is 17
+
+estimated to be in the sub-µN region, what explains the behaviour mentioned above. Stability evaluation Water spray test: These tests comprised HTMS, PFATES and AAPS / Teflon® AF as coatings based on a `P' + `Asi' treatment. In the beginning, the fine water beam bounced back vividly from all
+
+specimens involved. This was expected from the wetting angle data. With HTMS, the contact area enlarged after 2 h only. After 100 h a dramatic deterioration was observed (a = 120-125° and r < 10°).
+
+Whereas the IR spectrum showed no change after 4 h, the examination of the wetted area after 100 h revealed some alterations, the most ascribed to the formation of a C=O group (Fig. 7). The AAPS / prominent of which was a new band at 1730 cm-1 that must be
+
+Teflon® AF coating showed a noticeably better behaviour, although at termination of the test the bouncing effect had disappeared and the DCA values were reduced (140°/10°). Most stability could be stated with the PFATES-coated specimens. Here, the visual wetting behaviour had only slightly changed connected with moderately reduced receding angles (158°/159° identical with the original state (Fig. 7). Constant-climate test: The tests over 360 h were passed without noticeable deterioration of the wetting properties for PFATES and Teflon® AF coatings. TDPA-modified surfaces retained ultrahydrophobicity, but showed a decrease of the wetting angles by a few degrees (2-5°). Simulating weathering test: The wetting data received before and after this test are displayed in Fig. 8. According to the degree of the wetting angles' decrease the resistance towards dewing/drying and light radiation is ranking according to: TDPA << AAPS / Teflon® AF < PFATES. 142-153°/130°). The IR spectra were practically
+
+18
+
+ a,r / °
+160 150 140 130 120 TDPA PFATES Teflon AF
+
+Fig. 8. Comparison of the wetting data (a/r) for differently coated specimen types; yellowish bars - original state, bluish bars - after the simulating weathering test.
+
+Conclusions
+Ultrahydrophobic aluminium surfaces were successfully generated based on an intensified anodisation process, which aims at forming a micro-roughened oxidic surface, and a subsequent chemical modification using various hydrophobic compounds. Characteristic data were determined for the specific oxide mass and the oxide formation effectivity, which is remarkably lower than with the usually employed anodisation. Information was gained on structural properties and the composition, which is characterised by a markedly higher portion of water. In first tests under water and light exposure, the silane coating type with a fluorinated alkyl chain shows the highest stability among the coating compounds investigated. This may be a promising finding in view of further developments and testing. Although the micro-hardness of the oxidic layers is fairly high, the total hybrid system is relatively sensitive to scratching. This issue is under investigation at present.
+
+Acknowledgments: The authors are indebted to valuable experimental contributions of R. Born, M. Ruhnow, T. Fuhrmann, U. Cikalo, R. Süptitz (Technische Universität Dresden), A. Hennig (Institut für Polymerforschung Dresden e.V.), E. Brendler (Technische Universität Bergakademie Freiberg), U. Schaefer, D. Birnstein, D. Grambole 19
+
+(Forschungszentrum Rossendorf e.V.). The financial support by the Sächsisches Staatsministerium für Wissenschaft und Kunst (contract no. 4-7533-70-821-98/3) and the Bundesministerium für Bildung und Forschung (FKZ 03C0340B) is gratefully acknowledged.
+
+References
+biological surfaces', W. Barthlott, C. Neinhuis, Planta, 202, pp1-8, 1997. !ref01 `Purity of the sacred lotus, or escape from contamination in
+
+79, pp667-677, 1997.
+
+cleaning plant surfaces', C. Neinhuis, W. Barthlott, Annals of Botany,
+
+!ref02 `Characterization and distribution of water-repellent, self-
+
+!ref03 'Generation of ultrahydrophobic properties of aluminium ­ a first step to self-cleaning transparently coated metal surfaces', M. Thieme, R. Frenzel, S. Schmidt, F. Simon, A. Hennig, H. Worch, K. Lunkwitz, D. Scharnweber, Adv. Engin. Mater., 3, 9, pp691-695, 2001. !ref04 ` Characterization of thin barrier oxide layers on aluminum alloys using electrochemical impedance spectroscopy', C. A. Gervasi, J. 92-22, Pennington, NJ: The Electrochem. Soc., pp139-147, 1992. R. Vilche, in: Proc. Symp. `Oxide Films on Metals and Alloys', Proc. Vol.
+
+!ref05 `Oberflächenbehandlung von Aluminium', T. W. Jelinek, Saulgau: Leuze, 1997. !ref06 `Residual flaws due to formation of oxygen bubbles in anodic !ref07 `Superölabstoßende Oberflächen', K. Tsujii et al., Angew. alumina', A. C. Crossland et al., Corros. Sci., 41, pp1945-1954, 1999.
+
+Chem., 109, pp1042-1044, 1997; `Super water- and oil-repellent surfaces resulting from fractal structure', S. Shibuichi et al., J. Colloid Interf. Sci., 208, pp287-294, 1998.
+!ref08, http://www.fzrossendorf.de/pls/robis/info?id=307&lang=de.
+
+20
+
+!ref09, `Contact angles on hydrophobic solid surfaces and their interpretation', D. Li, A. W. Neumann, J. Colloid Interf. Sci. 148, pp190-200, 1992.
+
+simultaneous ablation of polypropylene and sputtering of
+
+!ref10, in : `Ultrahydrophobic polymer surfaces prepared by
+
+poly(tetrafluoroethylene) using radio frequency plasma', J. P.
+
+Youngblood, T. J. McCarthy, Macromolecules 32, pp6800-6806, 1999. !ref11, http://www.chemie.uni-oldenburg.de/didaktik/peter3.htm. !ref12, `Maßanalyse', G. Jander, K. F. Jahr, Berlin, New York: de Gruyter, 1989. !ref13, `Lehrbuch der Anorganischen Chemie', H. Remy, Leipzig: Geest & Portig, p424, 1965. !ref14, `Tabellenbuch Chemie', R. Kaltofen et al., Thun, Frankfurt am Main: Deutsch, 1998.
+
+21
+

@@ -1,0 +1,367 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+CORROSION BEHAVIOR OF LOW CARBON LINE PIPE STEEL IN SOIL ENVIRONMENT
+A. Benmoussat and M. Hadjel
+Faculty of Sciences, material physicochemical laboratory University of Sciences and Technology ­ (USTO) Oran BP 1505, Oran 31000 ­ ALGERIA E-Mail: a_benmous@laposte.net
+
+Hadjel@mail.univ-USTO.dz
+
+Abstract Some operating buried transmission pipeline systems will develop unforeseen surface corrosion. Electrochemical corrosion behavior of low carbon line pipe steel in NS4 soil test solution has been investigated by EIS method. Corrosion phenomenon is accentuated by the soils parameters influence such resistivity, pH, temperature, moisture content and chemical composition of electrolytes contained in soil. Results showed that the steel corrosion increases considerably at acidic pH environments. Corrosion current density increases with temperature in the range from 20 to 60°C. The associated activation energy has been determined. Impedance curves showed that the charge transfer resistance (Rt) increases with increasing immersion duration. Parameters such as corrosion current density (Icorr), polarization resistance (Rp), soil resistivity ( ) can serve as the parameters for evaluation of soil corrosivity. Keywords: low carbon steel ­ pipeline corrosion ­ soil test solution ­
+Corrosivity ­ Computational chemistry
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+1. INTRODUCTION
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+Natural gas transport reliability depends on soil environment and the choice of pipeline material. The life of a potentially corrosive pipeline structure depends on the choice of material or a method of surface treatment which will avoid damage by corrosion. Since 40 years, an important buried tubes network has been constructed and always develops through the world and methods of steel protection. Tubes diameter and operating pressure increased progressively. The search for always increasing gas pipeline profitability has led to the development of highstrength and high-toughness pipelines steels and to avoid any increase of tubes thickness. Such materials may be obtained by different metallurgical ways as Thermo Mechanical Controlled Process (TMCP). Two kinds of microstructure have been chosen: pearlitic-ferritic steels or bainitic-ferritic steels. More than 90 % of pipeline steels are currently High Strength Low Alloys Steels (HSLA). [1] In ALGERIA; more of 1500km of steel tubes in different diameters are exploited. Carbon steels of weakly allied C-Mn type as X60 of GZ1 line pipe in ALGERIA are protected from the external aggressions by a bituminous coating whose action is coupled with a cathodic protection system with a minimum specified potential of ­ 850mV (Cu / CuSo4). Unfortunately, corrosion and cracking problems still can occur in the system under certain conditions. External corrosion pits and cracking phenomena are the main deterioration mechanism under coating failure and cathodic protection (CP) that can reduce the structural integrity of buried gas transmission pipelines. Steel tubes have been exploited for thirty years. They present today several anomalies characterized by the interaction of material with soil environment accentuated by the bacterial activity. Most of these problems do not cause ruptures, but they can produce leaks. Corrosion behavior of low carbon steel line pipe alloys in soil environment under protection failure motivates our research. The objective is to bring a better comprehension of damage mechanisms and to reduce steel failures in service. The determination of soil corrosivity parameters for steel materials in soil is very important for the integrity of gas transmission pipeline systems. The physicochemical parameters of soil, including resistivity ( redox potential (E), pH, salt and moisture ), content can be determined quickly to estimate soil corrosivity. However, the relationship between soil corrosivity and physicochemical parameters is very complex; therefore, the soil corrosivity appraised by these parameters is often unreliable. Further development of existing methods for the study of soil corrosivity is essential. The electrochemical parameters such as corrosion current density (Icorr) and polarization resistance (Rp) can serve as the parameters for evaluation of soil corrosivity with accuracy and ease. Electrochemical impedance spectroscopy (EIS) was carried out to study the mechanism of soil corrosion.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+In zones where steel pipeline are damaged, samples of corroded C-Mn steel and no corroded one have been studied by micro analytical techniques microanalysis. Micrographic analysis has been done by scanning electronic microscopy (SEM). Elemental composition of the samples was determined by spark emission spectroscopy. Electrochemical measurements, polarization and impedance spectroscopy (EIS) were carried out by means of potentiostat equipment. Electrolytic test solution was chosen according to results obtained of GZ1 environment soil electrolytes. 1.1 Line pipe steel Carbon steel line pipe of weakly allied C-Mn type for use in gas transmission is manufactured according to the specified chemical composition and mechanical parameters. Line pipe is manufactured from a variety of materials including carbon steel and corrosion resistant alloys. Carbon steel, although susceptible to corrosion, is widely used because of its low cost, high strength and the ease of field makeup by welding. The successful use of low carbon steel line pipe relies on appropriate design allowances and corrosion controls. Carbon steel line pipe is manufactured to the (API) 5L specification covers grade X60 and others grades. It has a specific set of mechanical parameters including: yield strength, tensile strength and toughness that pipe must comply with. Chemical composition is specified as maximum limits of four elements, ie carbon, manganese, phosphorus and sulphur. Composition and microstructure can vary significantly between pipes. These variations result in substantial differences in corrosion performances of steel line pipe in a corrosion regime. GZ1 Tubes diameter of 40 inches and a fine pearlitic-ferritic microstructure have been manufactured in Algerian Annaba factory steel controlled lamination and accelerated cooling. The refinement of ferritic grain size has been obtained by different mechanisms of hardening and precipitation based on the dislocation movement that increases elasticity limit and steel tenacity. Hall-Petch laws [2] have since been verified experimentally and explain the hardening induced by a reduction in the ferritic grain size.  =  + Ky /  d y 0 (1)
+
+ - Elasticity limit y  - sum of hardening stresses based on the dislocation movement 0 Ky - constant expressing the grain size effect d - Size of ferritic grain
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+Table 1 - Elemental composition of X60 steel.
+
+31 January 2005
+
+C (%) Mn (%) P(%) S(%)
+0.199 1.59 0.016 0.018
+
+Cr (%) Ni (%) Mo (%) V (%) Cu (%) Al (%)
+0.015 0.007 0.008 0.004 0.024 0.024
+
+1.2- Soil corrosivity Soil is a complex material, a porous, heterogeneous and discontinuous environment constituted by mineral or organic solid phase, water liquid phase and air and others gas phase. Steel pipelines corrode in soil by complex electrochemical processes because of a different soil electrolytes nature. It is necessary to examine every particular site to explain the corrosion mechanisms models. The factors that influence corrosion in soil are numerous as soil type, moisture content and the position of the water table, soil resistivity and soluble ion content, soil pH, oxidation ­ reduction potential and the role of microbes in soil corrosion. Soil properties depend of soil particle size distribution, organic content, mineralogical composition and structure. Soil profiles are developed from parent materials in response to factors associated with climate. Mineral composition is a key to understanding how a soil can influence the corrosion of buried steel. Clays are among the most common minerals on earth. Most clays have notable plasticity when wet and a marked ability to adhere to surfaces. Physically, clays of the montmorillonite group such as bentonite can radically change volume through dehydratation / rehydratation or ion exchange. This shrinking and swelling can exert force on structures buried in montmorillonite rich soils leading to potentially detrimental consequences. Coarse silica sands tend to be relatively permeable, well drained, and inert. Dissolved carbonate will buffer the solution in the neutral to alkaline pH range. Exposure of this saturated solution to steel surfaces rendered alkaline by electrochemical reactions induced by an effective cathodic protection system will precipitate hard white carbonate scales on the metal surface who can involve corrosion problems. The measurement of weight loss and pit depth of buried coupons and the physicochemical parameters of soil have been the main methods of evaluating soil corrosivity. [3] Weight loss is the most important parameter for determining soil corrosivity, but it takes a long time to obtain weight loss data. The physicochemical parameters of soil, including resistivity ( redox potential (E), pH, salt and moisture content ), can be determined quickly to estimate soil corrosivity. However, the relationship between soil corrosivity and physicochemical parameters is very complex; therefore, the soil corrosivity appraised by these parameters is often unreliable. Further development of existing methods for the study of soil corrosivity is essential. The electrochemical parameters such as corrosion current density (Icorr) and polarization resistance (Rp) can serve as the parameters for evaluation of soil
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+corrosivity with accuracy and ease. Electrochemical impedance spectroscopy (EIS) was carried out to study the mechanism of soil corrosion. The likely rate of corrosion of underground corrosion can be assessed in terms of the soil pH, resistivity, temperature, and redox potential. A number of probes have been developed for field measurements of these parameters. Authors [4-5] reported the development of new soil corrosivity probe that be could used to measure not only corrosion current density and corrosion potential of metals in soil, but also parameters of soil. 2. MATERIALS AND METHODS A line pipe samples cover grade X60 within the API -5 L specifications, were obtained from pipe SONATRACH Algerian gas producer's society. Materials have been chosen as representative of tubes posed on the line in 1974 which corrosion pits and corrosion cracks were detected. Samples were cut by flame ­ cut from the pipes walls and the test coupons were then cut from these sections by wet sawing. The cutting process was chosen as it does not alter the microstructure and corrosion test at the coupon surface, due to its low heat input and the absence of mechanical damage. Samples of metallographic analysis have been prepared as follows: Three sections were cut from each sample of line pipe; one section was cut with bituminous coating and mounted in epoxy resin for metallographic analysis. The three sections were from different planes within the sample; these were: axial ­ radial, axial ­ tangential ­ radial ­ tangential. This sampling method was used to provide a better assessment of three ­ dimensional microstructure than could be obtained with only one section. The mounted sections were polished by emery paper of 600 ­ 3000 grit and etched with 2% nital before being examined and scanned with a JSM 5300 scanning electronic microscope. (SEM) Elemental composition of the samples was determined by spark emission spectroscopy. Measured values were compared to values quoted in the material test certificates. For electrochemical measurements, pre-treatment of steels samples surfaces was carried out by grinding with emery paper of 600- 1200 grit, rinsing with bidistilled water, and ultrasonic degreasing in ethanol and dried at room temperature before us. All tests have been performed at 30± 1°C. Test solution was chosen according to results obtained of soil electrolytes analysis in three sites which revealed bicarbonate, chlorides and sulphates presence in different proportion. Soil extract was prepared according to AFNOR French norm A­05.250 P.278. The chemical composition of GZ1 soil is given in table 2.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+Table 2 - Chemical composition of soil in three GZ1 line sites Mass (mg/l) Line Sites S1 S2 S3 Ca2+ 94.60 18.96 Mg2+ 56 16.44 K+ 7.6 11.7 6 Cl76.9 47.33 7.8 SO42736 458.4 74 HCO3117 183 218
+
+Si is the considered GZ1 line sites. Soil excavations [6] determined some synthetic solutions named NS1 to NS4. The chemical composition is described in the following table 3. The soil chemical composition shows that the principal electrolytes contained in pipe soil environment are variable proportions of carbonates and bicarbonates according to line sites and quantities of chlorides and sulphates. Table 3 - Composition of NS i synthetic electrolytic solution of soil. Denomination Composition (mg/L) KCl NaHCO3 CaCl2.2H2O MgSO4.7H2O NS1 149 504 159 106 NS2 142 1031 73 254 NS3 37 559 8 89 NS4 122 483 181 131
+
+NS4 synthetic electrolytic solution was selected as test solution and aggressive solution for electrochemical measurements. The pH of NS4 synthetic electrolytic solution is ranged between 8 and 8.5. pH measurements raised on the line showed values ranging between 6.5 and 8.5. This low value for tubes submitted to a cathodic protection and generating of alkalinity by ions hydroxyls is explained by CO2 dissolved in the electrolyte. In Laboratory, a bubbling of CO2 gas in an aqueous solution would permit to adjust pH medium to pH  6.7 Electrochemical measurements were carried out by means of Tacussel ­ Radiometer PGZ 301 equipment. Polarization equipments were carried out in a conventional three electrodes glass cell with a platinum counter electrode and a saturated calomel electrode (SCE) as reference with luggin capillary bridge. All tests have been performed in de-aerated solutions under stirred conditions at room temperature. Electrochemical cell used and polarization measurements was the same as described in
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+paper [7]. The potentiodynamic polarization curves were recorded by a constant sweep rate of 0.5 mV.S-1 . Before recording the polarization curves, the open ­ circuit potential was stable within 30 min. The cathodic branch was always determined first, the open ­circuit potential was then re­established and the anodic branch determined. Electrochemical impedance spectroscopy (EIS) measurements were performed using Tacussel ­Radiometer PGZ 301 frequency response analyzer in a frequency range of 105 ­ 10-2 Hz with 10 points per decade Impedance equipment is controlled by tacussel corrosion analysis software model voltamaster 4. Square sheet steel of size (5 x 5 x 0.06 cm3 ), which exposed a 7.88 cm2 surface to the test solution, were used as the working electrode. Soil corrosivity parameters were determined on GZ1 line environment. Soil resistivity ( was determined according humidity values. The ) moisture content was determined by weight loss measurements. One weighs an earth sample is dried in a drying oven 105°C during 24h.
+
+The weight difference between earth sample before and after evaporation is regarded the moisture content determined as the evaporated water mass. This method is not precise and does not give
+a constant weight after earth sample evaporation.
+3. RESULTS AND DISCUSSIONS
+
+3.1 Metallurgical microstructure:
+
+X60 steel presents microstructure of ferrite ­ pearlite type. The size of grain is on average 5 to 10  A microstructure in tapes is observed on m. the internal surface. Low carbon steels tend to have a ferrite - pearlite structure containing little pearlite. In the higher strength steels the carbon tends to be present in the form of discrete carbides rather than as pearlite. Chemical composition is specified as maximum limits of four elements, ie carbon, manganese, phosphorus and sulphur. Carbon steel contains a non negligible quantity of sulphur forming manganese sulphide inclusions (MnS) on grains boundaries. These inclusions are oriented in the direction of lamination and support steel embrittlement. (Figure 1) The corrosion exposure tests show no direct correlation between elemental composition and corrosion resistance. One reason for this is that any significant differences in chemical composition are accompanied by a significant difference in the microstructure of the alloy. This makes it difficult to isolate an effect due to an individual element or combination of elements. Steel microstructure with bitumen coating shows that adhesion surfaces metal­coating are weakened after exposure soil corrosive. This phenomenon is characterized by the apparition of coating cracks and pockets of water retained providing the opportunity for corrosion to develop.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+3.2 Polarization curves:
+
+31 January 2005
+
+The anodic and cathodic polarization curves are recorded on low carbon steel in de-aerated NS4 soil test solution at various pH and temperatures that simulates conditions of pipe soil environment.
+3.2.1
+
+pH influence
+
+Polarization curves in the pH range 6 - 8 are shown in Figure 2. The
+
+polarization parameters values of (Icorr), corrosion potential (Ecorr), polarization resistance and cathodic and anodic Tafel slopes (bc), (ba) are given in table 4. For corrosion potential value (E corr = -660 mV), the corrosion of low carbon pipeline steel in soil test solution is obtained. Results of polarization curves show that the corrosion of iron as a function of pH increases considerably at acidic environments. If values of pH decrease toward the neutral or acidic pH in the range 6 - 7, steel corrosion increases and polarization resistance decreases. In alkaline pH from pH 8, the corrosion of steel decreases and polarization resistance increases. Table 4- Polarization parameters for the corrosion of low carbon steel in in soil test solution according to the pH variation in the range 6 - 8. pH Ecorr/ECS (mV) Icorr ( A.cm-2) bc (mV.dec-1) ba Rp -1 (mV.dec ) kohms.cm2
+
+6.7 - 690.4 26.686 475.5 168.5 1.51 7.5 - 590.0 10.179 253.0 110.3 4.39 8.0 -650.0 03.137 177.0 190.4 6.87 ________________________________________________________________
+
+The pH of soil will generally fall within the range 4 - 10. Soils containing well humified organic matter tend to be acidic. Mineral soils can become acidic due to leaching of basic cations (Ca2+ , Mg2+, Na +, and K+ ) by rainwater and as the result of dissolving of carbon dioxide into the groundwater. In the context of steel corrosion in soil, the passivation occurs at high pH values. In contrast to iron, amphoteric metals, such as aluminum, which are protected by oxide films, can be rapidly corroded in alkaline soils with high pH values as well as in acidic environments. Authors [9] developed a monogram that combined the influence of resistivity and pH on the corrosion rate of steel pipe in soil but cautioned that the figure should only be used as a guide. The monogram ignores the influence of both oxidation-reduction potential and microbial activity, key parameters in underground corrosion. It may be applied to the prediction of corrosion rates in aerobic conditions.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+3.2.2
+
+Volume 7 Preprint 17 Temperature influence
+
+31 January 2005
+
+Gas pipelines operation shows that the temperature vary between seasons, or the climatic changes and can modify the interactions between steel and the middle environment in soil. Temperature effect on the steel resistance corrosion was carried out using potentiodynamic measurements. Polarization curves in the temperature range 20 ­ 60 °C are shown in Figure 3. Polarization parameters values; corrosion current density (Icorr), corrosion potential (Ecorr), cathodic Tafel slopes (bc ) and polarization resistance (Rp ) are given in table 5. The temperature can modify the interaction between steel electrode and the electrolytic medium. It modifies the electrochemical corrosion speed of metals. Steel corrosion is a function of pH and temperature. In neutral pH, oxygen reduction reaction and diffusion speed are favorable reaction with temperature and causes a reduction in solubility. In acidic pH, corrosion speed grows in an exponential form with the temperature because of the over tension reduction of hydrogen release. Table 5 - Polarization parameters for the corrosion of low carbon steel in soil test solution according to the temperature (pH 6.7) ____________________________________________________________ Temperature Ecorr/ECS Icorr bc Rp (°C) (mV) ( A.cm-2) (mV.dec-1) kohms.cm2 _____________________________________________________________
+20 -705.0 16.86 563.4 2.590 30 -705.0 26.68 -475.5 1.510 40 -715.0 33.43 668.1 1.310 50 -727.8 38.98 -631.9 1.150 60 -750.0 44.17 -457.0 0.913 __________________________________________________________________
+
+In the studied temperature range, the corrosion current density increases with increasing temperature and the steel corrosion potential moves towards the negative values when the temperature increases in the studied solution. The anodic polarization curves present parallel Tafel straight lines indicating that the hydrogen reduction reaction to steel surface is always done according to activation mechanism in all the temperature range studied. Results of temperature effect show that the corrosion current density increases with increasing temperature in corrosive test solution. The corrosion reaction can be regarded as an Arrhenius-type process, the rate is given by the following equation: log Icorr = - Ea / 2.303 RT + k (2)
+
+Where k is the Arrhenius pre-exponential constant, and Ea is the activation corrosion energy for the corrosion process. Figure 4 present the Arrhenius plots of corrosion current logarithm density vs. 1/T. The corrosion current density values according to the temperature are given in table 6.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+Table 6 - Corrosion current density values according the temperature range (293 ­ 333 °K) of low carbon steel in soil test solution. (pH  6.7) __________________________________________________________ T 1/T. 103 icorr ln i corr -2 (K) ( A.cm ) ___________________________________________________________ 293 3.410 16.862 2.825 303 3.300 26.687 3.284 313 3.194 33.437 3.509 323 3.095 38.987 3.663 333 3.003 44.170 3.788 ____________________________________________________________ The Ea values were determined from the slopes of Arrhenius plots and are calculated to be Ea = 13.91 kJ mol-1. This value is low compared to the value of steels corrosion activation energy in acidic environment which to reach a value of 60 Kj mole-1 decreases in inhibitors presence. This reduction probably was attributed to inhibitors chemisorptions on the steel surface [10]. The activation corrosion energy increases with the temperature according to the pH soil environment. The protective efficiency of external coating is function of temperature and it protective properties and decreases the activation corrosion energy. A future laboratory investigation is in progress to determine the polyurethane coating efficiency in relation to bitumen or polymers old coatings.
+3.3 Electrochemical impedance spectroscopy
+
+The corrosion behavior of low carbon steel in soil test solution was investigated by the EIS method at 30 ± 1°C after immersion for 24h. Impedance diagrams of steel/solution interface at various potentials imposed was obtained varying from the corrosion potential to the cathodic over-protection (-500 mV to -1100mV) which simulates the pipes operating conditions. Figures 5a, 5b presents the evolution of Nyquist diagrams of steel pipeline obtained at the abandonment potential and protection potential in different pH range of soil test solution. The impedance parameters derived from this investigation are given in table 7. Nyquist plots displayed two impedance buckles, one capacitive buckle at the raised frequencies and diffusional buckle of Warburg impedance to the low frequencies presenting a roughly straight line equal to 45°. Iron anodic dissolution and oxygen cathodic reduction phenomena are simultaneously made on surface electrode. Capacitive arc size of resistance transfer charge decreases to the slightly acidic pH.
+
+Table 7 - Impedance parameters values of low carbon pipeline steel
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+corrosion in soil test solution (t = 30°C). ____________________________________________________________ pH Rt E imp/ECS Cdl 2 ohms.cm (mV) ( F.cm -2) ___________________________________________________________
+8.0 749.77 -500 080.37 8.0 778.95 -600 062.25 8.0 301.14 -700 167.90 8.0 508.40 -850 559.35 8.0 550.10 -1000 339.62 8.0 525.60 -1100 211.97 _________________________________________________________________
+
+Impedance diagrams of steel/solution interface at various potentials imposed varying from the corrosion potential to the cathodic overprotection shows that more the imposed potential is superior to (E corr) values of (Rt) charge transfer resistance decreases and more the imposed potential is inferior to (Ecorr), charge transfer resistance values decreases also but remains always superior to (Rt) value obtained with corrosion potential (Ecorr. = - 650 mV)
+3.3.1 Immersion time influence
+
+Corrosion pipeline steel can be started according to operating conditions and soil environment. Immersion time influence where bare steel is in contact with the corrosive soil medium is a significant factor. Nyquist diagrams of low carbon pipeline steel corrosion in soil test solution (pH 6.7) obtained at the abandonment potential according the immersion time influence and constant temperature are shown in Figure 6. Impedance parameters values of charge transfer resistance (Rt) and capacitance Cdl according the immersion time influence are given in table 8. Table 8 - Evolution of impedance parameters values (Rt) and (Cdl ) according to immersion time of low carbon pipeline steel corrosion in soil test solution at constant temperature (t = 30°C) and pH 6.7. ________________________________________________ Time Rt Cdl Immersion (min.) 2 .cm ( F.cm-2) _________________________________________________ 30 0713.9 270.4 60 1458.3 463.2 120 1569.5 684.1 240 1681.4 1010.0 ___________________________________________________
+
+Results of time immersion influence shows that the charge transfer resistance (Rt) increases with increasing immersion duration in corrosive
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+test solution. When the immersion time exceeds 120 min steel corrosion resistance varies weakly. Capacitive arc size of resistance transfer charge increases to the time immersion increases (figure 6). This result suggests the formation of protective film on steel surface whose protection increases with contact time.
+3.4 Soil corrosivity parameters
+
+Soil corrosivity values, soil resistivity ( and moisture content (%) ) derived from the soil investigation are given in table 9. Soil resistivity is an important parameter to determine soil corrosivity for the metallic buried structures. It is a measurement which depends on several factors as chemical composition, water content, conductivity and compactness. If the soil compactness increases, soil conductivity increases what soil resistivity decreases and soil corrosive aggressiveness increases. Soil investigation results showed that soil resistivity values decreases according to the increase in moisture and temperature to support ionic exchange between buried steel surface and corrosive soil environment. Table 9 ­ Soil corrosivity parameters of buried steel pipeline in Humidified GZ1 soil. (Surface samples : 18 ± 0.5 cm2) _____________________________________________________________ Time mass  moisture cont. Resistivity  Ecorr/ECS m Rp Immersion (h) (mg) % (k.m) (mV) kohms.cm 2 ______________________________________________________________
+200 11.5 10 401.1 -424 101.6 200 15.0 15 116.2 -431 056.8 200 25.4 20 033.8 -479 018.8 200 34.6 25 030.3 -622 006.0 ________________________________________________________________
+
+Soil resistivity values according soil nature determined by Wenner method of GZ1 soil environment derived from the soil investigation are given in table 10. Results showed low resistivity values particularly in clay soil characteristic of corrosive medium for metal structures. Metal protections of this work type remain important for the structure integrity. The buried steel surface must be protected by a full protective system defined by an active cathodic protection to maintain steel in its potentials protection in addition to passive coatings protector aiming to avoid any corrosion interaction between steel surface and soil environment.
+
+Table ­ 10 Soil resistivity values according to soil nature determined in ­ situ by Wenner method [8] of soil in GZ1 line sites chosen from
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17 kilometric point 480 to 450.
+
+31 January 2005
+
+______________________________________________________
+Line sites Resistivity  Soil nature
+
+Si ( Cm) . _______________________________________________________
+1 290 calcareous rock 2 010 montmorillonite clay 3 130 mixed clay 4 008 clay 5 091 mixed sand 6 011 clay 7 160 calcareous gravel ____________________________________________________________
+
+4.
+
+CONCLUSIONS
+
+Results of this investigation showed that some operating buried transmission pipeline systems will develop unforeseen pits and cracking surface corrosion problems. They are principal threats for the buried structure where the humid clay soil aggressiveness and bacterial activity appear. Steel surface must be protected by a full protective system defined by an active cathodic protection to maintain steel in potentials protection in addition to passive coatings protector aiming to avoid any corrosion interaction between steel surface and soil environment. Future coating systems must answer the durability and reliability requirements in service in regard an economic aspect. Corrosion phenomenon is accentuated by the soils parameters influence such resistivity, pH, temperature, moisture content and chemical composition of electrolytes contained in soil. Polarization curves showed that the steel corrosion increases at acidic pH environments. Corrosion current density and activation corrosion energy increases with temperature. EIS curves showed that the charge transfer resistance (Rt) increases with increasing immersion duration in corrosive test solution. Capacitive arc size of resistance transfer charge increases to the time immersion increases. This result suggests the protective film formation on steel surface. Soil resistivity decreases according to the increase in moisture content and temperature to support ionic exchange between buried steel surface and corrosive soil environment. Results showed low resistivity values in GZ1 soil investigation particularly in montmorillonite clay soil characteristic of corrosive medium for buried pipeline structures. Damaged pipes by corrosion can be reused in service after habilitation analysis by using international norm criterion. Damage problems raise questions as the remaining safe life of the tubes. Pitting or cracking are those most to be involved in remaining life of an existing structure, because of their greater propensity to cause a reduction in the utility duration. Some of the probabilistic approaches can be applied, or are
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+being developed, to answer the corrosion related cracking and pitting phenomena. The research will provide data for risk assessment models to be used for maintenance and operation of the pipeline system.
+
+References
+[1] C.W. Petersen, K.T. Corbett, improving long distance gas transmission economics:
+X120 development overview, the international pipeline technology conference, Vol I, pp 3, Ostend (2004). [2] T.Iung, A. Pineau (1995). Resistance and toughness of pipeline steels. Crack arrest in cleavage fracture. La revue de Métallurgie-CIT/ Science et génie des matériaux, pp 227-239. [3]W.C.Robinson, MP32, 4 (1993) : p 56 [4] M.J. Wilmott, T R jack ..., Oil Gas J. Vol 93 (14), 54-58 (1995) [5] M.C.Li, Z.Han, H.C Lin and CN Cao, (2001), anew probe for the investigation of soil corrosivity, Corrosion ­Vol.57,N°10 pp 913-917 [6] R.N.Parkins, W.K. Blanchard , B.S. Delanty , Corrosion Vol 50N°5, (1994), 394-408 [7] F.Bentiss M. Lagrenee, M.Traisnell, J.C. Hormez, corrosion 55 (1999) 968. [8] D. Landolt. Traité des matériaux, Vol 12, Corrosion et chimie des surfaces des métaux, Presses Polytechniques et Univ. Romandes, Lausanne, pp. 442-452 ( 1993) [9] R.A King, ''A review of soil corrosiveness with particular reference to reinforced earths'' TRRL Supplementary Report 316, TTRL Crowthone, 1977 [10] F. Bentiss a, M. Traisnel, M. Lagrenee a, 2,5-Bis(n-methoxyphenyl)-1,3,4oxadiazoles used as corrosion inhibitors in acidic media: correlation between inhibition efficiency, and chemical structure, Corrosion Science 44 (2002) 2271­2289 [11] Endo S, Nagae M. Development of X100 UOE line pipe. The International Conference on pipeline Reliability, pp III-4.1- III-4.11 Calgary (1992). [12] SONATRACH / Marketing Activity, (2001), communication and documentary information, Sonatrach Gas Marketing, Alger, Dec. 2001)
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+Figure 1a
+
+Figure 1b
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+Figure 1c Figure 1 Microstructure of X6 0 line pipe steel of ferrite ­ pearlite type 1a- microstructure in grains on external surface 1b - microstructure in tapes on internal surface 1c - microstructure with bitumen coating shows weak adhesion surfaces metal ­ coating are after exposure soil corrosive
+
+Figure 2a
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+Figure 2b Figure 2 Potentiodynamic polarization curves of X 60 low carbon micro allied steel in NS4 test solution of soil environment at 30°C Figure 2a - Curve in solution of pH 8.0 Figure 2b - Curve in solution of pH 6.7
+
+-3
+
+-4
+
+log I ( A.cm )
+
+-2
+
+-5
+
+T= 30°C T= 40°C T= 50°C T= 60°C
+
+-6
+
+-7 -1000
+
+-900
+
+-800
+
+-700
+
+-600
+
+-500
+
+-400
+
+E (mV / ECS)
+
+Figure 3 Temperature influence on polarization curves of X 60 low carbon steel in NS4 test solution of soil environment (pH 6.7).
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+4.0
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+3.8
+
+ln Icorr (  . c m ) A
+
+-2
+
+3.6
+
+3.4
+
+3.2
+
+3.0 3.0x10
+-3
+
+3.1x10
+
+-3
+
+3.2x10
+
+-3
+
+3.3x10
+
+-3
+
+1 / T ( K-1)
+
+Figure 4 Arrhenius slopes calculated from corrosion current density for low carbon steel in NS4 test solution of soil environment (pH 6.7).
+
+Figure 5a Nyquist slopes for low carbon steel in NS4 test solution of soil environment at free potential (pH 6.7).
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 17
+
+31 January 2005
+
+Figure 5b Nyquist slopes for low carbon steel in NS4 test solution of soil environment at protective potential (pH 8).
+1.5
+
+1.2
+
+- Zi ( kohm . cm )
+
+t = 30 min t = 60 min t = 120 min t = 240 min
+
+2
+
+0.9
+
+0.6
+
+0.3
+
+0.0 0.5 1.0 1.5
+2
+
+2.0
+
+2.5
+
+3.0
+
+Zr (kohm.cm )
+
+Figure 6 Nyquist slopes for low carbon steel in NS4 test solution of soil environment (pH 6.7) at different immersion times and constant temperature (t = 30°C)
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

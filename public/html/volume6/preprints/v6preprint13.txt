@@ -1,0 +1,169 @@
+Volume 6 Paper C020 Titanium Incorporation into the Oxides of Nuclear Reactor Materials
+W.G. Cook*, D.H. Lister*, K. Ishigure and S. Ono
+
+* Department of Chemical Engineering, University of New Brunswick, Canada, wcook@unb.ca, dlister@unb.ca  Saitama Institute of Technology, Saitama, Japan  Institute of Research and Innovation, Tokyo, Japan
+
+Abstract
+Titanium, in components such as autoclaves and tubing, constitutes a significant fraction of the construction material used in many experimental high-temperature water loops and autoclaves. At the University of New Brunswick, such a system has been used for corrosion studies of reactor materials under pressurized water reactor (PWR) conditions (0-1000 ppm boron, 0.5-2.5 ppm lithium and hydrogen saturated at STP). A stainless steel section of the loop is used to condition coolant to reactor inlet conditions. The coolant is further heated to reactor outlet temperatures in the titanium sections, allowing minimal addition of corrosion products to the coolant and in this respect simulating the reactor core. However, the incorporation of titanium into the oxides of the test materials has indicated a significant solubility of titanium under these conditions and led to the suggestion that titanium dosing of coolant systems may be used for corrosion protection. To examine the titanium transport properties, coupons fabricated of A106-B carbon steel, 316L stainless steel, Alloy-600 and Alloy-800 were placed in a titanium autoclave and exposed to simulated PWR coolant (600 ppm boron, 2.5 ppm lithium) at 290oC for a period of 1100 hours. A basket filled with titanium turnings placed upstream of the coupons in the autoclave ensured coolant saturation in titanium.
+
+After exposure, the coupons were examined with several surface analysis techniques. Results showed significant titanium incorporation in the oxide layers of all materials tested. The oxide layers were generally duplex ­ precipitated crystals overlaying a compact inner
+
+layer. The titanium tended to concentrate at the middle of the oxide between the two layers. Since the inner layer grows inwards towards disposition of the titanium suggests that it was incorporated in the oxide mostly at the start of the exposure. Keywords: High Temperature Corrosion, Reactor Materials, Titanium, Magnetite, Nickel Ferrite, Ilmenite. the metal and the outer layer grows outwards towards the coolant, the
+
+Introduction
+Modern pressurized water reactors (PWRs) operate under strict regimes with regard to primary system chemistry. Optimization of coolant chemistry conditions leads to improved corrosion resistance of the primary system materials and reduces the crud circulating through the system. Activity transport is therefore reduced since coolant borne crud and dissolved corrosion products may become activated while traversing the reactor core and subsequently deposit on out-of-core components such as the steam generators. Much progress has been made in recent years to reduce the material transport throughout the primary circuit. The coordinated chemistry program of the 1980s and 1990s [1] and its modifications, in conjunction with removing, as much as possible, cobalt-containing materials such as Stellite significantly reduced the collective dose to plant workers [2]. Other programs, such as dosing the primary circuit with zinc, have also been shown to reduce the out-of-core radiation fields by displacing the cobalt from deposited oxides such that it can subsequently be removed via the purification system [3]. Recently, experiments have been ongoing at UNB to study the morphology of oxides formed on 316 SS under primary circuit conditions, where the material was subjected to a high velocity jet. The results of this work were put into a model describing the material transport through the primary heat transport system [4]. The results, 2
+
+however, were somewhat difficult to interpret due to interference of titanium by the surface-grown oxide films. Significant portions of the loop used for this work were constructed of titanium, which was to the surfaces of the test coupons. apparently transported though a dissolution-precipitation mechanism
+
+The incorporation of titanium into corrosion films is not a new phenomenon, in fact, titanium has been proposed as an oxide modifying agent to suppress IGSCC (Intergrandular Stress Corrosion Cracking) and boiler tube denting on the secondary side of steam also been proposed as an additive to CANDU primary coolant to mitigate the accelerated corrosion of the outlet feeder pipes by a flowassisted corrosion mechanism [7]. However, titanium autoclaves and components have long been used for corrosion testing equipment at high temperatures and pressures because it was thought to be "inert" under most conditions so it would not affect the test results. Evidence is mounting that this is not the case for the conditions encountered in the primary heat transport system of nuclear reactors. The experiments undertaken here were initiated to examine the pickup of titanium into the oxide layers of typical reactor materials under PWR primary system conditions. A collaborative program was established between UNB and Dr. Ishigure, then of the University of Tokyo, currently at the Saitama Institute of Technology in Saitama, and Mr. Ono of the Institute of Research and Innovation in Tokyo. generators [5 - 6]. Titanium dioxide (TiO2) in the anatase form has
+
+Experimental
+PWR primary system conditions were simulated in the hightemperature loop shown schematically in Figure 1. Simulated primary system coolant is circulated via the positive displacement pump through an interchanger and heater and passed into a two-litre autoclave. All components in the system to this point are Type 316 SS. The coolant is then passed through the three one-litre titanium autoclaves through the valve arrays (all components in this section are Grade 2 titanium) and is returned to the reservoir via the interchanger, cooler and back-pressure regulating valve (BPRV). The system also has full flow purification via an ion exchange column equilibrated to the 3
+
+desired chemistry condition. Typically, experiments consisted of the stainless steel section and increasing to reactor outlet the heat pick-up in a virtually ferrous-free reactor core.
+
+heating the coolant to reactor inlet temperatures (260oC ­ 285oC) in temperatures (300oC ­ 315oC) in the titanium section, thus simulating
+
+Figure 1. Diagram of high-temperature loop. Four materials of interest were fabricated into rectangular coupons (20 x 18 mm) that were between 1 mm and 2 mm thick. The four materials were A106-B carbon steel, 304L stainless steel, Alloy-600 and Alloy-800. The available stock of these materials was all in the form of tubing, except for the carbon steel, so the tubing was sectioned and rolled flat to fabricate the coupons. Prior to insertion into the loop for exposure, all the coupons were polished to a 600 grit finish, degreased with acetone and weighed. For this test, duplicate coupons of each material were hung from a sample tree using stainless steel wire and placed in the third titanium autoclave (Ti-3). Fresh titanium turnings were put into a stainless steel basket that was suspended from the autoclave head (Figure 2). The turnings were used to ensure that the coolant in the autoclave would be saturated in titanium at the test conditions.
+
+4
+
+Figure 2. Configuration of Ti-3 autoclave. Following exposure, the coupons were removed from the autoclave, dried with nitrogen and weighed. One set of coupons was examined at UNB using scanning electron microscopy (SEM) and energy dispersive X-ray (EDX) analysis while the other set was sent to the Department of Quantum Engineering and Systems Science at the University of Tokyo for analysis by glow discharge spectroscopy (GDS) and X-ray photoelectron spectroscopy (XPS), which was carried out under the collaboration between the University of Tokyo and the Institute of Research and Innovation. The GDS measurement was performed with a constant electric current of 20 mA loaded to each coupon and quantitative analysis of the Fe, Cr, Ni and Mn contents was made from calibration curves prepared using austenitic stainless steels and Alloy-600 as standard samples. Calibration for Ti was similarly performed using Type 321 stainless steel (0.7% Ti by weight) and an Fe-Ti alloy (37.15% Ti by weight) specially manufactured for this purpose. The weight fraction of each metal element was represented as that of the relevant element to the total weight of the metal elements measured; oxygen was excluded since its quantitative analysis by GDS is rather unreliable. 5
+
+The operating parameters for the experiment are shown in Table 1. The boric acid and lithium hydroxide concentrations were chosen to simulate a PWR chemistry near the conditions at the beginning of the operating cycle; ie. a pH300ºC of around 6.9. Hydrogen was continuously bubbled through the sealed reservoir ensuring low oxygen concentration, which was measured using Chemets colourimetric indicators. Table 1. Experimental conditions. Boron concentration Lithium concentration pH300ºC Temperature in SS section Temperature in autoclave Ti-3 Hydrogen concentration Oxygen concentration Flow rate Experiment duration 600 ppm 2.2 ppm 6.92 260 oC 290 ± 1 oC 18 cc/kg < 20 ppb 300 ml/min 1100 hrs
+
+The temperature in the third titanium autoclave was maintained around 290oC for the duration of the experiment; this is significantly less than the 325oC normally seen at the outlet of a PWR reactor core and was due to limited heating capacity available in the third autoclave at the time of the test.
+
+Results
+Following the 1100-hour exposure time, the heating in the loop was shut down and the system was allowed to cool. Once workable temperatures were obtained, the pump was shut off, and the coupons were removed from the autoclave, dried with nitrogen and weighed. Table 2 presents the weight loss/gain data and apparent corrosion rate for each coupon exposed. The values are low, as expected for this environment, but cannot be used for accurate indications of corrosion rate without oxide stripping. 6
+
+As described above, one set of coupons was packaged and shipped to the Department of Quantum Engineering and Systems Science at the University of Tokyo for analysis by GDS and XPS, whilst the remaining micrographs for each material are shown in Figures 3 ­ 6. As coupons were examined at UNB by SEM and EDX analysis. Typical SEM expected, the oxide layers formed on the materials appeared quite different under the given chemistry conditions. The carbon steel coupon shows a thick outer oxide layer composed of octahedral
+
+crystals, approximately 1 µm in size, typical of magnetite (Fe3O4). The stainless steel coupon shows a more-or-less exposed inner oxide layer with a covering of octahedral crystals, again typical for (NixFe3-xO4). The Alloy-600 and Alloy-800 surfaces were virtually bare of large oxide crystals with the grooves from the polishing performed before the experiment still visible. Table 2. Weight loss/gain measurements and apparent corrosion rates. Material A106-B 304L SS Alloy-600 Alloy-800 Coupon No. 15 16 2 4 6 7 10 11 Weight Loss (Gain) (mg) 0.38 0.89 0.14 0.02 (0.06) (0.17) (0.04) 0.08 Apparent Corrosion Rate (µm/a) 0.47 1.1 0.18 0.045 -0.064 -0.046 -0.23 0.086 magnetite, nickel ferrite (NiFe2O4) or a nickel-substituted magnetite
+
+7
+
+Figure 3. SEM photo of the A106-B coupon following exposure.
+
+Figure 4. SEM photo of the 304LSS coupon following exposure.
+
+Figure 5. SEM photo of the Alloy600 coupon following exposure.
+
+Figure 6. SEM photo of the Alloy800 coupon following exposure.
+
+Spherical or more-rounded crystals were also apparent on all the materials. These were analysed by EDX to be composed of iron and titanium in an approximately one-to-one ratio, indicating that they are probably ilmenite, FeTiO3. The EDX analysis results from the surfaces of all the materials are show in Table 3. Table 3. EDX analysis results. Coupon No. and Material #15 - A106-B Crystal Analysed Octahedra l Rounded Fe
+71.9 7 43.4 0
+
+Elemental Composition (%) Cr
+<0.1 0 <0.0 9
+
+Ni
+<0.1 9 <0.1 8
+
+Mo
+<0.1 1 <0.1 1
+
+Mn
+0.27 0.83
+
+Si
+0.25 0.10
+
+Ti
+0.54 24.0 0
+
+8
+
+Substrate #4 - 304L SS Octahedra l Rounded #7 - Alloy600 Substrate Rounded Substrate Rounded
+
+50.6 2 44.5 0 33.0 5 11.5 7 31.6 3 42.3 2 32.4 4
+
+24.2 5 17.5 7 2.02 32.1 8 4.47 24.0 5 2.76
+
+12.1 1 8.94 3.51 61.5 9 5.40 34.6 9 5.78
+
+0.40 0.25 <0.1 1 <0.1 3 <0.1 1 <0.1 3 <0.1 1
+
+0.93 0.53 1.70 0.21 0.90 0.44 1.36
+
+0.99 0.58 0.09 0.37 0.25 0.83 0.18
+
+0.40 1.26 28.7 8 0.74 25.9 7 0.83 27.4 6
+
+#10 - Alloy800
+
+
+Balance is Oxygen.
+
+The GDS depth profiles obtained from the duplicate set of coupons are shown in Figures 7 - 10. Titanium is apparent in each of the films formed, but to varying degrees and depths. The disposition of titanium in the film seems to be between the inner and outer oxide layers for cases where duplex films were formed (on the carbon steel and stainless steel) and peaks at approximately 7 ­ 8% by weight. Titanium appears on the surface of the nickel alloys at approximately 10% by weight. This seems to correspond to the SEM photos for these coupons since the oxide formed was very thin with a scattering of crystallites on the surface. Even in this case the films may be duplex, with the outer layer much sparser than those on the ferrous materials. The depth profiles taken from the XPS all showed similar trends to the GDS profiles. Titanium was apparent on each material, concentrating near the surface and in between the duplex films for the ferrous materials and on the surface of the nickel alloys. The XPS was also used to obtain the binding energy of titanium in the films in conjunction with sputtering to obtain the depth profiles. Figure 11 depicts the apparent binding energy of titanium in the oxide grown on the A106-B coupon. The binding energy of 458.8 eV is assigned to Ti(IV), which is typically the most stable valence for titanium and is consistent with our assumption that ilmenite (Fe(II)Ti(IV)O3) is the 9
+
+primary phase, however, this could also be consistent with formation of titanium dioxide (Ti(IV)O2).
+
+Figure 7. GDS depth profile for A106-B carbon steel.
+
+Figure 8. GDS depth profile for 304L SS.
+
+10
+
+Figure 9. GDS depth profile for Alloy-600.
+
+Figure 10. GDS depth profile for Alloy-800.
+
+11
+
+Figure 11. XPS spectra of binding energy for titanium in the oxide film formed on A106-B carbon steel.
+
+Discussion
+The deposition of titanium onto coupons of typical nuclear reactor materials and its incorporation into the oxide layers demonstrates that the perceived immobility of titanium ions in reactor coolants is not valid. It appears that when fresh titanium metal is exposed to simulated reactor coolant and operating conditions, its solubility is significant enough such that aqueous titanium may be transported to surfaces away from the source. The solubility of titanium in reactor coolants has been examined before in other research programs at UNB [#ref7]. In those experiments, powdered samples of rutile (TiO2) and reactor coolants (pH adjusted with lithium) and samples were drawn off, concentrated on ion exchange beds, eluted with concentrated nitric acid and the titanium content measured through ICP-MS. 12 ilmenite (FeTiO3) were heated in an autoclave containing simulated
+
+Although there was considerable scatter in the data, titanium was measured at the 0.1 ­ 0.5 ppb level, depending on pH. For verification of aqueous titanium in the autoclave used for the present experiments, an additional test was run with the same chemistry and conditions given in Table 1, only with a sample line inserted in place of the coupons. Fresh titanium turnings were placed in the stainless steel basket and the loop was operated for a period of one week before samples were taken. The samples were digested in the same manner described above and titanium was measured to be between 0.1 ­ 0.2 ppb.
+
+The highest concentration of titanium measured with GDS on the ferrous materials appears to be between the inner and outer oxide layer. This would be consistent with an initial large release of titanium from the freshly machined surfaces, which would quickly become passivated as the TiO2 film built up. Additional titanium would be incorporated on the surfaces of the reactor materials as exposure time progressed through dissolution of the TiO2 surface films on the source material, albeit at a much slower rate. The titanium deposited on the nickel alloys appears to be completely on the outer surface of the oxide, presumably because it is incorporated into the sparse scattering of small crystallites that cannot be distinguished as a separate layer. The presence of the rounded ilmenite crystals on all the coupons
+
+suggests that, although titanium may be incorporated to some extent into the spinel oxides formed on the coupons, particularly in the early stages of oxide formation, much of the titanium transported to the surface precipitates as a separate phase. Also of interest is the manganese content in the ilmenite crystals ­ it is present at about one percent by element as measured by EDX. This is further evidence that these crystals are truly ilmenite, not rutile producing a signal adulterated from the substrate, since in minerals containing ilmenite it is frequently seen that manganese will displace some of the ferrous ions from the lattice structure producing ore rich in manganese [8].
+
+Conclusions
+
+13
+
+It has been demonstrated that, when titanium is applied as a construction material in corrosion test loops used to simulate the primary heat transport system of nuclear reactors, there is a measurable transport of aqueous titanium species from the construction material to test surfaces within the system. The titanium content in oxides formed on typical reactor materials tended to concentrate near the interface between the inner and outer layers, which is consistent with an initial high dissolution rate of a fresh titanium surface that would significantly diminish as its own oxide film developed. In such instances, the titanium transported to the surfaces of the reactor materials will precipitate as a separate phase, ilmenite. These results point to the possibility of using titanium or titanium oxides as an inhibitor for corrosion in the primary heat transport system of nuclear reactors or in similar coolant systems. Corrosion protection may result from the incorporation of titanium into native oxide layers, probably by making them less soluble in aqueous environments.
+
+Acknowledgements
+The authors would like to thank Norm Arbeau for his assistance in operating the test loop and analysis of data, Dr. Joy Gray for further surface analysis and helpful discussions and Dr. Haydn Starkie of the HSE-NII in the UK for allowing this work to be performed in parallel with contract work.
+
+References
+1. "Primary Water Chemistry Guidelines: Volume 1; Revision 4", EPRI
+
+TR-105714-V1R4, 1999.
+
+Nuclear Energy, 32, 2, pp103-114, 1993.
+
+2. "Activity Transport and Corrosion Processes in PWRs", D.H. Lister,
+
+3. "Zinc Injection for Further Reduction of Radiation Fields in German PWR Plants: A Status Report", M. Juergenson, D. Sommer and B.
+
+14
+
+pp34-39, 2000.
+
+Stellwag, Water Chemistry of Nuclear Reactor Systems 8 , BNES, 1,
+
+4. "The Effects of High Liquid Velocity and Coolant Chemistry on
+
+Material Transport in PWR Coolants", W.G. Cook, D.H. Lister and J.M pp59-66, 2000.
+
+McInerney, Water Chemistry of Nuclear Reactor Systems 8 , BNES, 1,
+
+5. "Effect of Chemical Composition, Thermal Treatment and Causitc Concentration on the SCC Behaviour of Alloy 800", A. Mignone, M.F. Maday, A. Borello and M. Vittori, Corrosion, 46, 1, pp57-65, 1990. 6. "Intergrandular Stress Corrosion Cracking of Type 304 Stainless Steels Treated With Inhibitive Chemicals in Simulated Boiling Water Reactor Environments", T. Yeh, M. Lee and C. Tsai, Journal of Nuclear
+
+Science and Technology, 39, 5, pp531-539, 2002.
+
+7. "The Possible Inhibition of Feeder Thinning by Titanium Dosing", R. Bateman, W.G. Cook, D.H. Lister, M. Dymarski and F. Steward,
+
+Proceedings of the 23rd Annual Conference of the Canadian Nuclear Society, Toronto, Canada, June 2002.
+8. "Opaque Mineral Oxides in Terrestrial Igneous Rocks", S.E. Haggerty, Rumble III ­ editor, 1976.
+
+Oxide Minerals ­ Mineralogical Society of America Reviews, 3, D.
+
+15
+

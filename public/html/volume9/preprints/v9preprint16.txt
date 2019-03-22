@@ -1,0 +1,201 @@
+ISSN 1466-8858
+
+Volume 9 Preprint 16
+
+6 February 2006
+
+Validation of Cathodic Protection designs using computer simulation
+Ernesto Santana-Diaz, Robert Adey Computational Mechanics BEASY, Ashurst Lodge, Ashurst, Southampton, SO40 7AA, UK. Email: ernest@beasy.com Abstract Recent advances in computer modeling have enabled the performance of cathodic protection systems in protecting metallic surfaces to be predicted by simulating the environment and the electrochemical processes on the metallic surfaces. Theses advances have been applied on offshore and marine installations such as offshore platforms and ships. An engineering design can be validated by modeling to avoid possible mistakes in the initial design. The simulation increases the confidence of the designer and also assists in providing a greater understanding of how the system is performing and its impact on the surroundings. Another major issue to confront the corrosion engineer is interference. Stray currents from other sources (such as ships nearby, tanks, etc.) can interfere with the operation of the CP system and reduce its ability to inhibit corrosion, and in some cases, reverse the CP process and accelerate corrosion in sections of the structure. Given these factors it is imperative that corrosion engineers have available prediction tools which are able to model realistic and complex systems and the interaction which take place between systems. The difficulty in making reliable estimates for cases where there is a complex interaction can be overcome by using corrosion simulation software as a design tool. Not only can corrosion simulation software help with understanding complex corrosion behavior but it can also provide a rapid and economic assessment of CP system designs. In this paper the use of computer modeling is introduced into the design process of the cathodic protection system of an offshore oil and gas facility. The background and capabilities of the computer model is described and how it was used to validate the CP system design. An electrical connection between the ship and the structure will be created and the effect of having this connection or not will be quantified. Keywords: Stray currents, BEM. 1. Introduction Boundary Element Methods (BEM) have been used to simulate the behaviour of cathodic protection systems since the late 70's [1 ]. As the name implies, the method requires elements to be created, but now only on the boundary (or surfaces) of the problem geometry. The advantages of boundary elements for CP analysis are many, for instance: - The meshes are now only on the surface, hence only (equivalently) two dimensional elements are required. Mesh generators can be used with confidence, and models can be constructed extremely quickly and inexpensively. - BE gives the solutions on the boundary and, only if required, at specified internal points. Since for CP analysis the solution is only required on the surfaces, it is far
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+1
+
+ISSN 1466-8858 Volume 9 Preprint 16 6 February 2006 easier to analyse the results than for FE analysis which automatically gives results for all nodes (internal or boundary). - BE methods are very effective and accurate for modelling infinite domains as is the case for CP analysis.
+2. State of the art Numerical methods have been widely used in the corrosion field since the early 80's when they were employed to model the performance of the impressed anodes to be used on the Conoco TLP platform for the North sea [2 ]. They have been successfully compared with results from physical scale modelling and field surveys performed on full size structures [3 -6 ]. 3. Stray currents Stray current corrosion can be caused by the CP systems used to protect ship hulls and buried structures. The phenomenon is principally caused by the CP currents finding an alternative path of least resistance to that envisaged in the design. It can also be caused by adjacent DC electrical systems used for example to power trains, trolley cars etc, and by a number of other sources. Stray current corrosion is of immense economic importance, since it has led to such problems as rapid failure of buried natural gas pipelines and water mains, and costly repairs to ship structures and piers. The modelling approach to interference used in this paper is explained in detail by J. Trevelyan and H. P. Hack [7 ]. E. Santana and R. Adey simulated the stray currents corrosion of Navy shape ship berthed to a steel dock protected by sacrificial anodes [8 ]. Optimisation techniques can be applied to simulate and auto adjust CP systems affected by stray currents or any other type of cathodic protection circumstances [ 9 - 12 ]. 4. Models, description In the application presented two structures are considered, a jacket type offshore structure and a ship. Their features and the models used are described below. 5. Ship model, description The dimensions of the ship are: - Waterline length: 117.0m. - Draft: 6.3m. - Waterline beam: 16.0m. The following state of the hull of the ship was considered (Table 1, Figure 1):
+Area name Stern of the frigate, top of propeller Propeller's shaft Rudders Bottom hull Top hull Area(m2) 52 8 66 1445 930 Damage percentage (%) 10 20 10 10 5
+
+Table 1 Ship's areas and damage's percentage
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+2
+
+ISSN 1466-8858
+
+Volume 9 Preprint 16
+
+6 February 2006
+
+Shaft's propellers Top of hull
+
+Propellers
+
+Rudders
+
+Hull Bottom
+
+Figure 1 Ship's damages and anodes' configuration
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+3
+
+ISSN 1466-8858
+
+Volume 9 Preprint 16
+
+6 February 2006
+
+Figure 2 Ship anodes' distribution detail The propellers were set made of Nickel-Aluminium-Bronze with an area of 56m2. A cathodic protection of sacrificial anodes, zinc anodes, was placed on the surface of the hull of the ship as shown in Figure 1 and Figure 2. 6. Offshore structure model, description A cathodic protection of sacrificial anodes, aluminium anodes, was placed on the surface of the hull of the ship as shown in Figure 3.
+
+Anodes' distribution detail
+
+Figure 3 Offshore structure and anodes distribution
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+4
+
+ISSN 1466-8858 Volume 9 Preprint 16 6 February 2006 7. Results Initially the ship and the offshore structure were study in open sea with no interaction with other adjacent structures. Subsequent, the ship was docked to the offshore structure and the interaction between both was also studied. The conductivity of the electrolyte considered was always consider 4S/m [ 13 ] in all the simulations.
+7.1. Ship's solution in open sea Initially, the ship was analysed in an open sea environment where there were no interference with adjacent structures. The potential distribution on the hull of the ship is shown below (Figure 4). The area near the propeller is the area more likely of suffering from corrosion since its potential is more positive than the other areas of the ship.
+
+Figure 4 Ship's potential distribution in open sea (no interaction with other adjacent structure) The current distribution on hull can be observed (Figure 5). Note that the damages considered in different areas of the ship (Table 1) lead to higher amount of current taken by the bottom part of the ship, the areas around the propeller and the rudders.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+5
+
+ISSN 1466-8858
+
+Volume 9 Preprint 16
+
+6 February 2006
+
+Figure 5 Ship's current distribution in open sea (no interaction with other adjacent structure) 7.2. Offshore structure's solution in open sea The offshore was also analysed in no interference conditions. The potential and current distribution on the structure is shown below (Figure 6). The area on the top of the structure is more likely to suffer from corrosion since there are fewer anodes placed in this area.
+
+Figure 6 Offshore structure's potential and current distribution in the open sea 8. Ship berthed to the offshore structure's solution The ship was berthed to the offshore structure and the interaction between them was analyzed. The potential distribution is shown in Figure 7, Figure 8. The potential on the closer area to ship's hull has become more positive towards the corrosion steel corrosion range due to the interaction with the offshore structure.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+6
+
+ISSN 1466-8858
+
+Volume 9 Preprint 16
+
+6 February 2006
+
+Figure 7 Ship and Offshore structure's potential distribution in interaction condition
+
+Figure 8 Detail of the ship and offshore structure's potential distribution in interaction condition The current distribution on the hull of the ship when it is berthed to the offshore and when it is placed in open sea is shown in Figure 9. Note that the average current taken by the
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+7
+
+ISSN 1466-8858 Volume 9 Preprint 16 6 February 2006 area nearer to the structure has been reduced in more than 50% of the value initially taken when the ship was in open sea.
+
+Ship in open sea
+
+Ship berthed to the offshore structure
+
+Figure 9 Current density distribution comparison between the ship in open sea and ship berthed to the offshore structure Note that the average current taken by the area of the structure nearer to the ship has been slightly reduced.
+
+Offshore structure in no interference conditions
+
+Ship berthed to the offshore structure
+
+Figure 10 Current density distribution comparison on the offshore structure in no interference condition and when the ship is berthed to the offshore structure The model was used to investigate the life of the anodes on both the offshore structure and ship and what the possible impact of the interference would have on their life. The current supplied by an anode of the offshore structure on the side near where the ship was moored was computed in the two possible configurations. (i.e. with and without the ship) (Figure 11).
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+8
+
+ISSN 1466-8858
+
+Volume 9 Preprint 16
+
+6 February 2006
+
+Anode Studied
+
+Figure 11 Anode on the structure analysed closer to the position where the ship is to be berthed
+Situation Offshore structure in open sea Ship berthed to offshore structure Current supplied by the anode(mA) 4465 4067
+
+Table 2 Current supplied by an anode of the offshore structure in open sea and the ship berthed to offshore structure with no electrical connection between them In addition, the current supplied by an anode of the ship placed near the structure was computed when the there was no object adjacent to the ship and when the ship was berthed to the structure (Figure 12).
+
+Anode Studied
+
+Figure 12 Anode on the ship analysed closer to the position where the ship is berthed
+Situation Ship in open sea Ship berthed to offshore structure Current supplied by the anode(mA) 644 890
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+9
+
+ISSN 1466-8858 Volume 9 Preprint 16 6 February 2006 Table 3 Current supplied by an anode of the offshore structure in open sea and the ship berthed to offshore structure with no electrical connection between them
+It can be seen from these results that the main impact in this case was on the anodes on the ship where the current supplied increased by nearly 40%. Therefore frequent or long term mooring of the ship next to the offshore structure will have a major impact on the life on the anodes. 9. Ship berthed to the offshore structure and electrically connected The ship was electrically connected to the offshore structure and the interaction between the CP systems was again analysed. The potential distribution is shown in Figure 13, Figure 14.
+
+Figure 13 Potential distribution when ship and structure are electrically connected
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+10
+
+ISSN 1466-8858
+
+Volume 9 Preprint 16
+
+6 February 2006
+
+Figure 14 Detail Potential distribution when ship and structure are electrically connected The potential distribution on the top of the structure has become even more positive (underprotected) than when the ship and the structure where disconnected. The same effect is produced on the ship, however, the potential difference between connected situations and not connected is minor.
+Situation Offshore structure in open sea Ship berthed to offshore structure(no connection) Ship berthed to offshore structure (connection) Most positive protection potential [Offshore structure](mV) -880 (Figure 6) -830(Figure 8) -800(Figure 14) Most positive protection potential [Ship](mV) -910(Figure 4) -803(Figure 8) -800(Figure 14)
+
+Table 4 Most positive protection potential on the offshore structure and the ship The anodes previously studied were analysed again with the results shown on tables below. Table 5 and Table 6 show the current supplied by an anode of the structure (Figure 11) and anode of the ship (Figure 12) in three different conditions.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+11
+
+ISSN 1466-8858
+Situation
+
+Volume 9 Preprint 16
+
+6 February 2006
+4465 4067 4080
+
+Current supplied by the anode(mA)
+
+Offshore structure in open sea Ship berthed to offshore structure (no connection) Ship berthed to offshore structure (connection)
+
+Table 5 Current supplied by an anode of the offshore structure in open sea, when the ship is berthed to offshore structure with no electrical connection between them and when the ship is berthed to offshore structure with electrical connection between them
+Situation Ship in open sea Ship berthed to offshore structure (no electrical connection) Ship berthed to offshore structure (connection) Current supplied by the anode(mA) 644 890 410
+
+Table 6 Current supplied by an anode of the ship in open sea, when the ship is berthed to offshore structure with no electrical connection between them and when the ship is berthed to offshore structure with electrical connection between them
+
+10. Conclusions A methodology has been presented which enables the performance of Cathodic Protection systems used to protect structures against corrosion can be predicted. Applications have been presented of both oil and gas type structures and ships and boats where the level of protection and the anode life has been predicted. The problems caused by interference between the CP systems on the ship and the offshore structure has been modelled and the impact on the protection potential quantified. The impact of interference on the life of the anodes on both the ship and the offshore structure has also been predicted. This reveals that the consumption of the anodes on the ship is significantly accelerated (up to 40%) when the ship is berthed to the structure since these anodes are giving an extra current to the offshore structure nearby. A comparison between the behaviour of the cathodic protection systems of the offshore structure and the ship when they are electrically connected and when they are not was carried out. The table below (Table 7) shows a comparison of the effect on the protection potential and the life of the anodes. All the comparisons are made against the open sea situation.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+12
+
+ISSN 1466-8858
+
+Volume 9 Preprint 16
+Ship not connected to structure Reduced Extended (See also impact on protection level) More positive potentials, negative effect More positive potentials, negative effect
+
+6 February 2006
+Ship connected to structure Extended Extended (See also impact on protection level) More positive potentials, negative effect Significantly more positive potentials, more negative effect
+
+Effect on anode life of ship Effect on anode life of the structure Effect on protection potential on the ship Effect on protection potential on the structure
+
+Table 7 Comparison of effects of the electrical connection on the cathodic protection system of the ship and the offshore structure compared to the open sea condition (ie No interaction)
+
+11. References 1 Brebbia C.A,: Boundary Element Method for Engineers, Pentech Press. (1980) 2 Danson, D.J. and Warne, M.A. Current Density/Voltage Calculations Using Boundary Element Techniques, Corrosion/83. (1983) 3 Thomas, E. D., Lucas, K. E., and Parks, A. R., Verification of Physical Scale Modeling with Shipboard Trails, Corrosion 90, Paper 370, National Association of Corrosion Engineers,Houston, TX, (1990) 4 Gartland P.O, Bjoernass F., Osvoll H. Computer modelling of offshore CP systems for 15 years: What have we learnt?, Corrosion NACE Expo 99, San Antonio Texas. (1999) 5 Adey, R.A., Brebbia, C.A., Niku, S.M. Applications of Boundary Elements in Corrosion Engineering, Chapter 3, Topics in Boundary Elements Research ed. Brebbia, C.A. Vol. 7, pp. 34-64, Springer - Verlag, Berlin and New York, (1990) 6 Roe D. Stommen, Computer modelling of offshore cathodic protection systems utilized in CP monitoring. Offshore Technology Conference, Texas, (May 3-6, 1982) 7 J. Trevelyan and H.P. HackThomas, Analysis of stray current corrosion problems using the boundary element methods. Boundary Element Technology IX. (1994) 8 E. Santana-Diaz, R. Adey, Computer Simulation Of The Interference Between A Ship And Docks Cathodic Protection Systems. Simulation of Electrochemical Processes. WIT press, Cádiz, 2005 9 E Santana Diaz, R Adey. A Computational Environment for the Optimisation of CP system Performance and Signatures, Warship CP2001. Shrivingham. UK. 10 Adey R A, Hang P Y, Optimum Design of Ship Corrosion Protection Using Computer Simulation, Computers and Ships Conference, The Institute of Marine Engineers, London, UK, May 1999. 11 Adey R A, Baynham J M W, Design and Optimisation of Cathodic Protection Systems Using Computer Simulation, NACE's Annual Conference "Corrosion 2000", Orlando, Florida, USA, March 2000. 12 E. Santana Diaz, R Adey, J. Baynham, Optimising the location of anodes in cathodic protection systems, OPTI 2003, May 2003. 13 John Morgan. Cathodic Protection. National Association of Corrosion Engineers, NACE. (1987)
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+13
+

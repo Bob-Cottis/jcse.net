@@ -1,0 +1,99 @@
+ISSN 1466-8858
+
+Volume 9 Paper 15
+
+The application of impressed current cathodic protection to historic listed reinforced concrete and steel framed structures
+J. P. Broomfield
+
+Broomfield Consultants, 30b Vine Road, East Molesey, Surrey KT8 9LF, UK
+JohnPBroomfield@aol.com
+
+Abstract
+This paper describes some case studies of historic buildings and other structures treated with impressed current cathodic protection to provide long term corrosion control that is consistent with the requirements of conservation of listed buildings and monuments. Keywords: Impressed current cathodic protection, anodes, historic buildings, conservation, corrosion control.
+
+Introduction
+Galvanic cathodic protection was invented by Sir Humphrey Davy in 1824 [#01]. Impressed current systems started being used in earnest on ships and pipelines early in the 20th century. The first major steps to electrochemical corrosion control treatment of reinforced concrete occurred in the USA as early as 1959 when Richard Stratfull applied impressed current cathodic protection (ICCP) to a
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+bridge deck [#ref02].
+
+Between 1973 and 1989 a total of 287 systems
+
+were installed on US interstate highway bridges, predominantly on structures suffering from deicing salt attack. Many more systems were applied to other structures as well as to other bridges owned by the states, counties and cities in the USA and Canada. The first trials and full scale ICCP systems in UK and Australia were undertaken in the mid to late 1980s [#ref03]. These were done on buildings suffering from the deliberate addition of calcium chloride as a set accelerator in the UK, and on jetties due to marine exposure and a cement works due to sea salt exposure in Australia. Since then over 1 million m2 of impressed current cathodic protection has been applied to reinforced concrete structures worldwide. The Requirements for Conservation of Listed Structures in the UK In 1967 the civil amenities act introduced conservation areas. This
+
+meant that all buildings in a certain area had conservation practices applied to their maintenance and modification. In 1988 English Heritage started to list 20 th century buildings of historic and architectural importance. This means that a number of steel framed, stone and brick clad buildings have been listed, as well as reinforced concrete structures. The recent development of the Heritage Lottery Fund also gave the owners of listed buildings a financial resource support them in their desire to conserve their structures. While there is no simple formula for conservation of listed buildings, there is a number of guidance rules for their maintenance and repair.  Were possible conserve as found  Minimise all intervention  Like for like repairs  Repairs should be reversible  Repairs and changes should be sympathetic 2
+
+ All fabric is important (including later changes and not just what looks nice) Application of Impressed Current Cathodic Protection to Listed Structures Impressed current cathodic protection is a valuable tool in the conservation of early 20th century steel framed stone, brick and terracotta clad buildings and later reinforced concrete historic structures. Anodes can be installed either within the building to preserve the façade or externally in the mortar between bricks and stones causing minimal disturbance or damage The application of impressed current cathodic protection minimises the amount of repair required. It is also reversible, as anodes, wiring and power supplies can be removed if later technology provides improved protection. The monitoring system means that a "health check" is regularly carried out on vulnerable steelwork. The down side is that regular monitoring and maintenance of the system is required indefinitely. Case History 1 Reinforced Concrete University Buildings Churchill College Cambridge was designed by architect Richard Sheppard of Robson and partners, and built from 1959 to 1968. The construction is of low level (mainly 2 storey) buildings with main elevations of structural precast concrete beams connected to a concrete frame and supporting glasswork. Investigation of cracking and spalling of the concrete beams in past few years has revealed sufficient levels of chloride in the concrete to cause reinforcement corrosion on some of the buildings with precast facia beams. This is almost certainly due to the use of calcium chloride as a set accelerator in the casting yard to speed production rates. Figure 1 shows typical elevations.
+
+3
+
+Figure 1- Typical elevations of Churchill College showing precast panels at 1st floor and roof level. After a detailed survey showing above corrosion threshold levels of chloride in most beams, it was agreed to investigate the feasibility of applying impressed current cathodic protection to the panels which have a white stone (quartz or marble) chip revealed aggregate in white cement finish. The main constraints on such an installation were as follows:  The campus is occupied 24 hours a day 356 days per year. Noise, dust and general disturbance must be minimised  Access to the rooms behind the beams should be minimised.  All cables and anodes should be installed with minimum disturbance to the architectural faces. Some beams could be accessed from below with long probe anodes installed vertically to provide protection. However, others could not. A cathodic protection trial was therefore designed with probe anodes installed vertically in a panel where there is access to the soffit. The 4
+
+panel above had two zones, one with a row of anodes installed horizontally on the centre line, the other with a row of horizontal anodes below a row of angled anodes as illustrated in Figure 2.
+
+Anode Layout for inaccessible beam soffit Zone 3 Zone 2
+
+150 mm
+
+300mm
+
+600mm
+
+Anode Layout for accessible beam soffit Zone 1
+
+Figure 2 ­ Schematic of anode layout with approximate anode separations. The anodes were 500mm CPITM rod anodes with a balance resistor in the head, with a mixed metal oxide coated titanium (MMO/Ti) rod embedded in a proprietary carbonaceous backfill. Given the internal arrangement behind the beam it is not possible to drill from inside. Therefore through hole were drilled from the outside and the anode installed with the cabling inside the building. The external surface finish of a quartz revealed aggregate and white cement made repair of the beam and reinstatement of the anode holes quite straight forward to achieve an aesthetically acceptable finish that should not change with weathering. Trials of the anode arrangements showed adequate polarization in zones 1 and 2 but inadequate polarization at the top of zone 3 with 5V constant voltage applied to all zones.
+
+5
+
+An anode layout was therefore determined as conforming to zone 1 in Figure 1 where the soffit of the beam can be accessed, and as for zone 2 where the anodes cannot be inserted vertically. There will be further discussion as to whether the titanium cables connecting the anodes need to be run internally or whether chases can be cut in the outer surface for all work to be done externally. This will be considered if the Conservation officer and College officials are convinced that the repairs using new white cement and quartz aggregate will be acceptable. Case History 2 New Zealand National War Memorial New Zealand's National War Memorial is located in Wellington and consists of the Carillon, completed in 1932, and the Hall of Memories, which was consecrated in 1964. The memorial commemorates the New Zealanders who gave their lives in the South African War, in the First and Second World Wars, and in the wars in Korea, Malaysia and Vietnam; it also honours the NZ men and women who served in those wars. Figure 3 ­ The New Zealand National War Memorial Carillon is a 50 metre high reinforced concrete structure that contains 74 bells which each range in weight ranging from 10kg to 12.5 tonnes. Their total weight of 70.5 tonne and 6 octave range makes it the third largest carillon in the world.
+
+6
+
+A survey identified that the reinforcement corrosion was limited to the mullions and the area around the openings as the Carillon faces the bay. Trails of anode spacings were conducted. An impressed CP system was installed consisting of 570 discrete internal anodes. There were 3 mm diameter MMO/Ti rods in carbonaceous backfill at 600 mm centres. The anodes were 100 mm or 150 mm long as required from the results of the trial. There were 25 zones each with it's own embedded Ag/AgCl reference electrode to permanently protect approximately 170 square metres of at-risk structural concrete. 12mm diameter holes were drilled on the required 600 mm centres. Holes were checked with a "down hole cover meter" to ensure they were not too close to reinforcement. They were then filled with the carbonaceous backfill and the anode rod inserted. A titanium wire was connected between the anodes and wired into a junction box and then connected back to the power supply. A remote monitoring system was installed to monitor the 25 zones. The system was commissioned in June 1999 [#Ref04]. Case History 3 Balcony of a small building in St Martin's Lane London Next to the recently renovated Coliseum Theatre is a small building originally part of Architect Frank Matcham's 1904 theatre building. It has an elaborate terracotta stone balcony at the second floor level. At all levels the terracotta was cracking due to corrosion of the steel frame. Upper levels were dismantled, steelwork repaired and stonework replaced or renewed. However the second floor level was considered to be too intricate so impressed current cathodic protection was installed using MMO/Ti ribbon anodes. Figure 4 shows the balcony with horizontal cracks in the terracotta stones due to corrosion of the steel beam. Two vertical steel columns have also caused cracking of the terracotta columns. Figure 5 shows the installation of ribbon anode in the joints between stones and a reference electrode being installed.
+
+7
+
+Figure 4 ­ The balcony showing damage
+
+Figure 5 ­ Close up of ribbon in joints, new stone and installation of a reference electrode The ICCP system consists of a single zone running across the front of the building at 2nd or level and up the columns of the balcony. The 8
+
+system was commissioned in October 2005 and is running at less than 10V D.C. and a few tens of milliamperes. Case History 4 A small brick building in St Martin's Lane London Just up the road from Case History 3 there is and ICCP system on an office building. This consists of four zones running from the bottom of the first floor to parapet level on the four exposed corners of the building. The system was installed and commissioned in September 2005. It was a subcontract package to control the vertical cracking of external brickwork around the vertical steel columns at four corners of the building. Typical damage is shown in figure 6. Each column is a separate zone running at less than 10V D.C. and a few tens of milliamperes per zone. Each zone consists of a MMO/Ti expanded metal ribbon in the mortar joints running down one side and up the other side of the column. The ribbon is 10mm wide by 0.9mm thick with a current rating of 3mA/m length. There is a reference electrode approximately 1/3 and 2/3 of the way down each zone. There is a ring conduit behind the roof parapet to collect the wires from the anode, the steel column and the reference electrodes and connect them to the monitoring system situated in a steel cabinet inside the cupboard beside the lift motor room on the roof. Figure 6 ­ Example of cracking of brick work due to the expansive corrosion of the corner steel column. This is reflected on all four corners of the building.
+
+9
+
+Zone 1
+
+Zone 2 Z1R2 Z2R2
+
+Z1R1
+
+Z2R1
+
+Figure 7 Zone and reference electrode locations ­ Front elevation
+
+Figure 7 shows the new mortar in the joints after the installation of the ribbon anode. 10
+
+Case History 5 University of East Anglia Biology Tower The main campus buildings of the University of East Anglia were designed by Sir Denys Lansdun and built in the 1960s. The original main buildings, which are Grade II listed, include the iconic "ziggurats" which form the main accommodation blocks (featured on the English Heritage website) and the "teaching wall" consisting of a linear 5 storey block of offices research and teaching spaces punctuated by lift and stair towers rising to eight storeys. In 2002 a contract was let to carry out an overall concrete protection plan, with an immediate priority to repair the Biology Tower due to the construction of a new extension to the Biosciences School. The original building showed low concrete cover to the reinforcement, carbonation induced spalling a patchwork of old repairs of vary colour and texture and old trials of anticarbonation coatings which were unacceptable to English Heritage. It was agreed that ICCP was the best way of guaranteeing a repair in keeping with the listed status and capable of ensuring that concrete does not spall onto the glass atrium of the new extension. In this case probe anodes were used installed from the inside of the building. On the outside conventional low shrinkage patch repair materials were used and then an architectural coating with anticarbonation properties (Keim Concretal LazurTM) was applied to blend in repairs with the old concrete, retaining original board markings and other features considered to be important features of the building. Probe anodes of MMO/Ti and conductive ceramic were installed in the stair wells and the roof level plant rooms. Figure 8 shows the probe anodes in the roof level plant room where the cables were kept at surface level for easy identification and repair. Figure 9 shows "before and after" photographs from the back of the Biotower. The silicate based penetrating sealer type coating blends in the repairs to the original concrete and should weather in such a way as to minimise the risk of the patchwork appearance developing with time.
+
+11
+
+Figure 8 ­ Biotower Plant Room showing Anode wires on surface
+
+Figure 9a ­ Biotower before repair showing coating trials and exposed reinforcement
+
+Figure 9b - Biotower after Concrete repair and coating application minimising "patchwork" appearance.
+12
+
+Discussion and Conclusions Cathodic protection of steel in concrete is a mature technology which is now being applied to structures of historic and architectural importance. It is successfully being applied to early 20th century steel framed buildings and monuments as well as mid to late 20 th century reinforced concrete structures. The development of mixed metal oxide coated titanium rod, tube and ribbon anodes, as well as the conductive ceramic tube anodes has facilitated the installation of anodes in a sympathetic way with minimal disturbance to the fabric and to the aesthetic appearance of structures. Systems can be very large with 50 or more zones all remote monitored and controlled, or simple manually controlled systems with very few zones. However, they all require maintenance on a regular basis. At the moment there is very little guidance on the application of ICCP to steel framed and historic structures. On of the few is produced by Historic Scotland [#ref06]. The revision of the European Standard on cathodic protection of steel in concrete is underway and there is consideration of including information on steel framed buildings. However, some practitioners advocate a separate document for such structures. This is unlikely to occur in the foreseeable future. However, the National Association of Corrosion Engineers has a Task Group on the subject which may produce a state of the art report and ultimately a standard in a few years time.
+
+13
+
+Acknowledgements The author would like to acknowledge the kind permission to publish information about their buildings and contracts as follows: Jennifer Rigby, Bursar Churchill College Cambridge. Owner of 55/56 and of 36 St Martin's Lane Shaftsbury Covent Garden Ltd., Contract Administrator Robert Say, Fresson and Tee Chartered Surveyors. University of East Anglia Estates and Building Division, Neil Jackson (Project Director), Martin Lovatt (Project Manager), Structural engineer Andrew Brown Jacobs Babtie, London References
+!ref01 `The beginnings of cathodic protection', H. Davy, Phil. Trans. Of
+
+the Royal Soc. London, 1824.
+
+!ref02 `Progress report on inhibiting the corrosion of steel in a reinforced concrete bridge' Stratfull. R.F. Corrosion. 15(6):331t to 334t, Jun 1959 !ref03 `Cathodic Protection for Reinforced Concrete: It's application to buildings and marine structures' Broomfield, J.P. Langford, P.E. and McAnoy, R. Corrosion 87. 1987 Mar 9-1987 Mar 13; Corrosion of Metals in Concrete Proceedings of NACE Conference. NACE Houston, 1987 !ref04 "Concrete Building Pathology" Ed Susan MacDonald, Publ. Blackwells,Oxford, pp 288-293. !ref05 Gibbs, P. Corrosion in masonry clad early 20th century steel framed buildings. Technical Advice Note 20. 2000; Publ. Historic Scotland.
+
+14
+

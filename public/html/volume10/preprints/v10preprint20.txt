@@ -1,0 +1,382 @@
+1
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Protective effect of new class of benzotriazole derivatives towards corrosion of brass in neutral medium
+R. Ravichandran* Department of Chemistry, Srinivasa Institute of Engineering & Technology, Parivakkam, Poonamallee, Chennai-600 056, India.
+
+Abstract Benzotriazole derivatives, namely N-[1-(benzotriazol-1-yl)benzyl]aniline (BTBA) and N,N-dibenzotriazol-1-ylmethylaminocyclohexane (DBCH) were synthesized and their inhibition behaviour on brass in sodium chloride solution were investigated by weightloss measurements, polarization, electrochemical impedance, cyclic voltammetric and current transient techniques. Results obtained revealed that these compounds exhibited good inhibition efficiency in sodium chloride solution. Polarization studies showed that the benzotriazole derivatives are mainly anodic inhibitors for brass in sodium chloride solution. They decreased the anodic reaction rate more strongly than the catholic reaction rate and rendered the open circuit potential more positive in sodium chloride solution. Accelerated leaching studies revealed that the inhibitors control the dezincification of brass. Cyclic voltammetric studies confirmed that the addition of these compounds effectively inhibit the anodic dissolution of brass. The passive film characterization was done using FT-IR spectrum. EDX analysis was used to determine the nature of the protective film formed on the metal surface. Key words: Brass; Benzotriazole; Corrosion inhibition; EDX; EIS; FT-IR; Polarization; Cyclic voltammetry; Sodium chloride; ________________________________________________________________________ *Corresponding author. Tel.: 91-44-26492525; Fax: 91-44-26492227 E-mail address: varmaravi2003@yahoo.com
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+2
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+1. Introduction Copper-based alloys have a long history of service in marine environments. In general, they exhibit an attractive combination of properties, e.g., good machinability, good resistance to corrosion and bio-fouling and superior thermal and electrical conductivities [1-5]. In view of their good machinability, they are available in a wide range of products [6]. The most prominent among the copper-based alloys is the Cu-Zn alloys, which are widely used for condenser and heat exchanger tubes in various cooling water systems [7-9]. Brass when suspended in sodium chloride solution undergoes dezincification as well as general corrosion releasing copper and zinc ions. Dezincification of brass is one of the well-known and common processes by means of which brass loses its valuable physical and mechanical properties leading to structural failure [10].
+
+Organic compounds containing an azole system have frequently been employed to inhibit corrosion of copper and brass mostly in acidic or neutral solution [11, 12]. Among these, benzotriazole (BTA), a sub category of heterocyclic compounds is known as one of the best corrosion inhibitors for copper and its alloys in a wide range of environments [13-18]. Immersion of copper into a solution of BTA enables chemisorptions to occur on the surface and gave enhanced resistance to atmospheric oxidation of copper [19]. Bag et al [20] investigated the protective action of azole derivatives on the corrosion and dezincification of 70/30 brass in ammonia solution and concluded that the inhibitors effectively control corrosion. Brusic et al [21] showed that a polymerized network formed and gave significant protection in many environments; the enhanced protection
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+3
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+was retained even when the copper was removed from the BTA solution. The addition of BTA to acidic, neutral and alkaline solution is commonly used and has significantly reduced corrosion [22]. It may be adsorbed only onto the oxide on the surface of copper [23, 24] or function on oxide free surfaces [25]. Frignani et al [26] investigated the influence of an alkyl chain on the protective effects of benzotriazole towards copper in acidic chloride solution. Huynh et al [27] have studied the corrosion protection of octyl esters of carboxy benzotriazole on copper in an aerated acidic sulphate solution. Qafsaoui et al [28] reported that the growth of a protective film on copper in the presence of triazole derivatives. Nagiub and Mansfeld [29] studied the corrosion behavior of 26000 brasses in artificial seawater using EIS and ENA techniques. BTA, sodium salts of gluconic acid and polyphosphoric acid were evaluated as corrosion inhibitors. OtienoAlego et al [30] made an electrochemical and SERS study of the effect of 1-[N, N-bis(hydroxy ethyl) amionomethyl]benzotriazole on the acid corrosion and dezincification of 60-40 brass. Shukla and Pitre [31] studied the electrochemical behavior of brass and the inhibitive effect of imidazole in acid solution. Walker [32] showed that the addition of small amounts of 1, 2, 3-benzotriazole and 1, 2, 4-triazole inhibited the corrosion of brass in various acidic, neutral and alkaline solutions. Fenelon and Breslin [33] studied the formation of BTA surface films on copper, Cu-Zn alloy and Zn in chloride solution.
+
+The purpose of the present study is to assess the inhibition efficiencies of new corrosion inhibitors viz., N-[1-(benzotriazol-1-yl)benzyl]aniline and N,N-dibenzotriazol1-ylmethylaminocyclohexane for brass in neutral chloride solution. Weight-loss method and electrochemical studies such as polarization, impedance spectroscopy, current
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+4
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+transient and cyclic voltammetric studies were used. Accelerated leaching studies were carried out by inductively coupled argon plasma­atomic emission spectroscopy. FT-IR spectra and EDX analysis was carried out to determine the nature of the protective film formed on the metal surface.
+
+2. Experimental 2.1. Materials preparation Brass specimens of size 1.0 cm x 1.0 cm x 0.3 cm having the following compositions were used: Cu- 65.30% Zn- 34.44% Fe- 0.14% Sn- 0.06% and traces of Pb, Mn, Ni, Cr, As, Co, Al & Sr. Before each experiment the specimens were mechanically abraded with silicon carbide papers (from grades 80 to 1200), degreased with acetone, washed with distilled water and dried at room temperature, then placed in a test solution. Analar grade NaCl (Merck) and double distilled water were used for preparing 0.5 M sodium chloride solution for all experiments. The inhibitors N-[1-(benzotriazol-1yl)benzyl]aniline and N,N-dibenzotriazol-1-ylmethylaminocyclohexane were synthesized according to a previously reported procedure [34]. The synthesized compounds were characterized using FTIR and NMR spectroscopy. The structures of the compounds are given in Scheme 1.
+
+2.2. Synthesis of inhibitors Synthesis of N-[1-(benzotriazol-1-yl)benzyl]aniline: Benzotriazole (1.19 g, 10 mmol), benzaldehyde (12 mmol) and aniline (10 mmol) were refluxed in ethanol (minimum needed for complete solution) for 10 minutes. The mixture was kept at 25°C for 5 hours
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+5
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+and -5°C for 16 hours. The resulting precipitate was filtered off, washed with diethyl ether and dried in vacuum to give the crude N-[1-(benzotriazol-1yl)benzyl]aniline. Pure samples of BTBA were prepared by recrystallization of the crude products from ethanol (yield 89%).
+
+Synthesis of N,N-dibenzotriazol-1ylmethylaminocyclohexane:
+
+1-
+
+hydroxymethylbenzotriazole (2.98 g, 20 mmol), acetic acid (0.57 ml, 10 mmol) and ethanol (30 ml) and cyclohexylamine (12 mmol) were refluxed for 2 minutes and poured into ice-water. The mixture was extracted with chloroform (50 ml) and the extracts were washed with water and dried (MgSO4). Evaporation afforded the crude oily N,Ndibenzotriazol-1ylmethylaminocyclohexane. It was dried in vacuum (60oC/30 mm Hg). The solid product was recrystallised from diethyl ether (yield 85%).
+
+2.3. Weight-loss measurements The experiments were carried out with brass specimens of dimension 5 cm x 3 cm x 0.3 cm. The panels were polished mechanically with silicon carbide papers from 120 to 1200 grit. The panels were degreased in acetone, thoroughly washed with double distilled water, dried and weighed. Then the panels were immersed in 300 ml of 0.5 M NaCl solution with and without the addition of inhibitors. After immersion for a definite period (15 days) the panels were taken out, washed with distilled water, dried and the changes in weights were noted. Triplicate measurements were carried out for each experiment.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+6
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+2.4. Polarization studies The polarization studies were carried out with brass specimen having an exposed area of 1 cm2. The cell assembly consisted of brass as working electrode, a platinum foil as counter electrode and a saturated calomel electrode (SCE) as a reference electrode with a Luggin capillary bridge. Polarization studies were carried out using a potentiostat/ galvanostat (model "AUTOLAB PGSTAT 12, Ecochemie BV, The Netherlands") and the data obtained were analyzed using the GPES software version 4.9. The degreased working electrode was then inserted into the test solution and immediately cathodically polarized at -1.0 V (SCE) for 15 minutes to reduce any oxides on the brass surface [35]. The cathodic and anodic polarization curves for brass specimen in the test solution with and without various concentrations of the inhibitors were recorded between -500 to 500 mV at a scan rate of 1 mV/s. The inhibition efficiencies of the compounds were calculated from corrosion current densities using the Tafel extrapolation method.
+
+2.5. Electrochemical impedance studies (EIS) Impedance measurements were conducted at room temperature using an AUTOLAB with Frequency Response Analyzer (FRA), which included a potentiostat model PGSTAT 12. An ac sinusoid of ± 10 mV was employed. The brass specimen with an exposing surface area of 1 cm2 was used as the working electrode. A conventional three electrode electrochemical cell of volume 300 ml was used. A saturated calomel electrode (SCE) was used as the reference and platinum plate electrode was used as the counter. All potentials are reported vs. SCE.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+7
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+2.6. Cyclic voltammetric studies A cell with three electrodes was used for cyclic voltammetric measurements. A saturated calomel electrode and a platinum foil were used as the reference and auxiliary electrode respectively. The working electrode was scanned from negative to positive in the potential range of -2.5 V to 1.5 V at a sweep rate of 10 mV/s. The solutions were de-aerated with nitrogen. The experiments were conducted using AUTOLAB, which included a potentiostat model PGSTAT 12.
+
+2.7. Potentiostatic current transient techniques The current transient of brass specimen as a function of immersion period in the test solution with and without the addition of inhibitors was recorded at a preset potential of -100 mV.
+
+2.8. Accelerated leaching studies (ICP-AES) During anodic polarization, the metal dissolution takes place releasing considerable amount of metal ions from the material. Hence, the solutions were analyzed to determine the leaching characteristics of the metal ions. In this study, the concentration of metal ions present in the test solution was determined after ageing the working electrode for 1 hour at the impressed steady state potential. The analysis was carried out using inductively coupled argon plasma­atomic emission spectroscopy (ICPAES)-Thermo Jarrel Ash-Atom Scan, USA.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+8
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+2.9. Surface examination study The brass specimens were immersed in various test solutions for a period of 15 days. After this period, the specimens were taken out and dried. The nature of the film formed on the metal surface was analyzed by the various surface analytical techniques.
+
+2.9.1 Analysis of FT-IR spectra The FT-IR spectra of the film formed on the surfaces of the metal specimens were recorded using Perkin-Elmer 1600 FT-IR spectrophotometer.
+
+2.9.2 Energy dispersive X-ray analysis The surface film formed on the brass specimen was examined by energy dispersive X-ray analysis (EDX). This was carried out using JSM-840A Scanning electron microscope JEOL-Japan, Link ISIS, Oxford instrument UK in conjugation with an energy dispersive spectrometer. The spectra were recorded on samples immersed for a period of 15 days in 0.5 M NaCl solution with and without inhibitors.
+
+3. Results and discussion 3.1. Weight-loss method The corrosion rates and percentage inhibition efficiencies of brass at different concentrations of BTBA and DBCH in 0.5 M NaCl solution at 30oC are given in Table 1. The corrosion rate (CR) and percentage inhibition efficiency (IE %) were calculated using the following equations [36].
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+9
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+CR (mm yr ) = DxAxT CR(bl) ­ CR(inh) CR(bl) Where, W is the weight-loss, D is the density, T is the immersion time, A is the area of the specimen, CR(inh) and CR(bl) are the corrosion rates of brass in the presence and absence of inhibitors respectively. The inhibition efficiency increases with increase in concentration of the inhibitors. The maximum IE% of each compound was achieved at 150 ppm and a further increase in concentration showed only a marginal change in the performance of the inhibitor. The optimum concentration of the inhibitors was 150 ppm and DBCH exhibited better inhibition efficiency than BTBA.
+
+-1
+
+87.6 x W
+
+IE% =
+
+x 100
+
+Inhibition exhibited by BTBA and DBCH can be attributed to the presence of the heteroatom N and  electrons on aromatic nuclei. When compared to BTBA, DBCH showed the highest inhibition efficiency, which may be due to high molecular weight possessed by the DBCH molecule. In the BTBA molecule, though the phenyl groups reduce their solubility [37], the  electron delocalization is greater, hence it possess moderate inhibition efficiency. The higher inhibition efficiency of the organic compounds is due to the basis of donor-acceptor interactions between the  electrons of the inhibitor and the vacant d-orbital of copper surface or an interaction of inhibitor with already adsorbed chloride ions [38, 39].
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+10
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+3.2. Polarization studies The polarization curves of brass in 0.5 M NaCl solution with varying concentrations of BTBA and DBCH are shown in Figures 1-3. It is evident that in the presence of inhibitor, the cathodic and anodic curves were shifted towards positive potential region and the shift was found to be dependent on inhibitor concentration. Table 2 illustrates the corresponding electrochemical parameters. The Ecorr values were marginally shifted in the presence of BTBA and DBCH. The experimental curves also indicate that the inhibitors retard mainly the anodic reactions. From the polarization curves, the corrosion current density (Icorr) was determined by Tafel extrapolation method. The current density also decreased with increasing concentrations of the inhibitors. The corrosion rate and percentage inhibition efficiency were calculated from Icorr values [40].
+
+CR =
+
+3.27 x 10-3 x Icorr x EW D
+
+I.E. % =
+
+___________________
+
+Icorr _ Icorr(inh) Icorr
+
+x 100
+
+Where, EW is the equivalent weight, D is the density of brass and Icorr (inh) and Icorr are the corrosion current densities in the presence and absence of inhibitors respectively. The inhibition efficiency of BTBA and DBCH attained a maximum value of 92.33% and 96.17% at 150 ppm concentration respectively. The values of inhibition efficiency increase with increasing concentration of inhibitor, indicating that a higher surface coverage was obtained in a solution with the optimum concentration of inhibitor. The corrosion rate in blank solution was found to be 10.86 x 10-2 mm year-1 and it was
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+11
+ISSN 1466-8858 Volume 10 Preprint 20
+-2
+
+20 December 2006
+
+minimized by adding the inhibitors to a lower value of 0.83 x 10 mm year-1 and 0.42 x 10-2 mm year-1 for brass due to the adsorption of BTBA and DBCH on the metal surface respectively. The results obtained from the polarization measurements are in good agreement with the weight-loss measurements in 0.5 M NaCl solution.
+
+3.3. Electrochemical impedance studies The corrosion behaviour of brass in NaCl solution in the presence of BTBA and DBCH was investigated by the EIS method at room temperature. The impedance diagrams were not perfect semicircles, which may be attributed to the frequency dispersion [41]. Nyquist plots of brass in inhibited and uninhibited NaCl solutions containing optimum concentrations of BTBA and DBCH after immersion of 1 hr, 24 hrs and 48 hrs are shown in Figs. 4-6. The percent inhibition efficiency (IE %) of corrosion of brass was calculated as follows [42]: I.E. % = (Rct)-1 ­ (Rct(inh))-1 (Rct)
+-1
+
+x 100
+
+Where, Rct(inh) and Rct are the charge-transfer resistance values with and without inhibitors respectively. IE% attained 96.47, 98.16 and 98.83 after immersions of 1 hr, 24 hrs and 48 hrs respectively with optimum concentration of DBCH, which was comparatively higher than that of BTBA in 0.5 M NaCl solution. This behaviour was attributed to more surface coverage of DBCH on the brass surface from 0.5 M NaCl solution. Impedance parameters derived from these investigations are given in Table 3. In the presence of optimum concentration of inhibitors, Rct values increased, whereas Cdl values tended to decrease. The decrease in Cdl values was caused by adsorption of
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+12
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+benzotriazole derivatives on the metal surface. The relationship between Rct and Cdl values with immersion time of 1 hr, 24 hrs and 48 hrs are shown in Table 3. Rct values for brass in 0.5 M NaCl increased with increase in immersion time while Cdl values are decreased with increase in immersion time. The tendency to decrease in Cdl, which can result from a decrease in local dielectric constant and/or an increase in the thickness of the electrical double layer, suggests that the inhibitors function by adsorption at the metal-solution interface [43]. The change in Rct and Cdl values were caused by the gradual replacement of water molecules by the anions of the NaCl and adsorption of the organic molecules on the metal surface, reducing the extent of dissolution [44].
+
+3.4. Cyclic voltammetric studies Figure 7 shows the cyclic voltammograms of brass in 0.5 M NaCl in the absence and presence of optimum level of BTMA and DBCH at a scan rate of 10 mV/s. The anodic curve exhibits three peaks A1, A2 and A3. The peak A1 at the potential of -1.5 V is due to the oxidation of Zn to ZnO while the peak A2 at -1.25 V is ascribed to the Zn (II) soluble species. The appearance of peak A3 at -0.35 V may be due to copper oxidation (Cu+/Cu2+) i.e. dissolution of copper. In the cathodic curve, three peaks, C1, C2 and C3 were observed. Peak C1 at a peak potential of -1.45 V corresponds to the reduction of ZnO to Zn. Peak C2 at -1.2 V is due to the reduction of Zn (II) soluble species. Peak C3 at the potential of -0.25 V could be due to the reduction of Cu2+/ Cu+ formed during the anodic scan [45]. When brass specimen was immersed in 0.5 M NaCl solution, initially oxides of the metal were formed. Then there was a competitive adsorption of Cl- and OH- ions at the adsorption sites on the metal surface. The incorporation of chloride ions in the film is
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+13
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+liable to break the surface film. These results are in good agreement with the earlier reports [46]. In the present study, the adsorption of chloride ions on the metal surface covered with oxide lead to the formation of zinc soluble species, which is confirmed by the appearance of peak at -1.25 V. It can be seen from the figure that in the presence of BTBA and DBCH the peak current was reduced when compared to the peak current for the blank solution. Also the peaks A1 and C2, corresponding to zinc oxidation and reduction of Zn(II) soluble species respectively, are effectively suppressed in the presence of inhibitors. These observations further confirm the fact that the selective dissolution of zinc is reduced, which in turn accounts for the control of dezincification process. The comparatively smaller peak currents observed for DBCH indicate stronger adsorption of DBCH on the metal surface than that of BTBA. The cyclic voltammograms clearly indicates that in the presence of inhibitors the dissolution of brass in 0.5 M NaCl solution had been controlled.
+
+3.5. Potentiostatic current transient techniques Figure 8 shows the current-time relationship of the brass specimen in 0.5 M NaCl solution with and without the optimum concentration of BTBA and DBCH at the applied potential of -100 mV. During the initial 60 seconds, there was an abrupt decrease in the current and a slower decrease thereafter. After one minute there was no remarkable change in current and a steady value was obtained. Evidently, the intensity of metal dissolution was comparatively low in the presence of inhibitors. When compared to BTBA, DBCH shifted the corrosion current of brass to a lower value and thus effectively retarded the dissolution of metal in 0.5 M NaCl solution.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+14
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+3.6. Accelerated leaching studies (ICP-AES) The results of solution analysis and the corresponding dezincification factor (z) in the presence and absence of benzotriazole derivatives at their optimum concentration level in 0.5 M NaCl solution for brass are given in Table 4. The dezincification factor (z) was calculated using the relation. z= (Zn/Cu )sol (Zn/Cu)alloy Where, the ratio (Zn /Cu)sol is determined from solution analysis and ( Zn/Cu)alloy is the ratio of weight-percent in the alloy [47, 48].
+
+The results reveal that both copper and zinc were present in the solution. The copper/zinc ratio in solution was found to be smaller than that of the bulk alloy. This indicates that the growth of surface film and the dissolution of the alloy were controlled by diffusion [49], which is related to the difference between the ionic radii of Zn+2 and Cu+ ions, 0.07 nm and 0.096 nm respectively. The results indicated that the inhibitors are able to minimize the dissolution of both copper and zinc. The percent inhibition efficiency against the dissolution of zinc was correspondingly higher as compared to the dissolution of copper. This observation suggests that the benzotriazole derivatives control the dezincification of brass in 0.5 M NaCl solution, which is also reflected in the values of dezincification factor.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+15
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+DBCH shows the highest inhibition efficiency in the dissolution of brass in 0.5 M NaCl solution. Evidently, the value of `z', i.e. 19.58 was achieved in the presence of DBCH containing 0.5 M NaCl solution for brass. The percent inhibition efficiency against the dissolution of Zn was correspondingly high i.e. 96.67 was achieved in the presence of DBCH containing 0.5 M NaCl solution for brass, indicating that the preferential dissolution of zinc was almost completely minimized.
+
+3.7. Analysis of FT-IR spectra The FT-IR spectra of pure BTBA are given in Figure 9. The stretching mode of NH bond gives rise to absorption band at 3433 cm-1 as expected. The absorption band due to 1625 cm-1 represents N=N stretching frequency. The CH2 stretching causes absorption at 2900 cm-1. The band at 1380 cm-1 corresponds to C-N stretching (curve a). The FT-IR spectra of film formed on the brass surface after immersion in sodium chloride solution containing optimum concentration of BTBA is shown in curve b. The shift in N=N stretching frequency to 1680 cm-1 and N-H stretching to 3500 cm-1 are attributed to the presence of copper-BTBA complex on the brass surface [50].
+
+Figure 10 shows the FT-IR spectra of DBCH. The absorption band due to 3090 cm-1 represents CH2 stretching of cyclohexane. The two prominent bands at 1614 cm-1 and 1590 cm-1 are attributed to the N=N bond of the two benzotriazole molecule. The bands at 2853 cm-1 and 2932 cm-1 represent CH2 stretching of the DBCH molecule. C-N stretching causes absorption at 1271 cm-1 (curve a). The FT-IR spectra of film formed on the brass surface after immersion in sodium chloride solution containing optimum
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+16
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+concentration of DBCH is shown in curve b. The shift in N=N stretching frequency to 1670 cm-1 is attributed to the presence of copper-DBCH complex on the brass surface.
+
+3.8. Energy dispersive X-ray analysis (EDX) Energy dispersive X-ray analysis technique was employed in order to get additional information on the inhibition mechanisms. The results obtained from this technique showed that the corrosion inhibition process was related to the development of inhibitor film over the metal surface. The cross section analysis of the corrosion layers were performed by EDX. Mapping of Cu, Zn and Cl was carried out to investigate the distribution of these elements in the surface layers. EDX spectrum of brass in 0.5 M NaCl solution in the absence and presence of BTBA and DBCH are shown in Figs. 11-13. From the figures, it is observed that in the absence of inhibitors, the distribution of Cl was high while Cu and Zn in the surface layers were low when compared to the composition of the alloy. This is due to larger amounts of copper and zinc ions leached out from brass in 0.5 M NaCl solution. The distribution of Cl was considerably reduced in the presence of BTBA and DBCH while Cu and Zn were increased, which are closer to that of the composition of the alloy. This observation clearly proved that the inhibitors are strongly adsorbed on the brass surface and thus effectively control the corrosion of brass in sodium chloride solution. The instrument used is not capable of detecting carbon, nitrogen, oxygen and hydrogen.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+17
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+4. Conclusions 1. Both BTBA and DBCH showed good inhibition efficiency in NaCl solution. The IE% of DBCH was higher than that of BTBA. 2. Polarization studies indicated that BTBA and DBCH behave mainly as anodic inhibitors for brass in NaCl solution. They decrease the anodic reaction rate more strongly than the cathodic reaction and render the corrosion potential of brass more positive in NaCl solution. 3. Impedance studies showed that the change in charge transfer resistance (Rct) and double layer capacitance (Cdl) values are related to the adsorption of BTBA and DBCH on the metal surface, leading to the formation of a protective film, which grows with increasing exposure time. 4. Accelerated leaching studies revealed that the BTBA and DBCH control the dezincification of brass. 5. Cyclic voltammetric studies indicated that the inhibitors have significant effects in anodic dissolution of metals. 6. Current transient studies showed that the inhibitors shifted the corrosion current to a lower value and thus effectively retard the dissolution of brass in sodium chloride solution. 7. FT-IR spectra show that the protective film consists BTBA and DBCH. 8. EDX analysis clearly proved that the inhibition is due to the formation of an insoluble stable film through the process of complexation of the organic molecule.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+18
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+References [1] P.T. Gilbert, Corrosion: Metal/environment Reactions, Vol. 1, 2nd ed., L.L. Shreir, Editor, Newness-Butterworths, London, 1976. [2] R. Gasparac, C.R. Martin, E. Stupnisek-Lisac, Z.Mandic, J. Electrochem. Soc. 2000, 147, 991. [3] G. Petkova, E. Sokolova, S. Raicheva, P. Ivanov, Br. Corros. J. 1996, 31, 55. [4] S.S. Sawant, D. Khandeparkar, A. Tulaskar, K. Venkat, A. Garg, Ind. J. Chem. Tech. 1995, 2, 322. [5] B.B. Moreton, Corros. Prev. Contr. 1985, 12, 122. [6] R.B. Ross, Metallic Materials Specifications Hand Book, 3rd ed., E and F.N. Spon, London, 1968. [7] H.C. Shih, R.J. Tzou, J. Electrochem. Soc. 1991, 138, 958. [8] M.I. Abbas, Br. Corros. J. 1991, 26, 273. [9] G. Quartarone, G. Moretti, T. Bellami, Corrosion, 1998, 54, 606. [10] R. Ravichandran, N. Rajendran, Appl. Surf. Sci. 2005, 239, 132. [11] D.P. Schweinsberg, S.E. Bottle, V. Otieno-Alego, J. Appl. Electrochem. 1997, 27, 161. [12] A. Weisstuch, K.R. Lange, Mater. Prot. Perform. 1973, 10, 29. [13] O.L. Riggs, Theoretical aspects of corrosion inhibitors and inhibition, NACE, Houston, Texas, 1974. [14] R. Walker, Corrosion 1973, 29, 290. [15] P.G. Fox, G. Lewis, P.J. Boden, Corros. Sci. 1979, 19, 457.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+19
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+[16] S.L.F.A. da Costa, S.M.L. Agostinho, Corrosion, 1989, 45, 472. [17] E.A. Ashour, S.M. Sayed and B.G. Ateya, J. Appl. Electrochem. 1995, 25, 137. [18] M.M. Laz, R.M. Souto, S. Gonzalec, R.C. Salvarezza, A.J. Ariva, J. Appl. Electrochem. 1992, 22, 1129. [19] R. Walker, Corrosion, 2000, 56, 1211. [20] S.K. Bag, B. Chakraborty, A. Roy, S.R. Chaudhuri, Br. Corros. J. 1996, 31, 85. [21] Brusic, M.A. Frisch, B.N. Eldridge, P. Novac, F. Bkaufman, B.M. Rusch, G.S.Frankel, J. Electrochem.Soc. 1991, 138, 2253. [22] R. Walker, Corrosion 1975, 31, 97. [23] F. Mansfeld, T. Smith, Corrosion 1973, 29, 105. [24] D. Modestov, G.D. Zhou, H.H. Ge, B.H. Loo, J. Electroanal. Chem. 1994, 375, 293. [25] D. Thomas, R.H. Sun, J. Electrochem. Soc. 1991, 138, 3235. [26] A. Frignani, L. Tommesani, G. Brunoro, C. Monticelli, M. Fogagnolo, Corros. Sci. 1999, 41, 1205. [27] N. Huynh, S.E. Bottle, T. Notoya, D.P. Schweinsberg, Corros. Sci. 2000, 42, 259. [28] W. Qafsaoui, C. Blanc, N. Pebere, H. Takenouti, A. Srhiri, G. Mankowski, Electrochim. Acta 2002, 47, 4339. [29] Nagiub, F. Mansfeld, Corros. Sci. 2001, 43, 2147. [30] V. Otieno-Alego, G.A. Hope, T. Notoya, D.P. Schweinsberg, Corros. Sci. 1996, 38, 213. [31] J. Shukla, K.S. Pitre, Corr. Rev. 2000, 20, 217.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+20
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+[32] R. Walker, Corrosion 2000, 56, 1211. [33] A.M. Fenelon, C.B. Breslin, J. Appl. Electrochem. 2001, 31, 509. [34] A.R. Katritzky, S. Rachwal, B. Rachwal, J. Chem. Soc. Perkin Trans. 1 1987 759. [35] S.V. Sastri, Corrosion Inhibitors Principles and Application, John Wiley & Sons, New York, 1998. [36] R. Ravichandran, N. Rajendran, Appl. Surf. Sci. 2005, 241, 449. [37] H. Otamacic, E.Stupnisek-Lisac, Electrochim. Acta 2003, 48, 985. [38] T. Murakava, S. Nagaura, N. Hackerman, Corros. Sci. 1967, 7, 79. [39] N. Hackerman, E.S. Snavely, J.S. Payne, J. Electrochem. Soc. 1996, 113, 677. [40] E. Khamis, E.S.H. El-Ashry, A.K. Ibrahim, Br. Corros. J. 2000, 35, 150. [41] F. Mansfeld, M.W. Kending, S. Tsai, Corrosion 1981, 37, 401. [42] S.S.A. El-Rehim, M,A.M. Ibrahim, K.F. Khaled, J. Appl. Electrochem. 1999, 29, 593. [43] R. Ravichandran, S. Nanjundan, N. Rajendran, J. Appl. Electrochem. 34 (2004) 1171. [44] S. Muralidharan, K.L.N. Phani, S. Pitchumani, S. Ravichandran, J. Electrochem. Soc. 1995, 142, 1478. [45] R. Ravichandran, Ph.D Thesis, Anna University, India, 2004. [46] R. Karpagavalli, S. Rajeswari, Bull. Electrochem. 1999, 5, 56. [47] G.Trabanali, A. Garassiti, Advance in Corrosion Science and Technology, Plenum Press, New York, 1970. [48] R. Ravichandran, S. Nanjundan, N. Rajendran, Appl. Surf. Sci. 2004, 236, 241. [49] W.J. Van Ooij, Surf. Technol. 1977, 6, 1.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+21
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+[50] R.M. Silverstein, G.C. Bassler, T. Morrill, Spectrometric Identification of Organic Compounds, Wiley, New York, 1981.
+
+Scheme 1: Structure of organic inhibitors
+
+N
+
+N N CH NH
+
+N-[1-(benzotriazol-1-yl)benzyl]aniline (BTBA)
+
+N N N N
+
+N
+
+N
+
+N
+
+N,N-dibenzotriazol-1-ylmethylaminocyclohexane (DBCH)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+22
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Table 1 Inhibition efficiency of different concentrations of BTBA and DBCH for the corrosion of brass in 0.5 M NaCl obtained from weight-loss method. Inhibitor concentration /ppm Blank BTBA 50 100 150 200 DBCH 50 100 150 200 2.78 2.01 0.29 0.34 73.11 80.56 97.20 96.71 3.22 2.71 0.72 0.75 68.86 73.79 93.04 92.75 Corrosion rate x 10-2 /mm year 10.34
+­1
+
+Inhibition efficiency /% -
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+23
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Table 2. Electrochemical parameters and inhibition efficiency for corrosion of brass in 0.5 M NaCl solution containing different concentrations of BTBA and DBCH. Inhibitor concentration /ppm Blank BTBA 50 100 150 200 DBCH 50 100 150 200 -252 -250 -223 -225 2.39 1.74 0.33 0.35 72.24 79.79 96.17 95.93 3.02 2.20 0.42 0.44 -255 -254 -231 -232 2.77 2.30 0.66 0.69 67.83 73.29 92.33 91.99 3.49 2.90 0.83 0.87 -312 8.61 Ecorr /mVvs.SCE Icorr /A cm-2 Inhibition efficiency /% Corrosion rate x 10-2 /mm yr-1 10.86
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+24
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Table 3. Impedance measurements and inhibition efficiency of brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH after 1 hr, 24 hrs and 48 hrs immersion. Inhibitors Rct x 104/ohm cm2 1 hr Blank BTBA DBCH 0.19 2.68 5.56 24 hrs 48 hrs 1.02 18.10 55.40 1.89 37.10 162.00 1 hr 3.32 0.35 0.12 Cdl/Fcm-2 24 hrs 0.61 0.07 0.01 48 hrs 0.42 0.03 0.01 Inhibition efficiency/% 1 hr 92.74 96.47 24 hrs 94.39 98.16 48 hrs 94.90 98.83
+
+Table 4. Effect of optimum concentrations of BTBA and DBCH on the dezincification of brass in 0.5 M NaCl solution. Solution analysis Cu Zn /ppm /ppm 0.68 0.06 0.05 16.32 1.09 0.54 Dezincificati on factor (z) 44.57 32.19 19.58 Percent inhibition Cu Zn 90.78 92.44 93.34 96.67
+
+Inhibitors Blank BTBA DBCH
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+25
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+List of Figures Figure 1: Polarization curves for brass in 0.5 M NaCl solution containing different concentrations of BTBA. Figure 2: Polarization curves for brass in 0.5 M NaCl solution containing different concentrations of DBCH Figure 3: Polarization curves for brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH. Figure 4: Nyquist diagrams for brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH after immersion of 1h. Figure 5: Nyquist diagrams for brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH after immersion of 24 hrs. Figure 6: Nyquist diagrams for brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH after immersion of 48 hrs. Figure 7: Cyclic voltammograms of brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH. Figure 8: Potentiostatic current transient curves of brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH Figure 9: FT-IR spectra of a) BTBA and b) BTBA-Cu complex Figure 10: FT-IR spectra of a) DBCH and b)DBCH-Cu complex Figure 11: EDX spectrum of brass in 0.5 M NaCl solution. Figure 12: EDX spectrum of brass in 0.5M NaCl solution containing optimum concentration of BTBA. Figure 13: EDX spectrum of brass in 0.5 M NaCl solution containing optimum concentration of DBCH.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+26
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+List of Figures Figure 1: Polarization curves for brass in 0.5 M NaCl solution containing different concentrations of BTBA. Figure 2: Polarization curves for brass in 0.5 M NaCl solution containing different concentrations of DBCH Figure 3: Polarization curves for brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH. Figure 4: Nyquist diagrams for brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH after immersion of 1h. Figure 5: Nyquist diagrams for brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH after immersion of 24 hrs. Figure 6: Nyquist diagrams for brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH after immersion of 48 hrs. Figure 7: Cyclic voltammograms of brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH. Figure 8: Potentiostatic current transient curves of brass in 0.5 M NaCl solution containing optimum concentrations of BTBA and DBCH Figure 9: FT-IR spectra of a) BTBA and b) BTBA-Cu complex Figure 10: FT-IR spectra of a) DBCH and b)DBCH-Cu complex Figure 11: EDX spectrum of brass in 0.5 M NaCl solution. Figure 12: EDX spectrum of brass in 0.5M NaCl solution containing optimum concentration of BTBA. Figure 13: EDX spectrum of brass in 0.5 M NaCl solution containing optimum concentration of DBCH.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+27
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 1
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+28
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 2
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+29
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 3
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+30
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 4.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+31
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 5.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+32
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 6
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+33
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 7
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+34
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 8
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+35
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 9
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+36
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 10
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+37
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 11
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+38
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 12
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+39
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Figure 13
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+40
+ISSN 1466-8858 Volume 10 Preprint 20 20 December 2006
+
+Referees List
+Prof. Santu Datta E001, Ellison Building School of Engineering University of Northumbria New Castle Upon Tyne NE1 8ST, United kingdom. Fax: (091) 2273598 Tel: (191) 2273636. E-mail: psantu.datta@unn.ac.uk Dr. P. Gnanasundaram Professor of Chemistry A.C. College of Technology Anna University Chennai-600 025 India. Tel: 91-44-55426036 E-mail: gnanasundaramp@yahoo.com Dr. K.M. Veerabadran Professor of Chemistry Madras Institute of Technology Anna University Chromepet Chennai ­ 600 044 Tel: 91-44-22233277 E-mail: kmveera67@yahoo.co.in
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

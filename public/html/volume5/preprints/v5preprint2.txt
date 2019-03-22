@@ -1,0 +1,89 @@
+Effect of Benzotriazole on Corrosion of Stainless Steel 302 in H2SO4 Solution
+M.A. Hosseini, S.Eftekhar Department of Chemistry, Shahid Bahonar University, kerman, Iran Abstracrt The corrosion behavior of stainless steel type 302 in different concentratios ( 10 ­3 to 8 × 10 ­3 ) of benzotriazole (BTA) in 1 M H2SO4 has been studied by potentiodynamic polarization measurments at a scan rate of 1 mVs-1. It is found that passive potential, corrosion potential increase with increasing benzotriazole concentrations, while critical current, corrosion current, passivation current and corrosion rate decrease. 1. Introduction In most inhibition studies the formation of denor - accepte surface complexes between free or pi-electron of an inhibitor and the vacant d-orbital of a metal were postulated [14]. The application of acid corrosion inhibitors in the industry is widely used to prevent or minimize metal loss during contact with acids. There is a continues search for better corrosion inhibitors to meet the needs of industry because of the vast differences of the media encountered in the industry. It has been shown that organic compound containing heteroatoms with high electron density such as nitrogen, sulfur and oxygen, or those containing multiple bonds, are effective acid inhibitors [5]. The remarkable efficiency of benzotriazole (BTA) as a corrosion inhibitor has been established for over 30 years and yet there is no general agreement on its mode of action and in particular its specisicity. Of particular interest in the general field of organic inhibitors is the nature of the chemical bond at the metal surface and on explanation of why these substances often proivide such excellent protection when, as in the case of BTA, the protective film is of the order of molecular dimensions only. The protective action of this inhibitor has been attributed to the formation of a polymeric film of metal-BTA on the metal surface [6-8].The aim of this work is to study the electrochemical behavior of stainless steel type 302 in absent and present of BTA with various concentration in sulfuric acid in different temperatures . 2. experimental
+
+302 stainless steel are composed of 0.15% C, 2.00% Mn, 0.045% P, 0.03% S, 17%19% Cr and 8.00%-10% Ni. The experimets were carried out at 10, 30, 50 °C in a conventional three-electrode electrochemical cell. The working electrode was a stainless steel sheet with geometrical area of 1.2 cm2, which before each experiment was polished with grade 400, 1200 emery paper. They were then washed with distilled water and aceton. A platinum electrode and a saturated calomel electrode (SCE) were used as counter and refrence electrode respectively. The electrochemical measurments were performed by an potentiostate . CG, CV& PG system model DPSWx . The anodic and
+
+cathodic polarization curves obtained by scanning the potential of the working electrode (1mVs-1) over the range ­600 _ +200 mV. The electrochemical parameters of this study were obtained from the potentiodynamic polarisation curves at 10, 30, 50 °C. These include the corrosion potential, corrosion current density, critical current, passivation current. Passive potential. 3. Results and discussion Potentiodynamic anodic polarization curves for a stainless steel electrode in sulphuric acid (1M) containing various concnterations of benzotriazole were used for potentiodynamic measurements. The polarization curves for these solutions at three various temperature (10, 30, 50 °C ) show characteristic active and passive regions. 3.1. at 10 °C results (table. 1) show that the current- density value decreases in the passive region as the concentration of BTA increases. The passive potential Epp decreases as the concentration of BTA increase from 10-3 to 8 × 10-3 . the passive current Ip, critical current and corrosion current decreases as the concentration of BTA increases [fig.1]. The least measure for corrosion current and corrosion potential have obtained at 6× -3 10 M (BTA) . The inhibition efficiency, (I%) was given by an equation (I%) = 100 (1- icorr / i0corr ) where icorr and i0cor denot the corrosion current densities in the presence and absence of an inhibitor, respectively [9].the inhibition efficiency at 6× 10-3M (BTA) is 70%.
+
+Table. 1 Effect of benzotriazole on the corrosion behavior of stainless steel type 302 at 10 °C [BTA] (M) Passive Potential-Epp mV Corrosion potential -Ecorr mV Passive Current Ip, µAcm-2 33.1 19.9 19.4 17.7 17.13 Critical current Ic µAcm-2 94.06 53.57 123.3 58.87 58.8 Corrosion current Icorr, µAcm-2 18.24 10.47 17.70 8.4 12.58
+
+Blank 10-3 3 × 10-3 4 × 10-3 8 × 10-3
+
+290.1 225.2 216.2 201.8 200
+
+401.8 295.5 275.7 277.5 270.3
+
+3.2. at 30 °C results (table. 2) show that the current- density value decreases in the passive region as the concentration of BTA increases. The passive potential Epp decreases
+
+as the concentration of BTA increase from 10-3 to 8 × 10-3 . the passive current Ip, critical current and corrosion current decreases as the concentration of BTA increases [fig.2]. The least measure for corrosion current and corrosion potential have obtained at 8× -3 10 M (BTA) .the inhibition efficiency at 8× 10-3M (BTA) is 97%.
+
+400
+
+0 mV -400 -800 -7 -6 -5 -4 logI/A -3 -2 -1 0
+
+fig.1. polarization curves for 302SS at10 °C in sulphuric acid
+
+Blank 0.003 M BTA
+
+0.001 M BTA 0.004 M BTA
+
+Table. 2 Effect of benzotriazole on the corrosion behavior of stainless steel type 302 at 30 °C [BTA] (M) Passive Potential-Epp mV 257.5 254.1 219.8 198.2 Corrosion potential -Ecorr mV 335.1 318.9 293.7 261.3 Passive Current Ip, µAcm-2 25.58 13.38 10.1 24.09 Critical current Ic µAcm-2 12.82 × 102 34.43 × 102 0.632 × 102 0.312 × 102 Corrosion current Icorr, µAcm-2 274.8 47.42 24.8 11.14
+
+Blank 10-3 6 × 10-3 7 × 10-3
+
+3.3. at 50 °C results (table. 3) show that the current- density value decreases in the passive region as the concentration of BTA increases. The passive potential Epp decreases as the concentration of BTA increase from 10-3 to 8 × 10-3 . the passive current Ip, critical current and corrosion current decreases as the concentration of BTA increases [fig.3]. The least measure for corrosion current and corrosion potential have obtained at 7× -3 10 M (BTA) .the inhibition efficiency at 7× 10-3M (BTA) is 95%.
+
+Table. 3 Effect of benzotriazole on the corrosion behavior of stainless steel type 302 at 50 °C
+
+[BTA] (M)
+
+Passive Potential-Epp MV 308.1 272.1 230.6 223.4 200 230.6
+
+Corrosion potential -Ecorr mV 427 387.4 335.1 324.3 318.9 291
+
+Passive Current Ip, µAcm-2 40.6 15.36 17.1 17.70 169.04 5.01
+
+Critical current Ic µAcm-2 0.344 × 104 0.260 × 104 0.059 × 104 0.047 × 104 0.197 × 104 0.001 × 104
+
+Corrosion current Icorr, µAcm-2 143.87 39.4 13.0 6.59 14.79 3.75
+
+Blank 10-3 2 × 10-3 3 × 10-3 5 × 10-3 8 × 10-3
+
+°
+
+400
+
+0
+
+mV
+-400 -800
+
+-8
+
+-6
+
+-4
+log I/A
+
+-2
+
+0
+
+fig.2.polarization curves for 302 SS at 30 °C in sulphuric acid
+
+Blank 0.008M BTA
+
+0.003 MBTA
+
+400
+
+0
+
+mV -400 -800 -6 -5 -4 -3 logI/A -2 -1 blank 0.007 M BTA 0 0.006M BTA
+
+fig.3. polarization curves for 302 SS at 50 °C in sulphuric acid
+
+4. Conclusions The effects of various concentrations of benzotriazole were invistigated on corosion of stailess steel type 302 at 10, 30, 50 ° C in an 1M H2SO4 solution by polarization measurements. BTA was an effective inhibitor at low concentrations between 1 × 10 ­3 and 8 × 10 ­3. passive potential, corrosion potential increase with increasing benzotriazole concentrations, while critical current, corrosion current, passivation current and corrosion rate decrease.
+
+References [1] G.K. Gomma, M.H. Wahdan, J. Mater.Chem.Phys.39 (1994) 142-148 [2] G.K. Gomma, M.H. Wahdan, Bull. Chem. Soc. Jpn.67 (1994) 2621-2626 [3] M.S. Abdel Aal, M.H. Wahdan, G.K. Gomma, Matter. Chem.Phys.39 (1995) 290297 [4] G.K. Gomma, M.H. Wahdan, Ind.J.Chem.Technol. 2 (1995) 107-110 [5] I.L. Rozenfeld, Corrosion Inhibitors (new York,NY: Mc Graw Hill, 1981), p.182 [6] I. Dugdale, J.B. Cotton, Corros. Sci. 3 (1963) 69 [7] J.B. Cotton,I.R. Scholes, Br.corros. J.2 (1967) 1 [8] G.W. Poling, Corros. Sci.10 (1970) 359 [9] Kunitsugu Aramaki, Corrosion science 43 (2001) 1985-2000
+

@@ -1,0 +1,244 @@
+Volume 6 Paper C065 Internal/External Environment Coupling in Stress Corrosion Cracking
+Digby D. Macdonald Center for Electrochemical Science and Technology Pennsylvania State University 201 Steidle Bldg University Park, PA 16802. ddm2@psu.edu Abstract Strong coupling between the cavity (crack, pit, or crevice) internal and external surfaces, as required by the differential aeration hypothesis for localized corrosion, has been observed in stress corrosion cracking in a variety of systems, including IGSCC in sensitized Type 304 SS in simulated BWR coolant environments at 288°C, IGSCC in the same sensitized alloy in thiosulfate solutions at ambient temperature, and caustic cracking in AISI 4340 high strength steel at 70°C. Coupling is manifest as a current flowing from the crack to the external surfaces, where it is consumed by the reduction of a cathodic depolarizer, such as oxygen, water, or hydrogen ion. Examination of this current, which is easily measured using a sensitive zero resistance ammeter, shows that it contains "structured" noise superimposed upon a mean. In the case of the sensitized stainless steel in the high temperature aqueous environment, the mean current is found to be linearly related to the crack propagation rate and, indeed, the measurement of the coupling current may provide a sensitive method of measuring crack growth rate. Furthermore, the noise in the current is found to yield a wealth of information on the fracture events that occur at the crack tip, including their frequency, temporal relationship with other events, and size. This information has provided a clearer view of the fracture mechanisms, which in all three cases (IGSCC in sensitized stainless steel in BWR environments and in thiosulfate solution and caustic cracking in AISI 4340) appear to involve brittle micro fracture events of a few micrometers to a few tens of micrometers in size. These data are more consistent with hydrogen-induced fracture than they are with a slip/dissolution mechanism, even when the external environment is oxidizing in nature. Keywords: Stress corrosion current, coupling current, micro fracture events Introduction Coupling of the internal and external environments of a localized corrosion event (pit, crevice, or crack) is required by the differential aeration (DA) hypothesis in order for the system to maintain a suitably aggressive environment in the cavity, such that localized attack proceeds. Because the strength of the coupling is reflected in the magnitude of the coupling current, characterization of the coupling current is of vital importance in developing robust, predictive models for the evolution of localized corrosion damage. The DA hypothesis, which was first formulated in the early 1930s,
+
+dictates that localized corrosion occurs only so long as the system is able to maintain a spatial separation between a local anode and a local cathode and that these two entities must be coupled in the manner that conserves charge in the system. The local cathode occurs on those surfaces that have the greatest access to the cathodic depolarizer (e.g., O2), while the local anode exists in that region that has the least access to the oxidizing species (i.e. in the crack and in particular at the crack tip) (Figure 1). The DA hypothesis, which has stood the "test of time" for more than seventy years, is the basis of the various "coupled environment" models, including the Coupled Environment Fracture Model (CEFM), developed by Macdonald and his colleagues [1-4] over the past two decades.
+
+Figure 1. Schematic of the origin of the coupling current in stress corrosion cracking. The coupling current is required by the differential aeration hypothesis for localized corrosion, and the conservation of charge requires that the electron current flowing from the crack to the external surface must be equal to the positive ionic current flowing through the solution from the crack to the external surface
+
+In this paper, some aspects of coupling between the internal and external environments of systems undergoing stress corrosion cracking are reviewed. The origin of the coupling current is examined and the mechanistic implications of the noise in the coupling current are explored. It is argued that the coupling current not only contains valuable mechanistic information, but that, in one case at least (IGSCC in sensitized Type 304 SS in high temperature aqueous solutions), the mean current varies linearly with crack growth rate. If this latter relationship can be confirmed, then measuring the coupling current may also represent an extraordinarily sensitive means of determining crack growth rate down to the creep crack growth rate limit. Coupling of the Internal/External Environments Type 304 SS in High Temperature Aqueous Systems The applicability of the DA hypothesis to SCC has been demonstrated experimentally by Manahan, Macdonald, and Peterson [5] by measuring the coupling
+
+2
+
+current during fracture in Type 304 SS in high temperature water (simulated BWR coolant at 288 oC), and more recently by Liu and Macdonald [6] and Gomez-Duran and Macdonald [7], who monitored the coupling current during the fracture of AISI 4340 steel in caustic solutions at 70 oC and the fracture of sensitized Type 304 SS in thiosulfate solutions at ambient temperature (22 oC), respectively. The coupling current was monitored in all three studies by coating C(T) specimens with PTFE, so as to inhibit the cathodic reactions that normally occur on the external surface. The coupling was then measured by using a sensitive zero resistance ammeter connecting the specimen and the cathodes mounted on the specimen sides in close proximity to the crack (Figure 2). Provided that the side cathodes are sufficiently close to the crack, they then act as the "external surface", with the current being routed through the ZRA, where it is measured, rather than flowing directly from the crack tip and flanks to the external surface. Figure 2. Specimen configuration used in detecting and measuring the coupling current flowing from a crack to the external metal surface. Note that the C (T) fracture mechanics specimen is coated with PTFE to inhibit the cathodic reduction of oxygen on the specimen surface. Instead, the current flows from the crack to the side cathodes (only one shown) where it is consumed by O2 reduction. The electron current flows from the crack tip to the side cathodes via a zero resistance ammeter, which is used for its measurement A typical coupling current versus time plot for IGSCC in Type 304 SS, obtained using a platinized nickel side cathode (in some experiments, cathodes of different types were employed with only one being connected to the ZRA at any given time), as the stress intensity is stepped to successively higher loads, is shown in Figure 3. It is seen that no coupling current flows until the stress intensity factor exceeds 11 MPa.m, but thereafter the coupling current rises rapidly with increasing KI to saturate at about 500 µA. While it is tempting to identify KISCC with a value between 11 and 22 MPa.m, it is possible that the lack of coupling current at low loads (KI values) simply reflects the existence of an induction time for the penetration of the crack through the fatigue-induced plastic zone ahead of the crack (the specimen was fatigue pre-cracked). It should be noted, again, that this particular experiment employed a platinum-catalyzed side cathode, because of a pre-experiment concern that the coupling current would be very small (of the order of a few nanoamps). Thus, it was postulated that catalysis of the oxygen reduction reaction would substantially increase the coupling current, and hence make it easier to detect, as observed (the coupling current for this case is approximately fifty
+
+3
+
+times that observed with Type 304 SS side cathodes ­ see later). These data demonstrate unequivocally that the coupling current is a sensitive function of the kinetics of oxygen reduction on the surfaces external to the crack, confirming one of the more important predictions of the CEFM. Inhibition of the oxygen reduction reaction is also predicted to have a profound impact on the coupling current and upon the crack growth rate, and this prediction has also been confirmed experimentally (see below). Further note that on unloading, the coupling current essentially drops to zero, an observation that can be attributed to crack closure (although a small negative current flows due to galvanic coupling between the steel specimen and the Pt-catalyzed nickel cathode). Accordingly, the lack of a coupling current for KI values at least as high as 11 MPa. m suggests that the coupling current originates primarily in the neighborhood of the crack tip, rather than on the crack flanks far removed from the apex, as these surfaces should be separated at even quite low loads.
+
+Figure 3. Coupling current and stress intensity versus time for Type 304 SS in simulated BWR coolant at 288 oC. The specimen was equipped with one platinized nickel side cathode.
+
+4
+
+Figure 4. Typical form of the noise in the coupling current for Type 304 SS with two Type 304 SS side cathodes in simulated BWR coolant at 288°C and at a stress intensity of 27.5 MPam. It is evident that the coupling current shown in Figure 3 displays significant noise, but the form of the noise is not clearly defined, because of the low data acquisition frequency (1 Hz). On recording the current at a much higher acquisition frequency (100 Hz), a remarkable noise structure is revealed (Figure 4). Thus, the noise comprises packages of periodic oscillations with the number of oscillations in each package ranging from four to about thirteen, with each package being separated by brief periods of intense but low amplitude activity. Furthermore, the frequency of the periodic fluctuations in the coupling current changed reproducibly with variations in the stress intensity (Figure 5) and interestingly no clear dependence of the frequency on cathode type (Ti versus Type 304 SS) was observed.. Also, no noise (or coupling current) was observed at stress intensities for which crack growth was not expected to occur (i. e., for KI < KISCC). The observed relationship between the noise and the experimental independent variables (e.g. KI) is such that the fluctuations in the coupling current most likely arise from fracture events at the crack tip. Thus, with reference to Figure 4, it is evident that the majority of the coupling current arises from the crack tip, whereas when highly catalyzed cathodes are used (Figure 3) it is evident that the majority of the coupling current arises from the crack flanks, presumably in the neighborhood of the crack tip (see Ref. 5).
+
+5
+
+3.5 3.0 2.5 2.0 1.5 1.0 0.5 0.0 Type 304 SS cathodes Titanium cathodes
+
+Fracture Frequency /s-1
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+KI /MPa.m1/2
+
+Figure 5. Frequency of the brittle micro fracture events versus stress intensity factor for IGSCC in sensitized Type 304 SS in water at 288 oC,  (25 oC) = 0.5-1.3 µS/cm, [O2] = 0.15 x 10-3 m. The form of the noise in the coupling current has profound implications for the fracture mechanism. Thus, the fact that distinct, periodic fluctuations are observed demonstrates that fracture, in this particular system occurs event-by-event across the crack front. This conclusion is reasonable, because if many events of random frequency and phase occurred more-or-less simultaneously, then pseudo "white" noise should be observed across the entire time record. Finally, analysis of the noise [5] shows that within each packet the crack advances in discrete increments of  3 µm (revised in this paper to  2 µm ­ see later). Assuming that the event represents the advance of the crack across a grain face, it is apparent that each packet of events shown in Figure 4 results in an extension of the crack by 8 (4 x 2 ) µm to about 26 (13 x 2) µm. This may be compared with the grain size of 10 to 50 µm. AISI 4340 Low Alloy Steel Recent work in the author's laboratory has aimed at characterizing the coupling current, and the noise contained therein, in other systems that exhibit stress corrosion cracking, with most of our effort being invested in characterizing coupling in the fracture of high strength AISI 4340 steel in caustic environments at 70°C [6]. This is an important case, in that the overwhelming consensus is that fracture is due to hydrogen-induced fracture. Demonstration of coupling in this system would imply that coupling is not a feature of stress corrosion cracking alone, but that it is a general feature of environmentassisted cracking (EAC). However, while we have demonstrated that a mean positive current flows from the crack mouth to the external surfaces, the observed noise in the coupling current (Figure 6a) is not as well defined in its structure and periodicity as that shown in Figure 4 for Type 304 SS in simulated BWR coolant. Nevertheless, periodicity is evident, and Fourier transformation from the time domain to the frequency domain shows that the noise consists of a spectrum of discrete events ranging in frequency from
+6
+
+< 0.01 Hz to 0.2 Hz (Figure 6b). These data are again consistent with a brittle micro fracture model, but in this case the crack appears to advance simultaneously at many points across the crack front.
+
+Figure 6. Coupling current versus time (a) and the corresponding Fourier transform (b) for the fracture of AISI Type 4340 steel in 33 Wt.% NaOH at 70°C. An additional, important feature is displayed by the frequency domain data shown in Figure 6b; the frequency spacing and the amplitude both decrease as the frequency increases. Thus, the picture that emerges is that, in this case, crack advance occurs simultaneously at many points across the crack front and that it does so not only via numerous small micro fracture events (corresponding to high frequency), but also by progressively fewer, more severe (larger) events at lower frequencies. In order for the crack front to advance uniformly, when averaged over time, it is evident that the following relationship should hold; f i ri = cons tan t , where fi is the frequency of the i-th event of magnitude ri. Confirmation of this relationship would undoubtedly provide important information on the dynamics of fracture. Assuming that the frequency of brittle micro fracture events at the crack tip decreases as the hydroxide concentration is lowered, thereby resulting in a lower crack growth rate, we postulated [6] that it must be possible to select conditions such that the fracture events are separated temporally and hence can be examined individually. This condition is achieved for this particular heat of alloy at a NaOH concentration of 6 M at 70 °C, as shown by the coupling current trace in Figure 7a. The trace displays events of
+
+4 2 Current (µ)
+Current (µ)
+Current (µA)
+
+4 2 0 -2 -4 -6 -8 43.0
+
+0 -2 -4 -6 -8 0 10 20 30 Time (min.) 40 50 60
+
+7
+
+43.5
+
+44.0
+
+44.5
+
+45.0
+
+45.5
+
+Time (min.)
+
+various sizes and at non-uniformly spaced times, which is consistent with the notion that distributions exist in the brittle micro fracture size and frequency. Close examination of the trace shows that the frequency of small events is significantly higher than the frequency of larger events, in concert with the conclusion drawn above from the Fourier transform. Figure 7a Figure 7b Figure 7. Transients in the coupling current for fracture in AISI 4340 steel in oxygenated, 6 M NaOH at 70 oC. Closer examination of one of the events (Figure 7b) shows that the coupling current increases sharply (but not instantaneously) in the negative direction (positive current flowing from the crack), and then relaxes to the original state over a period of about 1.5 s. The transient in the coupling current, in this case, is significantly different from that observed in the case of IGSCC in sensitized 304 SS in simulated BWR coolant environments (Figure 4); this difference can probably be attributed top the different nature of the impedance on the external surface into which the current is being injected. Regardless, to the author's knowledge, the data presented in Figure 9b represent the first kinetic characterization of brittle micro fracture events in any system under open circuit corrosion conditions. The kinetics of repassivation of brittle micro fracture events is an issue of considerable theoretical importance in formulating models for crack propagation. The kinetics for the case shown in Figure 7b are explored in Figure 8, where a first order plot of the relaxation in the coupling current is attempted. The current is indeed found to decay in a first order fashion with a rate constant of 0.029 s-1. Work is currently underway in the author's laboratory to characterize brittle micro fracture events in AISI 4340 steel in caustic environments in terms of current relaxation and acoustic emission over a wide range of external conditions (temperature, pH, potential, stress intensity, etc.). These studies are expected to yield rate constants for event repassivation as a function of the independent variables identified above, thereby providing detailed information (for the first time) on the dynamics of fracture at the crack tip.
+
+8
+
+2.5
+
+2
+
+k = 0.029 s
+1.5
+
+-1
+
+Ln(I/Io)
+
+1
+
+0.5
+
+0
+
+-0.5
+
+0.0
+
+0.5
+Time, min
+
+1.0
+
+1.5
+
+Figure 8. First order kinetic plot of the repassivation current shown in Figure 7b. Sensitized Type 304 SS in Thiosulfate Solution This is a "classic" SCC system that has been studied extensively [see Ref. 7 for a brief review of the literature]. In spite of this effort, consensus does not exist as to the fracture mechanism, with proposed mechanisms ranging from stress corrosion cracking to hydrogen embrittlement. This case, in particular, suggests that a spectrum of fracture mechanisms may exist in a single system and that, under any given circumstances, one mechanism may dominate. This intriguing possibility would explain the diversity in mechanistic views expressed by various authors, but it poses the problem of being able to associate any given mechanism with the prevailing conditions and, furthermore, of accounting for why the occurrence of any given mechanism should be so sensitive to the external conditions. Figure 9 shows the coupling current as a function of time for a 14-hr sensitized 2 Type 304 SS specimen in 0.5 M S2O 3 - at 22°C as the load (stress intensity) on the compact toughness specimen is systematically increased. Upon each step in the load, the coupling current is seen to increase sharply and then to relax to a more-or-less steadystate value. Again, the time domain indicates pseudo white noise, with few indications of periodic fracture events. However, in the frequency domain, obtained by the Fast Fourier Transform from the time domain, specific frequencies are shown to dominate over the frequency range of < 0.001 Hz to 0.2 Hz (the fluctuations at higher frequencies is considered to be "instrumental noise"). Nevertheless, from the frequency domain spectrum (Figure 10), like that for the fracture of AISI 4340 steel in concentrated alkali environments (Figure 7a), it was evident that many brittle micro fracture events occur
+9
+
+more-or-less simultaneously across the crack front. No attempt was made to adjust the conditions to isolate individual events, as had been done in the case of AISI 4340 in caustic solutions, as described above. Even so, we were able to ascertain the frequency range over which the brittle micro fracture events occur.
+
+14 h Sensitized 304SS in 0.5M Thiosulfate Solution
+35 30 25 3
+
+2,5
+
+Current ( A)
+
+20 15 10 5 0 0 -5 0,25 0,5 0,75 1 1,25 1,5 1,75 2 2,25 2,5 2,75 3 3,25 3,5 3,75
+
+1,5
+
+1
+
+0,5
+
+0
+
+Time
+
+Figure 9. Square wave loading of 14-hour sensitized Type 304 stainless steel specimen in 0.5 M Na2S2O3 solution at 22 oC. As noted above, the phenomenological features of fracture in sensitized Type 304 SS in thiosulfate solutions are very similar to those for AISI 4340 in caustic solutions, at least in terms of the structure of the frequency-domain noise in the coupling current (Figure 10 vs. Figure 6b, respectively). The similarities suggest common mechanisms, at least in terms of those factors that determine the frequency spectrum. Returning now to Figure 10, we see that the amplitude spectrum depends significantly on the state of sensitization of the stainless steel specimen. Thus, on increasing the sensitization time at 650 oC from 4-hours to 14-hours, the amplitude increases markedly, demonstrating a greater intensity in IGSCC activity. However, on further increasing the sensitization time to 24 hours, the amplitude remains unchanged, suggesting that the 14-hour and 24-hour conditions yield fully sensitized microstructures. This finding is consistent with many previous studies on fracture in sensitized Type 304 SS in a variety of environments. Although the data are meager, those plotted in Figure 10 suggests that the frequency of the micro-fracture event does not change significantly with the degree of sensitization. However, the same data demonstrate that the size of the micro-fracture event is a function of the degree of sensitization, at least for sensitization times up to 14 hours.
+
+10
+
+Loading (klbf)
+
+2
+
+Current Amplitude Spectra Comparison for Under Load State
+1e-4 1e-5 1e-6
+
+Amplitude (A)
+
+1e-7 1e-8 1e-9 1e-10 1e-11 0.0001 0.001 4h Sensitized 14h Sensitized 24h Sensitized 0.01 0.1 1
+
+Frequency (Hz)
+
+Figure 10. Comparison of coupling current amplitude spectra for IGSCC in sensitized Type 304 SS in 0.5 M Na2S2O3 solution at 22 oC as a function of sensitization time.
+
+Discussion
+That the periodic fluctuations in the coupling current arise from brittle micro fracture events at the crack tip is consistent with the observed impact of stress intensity on the event frequency. Thus, initially increasing the stress intensity is found to result in an increase in the event frequency (Figure 5), because the critical mechanical conditions for fracture at the precursor to the local micro event are achieved at a shorter time for the higher load. In the case of IGSCC in sensitized Type 304 SS in simulated BWR environments at 288 oC, the fracture events are resolved temporarily (at least within each package, Figure 4) and hence the picture that emerges is that the crack grows up a lessthan-favorably orientated (with respect to stress) grain face in roughly 2 µm steps until it intersects a favorably orientated face. At that point, the crack "unzips", resulting in a burst of current noise until the crack, once again, meets an unfavorably orientated face and the process starts over again. However, noting that the average grain size is about 30 µm and that the specimen thickness is 1.27 cm, there are on average 1.27/30 x 10-4 = 423 grains across the crack front, assuming that the crack front is straight. The inescapable (and remarkable) conclusion from the coupling current data is that only one of these grains is involved in crack advance at any given time and that the crack grows event-byevent and grain-by-grain! Of course, under different conditions, the fracture events may
+
+11
+
+not be temporarily resolved, as indicated in Figure 4, and the noise may be more characteristic of multiple events occurring more-or-less simultaneously across the crack front, as is observed for IGSCC of sensitized Type 304 SS in 0.5 M thiosulfate solution.. Our recent experiments [8] indicate that the crack growth rate in sensitized Type 304 SS in high temperature aqueous solutions varies linearly with the mean in the coupling current, a relationship that is predicted by the CEFM [1-3]. An example of such a plot is shown in Figure 11. While the data are meager, the relationship between the CGR and the coupling current is clear. From Faraday's law, and from the slope, S, of the line in Figure 11 (S = 0.2 cm/C), we may estimate the area of the current source within the crack as A=M/nFS, where M is the atomic weight of the metal (taken as that of iron, 56 g/mol), n is the oxidation number (n = 2), F is Faradays constant (F = 96,487 C/equiv), and  is the metal density ( = 7.86 g/cm3 for iron). The calculated value of A is 1.85 x 10-4 cm2, compared with the area of a single, semicircular fracture event of 3 x 10-8 cm2 (two semi circular surfaces are created per event). Assuming that the periodic oscillations do arise from the micro fracture events, we can calculate the bare surface dissolution current density as ca. 10 µA/3 x 10-8 cm2  300 A/cm2. While this current density is high, it is not unreasonably so, given the approximate nature of the calculation. Furthermore, the calculated current source area is consistent with the postulate that many past events contribute to the background coupling current as their fracture surfaces repassivate, as previously suggested [5]. This issue is explored further below. From a crack growth monitoring viewpoint, a linear relationship between crack growth rate and the coupling current is a most important observation, because of the ease with which exceedingly small currents may be measured compared with the difficulty inherent in measuring low crack growth rates.
+
+Figure 11. Relationship between the crack growth rate and coupling current for IGSCC in sensitized Type 304 SS in oxygenated (7.6 ppm, 2.38 x 10-4 m) sodium chloride (50 ppm, 8.62 x 10-4 m) solution at 250 °C.
+
+12
+
+The reader will note that the periodic oscillations shown in Figure 4 for fracture in sensitized Type 304 SS in a simulated BWR environment at 288 oC are significantly different in form than that observed for intergranular fracture of AISI 4340 in 6 M NaOH at 70 oC (Figure 5). Thus, the transient in the case of the stainless steel is characterized by a slow current rise on the leading edge, followed by an equally slow fall, rather than by a sharp rise followed by a more gradual fall (as is observed for the high strength steel in caustic solution). The latter transient is what one would expect if the measurements had been made using a potentiostat to control the potential at the external surface. Because an ideal potentiostat has zero output impedance, it is able to supply, instantaneously, whatever current is necessary to maintain the control function (the potential). However, in the case of the coupling current measurements being reviewed here, the current is being injected into a frequency-dependent impedance on the external surface, due to the passive film and the oxygen reduction reaction. The form of this impedance is expected to be highly dependent upon the kinetic parameters for the reactions involved and can be very large (> 105 ohms) at low frequencies. Accordingly, the issue with regard to the form of the periodic oscillations must await a detailed analysis of the system impedance. An important issue that must be addressed is why the microscopic fracture events occur at all. Although much has to be done to resolve specific details of fracture mechanisms in stainless steels in high temperature aqueous solutions, the observations of this work are best explained by a brittle micro fracture mechanism, in which the events are induced by hydrogen or possibly by dealloying [12,13]. Thus, we postulate that the mean current exiting the crack mouth, which is detected by the ZRA, generates a sufficiently acidic environment at the crack tip that hydrogen evolution occurs and atomic hydrogen is injected into the matrix of the chromium-depleted grain boundary ahead of the crack. Subsequently (and periodically), a fracture event initiates in the matrix in front of the crack tip, at which the hydrostatic stress and the hydrogen concentration, in concert, exceed critical conditions and possibly at which strain-induced martensite has formed [9]. This "martensite/hydrogen induced fracture" mechanism is postulated, in spite of the fact that the environment external to the crack (but not that at the crack tip) is under oxidizing conditions. Recent modeling studies that have taken into account coupling between the crack internal and external environments indicate that increasing the oxidizing power of the external environment (e.g., by increasing the concentration of oxygen) lowers the crack tip pH and hence increases the crack tip overpotential for hydrogen evolution. [2,4]. This change favors the injection of hydrogen into the matrix ahead of the crack tip. A similar ("void nucleation/hydrogen pressurization") mechanism can be formulated by combining the hydrogen injection/recombination hypothesis with void nucleation at an appropriate micro structural feature ahead of the crack tip (e.g., at grain boundary precipitates) [10]. Recombination of atomic hydrogen in the void creates a hydrogen pressure that contributes to the local hydrostatic stress. As the internal void pressure builds, a local stress is reached at which brittle fracture occurs forwards and backwards, with the latter linking up with the main crack. This mechanism should result in an increase in the brittle micro event fracture frequency with increasing stress intensity at low stress intensities (Figure 5), but at higher stress intensities the pressurization of the void is expected to be of paramount importance and hence the frequency might be expected to become only weakly dependent on stress intensity, as observed..
+
+13
+
+An important consequence of coupling of the internal and external environments, and noting that these sub-systems are in series, is that the magnitude of the current will be determined by that region of the system that offers greatest resistance to current flow. Because the coupling current and crack growth rate appear to be linearly related (Figure 11), increasing the series resistance would seem to offer a convenient means of inhibiting crack growth. This hypothesis was confirmed by noting that the crack growth rate in sensitized Type-304 SS in dilute sulfate solution is significantly reduced by placing a dielectric barrier (ZrO2 coating) on the external surface of the specimens (Figure 12) [11].
+
+Figure 12. Inhibition of IGSCC in sensitized Type 304 SS by a dielectric ZrO2 coating. The experiments were carried out with two C(T) specimens daisy-chained together in the same solution (0.005 m Na2SO4) at 250°C.
+
+The dielectric barrier serves to inhibit charge transfer (as demonstrated by measuring the surface impedance using Electrochemical Impedance Spectroscopy, EIS) and hence reduces the exchange current densities for the redox reactions. Indeed, by assuming that the exchange current density scales inversely with the specific impedance of the surface, which was measured ex situ using a barnacle cell containing a fast redox couple [Fe(CN)63-/4-], it was found [11] that the reduction in the crack growth rate and the change in the ECP due to the presence of the dielectric film on the surface were in excellent accord with the predictions of the CEFM and the MPM [11], respectively. Most models for environment-assisted fracture tacitly assume that the crack advances uniformly across the entire crack front. In light of the fact that the width of the crack front (typically 2 cm) is much greater than the dimension of crack advance per event (typically microns to tens of microns, see below), and noting that the crack front is highly structured as the crack intersects grain boundaries, this "straight crack front" view is untenable. Thus, from a purely structural viewpoint, it is difficult to accept the postulate that crack advance occurs uniformly across the entire crack front of a macroscopic sample. This view is well-supported by numerous micro structural studies of crack fronts, which show that considerable structure exists at the crack tip in the form of penetrating channels and remaining ligaments [14]. Accordingly, the notion that the crack advances uniformly across the entire crack front must be discarded. As an alternative, more general model, consider the case where the crack advances forward by a dimension a across a local crack front of dimension b in a
+
+14
+
+specimen of effective width B. Because, on average, B/b events must occur on the crack front for every advance of the whole crack by a, the crack growth rate can be written as
+
+dL = fa /( B / b ) = fab / B dt
+
+(1)
+
+where f is the frequency of the micro fracture event at the crack front. The effective width of the specimen is the distance along the crack front. For a hexagonal crack front, and assuming that b << B, B = 3W/2, where W is the physical thickness of the specimen. In the extreme of b = B, the crack growth rate becomes
+
+dL = fa dt
+
+(2)
+
+On the other hand, for a semi-circular or rectangular micro fracture event, where b = 2a, as previously assumed [5], the crack growth rate expression becomes
+
+dL = 2 fa 2 / B dt
+
+(3)
+
+Because the crack growth rate and the frequency of the micro fracture events can be measured, Equations (2) and (3) can be rearranged to yield the crack advance dimension, a, as
+
+a = ( dL / dt ) / f
+and
+a = B( dL / dt ) / 2 f
+
+(4) (5)
+
+for these two cases. In Table 1 are summarized data for fracture dimensions calculated using Equations (4) and (5) for the cracking of sensitized Type 304SS in simulated BWR coolant water at 288 oC (25 = 0.94 µS/cm, KI = 27.5 MPa.m1/2, [O2] = 4.8 ppm, and assumed flow velocity and hydrodynamic diameter of 1 cm/s and 10 cm, respectively), sensitized Type 304SS in 0.5 M Na2S2O3 at 20 oC, and AISI 4340 steel in 6 M NaOH at 70 oC. The load and other environmental parameters are given in the original publications [5-7]. Possibly, a more realistic scenario is to assume that the dimension b corresponds to the grain size, g, again assuming a hexagonal crack front, in which case the crack advance dimension becomes
+
+a = 2 B( dL / dt ) / 3 fg
+
+(6)
+
+Noting that the grain size of the two stainless steels used in these studies was of the order of 35 µm (3.5 x 10-3 cm), the crack advance dimension for the 304SS/BWR and the 304/thiosulfate cases is calculated as 0.14 µm and 69-686 µm, respectively. The grain
+
+15
+
+size of the AISI 4340 steel was measured as being about 50 µm, giving rise to a crack advance dimension of 95 µm. All of these dimensions are much larger than that expected for the slip dissolution/passivation model (see below), except perhaps that calculated from Equation 4 for IGSCC in sensitized Type 304 SS in simulated BWR coolant. In that case, however, the crack would have to grow in a single act across the entire crack front; a most unlikely scenario. Table 1. Fracture parameters for IGSCC in sensitized Type 304 SS in simulated BWR environments (288 oC), in 0.5 M thiosulfate solution at ambient temperature (22 oC), and in AISI 4340 steel in 6 M NaOH at 70 o C. dL/dt (cm/s) 304SS/BWR 0.78 x 10-7 304SS/Thiosulfate 1.70 x 10-6 AISI 4340/NaOH 5.30 x 10-8 System f (s-1) 2 0.1 to 0.01 0.003 W/B(cm) a [Equ. 4] a [Equ. 5] 1.93 µm 42-134 µm 60 µm
+
+1.27/1.91 0.33 nm 1.416/2.12 0.17 ­ 1.7 µm 2.70/4.05 0.18 µm
+
+Finally, in all three cases, crack growth is considered to be more consistent with a hydrogen embrittlement mechanism than with the slip/dissolution/repassivation (SDR) mechanism, primarily upon the basis of the dimension of the micro fracture events that occur at the crack tip. Thus, if the SDR mechanism occurred, the fracture dimension should be some small multiple of Burger's vector, corresponding to a (small) finite number of slip planes in a slip band at the crack tip, and hence should be of the order of nanometers in dimension. Instead, the fracture events are found to be micrometers to tens of micrometers in dimension, corresponding to sub- to super-grain sizes. The only mechanism that appears to be consistent with these results is hydrogen-induced cracking (HIC). The source of hydrogen is postulated to be the hydrogen evolution reaction at the crack tip, which partially compensates for the electron current generated at the crack tip due to the dissolution of metal. In closing, it should be noted that the crack growth rates used in calculating the fracture dimensions are little more than crude estimates based upon data that have been reported in the literature. Thus, it is important to note that in none of the cases discussed above was the crack growth rate measured during the experiment. In the case of the IGSCC in sensitized Type 304 SS in simulated BWR coolant, the crack growth rate has been recalculated and is significantly smaller that the previously employed value (3.1 x 10-7 cm/s), resulting in a slightly smaller fracture dimension (2 µm versus 3 µm). Clearly, the value of the fracture dimension in settling mechanistic issues will require the simultaneous measurement of fracture frequency and crack propagation rate on the same specimen. This is now being done in the author's laboratory for intergranular fracture in AISI 4340 steel in caustic solution.
+
+16
+
+Summary and Conclusions
+The importance of coupling between the internal and external environments of propagating cracks in sensitized Type 304SS in simulated BWR coolant environments at 288 oC and in thiosulfate solution at 22 oC, and for the intergranular fracture of AISI 4340 steel in 6 M NaOH at 70 oC, has been examined by measuring the coupling current that flows between the crack and the external surface where it is consumed by the reduction of a cathodic depolarizer (e.g., oxygen). Coupling is the necessary condition that must exist as the result of the differential aeration hypothesis for localized corrosion and it provides an opportunity to examine the nature of the processes that occur at the crack tip from the "noise" contained in the current. The findings of this work can be summarized as follows:
+·
+
+·
+
+·
+
+·
+
+·
+
+The coupling current consists of quasi-periodic oscillations ("noise") superimposed upon a mean. The noise contains valuable mechanistic information that is postulated to arise from fracture events that occur at the crack tip as well as from repassivating, historical events on the crack flanks. In the case of fracture in sensitized Type 304 SS in simulated BWR coolant at 288 o C, the oscillations are resolved into packages of 4 to 13 that are separated by short periods of low amplitude, intense activity. These data are consistent with fracture occurring event-by-event and grain-by-grain across the crack front. For intergranular fracture in the same alloy in thiosulfate solution and for intergranular fracture in AISI 4340 in caustic solution, the data are consistent with many micro fracture events occurring more-or-less simultaneously across the crack front. However, through the judicious choice of NaOH concentration, the fracture events occurring in AISI 4340 steel in 6 M NaOH at 70 oC can be temporally resolved, thereby allowing examination of the kinetics of individual events. The repassivation process is found to be first order in kinetic character. Although only few data are available, the crack growth rate (CGR) in sensitized Type 304 SS in high temperature (250 oC), dilute sulfate solution appears to be linearly related to the coupling current, thereby (possibly) providing an extraordinarily sensitive method for monitoring CGR. Coupling between the internal and external environments, as embodied in the Coupled Environment Fracture Model, leads to the prediction that the cavity growth rate will decrease as the cavity depth increases. This relationship, which is an analytical consequence of charge conservation, has enormous implications for the rate of accumulation of localized corrosion damage. Modification of the chemical and electrochemical properties of the external environment, including the external surfaces upon which the coupling current is consumed, is predicted and found to have a profound impact on the rate of cavity growth. For example, the CEFM predicts that increasing the specific impedance of the external surface, resulting in a decrease in the exchange current density for the reduction of oxygen (which consumes the coupling current that flows from the crack mouth), will decrease the crack growth rate. This prediction is found to hold for the IGSCC in sensitized Type 304 SS in high temperature (250°C), dilute sulfate solutions, with the reduction in the exchange current density being affected by the deposition of a ZrO2 coating on the external surfaces (and only on the
+
+17
+
+·
+
+external surfaces). This observed reduction in the CGR is in excellent accord with the predictions of the CEFM. In all three cases, crack growth is considered to be more consistent with a hydrogen embrittlement mechanism than with the slip/dissolution/repassivation (SDR) mechanism, primarily upon the basis of the dimension of the micro fracture events that occur at the crack tip. Thus, if the SDR mechanism occurred, the fracture dimension should be some small multiple of Burger's vector, corresponding to a (small) finite number of slip planes in a slip band at the crack tip, and hence should be of the order of nanometers in dimension. Instead, the fracture events are found to be micrometer to tens of micrometer in dimension, corresponding to sub- to super-grain sizes. The only mechanism that appears to be consistent with these results if hydrogen-induced cracking (HIC).
+
+Acknowledgments
+The author gratefully acknowledges the support of this work by the Department of Energy/Environmental Management Science Program under Grant No. DE-FG0797ER62515.
+
+References
+1. D. D. Macdonald and M. Urquidi-Macdonald, Corr. Sci., 32, 51 (1991) 2. D. D. Macdonald, P.C. Lu, M. Urquidi-Macdonald, and T. K. Yeh, Corrosion, 52, 768 (1996) 3. D. D. Macdonald, Corr. Sci., 38, 1033 (1996) 4. G. R. Engelhardt, M. Urquidi-Macdonald, and D. D. Macdonald, Corr. Sci., 39, 419 (1997). 5. M. P. Manahan, Sr., D. D. Macdonald, and A. J. Peterson, Jr., Corr. Sci., 37, 189 (1995) 6. S. Liu and D. D. Macdonald, Corrosion, 58, 835 (2002). 7. M. Gomez-Duran and D. D. Macdonald, Corr. Sci., 45, 1455 (2003). 8. , A. Weunsche and D. D. Macdonald, unpublished observations (2000). 9. C. L. Briant, Met. Trans A, 10A, 181 (1979) 10. D. S. Wilkinson and V. Vitek, Acta Metall., 30, 1723 (1982). 11. X. Zhou, I. Balachov, and D. D. Macdonald, Corr. Sci., 40, 1349 (1998) 12. K. Sieradzki and R. C. Newman, Phil. Mag.A, 51, 95 (1985). 13. K. Sieradzki and R. C. Newman, J. Phys. Chem. Solids, 48, 1101 (1987). 14. D. Shockey and T. Kobayashi, FRASTA (Fracture Reconstruction by Topographic Analysis), www.sri.com/poulter/fracture/frasta.html (2001).
+
+18
+

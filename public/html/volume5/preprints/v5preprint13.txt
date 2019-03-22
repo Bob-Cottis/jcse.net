@@ -1,0 +1,266 @@
+ISSN 1466-8858
+
+Volume 5 Preprint 13 EROSION-CORROSION OF DUPLEX STAINLESS STEEL IN FLOWING SEAWATER CONTAINING SAND PARTICLES
+E.A.M.Hussain+ & M.J.Robinson School of Industrial & Manufacturing Science, Cranfield University, Bedford MK43 OAL, UK, m.robinson@cranfield.ac.uk
++
+
+Present address; Kuwait College of Technological Studies
+
+Abstract SAF2205 duplex stainless steel was tested in a jet impingement apparatus using flowing artificial seawater containing sand particles. Erosion-corrosion was measured under a range of hydrodynamic conditions by recording the increase in anodic current density that occurred when the passive film was damaged by particle impacts. The current density increase was shown to be linearly related to the mean kinetic energy of the sand particles. The surface oxide film developed optical interference colours in flowing seawater when the stainless steel was held at anodic potentials and these colours were used to identify the film thickness. The highest rate of erosion-corrosion occurred in the stagnation region,
+
+immediately beneath the jet, where the particles impacted the surface at an angle effects on the successive processes of oxide film damage and repassivation. Keywords:
+
+of 90°. The results are discussed in terms of the rates of particle impacts and their
+
+Erosion-corrosion, duplex stainless steel, passive film, interference colour, kinetic energy.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Introduction This paper describes an investigation of erosion-corrosion of SAF2205 duplex stainless steel caused by sand particles entrained in flowing seawater. Duplex grades of stainless steel generally display good corrosion resistance in seawater and the extent of this resistance depends on the range of potential, temperature and chemical conditions over which the film remains stable. Within this stable range, disruption of the film by an erosion process results in spontaneous repassivation of the surface and a small corrosion current is produced. The combination of these two events is often described as erosion-corrosion. In many instances, the two processes together result in a greater rate of metal loss than the sum of the two processes occurring individually and synergism is evident
+(1,2).
+
+In the present study the experimental conditions chosen were sufficient to damage the passive film without causing substantial mechanical damage to the substrate. The sand particles had relatively low kinetic energies such that the rate of pure erosion to the stainless steel was very small. These conditions were ideal for observing sensitive changes in the oxide film thickness caused by different hydrodynamic conditions in the water jet and for measuring the current densities produced when the films were disrupted by particle impacts. METHODS Material The tests were performed on duplex stainless steel SAF 2205 (UNS31803) with the composition shown in Table 1. C 0.02 Si 0.49 Mn 1.5 Cr 21.9 Ni 5.4 Mo 3.1 P 0.025 S 0.003 N 0.18
+
+Table 1. Composition of Duplex Stainless Steel SAF 2205
+
+Electrodes Erosion-corrosion experiments were performed on a test specimen
+
+consisting of three cylindrical electrodes machined from SAF 2205 steel with the dimensions shown in Figure 1. An electrical connection was attached to each electrode and they were then arranged concentrically and mounted in epoxy resin. The surfaces were ground and polished down to 1 µm with diamond paste and then degreased and ultrasonically cleaned in isopropanol and air dried.
+
+Fig 1. Arrangement of the three cylindrical electrodes Closed Loop Jet Impingement Apparatus The electrodes were mounted directly beneath the orifice of a jet impingement apparatus as illustrated in Figure 2. The loop contained approximately 3 litres of artificial seawater and was capable of producing a velocity of 8.5 ms-1 at the 5 mm diameter orifice. A 1.5 litre capacity
+
+glass cell contained the samples, together with a platinum counter electrode and standard calomel reference electrode. The seawater temperature was controlled at 24°C using an electrical heater and thermostat together with a water-cooled heat exchanger. In some of the experiments sand was introduced to the flow. The sand particles were in the range 250-300 µm in diameter, varying in shape from rounded to angular.
+
+Fig 2. Schematic diagram of the closed loop jet impingement apparatus Hydrodynamic Conditions Typical flow characteristics due to jet impingement on a flat plate shown in Figure 3. These conditions are assumed to apply to the
+(3)
+
+are
+
+seawater jet on the surface of the electrodes used in this study. A stagnation zone formed directly under the orifice (Region A). The flow then changed from axial to radial and remained laminar as it accelerated to its maximum velocity at r/ro = 2 (where ro is the radius of the orifice). At this point a transition occurred from laminar to turbulent flow and
+
+(Region B). At larger radial distances more fluid was entrained in the flow, the thickness of the wall jet increased and its turbulence decayed rapidly (Region C).
+
+between r/ro = 2 and r/ro = 4 there was a region of high turbulence
+
+The inner electrode (Ring 1), which was 5 mm in diameter (Figure 1), was located within the stagnation zone. The second electrode (Ring 2) was 15 mm diameter and positioned in the high turbulence region (r/ro = 3). 5) so that it would be in the low turbulence region. The diameter of the third electrode (Ring 3) was 25 mm diameter (r/ro =
+
+Fig 3. Hydrodynamic characteristics of jet impingement on a flat plate (Efird et al
+(3))
+
+The shear stress on the surface, w, can be calculated from the following formula
+(3);-
+
+w = 0.179  Uo Re-0.182 (r/ro)-2 where  is the density of the fluid Uo is the jet velocity Re is the Reynolds number at the orifice and;
+
+[1]
+
+Re = (2 ro Uo / ) r is the radial distance from the centre of the jet ro is the orifice radius  is the kinematic viscosity Film Thickness Measurement
+
+[2]
+
+Background The thickness of the oxide film that developed from the reaction between the duplex stainless steel and the flowing seawater was assessed from its optical interference colour.
+
+Interference occurs between light reflected from the surface of the oxide film and light returning after reflection at the oxide/metal interface provided that their paths differ by an odd number of half wavelengths almost normal to the surface for a wide range of angles of incidence. Hence, it can be shown that
+(5); (4).
+
+Owing to the high refractive index of the oxide, the light inside the film is
+
+Path difference = 2tµ = (2n ­ 1)  /2 where n = 1, 2, 3 etc t = thickness of the oxide film
+
+[3]
+
+ = the wavelength most strongly absorbed in the incident light µ = refractive index of the oxide at this wavelength The maximum interference takes place when t =  /4µ in the first absorption band (1st order), when t = 3 /4µ in the second and when t = 5 /4µ in the third. The value of n is limited only by the absorption and scattering of light in the film. As the oxide film thickens the shorter wavelengths of light at the violet end of the visible spectrum are absorbed first. When viewed in white light, the removal of this wavelength gives the film the complementary
+
+yellow colour. Thickening of the film results in absorption of longer and its appearance changes through a sequence of complementary
+
+wavelengths, moving progressively towards the red end of the spectrum, colours shown in Table 2. Second and higher order bands of colours follow in a characteristic sequence, sometimes known as Newton's series. The exact colours displayed can vary depending on the metal substrate on which the film is growing
+(4).
+
+Wavelength (nm) 417.5 457.5 485 495 530 570 577.5 589 700
+
+Colour Absorbed Violet Blue Blue-green Green-blue Green Yellow-green Yellow Orange Red
+
+Complementary Colour Observed Yellow-green Yellow Orange Red Purple Violet Blue Blue-green Green-blue
+
+Refractive Index (µ) 2.43 2.25 2.15 2.12 2.02 1.93 1.89 1.90 1.73
+
+Table 2 Complementary colours displayed by destructive interference Phase change When light is reflected at an interface between media of different optical density a phase change can occur
+(4),
+
+which is equivalent
+
+to an additional film thickness C. In consequence, the maximum interference would occur at film thicknesses of  /4µ -C, 3 /4µ - C, 5 /4µ - C etc. However, for a transparent oxide film on a metal substrate it is usual to assume that no phase change takes place and that C = 0. Measurement Technique On removal of the stainless steel sample from the flow rig the surface was photographed and the interference colours at a range of radial distances were compared with those in the Michel-Levy film thickness to be calculated for each region using equation [3]. The formula
+(7)
+
+chart
+
+(6).
+
+The path difference was identified for each colour, enabling the
+
+values of refractive index were corrected for wavelength using Cauchy's in equation [4] and are shown in Table 2.
+
+µ = 1.35 + 18.8 x 104/  Electrochemical Measurements
+
+2
+
+[4]
+
+The influence of the seawater hydrodynamics and sand particle erosion on the passivity of SAF 2205 was measured by performing potentiodynamic scans on each electrode. The potential was scanned from -600 to 1300 mV(SCE) at a rate of 10 mV/min using a Sycopel Scientific computer controlled Autostat 251. The resulting polarisation behaviour was used to identify the potential selected at which localised corrosion of one or both of the range over which the passive film was stable. A single potential was then
+
+microstructural phases was expected to occur, and cylindrical samples approximately 30 mm in diameter were tested in flowing seawater at this potential for times up to 30 hours. RESULTS Potentiodynamic scans The general characteristics of the polarisation scans for SAF 2205 in flowing seawater are shown in Figure 4. These results were obtained on the outermost electrode (Ring 3), located in the low turbulence region. In this position the polarisation behaviour was affected little by flow rate and even the addition of sand particles did not affect the curve, apart from creating small current fluctuations in the passive range. These fluctuations were the result of depassivation and repassivation events on the steel surface associated with the particle impacts. An important feature of the polarisation behaviour of the duplex stainless steel was the existence of two discrete pitting potentials. The steel was passive at the open circuit potential and remained so up to 400 mV(SCE). Above this potential pitting occurred in the ferrite phase, while the austenite remained passive, until a potential close to 900 mV(SCE) was reached where pitting occurred in both phases. Metallographic
+
+examination confirmed that in the range 400-900 mV(SCE) pitting was in the ferrite alone
+(8).
+
+Fig 4. Potentiodynamic polarisation scans for SAF 2205 in low turbulence flowing seawater on Ring 3 The largest influence of flow and sand erosion on the polarisation
+
+behaviour was recorded on the central electrode (Ring 1), positioned in the stagnation region directly beneath the orifice. Figure 5 shows the results for a velocity of 8.5 ms-1 both in flowing seawater alone and with the addition of 1, 2 and 3 gm of sand. Each of the polarisation scans had the same general features as in the low turbulence region on Ring 3, shown in Figure 4, and exhibited a passive range and separate pitting potentials for the ferrite and austenite phases.
+
+Without sand additions, the current density in the passive range was essentially the same on Rings 1,2 and 3. However, the addition of sand particles caused a systematic increase in the current densities recorded on ring 1, beneath the orifice. This was most pronounced in the passive range, where an increase of an order of magnitude occurred, but a smaller increase also took place in the ferrite pitting range. The increase
+
+in passive current density with the addition of sand also displaced the in a lowering of the open circuit potential as illustrated in Figure 6.
+
+intersection of the anodic and cathodic polarisation curves and resulted
+
+Fig 5. Potentiostatic polarisation scans for SAF 2205 in the stagnation region
+
+Fig 6. diagram to illustrate the effect of flow rate on the open circuit potential of SAF 2205 in flowing seawater containing sand particles
+
+Interference Colours Effect of Applied Potential Pronounced interference colours were visible on the electrode surfaces after exposure to flowing seawater for six or more hours at the anodic applied potentials. Similar effects have been reported in other studies
+(9-11).
+
+The colours were used to study the effect
+
+of the different hydrodynamic conditions beneath the jet and the erosion caused by the sand particles. Figure 7 shows samples that had been exposed to jet impingement at a velocity of 8.5 ms-1 and held at 400, 700 and 900 mV(SCE) to correspond to the ferrite pitting potential, the ferrite pitting/austenite passive range and the austenite pitting potential, respectively. The colours differed at each potential but all displayed essentially three zones which regions. corresponded to the stagnation, high turbulence and low turbulence
+
+Fig 7. Film thickness measurements for SAF 2205 exposed to seawater at 8.5 ms-1 with potentials of 400, 700 & 900 mV(SCE) The sequence of interference colours identified them as being in the
+
+second and third orders. The film thickness was then analysed from its colour using equation [3] and the refractive indices given in Table 2. The
+
+results are shown graphically in Figure 7. The thickness was similar in high turbulence region. This is thought to be due to the high surface
+
+the stagnation and low turbulence regions but considerably thinner in the shear stress in that position.
+
+A similar trend was found at a jet velocity of 7.9 ms-1, as shown in Figure 8.
+
+Fig 8. Film thickness measurements for SAF 2205 exposed to seawater at 7.9 ms-1 with potentials of 400, 700 & 900 mV(SCE)
+
+Effect of Sand Erosion An oxide film was first developed on the electrode surface in flowing seawater by holding it at a potential of either 400, 700 or 900 mV(SCE) for six hours. The specimen was removed from the flow loop and the film photographed and its thickness analysed, as described above. It was then returned to the loop and tested at the same potential in flowing seawater with the addition of 3 gm of sand. The effect of adding sand was to erode the oxide film, particularly in the stagnation region beneath the orifice. The interference colours remaining after exposure at velocities of 8.5 and 7.9 ms-1 are shown in
+
+Figures 9 and 10, respectively. The original film was thin in the high turbulence region and the sand particles appeared to have little additional effect due the low angle of the impacts on the surface.
+
+Similarly, no film thinning was recorded in the low turbulence region. Short exposure times of 10-60 minutes removed the oxide film in the
+
+stagnation region alone (Figure 10), whereas longer exposure (6 ­ 18 hr) progressively removed the oxide over wider areas of the surface (Figure 9). In the stagnation region the film was a first order grey-blue colour for all exposure times. This film colour corresponded to a thickness of reforming after being removed by the sand erosion. approximately 33 µm, which suggests that the film was immediately
+
+Fig 9. Film thickness measurements for SAF 2205 in seawater containing 3 gm sand at 8.5 ms-1 with potentials of 400, 700 & 900 mV(SCE).
+
+Fig 10. Film thickness measurements for SAF 2205 in seawater containing 3 gm sand at 7.9 ms-1 with potentials of 400, 700 & 900 mV(SCE) for 1 hour. DISCUSSION Samples of water/sand were collected from the loop in order to measure that had settled out. From these measurements the rates of particle the quantity of sand that was suspended in the flow and to allow for any
+
+impacts were calculated. For the addition of 3 gm of sand, the rates were 2400 and 1400 impacts/second on Ring 1 at velocities of 8.5 and 7.9 msparticle impacts over the electrode surface were 0.42 and 0.71 ms.
+1,
+
+respectively. It follows that the corresponding average times between
+
+Modelling Kinetic Energy of Particle Impacts It was assumed that the increase in passive current density measured during erosion-corrosion of the duplex stainless steel in seawater containing sand particles was due solely to disruption and repair of the oxide film. Furthermore, it was kinetic energy of the impacting sand particles. The total kinetic energy of particles impacting the surface in one second, KE, is given by; expected that the current density would be directly related to the total
+
+KE = ( N mav V2 ) / 2 where N is the number of impacts per second mav is the average mass of a sand particle V is the flow velocity
+
+[5]
+
+Figure 11 shows the passive current density in the stagnation region (Ring 1) plotted against the total kinetic energy per second of the impacting particles for two different flow velocities. The straight line graphs confirm the assumed relationship between the passive current and the impact energy.
+9
+
+Passive Current Density (microamps/cm2)
+
+8 7 6 5 4 3 2 1 0 0 0.0002
+
+8.5 ms-1 7.8 ms-1
+
+0.0004
+
+0.0006
+
+0.0008
+
+0.001
+
+0.0012
+
+0.0014
+
+0.0016
+
+Kinetic Energy of Impacting Particles (Jsec-1)
+
+Fig 11 Graphs of passive current densities for SAF2205 in seawater at 0 mV(SCE) plotted against total kinetic energy per second of impacting sand particles.
+
+Similar results were obtained in an earlier study on Type 304 austenitic stainless steel
+(12),
+
+as shown in Figure 12.
+
+Total Kinetic Energy of Impacting Particles (J sec-1) Passive Current Density (microamps cm-2)
+0 200 180 160 140 120 100 80 60 40 20 0 0 5000 10000 15000 20000 25000 30000 35000 40000 Number of Impacts Kinetic Energy 0.04 0.08
+
+Number of Particle Impacts (sec-1)
+
+Fig 12 Effect of the number and total kinetic energy of particle impacts on passive current density for Type 304 stainless steel in flowing seawater
+(12)
+
+In order to relate the passive current densities to the film thickness particle impacts at each point on the surface. The number of impacts per second, n, on a single point n = N aimp/As where aimp is the mean impact area As is the area of the stagnation region (Ring 1) [6]
+(8,12)
+
+measurements it was necessary to consider the time interval between
+
+is given by;
+
+density at 0 mV(SCE) was 7.5 µAcm-2 (Figure 5). The mean impact crater
+
+For 3 gm sand and an orifice velocity of 8.5 ms-1, the passive current
+
+was measured by scanning electron microscopy to be 11.8 µm in
+
+diameter, giving an impact area of 1.1x10-6 cm2. It follows that for N = 2400, as given above, the mean number of impacts on each point of the these impacts would have been in the order of 75 seconds. This time is thought to be more than sufficient for the film to reform at the point of impact and for some thickening to occur
+(13,14).
+
+surface, n, was 0.013 per second. Therefore, the mean interval between
+
+The fact that a discernable colour was present directly beneath the orifice (Figures 9 & 10) indicates that the film was reforming rapidly between particle impacts and that film removal and repair were occurring simultaneously, as competing processes. In flowing seawater, without sand additions, the passive current density was close to 0.8 µAcm-2 (Figure 5) and the additional current measured when sand was added represented that required to repair the film. However, the typical bluegrey colour of the film (33 µm thickness) shows that there was insufficient time between particle impacts for the film to grow to the same steady state thickness that developed in flowing seawater alone. As a point of interest, the charge passed for each particle impact may be estimated from the data given in the example above. A current density of 7.5 µAcm-2 measured in the stagnation region, represents an increase in total current of 1.3 µA over the area of Ring 1. Clearly, in one second a total charge of 1.3 µC would pass in reforming the passive film, as a may be estimated as 5.4 x 10-10 C. The charge passed when a passive film on iron or stainless steel is mechanically damaged has been investigated by other researchers In each case, they recorded a large initial current, which gradually decayed. In the present study, the number of impacts per second, n, on each point of the surface was relatively small, such that the passivation current decayed substantially before a further impact occurred at the same position. Two extreme cases are represented schematically in Figure 13. In case (A), where n is small, the passivation current decays result of 2400 impacts. Therefore, the mean charge passed per impact
+
+(13,14).
+
+completely before the film is again disrupted by another impact. In
+
+contrast, case (B) for large values of n shows overlapping decay transients resulting from multiple impacts. In principle, with a sufficiently high rate of impacts a limiting situation could be reached in which the surface would remain active, such that additional impacts would not cause any further increase in the current density. Clearly, the results in the present investigation are closer to case (A).
+
+Fig 13. Schematic diagrams representing passivation and depassivation events resulting from particle impacts CONCLUSIONS [1] The erosion-corrosion of SAF2205 duplex stainless by sand particles suspended in flowing seawater was shown to be controlled by both the hydrodynamic conditions and the particle kinetic energies.
+(12)
+
+[2] The highest erosion-corrosion rate occurred in the stagnant region, immediately beneath the jet, where sand particles impacted the surface at an angle of 90°. At greater radial distances the flow became highly angle of particle impacts. turbulent but the erosion-corrosion rate was reduced due to the lower
+
+[3] Impact damage to the oxide film resulted in an increase in the anodic current density due to repassivation of the surface. A linear relationship existed between current density and the mean kinetic energy of the sand particles.
+
+[4] The oxide film that formed in flowing seawater at applied anodic
+
+potentials thickened to produce optical interference colours. The colours were a useful measure of the effects of the hydrodynamic conditions and the damage caused by sand erosion. [5] At low rates of particle impacts the surface repassivated between successive impacts and produced a visible interference colour but there was insufficient time for significant film thickening to occur. REFERENCES [1] S. Zhuo, M. Stack & R.C. Newman, Characterisation of synergistic effects between erosion and corrosion in aqueous environments using electrochemical techniques. Corrosion, Vol 52, No12, pp 934­946 (1996). [2] M.Reyes & A.Neville, Degradation mechanisms of Co-based alloy and WC metal-matrix composites for drilling tools offshore, Wear, 255, pp 1143-1156 (2003). [3] K.D.Efird, E.J.Wright, J.A.Bros & T.G.Hailey, Correlation of steel corrosion in pipe flow with jet impingement and rotating cylinder tests, Corrosion, Vol 49, No 12, pp 992-1003 (1993).
+
+[4] U.R.Evans, Corrosion and Oxidation of Metals, Arnold, London, p 787 (1960). [5] F.H.Constable, The Cause of the colours shown during the oxidation of metallic copper, Proc. Royal Society of London, Series A, Vol 115, pp 570-588 (1927). [6] P.C.Robinson & M.W.Davidson, Michel-Levy Interference Color Chart,
+
+www.microscopyu.com
+
+[7] J.D.T.Kruschwitz, W.T.Paulewicz, Optical and Durability Properties of (1997).
+
+Infrared Transmitting Thin Films, Applied Optics, Vol 36, pp 2157-2159
+
+[8] E.A.M.Hussain, An electrochemical investigation of erosion corrosion of duplex stainless steel in seawater containing sand particles, PhD thesis, Cranfield University, 2001.
+
+[9] A.Neville & T.Hodgkeiss, An assessment of the corrosion behaviour of high grade alloys in seawater at elevated temperature and under a high velocity impinging flow, Corrosion Science, Vol 38, No 6, pp 927-956 (1996). [10] T.E.Evans, A.C.Hart & A.N.Sledgell, Nature of the coloured film on stainless steel, Trans. Inst. Metal Finishing, Vol 51, No 3, pp 108-112 (1973).
+
+[11] T.E.Evans, Film formation on stainless steel in a solution containing CrO3 and H2SO4, Corrosion Science, Vol 17, No 2, pp 105-124 (1977). [12] S.Hirooka, The electrochemical behaviour of austenitic stainless
+
+steels during erosion-corrosion in flowing 3.5% NaCl solution containing sand particles, MPhil thesis, Cranfield University, October 1996. [13] G.T.Burstein & P.I.Marshall, The coupled kinetics of film growth and dissolution of stainless steel repassivating in acid solutions, Corrosion Science, Vol 24, No 5, pp 449-462 (1984).
+
+[14] G.T.Burstein & G.W.Ashley, Early steps in the anodic oxidation of iron in aqueous solution, Corrosion, Vol 39, No 6, pp 241-246 (1983).
+

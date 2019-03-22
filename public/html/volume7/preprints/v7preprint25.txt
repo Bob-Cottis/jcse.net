@@ -1,0 +1,365 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Inhibiting effect of 3-Hydroxy-2-methyl-4-pyrone (HMP) on corrosion of mild steel in acidic medium
+Monika* , Wequar Ahmad Siddique and Arwind Dubey
+
+Department of Applied Sciences & Humanities Faculty of Engineering & Technology Jamia Millia Islamia, New Delhi ­110025 INDIA
+
+ e-mail: jmi_bansal24@yahoo.com ; weqar_ah@yahoo.com;  Mobile No: 09868495161, 09812250772
+
+1
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Abstract
+The inhibition effect of 3-Hydroxy-2-methyl-4-pyrone (HMP) on mild steel in 1N H 2SO4 has been studied by using weight loss, electrochemical polarization, Infrared (IR) and scanning electron microscopic (SEM) techniques. It has been concluded that percentage inhibition increases with increase in concentration of inhibition. The adsorption of 3-Hydroxy-2-methyl-4-pyrone (HMP) on mild steel surface in 1N H2SO4 obeys Langumir adsorption isotherm, surface analysis and IR studies are also carried out to establish the mechanism of corrosion inhibition.
+
+Keywords: Corrosion, mild steel, H 2SO4, 3-Hydroxy-2-methyl-4-pyrone (HMP).
+
+2
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Introduction
+Corrosion is destructive attack of metal by its environment. Inhibitors are generally used to protect materials against deterioration from corrosion. Many organic compounds containing oxygen, nitrogen and sulphur have been used as corrosion inhibitor for metal [1-10]. Amines are effective inhibitors for steel corrosion in acidic solution. The present paper deals with the study of inhibiting action of HMP on mild steel in acidic solution. The electrochemical behavior of mild steel in H2SO4 media in absence and presence of inhibitor have been studied by galvanostatic polarization, IR and SEM method.
+
+Experimental
+The mild steel coupons of composition(C=0.10-0.20%, Mn=0.40-0.50%, Si=0.05%, S=0.025-0.030%, P=0.30-0.80% and rest is Fe) and of size (i.e. 0.8×0.8×3.0 cms) have been used for weight loss measurements. These coupons are given mechanical polishing and then degreased before use. The inhibition efficiency for different concentrations of inhibitor is calculated from weight loss values. For polarization studies a cylindrical mild steel rod of it composition embedded in araldite is used. The electrodes are polished with emery papers and degreased. AR grade of H 2SO4 acids is used for preparing solutions. Double distilled water is used to prepare all solutions. For accurate measurements of potential and current densities, galvanostatic polarization studies are carried out at different temperatures. A platinum foil and saturated calomel electrode are used as counter and reference electrode respectively. Polarization is carried out in H 2SO4 in the absence and presence of inhibitor of various concentrations and temperatures. The Fourier Transform Infrared (FTIR) Spectroscopic analysis spectra of pure inhibitor as well as spectra of inhibitors adsorbed on silica gel are recorded by using Perkin Elmer Infrared Spectroscope IR 137. The pure saturated solutions
+
+of additive is prepared in solvent i.e. benzene in which the compound is soluble. Now silica gel, which is dried in oven to remove the moisture, is added in the additive. The dried solid pallet of the additive mixed in silica gel are used to record the FTIR spectra.
+
+3
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+To know the surface morphology of mild steel scanning electron microscopy technique using LEO 435 V.P. Scanning Electron Microscope is used. The polished specimens, which is used in this experiment are examined to find out any surface defects by optical microscope. Those specimens are taken which have smooth surface. After this the specimen are washed with double distilled water and dried in desiccators. These specimens are dipped in the solutions of 10 M and 10 M concentration for the inhibitor in 1N sulphuric acid for 24 hours at room temperature. These specimens are then washed with distilled water and dried in a desiccator. The SEM photographs are recorded of these corroded specimens as well as with out corrode mild steel specimen. Result and Discussion Weight loss study The corrosion inhibition efficiency of HMP for corrosion of mild steel is calculated as follows
+-7 -1
+
+w w %Efficiency  0  100 w0
+where w0 and w are the values of corrosion weight loss of steel without and with inhibitor respectively. The corrosion inhibition efficiency of 3-Hydroxy-2-methylpyrone inhibitor for mild steel in 1N H2SO4 at different temperature ranges i.e. 298K, 308K, 318K and 328K for different concentrations 10-1,10 -3,10 -5 and10-7 M concentration are given in Table I. There is a distinct variation in values of corrosion inhibition efficiencies at different temperatures. The efficiency is maximum for 10 M concentration at 298K i.e. 92.23%. At 308 K temperature, the percentage efficiency is 77.16 for 10 M concentration. But it further increases 87.14% for the same concentration at 318 K temperature. While it decreases with 79.90% at 328 K temperature. The variation of corrosion inhibition has been found for 10 -3M concentration at 298 K-328 K temperature range. The results confirm that 3-hydroxy-2-methyl-pyrone acts as efficient inhibitor in the range of temperature 298 K-328 K at 10 M concentration. Hence inhibition efficiency is temperature dependent.
+-1 -1 -1
+
+4
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Polarization Measurement The cathodic and anodic polarization curves for the solution at various temperatures with and without the addition of additives of various concentrations of HMP in 1M sulphuric acid are shown in Figures I to IV. It is clearly seen that the presence of inhibitor affected both the anodic and cathodic branches of curve. Logarithms of the current densities are plotted against the corresponding potentials. The open circuit corrosion potential verses saturated calomel electrode was measured before each cathodic and anodic polarization studies. The various electrochemical parameter i.e. corrosion potential, corrosion current, cathodic and anodic Tafel's slope and percentage inhibition efficiency of various
+
+concentrations of inhibitor are shown in Table II after being calculated from the expression I (corr) uninh - I(corr) inh × 100 % Inhibition = I (corr) uninh There is irregular variation in the values of anodic and cathodic Tafel's slope for HMP at different temperature. This indicates that it is not only the adsorption process alone, which is responsible or inhibition efficiency but some other processes are also involved. The effect of concentration of HMP on corrosion current at different temperature is shown in the Table II. The value of corrosion potential is slightly towards anodic direction except 328 K at 10-3 and 10-7 M concentrations. This proves that this is also mixed inhibitor.The chemical association of HMP with metal surface takes place through the oxygen lone pair, which turns to chemical reaction forming intermediate species. At 298K, the current density reduces from 3.45µ/cm
+2 2
+
+to 2.35µ/cm
+
+for uninhibited acid and
+
+10-1M inhibited solution where as this change is from 3.29µ/cm2 to 2.61µ/cm2 for the above concentration range at 328K temperature. Under the experimental condition chosen, it has been observed that there is slightly fall in inhibition efficiency. The corrosion inhibition efficiency reaches about 92% with solution
+
+5
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+containing at 10 -1 M inhibitor at 298K, whereas the efficiency was about 49.8% at concentration 10-7 M. While the percentage efficiency reached 77.6% at 10-1 M concentration at 308 K and at low concentration 10 -7 M, the efficiency was about 47.51%. This behavior of HMP is due to joint effects of reaction of inhibitor with electrode surface which leading to chemical association. Hence with increase in temperature the corrosion efficiency decreases but this variation is not very significant. The inhibition efficiency depends upon many factors including number of adsorption active centers in molecules and there charge density which are affected by electron donating properties of -CH3 group and -OH group. The adsorption of HMP is governed by two mechanisms viz. (i) Ion-pair adsorption between protonated molecule and negative charged metal surface and (ii) d - pinteraction between delocalized  electron of additive and vacant d-orbitals of metal atom.
+
+Adsorption Kinetics Figure V represents a correlation between log /1-and log C of absorbate. The experimental results are in good agreement with following equation
+
+  / RT Q  Ce 1 
+showing that adsorption follows the Langmuir adsorption, where A is Arrhenius constant, C is inhibitor concentration and Q is heat of adsorption. There is straight line by plotting log /1-and log C. The slopes of straight-line portion are equal to ­Q/2.303R, from which average heat of adsorption can be calculated and its average value is 5.96 Kcal/mol. FTIR Study of Inhibitor To find out the types of bonding for organic molecule adsorbed on the surface of solid, FTIR study has been conducted. Silica gel has been chosen because of large surface area of adsorption of organic molecule and yields a spectrum of moderate intensity. The various peaks in spectra of pure and silica gel adsorbed additives are shown in Fig. VI and VII and there vibrational modes are reported in Table III. In case of HMP inhibitor it is seen that C-H, C-O and C=O bonds of 3061cm
+-
+
+6
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+1
+
+, 1224 cm-1 and 1905 cm-1frequencies disappears completely while that C-OH
+
+and C=Carring is shifted to some higher frequency proving that adsorption taking place through C-H, C-O and C=O bonds.
+
+Scanning Electron Microscopic Study To study the surface morphology of mild steel coupons SEM technique has been used. Figure VIII, IX, X, and XI show the surface morphology of plain mild steel, in 1N H2SO4 and corroded surfaces after dipped in HMP inhibitor at 10-7M and 10-1M. The micrograph obtained from different concentrations show that the surfaces are inhibited due to formation of insoluble stable film of mild steel surface. It proves that additive act as good inhibitor at higher concentration 10 -1M.
+
+7
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+References 1. S.M. Abdel Wahaab and G.K. Gomma, J. Chem. Tech. Biotechnol., 36 (1986) 185. 2. G.K. Gomma, Bull. Electrohem., 4 (1988) 941. 3. G.K. Gomma, R.M. Issa, H.Y. El-Baradie and E. Shokry, Bull. Electrochem., 8 (1992). 4. G.K. Gomma and Y. L. Aly, Bull. Electrochem., 9 (1993) 53. 5. G.K. Gomma, J. Indian Chem. Soc. 70 (1993) 130. 6. G.K. Gomma and M.H. Wahdaan, Material Chem. Phys., 39 (1994) 142. 7. M.H. Wahdaan and G.K. Gomma, Material Chem. Phys., 47 (1997) 176. 8. G.K. Gomma, Material Chem. Phys., 56 (1998) 27. 9. G.K. Gomma, Material Chem. Phys., 55 (1998) 235. 10. G.K. Gomma, Material Chem. Phys., 55 (1998) 131.
+
+8
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Caption of Figures Fig.I. Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of HMP at 298K. Fig.II. Galvanostatic Polarization Curves of Mild Steel in 1N H 2SO4 solution in presence of different concentrations of HMP at 308K. Fig.III.Galvanostatic Polarization Curves of Mild Steel in 1N H 2SO4 solution in presence of different concentrations of HMP at 318K. Fig.IV.Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of HMP at 328K. Fig.V. Variation of surface coverage vs. concentration at different temperatures of HMP. Fig. VI. FTIR Spectra of Pure HMP Fig.VII. Fig.VIII Scanning Electron Micrograph of plain Mild Steel at 2000 magnification Fig.IX. Scanning Electron Micrograph of Mild Steel in 1N H2SO4 at 2000 magnification Fig.X. Scanning Electron Micrograph of Mild Steel in presence of 10 -7 M HMP in 1N H 2SO4 at 2000 magnification. Fig. XI. Scanning Electron Micrograph of Mild Steel in presence of 10-1 M HMP in 1N H2SO4 at 2000 magnification.
+
+9
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Table I Inhibition Efficiency of 3-Hydroxy-2-methyl-4-pyrone (HMP) Temperature 298K Solution/mol (L ) 1N H 2SO4 10-7 10-5 10-3 10-1 1N H 2SO4 -7 10 10-5 10-3 10-1 1N H 2SO4 10-7 -5 10 10-3 10-1 1N H 2SO4 10-7 10-5 -3 10 -1 10
+-1
+
+Weight loss/gram 0.0786 0.0392 0.0276 0.0119 0.0061 0.1568 0.0843 0.0580 0.0462 0.0358 0.5467 0.3920 0.1767 0.1375 0.0703 1.1891 0.8620 0.4990 0.3821 0.2390
+
+%I 50.12 64.88 84.86 92.23 46.23 63. 01 70.53 77.16 28.29 67.67 74.84 87.14 27.50 58.03 67.86 79.90
+
+308K
+
+318K
+
+328K
+
+10
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Table II Corrosion Parameters of Mild Steel in 1N H2SO4 in presence of 3-Hydroxy-2methyl-4-pyrone (HMP) as additive:
+
+Temp.
+
+Solution/mol -1 (L ) 0 10 -7 10 -5 10 -3 10 -1
+
+Ecorr mV 512 447 487 505 471 522
+
+Log icorr 2  A/cm 3.45 3.15 2.99 2.65 2.35 3.38 3.10 2.95 2.85 2.73 3.35 3.21 2.83 2.75 2.45 3.29 3.15 2.91 2.79 2.61
+
+bc mV/dec 99 66 43 121 169 111 74 64 108 81 75 44 34 28 62 41 51 41 35 46
+
+ba mV/dec 141 98 64 106 176 151 71 62 95 79 73 49 36 47 57 93 60 44 30 41
+
+%I
+
+298K
+
+49.88 65.32 84.15 92.05 47.51 62.84 70.48 77.61 27.55 69.80 74.88 86.90 27.55 58.31 68.37 79.10
+
+308K
+
+0 10 10
+-7 -5
+
+492 497 497 472 500
+
+10 -3 10 -1 318K 0 10 10 10 10 328K 0 10 -7 10 -5 10 -3 10
+-1 -7 -5 -3 -1
+
+482 489 485 477 480 504 477 486 472
+
+11
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Table III Fourier Transform infrared bands pure and adsorbed 3-Hydroxy-2-methyl4-pyrone (HMP) inhibitor HMP 3061.7 1224.0 1950.0 3258.7 1561.7 HMP
+ads
+
+Peak C-H C-O C=O C-OH C=C
+
+3263.6 1562.2
+
+12
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+-0.3 -0.4 -0.5
+E(mV) vs SCE
+
+H2SO4 10-1M 10-3M 10-5M 10-7M
+
+-0.6 -0.7 -0.8 -0.9 -1 0 1 2 3
+2
+
+4
+
+Log Current Density  A/cm
+
+Fig.I. Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of HMP at 298K.
+
+-0.3 -0.4 -0.5
+E(mV) vs SCE
+
+H2SO4 10-1M 10-3M 10-5M 10-7M
+
+-0.6 -0.7 -0.8 -0.9 -1 0 1
+Log Current Density( A/cm2)
+
+2
+
+3
+
+4
+
+Fig. II. Galvanostatic Polarization Curves of Mild Steel in 1N H 2SO4 13
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+solution in presence of different concentrations of HMP at 308K.
+-0.3 -0.4 -0.5
+E(mV) vs SCE
+
+H2SO4 10-1M 10-3M 10-5M 10-7M
+
+-0.6 -0.7 -0.8 -0.9 -1 0 1
+
+Log Current Density( A/cm )
+
+2
+
+3
+
+2
+
+4
+
+Fig.III. Galvanostatic Polarization Curves of Mild Steel in 1N H 2SO4 solution in presence of different concentrations of HMP at 318K.
+
+H2SO4 -0.3 -0.4 -0.5 -0.6 -0.7 -0.8 -0.9 -1 0 1 10-1M 10-3M 10-5M 10-7M
+
+E(mV) vs SCE
+
+Log Current Density( A/cm )
+
+2
+
+3
+
+2
+
+4
+
+Fig. IV. Galvanostatic Polarization Curves of Mild Steel in 1N H2SO4 solution in presence of different concentrations of HMP at 328K.
+
+14
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+1.6
+
+1.1
+log /1-
+
+298K 308K 318K 328K
+
+0.6
+
+0.1
+
+-0.4
+
+-0.9 -8 -7 -6 -5 -4
+log C
+
+-3
+
+-2
+
+-1
+
+0
+
+Fig. V. Variation of surface coverage vs. concentration at different temperatures of HMP.
+
+Fig. VI. FTIR Spectrum of Pure HMP.
+
+15
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Fig. VII. FTIR Spectrum of HMP adsorbed on Silica gel
+
+Fig. VIII. Scanning Electron Micrograph of plain Mild Steel at 2000 magnification
+
+Fig. IX. Scanning Electron Micrograph of Mild Steel in 1N H2SO4 at 2000 magnification
+
+16
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 25
+
+31 January 2005
+
+Fig.X. Scanning Electron Micrograph of Mild Steel in presence of 10-7 M HMP in 1N H 2SO4 at 2000 magnification.
+
+Fig. XI. Scanning Electron Micrograph of Mild Steel in presence of 10-1 M HMP in 1N H 2SO4 at 2000 magnification.
+
+17
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

@@ -1,0 +1,192 @@
+Volume 6 Paper C080 Corrosion Monitoring: from laboratory advances to industrial control. Roland OLTRA CNRS / Universite de Bourgogne Laboratoire de Recherches sur la Réactivité des Solides, UMR CNRS 5613 B.P. 47 870 21078 DIJON cedex FRANCE Introduction 1. Monitoring strategies: actual and observed evolutions 2. Type and function of corrosion detectors 3. Some example of existing solutions 3.1. EIS inspection of coating 3.2. ECN 4. Integration of sensors 4.1. sensors based on galvanic current measurement 4.1.1. atmospheric corrosion: galvanic current to detect humidity threshold 4.1.2. crevice corrosion : galvanic current to detect an aggressive environment 4.2. sensors based on resistance measurement: integration in microelectronic packaging 4.3. chemical sensors: an example of local integration of pH sensing 5. Discussion: trends in sensor technology 6. Conclusion Introduction High-value structures (buildings, bridges, industrial plant, aircraft, ships, pipelines...) degrade in service and require regular scheduled maintenance and inspection which is invariably a significant part of the operating costs. Corrosion detection and monitoring are potential diagnostic and prognostic means of preserving materials and structures and reducing life-cycle costs of aircraft, industrial infrastructures, ships, ground vehicles, pipelines and essentially any high value long working life metallic structure. The traditional method of corrosion monitoring requires the use of corrosion coupons. While this method is effective at characterizing an environment's corrosive potential, the time required for field exposure and analysis may generate results long after systems have been damaged by corrosive environment. A non-exhaustive review of "corrosion monitoring" shows rapidly that "monitoring" is mainly based on very simplified functions like : imaging, listening the corrosion. But monitoring and in some cases, field inspection, is based on the "traffic light" concept.
+
+Energy production (nuclear production, oil and gas industry, chemical plant) are the mainly concerned industrial domains and at the beginning of this century the demand is increasing in domains like microelectronics, transportation, storage of nuclear waste ... On the other hand, electrochemical or chemical analytical techniques development is based on increasing time and space resolution. The objective of this paper is to see if the evolution of corrosion monitoring would be based : · on the transfer of advances of electrochemical and non-electrochemical methods from laboratory to service or · on additional knowledge upon the relation of the monitored parameters with the time-evolution of the corrosion processes themselves which could be directly integrated in the pre-processing of the measured signal taking into account the recent advances in sensor technology. In this paper, some examples will be given in order to illustrate how the huge evolution of sensor technology could be taken into account in evolution of corrosion monitoring. It will be illustrated how sensors are developed to monitor physical changes and degradation processes. Some examples will be discussed to show how monitoring evolution can result on emerging sensors which can be used to monitor the conditions inside and outside a structure which lead to corrosion. 1. Monitoring strategies: basic and future possible evolutions The ability to confidently monitor corrosion, particularly in normally inaccessible areas would allow more cost-effective inspection schedules and would probably be part of a larger strategy on corrosion management. The basic concept of monitoring is the "traffic light" concept based status display of red, amber and green to indicate the state of the in-service equipment [1]. A red output would require immediate attention, amber would require attention at the next scheduled service, green would indicate benign conditions, as illustrated in the following schematic diagram (Fig.1).
+
+Environmental Factors
+Analysis and Decision Making
+
+Chemical sensors
+
+Signal Conditioning, Instrumentation and Data-logging
+
+Corrosion `witness' devices
+
+Electrochemical sensors
+
+Corrosion detectors
+
+Non destructive sensors
+
+UMIST/MONITORING 2 Figure 1- Schematic diagram showing a possible corrosion monitoring strategy
+
+The sensors might fall into three categories : detection of factors influencing corrosion (of which a few are moisture, temperature, ion concentration and species, pH and electrochemical potentials) sensors that are analogues of the system being monitored (which undergo corrosion processes themselves) sensors for directly measuring corrosion of the structure upon which they are mounted (or incorporated into). The future evolution, which is not completely dependent upon the corrosion knowledge, will be for such a sensor system to be successful and there are several criteria it must meet: they must be cost effective, easy to install, reliable and user friendly (in terms of extracting the data) as well as being able to withstand the harsh environment for which they are intended. For example, one future evolution of in-situ corrosion monitoring would be to produce an array of inexpensive, possibly multifunctional, corrosion detection devices incorporated into single packages, deployed separately or in small centrally coupled arrays. Micro-engineering techniques could be used to fabricate a thin film sensor array on a variety of substrates, typically silicon or thin film polymers, incorporating say 6 or 12 different types of sensor on every substrate. The sensor would be expected to be no bigger than a few mm square. For the most ambitious system onboard real-time data fusion and analysis would play a large part in the overall system. 2. Detectors : the basic function The basic functionality on which a detector is based can be classified on various ways as function of the class of detector. In case of environmental factors, devices can be classified by the factor being detected · temperature · pH · Optical pH detector pH sensor · Humidity / Wetness : measured by Linear Polarization Resistance Monitor, Linear resistance monitor or Resistance monitor · Ionic compounds: followed by Ion species detectors, like ion selective thin film ­ capacitance change or ISFET (Ion-sensitive Field Effect Transistor [2]). In case of corrosion witness devices, devices can be numbered for example by the mechanism used in the device · electrochemical potential UMIST/MONITORING 3
+
+· mass loss : this basic corrosion parameter can be recorded in real time even at low level using for example Quartz microbalance or Vibrating Silicon Bridge · corrosion currents : and especially galvanic current (see section 4.2.) · Resistance change: with a linear resistance monitor with additional alloy variants · EIS and derivatives: using thin film EIS sensor solid state electrode or conventional set-up (see section 3.1.) · Electrochemical Noise: an example will presented in section 3.2. · Capacitance : using for example ion selective thin film to measure capacitance change In case of corrosion detectors, some electrochemical principles already mentioned for corrosion witness devices can be found. On the other hand non destructive techniques, like acoustic emission, are largely spread. 3. Application at large scale: some example of existing solutions To be effective, a corrosion monitoring program, must be able to distinguish between different types of corrosion phenomena, for example, corrosion monitoring techniques need to be able to differentiate between general and localized (pitting) corrosion. Pitting results from loss of integrity on the surface of the metal and the development of local anodes and cathodes on the metal surface that drive the corrosion process. A problem with conventional techniques is that they only measure the current associated with the overall (general) corrosion process. Previously, it has required direct examination of corrosion coupons to derive information on pitting corrosion tendencies. In the last 20 years, techniques are available that look at the local fluctuations in the corrosion signals (electrochemical noise - ECN) in addition to the general corrosion current. These method provide a quick responding signature of the localized tendencies well before they are manifested in general thinning or highly destructive pits. This is a good example of transfer from laboratory to service: on the basis of fundamental knowledge [3], a specific way of measurement was directly patented [4] which generated a lot of service applications and again a lot of basic research. 3.1. EIS inspection of coating Using a portable cell it is possible to perform some inspections. As shown by DACCO Sci. [5] it was possible to use the sensor under typical coating conditions on an aircraft (Fig.2). The measurements verify that EIS measurements can be readily obtained from different areas of an airplane using the hand-held sensor in a depot. No special preparation or facilities were needed. Furthermore, the sensor could readily distinguish between good primer and deteriorated primer, which exhibited a decrease in the low-frequency dependence of at least two orders of magnitude. Measurements on other aircraft components showed a similar correlation between the EIS signal and extent of corrosion or other degradation.
+
+UMIST/MONITORING
+
+4
+
+3.2. Electrochemical Noise (ECN)
+Figure 2a- EIS spectra taken from three areas of Figure 2b- Engineer performing measurements an ECN monitoring has been largely proposed in hand-held sensor aircraft with many field applications. For
+
+example, it has been reported that ECN monitoring can detect effect of the upgrade in corrosion inhibitor injection pumps on a platform as shown in Fig.3 [6]. In this figure we can see directly the processed fluctuations signal which originally consists of the recording of the current and potential fluctuations measured by a conventional « 3 electrodes » probe. The signal processing allowing calculating the corrosion rate from the signal fluctuations will not be discussed in this paper (see for example [7]): the noise resistance Rn is defined as the ratio of the standard deviations of the voltage and current fluctuations. In many situations the values of Rn are found to be close to the polarization resistance Rp of the electrodes so that the corrosion rate can be deduced by means of the Stern-Geary relationship. Nevertheless, some papers reported that the noise resistance Rn is simply a number, which may or may not be equal to the polarization resistance of the electrodes under investigation As presented in Fig.3 the processed corrosion rate shows that : · Prior to the upgrade, inhibitor was being injected at up to 40ppm - the average corrosivity value was about 0.35mm/yr. · Early on 3 June 1997, work started on the pumps. A large dosage of corrosion inhibitor was being injected, at >70ppm. As observed by the electrochemical noise corrosion monitoring, the fluid corrosivity in the "main oil line" dropped immediately to an average 0.15mm/yr. · After a few hours, the dosage rate was decreased to approximately 4546ppm. The corrosivity increased to 0.25mm/yr average (but still below the initial value). The effectiveness of the pump upgrade can be seen quite clearly, and the corrosion probe was later employed to also demonstrate the effectiveness of new inhibitor treatments as they were introduced into operation.
+
+UMIST/MONITORING
+
+5
+
+4. Integration of sensors In the electrochemical sensors, resistance probes, thin film galvanic devices, and in the field of chemical sensors, specific ion and pH electrodes, H-probe have emerged as new in-situ devices for measuring or monitoring corrosion condition. They can give an appreciation of the process of corrosion, locating the sensors in the right place and the criticality of corrosion in the location context. It means that the integration of sensors in the working component appears as an attractive evolution. In the following examples, some examples of integration will be proposed in various practical domains. 4.1. sensor based on galvanic current measurement Galvanic sensors have been proposed to follow environmental conditions which could lead to various cases of corrosion damages 4.1.1. atmospheric corrosion [8]: galvanic current to detect humidity threshold The sensor layout for passively monitoring galvanic corrosion between Al and Cu is shown in Fig.4 . To enhance the signal to noise ratio, the Al nodes can be tied together into a single working electrode and the Cu nodes can be tied together into a second working electrode. Alternatively, electrodes can be individually addressed to gain spatially resolved information. Figure shows the resulting steady-state galvanic current measured as a function of RH. Between 50% and 60% RH galvanic corrosion either ceases or falls below the detection limit of the instrumentation.
+
+UMIST/MONITORING
+Figure 4a. Alternating Al-Cu foil arrangement used for passively
+
+6
+Figure 4b. Galvanic current measured between Al (anode) and Cu (cathode)
+
+This sensor would be also employed for example in nuclear waste storage to detect any kind of change in humidity. For example, a set of similar galvanic couple sensors has been developed in line with the concept put forth by Shinohara et al. [4]. These sensors consist of an interdigitated array of silver that is electrically isolated from the substrate. The substrates investigated thus far are carbon steel and Type 304L SS. Through the use of two substrates a relative corrosivity scale can be developed with the carbon steel/Ag system being more sensitive to a low overall corrosivity whereas, given the increased resistance of Type 304L SS to corrosion, the Type 304L SS/Ag system would respond only in more aggressive environments. The possibility that the Type 304L SS/Ag system may be used to detect the onset of localized corrosion is also being investigated. The drift is being heated to an air temperature of about 105 °C to simulate the thermal load that would result from radioactive decay within the waste containers. 4.1.2. Crevice corrosion : galvanic current to detect an aggressive environment Hidden corrosion generated in overlapped structures, a phenomenon having usually a crevice nature, seems for example effectively monitored by means of thin film galvanic sensors, capable to detect in-situ the presence of an aggressive microenvironment. This is a case of the hidden corrosion phenomena very frequently observed on aircraft structures, which develop in overlapped structures or under an aluminum cover sheet. Moisture trapped inside the natural crevices produces corrosion in agreement with an aeration deficiency mechanism that makes anodic the crevice with regards to the external area because of the difficulty in supplying oxygen . The amount (concentration) of the aggressive species is then proportional to the galvanic current flowing on these sensors and stored on a data logger easy to download usually every 4-6 months. Depending on the expected micro-environment, the galvanic couple can be suitably modified to optimize its duration. Thin film galvanic sensors (Fig.5a), developed in the recent past at the U.S. Naval Air Warfare Centre, have been tested [9] using the concept of electrochemical dissimilarity in metals. The metallic elements of sensor were micro-dimensional-strips of about 0.15mm in width and 0.05mm in thickness with several alternating circles of noble and active metals (e.g., gold and iron, gold and zinc, gold and cadmium or gold and tin) insulated from each other by the base polymer in 0.15mm or less gaps. The gap between the electrodes of the sensor were made very close to each other so that a condensed thin film of moisture formed even at 60% relative humidity could easily bridge it.
+
+UMIST/MONITORING
+
+7
+
+Depending on the expected micro-environment, the galvanic couple can be suitably modified to provide a long term life and these devices are capable to detect in-situ the presence of an aggressive micro-environment. These devices have shown correlation for environmental corrosivity, paint and barrier degradation and hidden corrosion detection but they are only single-function devices reporting on single aspects of the progress of corrosion which is measured indirectly, principally by detecting moisture.
+
+Galvanic Current / m icroam p
+
+Figure 5aEnvironmental sensor.
+
+Figure 5b ­ Sensor embedded in a lap structure
+
+10
+
+Adhesive failure
+1
+
+0.1
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+Time / Hours
+
+Figure 6- Corrosion sensor output ­ structure described in Fig. 5b exposed to salt spray (NaCl5%)
+
+As shown in Fig.6, they are kept isolated until moisture from the environment bridges the two electrodes: when it occurs the sensors will develop a galvanic current directly proportional to the corrosivity of the trapped moisture which have penetrated through the sealant and reached the sensor element. It was reported [9] that after the exposure the fixture was disassembled and examined. It was observed at the interface area surrounding the fasteners a breakdown of the sealant was evident. These sensors are normally supplied with a single data logger for off line information analysis and are still large, of the order of centimeters in dimension. The current flown will be then stored on a data logger easy to download usually every 4-6 months.
+
+UMIST/MONITORING
+
+8
+
+4.2. resistance: integration in microelectronic packaging Corrosion is the most frequent cause failure in assembly and packaging of microelectronic devices [4]. Online monitoring of corrosion on single chip enables predicting defects like opens and in this way eliminates a risk of a failure of the whole system. The idea is based upon the concept: corrosion sensors are placed at the different locations of the chip as a prevention measure. Corrosion monitoring performs on-chip test and checks if a corrosion sensor still operates within assigned conditions. Two solutions can be considered for implementation : · The first one assumes external software support when the corrosion monitoring module only sends information about the advance of corrosion, which is interpreted by an external device. · The second solution assumes that the monitoring module includes supporting modules for storage and comparison purposes so the result of measurements is in the form of pass/fail. The first solution is more flexible and easy to monitor. The corrosion sensor (Fig.7a) is implemented as an integrated part of the chip where the critical role is its size resulting in a minimal consumption of the silicon area. Recently there were implemented corrosion sensors based on triple track structures were developed [2]. The concept of triple track structure is based on resistance measurement a schematic layout of the sensor structure is depicted in Fig.7b. During assembly test resistance of the passive electrical structure is measured. Corrosion changes the area of the material, so it results in resistance change.
+Corrosion Sensor Unpassivated Monitored Resistor
+
+Corrosion Monitoring Module
+
+Ohm
+
+Passivated "Golden" Resistor
+
+Comparator
+
+OUT
+
+Resistance Tuner
+
+-
+
+V
+
++
+Corrosion Register Run_ Test Reset
+
+Figure 7a- Triple Track Corrosion Test Structure
+
+Figure 7b- The concept of corrosion monitoring module
+
+4.3. chemical sensors: an example of local integration of pH sensing
+
+UMIST/MONITORING
+
+9
+
+Chemical sensors, which change color when corrosion is present, have been in use for a very long time. They are known as fluorescent liquid penetrant or fluorescence indicators. A new family of fluorescent dyes allows the detection of rust and surface defects that are hidden under a coat of paint. This new method eliminates the need to remove the paint prior to aircraft corrosion inspection. For example, [10] paint systems containing color-change or fluorescing compounds were found to be sensitive to underlying corrosion processes by reacting to the pH increase associated with the cathodic reaction that accompanies corrosion. The sensitivity of acrylic-based coating systems for detection of cathodic reactions associated with corrosion was determined by applying constant cathodic current and measuring the charge at which color change or fluorescence was detected. Visual observation of coated samples with the unaided eye can detect changes resulting from a charge corresponding to a hemispherical pit with depth on the order of 10 µm. The basic idea of this study is to modify paint in order to make it a sensor for corrosion since paint covers, and thus has access to, the whole surface of an airplane (Fig.8). The goal is to sense the cathodic reaction that accompanies the oxidative corrosion reaction. The main cathodic reaction for any form of atmospheric corrosion is oxygen reduction: O2 + 2H2O + 4e-  4OHFor localized corrosion such as pitting, crevice, and exfoliation corrosion, this cathodic reaction will tend to occur at more-accessible locations than the anodic reaction, i.e. nearer to the source of oxygen in the air (Fig.7). This reaction will cause an increase in the local pH at the location where it occurs, so a paint that is sensitive to pH increases generated by the cathodic reaction will indirectly be sensing corrosion occurring nearby. Others have pursued similar approaches. Color-change pH indicators have been incorporated into organic coatings as a tool for determining the pH gradients associated with filiform corrosion beads. Fluorescent dyes were applied to microelectronic test vehicles to detect pH changes associated with corrosion of Al or Au metallization under an applied bias in a humid environment. Fluorescing and color-change dyes have also been applied to Al after corrosion in order to identify the locations of the hydrous aluminum oxide corrosion product [11].
+
+Figure 8. Schematic description of the location of the cathodic areas where a pH change can be detected (alcalinisation) due to local crevice corrosion
+
+UMIST/MONITORING
+
+10
+
+5. discussion: trends in sensor technology It must be asked how corrosion monitoring could benefit from the developments observed in sensor technology which are based on the permanent technical progress in the fields of sensor structure, sensor technology and signal processing. The main trends in development of sensor technology go towards miniaturization and an increasing use of multi-sensor and wireless systems. As schematized in Fig.9, the heart of a sensor device is the sensor element depending on the measured quantity. In the pre-processing unit the sensor signal is transformed in an adequate signal using analog processing technique. By means of analog-digital converters the digital signal is finally transferred by an adequate interface to be integrable in a control loop
+
+Sensor Signal pre-processing Signal processing Interface
+
+measured quantity Analog signal Digital signal Bus compatible signal
+Figure 9- Standard sensor structure
+
+In the case of corrosion monitoring what would be the possible evolution of such a sensor structure? In the frame of this presentation, the discussion will be mainly related to the emerging or not new sensing function (measured quantity) and the possible evolution in the pre-processing and processing steps.
+
+Signal processing Signal pre-processing Sensor measured quantity
+
+Self test Additional knowledge
+
+Figure 10- Sensor structure with self test based on neural network training
+
+· Firstly, electrochemical quantity seems to be restricted to already mentioned in section 2: it means that no fundamental changes are expected in the future. Nevertheless, evolution can be planned in the field of environmental analysis following the large development of chemical sensors (new detectors like chemical nose) allowing to refine the detection of aggressive environments.
+
+UMIST/MONITORING
+
+11
+
+· Secondly, regarding signal pre-processing, self test can be supported by studies for example on neural network which could be directly integrated in the internal memory of the sensor. Sensors are available to detect a wide range of physical and chemical conditions and in some circumstances this may be sufficient. However, in order to exploit sensors to predict performance and extrapolate localized sensor measurements to describe a larger structure there needs to be an element of intelligent interpretation (Fig.10). For example, in case of environmental sensing, one approach would be to use a mechanismbased model that calculates a microclimate in zones within the structure and then would predict the degradation that occurs. This can be done by developing "training" of the sensor after pre-processing step using for example neural network approach. Consequently there is a need to promote research in interpretation of measured data in the frame of real sensing condition to define the threshold values for the levels of risk. · Finally, concerning the signal processing, the sensors employed will be of several different types, some based on standard microfabrication technology (e.g. electrochemical sensors) and some which will require novel functional materials. The sensors may act alone if simple detection is all that is needed but a more ambitious aim will be to allow the sensors to measure local environmental conditions that are then fed into the predictive model. In this way, a small number of distributed sensors allied to a model that interprets their output will be able to calculate the degradation in a large complex structure. The nature of the substrate itself may also vary from location to location from being a single silicon backplane to a flexible polyimide thin film. At present, each sensor operates as a single unit with a dedicated datalogger. The stored information is downloaded to a personal digital organizer at appropriate intervals which could be up to several years. In the future, wireless micro-sensors could be embedded in these structures to continuously monitor their "health" from the inside out. For example, chloride threshold sensors can be embedded in bridge decks to monitor chloride ingress into bridge-deck concrete important in prioritizing steps to protect the underlying reinforcing steel bars from corrosion. The device could be embedded when pouring new concrete, as well. The reader could then drive past the sensor to obtain its chloride-threshold data. Using a global positioning system (GPS), the health status of the bridge could be automatically updated in the bridge database. 6. Conclusion New trends in corrosion monitoring would be mainly related to the development of new intelligent corrosivity sensors with remote data transmission through a hand held transponder as it can be already observed especially in the domain of transportation. Some sensors could be sophisticated multifunctional sensors which, in case of airplanes for example, measure actual corrosion on a model alloy sample, monitor paint breakdown, measure changes in paint coatings or indicate pre-determined levels of moisture and ionic species.
+
+UMIST/MONITORING
+
+12
+
+Integration of such sensors in corrosion monitoring will not induce emerging "measured quantity", but will require additional knowledge related to the actual measurement information and the corrosion process evolution itself in order to integrate self-test or self-calibration in the pre-processing step. On the other hand, concerning the signal processing, corrosion monitoring must be microprocessor-based instruments for data gathering and networking with multi-array of embedded sensors and wireless communication is also an interesting option applicable to corrosion monitoring. References
+1 2
+
+M. Hebbron , BAE SYSTEMS (Operations) Ltd, private communication
+
+P. Bergveld, "Development of an ion-sensitive solid-state device for neurophysiological measurement", IEEE Trans.Biomed. Eng. BME-17:70. 1970.
+
+K,Hladky, J.L.Dawson, "The Measurement of Localised Corrosion Using Electrochemical Noise," 1981, Corros. Sci.,. 21 (4), 317-322
+4
+
+3
+
+K. Hladky, US Patent # 4,575,678, D.A.Eden, D.G.John, J.L.Dawson, US Patent # 5,139,627, D.A.Eden, R.N.Carr, J.L.Dawson, US Patent # 5,425,867 Web page http://www.daccosci.com Intercorr documentation, www.intercorr.com
+
+5 6
+
+7
+
+U. Bertocci, C. Gabrielli, F. Huet, and M. Keddam," Noise resistance applied to corrosion measurements. I. Theoretical analysis.", J. Electrochem. Soc., 144, 31 (1997) F. D. Wall, M. A. Martinez, "Quantifying Atmospheric Corrosion Using Stacked Foil Electrodes" 199th ECS meeting,
+
+8
+
+9
+
+V.S. Agarwala,A. Fabiszewski, "Thin film microsensors for integrity of coatings, composites, and hidden structures", Corrosion and Corrosivity Sensors, NACE, 1994, paper 342, p.217 J. Zhang and G. S. Frankel, "Corrosion-sensing behavior of an acrylic-based coating system" Corrosion, 55, 957 (1999)
+
+10
+
+N.Cippolini, "Visual detection of hydrated aluminum oxide by staining with fluorescing and nonfluorescing dyes", J.Electrochem.Soc., 129, 1517 (1982)
+
+11
+
+UMIST/MONITORING
+
+13
+

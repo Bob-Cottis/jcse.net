@@ -1,0 +1,57 @@
+Volume 6 paper C095 ELECTROCHEMICAL BEHAVIOUR OF UNS S17700 AND UNS N08800 ALLOYS IN SYNTHETIC WASTEWATER
+R. SANDOVAL-JABALERA, E. ARIAS-DEL CAMPO, F. ALMERAYA-CALDERON, C. GAONA-TIBURCIO, J. G. CHACON-NAVA, A. MARTINEZ-VILLAFAÑE Advanced Materials Research Centre Materials Deterioration and Structural Integrity Division. Miguel de Cervantes 120, Comp. Industrial Chihuahua, C.P. 31110, México Phone: +52 (614) 439-1145, Fax +52 (614) 439-1112 Corresponding author : raul.sandoval@cimav.edu.mx ABSTRACT The electrochemical behaviour of S17700 and N08800 type steels exposed to synthetic wastewater containing microorganisms was studied. Laboratory tests were carried out for 30-days and the experimental conditions were: a biochemical oxygen demand (BOD) of 500 ppm., a chemical oxygen demand (COD) of 17,000 ppm, pH = 8 and the cell average temperature was maintained at 21°C. Cyclic potentiodynamic scan measurements were performed for each alloy from ­900 to 900 mV. Results were compared against those obtained from a reference cell. In synthetic wastewater, both alloys showed an increase in corrosion rate and variations in electrochemical behaviour. The UNS S17700 steel showed greater corrosion rate than that recorded for the N0880 steel. The influence of wastewater on the observed behaviour for these materials is discussed. Keywords: Electrochemical behaviour, cyclic potentiodynamic scan, synthetic wastewater. INTRODUCTION Corrosion is a heterogeneous process involving reactions between materials and its environment. Microbial Induced Corrosion (MIC) of steels in both aerobial and anaerobial systems has received a lot of interest particularly in the last few years1. This is because in many industrial situations (fuel tanks, civil structures, ships hulls, pumps, cooling water systems etc..) the effect of MIC on materials degradation has been reported. To study the electrochemical behaviour of ferrous and non-ferrous materials several electrochemical techniques have been employed among others: electrochemical impedance spectroscopy (EIS), electrochemical noise (EN), cyclic potentiodynamic scan (CPS) and linear polarization resistance (LPR). As a preliminary study, the aim of this work has been to investigate the electrochemical behaviour of alloys S17700 and
+
+N08800 in a synthetic wastewater environment employing CPS. It is important to point out that, on this topic (wastewater) very little information is available in the literature.
+
+EXPERIMENTAL Material The materials tested were a standard semiaustenitic precipitation-hardening stainless steel UNS S17700 and a austenitic high alloy UNS N08800. The chemical compositions of the steels are shown in table 1. TABLE 1. Chemical composition (%) UNS Name Cr Ni C Mn Number S17700 17-7PH 17.0 7.0 0.07 0.70 N08800 800 19-23 30-35 0.1 1.5 Si 0.40 1.0 Cu 0.75 Mo Ti 0.6 Al 1.15 0.6 S 0.015
+
+Alloys were cutting off into coupons of 1.27 cm diameter and 2 cm height. Afterwards, the coupons were insulated with epoxic resin to make the arrangement of three identical electrodes2,3, followed by appropriate surface preparation through grinding with grit paper from 120 to 1200 grade. Wastewater Synthetic wastewater was prepared using 4g of ground organic matter and dissolved in 1 litre of fresh water. Table 2 shows the characterization analysis of the synthetic wastewater used. TABLE 2. Characteristics of synthetic wastewater. Biochemical Oxygen Demand (BOD) Chemical Oxygen Demand (COD) Temperature pH Electrochemical setup The electrochemical cell was a glass flask containing 1 litre of synthetic wastewater, with the electrodes located at the wastewater level. Cyclic potentiodynamic measurements were performed from ­900 to 900 mV using a ACM Instrument Auto Tafel Equipment. Figure 1 shows the electrochemical cell. 580 ppm 14,800 ppm 21°C 7.7
+
+2
+
+Figure 1. Electrochemical cell. RESULTS Table 3 shows the values of electrochemical behaviour, while the figure 2 shows the voltage vs current density graphs of both alloys. TABLE 3. Electrochemical values of S17700 and N08800 Alloy Ecorr (mV) Icorr (mA/cm2) S17700 -180 7.09E-01 N08800 -496 2.52E-01
+
+Corrosion rate (mm/yr) 1.83E+01 6.55E+00
+
+Figure 2 shows the cyclic potentiodynamic scan of N08800 steel at day 18 when the higher corrosion rate was recorded.
+
+N08800 (Day 18)
+
+Voltage (mV vs N08800)
+
+1000 500 0 -500 -1000 0.000001
+
+0.0001
+
+0.01
+
+1
+
+Current (mA/cm2)
+Figure 2. Cyclic potentiodynamic scan of N08800.
+
+3
+
+Figure 3 shows the cyclic potentiodynamic scan of S17700 steel at day 22 when the higher corrosion rate was recorded.
+
+S17700 (Day 22) Voltage (mV vs S17700) 1000 500 0 -500 -1000 0.0001
+
+0.001
+
+0.01
+
+0.1
+
+1
+
+Current (mA/cm2)
+Figure 3. Cyclic potentiodynamic scan of S17700. DISCUSION In first instance, from figures 2 and 3 it can be seen a passivation like behaviour. This might indicate that the alloys are able to protect by themselves against pitting corrosion in the present environment. However, the corrosion rates obtained are high, suggesting that other mechanism is operating. As a preliminary study, we are aware that the CPS measurements yield only qualitative information, so its application to elucidate corrosion mechanisms and corrosion monitoring is not very valuable. CONCLUSION Under the experimental conditions here, both alloys were attacked. The synthetic wastewater used here was very aggressive in particular for the S17700 steel. To have a better understanding of the degradation processes, it will be important to undertake a series of tests using another electrochemical techniques (EIS for example) and microbiological experimental conditions. ACKNOWLEDGMENTS
+
+4
+
+We would like to thank Conacyt (Mexico) for financial support. REFERENCES 1. "Biocorrosion of Iron With Thiobacillus ferrooxidans- Linear Polarization Study", B. Pesic and V.C. Storhock, (Houston, TX: National Association of Corrosion Engenieers, 2001).
+
+2. "Electrochemical Impedance and Noise", R. Cottis and S. Turgoose, Corrosion Testing Made Easy. (Houston, TX: National Association of Corrosion Engenieers, 1999). 3. "D. C. Electrochemical Test Methods", N. G. Thompson and J. H. Payer, Corrosion Testing Made Easy. (Houston, TX: National Association Of Corrosion Engineers, 1998).
+
+5
+

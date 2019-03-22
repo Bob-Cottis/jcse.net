@@ -1,0 +1,574 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+On the nature of rusts on phosphoric irons Gadadhar Sahoo, R. Balasubramaniam and A. C. Vajpei Department of Materials and Metallurgical Engineering Indian Institute of Technology, Kanpur-208016, India
+
+Abstract Rusts from three phosphorus containing irons or phosphoric irons (Fe-0.11P0.028C, Fe-0.32P-0.026C and Fe-0.49P-0.022C, all in wt. %), after exposure to one year in the atmosphere, 15 days in continuous salt spray and 20 days in cyclic wet-dry salt spray, were analyzed using X-ray diffraction and Fourier transform infrared spectroscopy. They were found to be similar in nature to rusts on a plain carbon steel (Fe0.148 C-0.542 Mn-0.128 Si) and a microalloyed steel (Fe-0.151C-0.088P-0.197Si0.149Cr-0.417Cu). Polarization study of one-year atmosphere exposed samples in 3.5 % NaCl solution did not reveal beneficial effect of phosphorus in phosphoric irons. However, the improved corrosion resistance of phosphoric irons in chloride-containing environments was concluded based on electrochemical impedance studies on rusted surfaces. In case of salt spray exposed samples, the polarization resistance of phosphoric irons increased with increasing phosphorus content and was higher than that of plain carbon steel and microalloyed steel. Keywords: Phosphoric irons, Rust characterization, X-ray diffraction, FTIR, EIS, Polarization.
+
+
+
+Corresponding author. Tel: +91-512-2597089, Fax: +91-512-2597075, Email address: bala@iitk.ac.in
+
+1 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+1. Introduction The 1600-year old Delhi Iron Pillar is well known for its remarkable corrosion resistance. This exceptional corrosion resistance arises due to the presence of relatively high phosphorus content (0.25 wt-%) in the Pillar. Phosphorus plays a major role by facilitating the formation of a protective passive film on the surface [1, 2]. Based on the example of Delhi Iron Pillar, a detailed study on the corrosion behavior of phosphoric irons (i.e. phosphorus containing irons) was undertaken [3]. The significance conclusion derived was phosphoric irons possessed better corrosion resistance than conventional steels used in concrete environment [3]. The required strengths and ductility have been obtained in phosphoric irons by controlling chemistry and microstructure [4]. Therefore, phosphoric irons are candidate materials for concrete reinforcement application. It is important to understand the nature of rusts that form on phosphoric irons and compare them with rusts on normal steels, preferably those used in concrete reinforcement applications. The aim of the present study was first, to characterize the rusts developed on phosphoric irons and commercial concrete reinforcement steels after one year of atmospheric exposure, and short duration exposure to continuous and cyclic wet-dry salt spray conditions using spectroscopic techniques. The second aim was to estimate the corrosion resistance of rust covered surfaces using electrochemical techniques.
+
+2. Experimental Phosphoric irons of three different phosphorus contents, namely P1, P2 and P3, were prepared by ingot casting route after melting in a high frequency induction-melting
+
+2 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+furnace (175 KW, 1000 Hz, Inductotherm, India Pvt. Ltd.) in air. The alloys were prepared from calculated amounts of soft iron (Fe-0.001C) and Fe-P mother alloys (Fe22P). The carbon content was controlled to about 0.02 wt. % by addition of mild steel scraps containing 0.16 % carbon. The ingots were soaked and then forged at 1150 0C into round bars of 26 mm diameters. Two commercially concrete reinforcement steels named as T and C, both of 22 mm diameter, were used as reference. Sample T was a plain carbon steel while C was a microalloyed steel. The chemical compositions of P1, P2, P3, T and C were obtained in an optical emission spectrometer (BAIRD SPECTRO VAC DV6, USA) and are provided in Table 1. The chemical compositions of phosphorus in phosphoric irons were determined by wet chemical analysis.
+
+2.1 Atmospheric Exposure Testing Atmospheric exposure tests were performed according to ASTM G 50-76 standard. An exposure rack of mild steel was fabricated. This was placed on the roof of Western Laboratory, IIT Kanpur, Kanpur (800 20' E and 260 26' N), an urban industrial location in Northern India. The location was a clear, well drained area. It was ensured that shadows of trees, buildings, or structures did not fall on the specimens. The specimens were suspended at an angle of 450. The suspended specimens during exposure test are shown in Figure 1 after one year of exposure to atmosphere environment. The 22 mm diameter sample rods were machined and surface finished with 120 grade SiC abrasive paper before exposure. The samples were exposed on the 22nd of November 2004 and removed, for rust analysis and electrochemical tests, on the 30th of November 2005. The temperatures of the atmosphere of Kanpur during this period (for 1
+
+3 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+h interval) were obtained from the Chakeri Air Force Station (Meteorological Section), Kanpur. One set of specimens was removed from the second row for rust analysis and electrochemical tests. Other samples are still exposed for long term testing. Rusts were collected from specimens in the second row by scrapping, using a stainless steel spatula. The rusts at top and bottom of each rod were kept intact. Specimens of 5 mm length were cut from the top and bottom portions of rods by an electric abrasive cutter. These samples were used for polarization experiments in 3.5 % NaCl for evaluating the electrochemical nature of the rusted surfaces. The polarization experiments were conducted in a standard flat cell (Princeton Applied Research, Ametek, USA) in the potential range ­250 mV to 250 mV versus open circuit potential of samples, using 263A potentiostat (Princeton Applied Research, Ametek, USA). A calomel electrode was used as reference electrode. The scan rate employed for the polarization studies was 0.166 mVs-1.
+
+2.2 Salt spray testing All samples were subjected to salt spray testing for 15 days, according to ASTM B117-03. A salt solution of 5-wt % was prepared using distilled water. The temperature of salt spray chamber was maintained at 350C. The samples were prepared as thin slices of about 6 mm thickness along transverse direction of the 16 mm diameter bars. Each slice was mounted in cold setting epoxy. An insulated wire was connected to the samples before setting in epoxy to facilitate hanging of samples inside salt spray chamber. The samples were polished using 120 grade silicon carbide abrasive paper. The samples were
+
+4 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+0
+
+2 December 2006
+
+suspended in the chamber at an angle of 30 from vertical. Samples were periodically removed (1d and 15d) from the salt spray chamber for conducting electrochemical impedance test in a standard flat cell (Princeton Applied Research, Ametek, USA) containing 3.5 % NaCl. EIS scan was carried out by applying a sinusoidal potential perturbation of 10 mV at the open circuit potentials with frequency sweep from 100 kHz to 5 mHz using PARSTAT 2263 potentiostat and PowerSuit software (Princeton Applied Research, Ametek, USA). Another set of samples, of 10 cm length and 10 mm diameter, were suspended for collecting rust for analysis. These samples were surface finished using 120 grade silicon carbide paper before exposure. Rusts were collected from the surface of these samples after 15 days and characterized using X-ray diffraction (XRD) and Fourier transform infrared (FTIR) spectroscopy. The salt spray test chamber was also used to simulate wet-dry exposure. Two sets of samples were subjected to alternate wet (at 350C) and dry (at 600C) conditions with a wet dry ratio of 2:6 hours for a total period of 20 days. The samples used in this test were prepared in the manner described above for salt spray testing. EIS scans were obtained in 3.5 % NaCl solution for one set of epoxy mounted samples similar to that was conducted in case of continuous salt spray testing samples. Rusts were collected from another set of samples, of 10 cm length and 10 mm diameter, subjected to 20 days wet-dry cyclic salt spray test, for rust analysis.
+
+5 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+3. Results and Discusion 3.1 Atmospheric Exposure Test The temperature of Kanpur was averaged out for each month and the average temperature data is shown in Figure 2. The monthly average relative humidity at Kanpur during this period is shown in Figure 3. It is to be noted that the humidity levels were lower than 60 % for four months (March, April, May and June). The atmospheric corrosion of iron becomes significant for relative humidity beyond 60 % [5], conditions favourable for atmospheric corrosion existed at Kanpur for significant period (almost 8 months) in the year. The color of the rust on each specimen, after the atmospheric exposure, was different. The rusts appeared dark reddish brown both in T and C, whicle those on phosphoric irons were lighter. Among phosphoric irons, rust on P3 was more reddish brown in color. The XRD patterns of the rusts were generally diffused and distinct sharp peaks were not observed. This observation indicated that most of the phases present in the rusts were in the amorphous form. FTIR spectra of atmospheric rust samples are shown in Figure 4 for P1, P2 and P3, and in Figure 5, for T and C. All spectra appeared to be in similar nature although variations in peak intensities were noted. The phases indentified in all the rust samples were -FeOOH (lepidocrocite), -FeOOH (goethite), Fe3-xO4 (magnetite) and -FeOOH based on the known characteristic phases of these phases at 1020 cm-1 [6-8], 890 cm-1 [68], 570 cm-1 [9] and 470 cm-1 [6-8], respectively. As regard relative abundance, the rusts on phosphoric irons revealed relatively higher amount of -FeOOH (see Figure 4 and 5).
+
+6 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+This is understandable since it is well known that phosphorus in steel/iron catalyses the formation of -FeOOH [6]. In case of low alloy steels containing Cu, P and Cr, formation of protective rust composed of Fe3O4, -FeOOH, -FeOOH and -FeOOH has been observed [6-8]. The rust phases identified from FTIR spectra were in conformity with these findings. Scanning electron micrograph (Figure 6) of rusted surface of phosphoric iron P2 did not reveal any appreciable cracking. The atmospheric rust appeared compact. This was the only microstructure analyzed using SEM. After completion of one year of atmospheric exposure, the protective quality of rust was evaluated by Tafel polarization. Figure 7 shows the Tafel plots of rusted samples obtained in aerated, unstirred 3.5 % NaCl solution of pH 6.8. The extended linear Tafel region of cathodic branch indicated that cathodic reaction was activation controlled, in contrast to the expected diffusion controlled O2 reduction in unstirred, aerated 3.5 % NaCl solution. This is probably due to the reduction of Fe3+ and Fe2+ present in the rust (magnetite and iron oxyhydroxide), which dominates cathodic reaction with almost 100 % current efficiency. The corrosion rates estimated from Tafel plots of the rusted samples are provided in Table 2. All samples exhibited almost similar corrosion rates. The corrosion rates are comparable with corrosion rate of pure iron, obtained by Tafel extrapolation, in unstirred, air saturated 3.5 % NaCl solution, which is 12 mpy [10] and that of plain carbon steel (AISI 1020) which is 15 mpy after one-year immersion in quiet seawater [11]. The anticipated beneficial effect of phosphorus in phosphoric irons towards atmospheric corrosion was not observed during the short period of one year exposure. It
+
+7 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+is likely that the rust on phosphoric irons may become more protective in nature after more exposure time because it is known that it takes a minimum of three years for the formation of protective rust on the Delhi Iron Pillar [12], a typical phosphoric iron structure.
+
+3.2 Salt Spray Test Similar to the nature of the rust derived from atmospheric test, the XRD patterns of rusts derived from salt spray exposure test were diffused and distinct sharp peaks could not be consistently observed. FTIR spectra of rusts of phosphoric irons, T and C, derived from continuous salt spray and wet-dry cyclic tests, were almost similar. The intensity of -FeOOH peaks was more in case of continuous salt spray than that for cyclic wet-dry testing. FTIR spectra of rusts on phosphoric iron P1 derived from continuous salt spray and cyclic wet-dry testing are compared in Figure 8. Phases identified in the rust samples of P1, P2, P3, T and C, after both continuous salt spray and wet-dry cyclic tests, were -FeOOH, -FeOOH, -FeOOH, -FeOOH and Fe3-xO4. The notable difference between these rusts and those obtained after atmospheric exposure was the presence of -FeOOH (akaganiete) in the samples exposed to salt spray. The presence of FeOOH was inferred from the peak at around 670 cm-1 [13]. The formation of -FeOOH can be explained by dissolution of iron followed by formation of FeCl2 / FeCl3 hydrolysis products in salt spray derived rusts [14]. On visual observation it was noticed that the rust formed on samples after 15 days of continuous salt spray test was less adherent, while the rusts formed on the samples after 20
+
+8 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+days of wet-dry cyclic test, were relatively adherent. This could possibly be related to the presence of relatively higher amount of non-protective -FeOOH (as revealed by larger peak intensities in FTIR spectra) in the rust obtained after continuous salt spray tests. In contrast, a medium intense -FeOOH peak was observed in case of wet-dry cyclic tests. The presence of a thick rust layer with medium intensity -FeOOH band in FTIR spectra in case of rust obtained from cyclic wet-dry salt spray test can be explained by the following arguments. The studies of Stratmann et al. [15-19] on the corrosion behavior of pure iron under wet-dry cyclic test condition have revealed that during the wet cycle, the cathodic reaction is the reduction of -FeOOH to Fe.OH.OH. This Fe.OH.OH containing Fe2+, acts as intermediate and is reoxidized to -FeOOH again during the drying process. Thus, reoxidized -FeOOH works as cathodic site. The dissolution of iron leads to the creation of Fe2+ species within the lattice of the -FeOOH, therefore increasing the thickness of rust layer in subsequent wet-dry process. At certain negative potential, the free corrosion potential of Fe, -FeOOH is reduced to Fe3O4, which is not oxidized back to  FeOOH during the drying cycle [20]. This could be the reason of observed medium intensity peak of -FeOOH of rusts obtained from cyclic wet-dry test compared to that of rust obtained from continuous salts spray test. In contrast to -FeOOH, -FeOOH is thermodynamically stable and not easily reduced. For this reason, the decrease in corrosion rate has been attributed to the presence of -FeOOH in rust as main constituent [21]. As the FTIR spectra of phosphoric irons, T and C samples, both in continuous salt spray and cyclic wet-dry tests showed almost similar low intensity -FeOOH peaks, the rusts were not protective.
+
+9 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+3.3 EIS studies of Salt Sprayed Samples EIS experiments were performed after one day and 15 days of continuous salt spray testing and after 20 days of cyclic wet-dry testing. Almost similar nature impedance response was noticed for all samples in both conditions. The Bode magnitude plots of salt spray exposed specimens of P1, for both conditions, are shown in Figures 9. The capacitive part in Bode magnitude plots decreased significantly after 15 days of continuous salt spray, compared to one-day continuous salt spray in all cases. The solution resistances were almost similar after 1 day and 15 days of salt spray exposure. In contrast to this, the resistance component (observed at the high frequency range, above 100 Hz) increased significantly after 20 days of exposure to wet-dry test, in all cases. In reality, this is not the solution resistance. The enhancement of corrosion of carbon steel is well known in wet-dry environment and is due to electrochemically active species -FeOOH formed in dry cycles, which act as strong oxidant in wet cycle [22-28]. This leads to the increase in thickness of rust. Therefore, the significant increase in the resistance in 100 Hz frequency range in wet-dry condition was related to the resistance of pores in the rust (or resistance of solution present in the pores of the rusts) and this is termed as rust resistance (Rr) [23]. In all cases, the equivalent circuit Rr(CRp) best fit the obtained EIS data, where Rp is the polarization resistance. As discussed above, Rr is the rust resistance of the samples exposed to wet-dry condition. The Rr and Rp values obtained from modeling of the impedance spectra for all samples are provided in Table 3. The Rr of samples after one day and 15 days of continuous salt spray remained almost constant (below 14 Ohm.cm2, Table 3). The wet-dry condition resulted in higher Rr and Rp compared to
+
+10 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+continuous spray testing. There was a fall in polarization resistance with time of testing in continuous salt spray. Rp of samples obtained after 15 days of continuous salt spray testing were significantly lower than those obtained after one day exposure. After 15 days of continuous spray, Rp of phosphoric irons was higher for higher phosphorus content, and higher than that of C and much higher than that of T. Rp of samples obtained after 20 days of wet-dry testing were higher than that observed for samples after 15 days continuous salt spray testing. Similar to the case of continuous spray, Rp of phosphoric irons was higher with increasing phosphorus content. The Rp of P3 and P2 were higher than that of T. Therefore, the EIS data indicated the beneficial effect of phosphorus in phosphoric irons in resisting attack due to chloride ions. This was in tune with the extensive testing results of the sample in concrete environments containing chlorides [3], where enhanced chloride pitting resistance of hosphoric irons was revealed, when compared to conventional concrete reinforcement steel.
+
+4. Conclusions The corrosion products of phosphoric irons (Fe-0.11P-0.028C, Fe-0.32P-0.026C and Fe-0.49P-0.022C, all in wt. %), plain carbon steel (Fe-0.148 C-0.542 Mn-0.128 Si) and a microalloyed steel (Fe-0.151C-0.088P-0.197Si-0.149Cr-0.417Cu) were studied by X-ray diffraction and FTIR techniques after one year exposure to atmosphere, 15 days of exposure to continuous salt spray and 20 days of exposure to of cyclic wet-dry salt spray conditions. The rust components present in the atmosphere exposure rusts were -
+
+11 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+FeOOH, -FeOOH, -FeOOH and Fe3-xO4. The relative amount of -FeOOH was higher in case of phosphoric irons compared to conventional steels. In the case of rusts obtained from salt spray testing, -FeOOH was identified in addition to above rust components. The corrosion rates obtained for atmosphere-rusted surface, by Tafel extrapolation experiment, were also similar in all cases. Electrochemical impedance spectroscopy experiments on salt spray exposed samples, however, indicated the beneficial effect of phosphorus in phosphoric irons in resisting attack due to chloride ions.
+
+Acknowledgement The authors acknowledge Tata Steel, Jamshedpur, India for providing reference samples T and C, and Field Gun Factory, Kanpur for forging the phosphoric irons and composition analysis
+
+12 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+References [1] R. Balasubramaniam, On the Corrosion Resistance of the Delhi Iron Pillar. Corros. Sci. 2000, 42, 2103-2129. [2] R. Balasubramaniam, A. V. Ramesh Kumar, Characterization of Delhi Iron Pillar Rust by X-ray Diffraction, Fourier Infrared Spectroscopy, Mössbauer
+
+Spectroscopy. Corros. Sci. 2000, 42 2085-2101. [3] G. Sahoo, "Corrosion of Novel Phosphoric Irons for Concrete Reinforcement Applications," PhD Thesis, Indian Institute of Technology, Kanpur, India, 2006. [4] G. Sahoo, R. Balasubramaniam, Mechanical behaviour of phosphoric irons for concrete reinforcement applications, Scripta Mater. 2006, accepted. [5] T.E. Graedel, R.P. Frankenthal, Corrosion mechanisms for iron and low-alloy steels exposed to the atmosphere, J. Electrochem. Soc. 1990, 137, 2385-2394. [6] T. Misawa, T. Kyuno, W. Suetaka, S. Shimodaira, The mechanism of atmospheric rusting and the effect of Cu and P on the rust formation of low alloy steels, Corros. Sci. 1971, 11, 35-48. [7] T. Misawa, K. Asami, K. Hashimoto, S. Shimodaira, The mechanism of atmospheric rusting and the protective amorphous rust on low alloy-steel, Corros. Sci. 1974, 14, 279-289. [8] M. Yamashita, H. Miyuki, H. Matsuda, H. Magano, T. Misawa, The long term growth of the protective rust layer formed on weathering steel by atmospheric corrosion during a quarter of a century, Corros. Sci. 1994, 36, 283-299. [9] M. Ishii, M. Nakahira, Infrared absorption spectra and cation distributions in (Mn,Fe)3O4, Solid State Commun. 1972, 11, 209-212.
+
+13 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+[10]
+
+E. McCafferty, Validation of corrosion rates measured by the Tafel extrapolation method, Corros. Sci. 2005, 47, 3202-3215.
+
+[11]
+
+S.C. Dexter, Handbook of Oceanographic Engineering Materials, John Wiley & Sons, New York, 1979, p. 111.
+
+[12]
+
+R. Balasubramaniam, On the growth kinetics of the protective passive film of the Delhi iron Pillar, Curr. Sci. India 2002, 82, 1357-1365.
+
+[13]
+
+A. Raman, B. Kuban, K. Razvan, The application of IR spectroscopy to the study of atmospheric rust systems I. standard spectra and illustrative applications to identify rust phases in natural atmospheric corrosion products, Corros. Sci. 1991, 32, 1295-1306.
+
+[14]
+
+T. Ishikawa, S. Miyamoto, K. Kandori, T. Nakayama, Influence of anions on the formation of ­FeOOH rusts, Corros. Sci. 2005, 47, 2510-2520.
+
+[15]
+
+M. Stratmann, J. Müller, The mechanism of the oxygen reduction on rust-covered metal substrates, Corros. Sci. 1994, 36, 327-359.
+
+[16]
+
+M. Stratmann, K. Bohnenkamp, H. J. Engell, Attempts to understand the course of atmospheric corrosion of iron, Mater. Corros. 1983, 34, 604-612.
+
+[17]
+
+M. Stratmann, K. Bohnenkamp, T. Ramchandran, The influence of copper upon the atmospheric corrosion of iron, Corros. Sci. 1987, 27, 905-926.
+
+[18]
+
+M. Stratmann, K. Bohnenkamp, H. J. Engell, An electrochemical study of phasetransitions in rust layers, Corros. Sci. 1983, 23, 969-985.
+
+14 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+[19]
+
+M. Stratmann, H. Streckel, On the atmospheric corrosion of metals which are covered with thin electrolyte layers--II. Experimental results, Corros. Sci. 1990, 30, 697-714.
+
+[20]
+
+S. Hoerlé, F. Mazaudier, P. Dillmann, Advances in understanding atmospheric corrosion of iron. II. Mechanistic modelling of wet­dry cycles, Corros. Sci. 2004, 46, 1431-1465.
+
+[21] [22]
+
+M. Yamashita, Y. Yonezawa, H. Uchida, J. Jpn. I. Met, 1999, 63, 1332. T. Kamimura, S. Hara, H. Miyuki, M. Yamashita, H. Uchida, Composition and protective ability of rust layer formed on weathering steel exposed to various environments, Corros. Sci. 2006, 48, 2799-2812.
+
+[23]
+
+T. Nishimura, A. Tahara, T. Kodama, Effect of Al on the corrosion behavior of low alloy steels in wet-dry environment, Mater. Trans. 2001, 42, 478-483.
+
+[24]
+
+H. Kihira, S. Ito, T. Murata, Quantitative classification of patina conditions for weathering steel using a recently developed instrument, Corrosion 1989, 45, 347352.
+
+[25] [26]
+
+U. R. Evans, T. I. Met. Finish. 1960, 37, 1. U. R. Evans, Electrochemical Mechanism of Atmospheric Rusting, Nature 1965, 206, 980-982.
+
+[27]
+
+D. Gilroy, J. E. O. Mayne, The inhibition of the corrosion of iron in the pH range 6-9, Brit. Corros. J. 1965, 1, 107-109.
+
+[28]
+
+U. R. Evans, Mechanism of rusting, Corros. Sci. 1969, 9, 813-821.
+
+15 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+List of Tables Table 1: Table 2: Average chemical compositions of phosphoric irons, T and C (weight %). Tafel slopes and corrosion rates estimated from Tafel plots obtained in 3.5 % NaCl. Table 3: Parameters Rp and Rr obtained by modeling of EIS data for specimens subjected to wet-dry and continuous salt spray conditions. Rp is the polarization resistance and Rr is the rust resistance.
+
+16 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+List of Figures Figure 1: Figure 2: Samples suspended on rack during atmosphere exposure testing. Variation of temperature of Kanpur for 11 month period between December 2004 and October 2005. Figure 3: Variation of monthly average relative humidity at Kanpur for 11 month period between December 2004 and October 2005. Figure 4: Figure 5: Figure 6: FTIR spectra of rusts from atmosphere exposed samples of P1, P2 and P3. FTIR spectra of rust derived from atmosphere exposed samples of T and C. Scanning electron micrograph showing nature of atmosphereic rust on sample P2. Figure 7: Tafel plots of rusted samples in aerated, unstirred 3.5 % NaCl solution of pH 6.8 obtained at room temperature (250C) using a scan rate of 0.166mV/s. Figure 8: FTIR spectra of rust on derived after 15 days of continuous salt spray exposure and 20 days of cyclic wet-dry exposure. Figure 9: Bode magnitude plots of rusted samples of P1 obtained in 3.5 % NaCl of pH 6.8
+
+17 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+Table 1: Samples P1 P2 P3 T C
+
+Average chemical compositions of phosphoric irons, T and C (weight %). C 0.028 0.026 0.022 P 0.11 0.32 0.49 Si Mn S Ni 0.026 0.026 0.026 <0.011 Cr 0.044 0.045 0.056 0.036 0.149 Mo V Cu
+
+0.029 0.046 0.017 0.026 0.052 0.018 0.027 0.067 0.023 0.02
+
+0.004 0.003 0.033 0.004 0.004 0.036 0.004 0.004 0.038 0.002 0.003 0.012 0.004 0.004 0.417
+
+0.148 0.024 0.128 0.542
+
+0.151 0.088 0.197 0.713 0.013 <0.011
+
+Table 3:
+
+Tafel slopes and corrosion rates estimated from Tafel plots obtained in 3.5 % NaCl a c (mV/dec) 85 75 79 99 90 icorr (µA/cm2) 29 30 35 27 25 Corrosion rate (mpy) 13 14 16 12 11
+
+Sample (mV/dec) P1 P2 P3 T C 171 148 166 164 190
+
+18 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+Table 3:
+
+Parameters Rp and Rr obtained by modeling of EIS data for specimens subjected to wet-dry and continuous salt spray conditions. Rp is the polarization resistance and Rr is the rust resistance.
+
+Samples
+
+Test type Continuous
+
+days 1 15 20 1 15 20 1 15 20 1 15 20 1 15 20
+
+Rr (Ohm.cm2) 10 14 42 7 12 57 8 12 56 11 11 77 11 11 70
+
+Rp (Ohm.cm2) 150 60 108 135 60 155 130 77 165 140 40 135 120 55 180
+
+P1
+
+spray Wet-dry Continuous
+
+P2
+
+spray Wet-dry Continuous
+
+P3
+
+spray Wet-dry Continuous
+
+T
+
+spray Wet-dry Continuous
+
+C
+
+spray Wet-dry
+
+19 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+Figure 1: Samples suspended on rack during atmosphere exposure testing.
+
+20 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+42 40 38 36 34 32 30 28 26 24 22 20 18 16 14 12 10 0 5
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+Temperature ( C)
+
+Dec04 Jan05 Feb05 Mar05 April05 May05 June05 July05 Aug05 Sept05 Oct05
+
+0
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Time (Hour)
+
+Figure 2:
+
+Variation of temperature of Kanpur for 11 month period between December 2004 and October 2005.
+
+21 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+Oct05 Sept05 Aug05 July05 June05
+
+Month
+
+May05 April05 Mar05 Feb05 Jan05 Dec04 0 10 20 30 40 50 60 70 80
+
+Relative Humidity (%)
+
+Figure 3:
+
+Variation of monthly average relative humidity at Kanpur for 11 month period between December 2004 and October 2005.
+
+22 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+P3 P2 Transmittance (Arbitrary unit) P1
+
+-FeOOH
+
+-FeOOH
+
+H2O
+
+H2O
+
+Fe3-xO4
+4000 3600 3200 2800 2400 2000 1600 1200
+-1
+
+800
+
+-FeOOH
+
+400
+
+0
+
+Wave Number (cm
+Figure 4:
+
+)
+
+FTIR spectra of rusts from atmosphere exposed samples of P1, P2 and P3.
+
+23 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+T Transmittance (Arbitrary unit)
+
+C
+
+-FeOOH -FeOOH
+
+H2O
+
+H2O
+
+4000 3600 3200 2800 2400 2000 1600 1200
+
+Fe3-xO4
+
+800
+
+400
+
+-FeOOH
+
+0
+
+Wave Number (cm )
+
+-1
+
+Figure 5:
+
+FTIR spectra of rust derived from atmosphere exposed samples of T and C.
+
+24 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+25 µm
+
+Figure 6:
+
+Scanning electron micrograph showing nature of atmosphereic rust on sample P2.
+
+25 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+-0.2
+
+P1 P2 P3
+-0.4
+
+ESCE (V)
+
+TISCON CRS
+
+-0.6
+
+-0.8 -7.0 -6.5 -6.0 -5.5 -5.0 -4.5 -4.0 -3.5 -3.0 -2.5
+
+Log i (A/cm )
+
+2
+
+Figure 7:
+
+Tafel plots of rusted samples in aerated, unstirred 3.5 % NaCl solution of pH 6.8 obtained at room temperature (250C) using a scan rate of 0.166mV/s.
+
+26 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+Wet-Dry Condition
+
+Transmittance (Arbitrary unit)
+
+Continuous Spray
+
+H2O
+
+H 2O
+
+-FeOOH
+
+4400 4000 3600 3200 2800 2400 2000 1600 1200 800 400
+
+-FeOOH Fe O 3-x 4
+
+-FeOOH
+
+-FeOOH
+
+0
+
+Wave number (cm )
+
+-1
+
+Figure 8:
+
+FTIR spectra of rust on derived after 15 days of continuous salt spray exposure and 20 days of cyclic wet-dry exposure.
+
+27 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 19
+
+2 December 2006
+
+2.2
+
+After 1 day of contineous test After 15 days of contineous test After 20 days of wet-dry test
+
+2.0
+
+1.8
+
+Log Z (Ohm)
+
+1.6
+
+1.4
+
+1.2
+
+1.0 -3 -2 -1 0 1 2 3 4 5 6
+
+Log f (Hz)
+
+Figure 9:
+
+Bode magnitude plots of rusted samples of P1 obtained in 3.5 % NaCl of pH 6.8.
+
+28 © University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

@@ -1,0 +1,205 @@
+Volume 6 Paper C076
+
+Structures of Metal-benzotriazole Films on Copper and Other Metals
+and D. P. Schweinsberg4
+1Graduate
+
+T. Notoya1, M. Satake1, T. Ohtsuka1, H. Yashiro2, M. Sato2, T. Yamauchi3
+
+school of Engineering, Hokkaido University, Sapporo, 060-8628, Japan tnotoya@eng.hokudai.ac.jp
+2Faculty 3Johoku 4School
+
+of Engineering, Iwate University, Morioka, 020-8551, Japan R&D, Co., Ltd., Tokyo, 103-0025, Japan
+
+of Chemistry, Queensland University of Technology, Brisbane 4000, Australia
+
+Abstract
+The chemical states of benzotriazole (BTA) on copper and six other metals were investigated by measurements of time-of-flight secondary ion mass spectroscopy (ToF SIMS) of BTA-pretreated metals. The results were discussed in terms of the relationship between the degree of polymerization of BTA-metal compounds formed and corrosion inhibition efficiency determined by polarization resistance measurements for metals in a mixed solution of BTA and NaCl. The order of inhibition efficiency corresponded to the degree of polymerisation; the higher the degree of polymerization, the higher the inhibition efficiency.
+
+Keywords: BTA, ToF SIMS, inhibitor, copper, silver, gold, iron, nickel,
+chromium, zinc
+
+1. Introduction
+In recent years, time-of-flight secondary ion mass spectroscopy (ToF SIMS) has been used extensively in the field of surface analytical science. ToF SIMS enables extremely sensitive detection of molecular ions as well as atomic ones without causing significant damage to the surface because of the very small doses of primary ions used in ToF SIMS [1]. Among the many fields to which ToF SIMS can be applied, organicinhibitor films such as BTA on copper are most interesting targets polymeric structure of BTA films on Cu was confirmed by various analyses [2-9]. Swift [2] reported that ToF SIMS is a powerful tool for investigating the polymeric structure of a BTA film on Cu. Although BTA films on Cu have been studied extensively, little is known about the chemical state of BTA on other metals. In this study, the chemical states of BTA on several kinds of metals were assessed by measurements of ToF SIMS of BTA-treated metals and their polarization resistance in an NaCl solution in order to determine the relationship between degree of polymerization and corrosion inhibition efficiency. because ToF SIMS gives direct information on polymeric structure. This
+
+2. Experimental
+2.1 Specimens The metal specimens used for ToF SIMS analyses were Cu (99.9% purity), Ag (99.99%), Au (99.95%), Cr (99.9%), Fe (99.5%), Ni (99.7%) and Zn (99.99%). Five of those metals (Cu, Ag, Fe, Ni and Zn) were also used for polarization resistance measurements. The metal specimens were ultrasonically degreased in acetone for 10 min before pretreatment in a BTA solution. Pretreatment was carried out by immersion in 0.01 mol/dm3 BTA solution at 298 K for 10 min followed by drying in air. 2.2 Solution The corrosion test solution used for polarization resistance measurements was 0.1 mol/dm3 NaCl with or without 0.01 mol/dm3 BTA. The pH of the corrosion test solution was adjusted with HCl or NaOH solution.
+
+2
+
+2.3 Polarization resistance measurements An electrochemical cell fitted with one of the above metals as a working electrode, a saturated calomel electrode as a reference electrode, and a Pt counter electrode were used to determine polarization resistance. The volume of the corrosion test solution was 200 cm3, and ±10 mV of polarization at 0.1 Hz was applied to the specimen using a Corrosion Monitor (Model 7655, Tohogiken Co., Ltd.) to follow the current response at 298 K. 2.4 Time-of-Flight Secondary Ion Mass Spectroscopy The TOF SIMS (Physical Electronics TFS 2000) spectra were recorded under the following conditions: primary ions, cm-2.
+69Ga+
+
+(15 kV); area of
+
+analysis, 40 to 80 µm2; total dose of primary ions, less than 5 x 10
+
+12
+
+3. Results and Discussion
+3.1 Polarization resistance of metals in 0.1 mol/dm3 NaCl with and without BTA Polarization resistance (Rp) of 5 different metals was determined in 0.1 20 minutes at 298 K. The ratio of Rp with BTA to Rp without BTA is shown in Fig.1. The greater the ratio is, the greater is the inhibitory action of the following order: Cu  Ag Zn Ni Fe. BTA. Therefore, the inhibitory action of BTA toward these metals was in mol/dm3 NaCl with and without 0.01 mol/dm3 BTA after immersion for
+
+inhibitor for these metals.
+
+Since the ratios for Ni and Fe were less than 2, BTA is not an effective
+
+3
+
+80
+Rp(with BTA)/Rp(without BTA)
+
+60 40 20 0 Cu Ag Zn
+
+t=1200 s
+
+Ni
+
+Fe
+
+Fig. 1 Ratio of polarization resistance in 0.1 M NaCl + 0.01 M BTA to that in 0.1 M NaCl for various metals after 20-minutes immersion at 298 K. 3.2 Effect of pH on the polarization resistance of copper Polarization resistance of copper was measured in pH-adjusted 0.1 20 minutes at 298 K. The ratio of Rp (with BTA) to Rp (without BTA) as a mol/dm3 NaCl with and without 0.01mol/dm3 BTA after immersion for
+
+function of pH is shown in Fig.2. The inhibitory action of BTA was solutions was weak. 80
+Rp(with BTA)/Rp(without BTA)
+
+highest at pH 6, while its inhibitory action in both acidic and alkaline
+
+60 40 20 0
+
+1
+
+3
+
+6 pH
+
+9
+
+13
+
+Fig. 2 Effect of pH on the inhibition efficiency of BTA (0.01 M) for Cu in 0.1 M NaCl at 298 K. 4
+
+3.3 ToF SIMS analysis of BTA films formed on metals 3.3.1 Copper Fig.3 shows typical ToF SIMS spectra of Cu pretreated in 0.01 mol/dm3 BTA for 10 min. Ion fragments originating in BTA were all negative ions such as CN- (26 amu), C3N- (50 amu), C6H4N- (90 amu) and C6H4N3- (118 amu). Typical positive-ion fragments attributed to a compound of Cu and BTA are expressed as [(Cu+)n(C6H4N3-)n-1]+. Positive ions in which the part (C6H4N3-)n-1 in [(Cu+)n(C6H4N3-)n-1]+ had been replaced by CN-,
+
+C3N- or C6H4N- were also observed. The n values of assigned positive ions ranged from 1 to 5. Negative-ion fragments attributed to a compound of Cu and BTA are expressed as [(Cu+)m(C6H4N3-)m+1]-. Those with m values ranging from 0 to 3 were observed. Among the negative ions, the part (C6H4N3-)m+1 in the negative ion [(Cu+)m(C6H4N3-)m+1]- had been replaced by CN-, C3N- or C6H4N-.
+
+5
+
+Fig. 3 Typical secondary ion mass spectra for BTA-pretreated Cu. Fig.4 shows the relative intensities of secondary positive-ion and negative-ion fragments from BTA-pretreated Cu at three different pH values. The relative intensity is the intensity of each ion divided by that of Cu+ for positive ions and by that of C6H4N3- for negative ions. The relative intensity did not decrease monotonically with an increase in the number of monomers; that of 4 monomers (n=4) was greater than that of 3 monomers (n=3). The relative intensity of the negative-ion fragments dropped abruptly at m=3, and no negative ion fragments 6
+
+with more than m=4 were observed. In acidic (pH=1) and alkaline (pH=13) solutions, negative ion fragments of n=4 or 5 and m=3 or 4 were not observed in the SIMS spectra for BTA-pretreated Cu. These structure in neutral solution and that only monomers and dimers of Cu(I)-BTA formed on Cu in highly acidic and alkaline solutions.
+10 0 10 -1 10 0 10 -1
+
+results indicate that a Cu(I)-BTA film formed on Cu is a short polymeric
+
+pH Relative Intensity
+1 6 13
+
+pH
+1 6 13
+
+Relative Intensity
+
+10 -2 10 -3 10 10
+-4 -5
+
+10 -2 10 -3 10 -4 10 -5
+[(Cu+) (C6H4N3-)2][(Cu+)2 (C6H4N3-)3]-
+
+[(Cu+)3(C6H4N3-)2]+
+
+[(Cu+)4(C6H4N3-)3]+
+
+[(Cu+)5(C6H4N3-)4]+
+
+Fig. 4 Relative intensities of secondary ions from BTA-pretreated Cu at various pH values. The intensities have been normalized with respect to Cu+ for positive ions and with respect to C6H4N3- for negative ions. 3.3.2 Silver and gold SIMS spectra for metal-BTA films formed on Ag and Au can be described [(M+)m(C6H4N3-)m+1]- for negative-ion fragments, where M is Ag or Au. The number of monomers was in the range of 1 to 4 and m ranged from 0 to 2 for Ag. For Au, n was 1 and m was 0, 1 or 2. The relative intensities for these positive- and negative-ion fragments are shown in Fig.5 together with those of Cu for comparison. Much less polymerized metal-BTA species were observed on Ag and Au. as [(M+)n(C6H4N3-)n-1]+ for positive-ion fragments and
+
+7
+
+[(Cu+)3 (C6H4N3-)4]-
+
+[(Cu+)2 (C6H4N3-)]+
+
+C6H4N3-
+
+ND
+Cu+
+
+ND
+
+10 0 10
+-1 -2 -3 -4 -5 Cu Ag Au
+
+10 0 10
+-1 Cu Ag Au
+
+Relative Intensity
+
+Relative Intensity
+
+10 10 10 10
+
+10 -2 10 10 10
+-3 -4 -5
+
+ND
+[(M+)3(C6H4N3-)2]+ [(M+)4(C6H4N3-)3]+ [(M+)5(C6H4N3-)4]+ [(M+)2 (C6H4N3-)]+ M+
+
+ND
+C6H4N3[(M+)2 (C6H4N3-)3][(M+) (C6H4N3-)2][(M+)3 (C6H4N3-)4]-
+
+Fig. 5 Relative intensities of secondary ions from BTA-pretreated Cu, Ag and Au. The intensities have been normalized with respect to M+ for positive ions and to C6H4N3- for negative ions. 3.3.3 Zinc As shown in Fig. 6, the zinc positive-ion fragments were Zn+ and [(Zn2+)n(C6H4N3-)2n-1]+ (n=1 or 2). The negative-ion fragments were [(Zn2+)m(C6H4N3-)2m+1]- (m=0,1 or 2).
+10 0 10 0
+Zn Zn Ni
+
+Relative Intensity
+
+10
+
+-1 -2 -3
+
+Ni
+
+10 -1 10 -2 10 -3 10 -4 10 -5 ND
+
+Relative Intensity
+
+10 10
+
+10 -4 10 -5 ND
+M+
+
+[(M2+)(C6H4N3-)3] -
+
+[(M+)2(C6H4N3-)3] -
+
+[(M2+)2(C6H4N3-)3]+
+
+8
+
+[(M2+)2(C6H4N3-)5] -
+
+[(M+)2(C6H4N3-)]+
+
+[(M2+)(C6H4N3-)]+
+
+[(M+)(C6H4N3-)2] -
+
+C6H4N3-
+
+Fig. 6 Relative intensities of secondary ions from BTA-pretreated Zn and Ni. The intensities have been normalized with respect to M+ for positive ions and with respect to C6H4N3- for negative ions. 3.3.4 Nickel Only Ni+ was observed as a positive ion on Ni. Negative-ion fragments (m=0, 1 or 2). on Ni were [(Ni+)m(C6H4N3-)m+1]- (m=0 or 1) and [(Ni2+)m(C6H4N3-)2m+1]-
+
+3.3.5 Iron and Chromium No positive- or negative-ion fragment with its origin in the BTA compound was detected in the SIMS spectra of BTA-pretreated Fe or Cr. This is consistent with the results presented in Fig. 1 showing almost no improvement in corrosion resistance for iron by the BTA pretreatment.
+
+4. Conclusions
+(1) ToF SIMS spectra show that the surface films on BTA-treated metals are composed of relatively short metal-BTA polymers. (2) For copper, the longest positive-ion fragment attributed to the Cu(I)-BTA complex was a tetramer and the longest negative-ion fragment was a trimer. For silver, the longest positive-ion fragment attributed to silver-BTA complex was a tetramer and the longest negative-ion fragment was a dimmer. For zinc, the longest positive- and negative-on fragments were dimmers. For gold and nickel, positive- and negative-ion fragments attributed to those metal complexes were much shorter origomers than those of zinc. chromium-BTA complex were detected. Neither positive- nor negative-ion fragments attributed to iron- or
+
+(3) The inhibitory actions of the BTA-treated metals was in the decreasing order of Cu>> Ag>>Zn>Ni, Fe. This order reflects the BTA molecular chain length on the metal surfaces.
+
+References
+1 A. Benninghoven, F. G. Rudenauer and H. W. Werner, "Secondary Ion Mass Spectrometry", John Wiley &Sons, 1992. 9
+
+2 A. J. Swift, Mikrokim. Acta, 120, pp149, 1995. 3 J. B. Cotton, I. R. Scholes, Brit. Corros. J., 2, pp1, 1967. 4 G.W. Poling, Corros. Sci., 10, pp359, 1970. 5 N. Morito, O. Suetaka, J. Jpn. Inst. Met., 35, pp1165, 1971. 6 T. Notoya, G. W. Poling, Corrosion, 32, pp.216, 1976. 7 T. Notoya, G. W. Poling, Boshoku-Gijutsu, 30, pp381, 1981. 8 R. Youda, H. Nishihara, K. Aramaki, Corros. Sci., 28, pp87, 1988. 9 A. D. Modestov, G.-D. Zhou, Y.­P. Wu, T. Notoya, D. P. Schweinsberg,
+
+Corros. Sci., 36, pp1931, 1994.
+
+10
+

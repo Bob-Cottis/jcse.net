@@ -1,0 +1,180 @@
+SHORT-TERMED ASSESSMENT OF CHROMATE FILMS ON ZINC AND ZINC-NICKEL ALLOY COATINGS
+V.G.Roeva*, E.Y.Matykinab*, R.A.Kaidrikovb
+a
+
+*Materials and Devices Lab, Samsung advanced Institute of Technology San 14-1, Nongseo-Ri, Kihung-Eup, Yongin-City, Gyunggi-Do, Korea 449-712 Tel: 82-31-280-9330, Fax: 82-31-2809308, E-mail: roev@sait.samsung.co.kr b *Department of Electrochemical Technology, Kazan State Technological University, K.Marx St.,68, Kazan, 420015, Russia, Tel: +7 8432 75 03 64, e-mail: endge@newmail.ru
+
+Abstract - Electrochemical study of zinc and zinc-nickel alloy coatings by simple, nonexpensive method was carried out. Electrochemical measurements were performed for various chromate films. The test results were interpreted in terms of corrosion current densities which were related to the coating protective properties. Comparative data on protective properties of various chromate films on the base of both Cr(VI) and Cr(III) were obtained. Key words: zinc coatings, zinc-nickel coatings, protective properties assessment, chromate passivation.
+
+INTRODUCTION One of the aspects of cathodic protection is protective coatings plating. Steel parts are generally plated with zinc coatings for corrosion protection. The stability of zinc to atmospheric corrosion essentially decreases at presence of such polluters as SO2, ? ? 2 in the air, that is why zinc coatings are usually covered with protective passive chromate film. In order to appreciate the suitability and quality of passive films, it is necessary to carry out their testing. It is possible to appreciate the chromated coatings in the coarse of the detail exploitation, but this method is too long and is not able to determine efficiently the optimal coating among several available in this case. That is why, though method of exploitation test is believed to be most credible, it is however rarely used for assessment of chromate films quality. For practical needs, it is important to determine the corrosion behavior of Zn and ZnNi alloy coatings and to recommend chemical formulations of chromating baths, tailored precisely to the type of protective coating [1,2]. The necessity in accelerated methods led to appearance of 5 main express-tests: drop test [3], salt spray test[4-7], electrochemical impedance spectroscopy [8], polarization resistance method [9, 10] and Tafel slopes extrapolation method and others [11-13]. As a rule expensive devices such as impedance spectrometer with software or potentiostat are necessary for determination of corrosion rate. That is why the development of a simple tool, providing short-termed assessment of corrosion resistance and protective properties of zinc and zinc nickel alloys, and eliminating significant cost of the measuring setup and needs of highly-qualified personnel is actual for plating shop needs for Russian plating industry as well as for worldwide. The objective of this study is to investigate the corrosion resistance and protective properties of zinc and zinc nickel alloys by means of electrochemical measurements and to obtain comparative data on protective properties of various chromate films on the base of both Cr (VI) and Cr (III) by electrochemical measurements.
+
+1
+
+Proposed Approach Corrosion of zinc coatings in the aerated 5%NaCl solution comprises the anodic dissolution of zinc Zn  Zn2+ +2e (1) and the cathodic reduction of molecular oxygen, O2 + 2H2O + 2e  H2O2 + 2OH(2) H2O2+ 2e 2OH (3) Diffusion control is often experienced in the reduction of dissolved oxygen because of its' limited room temperature solubility (8ppm max), and zinc hydroxide precipitates on the surface of the coating substrate and changes gradually to zinc oxide, Zn 2+ + 2OH-  Zn(OH)2 (4) Zn(OH)2  ZnO + H2O (5) Any electrochemical process that produces Zn(OH)2 species should decrease corrosion rate of zinc. So, if chromate film contains strong oxidizers, such as Cr(VI) compounds the following reactions will take place: Cr6+ + Zn  Cr3+ + Zn2+ (6) 3+ Cr + 3OH  Cr(OH)3 (7) resulting in the formation of a passive film to prevent zinc coating corrosion. When chloride-ion in the 5%NaCl solution reacts with the hydroxide to form soluble Zn(OH)Cl complex, the passive film can be broken down and accelerated local dissolution of zinc occurs in pores of the chromate film. According to electrochemical corrosion theory total corrosion reaction is a result of two or more partial electrochemical reactions, which are principally independent from each other. Equation of the polarization curve measured on the metal during its' dissolution may be presented as
+ zFE  nFE j = j corr {exp( a1 ) - exp( ?2 )} RT RT
+
+(8)
+
+or
+j = j corr {exp(
+
+2,303E - 2,303E ) - exp( )} ba1 b?2
+
+(9)
+
+where ? =Ej ­ Ecorr, ba1, b?1, b?2 ­are Tafel slopes of anodic and cathodic reactions appropriately. At high anodic polarization (j>>jcorr) the second parts of the equations may be ignored that results in well-known relationships:
+E = - RT RT ln j corr + ln j  a1 zF  a1 zF
+
+(10)
+
+which are the matter of corrosion rate or exchange current determination by Tafel plots extrapolation on the value of corrosion potential. Now we consider the possibility of jcorr finding from equation (9) for the case when cathodic reaction is conditioned by oxygen diffusion to the surface of zinc electrode. In this case limiting diffusion current (?2) is increased with agitation, and Ecorr becomes more positive. Corrosion diagram for this case is represented schematically in Fig.1. In this case b?2 >>b?1, and 2,303E/b?2 constant is of a very low values, that's why equation (9) may be simplified and represented as follows
+
+2
+
+j = j corr {exp(
+
+2,303E ) - 1} b a1
+
+(11)
+
+Fig. 1. Corrosion diagram of zinc in natural aerated solution. Further transformation of the equation (11) leads to relationship
+    j   E = -ba1 log j corr + ba1 log (12)  - 2.303E  )  1 - exp( ba1       j   - E , and allows to Equation (12) is a straight line in co-ordinates log - 2.303E  )  1 - exp( ba1  
+
+find jcorr by extrapolation on ? =0. We consider equation (11) to be convenient for analysis of anodic polarization curve (APC) morphology nearby Ecorr, as it allows to obtain the true APC and takes into account the influence of cathodic process. The advantage of APC study nearby Ecorr is that in this case the electrode surface properties (activity, roughness) are not changed substantially under the external anodic current. Experimental procedure Bright zinc and zinc-nickel alloy coatings (5%Ni, 12-15%Ni) were electrodeposited from alkaline and weak acid electrolytes onto polished mild steel samples of Kocour Company, IL, USA in a two-liter rectangular cell. Coatings were obtained using rack construction and plating conditions of five different baths. The compositions of the baths and chromating solutions are given in Tables 1 and 2.
+
+3
+
+Table 1. Composition of zinc and zinc-nickel alloy plating baths ? Bath Composition, g/l ZnCl2 ­ 100 NH4Cl ­ 200 I Ammonium chloride bright zinc Brightener* ­ 60 pH5.2 ZnO ­ 12 II Non-cyanide alkaline zinc (zincate) NaOH ­ 120 Brightener* ­ 4 ZnO ­ 10 Ni ­ 1.5-2 III Non-cyanide alkaline zinc-nickel (5% Ni) NaOH ­ 120 Brightener* ­ 4 ZnO ­ 10 Non-cyanide alkaline zinc-nickel (12-15% Ni ­ 0.6-0.8 IV NaOH ­ 120 Ni) Brightener* ­ 4 ZnCl2 ­ 100 NiCl2*6H2O - 120 Ammonium chloride bright zinc-nickel (12NH4Cl ­ 250 V 15% Ni) Brightener* ­ 5 pH5.8 *Proprietary additive for zinc and zinc-nickel plating was developed in Electrochemical Technologies Department, Kazan State Technological University, Russia. Table 2. Composition of chromating solutions Solution Composition, g/l Treatment time, s Cr(VI) salt with inorganic A Iridescent chromate additives* ­ 30 60, 40, 30 HCl ­ 0.5ml/l B Iridescent chromate Dipsol NZ 40 Cr(VI) salt with inorganic C Iridescent chromate additives* ­ 40 60, 40, 30 HCl ­ 0.5ml/l Cr(III) salt with inorganic D Colorless chromate additives* ­ 40 40, 20 HNO3 ­ 0.5ml/l Cr(VI) salt with inorganic I Colorless chromate additives* ­ 45 40 H2SO4 ­ 0.5ml/l Cr(VI) salt with inorganic F Black chromate additives* ­ 60 60 H2SO4 ­ 0.5ml/l *Proprietary compositions of the chromating processes were developed in Electrochemical Technologies Department, Kazan State Technological University, Russia. Letter
+
+4
+
+The thickness of the coatings was maintained in the range of 6 to 9 µm by adjusting the plating time and measured by using X-ray and magnetic methods. Samples were measured at nine points at the test panels. The chromating process was optimized for each type of zinc coating with respect to the color and adhesion of chromate film. Used chromating solutions were on the base of Cr(III) and Cr(VI) compounds. Chromate conversion layer was formed on the coating surface by immersion into the tested chromate solution for 0.5-1min at controlled temperature (250 for A,B,C,I,F-solutions and 60 0C for D-solution) producing typically colorless or iridescent finish. Black chromate solutions contained Ag + ions (F-solution). Seven days later (this time is need for chemical and structural stabilization of the chromate layer) corrosion resistance of these panels was evaluated using modified Paatsch test. Corrosion performance was evaluated using accelerated natural salt spray test in accordance with ASTM B-117-73 and electrochemical measurements. Paatsch method Quality testing of coatings produced by chromating of zinc was studied by Paatsch in [14]. This method is distinguished by simple design of the cell and easiness of results interpretation. However it has a number of peculiarities and restrictions, which are discussed below. The Paatsch test modified by us includes determination of corrosion current, that flows between the tested coating and iron surface. Surface preparation of iron electrode included stripping of thin protective zinc coating in 15% solution of HCl; rinsing in distilled and pipe water. Electrochemical measurements were carried out in a double-cell with a separating glassy diaphragm, represented schematically in Fig.2.
+
+Fig. 2. Schematic view of the double-cell. An iron electrode was immersed into 0.05M acid potassium diphtalate solution (pH4.01) by one side of the diaphragm, and a chromated zinc panel was placed into other part of the cell in contact with artificial sea water of pH7 (g/l): NaCl ­ 27,4; MgCl2 ­ 3,8; MgSO4 ­ 1,7; CaSO4 ­ 1,2; K2SO4 ­ 0,9; CaCO3 ­ 0,1; KBr ­ 0,13. Artificial sea water induces the corrosion reaction on the chromated surface, so that the double-cell simulates an electrochemical battery and produces an external current, as a function of protective properties of the tested coating. Sea water has a greater buffering capacity as compared with 0.01M ZnSO4 used in original Paatsch method or 5%NaCl [12]. It provides a greater stability of anolyte and catholyte and increases their service life without replenishment.
+
+5
+
+Anodic and cathodic corrosion reactions are specially separated within the device and accessible to measurement. The current between a short-circuited steel electrode and a chromate zinc electrode was measured by multymeter VR-11A (Russia). It should be noted that the current value in the circuit depends on diaphragm resistance (Rd), calibrating resistor (Rres) of ammeter, solution resistance between the electrodes (Rsol), cathodic and anodic polarization. For different types of zinc coatings Rd, Rres, Rsol and cathodic polarization remain constant at measurements in comparative experiments. So the current value in the circuit will depend only on the anode polarization, that is the higher the current the lower is polarization. For instance, the short-circuit current is lower for zinc sample, which dissolves at higher anodic polarization (sample 2, Fig.3), hence it's higher corrosion resistance should be expected as compared to the sample 1.
+
+Fig.3. Schematic polarization diagram of the double-cell. As long as chromate films are porous, open-circuit potentials for different zinc coatings are defined by zinc exchange currents and are the same as a rule. So, assessment method by means of short-circuit current measurements is adequate for zinc samples with the same open-circuit potentials. It allows to carry out rather fast assessment of protective properties of chromate films. Table 3. Short-circuit currents in double-cell for different zinc and zinc-nickel samples, µA ( Double-side tested surface 70cm2). NonNoncyanide Noncyanide NonNonNoncyanide alkaline alkaline cyanide cyanide cyanide Time, alkaline zinc-nickel zincalkaline alkaline alkaline min (5% Ni) zinc nickel zinc zinc + zinc + + + (5% Ni) (bare) colorless I iridescent A black F iridescent A + black F 1 347 310 313 306 261 197 2 344 312 307 306 270 203 3 341 312 299 305 275 208 4 340 315 301 304 277 212
+
+6
+
+Table 4. White rust time in salt spray test, ASTM B-117-73. NonNonNonNonNonNoncyanide cyanide cyanide cyanide cyanide cyanide alkaline alkaline alkaline alkaline alkaline alkaline zinc zinc + zinc-nickel zinc-nickel zinc (bare) zinc + colorless (5% Ni) + (5% Ni) iridescent A I + black F + iridescent A black F 2 48 120 72 250 230 The data given in Tables 3 and 4 for zinc samples are in satisfactory correlation with white rust hours in salt spray chamber. On the other hand results, concerning zinc-nickel alloys does not correlate with salt spray test. It could be supposed in this case that Ag+ ions contained in the chromate film may lead to noble shift of the open-circuit potential and to change of kinetic characteristics of zinc oxidation partial reaction. Indeed, results presented in Table 5 show that Ag-containing compounds in chromate films define this value. Table 5. Open-circuit potential of zinc-nickel alloy in artificial see water, 25 oC, V (Ag/AgCl saturated electrode) Time, Non-cyanide alkaline zincNon-cyanide alkaline zincmin nickel (5% Ni) nickel (5% Ni) + + iridescent A black F 1 2 3 4 -0.924 -0.927 -0.929 -0.932 -0.891 -0.888 -0.886 -0.883
+
+Polarization diagram analysis for this special case allows to say that the measured currents can be equal, but open-circuit potentials at the same time can be significantly different (Fig. 4). It is possible if the anodic curve of the more noble electrode is characterized with a lower E/j value.
+
+Fig.4. Schematic polarization diagram of the double-cell for equal measured currents.
+
+7
+
+Therefore it can be concluded that in case of different values of the open-circuit potentials of the tested samples not only the short-circuit current values should be measured, but also (E/j) influence must be taken into consideration. Initial APC part extrapolation method As it was shown previously the anodic curve configuration, that is kinetic characteristics of anodic zinc dissolution through the chromate films pores influence the determination of corrosion properties of the coating at the whole. In our opinion corrosion currents determination in 5%NaCl can be used for corrosion properties assessment. Experimental results concerning corrosion currents values determination by Initial APC part extrapolation method are presented below. The polarization cell was made of a polymethylmetacrilate similar to Paatsch double cell and was separated with a glass diaphragm (see Fig.5a). To eliminate the influence of edges and corners of the tested panel, the panel was placed into the cassette made of polymethylmetacrilate, which consisted of an O-ring joint sealed to the tested specimen (working electrode) with a commercial screw-applied clamp. The anolyte and catholyte consisted of 5% sodium chloride solution made from distilled water and the reagent grade salt. The cassette with a tested electrode was immersed into one section of the cell, cadmium electrode being placed by the other side of the diaphragm. The exposed area was 19.6cm2 (diameter 5cm). This cell configuration was chosen as one that could be readily assembled in most plating shops for routine testing with a minimum of specimen preparation. It should be noted that this approach allows to obtain the APC without use of potentiostate in galvanostatic mode with a counter electrode more noble then zinc. All experiments were conducted with the electrolyte at equilibrium with atmospheric oxygen. Subsequently, holding time was allowed for 120 min to stabilize the corrosion potential before polarization initiated. A simple galvanostatic (constant current) polarization circuit was utilized consisting of a cadmium electrode connected through a large variable resistor and a ammeter to the specimen (Fig.5a). Futher the polarization cell design was improved as shown on Fig.5b, and external polarization was provided with 1,5V battery. The potential between the specimen and reference electrode (Ag/AgCl) was measured ±0.1mV with a digital DC voltmeter ORION EMG 1362-2 (Hungary) . For all polarization measurements polarizing current was increased from zero in steps, with the potential put down at steady state after 30 second at each current step. All the experiments were presented as anodic polarization curves in proposed coordinates. The values of jcorr and ba1 were found by simultaneous calculation by non-linear regression analysis of experimental anodic polarization curves according to () equation in Microsoft Statistics-99. 10...15 point values of anodic polarization curves were taken in order to increase the statistic authenticity of jcorr determination. Further determination of jcorr was carried out the following way: 1. Experimental values of ? , j were put into the table; 2. Non-linear regression parameters estimation was done by Quasi-Newton method, setting the iteration number­ 50...100, with iteration accuracy within 0,0001, iteration step for each parameter 0,5, initial value of each parameter 0,01. 3. Then jcorr and Tafel slope values were obtained with a multiple correlation coefficient more than 0.98.
+
+8
+
+?
+
+b
+
+Fig.5. Schematic view of the polarization cells: a) 1- tested panel; 2- sealed cassette; 3-exposed area; 4- reference electrode; 5-cadmium electrode; 6- cell; 7 ­ glass diaphragm; b) 1- sealed cassette; 2- graphite counter-electrode; 3- 5% solution of NaCl; 4 ­ plated steel panel; 5 - reference electrode
+
+9
+
+The example of processing of experimental anodic polarization curve (Fig.6a) by suggested method is shown below. The results, given in Fig.6b show that initial parts of the APC can not be linearized in Tafel co-ordinates. Application of proposed co-ordinates allows to linearize the experimental data and it's extrapolation on E=0 allows to obtain exact values of corrosion current (Fig.6c).
+
+i, µ? 100 90 80 70 60 50 40 30 20 10 0 0 10 20 30 ?? = -941,7mV
+
+i, µ? 100
+
+10
+?? = -941,7mV
+
+E, mV
+40 50
+1 0 10 20 30 40
+
+E, mV
+50
+
+a
+
+b
+
+10
+
+10
+
+j/(1-exp(-2,303 E/ba)), A/cm
+
+2
+
+1 0 5 10 15 20 25 30 35 40 45
+
+1
+
+jcorr = 1,36µ A/cm ba=59,4mV/dec. R = 0,99887
+
+2
+
+? ? -941,7mV
+
+0,1
+
+0,1
+
+j, A/cm
+
+ E, mV
+
+2
+
+c Fig. 6. Processing of typical galvanostatic anodic polarization curves for zinc coating obtained from bath II, chromating solution I.: a ­ in general coordinates, b- in half-logarithm coordinates, c- in suggested coordinates.
+
+10
+
+In this case statistically estimated average values of the curve points are shown on the straight line, where R ­ multiple correlation coefficient, reflecting the relationship authenticity between experimental point values and theoretical equation (). The R value, close to 1 allows to consider good accordance of used regression equation with experimentally measured values. All discussed results concerning zinc and zinc-nickel coatings were obtained by analogy. Summarizing all our experimental results it was found that after 24 hours immersion in 5%NaCl solution the differences in protective properties of chromate films become evident. The measured corrosion currents reveals good correlation with white rust hours in salt spray chamber (Fig.7).
+
+1,8 1,6 1,4 1,2 j corr, µ A/cm2 1 0,8 0,6 0,4 0,2 SST, hours 0
+
+Zn D-chromate
+
+Zn I-chromate
+
+Zn-Ni(5%Ni) D-chromate Zn A-chromate Zn-Ni(5%Ni) C-chromate Zn-Ni(12%Ni) A-chromate
+
+24 1,7
+
+48 1,19
+
+120 0,5
+
+160 0,3
+
+250 0,1
+
+500 0,03
+
+average jcorr from initial APC part extrapolation
+
+Fig.7. Corrosion currents after 24hours immersion in 5%NaCl and white rust hours correlation The corrosion protection action of chromate films has not yet been clearly explained. It is assumed that the relatively thick layer (up to several hundred nanometers) consists of the chromium (III) and zinc (II) hydroxides mixture and acts as a barrier to corrosion. In addition, in-built hexavalent chromium has self-healing properties, the species diffuse to damaged areas and actually recreate the protection layer via a reduction process. We assume zinc corrosion to be strengthened by the reaction 4Zno+2H2CrO4+4H2O 4Zn(OH)2 +2CrOOH+H2. Indeed, Cr(VI) compounds are usually comprised into the outer layer of chromate films and are able to dissolve from it during the immersion at corrosion solution. This way the self-healing effect is realized. Typical results for and colorless chromated zinc coatings are shown in Fig.6.
+
+11
+
+It is notable that the corrosion currents for zinc samples with colorless chromate are approximately 10 times lower, than for bare zinc (jcorr=10.6µA/cm 2), suggesting that passivated zinc has higher corrosion resistance. Comparison of experimental corrosion currents of zinc coatings with two different types of chromates (solutions A, D, I) is made by means of proposed method. The results presented in Fig.7 show that after 24 hours immersion in 5% NaCl solution corrosion currents of zinc coatings with colorless films are higher than those for the samples with. iridescent chromate. The corrosion current values in this case differs more then 10 times. It is well known that the structure and porosity of the film are the main factors that influence its' protective properties. The lower corrosion current values for iridescent chromates may be attributed to poor soluble corrosion products formation in the pores of thick iridescent films [15]. It results in limitation of oxygen diffusion to the surface of zinc coating. These experimental facts correlates with salt spray test results [7]. An alkaline zinc-nickel (5-9%Ni) has proven to be a functional substitute for zinc and cadmium electrodeposits. The characteristics of the developed plating process are given below in the Table 6. Table 6. OPERATION PARAMETERS Standard Range Bath Composition Zn Nickel Zn/Ni Ratio NaOH Na2CO3 Temperature - 0C Cathode Current Density (A/dm2) Anode Current Density (A/dm2) Plating Rate (µm/min) Plating Time for 8 um (min) Ni % (Range for Black Chromate) And Corrosion Resistance (Comparison with Zinc) 8 1.5 6 120 Less than 60 25 5 5 0.45-0.5 15-18 5-7.5 3 Times 8-10.5 1.3-1.6 5-8.1 90-150 0-60 23-27 2-10 5-7
+
+Operation Condition
+
+Property
+
+The proposed alkaline bath includes polyamines as the ligandes for nickel at the concentration approx. 15-20g/l. The solution has not any cyanide and oxalate ions. The current efficiency on steel at 5A/sq.dm is about 65% in fresh solution and about 50% in "old" bath (100Ah/l). Due to high cathodic current efficiency the bath can plate cast iron parts by Zn-Ni (4-6%Ni) alloy directly without zinc underlayer. The color of the bath is stable in a time (purple-violet). The concentration of carbonate (<65g/l) in "old" bath does not decrease the thickness of coating at low current densities. For decreasing the content of carbonates we used the freezing procedure during 72 h at +4 0C. For practical needs, it seems important to determine the corrosion behavior of Zn-Ni alloy coatings and also to recommend chemical formulations of chromating baths, tailored precisely to the type of protective coating. Experimental data clearly show that chromate film substantially decreases corrosion rates of Zn-Ni (5%Ni) alloy coatings. The chromate films with "bad" protective properties shows the highest corrosion currents. On the other hand it was found that different treatment
+
+12
+
+time in the same solution also influence the corrosion resistance of the coatings. The most resistant films are formed at 30 sec treatment in C-chromate solution. It should be noted that in all cases bright coatings have the lowest corrosion rates as compared to semi-bright coatings. Similar electrochemical experiments were carried out with Zn-Ni (12-15%Ni) coatings. In all experimental cases the matte and semi-bright coatings show the higher values of corrosion currents than the bright ones. The most plausible explanation of this fact is hypothesis of the increased roughness caused by the increase of kink atom concentration on polycrystalline surface. At the same time Zn-Ni (12-15%Ni) alloy coatings electrodeposited from weak acid bath V reveals the lowest corrosion currents among all investigated cases. This fact is in good accordance with salt spray test. It is noticeable that all current plots obtained by Initial APC part linearization have well defined Tafel slopes. So, for instance, in many cases the 0.04V value of the slope of anodic Tafel plot is typical for the zinc electrode and consistent with the multystep charge transfer with slow splitting-off the second electron. Another important aspect concerns the great sensitivity of proposed method which is able to detect instantly very small changes in the coating surface. Therefore these data are useful not only for electroplaters needs, but also for analysis of anodic dissolution mechanism in fundamental electrochemical studies. ACCOMPLISHMENTS The use of initial APC part extrapolation method instead of conventional electrochemical methods has resulted in a development of a simple and non-expensive tool for assessment of protective properties of chromate films. On the other side the suggested method can be useful for analysis of fundamental aspects of metals and alloys anodic dissolution. In the coarse of corrosion resistance assessment five basic metal systems were investigated. These were Zn coatings plated from acid and non-cyanide alkaline electrolytes; Zn-Ni alloy (5%Ni, 12-15%Ni) coatings, deposited from weak acid and noncyanide alkaline electrolytes, with different types of chromate passivation. It was shown that assessment of Zn-Ni alloy (5%Ni) coatings with black Agcontaining chromate films and those with iridescent ones by Paatsch method leads to inadequate results as compared to salt spray test chamber. It was surprisingly that at the initial stages of corrosion action of 5% NaCl corrosion rates of zinc with iridescent chromate film was higher then with colorless one. However after 24hour immersion of the samples the protective properties of these coatings became converse. The resultant protective properties of any coating can be assessed by use of this method. Other widespread metal and alloy systems such as zinc, cadmium, zinc-tin, zincchromium, zinc-manganese etc. should be studied to reveal all salient features of this method. In order to generalize the test conditions and interpretation of corrosion rates with respect to all anodic protective coatings many new tests need to be done because it would allow to make the method universal both for plating shop needs and fundamental researches. Development and design of the compact and portable device on the base of this method at the next stage of the project will be a real assistance to electroplaters.
+
+13
+
+ACKNOWLEGDMENTS The work reported in this paper was done with support of Small AESF grant ­2001. This funding is gratefully acknowledged. REFERENCES 1. Sarmaitis R.,Juzeliunas E. // Plating and Surface Finishing, 1991, V.78.-P.72. 2. Ramanauskas R.,Gudaviciute L.,Diaz-Ballote L.,Bartolo-Perez P.,Quantana P. //Surface and Coating Technology. 2001, V.140.- P.109. 3. Jelinek T.W. Galvanisches Verzinken. Eugen G. Leuze Verlag, 1982. ­286s. 4. Tuepfeltest und Chromatierung.//Galvanotechnik, 1993, Bd.84.-S.1226. 5. Sarmaitis R. // Plating and Surface Finishing, 1981, V.68.-P.60. 6. Sarmaitis R. // Plating and Surface Finishing, 1981, V.68.-P.83. 7. Popov O.G. Extended Abstracts of All-Union scientific conference "Galvanotehnika ­ 87", Kazan, Russia,1987.-P.117. 8. Pirmat A., Meszaros G., Lenguel B //Corrosion Science, 1993,V.4.-P.1147. 9. Boschkov N., Raitchevski G., Rashkov St. //Galvanotechnik, 1995, Bd.86.-S.2819. 10. Boschkov N., Raitchevski G., Rashkov St. //Galvanotechnik, 1995, Bd.86.-S.3195. 11. Barnartt S. //Electrochimica Acta. 1970, V.15.-P.1313. 12. Dobrev Ts., Monev M.,Krastev I.,Zlatev R., Raschkov St. // Galvanotechnik, 1996, Bd.87.-S.3605. 13. Dobrev Ts., Monev M.,Krastev I.,Zlatev R., Raschkov St. Bulgarien Patent ? 99469, 1995. 14. Paatsch E.W. //Metal Finishing. 1978,V.76.-P.15. 15. Mertens S.F.L., Temmerman E. // Corrosion Science. 2001, V.43.-P.301.
+
+14
+

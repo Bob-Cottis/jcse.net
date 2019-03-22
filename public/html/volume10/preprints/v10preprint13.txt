@@ -1,0 +1,196 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+Some Sulfated Water Soluble Natural Polymer(Carrageenans)
+Compounds as Corrosion Inhibitors for Dissolution of Iron in Hydrochloride Acid Solution K.S. Khairou and I. Zaafarany
+Chem. Dept. Faculty of Appl.Sci, Umm Al ­Qura University . Makkah Al Mukaramha .P.O.Box:118, Saudi Arabia
+
+Email : ishaq_zaafarany@yahoo.com Abstract: The effect of some sulfated water soluble polymer (carrageenan) compounds on the corrosion behavior of iron electrode in 1M hydrochloric acid solution as corrosive medium has been investigated using galvanostatic polarization technique. Some corrosion parameters such as anodic and catholic Tafel slope, corrosion potential, corrosion current density , surface coverage and inhibition efficiency was calculated. The polarization measurements indicated that the inhibitors are mixed type. The inhibition efficiency was found to increase with increasing concentration and number of sulfer atom per molecules. Inhibition was explained on basis of parallel adsorption of these compounds on the iron electrode. The adsorption process follows Langmuir adsorption isotherm. Keywords : Iron, Corrosion inhibitors, Adsorption, Carrageenas compounds
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+1
+
+ISSN 1466-8858
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+Introduction: The study of corrosion is of high practical and technological interest. Acids find applications in industrial acid cleaning, acid pickling, acid descaling and oil well acidizing. Inhibitors are commonly employed in these environments to minimize the base metal corrosion by the acids. The selection of appropriate inhibitors mainly depends on the type of acid, its concentration, temperature, velocity, presence of dissolved solids and the type of metallic materials involved. The important prerequisites for a compound to be an efficient inhibitor are: i) it should form a defect free, compact barrier film. ii) it should chemisorb on to the metal surface. iii) it should be polymeric polymerise in sites on the metal and iv) the barrier thus formed should increase the inner layer thickness. Most of the well-known inhibitors used for inhibition of iron in acidic medium are organic compounds containing nitrogen, sulpher and /or oxygen atoms[1-10]. It has been observed that most of the organic inhibitors act by adsorption on the metal surface[11]. This phenomenon is influenced by the nature and surface charge of metal, by the type of aggressive electrolyte and by the chemical structure of inhibitors. The aim of the present work in to study the effect of there compounds of sulfated water soluble natural polymer (carrageenan) compounds as corrosion inhibitors on the corrosion of iron in 1M HCl using galvanostatic polarization technique. Carrageenans compounds: Carrageenans are linear polymer of about 2500 galactose derivates with regular but imprecise structure dependent on the source and
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+2
+
+ISSN 1466-8858
+
+extraction conditions. The structural unit of these compounds are as follow:
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+Compound (I) Carrageenan (Kappa)
+
+Compound (II) Carrageenan (Iota)
+
+Compound (III) Carrageenan (Lambda)
+
+Experimental: Iron electrode having the chemical composition (%): 0.052C, 0.189 Mn, 0.008P, 0.011 S, 0.011 Si, 0.012 Cr, 0.029Ni, 0.04 Cu, 0.039 Al and the remainder is Fe, provided by the "Saudi iron and steel company" was used in the present study. The bottom end of the rod specimen with a mean surface area of 1cm2 was successively abraded with 1-,0- and 00emery paper, degreased with acetone and dried between filter paper then immersed in 100 ml of the test solution. Galvanostatic polarization measurements were carried out using mensberg potentiostat/galvanostat PS6 with controlling software (PS remote) was used for accurate measurements of potential and current
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+3
+
+ISSN 1466-8858
+
+density. Three compartment cell with a saturated calomel reference electrode (SCE) and a platinum foil auxiliary electrode was used.
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+4
+
+ISSN 1466-8858
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+Results and discussion Addition of different concentrations of carrageenans compounds on the galvanostatic polarization of iron electrode was studied in 1M HCl. Fig. 1 shows that the effect of compound III as a typical example. Similar curves were obtained for other compounds (not shown ). From these curves on can observe that at first transition region in which the potential increases (anodic polarization )or decreases (cathodic polarization) slowly with current density followed by a rapid linear increase of potential (Tafel region ). Transition region [12] which starts from the free corrosion potential and extends to the beginning of the Tafel region is characterized by the simultaneous occurrence of cathodic hydrogen evolution and anodic dissolution of metal. At the end of transition region there is a metal dissolution and the current becomes purely anodic (anodic polarization) or hydrogen evolution takes place with suppressing the metal dissolution and the current is purely cathodic (cathodic polarization ). The values of corrosion current density (Icorr.) was determined by the intersection of the extrapolated of the cathodic and anodic Tafel lines with the stationary corrosion potential (Ecorr.). The percentage inhibition efficiency (I.E) was calculated using the following equation. I.E. = (1Iadd )100 Ifree
+
+(1)
+
+where , Iadd and Ifree are the corrosion current densities in the absence and presence of the inhibitors, respectively.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+5
+
+ISSN 1466-8858
+
+Table (1) shows the effect of inhibitor concentrations on the
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+corrosion kinetic parameters such ad anodic and cathodic Tafel slops (a and c), Ecorr., Icorr., surface coverage  and I.E. An inspection of the results obtained from Table 1 reveals that, the increasing in concentrations of the additives compounds show the following: i) The corrosion potential (Ecorr) is shifted to more positive values and the corrosion current density (Icorr.) decrease with increasing inhibitor concentration indicates the inhibiting effect of these compound. ii) The valaues of anodic and cathodic Tafel slopes (a and c) are approximately constant which suggest the simple blocking of the available surface area of the metal by the inhibitor molecules. In other words, the adsorbed inhibitor molecules decreases the surface area available for the both metal dissolution and hydrogen evolution reaction without affecting the reaction mechanism[13]. Therefore, it could be concluded that the carrageenans compounds affect on both anodic and cathodic reaction (i.e)mixed inhibitors. iii) The values of IE was found to increase with increasing the inhibitor concentration. The inhibition achieved compounds decreases in the following order: compound III > compound II > compound I The inhibition effect of these compounds can be attributed to their parallel adsorption at the metal solution interface. The parallel adsorption is owing to the presence of one or more active centre for adsorption.
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+by these
+
+6
+
+ISSN 1466-8858
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+Adsorption isotherms
+Carrageenan compounds inhibit the corrosion process by the
+
+adsorption on metal surface,. Theoretically, the adsorption process can be regarded as a single substitution an "x" number of water molecules adsorbed on the metal surface[14] vis, I (aq) + xH2O  I(sur) + xH2O(aq) (2)
+
+where x is known as the size ratio and simply equals the number of adsorbed water molecules replaced by a single inhibitor molecules. The adsorption depends on the structure of the inhibitor,, the type of the metal and the nature of its surface, the nature of the corrosion medium and its pH value, the temperature and the electrochemical potential of the metal solution interface. Also, the adsorption provides information about the interaction among the adsorbed molecules themselves as well as their interaction with the metal surface. Actually an adsorbed molecules may make the surface more difficult or less difficult for another molecules to become attached to a neighboring site and multilayer adsorption may take place. Finally, various surface sites could have varying degrees of activation. For these reasons a number of mathematical adsorption isotherm expression have been developed to take into consideration some of non-ideal effects. The resulted inhibitive action of polymer compounds due to adsorption of its compounds on the iron surface making a barrier for charge and mass transfer between the metal and corrosive environment. As the concentration of polymer compounds increases, the fraction of iron surface covered by adsorbed molecules ( ) increases resulting in higher inhibition efficiency.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+7
+
+ISSN 1466-8858
+
+The degree of surface coverage ( ) was calculated using the
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+following equation :
+
+ = 1-
+
+Iadd Ifree
+
+(3)
+
+where Ifree and Iadd are the corrosion current densities in the absence and presence of the additive compounds, respectively. The value of  are reported in Table (1). The degree of surface coverage  was found to increase with increasing the concentration of additives. Attempts were made to fit  values to various isotherms e.g. (Frumkin, Temkin, Freundlich and Langmuir). The best fit was obtained with Langmuir isotherm according to the following equation.
+
+
+1-
+and rearranging it gives:
+C
+
+= KC
+
+(4 )
+
+
+
+=
+
+1 +C K
+
+(5 )
+
+where (C) is the concentration of additive is the equilibrium constant of adsorption. The plot of
+C 1 . The K
+
+
+
+against C gives a straight lines of intercept
+
+plots are shown for polymer compounds additives in Figure (2). The resulted straight lines from the above relation have almost the unit slopes. This indicates that, the adsorption of polymer compounds on the iron surface follows Langmuir adsorption isotherm and consequently, there is no interaction between the molecules adsorbed at the iron surface. The equilibrium constant of adsorption (Ka) in related to the standard free energy of adsorption (G*ads) by the relation [15,16].
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+8
+
+ISSN 1466-8858
+
+Volume 10 Preprint 13  - G*ads  1 Ka = exp   55.5  RT 
+
+29 September 2006
+
+(6)
+
+where R is universal gas constant, the value 55.5 is the concentration of water in the solution in mole. The values of Ka and G*ads of the inhibitors adsorbed on the iron surface were calculated and listed in Table (2). The standard free energy of adsorption is associated with water adsorption /desorption equilibrium which forms an important part in the overall free energy change of adsorption. It is clear that G*ads increases with increasing the size of molecules[13]. The negative values of G*ads obtained here indicated that the adsorption process of these compounds on the iron surface is spontaneous one. Conclusions: 1- Carrageenans compounds act as an inhibitor for corrosion of iron in 1M HCl solution. 2- The inhibition efficiency increases with the increasing the inhibitor concentrations, 3- The inhibition process is due to the adsorption of the inhibitor molecule on the iron surface. 4- The adsorption of carrageenans compounds on the iron surface follows Langmuir adsorption isotherm. References 1- S. A. Abd El ­Maksoud: Corros. Sci., 44, 803 (2002).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+9
+
+ISSN 1466-8858
+
+2- S. S. Abdel Rehim, K. F. Khaled and N.S. Abd El ­Shafi: Electrochim Acta. 51 (16), 3269 (2006).
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+3- S.A.Abd El. Maksoud:Appl. Surf. Sci., 206, 129 (2003). 4- C. Jeyaprabha, S. Sathiyanarayanan and Electrochim Acta, 51 (19), 4080 (2006). 5- A. Chetouani, B. Hanrmouti, T. Benhadda and M. Daoudi, Appl. Surf. Sci., 249 (1-4). 375 (2005). 6- K.F.Khaled: Appl. Surf. Sci., 230, 307 (2004). 7- K.C. Emergül and O.Atako: Materials Chem. and Phys., 82 (2-3), 373 (2004). 8- K. F. Khaled : Electrochim Acta, 48 ( 17), 2493 (2003). 9- D. Chebabe, Z. Ait Chikh, N. Hajjaji, A. Srhiri and F. Zucchi: Corros. Sci., 45 (2) , 309 (2003). 10- S. A. Abd El ­Maksoud : Corros. Sci., 44 (4) 803 (2002). 11- M. Abdallah : Materials Chem. and Phys., 82, 786 (2003). 12- I. Epelbion, P. Morel and H. Tokenout: J. Electrochem. Soc., 118, 1282 (1971). 13- E. Blomgern, J. O. M. Bockris and C. Jesech: J. Phys. Chem., 65, 200 (1961). 14- B.T.Lu, Z.K.Chen, J. L. Luo, B. M. Patchett and Z. H. Xu: Electrochim Acta, 50(6)139 (2005). 15- M. Kliskic. J. Radosevic and Gndic: J. Appl. Electrochem. 27, 947 (1997). G. Venkatachari:
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+10
+
+ISSN 1466-8858
+
+16- M. Abdallah :Bull of Electrochem. 16 (6) , 258 (2000).
+
+Volume 10 Preprint 13
+
+29 September 2006
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+11
+

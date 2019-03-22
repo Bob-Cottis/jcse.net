@@ -1,0 +1,164 @@
+Volume 6 Paper H056
+
+Multi-Zone Internal Precipitation Reactions
+D.J. Young
+
+School of Materials Science & Engineering, University of New South Wales, Sydney NSW 2052, Australia, d.young@unsw.edu.au
+
+Abstract
+The kinetics and morphological development of internal precipitation zones are reported for Fe-Ni-Cr alloys subjected to carburisingoxidising and carburising-nitriding gases and for Ni-Cr-Al alloys exposed to oxidising-nitriding gases, all at 1000oC. In all cases, successive zones of different precipitates formed in a sequence reflecting thermodynamic stabilities, providing that the oxidant forming the less stable precipitate diffused faster than the other reactant. Thus carbides formed beneath subsurface oxides, as did nitrides, but nitrides did not form beneath near-surface carbides. The the surface, then Al2O3, then AlN, then AlN + Cr2N and finally AlN, reflecting the relative stabilities of chromium and aluminium compounds together with solute thermodynamic interactions. It is shown that prior formation of a precipitate followed by conversion to a more stable one can alter both the shape and the volume fraction of the final reaction product, substantially affecting the severity of the corrosion reaction. Keywords: Oxidation, carburisation, nitridation, high temperature, alloys, diffusion. Ni-Cr-Al alloys formed more complex sequences : Al2O3 + Cr2O3 near
+
+Introduction
+If an alloy fails to form a stable protective scale, then a gaseous corrodent species can dissolve in the alloy, diffuse inwards and react preferentially with solute metals to form internal precipitates. This process of "internal oxidation" can occur if the oxidant involved has an activity too low to react with the alloy solvent component. Internal simple case of a single corrodent producing small, discrete precipitates of a very stable reaction product. If diffusion of the solute metal can be neglected, the rate at which the precipitation zone deepens is described by:
+X 2 = 2k p t
+
+oxidation kinetics have been successfully modelled [#ref 1,2] for the
+
+(1) (2)
+
+kp
+
+=
+
+ NoDo  Nm
+
+Here, case X is the precipitation depth formed in time, t , Do and No are the diffusion coefficient and surface concentration (mole fraction) of oxidant, N m is the initial alloy reactive metal solute content,  is a labyrinth factor reflecting diffusional blocking by precipitates, and  is the stoichiometric factor for the precipitate MO  . Internal precipitation studied and the success of the above description well established. resulting from reaction with a single oxidant has been extensively
+
+Heat resisting alloys are commonly used in service environments containing a number of oxidants. For example, combustion of various fossil fuels produces atmospheres which can be oxidising, carburising, sulphurising and/or nitriding depending on fuel/air stoichiometry. Also important is the petro chemical industry in which strongly carburising and mildly oxidising gases are handled at high temperatures.
+
+2
+
+Relatively little information is available for the situation of practical interest, where internal attack by more than one oxidant occurs. A number of qualitative observations have been made, but kinetic data is scant. On the other hand, a theoretical prediction of multi-zone internal precipitation kinetics was provided some time ago by
+
+Meijering [#ref 3]. Assuming no interaction between the solutes in the alloy, and no intersolubility between the precipitate compounds, the theory predicts formation of discrete precipitate zones, each of which widens parabolically. For the dual oxidant case, the rate of advance of the inner precipitation front is given by the expression:
+ 1 N1 D 1 ND + 222  1 Nm  2 Nm
+
+kp
+
+=
+
+(3)
+
+where the subscripts 1 and 2 refer to the two reactant species. The separate precipitated zones, are predicted by the theory to occur in order of thermodynamic stability, with the more stable phase at the surface, and the less stable at greater depth. The reason for this ordering is as follows. At the surface the solute metal activity will be low and the activities of the oxidants high. Consequently the precipitate formed will be the more stable one. Beneath the surface, this precipitate will continue to form in preference to the other possibility for so long as the reactant activity is high enough. If the second reactant has significant permeability in the depleted subsurface alloy matrix, it will penetrate the first precipitate zone, and result in the activity of the second reactant exceeding that of the first, beneath this zone. In this event, the second phase will precipitate ahead of the first precipitation front.
+
+Equations (2) and (3) refer to the situation where the reacting metal solute is essentially immobile. If, however, the solute has a significant mobility, it will diffuse towards the surface and enrich within the precipitation zone. This effect has been accounted for by Gesmundo and Niu [#ref 4]. The qualitative success of Meijering's model has been demonstrated [#ref 5] using commercial, heat resisting alloys. However, those 3
+
+experiments involved simultaneous scale growth, and the results are therefore difficult to interpret. The purpose of the present work was to investigate internal precipitation by dual oxidants in the absence of scale formation.
+
+Experimental
+A commercial stainless steel grade 304, and model iron- nickelchromium and nickel- chromium- aluminium alloys, were used. Composition are shown in Table 1. Table 1 Alloy compositions (wt.%) Alloy SS304 Fe-Ni-Cr Ni-Cr-Al Fe Bal Bal Ni 8.7 20.0 Bal Cr 17.6 25.0 31.3 7.6 Al Other 0.8Mn, 0.6Si
+
+The stainless steel was cut into coupons, which were mechanically ground to an 800 grit surface finish and subsequently chemically etched to remove the work hardened surface region. The ternary alloys were prepared by agon are melting using non-consumable electrodes. Alloyed buttons were remelted several times and subsequently annealed at 1000ºC for 120 hours under a flowing Ar-10%H2 mixture. Samples of these materials were ground to a 1200 grit finish and ultrasonically degreased in acetone immediately prior to use. Oxidation-carburization of the commercial materials was carried out at T = 700ºC in flowing CO/CO2 gas mixture. This mixture was adjusted so as to yield a supersaturated carbon activity of seven and oxygen partial pressure of 1 x10­23 atm. Carbon was not deposited on inert surfaces within the reaction apparatus, demonstrating that the gases did not equalibrate, but remained supersatured. The oxygen potential was sufficient to oxidise Cr, but not Fe or Ni. Reaction was carried out under temperature cycling conditions (45 min at reaction temperature and 15 min at ambient), in order to promote protective scale breakdown.
+
+4
+
+Oxidation-nitridation of the Ni-Cr-Al alloy, was carried out in still laboratory air at 1100ºC using temperature cycling conditions. Carburization-nitridation experiments were carried out at 1000ºC in a gas mixture of 89% N2, 10% H2, and 1% C3H6. Unit carbon activity was achieved as demonstrated by carbon deposition within the reactor. It 89% Cr, 1% C3H6, and nitridation in 90% N2, 10% H2 followed by surface scale was formed.
+
+was necessary also to carry out carburization alone, in a gas of 10% H2
+
+carburization. These reactions were carried out isothermally, as no
+
+Results and Discussion
+Oxidation-Carburization Selective oxidation of chromium led to the growth on SS304 of an external scale consisting mainly of Cr2O3 with some spinel. Repeated thermal cycles led to scale breakage and spallation as shown by periodic weight losses. Rehealing of the protective scale led to depletion of chromium from the alloy surface. At 700ºC, metal diffusion within the alloy was slow, and removal of chromium from the alloy subsurface region could not be compensated by diffusion from the alloy interior. Repeated scale damage events led to further lowering of the chromium concentration until not enough remained to internally. reform an external Cr203 scale. At that point the alloy was attacked
+
+Metallographic cross sections of reacted SS304 revealed that it had sustained internal attack. An example is shown in Fig.1. The internal precipitates were identified as oxides in the subsurface region ( spinel near the surface and Cr203 at greater depths), and carbides in the deeper zone. The carburization process was rapid, reaching a depth after 528 cycles of 520 µm. Similar reaction morpnologies were observed at 650 and 750ºC [#ref 6]. Oxygen and carbon can both dissolve in SS304 and diffuse within it much more rapidly than alloy metal components. In the absence of a protective scale, gas access to the alloy led to inwards diffusion of 5
+
+100 µm
+
+Fig. 1. Type 304 stainless steel after cyclic oxidation-carburisation for 528 cycles. oxygen and carbon, both of which reacted with alloy solute chromium, to form internal precipitates: 2Cr + 3O = Cr2O3 23Cr = 6C = Cr23C6 7Cr23C6 + 27C = 23C7C3 The very rapid penetration rates clearly reflect high permabilities of the alloy for oxygen and carbon. Unfortunately, the necessary data is not available with which to test the applicability of equation 3. The location of the oxide zone, immediately beneath the alloy surface, with the carbides at greater depth, is as expected from the fact that the conversion of carbide to oxide Cr2O3 is much more stable than the carbides. It is a consequence of (4) (5) (6)
+
+2Cr7C3 + 21O = 7Cr2O3 + 6C
+
+(7)
+
+6
+
+which is thermodynamically favoured at high dissolved oxygen concentrations. These existed near the surface, but not at greater depths. The very finely dispersed internal oxide reflects the in situ according to reaction (7). conversion of prior carbides, which were themselve finely dispersed,
+
+The penetration of carbon past the internal oxidation front can only occur if DcNc > DoNo . Measurements of these quantities have not been carried out at such a low temperature. However, extrapolation of high temperature data for carbon [#ref 9,10] and oxygen [#ref 11,12] leads to the estimates DcNc  10-11 cm2 s-1 and DoNo  10-15 cm2 s-1 for carburisation zone is thereby explained. ac = 1 and pO2 = 10-23 atm. The development of a deep
+
+The almost continuous oxide bands formed near the surface were a result of the large precipitate volume fractions. Approximating that all alloy chromium was precipitated, and using mole volumes of 29.1, respectively, the volume fractions precipitated within SS304 were calculated and the results are shown in Table 2. With the usual criterion of fv  0.3 for formation of a continuous product, it is concluded that dispersions of carbide precipitates are to be expected, dispersed Cr2O3 is possible if not all chromium is precipitated, and that continuous regions of subsurface spinel are explained simply by the increase in oxide volume accompanying conversion of Cr2O3 to spinel. Table 2 Calculated precipitate volume fractions and volume change (SS304) Precipitate FeCr204 Cr2O3 Cr7C3 Cr23C6 fv 0.45 0.21 0.20 0.32 45.0, 57.8, and 181.9 cm3 mol-1 for Cr2O3, FeCr2 O 4, Cr7C3 and Cr23C6
+
+ V(%)
+40 21 3 3
+
+Reaction of SS304 with the CO/CO2 gas mixture, led not only to internal precipitation but to roughening and pitting of the surface. This surface disintegration cannot be attributed to the metal dusting 7
+
+process, [#ref 7,8] which involves deposition of carbon on the surface. No carbon was ever observed on the reacted metal surfaces. Instead, the disintegration is attributed to the unusual mode of oxidation and consequent volume expansion.
+
+scale because of the large alloy chromium content. After a sufficient number of thermal cycles, that process became impossible because the alloy surface had been depleted of chromium. From that point on, internal attack by carbon and oxygen occurred. Carbon rapidly diffused into the steel, precipitating internal carbide. Further carbides caused substantial volume expansion. From the mole volumes of the precipitate phases and assuming still that all of the chromium in SS304 is precipitated, the expected volume expansions were calculated, and the results are shown in Table 2. They show why large volume fractions of internal carbides can precipitate within austenite. Subsequent oxidation led to insitu conversion of those precipitates and formation of a very large internal oxide volume fraction. The calculated volume expansions are large, implying the development of a high mechanical stress. This stress would have been accentuated by thermal cycling, leading to mechanical failure, and the observed surface damage.
+
+Normally, oxidation of SS304 leads to formation of a Cr2O3 external
+
+subsequent oxidation of the remaining chromium and the chromium
+
+Oxidation-Nitridation
+Cyclic oxidation kinetics [#ref 13] showed that the alloy lost substantial weight over the first hundred and fifty cycles, and then experienced a slow weight increase. Examination of the oxidised surface confirmed that scale spallation was extensive. X-ray diffraction analysis of the surface showed that  -nickel was the major component along with small amounts of Al203, Cr2 O 3 and NiCr2O4. Metallographic cross-sections of the reacted alloy revealed large quantities of internally precipitated corrosion products, as seen in Figure 2. Large irregular shaped oxide precipitates were located immediately beneath the alloy surface, and faceted and needle-like nitride precipitates were located at greater depths. Microprobe 8
+
+100 µm
+
+Fig. 2. Ni-Cr-Al alloy after oxidation-nitridation for 260 cycles. analysis of the precipitation zone showed [#ref 13] that precipitate phases were arranged in a complex way: Al2O3 and Cr2O3 beneath the surface, followed by Al2O3 then AlN, then AlN + Cr2N and finally AlN alone at the reaction front. The metal matrix in the precipitation zone was single phase  -nickel and alloy transformation fronts near the precipitation front are clearly visible in Figure 2. Aluminium and chromium were both depleted from the  -matrix, aluminium almost completely and chromium less severely. Clearly, scale formation and spallation led to weight losses, which were eventually offset by the weight gains associated with massive internal precipitation. The selective formation of Al2O3 and Cr2O3 led to depletion of these elements from the alloy subsurface zone. This depletion led eventually to formation of the  -phase. This phase possesses a high oxygen permeability [#ref 11], which together with the loss of protective scale, led to rapid oxygen entry and internal precipitation. 9
+
+The distribution of precipitates within the alloy, is generally in agreement with the predictions of Meijering. After an initial period during which aluminium and chromium were depleted from the alloy surface, nickel oxide formed, and controlled the oxygen potential at rendered it permeable to nitrogen, establishing an effective surface the alumina and chromium are both much more stable than the nitrides of either aluminium or chromium, and the oxides formed in diffusion oxygen was maximum at the surface and decreased with depth into the alloy. The pattern of oxide precipitation reflects this, with both Al2O3 and Cr2O3 precipitating together near the surface, but only Al2O3 at greater depths, where the oxygen activity was low. The interface between oxide and nitride precipitation zones corresponds to the reaction 2 AlN + 3O = Al2O3 + 2N It was calculated [#ref 13] that this equilibrium is sustained by NN > 3.6 x 10-11, a value sufficient to precipitate AlN, but not the less stable Cr2N. This explains the appearance of a zone containing only AlN immediately beneath the oxide precipitation front. At greater depths, where Ncr was somewhat higher, Cr2N precipitated together with AlN. An important factor leading to the stabilisation of Cr2N was the strong thermodynamic interaction between dissolved chromium and nitrogen [#ref 14] this leads to apparent "uphill" diffusion of nitrogen from a low concentration in the pure nickel metal at the surface, to higher concentrations within the alloy, driven by the chromium gradient. This same phenomenon has been observed [#ref 15] in the reaction between Ni-Cr alloys and nitrogen alone. At still greater depths, the concentration of inwardly diffusion nitrogen was further decreased, and Cr2N could no longer precipitate, but AlN was still stable. Thus, the entire sequence of precipitation zones reflects local thermodynamic equilibrium with the two inwardly diffusion oxidants, just as predicted by Meijering. (8) preference to the nitride at the alloys surface. The activity of inwardly the oxide-alloy interface. Frequent damage to this scale would have nitrogen partial pressure of 0.8 atmosphere. Under these conditions,
+
+10
+
+Internal precipitation kinetics have been measured [#ref 13]. Both oxide and nitride precipitation zones, were found to widen according to parabolic kinetics during the first 25h, prior to mechanical damage to the reaction zone. The principal qualitative prediction of the Meijering theory is thereby confirmed. In this case, it is expected that equation (3) should provide an estimate of the rate constant. Using to be defined by the Ni/NiO equilibrium, the oxygen permeability DoNo in nickel, is estimated at 1 x 10-11 cm2 s-1. A recent estimate of DNNN [#ref 14] yields a value of 10-10 cm2 s-1 in Ni-20Cr. The condition for nitrogen penetration is seen to be met for most of the internal precipitation zone width. Applying equation (3) to the aluminium precipitation case with the above permeabilities, a value of kp = 7 x 10-10 cm2 s-1 was calculated. This is in close agreement with the measured quantity, 6.5 x 10-10 cm2 s-1. measured values, [#ref 11,12] and taking the surface oxygen potential
+
+Carburisation-Nitridation A cross-sectional view of the Fe-Ni-Cr alloy, after exposure to the carburising-nitriding gas is shown in Figure 3. The precipitation zone grew according to rapid parabolic kinetics [#ref 16] and consisted of two zones in which the precipitates where identified by electron diffraction as chromium-rich M7C3 near the surface, and chromiumrich M23C6 at greater depths. No nitride precipitates where found. The microstructure and its rate of development were in fact exactly the same as produced by carburisation alone [#ref 17]. This is to be expected, given that the chromium rich carbides are more stable than Cr2N, and that the nitrogen permeability DNNN  8 x 10-11 cm2 s-1
+
+whereas, DcNc  9 x 10-10 cm2 s-1 . The nitrogen cannot affect the
+
+carburisation process because it cannot penetrate the carburised zone. A nitrogen effect on carburisation can be brought about if the alloy is first nitrided and then carburised. The results of nitriding the alloy for 11
+
+20µ M 7 C3 M23C6
+
+Fig. 3. FIB image of sample carbonitrided for 22.5 min. 10 minutes, followed by carburising for 30 minutes, are shown in Figure 4. Again the reaction products consist of chromium rich M7C3 adjacent to the alloy surface, and chromium rich M23C6 at greater depths. However, the morphology of the M23C6 precipitates is now quite different. They are now of lamellar form, orientated approximately normal to the alloy surface. Furthermore, at the reaction front, a high angle boundary had developed between the as yet unreacted austenite, and the chromium-depleted austenite in the precipitation zone. A transmission electron microscopy investigation, [#ref 18] established that the M23C6 precipitates had a "cube-oncube" orientation relationship with the austenitic matrix. Growth of the M23C6 platelets was constrained in direction by the availability of reactant carbon and chromium. An average growth direction normal to the sample surface minimised oxidant diffusion directional growth, coupled with the formation of orientated precipitate/matrix interfaces, meant that a recrystallisation process in the austenite at the precipitation front was necessary. The resulting interface between parent and product austenite grains was incoherent, allowing the grain boundary to advance rapidly and to deliver chromium to the growing carbide platelet tips. The grain boundary was formed during the initial nitridation stage, which also developed a platelet precipitate methodology. This boundary continued to function during subsequent carburisation. Carburisation alone, did not produce such boundary, reflecting a different result in the competition between growth of existing 12 distances to the relatively immobile chromium. This essentially uni-
+
+M7C3
+
+M23C
+
+Fig. 4. FIB image of sample nitrided 10 min, then carburised 30 min. Markers spaced at 30 µm intervals.
+
+precipitates and nucleation of new ones. The greater stability of the carbide is thought to be an important factor influencing the preference for new precipitate nucleation over platelet growth. This preference is, however, overcome at a grain boundary, such as that produced by prior nitridation.
+
+Conclusions Three examples of multi-zone internal precipitation reactions, involving dual oxidants have been studied. In all cases, the different precipitated zones were arranged in a sequence corresponding to the relative thermodynamic stabilities of the reaction products, and the gradients in oxidant activity. The less stable precipitates were formed only if the permeability of the less reactive oxidant exceeded that of the more reactant one. The separate zones of different precipitates, all grew according to parabolic kinetics, confirming the qualitative prediction of the Meijering theory. In the one case, where quantitative comparision was possible (oxidation-nitridation), the prediction was found to be accurate . Conversion of a less stable precipitate into a more stable compound, by reaction with a different oxidant, was found to affect the reaction 13
+
+morphology significantly. Thus, carburisation of a high chromium content stainless steel, led to internal oxidation of that material, whereas, oxidation alone would produce external scaling. Prior nitridation of Ni-Cr-Al alloys, led to subsequent formation of spheroidal Al2O3 precipitates, rather than the more common acicular particles. Prior nitridation of Fe-Ni-Cr, led to development of a grain boundary at the reaction front, which subsequently supported the growth of a carbide precipitate array.
+
+References
+!ref1 !ref2 !ref3 C. Wagner, Z.Elektrochem., 63, 772 (1950). R.A.Rapp, Corrosion, 21, 730 (1965). J.L.Meijering, in "Advances in Materials Research", 5th ed., H.Herman ed (Wiley-Interscience, New York, 1971). !ref4 !ref5 !ref6 F.Gesmundo and Y.Niu, Oxid. Met., 51, 129 (1999). D.J.Young and S.Watson, Oxid. Met., 44, 239 (1995). M.Hänsel, C.A.Boddington and D.J.Young, Corros. Sci., 45, 967 (2003). !ref7 R.F.Hochman, Proceedings 4th Int. Cong. Metallic 1972). !ref8
+
+Corrosion, N.E.Hammer, ed. P258 (NACE, Houston, TX,
+
+H.J.Grabke, R.Krajak and E.M.Müller ­ Lorenz, Werkst. Korros, 44, 89 (1993).
+
+!ref9
+
+T.Wade, H.Wada, J.F.Elliot and J.Chipman, Met.Trans., 2, 2199 (1971).
+
+!ref10 !ref11
+
+SK.Bose and H.J.Grabke, 2.Metall., 69, 8 (1978). J.-W. Park and C.J. Altstetter, Met. Trans. A, 18A, 43 (1987).
+
+14
+
+!ref12
+
+J.H. Swisher and E.T. Turkdogan, Trans. AIME, 239, 426 (1967).
+
+!ref13 !ref14 !ref15
+
+S.Han and D.J.Young, Oxid. Met., 55, 223 (2001). U.Krupp and H.-J. Christ, Oxid. Met., 52, 277 (1999). A.A.Kodentsov, M.J.H.van Dal, J.K.Kivilahti and F.J.J.van Loo, Ber.Bunsenges. Phys. Chem., 102, 1326 (1998).
+
+!ref16
+
+S.I.Ford, P.R.Munroe and D.J.Young, Mater. High Temp. 117, 279 (2000).
+
+!ref17
+
+M.Udyavar and D.J.Young, Corros. Sci., 42, 861 (2000).
+
+15
+

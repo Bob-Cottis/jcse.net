@@ -1,0 +1,355 @@
+Volume 6 Paper C034
+
+Passivation and Dissolution of Magnesium
+M. Gonzalez-Torreira, A. Fones, and A. J. Davenport
+
+Metallurgy and Materials, The University of Birmingham, Edgbaston, Birmingham B15 2TT, A.Davenport@bham.ac.uk
+
+Abstract
+In this work passive oxide film growth was studied using galvanostatic physically (99.99%). The data were found to fit the Cabrera-Mott model, giving a reasonable value for the activation distance. The crystallographic orientation of substrate grains was found to have some effect on dissolution and preliminary experiments suggest that it also affects film growth kinetics. The effect of different ions and pH on film dissolution was also studied. A film was grown galvanostatically and the current allowed to decay to steady state. Then different ions were added while the current response was measured. This method was found to be very useful and different environments. Keywords: Magnesium, passivation, dissolution, EBSD reliable in order to assess susceptibility of magnesium to corrosion in measurements on commercial purity magnesium
+
+Introduction
+When a metal is in contact with an aqueous environment, it spontaneously reacts to form an oxide or hydroxide layer, whose growth is controlled by the migration of ions. Pure Mg forms a passive film that is very stable at high pH. The aim of this work is to determine the film growth kinetics, and how it is affected by the crystallography of the substrate and solution chemistry. The early stages of oxide film growth on Mg in well-defined gaseous atmospheres has been studied
+
+by several authors [1-6]. Hayden et al. [1] found an epitaxial relationship between the surface and the oxide. The passive layer formed on Mg in contact with an aqueous environment has also been studied by several authors [7-12] and found to be a mixture of MgO and Mg(OH)2. TEM studies [9] showed that when Mg is exposed to water, the passive film is formed in a three layer structure, being composed of a hydroxide layer of a few micrometres on top of a thin, dense MgO layer. This MgO was found to be on top of a cellular-like layer. The rate of growth of passive films is commonly measured by potentiostatic methods, where current transients are studied at a fixed potential. However, in order to compare the predictions of different film growth models, it is necessary to know the initial state of the surface and to take into account the iR drop in the solution, which can vary significantly through the early stages of the current decay [13]. This problem disappears with the use of galvanostatic techniques, where the iR drop is constant throughout the experiment and it is not necessary to know the initial state of the metal surface [14]. There are several proposed mechanisms to describe the growth of oxide films. The most widely known is "high field kinetics", which was developed on the assumption that when a potential is applied across a the species by an amount proportional to the activation distance a and film, the electric field lowers the activation energy  for migration of the charge on the mobile ion z. Verwey [15] assumed that the rate-
+
+limiting step was the movement of ions within the film, whereas Cabrera and Mott [16] proposed that the rate-limiting step was the entry of ions into the film at the metal/film interface. Whichever the assumption used is, the two proposals yield the same expression at high electric fields [13]:  BV i = A exp q  Where     (1)
+
+i is the current density, V the potential across the metal/solution interface, q the charge passed in growing the film and A and B are constants that depend on temperature. The expression for
+B is: 2
+
+B=
+
+zeazmol F k BTM
+
+(2)
+
+zmol is the charge on a mole of oxide, F is Faraday´s constant,  is the density of the film, kB is Boltzmann´s constant, T is the absolute temperature, and M, the molar mass of the oxide.
+There are two main assumptions for the use of equation 1: firstly the electric field must be high enough to avoid taking the reverse reaction
+
+Where z is the charge on the mobile ions, e is the electronic charge,
+
+into account, specifically BV>>q (for two digit accuracy, BV/q>>2.3 [13]). The second assumption is that there is no significant dissolution. This is necessary so that it is possible to use q in place of
+zmol Fx M
+
+the passive film thickness x through the following expression:
+q=
+
+(3)
+
+There is another film growth mechanism proposed by Macdonald and co-workers. It is called the "point defect model", and considers the electric field to be constant within the film [17]. It also assumes that the growth rate is controlled by the reactions at the metal/film interface, like the Cabrera-Mott model. However they attribute the current decay at a fixed potential to a decrease in the potential drop at the metal/film interface, rather than to a decrease of the field strength when the film thickens as postulated in the Cabrera-Mott model [18]. It is possible to rearrange and differentiate equation 1, assuming that dissolution. The term t0 takes into account the presence of an initial film on the surface. This yields the following expression: for galvanostatic film growth q=i(t+t0) for the case of negligible
+
+dV i i = ln  dt B  A
+
+(4)
+
+This expression indicates that the rate of voltage increase with time is a constant for a given current density, and the iR drop is only reflected by a constant offset in the voltage. Rearranging this expression yields:
+
+1 dV 1  i  = ln  i dt B  A
+
+(5) 3
+
+From which it can be seen that a plot of 1/i(dV/dt) vs. ln (i) should yield a straight line.
+
+In the case of the point defect model, and assuming no dissolution, it is possible to obtain the following expression [18]:
+
+  M o i = Fk 2 ´` exp  2  (1 -  )V -  2  (  H +  o / s ) - 2 f  z mol F 
+(6)
+
+ q  
+
+Where i, F, V, M, q, zmol, and  have the values defined above and the remaining parameters are constant. This expression can be arranged and differentiated [14]:
+
+1 dV M = i dt zmol F(1 -  )
+
+(7)
+
+Where  is the electric field that is considered constant and (1-) a constant relating to the fraction of the applied voltage across the metal/film interface. Therefore a plot of 1/i(dV/dt) vs. ln (i) should yield a horizontal line. Thus it is possible to distinguish between this model and the CabreraMott model by plotting the above expressions. The effect of crystallographic orientation on the electrochemistry of metals has been already studied by several authors [2, 19-21]. In this work, an assessment of the effect of the crystal grain orientation on both dissolution and passivation of magnesium has been carried out using electron back scattering diffraction (EBSD), atomic force microscopy (AFM) and microelectrochemical techniques. As mentioned above, Mg forms a Mg(OH)2 layer on its surface when in contact with aqueous environments. This layer becomes very stable The effect of different solution chemistries on Mg has been studied by a number of authors [22-25]. It is well established that Cl- ions are very aggressive whereas F- is a good corrosion inhibitor, but the level of damage or protection depends strongly on the solution pH [22]. 4 above pH 10.5, which is the pH of a saturated Mg(OH)2 solution [22].
+
+Experimental Method
+Polycrystalline samples of high purity Mg plate (99.99% Advent polished to 4000 SiC paper, then masked with insulating lacquer to expose a known area, and dipped in 0.2 M citric acid for 30 seconds just before each experiment. This treatment was performed to dissolve the oxide layer formed on the surface and thus have the same surface condition in every experiment. Research Materials Ltd.) were used in this work. Specimens were
+
+The solutions were made with de-ionised water, and the pH was raised with NaOH. A saturated calomel electrode (SCE) was used as reference electrode. For those measurements where the absence of chloride was required, a saturated sulphate electrode (SSE) was used. In order to avoid scatter due to differences in area, the same sample was used for each set of experiments. The experiments carried out were as follows: In order to assess the oxide growth kinetics, galvanostatic
+
+experiments were carried out. A constant current was applied while the potential was monitored with time. To study the effects of additions of different ions and pH on the passive layer, a film was grown galvanostatically and then a fixed potential was applied. When the steady state was reached, i.e. the current was constant with time, different ions were added in known quantities. The pH was also monitored continuously. Electrochemical measurements on single grains were performed using a microelectrochemical cell, where a glass capillary was coated with silicon rubber at the top as illustrated in Fig. 1. Details of this device can be found elsewhere [26]. EBSD was used to map the crystallographic orientation of single grains and AFM was used to map the surface after the etching in order to measure the level of dissolution of single grains.
+
+5
+
+Fig. 1 Picture of the microelectrochemical cell. Top left: detail of a grain where the tip has been placed for a measurement.
+
+Results and Discussion
+Oxide Film Growth Galvanostatic experiments were carried out in a NaOH solution, pH 13. Such a high pH solution was chosen as at pH 13, the dissolution is negligible, which is one of the conditions required to compare the two kinetic models. Fig. 2 shows typical voltage/time transients for a Mg sample. The voltage increased linearly from approximately -1.5 V (SCE) up to around 1 V.
+
+Fig. 2 Voltage/time transients for galvanostatic oxide film growth on Mg in NaOH pH 13.
+
+6
+
+The gradient (dV/dt) of the above curves is plotted in Fig. 3 as a with increasing applied current density.
+
+function of the applied current. As expected, the dV/dt values increase
+
+Fig. 3 Plot of dV/dt vs i for Mg in NaOH pH 13. The solid line shows the linear fit.
+
+A plot of 1/i(dV/dt) vs. ln (i) is shown in Fig. 4. It is clear that it follows a linear dependence that correlates with the Cabrera-Mott model rather than with the point defect model. From the linear fit of this plot, it is possible to calculate the activation distance using Equation 2. The film growth parameters are presented in Table 1.
+
+Fig. 4 Plot of 1/i(dV/dt) vs. ln (i) for Mg in NaOH pH 13 during galvanostatic oxidation.
+
+7
+
+Table 1. High field film growth parameters for Mg in NaOH pH 13 Assumed layer MgO Mg(OH )2
+
+A (A/cm-2)
+6.5 x 10-6
+
+B (C cm-2V-1)
+0.006
+
+a (nm )
+0.05 0.1
+
+The activation distance was calculated using the assumption that the film close to the metal surface was MgO, and calculated again According to the available literature, the oxide film is a mixture of ~0.3 nm in case of Mg(OH)2. It is then possible to say that the activation distance obtained by applying the Cabrera-Mott model is physically reasonable, given the assumptions made in the calculations. Influence of crystallographic orientation The grain orientation was found to affect the dissolution rate of Mg. Fig. 5 shows an AFM image of a region etched in citric acid for 30 seconds. The coloured dots on the top of the grains can be related to the colour key on the right hand side of the figure that indicates the crystallographic orientation. The grains with orientations closer to the prismatic planes (1010) and (2110) dissolved more rapidly than those close to the basal planes (0001). This correlates with experiments performed by Schmutz et al. [19] in which corrosion spread in the form of filaments preferentially on prismatic planes. This result was also found in Be [27], which also has a hcp structure. assuming that the film close to the metal surface was Mg(OH)2.
+
+both [9]. The distance between Mg sites is ~0.2 nm in case of MgO and
+
+8
+
+Fig. 5 AFM image of a Mg sample etched in 0.2 M citric acid for 30 s. The represented by colours according to the key (right).
+
+crystallographic orientations of the grains were determined with EBSD, and are
+
+Fig. 6 shows preliminary experiments on the influence of grain orientation on the oxide film growth. The electrochemical response of single grains was measured by using a microelectrochemical cell. The oxide appears to grow faster on grains near the basal orientation (0001). Further work is in progress to clarify this observation.
+
+Fig. 6 Voltage/time transients for two different grain orientations. Each pair of curves represent two experiments performed on the same grain.
+
+Effect of solution chemistry on passive film dissolution A preliminary experiment was performed to assess the effect of acetate ions on the stability of the Mg passive film. Fig. 7(a) shows a plot where sodium acetate was added in to the solution while the sample was held potentiostatically after a film was grown galvanostatically in NaOH, pH 13. Successive additions of acetate ions caused no change in the current flowing. On the other hand, a similar 9
+
+experiment with sodium citrate, which is illustrated in Fig. 7(b), showed that citrate ions complex with the film, increasing the dissolution rate of the passive film. As the film thinned, the current increased since the rate of film growth is inversely related to the film the passive film stability. thickness. Therefore, acetic acid was used to study the effect of pH on
+
+Fig. 7 Effect of sequential additions of sodium acetate (a) and sodium citrate (b) on previously been grown galvanostatically in NaOH, pH 13.
+
+the passive current density flowing from an Mg surface on which a passive film had
+
+Fig. 8 shows the effect of pH variation on the passive film of a sample held potentiostatically at -1 V(SSE). The experiment was divided into two sections, one starting from pH 13 reducing the pH to 12 (Fig. 8(a)) and the other from pH 12 to pH 11 (Fig. 8(b)).
+
+Fig. 8 Effect on the passive current density of decreasing the pH from 12 (a) and from 13 (b) by additions of acetic acid.
+
+It can be seen that as the pH decreases, there is a small increase in current density at pH 12.3, but there is a far greater increase in the region from pH 12 downwards. When the pH was lower than 11 the passive film eventually broke down, leading to very high current densities. Fig. 9 shows the result of another experiment where two 10
+
+different samples were grown galvanostatically and then held at a fixed potential in NaOH at pH 12 and 13. Then a magnetic stirrer was activated. This increased the current density only in the case of pH 12. The activation of the magnetic stirrer increases the mass transport in case where there is some dissolution occurring. It is clear that in the case of pH 13 there is negligible dissolution occurring. the solution, which can lead to an increase current density only in the
+
+Fig. 9 Effect of activation of a magnetic stirrer on the dissolution rate of passive Mg at pH 12 and 13.
+
+Fig. 10 shows the effect of Cl- additions on the passive film grown at pH 12 and 13. At pH 12, successive additions of Cl- did not lead to an increase of the dissolution current until a critical concentration was reached. Then there was a sudden increase of the current density due to the formation of pits. The concentration of Cl- required for pitting was ~50 mM. However Cl- did not affect the film stability at pH 13, even up to concentrations above 150 mM. This shows that even
+
+though Mg is highly reactive in aqueous environments in the presence of Cl-, it forms a very stable passive film at pH 13 which is relatively difficult to break down even at concentrations of Cl- above 0.1M.
+
+11
+
+Fig. 10 Effect of addition of chloride ions at (a) pH 12 and (b) pH 13
+
+Fig. 11 shows the effect of adding fluoride ions to the solution at both pH 12 and 13. While the current dropped slightly in the case of pH 12, it was not affected in case of pH 13. This might be an indication that at pH 12 dissolution was occurring, and fluoride quenched this dissolution. Fluoride has been reported as a good inhibitor of corrosion for Mg [22] and this can be observed even at pH values as high as 12, but not at pH 13, where there is no dissolution occurring.
+
+Fig. 11 Effect of fluoride ions on the dissolution of the passive film of Mg in NaOH pH 12 and 13.
+
+Conclusions
+·
+Galvanostatic measurements were used to asses the oxide film growth kinetics of Mg in solutions were there is negligible dissolution.
+
+·
+
+High field kinetics describes the growth of oxide on Mg better than the point defect model. The value obtained for the 12
+
+activation
+
+assumptions taken in the calculations.
+
+distance
+
+is
+
+physically
+
+reasonably
+
+given
+
+the
+
+·
+
+Passive film dissolution takes place preferentially on prismatic planes, and is slower on the basal plane.
+
+·
+
+Combinations of galvanostatic and potentiostatic measurements were used to assess the effect of pH, Cl- and F- on the stability of passive films of Mg at high pH.
+
+·
+
+The passive film is very stable at pH 13, requiring relatively high concentrations concentration required at pH 12 is around 50 mM. of Clto produce pitting, whereas the
+
+·
+
+Fluoride acts as an inhibitor for corrosion of Mg, lowering the dissolution current at pH 12, but it has no effect at pH 13, indicating negligible dissolution at that pH.
+
+Acknowledgements
+The authors are very grateful to Prof. Sannaskasia Virtanen and Dr. Patrick Schmutz for their help with the electrochemical measurements on single grains and Dr. Rajan Ambat for helpful discussions. This work has been finnancially supported by EPSRC, BNFL and The University of Birmingham.
+
+References
+
+1.
+
+B.E. Hayden, E. Schweizer, R. Kotz, and A.M. Bradshaw, The
+
+Early stages of Oxidation of Magnesium Single Crystal Surfaces. Surf. Sci., 1981. 111: p. 26-38.
+
+2.
+
+S.J. Splinter, N.S. McIntyre, W.N. Lennard, K. Griffiths, and
+
+G. Palumbo, An AES and XPS Study of the Initial Oxidation
+13
+
+of Polycrystalline Magnesium with Water Vapour at Room Temperature. Surf. Sci., 1993. 292: p. 130-144.
+3. S.J. Splinter, M.S. McIntyre, P.A.W.v.d. Heide, and T. Do,
+
+Influence of Low Level Iron Impurities on the Initial Interaction of Water Vapour with Polycrystalline Magnesium Surfaces. Surf. Sci., 1994. 317: p. 194-202. Water Vapour with Mg-Al Alloy Surfaces at Room Temperature. Surf. Sci., 1994. 314: p. 157-171.
+
+4.
+
+S.J. Splinter and N.S. McIntyre, The Initial Interaction of
+
+5.
+
+S.J. Splinter, N.S. McIntyre, and G. Palumbo, Influence of
+
+Ar+ Ion Bombardment on the Initial Interaction of Water Vapour with Polycrystalline Magnesium Surfaces. Surf. Sci.,
+1994. 302: p. 93-108.
+
+6.
+
+T. Do, S.J. Splinter, C. Chen, and N.S. McIntyre, The
+
+Oxidation Kinetics of Mg and Al Surfaces Studied by AES and XPS. Surf. Sci., 1997. 387: p. 192-198. Morphology and Structure of Oxide Films Formed on Magnesium and Mg-Al alloys. 13th ICC - Paper 258.
+
+7.
+
+J.H. Nordlien, K. Nisancioglu, S. Ono, and N. Masuko,
+
+8.
+
+J.H. Nordlien, S. Ono, N. Masuko, and K. Nisancioglu,
+
+Morphology and Structure of Oxide Films Formed on Magnesium by Exposure to Air and Water. J. Electorchem.
+Soc., 1995. 142(10): p. 3320-3322.
+
+9.
+
+J.H. Nordlien, S. Ono, N. Masuko, and K. Nisancioglu, A TEM
+
+Investigation of Naturally Formed Oxide Films on Pure Magnesium. Corr. Sci., 1997. 39(8): p. 1397-1414.
+
+10.
+
+J.H. Nordlien, S. Ono, N. Masuko, and K. Nisancioglu,
+
+Morphology and Structure of Water-Formed Oxides Ternary Mg-Al alloys. J. Electorchem. Soc., 1997. 144(2).
+14
+
+11.
+
+D.A. Vermilyea and C.F. Kirk, Studies of Inhibition of p. 1487-142.
+
+Magnesium Corrosion. J. Electrochem. Soc., 1969. 116(11):
+
+12.
+
+P.M. Bradford, B. Case, G. Dearnaley, J.F. Turner, and I.S.
+
+Woolsey, Ion Beam Analysis of Corrosion Films on a High 747-766.
+
+Magnesium Alloy (Magnox Al 80). Corr. Sci., 1976. 16: p.
+
+13.
+
+G.T. Burstein and A.J. Davenport, The Current-Time
+
+Relationship during Anodic Oxide Film Growth under High Electric Field. J. Electrochem. Soc., 1989. 136(4): p. 936941.
+
+14.
+
+A.J. Davenport and B.K. Lee. Passive Film Growth Kinetics
+
+for Iron and Stainless Steel. in The Electrochemical Society Spring Meeting. 2002. Philadephia: Pennington NJ.
+
+15. 16.
+
+E.J.W. Verwey, Physica, 1935. 2: p. 1039. N. Cabrera and N.F. Mott, Repts. Prog. Phys., 1948/9. 12(163).
+
+17.
+
+C.Y. Chao, L.F. Lin, and D.D. Macdonald, A Point Defect 128(6): p. 1187-1198.
+
+Model for Anodic Passive Films. J. Electrochem. Soc., 1981.
+
+18.
+
+L. Zhang, D.D. Macdonald, E. Sikora, and J. Sikora, On the
+
+Kinetics of Growth of Anodic Oxide Films. J. Electrochem.
+Soc., 1998. 145(3): p. 898-905.
+
+19.
+
+P. Schmutz, V. Guillaumin, S. Lillard, J. Lillard, and G.S. Frankel, Influence of Dichromate Ions on Corrosion 150(4): p. B99-B110.
+
+Processes on Pure Magnesium. J. Electrochem. Soc., 2003.
+
+15
+
+20.
+
+U. Konig and B. Davepon, Microstruture of Polycrystalline Ti
+
+and its Microelectrochemical Properties by means of Electron-Backscattering Diffracticon (EBSD). Electrochimica
+Acta, 2001. 47(1-2): p. 149-160.
+
+21.
+
+B. Davepon, J.W. Schultze, U. Konig, and e. al.,
+
+Crystallographic Orientation of Single Grains of Polycrystalline Titanium and their Influence on Electrochemical Processes. Surface Coating Technology,
+2003. 169: p. 85-90.
+
+22.
+
+G.L. Makar and J. Kruger, Corrosion of Magnesium. Int. Mat. Rev., 1993. 38(3): p. 138-153.
+
+23.
+
+G. Song, A. Atrens, D. Stjohn, J. Nairn, and Y. Li, The Corr. Sci., 1997. 39(5): p. 855-875.
+
+Electrochemical Corrosion of Pure Magnesium in 1N NaCl.
+
+24.
+
+G. Song and A. Atrens, Corrosion Mechanisms of
+
+Magnesium Alloys. Adv. Eng. Mat., 1999. 1(1): p. 11-33.
+
+25.
+
+R. Tunold, H. Holtan, M.-B.H. Berge, A. Lasson, and R.
+
+Solution Containing Chloride Ions. Corr. Sci., 1977. 17: p.
+353-365. 26. T. Suter, T. Peter, and H. Bohni, Microelectrochemical 1995. 192-4: p. 25-40. 27.
+
+Steen-Hansen, The Corrosion of Magnesium in Aqueous
+
+Investigations of MnS Inclusions. Materials Science Forum,
+
+L.S. Lillard, Factors Influencing the Transition from Electrochem. Soc., 2001. 148(1): p. B1-B11.
+
+Metastable to Stable Pitting in Single-Crystal Beryllium. J.
+
+16
+

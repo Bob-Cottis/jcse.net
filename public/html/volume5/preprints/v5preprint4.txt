@@ -1,0 +1,440 @@
+ISSN 1466-8858
+
+Volume 5 Preprint 4
+Electrochemical behaviour of Fe-36Ni alloy under thin electrolyte layer
+A. KADRI1, C. FIAUD2, M. OULLADJ1, L. HAMADOU1, N. BENBRAHIM1
+1
+
+Laboratoire de Matériaux Electrochimie & Corrosion, Faculté des Sciences, Université Mouloud MAMMERI B.P. 17 Tizi-Ouzou 15000 Algeria. 2 Laboratoire d'Etudes de la Corrosion, ENSCP, 11 rue P. & M. Curie 75231 Paris cedex 05 France.
+
+Abstract We present in this paper the results of an investigation on the corrosion kinetic of Fe-36Ni alloy in contact with a thin film of solution. We are interested in the potential distribution and the variation of the electrochemical impedance as a function of the electrolyte film thickness. The results obtained show clearly three essential domains with the existence of one zone of characteristic thickness which is near 100 µm
+
+I. Introduction Many corrosion processes such as pitting, crevice and atmospheric corrosion, take place in restricted volumes of electrolyte. For instance, a thin electrolyte film in contact with a metallic surface could generate a modification in the potential distribution, mass transport, production of metallic cations and hydrolysis reactions. Some effects of specific galvanic couplings (pairings) and local pH variation could result from this particular geometry [1- 4]. The study of electrochemical processes occurring in definite systems could be carried out in simulation cells where the electrolyte layer thickness  is maintained to a very small value ( 20 µm). The potential and the concentration are therefore time and space distributed. The position
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+of the different electrodes plays therefore a determining role in on the electrochemical features obtained at a steady and non-steady state techniques. Recently, an ac impedance study on corrosion of Al-Zn alloy-coated steel in contact with a thin layer of electrolyte is reported [5]. The authors found that the corrosion current density estimated from the polarisation resistance significantly decreases as the thickness of electrolyte layer increases between 15 and 100 µm and is almost independent of the thickness up to 888 µm. Several mechanisms and models describing crevice corrosion are reported in previous works [6,7,]. So, Watson and al [8] describe a new mathematical model of the incubation period of crevice corrosion of stainless steels and nickel alloys in chloride solutions. They suggest an other transport process treatment which includes both ionic migration and diffusion. Betts [9] proposes to restate understanding on mechanisms of the crevice corrosion in which the influence of some parameters such as O2, Cl-, H+, inclusions, is to be studied more fittingly. More recently, a novel approach to characterising corrosion within a crevice has been reported by Klassen and al [10]. According to Klassen and al, the presence of a crevice produced a positive shift in the specimen potential that is consistent with an increase in the potential of the controlling anodic reaction due to higher concentrations of dissolution products at the metal surface. This paper presents the results of an investigation on the corrosion kinetics on Fe-36Ni alloy covered with a thin film of solution consisting of (Na2SO4 0.05 M + H2SO4 0.05 M). The aim of this study is to determine the potential distribution and the variation of the electrochemical impedance as a function of the electrolyte film thickness.
+
+II. Experimental A series of experiments has been carried out to characterise the effect of the electrolyte film thickness. For this purpose, the used thin layer cell is represented and described in figure 1.
+
+2
+
+The working electrode is a cross section rod of 5 mm diameter made of an Fe-36Ni alloy. The electrode is covered with a thermosetting epoxy resin prior to its embedding in an insulating Teflon material so as to avoid any infiltration. The working electrode prepared in this way is located in the cell containing 250 ml of (Na2SO4 0.05 M + H2SO4 0.05 M) aqueous solution at a pH value of 2.9. The solution is de-aerated by argon bubbling. After one hour, the insulating upper part facing opposite to downwards is moved vertically to obtain the desired thickness of electrolyte layer. During these operations, an argon atmosphere is maintained above the solution. The apparatus used for electrochemical impedance measurements was a frequency
+
+response analyser Solartron 1250 coupled with the electrochemical interface Solartron 1186 allowing a frequency range from 10 kHz to 10 mHz. The working electrode was polarised galvanostatically in order to allow it to raise its corrosion potential. A small amplitude ac current was superimposed in order to measure the complex impedance Z = E / I where E is the potential difference between the working electrode and the reference electrode.
+
+III. Results and discussions
+
+III.1. Anodic current-potential curves The electrochemical behaviour of the Fe-36Ni alloy in the bulk solution has been previously studied [11]. So, The influence of some parameters such as H+, O2 and Cl- was revealed. In order to understand the electrochemical behaviour of the alloy in circumstances of atmospheric corrosion, it was interesting to observe the evolution of the main electrochemical parameters in accordance with the film thickness in contact with the working electrode. A series of tests has been carried out to illustrate the effect of the electrolyte film thickness. For this purpose, the thin layer cell used has been described in figure 1. The working
+
+3
+
+electrode is a 5 mm diameter cross section rod made of Fe-36Ni alloy. The electrode is covered with a thermosetting epoxy resin before its embedding with an insulating Teflon made material in such a way as to avoid any infiltration. The working electrode prepared in this way is located in the cell containing 250 ml of an aqueous solution (Na2SO4 0.05 M + H2SO4 0.05 M) at a pH value of 2.9. The solution is de-aerated by argon bubbling. After one hour, the insulating upper part facing is moved vertically in order to obtain the required thickness of electrolyte layer. While the atmosphere of argon is being maintained above the solution, the anodic polarisation curve is plotted after ten minutes. The results obtained for different values of electrolyte thickness are summarised in Table 1 and the related curves are shown on Figure 2. So, it has been noticed a general tendency to the diminution of the current density of the activation peak (Im) and a displacement of the corresponding potential of this peak (Ep) (passivation potential ) towards more positive values when the thickness of the electrolyte layer is smaller. These observations could be explained by the two following phenomena: - the potential drop generated by the equivalent resistance of the electrolyte, which will be described subsequently. - the accumulation of corrosion products within the isolated electrolyte layer. If this second phenomenon for instance had to be considered, the proportions of iron and nickel in the alloy (64% Fe; 36% Ni, the standard potentials of Fe/ Fe2+ and Ni2+/ Ni would be - 0.44 V/ ENH and - 0.23 V/ ENH), respectively ; the anodic polarisation of the working electrode is therefore expressed effectively by the dissolution of iron in solution according to the following global reaction:
+
+Fe
+
+ Fe2+ + 2 e-
+
+(1)
+
+Indeed, The metallic cations are solvated by the solvent molecules present within the thin layer of solution. In order to characterise the evolution of the concentration corrosion products within the
+
+4
+
+thin electrolyte layer as the thickness decreases, one can calculate the quantity of iron dissolved in the thin electrolyte layer according to the reaction 1 above. Thus, bearing in mind, the flux  R of the electrolysis reaction products on one hand and, the diffusion flux  D of the corrosion products towards the outside of the thin layer, on the other hand, the integration of the current-potential curves (electrolysis duration: t0 = 200 seconds) gives thereafter the equivalent quantity of electricity. The number of coulombs per second is then given by the following relation:
+
+
+Q (coulombs / sec) =
+0
+
+t
+
+0
+
+i dt
+
+t0
+
+(2)
+
+and the flux of the reaction 1 is given by:
+
+ R (mole / sec) =
+
+Q 2F
+
+(3)
+
+When the thickness  of the film decreases, a diffusion of the corrosion products towards the bulk solution occurs across a volume which decreases in the same proportions. It is therefore necessary to take into account the diffusion flux in order to display quantitatively the concentration of iron in the thin electrolyte layer. The following relation scheme (4) establishes the proportionality between the diffusion flux
+
+ D and the thickness :
+
+ D = C(t). k. 
+That is: 5
+
+(4)
+
+ D = C(t)
+with:
+
+S.D
+
+
+
+(5)
+
+S =  .d .
+
+(6)
+
+The parameters under consideration are: C (t): concentration of the reaction products D: S: : d: K: diffusion coefficient of Fe2+ lateral surface distance between the edge of the thin layer and the metal surface diameter of the thin layer constant of proportionality.
+
+Insulating upper part
+
+
+
+
+working electrode
+
+The thin layer cell configuration
+
+6
+
+The concentration limit of dissolved iron in the thin layer is attained when the rate ( R ) of the reaction (1) becomes equal to the diffusion flux ( D ) of the produced species:
+
+
+
+R
+
+=
+
+D
+
+The calculations have been made with the following equations:
+
+C (m ole. cm -3 ) =
+
+R
+S D
+
+[7]
+
+
+[8]
+
+C ( mole / l) =
+
+ R .  . 103
+S. D
+
+The parameters used were: D = 10-5 cm 2.sec-1  = 1 cm d = 2 cm t0 = 200 sec.
+
+And the results reported in Table 2. They indicate that the concentration increases 20 times when  changes from 500 to 100 µm and reaches some values of several moles per litre. The molecules of solvent are therefore progressively consumed to hydrate the metallic cations produced at the interface. The solubility of FeSO4 in H2SO4 given in the literature is 1.4 M [12]. After a qualitative measurement, the saturated solution obtained had a concentration of 1.3 M in FeSO4. In order to determine the thickness  corresponding to the saturation of the solution in the thin layer, an
+
+7
+
+average concentration of 1.35 M had been considered, according to the previous converse calculation, corresponding to an electrolyte thickness of 150 µm. The accumulation of the corrosion products in the thin layer will hinder the passivation process which could then become more and more difficult. This hypothesis can explain the results obtained for  < 300 µm (Table 1), for which the activation peak is observed for some important over potential. When  < 100 µm, the activation peak on the anodic polarisation curve is not observed. Thus, the alloy remains active in a potential region corresponding to its normally passive state. As the diffusion of the species towards and originating from the outside of the thin layer becomes negligible for these thickness values, the confinement of the corrosion products can accelerate the metal dissolution process according to the following mechanism:
+
+Fe  Fe2 + , n H 2 O + 2 eFe + m H 2 O  Oxide ( passive film)
+The later states the well-known role of water in the reaction. In other words, if the thin layer becomes poor in water molecules, therefore the equilibrium of the second reaction is shifted to the left and, consequently, the passive film dissolves. In order to better characterise the influence of the thin layer thickness  on the passivation process of Fe-36Ni alloy, the electrochemical response of this interface by measuring the variation of its complex impedance as a function of frequency has been studied.
+
+2. Electrochemical impedance in a thin electrolyte layer The working electrode was polarised galvanostatically in order to allow it to adopt its corrosion potential. A small amplitude ac current was superimposed in order to measure the
+
+8
+
+complex impedance Z = E / I where E is the potential difference between the working electrode and the reference electrode. The impedance diagrams obtained are reported on figure 3. This result illustrates the influence of the layer thickness  on the electrode impedance. In order to delineate the various frequency domains and the related experimental parameters, a single diagram corresponding to  = 20 µm has been represented (Figure 4). As shown by the results, in the low frequency domain, the impedance is close to a capacitive arc corresponding to a parallel RC circuit. The extrapolation down to zero frequency gives the charge transfer resistance Rt defined by the arc diameter. The influence of  on Rt will be discussed subsequently. As  is decreased, it can be noted range that a typical feature appears in the high frequency, namely a straight line of slope unity (45°). Therefore if RD is defined as the contribution of this region to the real part of the impedance, the polarisation resistance will be given by the summation (Re + RD + Rt) where Re is the high frequency limit of the impedance. The thin layer cell configuration used here gives no ambiguity in ascribing Re to the resistance of the ring shape electrolyte path outside the working electrode zone and RD to the ohmic term of the impedance distributed in the electrolyte layer confined between the working electrode and the insulating upper part of the cell . Figure 5 shows the plot of the reciprocal of the electrolyte resistance Re as a function of ; it can be seen that the experimental points fall on a straight line through the origin. This behaviour strongly supports the foregoing interpretation proposed for Re. It is necessary as well to note that RD varies in the same sense than Re. The dependence of RD upon the layer thickness is in agreement with a radial distribution of current and potential from the periphery to the center of the circular active surface. A similar situation has been thoroughly probed, at least
+
+9
+
+theoretically, in the studies of porous electrode polarisation [13-17]. It has been shown how a tubular pore could serve for modelling the thin layer configuration cell used [18].
+
+2.1 Influence of the thickness  on Re Figure 6 shows the magnification of the high frequency domain of the impedance diagrams previously reported on the figure 3. For  < 200 µm, the high value of Re suggests an important ohmic drop which masks the electrochemical reactions to the interface, particularly when the passivation process is imposed to the working electrode. In order to illustrate this phenomenon, the anodic polarisation curves have been recorded in the 20 µm <  < 200 µm thickness range, by measuring Re at 10 kHz prior to plotting of each curve. The figure 7 shows that the current-potential curves obtained are linear, thus confirming a strong contribution of a purely ohmic drop. It is necessary to notice the displacement of the corrosion potential (cf. table 3) towards more electronegative values while  decreases. This behaviour could not exemplify another occurrence than an electrochemical phenomenon. For instance, this tendency presumably expresses a displacement of the anodic elementary curve term towards more important over potentials by favouring the dissolution of the alloy. The calculated slopes of the recorded polarisation curves yield P = Re + RD (table 3). The reciprocal of P has been plotted as a function of . The obtained points fall on a straight line through the origin (Figure 8). However, it can be seen from table 3 that P is smaller than the (Re + RD) value deduced from the impedance diagram. The RD effect on the current-potential curves is less evident with regard to the potential and current distribution between the edge and the centre of the thin layer. The precision of the set thickness could be limited by some irregularities of surfaces and/ or by a lack of parallelism
+
+10
+
+between the two plans delimiting the thin layer. This could explain the gap observed for  < 100 µm. In conclusion, it is evident that the strong contribution of the ohmic drop is expressed in a coherent way by the ac impedance measurements as well as by the current-potential curves. On the other hand, the behaviour of the interface has been more clearly identified by the ac impedance measurements in the high frequency domain.
+
+2.2 Influence of the thickness on Rt The impedance diagrams reported on figure 3 show a high sensitivity of the interface behaviour with the electrolyte layer thickness decreasing. On one hand, the shift of the impedance diagrams to the right is explained in part by the increasing of Re and, on the other hand, by a distortion of the capacitives arcs resulting from the potential distribution of the interface. Furthermore, the diameter of the capacitive arcs increases. This characterises an increase of Rt (real part limit of the impedance when the frequency tends towards zero). For  < 100 µm, an effect converse to the previous one is observed: the diameter of the arc decreases, and this could indicate a diminution of the Rt value (table 4). This is in agreement with an increase of the corrosion rate (1 / R t = k. I corr ) [19]. Thereafter, the concentration of the corrosion products in the thin electrolyte layer has been computed as a function of the thickness according to the same principle than the previously stated for the current-potential curves. The procedure has been started from the transfer resistance Rt by taking the product
+R t . I corr = 30 mV (working at the corrosion potential).
+
+11
+
+The results are shown in table 5. It has been noticed that the concentration in Fe2+ ions increases ten fold when  decreases from 500 to 40 µm. This agrees with the results observed under the anodic polarisation. However the concentration deduced from the measurement at the corrosion potential, is lower than that corresponding to the precipitation of FeSO4,7H2O. In this case, a precipitation phenomenon of salts at the surface could be invoked in order to explain the influence of the thin layer thickness on the variation of Rt presumed that there is a location of the corrosion phenomenon on this surface starting from a certain electrolyte film thickness. The local strong current density can cause the formation of satisfactory amount of corrosion product so that precipitation occurs when the electrolyte layer thickness is sufficiently small. Such a hypothesis should be verified at least qualitatively in a first time. The variation of Rt as a function of  shown in figure 9 exhibits three domains, namely  > 250 µm, 100 <  < 250 µm and  < 100 µm, each of one characterising a different corrosion rate of the Fe-36Ni alloy: - for  > 250 µm, the experimental points fall on within a straight line, indicating a corrosion rate proportional to the electrolyte thickness (). - for 100 <  < 250 µm, a faster increase of Rt is observed, revealing a decrease of the corrosion rate. It should be of interest to take again the calculated value of the layer thickness corresponding to the saturation in FeSO4; the thickness thus found was 150 µm. The examination of the R t = f ( ) curve indicates that this thickness coincides with the beginning of the Rt increase; this time corresponds to that moment when a protective layer develops at the surface. In this thickness range, the system is presumably governed by a mixed kinetics phenomenon (diffusion-confinement).
+
+12
+
+- for  < 100 µm, the diffusion process of the corrosion products towards the outside of the thin layer becomes negligible. In other words, the products of the electrochemical reaction are confined in the thin layer which is characterised by a decrease of Rt. This result confirms the mechanism quantitatively evoked while studying the anodic polarisation curve.
+
+III. Conclusion The variation of the electrochemical impedance as a function of the frequency range related to the current-potential characteristic could allow to identify the corrosion process of the Fe-36Ni alloy covered by a thin electrolyte layer. For instance the results depicted in this paper have obviously shown three critical regions: - A bulk solution section where the corrosion rate appears to be relatively constant while  > 500 µm. - A decrease of the corrosion rate seemingly caused by a partial control transport process while 100 <  < 500 µm. - And finally when  < 100 µm, a region in which the confinement of the corrosion products becomes major with regard to their diffusion towards the outside of the thin layer. This therefore leads to an acceleration of the corrosion rate which enlightens the abrupt diminution of Rt at the small electrolyte thickness values. This result is indicated by the absence of activation peak observed while considering the anodic polarisation curve of the Fe-36Ni alloy.
+
+13
+
+REFERENCES 1. I. L. Rozenfeld, Atmospheric corrosion of metals, Nace Publications, Houston (1972) 2. P. P. Phipps and P.W. Rice, in the chemistry of corrosion. A.C.S. Publication (1972) 3. H. W. Pickering, Corr. Sci ., 29, 325 (1989) 4. E. Mc. Cafferty, J. of Electrochem. Soc. 126, 3, 385 (1979) 5. G. A. El-Mahdy, Atsushi Nishikata, Tooru Tsuru, Corr. Sci., 42, 1509-1521 (2000) 6. Y. Xu and H. W. Pickering, J. Electrochem. Soc. 140, 3, 658 (1993) 7. E. A. Nystrom, J. B. Lee, A. C. Sagüés, H. W. Pickering, J. of Electrochem. Soc.141, 2, 359 (1994) 8. M. Watson and J. Postlethwaite , Corr. 46, 7, 522 (1990) 9. A. J. Betts, L. H. Boulton , British. Corr. J. 28, 4, 279 (1993) 10. R. D. Klassen, P. R. Roberge, C. V. Hyatt, Electrochimica Acta 46, 3705-3713 (2001) 11. C. Fiaud, A. Kadri, Materiels Chemistry and physics, 9, 529 (1983) 12. R. Abbeg, Handbuch der Anorganishen Chemie Verlag Iron,S. Hirzel Leipzig, B56, (1930) 13. R. De Levie, Advance in electrochemistry and electrochemical engineering, Ed. P. Delahay, Vol. VI , 329 , Interscience New York (1967). 14. H. Keiser , K.D. Beccu, M.A. Gutjahr, Electrochem. Acta , 21, 539 (1976) 15. J.P. Candy, P. Candy, P. Fouilleux, Electrochemica Acta 26, 8, 1029 (1981) 16. M. Keddam, C. Rakotomavo, H. Takenouti, J. of Applied Electrochemistry 14, 437 (1984) 17. C. Fiaud, R. Chahrouri, M. Keddam, G. Maurin, H. Takenouti, 8th International Congress on Metallic Corrosion, Mayence (RFA) sept. (1981) 18. C. Fiaud, M. Keddam, A. Kadri, H. Takenouti Electrochemica Acta 32, 3, 445 (1987) 19. C. Gabrielli and M. Keddam Corr. 48, 10, 794 (1992)
+
+14
+
+Figures Caption Figure 1. Cell arrangement showing the thin electrolyte layer device. Electrolytic connection to the reference electrode with capillary tip outside the thin layer.
+
+Figure 2. Anodic polarisation curves of Fe 36Ni alloy under thin layer of (Na2SO4+ H2SO4) pH = 2.9
+
+Figure 3. Impedance diagrams in the complex plane of an Fe-36Ni electrode at various layer thikness.
+
+Figure 4. Impedance diagram selected from Figure 3, layer thickness ( = 20 µm) , showing the definition of Re, RD and Rt.
+
+Figure 5. Linear relationship between the reciprocal of the electrolyte resistance Re and the electrolyte layer thickness
+
+Figure 6. Magnification of the high frequency range of the impedance diagrams of Fe-36Ni electrode at various layer thickness of electrolyte (pH= 2.9)
+
+Figure 7. I = f (V) characteristics as a function of the electrolyte film thickness
+
+Figure 8. Variation of E/I = P as a function of the electrolyte layer. P is taken from figure 7. Figure 9. Variation of transfert resistance Rt Vs the electrolyte film thickness. c : calculated value corresponding to the saturation of the layer by the corrosion product.
+
+15
+
+Tables Caption
+
+Table 1. Characteristics of the anodic current-potential curves of the Fe-36Ni alloy under thin layer film of H2SO4 (pH=2.9). Effect of thickness  on Im and Ep.
+
+Table 2. Concentration of the dissolved iron as a function of the layer electrolyte thickness
+
+Table 3. Evolution of the corrosion potential Ecorr. , Re , RD and P as a function of thickness . Re : measured electrolyte equivalente resistance at 10 kHz, RD : value deducted from the impedance measurements (fig. 3), P: E/I slopes of the curves reported on figure 7 and  electrolyte film thickness.
+
+Table 4. Evolution of the electrolyte equivalente resistance Re and transfer resistance Rt as a function of the electrolyte thickness .
+
+Table 5. Evolution of the corrosion products concentration into the thin electrolyte layer deducted from the impedance measurements, according to the same principle of calculation than thus utilised for the table 3.
+
+16
+
+To reference electrode N2 outler
+
+P.V.D.F. Can be moved verticaly
+
+Pt mesh (CE)
+
+N2 inlet
+
+Thermostat
+
+Figure 1
+
+Thermostat
+
+Rubber Gasket P.V.D.F. Epoxylacquer + sealer
+Figure 1
+
+Working electode
+
+17
+
+5 4
+log i mA/cm2
+
+ = 500µm  = 300µm  = 200µm
+
+3 2
+Figure 2
+
+1 0 -1000 -600 -200
+Figure 2
+
+200
+
+600
+
+1000
+E mV/ SCE E, m / ECS V
+
+18
+
+7000 6000 5000 4000 3000 2000 1000 0 0
+
+-Im Z(Ohm)
+
+20 µm
+
+120 µm
+120 µm 5000 10000
+
+80 µm
+
+15000
+
+20000
+
+Figure 3
+
+19
+
+6000 5000 4000 3000 2000 1000 0 0
+
+-Im Z(Ohm)
+
+7000
+
+20 µm
+
+5000
+
+10000
+
+15000
+
+20000 R e a l p a r t, O h m
+
+Re
+
+RD Figure 4
+
+Rt
+
+20
+
+0,006
+
+0,005
+
+0,004 1/Re, Ohm-1.cm-2
+
+0,003
+
+0,002
+
+0,001
+
+0 0 500 , µm 1000
+
+Figure 5
+
+21
+
+2000 -Im Z, (Ohm) 1500 1000 500 0 0 1000
+180 µm
+
+100 µm 80 µm 50 µm 20 µm
+
+2000
+
+3000 Real part, (Ohm)
+
+4000
+
+5000
+
+6000
+
+Figure 6
+
+22
+
+1,2 1 I (mA/ cm ) 0,8 0,6 0,4 0,2 0 -550
+2
+
+-450
+
+-350
+
+-250
+
+-150 E (mV / ECS)
+
+Figure 7
+
+23
+
+1,2 1 1/P (Ohm-1.cm-2) 0,8 0,6 0,4 0,2 0 0 50 100 Thickness (µm) 150 200
+
+Figure 8
+
+24
+
+3,5
+
+log Rt ( cm )
+
+2
+
+3
+
+2,5
+
+2
+
+1,5
+
+2
+
+c
+
+2,5 log  (µm)
+
+3
+
+Figure 9
+
+25
+
+Layer thickness of electrolyte (µm) 1000
+
+Electrolyte volume in the thin layer (µl) 314
+
+500 300 200 150 100
+
+157 94 62.8 47 31.4
+
+scanning speed mv/sec 0.5 2 5 0.5 1 2 5 0.5 1 0.5 1 10 5 10 5 Table 1
+
+Current density of the actavation peak Im mA/cm2 14.5 19.4 21.1 11 9.73 16 17.2 8.8 8.7 10.8 7.58 9.8 9.6 9.8 9.6
+
+Potential Activation peak mV/SCE 266 275 235 490 570 555 605 450 600 1080 650 855 955 1155 1030
+
+Layer thickness of electrolyte  (µm) 500 300 200 100
+
+Electrolyte volume ( µl) 157 94 62.8 31.4
+
+R
+
+(mole/ sec) 4.3 10-10 8.6 10-10 7.7 10-10 1.8 10-9
+
+C mole/ litre 14 46 59 29 10-2 10-2 10-2 10-1
+
+Table 2
+
+26
+
+ (µm) 180 150 120 50 40 20
+
+Ecorr. (mV/ ECS) -455 -461 -466 -480 -490
+
+Re (k) 0.80 1.020 1.270 2.80 3.64 4.13
+
+RD (k) 0.290 0.360 0.440 0.900 0.735 1.03
+
+Re + RD (k) 1.09 1.38 1.71 3.70 4.37 5.16
+
+P (k) 0.988 1.25 1.60 6.32 4.88
+
+Table 3
+
+ (µm) 800 600 500 400 300 200 180 150 120 100 80 60 40
+
+Re (k) 0.214 0.263 0.314 0.370 0.514 0.785 0.800 1.020 1.270 1.340 1.800 2.500 3.640
+
+Rt (. Cm2 ) 550 626 634 652 668 756 1100 1570 1620 2500 2390 740 870
+
+Table 4
+
+27
+
+ (µm) 500 400 300 200 100 60 40
+
+Rt Icorr (V) 0.03 0.03 0.03 0.03 0.03 0.03 0.03
+
+Icorr. (A) 9,46 . 10-6 9,2 . 10-6 8,98 . 10-6 7,94 . 10-6 2,4 . 10-6 8,11 . 10-6 6,89 . 10-6
+
+R (mole / sec) 4,9 . 10-11 4,8 . 10-11 4,65 . 10-11 4,11 . 10-11 1,24 . 10-11 4,2 . 10-11 3,6 . 10-11
+
+C (mole / l) 1,6 . 10-2 2,0 . 10-2 2,5 . 10-2 3,3 . 10-2 2,0 . 10-2 1,11 . 10-1 1,43 . 10-1
+
+Table 5
+
+28
+

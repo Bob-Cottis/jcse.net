@@ -1,0 +1,327 @@
+Volume 6 Paper H044
+
+Plasma Spray Coatings of Ni-20Cr on Boiler Tube Steel and Evaluation of its Oxidation Behaviour at 900oC in Air
+
+Buta Singh Sidhu* and Dr. S. Prakash
+
+ 
+
+QIP Research Scholar Professor and Head
+
+Department of Metallurgical and Materials Engineering Indian Institute of Technology, Roorkee-247667 INDIA
+
+*
+
+Corresponding author: Tel.: +91-1332-85730, Fax: +91-1332-85243. E-mail address: butasdmt@iitr.ernet.in
+
+ABSTRACT
+
+Ni-20Cr coatings were obtained on the boiler tube steels through plasma spray process. Ni-Cr-Al-Y was used as a bond coat before applying Ni-Cr coatings. These coatings were subjected to SEM studies along the surface and across the cross-section. Oxidation behaviour of these uncoated and coated steels has been evaluated in air at 9000C under cyclic studies. XRD, SEM/EDAX and EPMA analysis techniques have been used to characterise the coatings and to identify the oxidation products. The coating has indicated good resistance to oxidation at 9000C in air under cyclic conditions. Oxidation resistance was more when GrA1 steel was the substrate and minimum in case of T22 steel. The internal oxidation, cracking of scale and some times even cracking of coating has been observed. Key words: Plasma spray coatings, oxidation behaviour, cyclic oxidation, scale morphology, Ni-20Cr coating 1. INTRODUCTION The concept of placing a protective barrier between materials and their environment is so ancient that its origin is lost in the mist of history. As can be expected with a concept so old, its materials, methods and qualifications are numerous and diverse [1]. Advances in materials performance require the development of composite systems, of which coated materials are one form. Abrasion and corrosion resistance of components can be greatly increased by protective coatings and this is a growing industry of considerable economic importance [2]. Although protective surface treatments are widely used at low temperatures yet the use of these at elevated temperatures is more recent. Current high temperature applications are limited largely to the aerospace industry. An enormous challenge exists now to develop and apply these techniques to other high temperature applications, such as in process industries and diesel engines. The purpose is to provide enhanced protection over that afforded by the oxide scale formed naturally in the particular corrosive environment. Several factors influence the selection of a surface treatment, both in terms of composition of the layer and technique of application [3].
+
+1
+
+Maintenance costs for replacing broken pipes in some installations are very high and can be estimated at up to 54% of the total production costs. One possible way to attack these problems is the use of thin anti wear and anti oxidation coatings with good thermal conductivity, such as plasma sprayed nickel based or iron based and chromium-nickel based alloyed coatings [4-6]. Thermal spray coatings are used widely to protect alloy substrate against high temperature corrosion and erosion [7-11]. Plasma spraying is gaining importance in many critical areas of application. The main advantage of plasma spray technique is that it enables a whole range of materials including metals and alloys to be plasma sprayed on to a great variety of substrate types and geometries [12-14]. It is the most widely used technique to prepare composite structural parts providing required mechanical strength properties as well as inhibition of oxidation and other corrosive degradation processes [15]. The oxidation behaviour of plasma sprayed coatings was studied by Higuera [4] et al. with an aim to reduce maintenance cost and down time at power generating plants. Protective coatings are being used on structural alloys in energy conversion and utilization systems to protect their surface from oxidation and erosion. Almost any material can be used for plasma spraying on almost any type of substrate. This flexibility is probably one of the major reasons for the rapid expansion of this technology. Applications for plasma spraying include formation of corrosion, temperature and abrasion-resistant coatings. It also helps in production of monolithic and near net shape/coatings and also incorporate the advantages of the rapid solidification process [14]. Alloys that are developed for heat and oxidation resistance typically form a protective layer of chromia or alumina. The more rapidly this layer is established, the better protection is offered. As this layer grows or as it reforms over areas from which the original layer was removed, it must withdraw chromium or aluminium from the metal in order to provide for further scale growth [16]. Link et al [16] have carried out studies exposing pure nickel, Ni-20Cr and Ni30Cr alloys to conditions of erosion and corrosion simultaneously at 700 0C and 800
+0
+
+C. The exposures were made using normal impact of an air stream loaded with 20
+
+µm alumina. According to them under erosion corrosion, the erosive stream prevented the formation of a continuous layer of chromia by removing the oxide faster than it could spread laterally. So they have established that it would be difficult for protective
+2
+
+scales to form in the presence of erosion and oxidation behaviour of an alloy cannot be used as a guide to its resistance to erosion-corrosion. The oxidation behaviour of Ni-20Cr foils of 100- and 200-µm thickness was studied in air between 500 and 9000C by Calvarin et al [17]. They observed that scale formed at all temperatures was complex with an outer NiO layer having columnar grains and an inner layer of equiaxed NiCr2O4 + NiO + Cr2O3 grains. According to them at low temperatures (500 and 600 0C) the chromium content was insufficient to form a continuous Cr2O3 layer while such a continuous Cr2O3 layer could get formed at the inner interface at oxidation temperatures of 700 to 9000C. The observation of no significant differences between the oxidation behaviour of thin strips and thick materials is related to the limited exposure times of the study. An attempt had been made to apply Ni-20Cr coating by plasma spray process on the surface of the substrate. These plasma sprayed coatings have been characterised. Cyclic Oxidation behaviour of these coatings has been studied at 9000C in air. X-ray diffraction analysis (XRD), SEM, EDAX and EPMA techniques are used to identify the coatings and oxidised samples. 2. EXPERIMENTAL DETAILS 2.1 Development of coatings Low carbon steel ASTM-SA210-Grade A1 (GrA1), 1Cr-0.5Mo steel ASTMSA213-T-11 (T11) and 2.25Cr-1Mo steel ASTM-SA213-T-22(T22) were used as base steels. Composition of these steels is shown in Table 1. These steels are used as boiler tube materials in some power plants in north India. Boiler steel tubes were cut to form samples of size 20x15x5 mm approximately. Table 1 Chemical composition (Wt%) for various boiler steels used in present study Type Steel Grade A1 T-11 T-22 0.27 0.15 0.15 0.93 0.3-0.6 0.3-0.6 0.1 0.5-1 0.5 0.058 0.03 0.03 0.048 0.03 0.03 1-1.5 1.9-2.6 0.44-0.65 0.87-1.13 Bal. Bal. Bal. of C Mn Si S P Cr Mo Fe
+
+3
+
+Samples were grit blasted before plasma spraying. 40Kw Miller Thermal Plasma Spray Apparatus available with Anod Plasma Ltd. Kanpur (India) was used to apply the coatings. Argon was used as powder carrying and shielding gas. All the process parameters including the spray distance were constant throughout coating process. Ni-20Cr-10Al-1Y powder was used as a bond coat around 150 µm before applying the final Ni-20Cr coating. After bond coat Ni-20Cr coating of approximately 200 µm was applied and the process conditions were as reported in Table 2. Table 2 Parameters of argon shrouded plasma spray process Arc Current (A) Arc Voltage (V) Powder flow rate (rev./min) Spraying distance (mm) Plasma arc gas (Argon) (psi) Carrier gas (psi) 700 35 3.2 90-110 59 40
+
+2.2 Oxidation Studies in Air The cyclic oxidation studies for coated and uncoated samples were conducted in air 9000C for 50 cycles each cycle of I hour heating at given temperature followed by 20 minutes cooling at ambient conditions. The base metal specimens were mirror polished before oxidation and the coated sample were also subjected to wheel cloth polishing before studies. The samples were examined critically at the end of each cycle and subjected to weight change measurements. The Electronic Balance machine Model CB-120 (Contech, India) with a sensitivity of 1mg was used to measure the weight change values. The spalled scale was also incorporated to the weight change values. Efforts were made to understand the kinetics of corrosion. 3. RESULTS
+
+4
+
+3.1 Characterisation of coatings Fig. 1 (a & b) indicated the morphology of coated surface and along the crosssection. Micrograph in Fig. 1 (a) shows a two phase structure. There is a matrix in which other phases are randomly distributed along the grain boundaries as well as inside the grains. The porosity of the coated samples has been measured with Image analyser based on ASTM B276 and was found less than 4%. Fig. 1 (b) clearly indicates the bond coat and upper coating of Ni-20Cr. The thickness of bond and upper coat was measured and is found to be 152 µm and 213 µm respectively. The microhardness of substrates and coated samples were measured with the help of
+Leitz's, Hardness Tester Mini Load-2, German made and is plotted in Fig. 2. The
+
+hardness values of the order of 900HV were observed for the coatings. 3.2 Oxidation studies Spalling and sputtering were observed in case of T22 type of uncoated steel after 4th cycle. Whereas GrA1 uncoated steel had indicated comparatively less spalling. Oxide scale of GrA1, T11 and T22 coated steels started cracking after 30th, 25th and 10th cycles respectively. The width of cracks was comparatively more in case of T22 substrate steel. Oxide protrusions dark gray in colour have been observed projecting out through these cracks. The oxide scale in case of T22 coated steel was fragile and indicated spalling.
+
+(a)
+
+(b)
+
+Fig. 1 SEM micrographs showing morphology of Ni-20Cr coating (a) surfaces, 350 X and (b) cross-section, 250 X.
+5
+
+1000 900 800
+
+GrA1 T22
+
+Microhardness (HV)
+
+700 600 500 400 300 200 100 -100
+
+Substrate
+-50 0 50
+
+Bond coat
+100 150 200 250
+
+After coat
+300 350 400
+
+Distance from interphase (µm)
+
+Fig. 2
+
+Microhardness profiles for different steels after plasma coating of Ni-20Cr across the cross-section. Cumulative weight change (mg/cm2) variation as a function of time expressed
+
+in number of cycles for Ni-20Cr coated steels is shown in Fig. 3. It can be inferred from the plot that Ni-20Cr coated GrA1 steel is providing very good resistance to oxidation. Its weight change after oxidation in air at 9000C for 50 cycles is less than 1/8th that of uncoated steel. T22 coated steel has indicated relatively large weight gain values and had shown linear behaviour, still its oxidation resistance is more than that of the uncoated steel. Total weight change for uncoated T22 steel is around 1.5 times more than that of plasma coated T22 steel. The parabolic law is followed by all uncoated steels as indicated in Fig. 4 and their parabolic rate constants Kp (10-8 g2 cm-4 s-1) are 26.171, 15.908 and 21.992 for GrA1, T11 and T22 steel respectively. Where as among the coated steels the parabolic behaviour have been followed only by GrA1 and T11 coated steels with parabolic rate constant Kp (10-8 g2 cm-4 s-1) values of 0.312 and 0.944 respectively. Table 3 enlists the parabolic rate constants and scale thickness for uncoated and coated steel after 50 cycles of oxidation at 9000C.
+
+6
+
+2.5 GrA1 T11 T22 GrA1-plasma sprayed T11-plasma sprayed T22-plasma sprayed Ni-20Cr coating air, 9000C, 50 cycles
+
+Weight gain/Area (mg cm-2x10-2)
+
+2
+
+1.5
+
+1
+
+0.5
+
+0 0 5 10 15 20 25 Number of cycles 30 35 40 45 50
+
+Fig. 3
+
+Weight gain/area vs time (no. of cycles) plot for coated and uncoated steels oxidised in air at 9000C for 50 cycles.
+
+0.4
+(Weight gain/Area)2 mg2 cm-4x10-4
+
+0.35 0.3 0.25 0.2 0.15 0.1 0.05 0 0
+
+(Weight gain/Area)2 mg2 cm-4x10-4
+
+Ni-20Cr coating air, 9000C, 50 cycles GrA1-plasma sprayed T11-plasma sprayed
+
+4.5
+
+Substrate steels air, 9000C, 50 cycles
+
+3.5 GrA1 T11 T22
+
+2.5
+
+1.5
+
+0.5
+
+-0.5 0 5 10 15 20 25 Number of cycles 30 35 40 45 50
+
+5
+
+10
+
+15
+
+20
+
+25 Number of cycles
+
+30
+
+35
+
+40
+
+45
+
+50
+
+Fig. 4
+
+(Weight gain/area)2 vs time plot for coated and uncoated steels oxidised in air at 9000C for 50 cycles.
+
+Table 3
+
+7
+
+Average scale thickness (mm) and parabolic rate constants (Kp) of substrates and coatings exposed to cyclic oxidation in air at 9000C. Environment Type of steel Uncoated Scale thickness (mm) GrA1 1.667 T11 0.879 0.551 T22 0.700 Scale spalling Plasma Coated 0.522 1.306 0.312 0.944 Kp (10-8 g2 cm-4 s-1) GrA1 26.171 T11 15.908 T22 21.992
+
+3.3. X-ray Diffraction analysis (XRD) X-ray diffractograms for the base steels had indicated the formation of iron oxide in all cases (Fig. 5). In case of T22 type of steel extra weak peaks of Cr2O3 are observed. The prominent phases analysed through XRD for coated steels are NiO,
+Fe2O3, Cr2O3 Fe2O3, Cr2O3 Fe2O3, Cr2O3
+
+Cr2O3, Al2O3, Fe2O3 and NiCr2O4 as indicated in Fig. 6.
+Fe2O3 Fe2O3 Fe2O3 Fe2O3
+
+T22 Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+T11 Fe2O3 Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+GrA1
+
+Fig. 5 X-ray diffraction profile for uncoated steels subjected to cyclic oxidation in air at 9000C.
+
+8
+
+Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+Fe2O3
+
+Fig. 6
+
+X-ray diffraction profile for Ni-20Cr coated steels with bond coat subjected to cyclic oxidation in air at 9000C.
+
+3.4. Surface scale morphology The micrograph of top surface of the scale in case of T11 steel indicates intergranular cracking. EDAX analysis confirms the presence of little amount of MnO (2.36%) in the scale. The subscale has higher content of MnO (17.54%) with main phase being Fe2O3. The SEM micrograph for T11 coated steel Fig. 7 (b) after oxidation indicates a scale rich in NiO with some amount of Al2O3. Oxide protrusions observed through the scale mainly consisted of Fe2O3.
+
+97.59% Fe2O3 02.36% MnO
+
+2
+
+1
+
+82.55% Fe2O3 17.54% MnO
+
+(a)
+
+1 2
+
+94.57% NiO 02.53% Al2O3 98.77% Fe2O3
+
+9
+
+Fig. 7
+
+(b) Surface morphology of T11 type of steel after cyclic oxidation in air at 9000C (a) uncoated, 450 X and (b) coated, 100 X.
+
+3.5. Cross-sectional analysis of Oxide Scale Analysis indicated that the scale of oxidized uncoated T22 steel contains mainly iron oxide with some intercepts of chromium at some points, Fig. 8 (a). It is clearly visible that the oxide scale has three different layers for T22 coated steel Fig. 8 (b). The oxide scale seems to be detached from the substrate. EDAX analysis indicates that outer scale contains oxides of nickel and chromium. A thin streak of outer layer is found to be rich in nickel having very little amount of chromium (4.89%). The analysis of the intermediate layer of the scale is similar in composition to that of bond coat. The substrate steel has also got oxidised and the inner layer (point 4) had mainly oxides of iron having very little traces of chromium (2.6%). The EPMA of the cross-section of the exposed specimen (Ni-20Cr coated GrA1 steel) Fig. 9 indicates mainly presence of nickel and chromium in the upper part of the scale, where aluminium and manganese are also present. At some places high concentration of Al is also indicated in the upper part of the scale. The iron has diffused into the lower part of the bond coat. There is presence of pockets of iron in the scale. The bond coat had retained its structure and indicates the presence of Al, Y, Ni and Cr. The yttrium had remained confined to the bond coat. EPMA of T11 coated steel shows the formation of a thick scale where nickel and chromium are present throughout the scale (Fig. 10). Al and Y are indicated in the bond coat area. There is a presence of Fe in pockets where Ni, Cr and Al are absent. The higher concentration of Mn just above the substrate has been indicated. There is a very thin layer in which there is higher concentration of Ni just above the substrate and it is followed by a very thin irregular chromium rich layer.
+
+100
+
+100
+
+Weight % for each element
+
+90 80 70 60 50 40 30 20 10 0 1 2
+
+Weight % for each element
+
+O Fe Cr
+
+T22 steel air, 9000C, 50 cycles
+
+90 80 70 60 50 40 30 20 10 0
+
+T22 steel Ni-20Cr coated air, 9000C, 50 cycles Ni O Al Cr Fe Y
+
+3
+
+4 5 Point of analysis
+
+6
+
+7
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+Point of analysis
+
+12
+10
+
+3
+
+4
+
+56
+
+Fig. 8
+
+Oxide scale morphology and elemental variation across the cross-section for T22 type of steel after cyclic oxidation in air at 9000C for 50 cycles (a) uncoated, 70 X and (b) coated, 80 X. BSEI
+
+Fe K
+
+Ni K
+
+Al K
+
+Cr K
+
+Fig. 9
+
+Composition image (BSEI) and X-ray Mn K of the cross-section of GrA1 mapping Y L steel Ni-20Cr coated with bond coat subjected to cyclic oxidation in air at 9000C for 50 cycles, 200 X.
+
+11
+
+BSEI
+
+Fe K
+
+Ni K
+
+Al K
+
+Cr K
+
+Y L
+
+Mn K
+
+Fig. 10 Composition image (BSEI) and X-ray mapping for the cross-section of T11 steel Ni-20Cr coated with bond coat subjected to cyclic oxidation in air at 9000C for 50 cycles, 150 X.
+12
+
+4. DISCUSSIONS Ni-20Cr coatings on boiler steel could be formed in the given conditions. The porosity of the coatings found to be consistent with the results reported by H. C. Chen et al [18], L. C. Erickson et al [19], V. H. Hidalgo et al [5-6] and F. J. Belzunce et al [20]. Some increase in the microhardness values of substrate steel at the substrate coating interface has been observed and it may be ascribed to high speed impact of coating particles as suggested by V. H. Hidalgo et al [4-6]. The resistance to oxidation in air is slightly more for T-11 and T-22 type of steel than GrA1 type where as oxide scale for GrA1 type of steel is thick, porous and non-protective. The three types of substrate steels follow parabolic oxidation rate. Lower oxidation resistance of T22 steel comparative to T11 inspite of more amount of chromium might be attributed to the formation of low melting MoO3 (7950C) which penetrates into the scale from the alloy-scale interface and dissolves the protective oxide scale, causing the alloy to suffer catastrophic oxidation as proposed by Lai [21] and Chatterjee et al [22]. Leslie and Fontana [23] had also observed unusually rapid oxidation for Fe-25Ni-16Cr alloy containing 6% Mo when heated to 9000C. The oxidation resistance of coated steels as inferred from the weight gain plot given in Fig. 3 is better than the uncoated steels. Ni-20Cr coated GrA1 steel has proved to be most effective among the other coated steels and final weight gain value for this coated steel is only around 12% of that for the similar type of uncoated steel. The oxidation rate (total weight gain values after 50 cycles of oxidation) of coated steels follows the sequence as given below: T22 > T11 > GrA1 The minimum protection was provided by Ni-20Cr coating to T22 steel, but still final weight gain value of this T22 coated steel is around 60% of the weight gain value for similar type of uncoated steel. GrA1 and T11 coated steels had followed parabolic rate law for the whole range of study. Further indication of some cracks in the oxide scale which in some cases moved into the coatings might be attributed to the thermal shocks due to differences in the heat expansion coefficients as suggested by B. Wang et al [24]. Presence of wide range of tensile and compressive stresses in the alumina layer has also been reported by Evans and Taylor [25]. The development of similar type of cracks in the
+
+13
+
+coating and subsequent oxidation of the base metal had also been reported by D. Wang [26] for the aluminized coating on 21/4Cr-1Mo (SA-213T-22) type of steel. Relatively higher weight gain values observed for T22 coated steel may be attributed to Mo content (1.06%) in this steel. Chatterjee et al [22] have also suggested mode of deleterious effect of Mo as discussed earlier. The parabolic rate constant values of the Ni-20Cr coated steels are greater than the parabolic rate constant values reported by G. Calvarin et al [17] for Ni-20Cr foils. The higher value of parabolic rate constant may be due to cracking as observed in the scale for coated specimens. The formation of Fe2O3 as identified to be the main phase for uncoated steels in the present study has also been reported by G. Y. Lai [21]. He suggested that ironchromium alloys form the upper layer of Fe2O3. He has further reported that alloys having 2% chromium only form the oxides of chromium along with iron oxide in the innermost layer. The presence of chromium in the inner scale of T22 bared steel {Fig. 8 (a)} as indicated by the EDAX analysis in the present study is consistent with the same. The indication of NiO, Cr2O3 and NiCr2O4 peaks in the scale of coated steels as revealed by the XRD analysis are well in accordance with the phases observed by Hampikian and Potter [27], R. J. Link et al [16], G. Calvarin et al [17], Y. He et al [28] and A. Ui-Hamid [29]. Whereas presence of Al2O3 and Fe2O3 may be perhaps due to the diffusion of aluminium from the bond coat and iron form the substrate to the upper coating facilitated by pores in the coating. EDAX analysis across the cross-section of the oxidised specimen has revealed upper layer of Fe2O3 in case of T22 steel, Fig. 8 (a). This was followed by subscale where Fe2O3 and Cr2O3 are coexisting. This can be attributed to the depletion of iron from the substrate to form the oxides in the upper scale there by leaving chromium rich pockets which gets further oxidised to form oxides of chromium. The similar finding has also been reported by Sadique et al. [30-31], where they reported that FeCr alloys exposed to oxygen environment at higher temperature form spinel (FeCr2O4) and Cr2O3 on the inner side and Fe2O3 on the outer side of the scale. EDAX analysis confirmed the existence NiO in the top of the scale. Iron oxide (Fe2O3) appeared as oxide protruding from the beneath through the cracks. This may be ascribed to the large specific volume of iron oxide as compared to the other oxides. N. S. Bornstein et al [32] has also reported the formation of oxide protrusions and pimples at the surface of the oxidised samples those have relatively greater specific
+14
+
+volume. EDAX analysis of cross-section of T22 coated steel {Fig. 8 (b)} shows a very thin nickel rich strip on the top of the scale in the present investigation which is consistent with the finding of G. Calvarin et al [17] and A. Ui-Hamid [29], where they have also observed the formation of slightly greater than 3 µm and 4 µm outward growing NiO layer respectively. Further in the present study increase in the chromium contents in the subscale formed above the bond coat at points 1 and 2 has been observed. This might be attributed to the diffusion of nickel from coating to form the top scale of NiO thereby enriching the coating with chromium which may further lead to the formation NiCr2O4 and Cr2O3 as a subscale. The results of XRD and EDAX analysis are further supported by the EPMA analysis. For GrA1 and T22 coated steels the bond coat has retained its identity. The protection might have been provided by the thin continuous streak of chromium oxide present just below the bond coat. 5. CONCLUSIONS Nickel-chromium (Ni-20Cr) coatings could be obtained by plasma spray process successfully under the given parameters on boiler tube steels (GrA1, T11 and T22). The Ni-20Cr coating has provided good resistance against oxidation and has provided the necessary protection to the base metals which followed the sequence: GrA1 > T11 > T22 The higher contents of Mo (1.06%) may be responsible for lower resistance to oxidation of T22 coated steel.The internal oxidation has been observed in all the cases. The difference in thermal expansion coefficients between oxides, coating and base steels perhaps led to the cracking of the scale and coatings. In case of all the corroded coated steels similar oxide phases were observed i.e NiO, Cr2O3, NiCr2O4, Al2O3 and Fe2O3. The oxidation of the three substrate steels led to formation of scales mainly consisting of Fe2O3, but in case of T22 type of coated steel presence of Cr2O3 was also indicated. REFERENCES 1. Hamner, N. E., (1977), "Coatings for Corrosion Protection, Ch. 14," NACE Basic Corros. Course, Houston, Texas. 2. M. G. Hocking, Surf. Coat. Technol., 1993, 62, 460-466.
+
+15
+
+3. M. F. Stroosnijder, R. Mevrel and M. J. Bennet, Mater. at High Temp., 1994, Vol. 12, No. 1, pp. 53-66. 4. V. H. Hidalgo, F. J. B. Varela, E. F. Rico, Trib. Int., 1997, 30, 9, 641-649. 5. V. H. Hidalgo, F. J. B. Varela, A. C. Menendez, Proc. of the 15th Int. Thermal. Spray. Conf., NICE, France, May 1998, Vol. 1, 617-621. 6. V. H. Hidalgo, F. J. B. Varela, S. P. Martinez, Gijon/E, Proc. of the United Thermal. Spray. Conf., Edt. By E. Lugscheider, P. A. Kammer, DVS-Verl., March 1999, 683-686. 7. Y. Longa-Nava, Y. S. Zhang, M. Takermoto, R. A. Rapp, Corros. Sc., Sep. 1996, 52, 9, 680-688. 8. H. D. Steffen, K. Nassenstein, Powder Met. Int., 1993, 25, 6, 280-284. 9. A. U. Malik, R. Ahmad, S. Ahmad, S. Ahmad, Pract. Metallogr., 1992, 29, 255-268. 10. A. V. Levy, Surf. Coat. Technol., 1988, 36, 387-406. 11. P. Niranatlumpong, C. B. Ponton, H. E. Evans, Oxid. Met., 2000, 53, 3-4, 241258. 12. M. D. Modi, S. C. Modi and M. M. Mayuram, Proc. of the 11th Int. Thermal Spraying Conf., 8-12th September 1986, Montreal, Canada, pp.359-66. 13. C. Wu and M. Okuyama, Mater. Trans. JIM, 1996, Vol. 37, No. 5, pp. 991-97. 14. E. Pfender, Surf. Coat. Technol., 1988, 34, 1-14. 15. P. V. Ananthapadmanabhan, K. P. Sreekumar, K. V. Muraleedharan and N. Venkatramani, Surf. Coat. Technol., 1991, Vol. 49, pp. 62-66. 16. R. J. Link, N. Birks, F. S. Pettit and F. Dethorey, Oxid. Met., 1998, Vol. 49, No. 3/4, pp. 213-36. 17. G. Calvarin, R. Molins, A. M. Huntz, Oxid. Met., 2000, 53, 1-2, 25-48. 18. H. C. Chen, Z. Y. Liu and Y. C. Chuang, Thin Solid Films, 1993, Vol. 223, No. 1, pp. 56-64. 19. L. C. Erickson, T. Troczynski, H. M. Hawthorne, H. Tai and D. Ross, Proc. of ITSC, 1998, NICE, France. 20. F. J. Belzunce, V. Higuera and S. Poveda, Mater. Sci. & Engg. A, 2001, Vol. 297, No. 1-2, pp. 162-67. 21. G. Y. Lai, "High Temperature Corrosion of Engineering Alloys (Ch. 3)," Pub. ASM International, 1990.
+
+16
+
+22. U. K. Chatterjee, S. K. Bose and S. K., Roy, "Environmental Degradation of Metals," Pub., Marcel Dekker, 270 Madison Avenue, New York, 2001. 23. W. C. Leslie and M. C. Fontana, 30th Annual Convention of ASM, 25-29th Oct. 1948, Philadephia. 24. B. Wang, J. Gong, A. Y. Wang, C. Sun, R. F. Huang and L. S. Wen, Surf. Coat. Technol., 2002, Vol. 149, No. 1, pp. 70-75. 25. H. E. Evans and M. P. Taylor, Oxid. Met., 2001, Vol. 55, No. 1/2, pp. 17-34. 26. D. Wang, Surf. Coat. Technol., 1988, 36, 49-60. 27. J. M. Hampikian and D. I. Potter, Oxid. Met., 1992, Vol. 38, No. 1/2, pp. 139. 28. Y. He, Z. Huang, H. Qi, D. Wang, Z. Li and W. Gao, Maters. Letters, 2000, Vol. 45, pp. 79-85. 29. A. Ui-Hamid, Maters. Chem. Phys., 2003, Vol. 80, pp. 135-42. 30. S. E. Sadique, A. H. Mollah, M. S. Islam, M. M. Ali, M. H. H. Megat and S. Basri, Oxid. Met., 2000, Vol. 54, Nos. 5/6, pp. 385-400. 31. S. E. Sadique, M. A. H. Mollah, M. M. Ali, M. M. Haque, S. Basri, M. M. H. M. Ahmad and S. M. Sapuan, J. Corros. Sci. Engg., 2000, Vol. 1, Paper 18, pp. 1-11. 32. N. S. Bornstein, M. A. DeCrescente and H. A. Roth, Proc. of Conf. on Gas Turbine Mater. in the Marine Environment, MMIC-75-27, 1975, Columbus, Ohio, USA, pp. 115-60.
+
+17
+

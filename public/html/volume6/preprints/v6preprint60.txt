@@ -1,0 +1,424 @@
+Volume 6 Paper C146 _________________________________________ Future Challenges for Functional Chemicals in Oil and Gas Production
+G. Schmitt Laboratory for Corrosion Protection, Iserlohn University of Applied Sciences, Frauenstuhlweg 31, D-58644 Iserlohn, Germany, schmitt.g@fh-swf.de
+
+Abstract
+More deep, hot, mainly sour wells in difficult-to-reach regions will be operated in the future. The requirements which functional chemicals have to fulfill under severe and sometimes extreme environmental conditions are not restricted to their effective technical function, e.g. as scaling inhibitor or flow improver. Other properties like compatibility with other chemicals and environmental acceptibility have to be considered as well. The development of tailor-made functional additives is severely hampered by national and international chemical laws. This seems to exert negative effects on necessary scientific research in this field. Keywords: Oil, gas production, deep wells, chemical additives, corrosion inhibitors, flow impover, drag reduction, hydrate inhibitors, scale inhibitors
+
+Introduction
+In the near future oil and gas will increasingly be produced from deeper horizons in more difficult-to-reach regions. Production from deep hot wells (depths more than 4,000 m) is challenged primarily by high temperatures and high pressures in the reservoirs. This creates extreme chemical and electrochemical conditions for materials corrosion. Additionally, scaling problems as well as deposition of wax, asphaltenes, and elemental sulfur are complicating factors. Technological solutions make use of functional chemicals added to the production system. They include corrosion and scale inhibitors, flow improvers, preventers of wax and asphaltene deposition, hydrate inhibitors and others. While functional chemicals are well known and successfully applied under ,normal` production conditions, new solutions have to be developed for deep hot wells. Taylor-made property profiles of functional chemicals are needed. According to assessments of the depth distribution of oil and gas the majority of oil reservoirs was generated at depths between 2,000 and 3,500 m (Fig. 1). However, also at deeper horizons oil can be found. For the time being, the deepest oil reservoir was found at a depth of 6,500 m at the Gulf Coast megabasin. Gas reservoirs are likely to be found below 3,000 m. However,
+
+the so far deepest gas well in operation produces gas from a depth of ca. 8,100 m in the Anadarco field. In the North Sea hydrocarbon reservoirs are generally found at depths between 1,500 and 3,000 m. However, oil and gas accumulations were found also at depths between 4,700 and 5,300 m. Also in the US Gulf Coast region superdeep hydrocarbon bearing formations could be located. More hydrocarbon reservoirs with depths below 4,000 m will be explored and produced in future time on all continents. The hydrocarbon production from these depths comprises a multitude of technical challenges, specifically in case of offshore production. The typical feature of these ,deep hot wells` is the following: The depths range between 4,000 and 6,000 m, the temperatures beween 140 to 250 °C and the bottom hole pressures can amount to 200 MPa (2,000 bar, 29,000 psi). The formation waters streaming into such wells generally exhibit high salinity and high content of scale forming ions, particularly Ca2+, Sr2+ and Ba2+. Very often they also contain enhanced concentrations of heavy metal compounds, e.g. from Pb, Hg, As, Cu, Ni, V, Mn, Co, Cr, etc.. The fluid hydrocarbons, which can contain enhanced amounts of heavy metals as well, tend to precipitate asphaltenes and waxes, while the gas phase is enriched in CO2 and H2S and (if present) with elemental sulfur. The likelihood to find H2S in the hydrocarbon reservoirs generally increases with increasing depth. Fig. 2 shows the distribution of H2S with depth in carbonate rocks as found in the Aquitain Basin in France (Fig. 2). The trend is in accordance with existing zoning models for deep gas reservoirs, though not all of them contain H2S. Thus, in Germany a gas bearing formation was found in a depth of 5,200 m containing H2S-free sweet gas.
+
+2
+
+Depth
+(Feet)
+
+Temperature 10°C (°F) 50 (122)
+
+0m
+
+( 10,000) ( 15,000) ( 20,000)
+
+3,000 4,500
+
+OIL
+
+Depth
+
+Temperature °C (°F)
+
+100 (212) 150 (302)
+
+m
+(Feet)
+
+3,000
+(11,483)
+
+3,500
+
+OIL
+
+100 (212) 120 (248)
+
+6,000
+
+GAS
+
+200 (392) 250 (482)
+
+(14,764)
+
+4,500
+
+GAS H2S
+150 (302)
+
+( 30,000)
+
+9,000 0 0.5
+
+275 (527) 1
+
+(18,045)
+
+5,500
+
+40 100 400 1,000 Gas Yield (ml/g Corg.)
+
+Figure 1: Depth distribution of oil and gas in reservoirs (Tissot & Welte, 1978)
+
+Figure 2: Depth distribution of H2S in carbonate rocks (Le Tran et al, 1974)
+
+At such high temperatures and pressures supercritical conditions may be encountered (supercritical data of C02: 31,1°C/73,8 bar; H2S: 100°C/89,4 bar) which create solubilities for a multitude of organic and inorganic compounds. On the other hand, solubilities may become pressure dependent at pressures obove 150 MPa. Compounds dissolved under these conditions exhibit reduced solubility at lower temperatures and pressures and precipitate. In the worst case this causes plugging of production strings. Thus, scaling is the most prominent problem in operating deep hot wells. Other problems are deposition of asphaltenes and waxes, materials corrosion, increasing flow resistance at scaled and/or corroded tubing walls, bioactivity (fouling) due to contamination by well treatment media and hydrate formation. Hydrate formation becomes a major problem specifically in those installations used for subsea transport of produced gas from offshore plattforms and is favoured by high downhole pressures which increase the stability of hydrates at higher temperatures, specifically in the presence of CO2 and H2S (Fig. 3).
+
+3
+
+Scale Inhibitors
+
+Pressure
+
+Hydrates
+
+Corrosion Inhibitors Chemical Treatment
+
+Wax Inhibitors
+
+Gas/ Water/Acids (CO2 , H2S)
+
+Biocides Hydrate Inhibitors
+
+Flow Improvers
+
+Temperature
+Figure 3: Stability of hydrocarbon hydrates
+
+Figure 4: Types of chemical treatment
+
+All this demands for specific technological solutions, many of them still have to be developed. Concepts available for the production of oil, condensate and gas from depths of 3,000 to 3,500 m cannot be applied to deep hot wells without specific adaptions and modifications. This includes materials selection, well completion and stimulation as well as chemical treatment (Fig. 4) with scale inhibitors, wax/asphaltene deposition inhibitors, flow improvers (drag reducer), hydrate inhibitors, biocides, and corrosion inhibitors. In the following, the conditions will be discussed for which the different chemical additives have to be selected and designed.
+
+Chemical Treatment
+Scale Inhibitors It is a general trend that the salinities of formation waters increase at greater depths and higher temperatures. This can be explained partly by the geological sedimentation conditions and environments of the oil and gas reservoirs. Higher solubility of solids and enhanced reaction rates for mineral/fluid reactions contribute to this trend. Table 1 gives some examples of the salinity and chemical composition of formation waters sampled from deep wells at different sites in the North Sea. Though mainly composed of sodium and chloride ions considerable amounts of calcium ions were found in most of the waters, but also unusual high amounts of strontium and barium ions were encountered indicating a high potential of scale precipitation composed of (Ba,Sr)SO4 when formation waters get in contact with sulfate containing fluids and are cooled at the same time. The tendency to produce (Ba,Sr)SO4 scales is pronounced at Ba and Sr ion concentrations above 40 mg/L. These scales are hard, fine grained and insoluble. They can hardly be removed mechanically or dissolved chemically and may cause severe safety problems when deposited in safety valves or other production equipment. Therefore, application of scale inhibitors is required if sulfate containing formation waters have to be handled. In these cases also CaSO4 (anhydrite) can be formed. 4
+
+Table 1: Salinity and chemical composition of formation waters from deep wells in the North Sea Parameter Location No. 1 2 3 4 3,632 4,097 4,225 4,403 Depth [m] 142 143 154 171 Temperature [°C] 5.99 6.24 5.40 6.48 pH 153,746 122,351 291,764 147,671 Salinity [mg/L] 14,894 5,968 33,202 16,457 Ca2+ [mg/L] 2+ 1,060 683 1,139 1,270 Sr [mg/L] 700 783 563 27 Ba2+ [mg/L] 2+ + 1,559 404 8,798 1,767 Mg + K [mg/L] + 39,221 40,210 68,694 35,060 Na [mg/L] 95,750 74,303 178,420 92,489 Cl- [mg/L] 2562 948 601 SO4 + Br [mg/L] High calcium ion concentration can yield CaCO3 scale deposition, preferentially topside after pressure reduction during flow through tubings. This type of scale is less troublesome than (Ba,Sr)SO4 scale precipitation, as CaCO3 can be dissolved chemically by acid treatment (HCl). Therefore, prophylactic inhibitor treatment against CaCO3 deposition can be quite reasonable. A further troublesome mineral scaling in hot wells is the deposition of silica and silicates often mixed with oxides (mainly iron and manganese) or sulfides. The reason is that the solubility of silica and silicates increases significantly with increasing temperature, specifically at temperatures encountered in deep hot wells. Fig. 5 shows for example the solubility curves for SiO2 modifications in water. Fig. 6 indicates the great importance of pH. Deposition of silica and silicates on downhole production equipment or on corrosion control or other well control equipment imposes great problems for safe production. The use of HF as acidizing treatment will in addition yield a great amount of volatile Si compounds such as SiF4, SiF62-, etc. which can be a source of CaF2 precipitation. The treatment/removal of such scales is frequently complicated by the fact that such scales are mostly contaminated with other components such as metal oxides, sulfides, carbonates and also organic compounds and sometimes with radionuclides which may cause work environmental and disposal problems.
+
+5
+
+1,000 pH 12
+1,400
+
+Solubility (ppm SiO 2)
+
+1,200
+
+100
+
+pH 11 pH 10
+
+Si lic a
+
+1,000 800 600 400 200
+
+SiO 2 (g/l)
+
+Am or ph ou s
+
+ba to is tz Cr ar Qu
+180 260 340
+
+e lit
+
+10 pH 9 1
+
+pH 7 & 8
+
+0 20
+
+100
+
+0,1
+
+Temperature (°C)
+Figure 5: Solubility of SiO2 modifications in water. Effect of temperature.
+
+0
+
+Temperature (°C)
+
+50
+
+150
+
+250
+
+Figure 6: Effect of pH on SiO2 solubility
+
+Therefore, a primary task of a chemical treatment must be the prevention of such deposits on downhole production equipment. Possible candidates are scale inhibitors, wax/asphaltene inhibitors and/or solvents. For the selection of scale inhibitors a relatively high level of know-how is available from widespread oil field application. Phosphonate- and polyacrylate-based scale inhibitors have turned out to be the most effective under normal oil field operation conditions. However, the efficiency and stability of these organic molecules are highly dependent on temperature, pH and interfering chemical species, such as various heavy metal ions. So far, only indirect information is availbale on the performance of typical scale inhibitors under the extreme conditions of deep hot wells. It stems from the geothermal literature and let expect that most of the scale inhibitor molecules used will not work efficiently under deep hot well conditions as they do under normal oil field conditions. Fig. 7 gives typical generic structures of scale inhibitors. The phosphate ester structure is not applicable in deep hot wells as the ester group is hydrolized quickly at temperatures above 100 °C and the hydrolysis products are only very poor scale inhibitors. Better candidates are the phosphonates which contain the more stable carbon-phosphorous bond. Many derivatives are amino compounds, but N-free compounds are also available. Scale inhibitors based on polyacrylic acids and/or co-polymers undergo hydrolysis at higher temperatures as well. However, the hydrolysis products retain considerable scale inhibitor activity. Figs. 8 and 9 show some examples of widely used phosphonates, the most thermally stable compound being PBTC (2-phosphonobutane-1,2,4tricarboxylic acid). Scale inhibitors must be highly water soluble with no or extremely low solubility or dispersibility in hydrocarbons. They only can do their job when they are present in the water at effective concentrations 6
+
+(threshold concentration) when scale first begins to form. Therefore, for deep hot wells continuous injection is necessary. Squeeze treatments are less advisable as this method generally cannot guarantee that the effective inhibitor concentration (3-10 ppm) is always present. Thermal stability and efficiency (threshold activity) at high temperatures are needed for sufficient performance in deep hot wells. More experimental work is needed to identify appropriate scale inhibitors for extreme application conditions.
+HH RN
+1
+
+OH
+CH 2 PO(OH) 2 N CH 2 PO(OH) 2 CH 2 PO(OH)2 AMP
+
+C C O P OH
+
+R2 H H O Typical phosphate structure (di-substituted ethanolamine derivative) CH 2 P(OH) 2 O N CH 2 P(OH) 2 CH 2 CH 2 N CH 2 CH 2 P(OH) 2 O (OH) 2P
+
+Amino-tris-methylene phosphonic acid
+
+OH CH3 C P O (OH) 2
+
+HEDP
+
+P O(OH) 2
+
+O O n Generalized phosphonate structure R CH2 C O COR
+1
+
+1-Hydroxy-ethane-1,1-diphosphonic acid
+CH2 C O O H HOOC C P O (OH) 2 CH2 CH2 C O O H PBTC
+
+R CH2 O C
+
+2
+
+x Substituted acrylic acid polymer
+
+CO
+
+R
+
+3
+
+y
+
+2-Phosphonobutane-1,2,4 tricarbonic acid
+
+Figure 7: Generic structures of scale inhibitors
+(OH) 2 OP CH 2
+
+Figure 8: Structures of typical phosphonates
+CH 2 PO(OH) 2 N (CH 2 )n N CH 2 PO(OH) 2
+
+(OH) 2 OP CH 2
+
+n=2: Ethylenediamine-tetramethylene phosphonic acid (EDTMP)
+n=4: Hexamethylenediamine-tetramethylene phosphonic acid (HDTMP)
+(OH)2O P CH2 CH 2 PO(OH) 2 CH2 PO(OH)2 N CH 2 CH 2 N CH 2 CH 2 N (OH)2O P CH2 CH2 PO(OH)2
+
+Diethylenetriamine-pentamethylene phosphonic acid (DTPMP)
+
+Figure 9: Structures of polyphosphonic acids Inhibitors of wax and asphaltene deposition
+
+7
+
+The list of production and safety problems caused by deposition of organic precipitates on production equipment in deep hot wells is long: - plugging of production tubings and coiled tubings, - obstruction of wireline operations, - malfunction of downhole safety valves, - impairment of the efficiency of main separators. Organic precipitates are mixtures of higher molecular normal, branched and/or cyclic paraffines, gums, resins, and asphaltenes (polynuclear aromatic hydrocarbons). Their deposition can be initiated by different factors: Changes in reservoir fluid temperature and pressure, changes in the reservoir fluid composition caused by degasing of the hydrocarbon phase, and injection of chemical additives in the well. Electrokinetic effects due to generation of a streaming potential caused by flowing reservoir fluid, changes in flow velocities and disturbances of the electric charges of highly polar hydrocarbon molecules can be further reasons for flocculation and solid precipitation from hydrocarbon fluids. These processes are rather complex and presently still not understood. Once such flocculation and deposition has occured expensive remedial and clean-up operations are necessary. Specifically offshore, such operations can become costly and are often connected with safety and legal/environmental problems. Regular monitoring of the downhole equipment and - if necessary injection of suitable chemical solvents or inhibitors are strategies to overcome this problem. Scraping or pigging operations seem not to be applicable if downhole safety valves or coiled tubings are obstructed by wax/asphaltene deposition in a deep hot well. Here again, the choice of the appropriate treatment technique and the selection of effective wax/asphalthene inhibitors are crucial factors for successful operation of deep wells. Chemical treatment includes application of solvents and wax (,paraffin`) inhibitors. Solvents used are normally impure refinery cuts. Depending on the dominant generic structure of the organic deposits, the cuts are more paraffinic or more aromatic in nature to obtain maximum solubility of the deposits. Aromatic solvents generally contain xylenes as the major class of compounds. Paraffin/wax inhibitors can be devided into the following generic types: Vinyl polymers (polyvinyl acetates), alkylbenzene sulfonate salts (alkyl = C12-18), and mixtures of alkyl polyglycol ethers and aryl polyglycol ethers. Basically they belong to the class of surfactants which are applied as water/hydrocabon mixtures, sometimes with small additions of amines such as ethylendiamine. A typical mixture contains 8 wt-% aromatic solvent (toluene/ xylene mixture), 0.25 wt-% ethylenediamine, 0.6 wt-% nonylphenol ethoxylate with average ethoxyl content of 30 EO, and 91.15 wt-% water. Again, it has to be stated that chemical treatments which are available for ,normal` oil or gas condensate wells, may not be effective in deep hot wells. High temperature/high pressure laboratory investigations and testing of hydrocarbon/ water/chemicals systems are the only way to make the right choice.
+
+8
+
+Flow improvers In deep hot wells even a small increase of surface roughness due to deposition of scales or corrosion attack will increase the pressure drop in the production tubing significantly, thus reducing the production rate. Chemicals can be added to the system which function as drag reducers, i.e. they reduce the wall shear stress between the flowing produced liquids and the tubing wall. Such additives include high molecular polyglycol ethers, high molecular polyacrylic esters, special classes of surfactants, and some types of corrosion inhibitors.
+150
+( p) [mbar]
+
+Change of Pressure Drop
+
+100
+
+pH4
+50
+
+(N/m²)
+
+60 10 % HC; 18.4 m/s; 1 mmol/L Additive
+No Additive
+
+Wall Shear Stress
+
+Inhibitor B
+
+40
+
+C12 -EO4
+
+0
+
+-50 0
+
+3.5 bar CO 2 100 °C; 23 m/s
+10 100 1,000 10,000
+
+20
+
+C12 -NH 2 +C12 -EO4 Octadecylamine Dodecylamine
+
+0
+
+Active Inhibitor-Conc. [ppm]
+
+0
+
+10
+
+20 30 Gas Density
+
+40 (g/L)
+
+Figure 10: Full bore 2 3/8" flow loop run under CO2 corrosion conditions
+
+Figure 11: Annular mist flow loop run under CO2 corrosion conditions
+
+An example of the flow improving property of a CO2 corrosion inhibitor (inhibitor B: oil soluble/water insoluble) based on a new inhibitor chemistry is given in Fig. 10. The experiments were perfomed in a full bore 2" flow loop with 2 3/8" tubing sections from low alloy steel (38 Mn 6). The corrosive medium was a 90:10 brine(1 M NaCl)/ hydrocarbon (isooctane + xylene isomers) mixture. The system was pressurized with 3.5 bar (0.35 MPa) CO2 at 100°C. The pH was kept constant at 4.0 by controlled addition of hydrochloric acid. At a liquid flow velocity of 23 m/s the change of pressure drop over a 40 cm test section was measured at the begin and at the end of 4 days experiments in the presence of different concentrations of active inhibitor B. It appeared that the change of pressure drop was significantly reduced with increasing inhibitor concentration. The same brine/hydrocarbon mixture as above was circulated in a test loop under annular mist flow conditions with a superficial gas velocity of 18.4 m/s and a superficial liquid velocity of 0.015 m/s at 80 °C and CO2 partial pressures up to 25 bar (Fig. 11). In the presence of 1 mmol/L additive the linear relationship between wall shear stress and gas density (CO2 gas pressure) significantly deviated from linear (absence of additives). The highest effect was measured at higher CO2 pressures in the presence of higher
+
+9
+
+molecular alkylamines. The wall shear stress could be reduced by a factor of 5, thus reducing the risk of flow induced localized corrosion (FILC). Under highly turbulent flow conditions the drag reducing properties of some corrosion inhibitors have been proved to increase the critical wall shear stresses for initiation of FILC even under severe sour gas corrosion conditions. Fig. 12 summarizes results obtained from jet impingement experiments with low alloy tubing steel in 90:10 brine/hydrocarbon mixture pressurized with 40 bar(4 MPa) H2S at 110 °C in the absence (blank) and presence of 1,000 ppm of corrosion inhibitor. It appeared that the PSI/DDA(3:1) adduct shifted the critical wall shear stress to higher values than the widely used, highly effective commercial sour gas inhibitor A. This demonstrated that environmentally friendly inhibitors can be developed to replace environmentally less acceptable additives.
+
+Integral Corrosion Rate [ /mm/y]
+
+5.0
+
+Blank
+4.0 3.0 2.0 1.0 0 10 20
+
+open Symbol: no FILC solid Symbol: FILC
+
+LTA Inhibitor A
+
+PSI/DDA (3:1)
+30 40 50 60 70
+
+Wall Shear Stress at (x=3d) [Pa]
+
+Figure 12: Jet impingement corrosion experiments with carbon steel in 90:10 brine/ hydrocarbon mixtures at 110°C under 40 bar H2S. Effect of 1,000 ppm corrosion inhibitors on initiation of FILC. (LTA = lactobionic tallow amide; PSI/DDA(3:1) = polysuccine imide/dodecylamine adduct; inihibtor A = highly effective commercial sour gas inhibitor based on amideamines of higher molecular carboxylic acids) However, all of the above discussed experimental conditions are still far away from those encountered in deep hot wells. If similar effects exist at higher temperatures and higher pressures remains to be investigated. Information available from the open literature is close to zero. Hydrate inhibitors Formation of hydrocarbon hydrates can be a problem in production of natural gas. Natural gas hydrates are ice-like solids consisting of water, hydrocarbon gas molecules, and ­ if present ­ carbon dioxide and hydrogen sulfide (Fig. 3). Under certain conditions these solids can form in the equipment, blocking or breaking lines in a manner similar to frozen water pipes. However, hydrates differ from ice in that they can form well above 0°C, e.g. even at 25 °C 10
+
+depending on the gas composition and partial pressures of hydrate forming gases. The solidification temperature increases with higher pressures, higher molecular weight gases, and higher concentrations of acid gases (CO2, H2S). High salt concentrations in produced formation waters lower the hydrate freezing point, similar to the way salt lowers the freezing point of water. In the operation of deep hot wells hydrate formation can be a problem for subsea transport lines from offshore wells to inshore plants. In these subsea lines the preconditions for hydrate formation may come together: high pressures, low temperatures, high H2S and/or CO2 partial pressures. Hydrate freeze-ups can be prevented by chemical treatment. The chemicals used are called hydrate inhibitors or freeze point depressants. The two most common chemicals are methanol and ethylene glycol. The problem is that both chemicals prevent hydrate formation only if present in high concentrations (e.g. 25 vol-%). Additives have been developed which reduce the minimum methanol or glycol concentration, however, so far no additive has been found that avoid the presence of considerable concentrations of methanol or glycol. Furthermore, some of them interfere even negatively with other chemical additives. This problem definitely needs further investigation and development. Biocides Chemicals controling downhole biological activity may be needed for special production systems at deep hot wells. Sodium hypochlorite and glutaraldehyde are the chemicals predominantly used, however, interference with other chemical treatments has to be considered and tested. Since about 2000 the use of many generic types of biocides is restricted by national and international regulations. It is not advisable to mention the biocidic properties of e.g. corrosion inihibitors. It might be taken as biocides and could then be restricted in use. Corrosion inhibitors The chemical species predominantly responsible for materials attack in deep hot wells are carbon dioxide, hydrogen sulfide, elemental sulfur and chlorides (halides). The corrosiveness of these species depends on the partial pressure of CO2 and/or H2S, the salinity of the aqueous phase, the presence of organic acids, the pH, the temperature, local flow intensities, and, of course, the condition of the material (microstructure, stress, strain, etc.). Corrosion prevention concepts consist of i) use of carbon steels in combination with corrosion inhibitors, ii) use of corrosion resistant alloys (CRA) without adding corrosion inhibitors, iii) mixed completion: upper part carbon steel (+ inhibition), lower part CRA. At the first sight the second alternative seems to be the right choice for deep hot wells. However, at high temperatures, high salinity formation waters, high H2S partial pressures and in presence of elemental sulfur also CRA may 11
+
+suffer severely from corrosion attack (shallow and deep pitting, stress corrosion cracking). Specifically the presence of elemental sulfur adds a new quality to the system's corrosiveness. Elemental sulfur may not be present in all sour fields from the beginning. However, there are many expamples where elemental sulfur showed up in sour fields (specifically in highly sour fields) after years of sulfur-free production. Therefore, when discussing concepts for corrosion protection in deep hot wells the possible presence of elemental sulfur should be considered for highly sour fields even if no sulfur is present from the beginning. Once localized attack is generated, the site of localized attack, e.g. a pit, can be enlarged by fluid flow due to local microturbulences, even if no solid particles are present. At sites of high energy microturbulences fluid dynamic forces can also destroy passive layers on CRAs, thus producing FILC on CRAs. Another problem arises for CRAs if acidizing is necessary to stimulate the production. At high temperatures (>140°C) CRAs are corroded more or less uniformly with extreme corrosion rates by the acids used for formation and well stimulation. Considering all this, also with CRAs the question of inhibition comes into the discussion. It appears that inhibition of CRAs is much more difficult to achieve than of carbon steels. For some corrosion systems, so far no effective inhibitors are available at all. However, inhibition of CRAs is basically possible. This is also needed in some cases to extend the individual application limits existing for the different CRA grades. Inhibition of sour corrosion There is no doubt that reliable inhibitors are available for sour service at temperatures up to 150 °C. However, their performance is very much dependent on the flow intensity prevailing in the production string. Reports on inhibitor efficiency at temperatures higher than 150 °C, e.g. up to 250°C, are scarce and to some degree controvers. According to the experiences available from deep hot well operations it appears that continuous downhole inhibitor injection of an oil soluble, water dispersible corrosion inhibitor proved to be the most efficient corrosion protection method. This method requires high inhibitor concentrations (2,000 mg/L), installation of additional injection strings and valves (CDIS) and an extensive corrosion monitoring programme which enables to upgrade the inhibition treatment if changes in production parameters occur. Formation squeeze and downhole batch treatment have shown to be inadequate. It was reported that after a formation squeeze treatment performed with a combination of scale and corrosion inhibitor, a reduction of the reservoir permeability by 71% was observed. When applying downhole batch treatments, a full tubing displacement was required. A drastical 12
+
+reduction in the well production over a some days period was observed with certain danger for a total well kill. As mentioned before, the presence of elemental sulfur adds a new quality to the corrosiveness of sour systems. Sulfur/brine suspensions attack duplex stainless steel at 90 ­ 140°C under 25 bar(2.5 MPa) H2S + 25 bar CO2 (hot pressure) with the same high corrosion rates as low allow steels (10 to 100 mm/y).Table 2 compares these results with the performance of CRAs. In the absence of corrosion inhibitors the corrosion rates are quite high even with 28Cr32Ni steel. Table 2: Corrosion of low alloy steels and CRA in sulfur/brine suspensions under 2.5 MPa H2S + 2.5 MPa CO2 at 90 ­ 140 °C (unstressed samples) Material Corrosion Rate [mm/ y] 10 - 100 Low Alloy Steels 10 - 100 Duplex Stainless Steels Alloy 600 1-3 Alloy 718 Alloy 800 H MW 28 32 (28Cr32Ni) 0.3 ­ 0.8
+
+Inhibitors have been tested sucessfully to prevent corrosion failures at carbon steel and duplex stainless steel (Table 3). Water soluble inhibitors proved inefficient in sulfur containing systems. Inhibitors with other phase behaviour generally showed different efficiency at low alloy steel than at duplex steel. Inhibitor E exhibited the best performance at both types of material. Table 3: Effect of corrosion inhibitors (3 mass-%) on corrosion of low alloy steel and duplex steel in sulfur/brine suspensions under 2.5 MPa H2S + 2.5 MPa CO2 at 130 °C (unstressed samples) Inhibitor Phase Behaviour Corrosion Rate [mm/ y] Low Alloy Steel Duplex Steel 6.6 0.08 Os/Wis (high molecular weight) 4.9 B Os/Wis (low molecular weight) >20 C Ws 5.7 D Os/Wd 0.05 E Os/Wd 0.7 F Os/Wd (Os = oil soluble; Wis= water insoluble; Ws = water soluble; Wd= water dispersible) None A 19.3 0.01 1.4 >20 0.04 0.01 26
+
+13
+
+Beneficial effects were reported from amine additions used as sulfur solvent in sulfur bearing sour gas wells. Thus, the amine reduces the SCC suseptibility of all CRAs investigated, except Alloy C 276, even at low pH values (Table 4). Table 4: Effect of diethylamine on SCC of CRA in brine (25g/L NaCl)/sulfur (1g/L) suspension under 0.65 MPa H2S (100 psi) at 232 °C (450°F) (3-point bent specimens) Material Time to Failure [h] No inhibitor Presence of 5% Diethylamine pH 10 ­ 11.2 and pH 3.3 ­ 5.5 720 >1440 Duplex 960 >1440 Alloy 825 1440 >1440 Alloy 985 >8.640 >1440 Alloy C276 In the same corrosion system as described above, addition of NaOH ( pH increase from 4.5 to 7.5) increased the time to failure of C-ring samples of alloy 825, alloy 985 and alloy H-9M considerably. Similarly, the addition of monoethylamine prevented SCC at the following alloys: UNS S31803, duplex alloy 225, alloy 904L, Alloy 28, alloy 925 (30%CW), alloy 925 (aged), alloy 535, alloy 718 (heat-treated, HRC 45), alloy 825, alloy G3 and alloy 8700. Inhibitors performed well on CRA also under more aggressive conditions (Table 5). Thus, stressed samples (90% YS) of alloy 8700 and alloy C 276 did not fail after 49 days of exposure in an environment given in Table 5 and in the presence of an oil soluble inhibitor. In the absence of this inhibitor these materials would fail in less than 30 days. Table 5: Effect of oil soluble inhibitor on time to failure of CRA tensile probes (90% YS) under sour gas conditions [brine(25g/L NaCl)/sulfur (1g/L) sus-pension under 70MPa sour gas (50%CH4, 35% H2S,15% CO2) at 232 °C (450°F)] Material Alloy 8700 Alloy C 276 Time to Failure [days] No Inhibitor Inhibitor <30 >49 <30 >49
+
+Though these experimental results look quite promising, there is still a great potential for improvements, even in the case of successful continuous downhole injection treatment. Thus, the following problems need still to be solved for deep hot well operations: - Iron sulfide and mineral scale build-up on the tubing downhole have to be inhibited as they may mask the real extent of internal corrosion in corrosion monitoring operations. - Emulsion problems in the produced fluid have to be solved. 14
+
+- Optimization of injection rates and inhibitor concentrations in the injections and produced waters may becomes necessary. - Better understanding of the inhibitor partitioning and active film forming characteristics particular in the bottom part of the production tubing has to be gained. - Erosion corrosion under highly turbulent, disturbed flow conditions in the high temperature range has to be mitigated. Acid inhibitors for high temperature application Inhibitors used today in mineral acids fall into two broad groups: low temperature (below 110 °C) and high temperature (up to 250 °C). Low temperatur inhibitors are generally organic in nature and are composed of Nand S-containing compounds, acetylenic compounds, aldehydes, ketones, oil wetting compounds, alcohols, surfactants and coupling agents. High temperature inhibitors are generally fomulated similar to packages used in low temperature inhibition, but additionally contain divers intensifiers which may be part of the inhibitor composition or added directly to the acid. Such intensifiers include formic acid and derivatives, acid soluble iodine salts and acid soluble salts of copper, antimony, bismuth and mercury. For azidizing and frac operations at deep hot wells acid inhibitors are needed that work e.g. in concentrated HCl at high temperatures (>120°C) and in the presence of H2S. Hydrogen sulfide interferes with hydrochloric acid corrosion inhibitors and lowers the performance of typically applied inhibitor packages considerably, specifically at high temperatures. The stimulating effect of H2S on the corrosion of CRAs in uninhibited HCl at 130°C is demonstrated in Fig. 13. In the absence of H2S all alloys tested - except alloy 718 - are corrosion resistant within the definition that during an exposure time of 4 h in the acid at treating temperature the loss of wall thickness should not exceed 0.1 mm/a. This corresponds roughly to a uniform corrosion rate of 200 mm/y. However, the presence of H2S stimulates the corrosion attack by a factor of 10 to 14. Under these conditions even the otherwise very corrosion resistant alloy C 276 is only moderately stable. All the other alloys would not be acceptable without effective inhibition as they exceed the target corrosion rate of 200 mm/y.
+
+15
+
+Corrosion Rate [mm/a]
+
+1,300
+Corrosion Rate (mm/a)
+1323
+
+N2 H2S
+697
+
+1,000 700 500 300 100
+55
+
+3,000 ppm H2CO 3,000 ppm H2CO + Intensifier AN
+
+100
+
+558 288 46 118 9
+
+50
+
+y lo Al
+
+5 62
+
+y lo Al
+
+8 71
+
+3 6 27 yG C lo y Al lo Al
+
+i i 3 6 8 5 2N 0N 27 71 62 yG r3 r5 oy yC oy C C llo l I A lo Al 28 25 Al Al
+
+0
+
+Figure 13: Corrosion of CRAs in 18% HCl at 130 °C. Uninhibited system.
+
+Figure 14: Corrosion of CRAs in H2S containing 18% HCl at 130 °C. Effect of formaldehyde and intensifier AN
+
+The effect of corrosion inhibitors on the corrosion attack of CRAs in H2Scontaining 18% HCl at 130 °C is exemplified in Fig. 14. Compared to the inhibitor-free system the addition of formaldehyde and further more the use of an intensifier reduces the corrosion rate significantly. The present status of todays commercial inhibitor performance in 18% HCl in the presence of H2S at 130 °C is described in Fig. 15. The results are based on an exposure time of 3 h. The problem of inhibition of duplex stainless steel is still unresolved. In experiments one is always happy to find some remainder of the coupons still in the vessel. In any case it needs very high inhibitor concentrations. In contrast to duplex steels, carbon steels can be easily brought into the range of the target corrosion rate of 200 mm/y. The corrosion rates listed in Fig. 15 range in the shaded area, with 28Cr32Ni on the high side and alloy C 276 on the low side. The effect of temperature increase to 150 °C is shown in Fig. 16 with 3,000 ppm formaldehyde as inhibitor. The increase in corrosion rate is significant, and one alloy (28Cr32Ni) climbs beyond the target line at 200 mm/y. The higher the temperature, the higher the corrosiveness and the more problems arise with the performance of corrosion inhibitors.
+
+16
+
+Corrosion Rate (mm/a)
+
+400 300
+
+Duplex Steel
+
+Corrosion Rate (mm/a)
+
+200 100 0
+C 276
+
+Carbon Steel
+
+308
+
+28Cr32Ni
+
+28Cr32Ni 25Cr50Ni Alloy 625 Alloy 718 Alloy G3 Alloy C 276
+
+200
+
+130 °C 150 °C
+
+100
+
+0
+
+(Mass-%) 1 2 Inhibitor Concentration
+
+0
+2 r3 8C
+
+i 2N
+
+i 3 6 18 25 0N 27 yG y7 y6 r5 yC llo llo llo 5C A lo 2 A A Al
+
+Figure 15: Summary of results of performance testing of 14 commercial acid corrosion inhibitors in H2S containing 18% HCl at 130 °C
+
+Figure 16: Effect of temperature on the efficiency of 3,000 ppm formaldehyde on the corrosion of CRAs in H2S containing 18% HCl
+
+Environmental aspects of Chemical Treatments
+When selecting chemicals for chemical treatments in oil and gas production, environmental aspects gain more and more importance. This is specifically true for offshore productions where a great part of the chemicals used are discharged into the water in one way or another. Statistics show that far more drilling chemicals are used and discharged than production chemicals. However, production chemicals may contain more toxic substances. The predominant chemicals in the produced water discharges are scale inhibitors, corrosion inhibitors and gas treatment chemicals, representing together about 80 % of the chemical discharges. Their environmental impacts can be assessed from the discharge concentration with respect to the aquatic toxicity in terms of LC 50 in ppm measured for characteristic marine species (algae, crustacea, fish) (Table 6). Table 6: Aquatic Toxicity of Chemicals Generic Chemical Type Methanol Glycols Scale Inhibitors (Phosphonates, Polyacrylates) Corrosion Inhibitors Biocides (Glutaraldehyde) Aquatic Toxicity LC 50 [ppm] >10,000 >5,000 >1,000 1 - 10 1 - 10 Discharge Concentration [ppm] <LC 50 < LC 50 ca. 30 n.g. n.g.
+
+17
+
+Discharged gas treatment chemicals are methanol and various glycols, all being water soluble and easily biodegradable. The discharge concentrations are far below the LC 50 values, and are not assumed to have any negative environmental impact. Scale inhibitors are water soluble and exhibit LC 50 values above 1,000 ppm. Average discharge concentrations are estimated to range in the order of 30 ppm. Accute toxicity is therefore not assumed to be a major concern. Scale inhibitors are mainly polyacrylates and phosphonates. The biodegradability of some of these products is low and bioaccumulation may be possible. The corrosion inhibitors and the biocides are the most toxic from the discharged treating chemicals. They exhibit aquatic toxicities in the order of only 1 to 10 ppm. This indicates that discharges of corrosion inhibitors may have potentials for negative effects on the marine environment. In addition to the individual effects of chemicals used, all components in the discharges may impose synergistic effects on the marine environment. They are, however, difficult to predict and would have to be established by testing in a variety of combinations. Concerns of north-east atlantic pollution from land-based and offshore sources prompted the establishment of a control system for the use and the discharge of offshore chemicals. This control system was developed by the Oslo-Paris (OSPAR) commission, a European body with members of states bordering the North and Baltic Sea. OSPAR developed a Harmonized Mandatory Control Scheme (HMCS) consisting of i) the Harmonized Offshore Chemical Notification Formate (HOCNF), ii) test protocols and iii) definition of test species. The HONCF contains information on the applied functional chemicals (chemical structure and properties, type of application, discharge, environmental properties). Detailed lists of requirements have been developed since around 1990 which must be met to receive discharge permits for offshore used chemicals. After a pre-screening (Is the chemical contained in the PLONOR(Possess Little Or No Risk to the environment)-List and/or the Annex 2 of the OSPAR strategy? Is it inorganic in nature? ) several requirements have to be fulfilled, e.g. biodegradability >20% in 28 days; toxicity (LC 50 or EC 50)>10 mg/L (mostly Skeletomena Costatum); high molecular weight beyond likelihood of bioaccumulation or Log POW<3 (log POW is the logarithm of the partitioning factor between n-Octanol and water); hazard quotient HQ < 1; risk quotient < 1. These regulations, firstly established for the North and Baltic Sea region, today have been adopted more or less in many other parts of the world for offshore oil and gas production. Naturally, this was at the same time a big challenge for the selection and development of environmentally friendly treatment chemicals. For ,normal` production conditions acceptable solutions
+
+18
+
+seem to be available today. However, for deep hot wells huge problems have still to be resolved.
+
+Challenges for research and development of chemicals
+
+functional
+
+The demand for environmentally more friendly functional chemicals and the rigid lists of requirements with more or less legal character clearly stimulated research and development in this field. On the other hand, national and regional laws and regulations which have been issued and enforced in the last two decades on the commercial use and transport of chemicals, have damped the R&D enthusiasm considerably, as they build up severe financial hurdles for the application of new chemicals which so far have not been collected in the list of ,old` chemicals. Before 1 kg of a new treatment chemical can be commercially applied, about 300.000  have to be spent in Europe and 200,000 US$ in the US, to run through all testing for carcinogenity and environmental hazards. And this comes on top of the considerable costs to be payed anyway for innovative and pathfinder R&D work. This is a big burden for the development of new functional chemicals which generally are designed to be effective in small quantities, and therefore are not produced in big tonnages. This increases the time for return-on-investment. As this time is steadily reduced for the sake of the stockholder, the decisions to take such financial risks come more and more reluctant and will only be taken by big, world-wide operating companies, and only for more bulky chemicals. This reduces significantly the chance for long-term strategic developments which are needed to meet e.g. the challenges in deep hot well operation. Strategic developments would include new chemicals that not only fulfill the requirements of high performance for the envisaged purpose, chemical and thermal stability, compatibility with other treatment chemicals, and environmental demands, but also can be easily monitored in their active concentration (preferentially online and also at remote sites). Monitoring demands will become more and more important in future production from difficult-to-operate wells, such as deep hot wells. An interesting concept intends to modify appropriate chemicals with tracers which can be used for online monitoring, e.g. by spectroscopic means. The tracer would be a structural part of the functional compound and should, of course, not interfere negatively with the product requirements listed above. The tracer concept cannot be realized in short- term projects. Therefore, its soon realization seems rather unlikely. The same fate can be foreseen for projects aiming at the development of multifunctional chemicals which e.g. act not only as scale inhibitor but also as corrosion inhibitor, hydrate inhibitor and drag reducer and can be easily monitored. Such ,egg-producing-wool-milk-pig` would be intriguing because e.g. the dosing and compatibility problem should be very much reduced. 19
+
+Where is the management that dares to take long-term R&D decisions in functional additives for future oil and gas production? Were are the public funding programmes that would enable academic research to focuss on such subjects? The facit of all this is that in future times the development and application of new products with new innovative chemical design will be rather the rare exception. However, what remains to be done in industry and academia with ,old` chemicals in order to meet the challenges for future functional additives in oil and gas production, is still tremendous and can exhibit high scientific appeal.
+
+,Old` chemicals and those ,new` chemicals which have been approved for other purposes than oil & gas treatment chemicals can e.g. be revisited or tested for applicability under deep hot well conditions, i.e. for corrosion inhibition, scale inhibition, drag reduction, emulsifier, demulsifier, etc. at temperatures above 150°C and pressures up to 200 MPa in the presence of high salinity waters and high partial pressures of CO2 and H2S and maybe elemental sulfur. Thermal and chemical stability of such chemicals is one question, others are related to the special properties of supercritical media encountered under these conditions. Thus, phase behaviour, hydrocarbon/brine partitioning, wetting properties of exposed metallic surfaces, influence on corrosion and inhibition mechanisms, scale or hydrate precipitation kinetics, flow behaviour, possibilities for drag reduction and other treatment related issues are completely unknown for such media and conditions. It opens a huge new field of fundamental and applied research related to the industrial oil and gas production. Of course, such R&D has to use more sophisticated and therefore more expensive technologies and methodologies than those generally applied so far. High temperature, high pressure experimentation under highly corrosive conditions is needed to go beyond existing knowledge frontiers. Everything becomes more difficult, however, this can be managed and should challenge academic and industrial fundamental and applied research. The situation of R&D of functional chemicals in oil and gas production can be compared with the R&D situation in the polymer and plastics production. Here research is no more focussed on new monomers (like it was during 1930 to 1970), because all monomers with technical relevance have been identified already. The challenge is more in combinations (co-polymerisation), production technology, and blending of intermediate and final polymeric products to create new materials with tailor-made properties. And R&D in this field is very innovative, effective and successfull. We have presently the same development in the field of functional additives in oil & gas production. We have to admit that we have to use primarily known tools (i.e. ,old` chemcials) for the solution of new problems. There is a high potential to use ,old` chemicals intelligently and innovatively for new applications which should stimulate both academic and industrial research and development.
+
+20
+
+Conclusions
+Future challenges for functional chemicals in oil and gas production come from the increasing needs to operate deep hot wells in difficult-to-reach regions (offshore, uninhabited remote land regions). High downhole temperatures and pressures form environments that can jeopardize safe hydrocarbon production due to mineral scale formation, wax and asphaltene deposition, deposition of elemental sulfur (if present), hydrate formation and corrosion by CO2, H2S and elemental sulfur. This demands for chemical treatments which for the harsh conditions in deep hot wells have still to be designed and developed according to the production technologies applied. More knowledge has to be generated to enable the right selection of functional chemicals. Among the selection criteria environmental aspects have to range high. Search for solutions with new chemicals is hampered by restrictive chemical laws. However, even the need to solve production problems in the exploitation of deep reservoirs primarily with ,old` chemicals still leaves much room for exiting fundamental and service related R&D on their functionality, compatibility, and environmental acceptance.
+
+21
+

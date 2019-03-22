@@ -1,0 +1,165 @@
+ISSN 1466-8858
+
+Volume 5 Preprint 5
+Choosing a suitable weld deposit structures for tillage tools
+M. M. S. Hammad
+
+hammad@jerashun.edu.jo
+
+Abstract
+For purpose of this research, CK45 steel and four types of weld deposit materials were used and undergone for wear in the soil for determining of immunity of each. Experiments proved that the best immunity, which reached quadruple, compared with the basic CK45 weld deposit structure is material A , which obtained the highest metal immunity, indicating that the microstructure of the materials used for protection of the worn parts of tillage tools should be made of austenite and carbide, where this structure gives high resistance against abrasive wear in the soil. In addition, it increases the metal chemical stability and it accordingly gives thereof a high immunity against chemical influences of the soil. The least immunity obtained immunity, indicating its inability of resisting the mechanical and chemical effects of the soil compared with the other used materials. related to the material B which obtained 1.91 of the basic CK45 metal
+
+structure, soil
+
+Keywords: abrasive wear, wear resistance, tillage tools, weld deposit
+
+Introduction
+Tillage equipments used for preparation of the soil are exposed during their work to wear and degradation operations, particularly those parts
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+of which directly deal with the soil, requiring permanent and continuous search for creation of the best means for upgrading efficiency and immunity of these parts against wear in the soil.
+
+Wear of working operating parts of tillage equipments in the soil to [1] with separation of the metal surface particles due to another rough surface or rough solid particles.
+
+represents a type of abrasive wear, which is distinguished according
+
+Intensity of wear depends on both soil characteristics and its chemical solutions and the chemical and mechanical characteristics of the used material. [2] refer that Abrasive wear is encountered when hard particles, or hard projections (on a counter-face) are forced against, and moved relative to a surface. Abrasion, according to [3] is the removal of material from a surface by the movement of material across its surface. Many researchers in this area like [4] refer that abrasive wear in the soil reduces the size of working edges and surfaces and may damage or blunt cutting edges of the functional parts of agricultural equipments. agricultural machines. According to [5] durability against abrasive wear appears to depend mainly on the carbon content of the steel, improving with increased carbon content up to about 0.8%. Initial hardness of the metal has less effect. Carbon content influences hardness, ductility, and resistance to properties. [6] refer that addition of elements such as Ti, Cr, B, Ta to the metal leads to increasing the metal immunity against wear and its chemical stability. The factors affecting abrasive wear are the surface properties of the item being worn away, the abrasive properties of the material moving across the surface and the characteristics of motion. Where abrasive abrasive wear. Tungsten also plays an important role in these This reduces the efficiency and productivity of
+
+2
+
+wear is a problem it becomes necessary to understand the mechanism of attrition.
+
+The most important basic technological methods used for renewal of worn tillage equipment elements are weld operations which are thickness and structure and determined mechanical properties. marked with attaining the worn surfaces metal layers with required
+
+The used weld deposit materials differ as regards the chemical
+
+structure and mechanical properties. Accordingly their immunity against wear in the soil and their ability for protection of functional on their chemical content and crystal structure. Therefore this research aims at choosing the best types of weld deposit materials for worn functional parts of tillage equipments and studying phenomenon of degradation of these parts in the soil. parts of tillage equipments against degradation in the soil will depend
+
+Materials and Methods
+To realize goals of this research, CK45 steel was used. It is considered the most types of steel used for manufacturing the functional parts of tillage equipments exposed for wear in the soil. The following weld deposit materials, which are different as regards their chemical and mechanical structure were used: Material A ( DIN E10-UM60-G ) Material B ( DIN E423B42H10) Material C ( DIN E2-UM55-GT) Material D ( DIN E2-UM60-GP)
+
+(Table 1) shows chemical analysis and hardness of used materials 3
+
+Table1. Chemical analysis and hardness of used materials Materi al
+C CK45 0.4 5 Mn % 0.7 2 1.3 Si % 0.2 5 2.1 25. 5 0.0 8 0.7 8 1.0 2.7 3.5 4.5 0.9 1.1 0.4 2 1.1 2.7 0.5 0 0.5 8 0.7 5 0.02 2 0.22 0.01 2 0.18 590 522 1. 1 0.25 0.15 608 Cr % Mo % Ti % B % P 0.01 9 0.15 S 0.02 5 0.10 622 Chemical analysis Hardnes s HV-30 245
+
+A B C D
+
+3.2
+
+Preparing the Samples Seven samples of each group of five groups measured 30x20x8 mm were made and distributed as follows: 1- Six samples of each group for carrying out wear tests 2- One sample of each group for studying the hardness 3- Four groups of the five groups were coated with a weld layer, each group with a different type as figure .1 shows
+
+Fig.1. Sample
+
+4
+
+Carrying Out the Experiments
+
+For carrying out wear operations, an agricultural tractor and two bottom moldboard plow were used as illustrated by the figure .2, where the sample holder was manufactured and fixed at head of every body chisel. Wear operations were carried out as follows:
+
+Fig. 2. Samples and sample holder on the moldboard plow
+
+1. A mass of each sample was determined before the test on a sensitive scale with accuracy of 0.0001 g 2. One sample was fixed at each sample holder 3. Sample holder was fixed at head of every body chisel through screws 4. A tillage was carried out through using the said plow in the sandy soil with PH = 5 at depth of 25 cm for period of 20 min. at 6 km.h-1 speed, namely every sample passed a distance of 2000 m 5. The experiment was repeated three times. Each time, the samples were created again 5
+
+6. Value of wear of each group was determined depending on the difference of the mass
+
+7. Relative wear resistance for used materials was determined from the following equation:
+
+=
+Where:
+
+mw m
+
+mw ­ mass of sample coated with a weld layer [g] m ­ mass of sample of basic material CK45 [g]
+
+Results and discussion
+
+Figure (3) and (4) illustrate the size of wear and relative wear resistance (immunity) for each of used materials.
+0.45 0.4 0.35 0.3 0.25 0.2 0.15 0.1 0.05 0
+
+Qantity of Wear [ g ]
+
+0.3491
+
+0.1828 0.1312 0.084 0.1157
+
+CK45
+
+A
+
+B
+
+C
+
+D
+
+Fig. 3. Quantity of wear for used materials
+
+6
+
+4.5 4 3.5 3 2.5 2 1.5 1 0.5 0
+
+4.16
+
+Wear Resistance
+
+2.66 1.91 1
+
+3.02
+
+CK45
+
+A
+
+B
+
+C
+
+D
+
+Fig. 4. Relative wear resistance for used materials
+
+The results indicate that intensity of wear of functional parts metal of tillage equipments depends on chemical structure and mechanical properties of such metals. Using weld deposit materials for renewal of worn tillage equipment elements form forms a basic factor for protection of these parts from wear in the soil and increasing their durability and keeping from degradation processes. The experiments carried out in this research proved that the best types wear in the soil equivalent to 4.16 compared with the basic CK45 of used weld is material A , which obtained immunity against abrasive
+
+metal, indicating that, by depending on the elements forming material
+
+A and the results obtained here, there is a possibility of using thereof
+
+for hardfacing on materials with very high abrasive wear in addition to possibility of using thereof under corrosion conditions such as the soil, which contains several chemical solutions contributing to metal degradation processes thanks to containing a high rate of Cr. Comparing immunity of CK45 with other used materials, material D
+
+obtained nearly tripe immunity of CK45. Material C obtained an immunity equivalent to 2.66 and at last, material B obtained only 1.91 .
+
+Depending on chemical properties of the used material and results of this research we may say that the ideal structure of metals used for manufacturing and protection of functional parts of tillage equipments should secure the highest immunity against abrasive wear and 7
+
+chemical effects of soil, through containing the elements, which secure availability of carbide ­ austenite structure, as the austenite is marked with its ability for absorption of the highest possible amount of energy and accordingly linking carbide particles, which do not allow (due to there hardness) soil particles to be highly affected, where they crush rough particles of soil, reducing abrasive effect of these particles against thereof. Microstructure of the metal B, which obtained an immunity equivalent
+
+to 1.91 compared with CK45 lacks certain elements which help it to indicating that it is marked high activity and its ability to react with
+
+resist roughness of the soil particles and its chemical contents, chemical contents of the soil and to form results of chemical corrosion. Therefore its degradation processes were faster in the soil compared with other used welding materials. Accordingly, the material A structure can be considered as one of the
+
+best used structures due to its high immunity compared with other used materials. Therefore using thereof for hardfacing and protection of worn parts of tillage equipments maintains it for a long period even in different circumstances of soil.
+
+Conclusions
+Using weld deposit materials forms an important factor for protection of worn parts of tillage machines or for hardfacing, where immunity of the functional parts metals of these machines depends on there microstructure and chemical elements contained and their mechanical properties. As for the elements added to the metal such as Cr for example, they increase the chemical stability. Due to the right ratio of alloying elements, their theor objective selection and knowledge of mechanical degradation processes in wearing metal surfaces under the defined conditions we can create wear resistant materials for tillage tools with the required properties for real tribological conditions.
+
+8
+
+References
+[1] 'Abrasive wear in intermediate modes of multiphase materials', N. Axen, B. Lundberg , Tribology International , 28, pp 523-529, 1995
+
+[2] ' Effects of graphite particle addition upon the abrasive wear of
+
+polymer surfaces', A.A.Cenna, P. Dastoor, A. Beehag, Journal of
+
+Materials Science, 36, pp 891 -900, 2001
+
+[3] 'Abrasive wear of metallic matrix particle-reinforced materials',R. Colaco, R. Vilar, Wear, 255, pp 644-651, 2003
+
+162, pp 837-847, 1993 C.I.Lang, D. Shechtman, E.G. Gonzalez, Bull. Mater. Sci. 22, 1999 Cico , Acta Technologica Agriculturae, 4, pp 99-102, 2001 [5] 'Friction and wear properties of quasiperiodic material coatings'
+
+[4] 'Repetitive impact wear of steels, Wear', R. Fricke, C. Allen,wear,
+
+[6] 'Wear Resistance of new conception deposit welds', R. Tolnai, P.
+
+9
+

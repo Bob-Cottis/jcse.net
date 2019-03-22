@@ -1,0 +1,530 @@
+ISSN 1466-8858 SYNTHESIS
+
+Volume 10, Preprint 43 submitted AND COMPARATIVE STUDY OF THE INHIBITIVE 31 July 2007 PROPERTIES OF ISOMERIC SCHIFF BASES AND ITS CYCLISATION PRODUCTS
+
+N.Thamaraiselvi, K. Parameswari, S. Chitra, Department of Chemistry, PSGR Krishnammal College for Women, Coimbatore, Tamilnadu, India A.Selvaraj* C.B.M. College, Coimbatore, Tamilnadu, India Abstract The corrosion behaviour of mild steel in 1M sulphuric acid solution and its inhibition by Schiff bases and thiazolidinones was studied using weight loss method at various temperatures (303-333K), by electrochemical and non ­ electrochemical techniques. The percentage inhibition efficiency of the inhibitors increased with increase in inhibitor concentration. Potentiodynamic polarization studies revealed that though the Schiff bases and thiazolidinones act as mixed type inhibitors they are slightly anodic in nature. Adsorption of these inhibitors on the mild steel surface followed the Langmuir adsorption isotherm. The thermodynamic parameters such as activation energy (Ea) and free energy of adsorption (G°ads) were calculated. The synergistic effect of halide ions on the inhibition efficiency of thiazolidinones was also studied. Key words Corrosion inhibition, mild steel, Schiff bases, thiazolidinones, inhibition efficiency, Langmuir adsorption Introduction Acid solutions are widely used in industry, the most important fields of application being acid pickling, industrial acid cleaning, acid descaling and oil well acidising. Due to the general aggressivity of acid solutions the practice of inhibitor is commonly used to reduce the corrosive attack on metallic materials. Inhibitors are generally used in this process to control the metal dissolution as well acid consumption. In general, organic compounds such as amines, heterocyclic compounds, acetylinic alcohol have been used as inhibitors in industrial applications1-5.
+
+* Author for correspondence
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Experimental
+
+methods
+
+Volume 10, Preprint 43
+
+submitted 31 July 2007
+
+Mild steel specimens (composition: C-0.084, Mn-0.369, Si-0.129, P-0.025, S-0.027, Cr-0.022, Mo-0.011, Ni-0.013, Iron-rest %) of size 5 cm × 2 cm × 0.05cm were used for weight loss and gasometric measurements. For electrochemical methods, mild steel rods of same composition with an exposed area of 0.785 cm2 was used. The electrode was polished using 1/0, 2/0, 3/0 and 4/0 grades of emery sheets and degreased with trichloro ethylene. All the chemicals used for the synthesis of the inhibitors were of analar grade. Synthesis of inhibitors Ortho/meta/para ­ amino phenol (0.1M) was dissolved in alcohol and (0.1M) benzaldehyde was added to it. This mixture was refluxed for an hour. The Schiff bases (1-3) obtained on cooling was filtered and recrystallised. The Schiff base was dissolved in DMF and 15 ml of thioglycollic acid was added, refluxed with stirring for about 6 hours. The thiazolidinones (4-6) was washed with 10 % NaHCO3 solution. Filtered, dried and recrystallised from dioxane. Structure of the synthesised compounds (1-6) are given in table 1. Non Electrochemical methods Weight loss method Weight loss experiments were carried out by immersing preweighed mild steel specimens in 200 ml of inhibited and uninhibited solutions in triplicates. After a period of 3 hours the specimens were removed, washed, dried and weighed. From the initial and final masses of the specimen, the loss in weight was calculated. The experiment was repeated for various inhibitor concentrations in 1M H2SO4. From the loss in weight, corrosion rate, inhibition efficiency, surface coverage () were calculated using the formula.
+Efficiencyof inhibitor =
+Corrosion rate (mpy) =
+
+(Weight loss without inhibitor- Weight loss with inhibitor) x100 Weight loss withoutinhibitor
+
+534 x Weight loss in mgms Density x area in sq. inch x Time in hours
+(Weight loss without inhibitor - Weight loss with inhibitor) Weight loss without inhibitor
+
+Surface coverage() =
+
+2
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 To know
+
+Volume 10, Preprint 43 the effect of temperature the weight loss method was carried out submitted 31 July 2007 at different
+
+temperature ranges (ie.) 40°C-60°C using a thermostat. From the weight loss, inhibition efficiency, corrosion rate, activation energy (Ea) and free energy of adsorption (G°ads) were calculated. Activation energy was calculated by graphical method by plotting log corrosion rate vs 1000/T(K) for temperature range of
+
+30-60°C in 1M H2SO4 with and without inhibitor at a concentration of 10 mM. Ea = 2.303 x 8.314 x slope J G°ads = ­ RT ln (55.5K) The above equations were used to calculate activation energy and free energy of adsorption. Gasometric method Polished and degreased mild steel specimens were suspended from the hook of the glass stopper and were introduced into the cell containing 200 ml of 1M H2SO4. The same procedure was repeated with 1M H2SO4 containing various concentrations of inhibitors. From the volume of hydrogen gas liberated, the inhibition efficiency was calculated using the formula.
+Inhibition efficiency (%) = VB - VI x100 VB
+
+Where, VB is the volume of H2 evolved in the absence of inhibitors VI is the volume of H2 evolved in the presence of inhibitor. Electrochemical studies Potentiodynamic polarization and impedance measurements Electrochemical studies were carried out for mild steel rod of same composition both in the presence and absence of inhibitors using a potentiostat (model 1280 B solartron, UK). The electrochemical investigations were carried out in a three electrode cell assembly with platinum electrode as the counter electrode, a saturated calomel electrode as the reference electrode and the mild steel electrode as the working electrode. The EIS measurements were made at corrosion potential over a frequency range of 10 kHz to 0.01 Hz with a signal amplitude of 10 mV. From these
+
+3
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 studies
+
+Volume (R ), double the charge transfer resistance 10, Preprint 43 layer capacitance submitted 31 July 2007 (Cdl) and t
+
+inhibition efficiency were calculated.
+Inhibition efficiency (%) = R t (inh) - R t (blank) R t(inh) x100
+
+Where, Rt(inh) is the charge transfer resistance in the presence of inhibitor Rt(blank) is the charge transfer resistance in the absence of inhibitor After EIS measurements the polarization measurements were carried out at a potential range of -200 mV to +200 mV with respect to open circuit potential at a scan rate of 1 mV/sec.
+
+Inhibitionefficiency (%) =
+Where,
+
+I corr(blank) - I corr(inh) I corr(blank)
+
+x 100
+
+Icorr(blank) is the corrosion current in the absence of inhibitor Icorr(inh) is the corrosion current in the presence of inhibitor. Synergistic effect The synergistic effect was studied by the addition of 1mM KI to the steel specimen immersed in 1M H2SO4 containing various concentrations of the thiazolidinones for a duration of 3 hours. From the weight loss data, the corrosion rate and inhibition efficiency were calculated. The same procedure was repeated by the addition of 1mM KCl and 1 mM KBr. Atomic absorption spectroscopic studies Atomic absorption spectrophotometer (model GBC 908, Australia) was used for estimating the amount of dissolved iron in the corrodent solution containing various concentrations of thiazolidinones in 1M H2SO4 after exposing the mild steel specimen for three hours. From the amount of dissolved iron, the inhibition efficiency was calculated. Percentage inhibition efficiency =
+Where, A is the amount of dissolved iron in presence of inhibitor B is the amount of dissolved iron in the absence of inhibitor B-A x 100 B
+
+4
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 RESULTS
+
+AND DISCUSSION Volume 10, Preprint 43
+
+submitted 31 July 2007
+
+Weight loss data
+Table 2 gives the value of inhibition efficiency obtained from weight loss measurements at 30±1°C for different concentrations of Schiff bases and thiazolidinones. The weight loss data is depicted graphically by plotting inhibition efficiency vs inhibitor concentration (fig.1). It has been observed that the inhibition efficiency for all the inhibitors increased with increase in concentration of inhibitors. The weight loss data obtained at higher temperatures and the corresponding thermodynamic parameters are given in tables 3 & 4 respectively. The data reveals that inhibition efficiency decreases with increase in temperature.
+
+Gasometry
+Table 5 gives the values of inhibition efficiency obtained from gasometric method for mild steel in 1M H2SO4 and 1M H2SO4 containing selected concentrations of inhibitor. The volume of gas collected decreased with the addition of inhibitors and the data obtained was found to be good agreement with that obtained by weight loss method.
+
+AC-impedance measurement
+The electrochemical impedance measurements were carried out for mild steel in 1M H2SO4 in the absence and presence of selected concentrations of inhibitor. The impedance spectra are shown in fig. 4. The Rt, Cdl values and inhibition efficiency are presented in the table 6.
+
+Potentiodynamic polarization
+Polarization curves for mild steel in 1M H2SO4 for the inhibitors are shown in fig. 5. The values of corrosion current (Icorr), corrosion potential (Ecorr), cathodic and anodic Tafel slopes (ba & bc), the inhibition efficiency calculated from Icorr are given in Table 7.
+
+Discussion
+The very high inhibition efficiency of the anils can be attributed to their structure. The inhibition of corrosion of mild steel by these compounds is mainly due to the formation of a stable film on the metal surface. The mechanism of adsorption 5
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 responsible
+
+Volume 10, Preprint 43 submitted 31 for the corrosion inhibition for the set of aromatic Schiff bases employed July 2007
+
+in the present investigation can be explained as follows:­ All the three Schiff bases contain two aromatic rings and one ­CH = N­ group. Hence they are expected to have adsorbed on the metal surface through the combination of three adsorption mechanisms. (i) Electrostatic interaction between the charged molecule and the charged metal surface (fig.A).
+H
+
+R
+
+N = CH
++
+
+R : o/m/p­OH
+
+­
+Fig. A
+(ii)
+
+­
+
+­
+
+Interaction of unshared electron pairs in the molecule and the charged metal surface (fig. B).
+
+N = CH R
+
+R : o/m/p­OH
+
+..
+Fe Fig. B Fe
+
+(iii)
+
+Interaction of -electrons of the aromatic ring and ­CH = N­ group with the metal surface (fig.C).
+
+N = CH R
+
+R : o/m/p­OH
+
+Fe
+
+Fe Fig. C
+
+Fe
+
+The above three interactions are facilitated by the flat orientation of the molecule with respect to the metal surface. All the three mechanisms might have contributed to the adsorption of the anils on the metal surface. The order of inhibition efficiency of the anils are OBAP > MBAP > PBAP 6
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43 submitted 31 The ortho isomer has higher inhibition efficiency than the meta and para July 2007
+
+isomer. The difference in the extent of inhibition efficiency of the anils may be due to
++
+
+the tendency to form amine cation ­ N H in acidic solution. This tendency is enhanced
+by the presence of ortho ­ OH group which can readily interact with the negatively charged metal surface due to the ortho effect6-9. This leads to more adsorption of the ortho isomer followed by meta and para isomers in the decreasing order. The inhibition efficiency of the thiazolidinones follows the order TPAP>TOAP>TMAP The inhibition efficiency of all the thiazolidinones was found to be excellent providing 96-99% inhibition. The inhibition efficiency of PBAP has been drastically increased from 78 % to 99.31 % (at 10 mM). Similarly for MBAP the percentage inhibition efficiency increased from 92-96%. OBAP has a very high inhibition efficiency of 99.28 % (10 mM). In general it can be concluded that the inhibition efficiency of all the 3 isomeric Schiff bases has been enhanced as a result of cyclisation. Cyclisation did not result in the formation of an aromatic ring. Hence the increased inhibition efficiency may not be due to the formation of the cyclic product. Therefore the best performance of the isomeric thiazolidinones may be attributed to the introduction of sulphur atom during cyclisation.
+
+Adsorption isotherm
+The degree of surface coverage () for different concentrations of inhibitors in 1M H2SO4 was evaluated from weight loss data. Langmuir isotherm was tested by plotting C/ vs C for the inhibitors. A straight line was obtained in all the cases prooving the fact that the adsorption of these compounds on mild steel surface obeys Langmuir adsorption isotherm (fig.2).
+
+Effect of temperature
+The inhibition efficiency given in table 2 reveals that inhibition efficiency decreases with increase in temperature. The value of Ea in the inhibited acid solutions is greater than those obtained in the uninhibited acid solution (Table 3). This suggests that the corrosion of mild steel occurs at the uncovered part of the electrode surface and that adsorption occurs at high energy sites10. The less negative G°ads (Table 4)
+
+7
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 confirms
+
+the physical adsorptionVolume 10, Preprint 43 the metal surface.submitted 31 July 2007 of the inhibitors on Arrhenius
+
+plots (log corrosion rate vs 1/T) for mild steel in 1M H2SO4 at different concentration of inhibitors are given in fig.3.
+
+Electrochemical studies
+The AC impedance diagrams for solutions examined had a semicircular appearance, this indicated that corrosion of steel is controlled by a charge transfer process. The charge transfer resistance increased and double layer capacitance Cdl decreased as the concentration of inhibitor increased which indicates the adsorption of the inhibitor on the metal surface. This decrease in Cdl which can result from a decrease in local dielectric constant and/or an increase in the electrical double layer suggests that the thiazolidinones function by adsorption at the metal/solution interface11. In the potentiodynamic polarization measurements of mild steel in 1M H2SO4 in the presence of Schiff bases shows that the Ecorr values are slightly shifted to the noble direction. ba is affected to a slightly greater extent. This proves that though the inhibitors are under mixed control they were slightly anodic in nature. In the case of thiazolidinones Ecorr shifts in the more noble direction with the addition of inhibitors. As concentration increases, both anodic and cathodic curves exhibit Tafel type behaviour. Though both the Tafel constants ba and bc were affected, ba was displaced to a greater extent confirming the anodic nature of inhibitors.
+
+Atomic absorption spectrophotometric studies
+Percentage inhibition efficiency of the inhibitors (TOAP, TMAP, TPAP) were also determined by AAS by determining the amount of iron dissolved in the corrodent solution after weight loss experiments (Table 8). The percentage inhibition efficiency obtained by this technique was found to be in good agreement with that obtained from the conventional weight loss method.
+
+Synergism
+The synergistic effect provided by the addition of halide ions I­, Br­ and Cl­ to the solution containing 1M H2SO4 and the isomeric thiazolidinones were studied by
+
+8
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 weight
+
+Volume 10, Preprint 43 submitted 31 loss method and the data are presented in table 9. Analysis of the data July 2007
+
+revealed that the synergistic influence of halide ions follows the order. I­ > Br­ > Cl­ I­ has highest synergistic influence among the halide ions12. This may be explained as follows: The steel surface is originally positively charged in 1M H2SO4. When I­ ions are added to the inhibiting solution they are strongly chemisorbed by forming chemical bonds leading to the formation of iron iodide. This strong chemisorption of I­ ions shifts n (PZC)of the metal to more positive potential than in the case of Cl­ and Br­ and renders the surface more highly negatively charged. On the highly negatively charged metal surface, the protonated cationic inhibitor molecules are physisorbed due to electrostatic interaction. This interaction is higher for I­ than for Cl­ or Br­ due to higher magnitude of negative charge on the metal surface.
+
+Conclusions
+1. The three Schiff bases (OBAP, MBAP, PBAP) and their cyclisation product (TOAP, TMAP, TPAP) are effective inhibitors for corrosion of mild steel in 1M H2SO4. 2. The inhibition efficiency increased with increase in inhibitor concentration and decreased with increase in temperature. 3. Cyclization does not play a significant role in enhancing the inhibition efficiency of the Schiff bases. 4. All the six inhibitors are mixed type but slightly anodic in nature. 5. The adsorption of the compounds on metal surface was found to obey Langmuir adsorption isotherm. 6. Addition of halides to the inhibitor thiazolidinone showed an increase in inhibition efficiency. The synergistic influence of halide ions follows the order I­ > Br­ > Cl­.
+
+9
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43
+
+submitted 31 July 2007
+
+References
+1. 2. 3. 4. 5. 6. G.Lewis, Corros. Sci., 22 (1982) 579 S.Rengamani, T.Vasudevan and S.Venkata Krishna Iyer, Ind. J. Technol., 31 (1993) 519. G.Schmitt, Br. Corros. J., 19 (1984) 165. J.O'M. Bockris, B. Yang, J. Electrochem. Soc., 19 (1984) 165. C.Pillali, R.Narayan, Corros. Sci., 23 (1983) 151. S.Muralidharan, M.A. Quraishi and S.V.K. Iyer, Corr. Sci., 37, 11 (1995) 1739. Jerry March, Advanced Organic Chemistry, Wiley & Sons, Inc., New York (1985) 460. N.Subramanyan, S.V.K. Iyer and V.Kapali, Trans. SAEST, 15 (1980) 251. S.Sankarapandian, M. Anbu Kulandainathan, M. Ganesan and S.V.K. Iyer, Bull. Electrochem., 6 (1990) 484. M.S.Abdel ­AAL, M.S.Morad, Br. Corr. J. 36(4) (2001) 253. E. McLafferty, N. Hackerman, J. Electrochem. Soc., 119 (1972) 146. R.Saratha, C.Marikkannu and Sivakamasundari, Bull. Electrochem., 18(13) (2002) 141.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11. 12.
+
+10
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43 Table-1
+
+submitted 31 July 2007
+
+Structure of the Compounds
+
+N = CH
+
+OH 1 OBAP
+
+Ortho benzylidene aminophenol
+
+N = CH
+
+OH
+
+2 MBAP
+
+Meta benzylidene aminophenol
+
+OH
+
+N = CH
+
+3 PBAP Para benzylidene aminophenol
+OH N C O CH2 4 TOAP CH
+
+S
+
+Thiazolidinone of ortho amino phenol [2-phenyl-3(2-hydroxyphenyl) thiazolidine-4-ones]
+11
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+OH
+
+Volume 10, Preprint 43
+
+submitted 31 July 2007
+
+N C O
+
+CH S CH2 5 TMAP
+
+Thiazolidinone of meta amino phenol [2-phenyl-3(3-hydroxyphenyl) thiazolidine-4-ones]
+OH
+
+N C O CH2
+
+CH S
+
+6 TPAP
+
+Thiazolidinone of para amino phenol [2-phenyl-3(4-hydroxyphenyl) thiazolidine-4-ones]
+
+12
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43 Table-2
+
+submitted 31 July 2007
+
+Inhibition efficiencies of various concentrations of inhibitors for the corrosion of mild steel in 1M H2SO4 obtained by weight loss measurements at 30±1°C ° Degree of Name of Inhibitor Inhibition Weight Corrosion coverage the Concentration Efficiency loss (gms) rate (mpy) inhibitor (mM) (%) () Blank 0.6710 10242.5 0.5 OBAP 2.5 5.0 7.5 10.0 0.5 2.5 MBAP 5.0 7.5 10.0 0.5 2.5 PBAP 5.0 7.5 10.0 0.5 2.5 TOAP 5.0 7.5 10.0 0.5 2.5 TMAP 5.0 7.5 10.0 0.5 2.5 TPAP 5.0 7.5 10.0 0.0741 0.0322 0.0136 0.0079 0.0053 0.3820 0.1492 0.0835 0.0569 0.0470 0.1971 0.1954 0.1850 0.1708 0.1454 0.0216 0.0081 0.0068 0.0056 0.0047 0.0571 0.0336 0.0327 0.0292 0.0259 0.0261 0.0087 0.0055 0.0050 0.0046 13
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+88.05 95.20 97.97 98.82 99.21 43.07 77.76 87.55 91.52 92.89 70.62 70.87 72.42 74.54 78.33 96.78 98.79 98.98 99.16 99.29 91.49 94.99 95.12 95.64 96.14 96.11 98.70 99.18 99.25 99.31
+
+1131.1 491.5 207.5 120.5 80.9 5831.0 2277.4 1274.5 868.5 717.4 3008.6 2982.6 2823.9 2607.7 2219.4 329.7 123.6 103.7 85.4 71.7 871.6 512.8 499.1 445.7 395.3 398.4 132.8 83.9 76.3 70.2
+
+0.8805 0.9520 0.9797 0.9882 0.9921 0.4307 0.7776 0.8755 0.9152 0.9289 0.7062 0.7087 0.7242 0.7454 0.7833 0.9678 0.9879 0.9898 0.9916 0.9929 0.9149 0.9499 0.9512 0.9564 0.9614 0.9611 0.9870 0.9918 0.9925 0.9931
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43 Table-3
+
+submitted 31 July 2007
+
+Inhibition efficiencies at 10mM concentrations of inhibitor for corrosion of mild steel in 1M H2SO4 obtained by weight loss measurements at higher temperatures Inhibition efficiency (%) at S.No
+1. 2. 3. 4. 5. 6.
+
+Name of the inhibitor 303 K
+OBAP MBAP PBAP TOAP TMAP TPAP 99.23 93.02 78.33 99.29 96.03 99.31
+
+313 K
+98.97 91.77 77.74 95.68 95.06 98.84
+
+323 K
+95.85 90.71 67.50 95.00 94.33 98.53
+
+333 K
+93.45 85.94 61.28 93.18 93.44 97.15
+
+Table-4 Activation energies (Ea) and free energy of adsorption (G°ads) for the corrosion ° of mild steel in 1M H2SO4 at selected concentrations of the inhibitors S.No
+1. 2. 3. 4. 5. 6. 7.
+
+Name of the inhibitor
+Blank OBAP MBAP PBAP TOAP TMAP TPAP
+
+Ea(kJ)
+25.65 75.05 50.73 63.75 71.99 58.91 59.83
+
+G°ads at various temperatures (kJ) °
+
+303 K
+-16.55 -7.54 -10.83 -16.763 -12.333 -16.835
+
+313 K
+-16.33 -7.64 -10.73 -12.515 -12.149 -16.027
+
+323 K
+-13.02 -6.46 -10.72 -12.509 -12.146 -15.894
+
+333 K
+-12.09 -5.86 -9.75 -11.983 -12.098 -14.514
+
+14
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43 Table-5
+
+submitted 31 July 2007
+
+Inhibition efficiencies for the selected concentrations of the inhibitors for the corrosion of mild steel in 1M H2SO4 obtained by gasometric measurements S.No Name of the inhibitor Inhibitor concentration(mM)
+Blank 1. OBAP 0.5 5.0 10.0 0.5 2. MBAP 5.0 10.0 0.5 3. PBAP 5.0 10.0 0.5 4. TOAP 5.0 10.0 0.5 5. TMAP 5.0 10.0 0.5 6. TPAP 5.0 10.0
+
+Volume of gas (cc)
+27.0 3.1 0.8 0.3 5.2 3.3 2.1 8.7 7.9 6.1 0.9 0.4 0.2 2.4 1.5 1.2 1.1 0.3 0.2
+
+Inhibition efficiency (%)
+88.51 97.03 98.88 80.74 87.77 92.22 67.77 70.74 77.40 96.66 98.51 99.25 91.11 94.44 95.55 95.92 98.88 99.25
+
+15
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43 Table-6
+
+submitted 31 July 2007
+
+AC-impedance parameters for mild steel for selected concentrations of the inhibitors in 1M H2SO4 S.No Name of the inhibitor Inhibitor concentration (mM)
+Blank 1. OBAP 0.5 5.0 10.0 0.5 2. MBAP 5.0 10.0 3. PBAP 0.5 5.0 10.0 4. TOAP 0.5 5.0 10.0 0.5 5. TMAP 5.0 10.0 0.5 6. TPAP 5.0 10.0
+
+Rt (ohm/cm2)
+10.80 75.88 189.43 211.32 82.51 94.00 154.96 79.01 87.30 95.42 80.25 134.50 194.70 82.42 101.08 106.43 127.12 237.64 341.49
+
+Cdl (µF/cm2) µ
+24.16 16.62 14.79 12.04 15.62 11.33 5.22 19.45 16.99 9.86 18.66 16.25 14.02 20.53 16.67 10.16 17.77 15.72 14.25
+
+Inhibition efficiency (%)
+85.76 94.29 94.88 86.91 88.51 93.03 86.33 87.62 88.68 86.54 91.97 94.45 86.89 89.31 89.85 91.50 95.45 96.83
+
+16
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43 Table-7
+
+submitted 31 July 2007
+
+Corrosion parameters for mild steel with selected concentrations of the inhibitors in 1M H2SO4 by potentiodynamic polarization method Name of the inhibitor Inhibitor concentration (mM)
+Blank 0.5 1. OBAP 5.0 10.0 0.5 2. MBAP 5.0 10.0 0.5 3. PBAP 5.0 10.0 0.5 4. TOAP 5.0 10.0 0.5 5 TMAP 5.0 10.0 0.5 6. TPAP 5.0 10.0 66.75 67.37 72.83 75.47 64.28 87.57 102.22 84.88 83.88 89.36 94.28 69.80 65.59 76.36 64.87 74.51 66.51 119.27 113.19 149.76 126.16 122.08 156.09 153.82 150.26 123.31 115.84 117.67 147.18 124.71 127.23 125.74 103.65 101.93 -465.79 -465.81 -450.51 -466.89 -465.95 -457.99 -457.39 -467.35 -478.55 -494.37 -498.74 -478.44 -501.83 -509.77 -465.24 -469.34 -463.09 1.07 0.84 2.22 1.98 0.97 2.95 2.93 2.17 2.30 1.60 0.92 1.55 1.48 0.91 0.90 0.87 0.51 93.43 94.82 86.38 87.85 94.04 81.90 82.02 86.68 85.88 90.18 94.35 90.49 90.92 94.41 94.47 94.66 96.87
+
+S.No
+
+Tafel slopes (mV/decade)
+ba 113.30 75.52 bc 149.11 144.37
+
+Ecorr (mV)
+-442.53 -458.63
+
+Icorr (µA/cm2) µ
+16.3 2.82
+
+Inhibition efficiency (%)
+82.82
+
+17
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43 Table-8
+
+submitted 31 July 2007
+
+ATOMIC ABSORPTION SPECTROSCOPY Amount of dissolved iron present in the corrosive solution with and without inhibitors in 1M H2SO4 Immersion time: 3 hours Name of the Inhibitor Amount of iron Inhibition inhibitor concentration (mM) content (mg/l) efficiency (%)
+Blank TOAP 0.5 5.0 TMAP TPAP 0.5 10.0 0.5 10.0 2792.8 110.6 44.96 329.9 154.5 199.7 57.40 96.03 98.39 88.18 94.46 92.84 97.94
+
+Table-9 Synergistic effect of 1mM KCl / 1mM KBr/ 1mM KI on the inhibition efficiency of TOAP, TMAP and TPAP by weight loss method at 30±1°C ° Inhibition efficiency (%) Name of Inhibitor Without With With With S.No the concentration KCl, KBr 1mM 1mM 1mM inhibitor (mM) & KI KCl KBr KI
+0.25 0.5 1. TOAP 0.75 1.0 1.5 0.25 0.5 2. TMAP 0.75 1.0 1.5 0.25 0.5 3. TPAP 0.75 1.0 1.5 18
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+87.96 88.30 88.78 91.56 92.99 80.88 81.56 85.76 87.93 92.00 79.19 80.58 81.15 87.68 89.91
+
+88.52 89.3 90.4 90.9 93.2 86.05 86.44 87.00 90.22 93.26 85.6 89.92 87.99 90.35 93.26
+
+89.6 90.2 91.6 91.4 93.6 89.26 89.5 90.32 91.6 94.3 89.3 90.4 91.33 92.65 94.99
+
+90.32 91.65 92.00 92.3 94.5 92.5 93.26 94.4 95.2 95.9 90.9 91.26 94.62 95.00 98.32
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43
+
+submitted 31 July 2007
+
+Figure-1 Variation of inhibition efficiency with the concentration of the isomeric thiazolidinones at 30±1°C ±°
+
+100
+
+98
+
+96 In h ib it io n e f f ic ie n c y ( % )
+
+94 TOAP TMAP 92 TPAP
+
+90
+
+88
+
+86 0.5 2.5 5 Concentration in mM 7.5 10
+
+19
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43
+
+submitted 31 July 2007
+
+Figure-2 Langumuir's plot of thiazolidinones in 1M H2SO4
+
+12
+
+10
+
+8
+
+C /
+
+6
+
+TOAP TMAP TPAP
+
+4
+
+2
+
+0 0 2 4 6 C 8 10 12
+
+20
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43
+
+submitted 31 July 2007
+
+Figure-3 Arrhenius plot of corrosion rate of mild steel in 1M H2SO4 solution in the absence and presence of inhibitors
+
+5 4.5 4
+
+Figure-3 Arrhenius plot of corrosion rate of mild steel in 1M H2SO4 solution in the absence and presence of inhibitors
+
+L o g c o r r o s io n r a te (m p y )
+
+3.5 3 Blank TOAP 2 TPAP TMAP 1.5 1 2.95
+
+2.5
+
+3
+
+3.05
+
+3.1 1000/T(K)
+
+3.15
+
+3.2
+
+3.25
+
+3.3
+
+21
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43
+
+submitted 31 July 2007
+
+Figure-4 Nyquist diagram for mild steel in 1M H2SO4 for selected Concentrations of the inhibitor (TPAP)
+
+Z 
+
+22
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 43
+
+submitted 31 July 2007
+
+Figure-5 Polarization curves for mild steel recorded in 1M H2SO4 for selected concentrations of inhibitor (TPAP)
+
+23
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

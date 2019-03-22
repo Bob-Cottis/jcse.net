@@ -1,0 +1,268 @@
+1 ISSN 1466-8858 Volume 10 Preprint 8 25 August 2006
+
+ASSESSMENT OF REMAINING LIFE OF AUSTENITIC STEEL SUPERHEATER TUBES IN PULVERIZED FIRED OIL SHALE BOILERS ­ Part II
+
+H. Tallermo, I. Klevtsov, T. Bojarinova, A. Dedov
+
+Tallinn University of Technology, Thermal Engineering Department, 11712 Tallinn, Estonia, klevtsov@staff.ttu.ee
+Roger Crane
+
+Mechanical Engineering Department, University of South Florida, Tampa, Florida 33620, Crane@eng.usf.edu
+Abstract
+
+Superheater surfaces in oil shale steam boilers are subject to intensive corrosion, causing tubes wall thinning and increased stresses. This reduces the creep life of superheater tubes, typically requiring superheater repairs each 3-4 years with replacement up to 30-50 % of austenitic tubes. The ability to accurately predict the remaining life of superheater tubes would reduce the extent and costs of repair. A remaining life assessment method for austenitic steel superheater tubes is presented in this paper. The method is based on measurements of tube wall thickness and a kinetic diagram of corrosive resistance for particular steels.
+Keywords: oil shale, boiler, super-heater, austenitic steel, corrosion Introduction Oil shale is an important low-grade fuel; samples under investigation have a calorific value Qir8.4 MJ/kg, ash fraction Ad51.3% and moisture content Wir11.7%. The content of sulfur in the feed oil shale is 1.76% and chloride is 0.75%. The Eesti and Balti power stations currently consume about 10106 tons of oil shale per year producing 8·106 MW·h of electricity in a combination of pulverized fired (PF) and circulating fluidized bed combustion (CFBC) furnaces.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+2 ISSN 1466-8858 Volume 10 Preprint 8 25 August 2006 In the pulverized firing (PF) process inorganic matter produces several chemically active compounds leading to both fouling and accelerated hightemperature corrosion of superheater and reheater tubes. This is mainly due to the presence of KCl. Periodic removal of ash deposits from high-
+
+temperature heating surfaces further accelerates the corrosion process by removing part or all of the protective oxide layer. To mitigate the intensive tube corrosion in the oil shale boilers, main and reheat steam temperatures have been reduced from design 540°C to 515/525°C. The accelerated corrosion of tubes of heating surfaces in PF oil shale boilers have resulted in a shutdown of boilers for a major overhaul including replacement of a significant part of superheater tubes each 3-4 years (or 2530 thousand hours of operation). For example, after three years of operation, boilers TP-67 and -101 have required replacement of 1900-2700 sections of perlitic tubes (weighing 65-85 tons), and about 600 sections of austenitic tubes (3-5 tons or 30-50 % of their total mass). Selection of the tubes subject to replacement is generally based on tube wall thickness measurements. If the remaining life of a particular tube, determined on the basis of wall thickness measurement and assuming a constant corrosion rate, is exhausted before the next scheduled repair the tube should be replaced at the moment. Accurate remaining life estimates would avoid unscheduled outages due to tubes failures, while serving to optimise inspection intervals, reducing both the cost and extent of repairs. Remaining Life Assessment Method The prediction of the remaining life of heating surfaces is based on a calculation of the allowable tubes wall thickness reduction. First the minimum required wall thickness for tubes should be determined as follows [1]: S= where: p  Di 2f z- p (1)
+
+p ­ internal steam pressure Di ­ inside diameter f ­ design stress z ­ joint coefficient, (for seamless pipe z=1).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+3 ISSN 1466-8858 Volume 10 Preprint 8 25 August 2006 The allowable reduction of the wall thickness can be obtained as [2]: S allowable = where: S 0 - S - S igc Cs - S p (2)
+
+S0 ­ initial wall thickness,
+martensitic and ferritic steels Sigc=0); Typically ~1.3); Sp­ loss of wall thickness due to polishing of the tube surface, (~0.1 mm). The design stress in the creep range is a function of operating time and temperature. Longer operating times reduce the allowable design stress, requiring an increased minimum wall tube thickness. Thus, design stress dependence on time should be generally taken into account in the remaining life assessment. The next step of the remaining life prediction is estimation of the wall loss due to high temperature corrosion on the outside (fire-side) and inside (steam-side) surfaces of the tube. Fire-side corrosion depth of the tube is a the metal and the number of partial/complete oxide scale removals, m (these depends on operating time, , grade and temperature of the metal. function of operating time, , ash characteristics, grade and temperature of Sigc ­ intergranular corrosion depth (for austenitic steels Sigc=1, for Cs ­ safety coefficient (for azimuthal variations in corrosion depth.
+
+sharply increase the corrosion rate). The steam-side tube corrosion depth
+
+As the first step of wall loss estimation, the fire-side corrosion depth under a layer of stable ash deposits S, is calculated by the following equation: ln S ' =  -  T -1 + ( + T ) ln  , where: (3)
+
+ ­ metal temperature, ;  - time, h; , , ,  - are coefficients which describe the combined ash
+characteristics of the fuel, grade and temperature of the metal; these
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+4 ISSN 1466-8858 Volume 10 Preprint 8 25 August 2006 are generally determined experimentally. The coefficient (+T) is defined as the corrosion process exponent.
+
+Industrial experiments have shown that shutdown of a boiler and the cleaning of heating surfaces from external ash deposits accelerate the corrosion process by partial or complete destruction of the oxide scale. In the second step adjustments are made to account for this accelerating influence of periodic oxide scale disruption [4]:
+
+S o = [1 +   (m1- n - 1)]  S ' .
+
+(4)
+
+where:
+
+ ­ proportional destruction of the oxide scale during periodic removal
+( ~ 0.35)
+
+n ­ number of complete or partial oxide scale removals;
+S ­ corrosion depth under a layer of stable ash deposits according to equation (3), (without destruction of the oxide scale). The corrosion depth of the internal surface of the tube (i.e. steam side) Si is calculated by using an empirical equation that is similar to (3). So, the total corrosion depth of the tube is: S = So + Si (5)
+
+The prediction of the remaining tube life involves constructing a kinetic diagram of the corrosive resistance of steel [5] for various amounts of disruptions of the oxide scale. Also the line defining the allowable reduction the diagram. A diagram for austenitic steel 12Cr18Ni12Ti (metal temperature periodic oxide scale disruption m=/0, where 0 is the time interval for of the tube wall thickness depending on operating time should be plotted on
+
+T=580°C, the content of chlorine in oil shale ash ­ 0.5%) is presented in Fig.
+
+1. The values of corrosion depth for the tubes, as determined from wall thickness measurement, should be shown on the diagram. Ideally the real value of corrosion depth should be on the line of corrosion depth prediction 2 and corresponding time 2 define the lifetime of the tube (or the time
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+at point 1 and corresponding operation time1 (Fig. 1). In this case the point
+
+5 ISSN 1466-8858 Volume 10 Preprint 8 25 August 2006 when the tube wall thinning reaches the maximum allowable value Sallowable), and (2-1) gives us the remaining life of the tube.
+
+10
+
+Di= 20 mm P = 14 MPa T = 580 °C  = 0.35 Corrosion Depth, mm
+
+12Cr18Ni12Ti
+Sallowable
+
+B2 A 2 B1 A1 C1 (2-1)
+
+C2
+
+1
+
+0=250 h 0=350 h 0=500 h 0=750 h
+
+0.1 1000
+
+''2
+10000 '1 ''1 1
+
+'2
+
+2
+
+100000
+
+Time, h
+
+Fig.1. Diagram of remaining life prediction of austenitic steel
+12Cr18Ni12Ti in PF oil shale boiler. If the actual operational time1 is less than the predicted time, due to differences between idealized and actual operational conditions, a parallel curve is constructed. To determine the remaining life, a line is projected from the currently measured point, 1, parallel to the line of corrosion depth remaining life, in this case, is (2-1). Similarly the remaining life should be In this case, the remaining life is equal to (2-1). determined if actual operation time is longer, than predicted time, point 1. prediction. The new point 2 defines the lifetime of the tube and the
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+6 ISSN 1466-8858 Volume 10 Preprint 8 25 August 2006 Prediction Of Remaining Life Of X8crninb1613 Austenitic Steel Tubes In PF Oil Shale Boiler
+
+Several tubes 31.86.3 manufactured from austenitic steel X8CrNiNb1613 were installed in the superheater section of PF oil shale boiler number 3A at the Eesti power station. The wall thickness of these tubes was measured after 24,700 hours of operation (Table 1). During these in-plant tests, the removal interval of the oxide scale was 0 =240 hours, and the mean metal temperature of the tubes was 511°C. The mean temperature of the metal was determined from the mean steam temperature in locations where these tubes were installed. However, the temperature of the metal of some tubes can be 40-50°C above the mean temperature due to a nonuniform heat flux along the superheater and irregularity in the flow rate of steam. Thus in further prediction of the remaining life the temperature of the metal was taken at the range of 511-560°C. Platen 10 11 12 14 15 17 18 20 22 23 Tube 44 38 31 42 44 30 35 41 32 28 Height, m 23.8-29.8 27.5-29.8 29.8-34.8 27.8-34.8 25.8-34.8 27.8-29.8 27.8-29.8 27.8-29.8 27.8-31.8 23.8-25.8 Corrosion depth, mm 0.45 1.2 0.3 0.5 0.38 0.37 0.78 0.35 0.5 0.46
+
+number number
+
+Table 1. Corrosion depth of the tubes in the superheater of PF oil shale boiler number 3A at Eesti power plant.
+
+The earlier tests [3] have established that loss of oxide scale adhesion occurs for steel X8CrNiNb1613; i.e. the scale becomes loose and porous and consists of several distinct layers in the presence of oil shale deposits. This is thought to results in a complete destruction of the protective oxide scale layer in boiler shutdown with an associated cleaning cycle of the heating surfaces. According to [3] a degree of periodic destruction of the oxide scale
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+7 ISSN 1466-8858 Volume 10 Preprint 8 25 August 2006 of steel X8CrNiNb1613 could be =1. This value has been used in further predictions of the remaining life. The design stress of X8CrNiNb1613 steel was determined according to [6]. The minimum required wall thickness and allowable thinning of the tubes wall were calculated according to (1, 2) and are presented in Table 2.
+
+Steel grade Tube size, mm Steam pressure, MPa Metal temperature, ° Operating time, h Design stress, N/mm2 Minimum required wall thickness, mm Allowable reduction of the wall thickness, mm
+
+X8CrNiNb1613 31.86.3 14 560 104 121.3 1.15 3.71 2·105 92 1.54 3.40
+
+Table 2. Design stress, minimum required wall thickness and allowable reduction of the wall thickness of tubes manufactured from steel X8CrNiNb1613.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+8 ISSN 1466-8858
+10
+
+Volume 10 Preprint 8
+0 = 240 h =1
+
+25 August 2006
+
+Sallowable
+Boiler test
+
+X8CrNiNb1613
+
+Corrosion Depth, mm
+
+1
+
+0 56
+0.1
+
+°C 5 °C 11
+
+48 300 h
+
+83 300 h
+
+150 000 h
+0.01 1000 10000 100000 1000000
+
+Time, h
+
+Figure 2. Diagram of remaining life assessment of austenitic superheater tubes (X8CrNiNb1613 31.86.3) in PH oil shale boiler 3A at the Eesti power plant. A diagram of corrosion depth estimates and remaining life predictions for X8CrNiNb1613 austenitic steel is presented in Fig. 2. The diagram takes into account both fire-side corrosion (under influence of oil shale deposits) and steam-side corrosion (corrosion depth in the steam medium was estimated according to the equation for 12Cr18Ni12Ti austenitic steel [7]). As previously noted the temperature of the metal was not measured directly and therefore the diagram was made for two temperatures, 511°C and 560°C. Then the line defining the allowable reduction of the tube wall thickness was plotted on diagram. As the corrosion exponent for steel X8CrNiNb1613 different temperatures are parallel. In view of the uncertainty of temperature determination, the predicted remaining life can vary from 90 to 190 thousands hours. It should be mentioned that the prediction of corrosion depth closely matches results from boiler tests, but that data scatter nullifies its utility. Estimations of remaining life, based on tubes wall thickness
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+Sallowable (calculated according to (1)-(2)), depending on the operating time , does not depend on temperature [2, 5], the lines of corrosion prediction for
+
+9 ISSN 1466-8858 Volume 10 Preprint 8 25 August 2006 measurements, could increase the accuracy of predictions. In this case localized conditions of corrosion such as temperature mal-distribution, localized variations in the corrosive environment, degree of oxide scale destruction etc. are taken into account integrally. Thus use of the proposed method allows a significantly increased accuracy in remaining life predictions due to incorporation of these uncertainties. So the lines from "reference points" of measured corrosion depths are drawn parallel to the corrosion depth prediction line (Fig. 2). The points, where these lines cross the line of allowable thinning of the tubes wall, define the remaining life of tubes. As it can be seen in Fig. 2 in the particular case of the most damaged tube (tube number 38, platen number 11), it will reach the maximum allowable depth after about 50 thousands hours. The remaining life of the tube number 35, row number 18 is about 80 thousands hours. For the rest the remaining life is more than 150 thousands hours. Thus all of the investigated tubes could be operated until the next major overhaul. Conclusion 1. The longevity, as determined from long-term industrial tests of tubes manufactured according to DIN 17459 from X8CrNiNb1613 austenitic steel and used in the superheater zone of a PF oil shale boiler, are close to the results obtained for the widely used austenitic steel 12Cr18Ni12Ti ( 14-3-460-75 [2]). A primary feature of austenitic tubes is loss of oxide scale adhesion and spalling in the presence of oil shale deposits that sharply accelerate the corrosion process in comparison with laboratory experiments. This leads to the fact that operation and the remaining life of the tube from steel X8CrNiNb1613 (according to DIN 17459, this material can be operated at least 100 thousands hours) could be only 50 thousands hours. 2. Remaining life assessment according to the suggested method, which is based on measurements of tubes wall thickness, increases the accuracy of life estimation and thereby helps to avoid unscheduled outages due to tubes failures, reducing both the extent and cost of preventive maintenance. corrosion depth could be as large as 1.2 mm after only 25103 hours of
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+10 ISSN 1466-8858 References Volume 10 Preprint 8 25 August 2006
+
+1.  10-249-98.       
+
+    . ­  ,
+
+2000. (RD 10-249-98. Rules for Strength Calculation of Stationary Russia, 2000.) Boilers and Steam and Hot Water Pipelines. ­ Gosgortehnadzor  of
+
+2. Tallermo H., Klevtsov I., Lausmaa T., Bojarinova T., Nuutre M., Kull A., Report 274/5, Tallinn, 1999, pp. 151. (In Estonian). 3. Klevtsov I., Tallermo H., Bojarinova T., Lausmaa T., High Temperature Corrosion Resistance of the Austenitic Steels in the Presence of Chlorine-Containing On-Tube Deposits. Oil Shale, 2003, Vol. 20, No. 4, pp. 501-509.
+
+Assessment of metal life working in creep conditions, // Preliminary
+
+4. Ots A. Põlevkivi põletustehnika (Oil Shale Fuel Combustion) // Tallinn, 2004 (In Estonian). 5. Tallermo H., Klevtsov I., Bojarinova T., Crane, R., Assessment Of Remaining Life Of Austenitic Steel Superheater Tubes In Pulverized Fired Oil Shale Boilers ­ Part I 6. DIN 17459. Nahtlose kreisförmige Rohre aus hochwarmfesten austenitischen Stählen, 1992. 7. Rules of the Scaling Account for Strength Estimation of Steam Boiler Heating Surfaces. - RTM 24.030.49-75 (in Russian).
+
+
+
+Federal Mining and Industrial Supervision (GOSGORTEHNADZOR) is the Federal
+
+the field of industrial safety, as well as, within its sphere of competence, in the field of protection and use of subsoil.
+
+Executive Body providing regulation, authorization, control and supervision functions in
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+11 ISSN 1466-8858
+
+Attachment: Additional Copies of Images and Tables
+
+Volume 10 Preprint 8
+
+25 August 2006
+
+10
+
+Di= 20 mm P = 14 MPa T = 580 °C  = 0.35 Corrosion Depth, mm
+
+12Cr18Ni12Ti
+Sallowable
+
+B2 A 2 B1 A1 C1 (2-1)
+
+C2
+
+1
+
+0=250 h 0=350 h 0=500 h 0=750 h
+
+0.1 1000
+
+''2
+10000 '1 ''1 1
+
+'2
+
+2
+
+100000
+
+Time, h
+
+Fig.1. Diagram of remaining life prediction of austenitic steel 12Cr18Ni12Ti
+in PF oil shale boiler.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+12 ISSN 1466-8858
+10
+
+Volume 10 Preprint 8
+0 = 240 h =1
+
+25 August 2006
+
+Sallowable
+Boiler test
+
+X8CrNiNb1613
+
+Corrosion Depth, mm
+
+1
+
+0 56
+0.1
+
+°C 5 °C 11
+
+48 300 h
+
+83 300 h
+
+150 000 h
+0.01 1000 10000 100000 1000000
+
+Time, h
+
+Figure 2. Diagram of remaining life assessment of austenitic superheater plant. Table 1. Corrosion depth of the tubes in the superheater of PF oil shale boiler number 3A at Eesti power plant. Platen 10 11 12 14 15 17 18 20 22 23 Tube 44 38 31 42 44 30 35 41 32 28 number number Height, m 23.8-29.8 27.5-29.8 29.8-34.8 27.8-34.8 25.8-34.8 27.8-29.8 27.8-29.8 27.8-29.8 27.8-31.8 23.8-25.8 Corrosion depth, mm 0.45 1.2 0.3 0.5 0.38 0.37 0.78 0.35 0.5 0.46
+
+tubes (X8CrNiNb1613 31.86.3) in PH oil shale boiler 3A at the Eesti power
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+13 ISSN 1466-8858 Volume 10 Preprint 8 25 August 2006 Table 2. Design stress, minimum required wall thickness and allowable reduction of the wall thickness of tubes manufactured from steel X8CrNiNb1613. Steel grade Tube size, mm Steam pressure, MPa Metal temperature, ° Operating time, h Design stress, N/mm2 Minimum required wall thickness, mm Allowable reduction of the wall 104 121.3 1.15 3.71 X8CrNiNb1613 31.86.3 14 560 2·105 92 1.54 3.40
+
+thickness, mm
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

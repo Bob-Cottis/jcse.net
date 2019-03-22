@@ -1,0 +1,280 @@
+Volume 6 Paper H067
+
+Stress Controlled Mechanisms in the Oxidation of Metallic Alloys
+M. Schütze
+
+Karl-Winnacker-Institut der DECHEMA e.V., Theodor-Heuss-Allee 25, 60486 Frankfurt am Main, Germany, schuetze@dechema.de
+
+Abstract
+In the high temperature oxidation of metallic alloys oxide scale stresses most often play a key role with regard to oxidation resistance, long term performance and reliability. In many cases materials selection is based on thermodynamic considerations and short term laboratory data, not taking into account changes in the oxidation mechanisms resulting from thermally induced stresses, oxide growth stresses, geometrically induced stresses or other operational stresses. Many damage cases can be explained by the initiating role of scale stresses which have exceeded a critical value leading to a complete change in the oxidation behaviour. In the paper the complex situation of the interaction of scale stresses and the oxidation mechanisms is illustrated at hand of 4 examples. Aspects to be addressed are origin and level of the scale stresses, kinetics of subsurface zone depletion, role of environment (water vapour) and alloy composition, and role of impurities. The four examples are based on recent results from investigations on model systems like NiO / Ni and TiAl-oxides on TiAl, and on technical systems like ferritic-martensitic chromium steels and thermal barrier coatings on Ni-base alloys. The paper shows that stress-controlled mechanisms in the oxidation of metallic alloys are omnipresent and that they can have a significant influence on e.g. scale morphologies and on life time of the protective effect of the oxide scales. Although the situation of oxidation becomes more complex when taking also these mechanisms into account,
+
+understanding and quantification of the latter offer the potential of a more reliable and accurate prediction of oxidation controlled component life time. Keywords: Oxide scale stresses, nickel oxide, titanium aluminides, heat-resistant steels, thermal barrier coatings
+
+Introduction
+Traditionally the oxidation resistance of metals and alloys is assessed from a thermo-chemical point of view, i.e. the thermodynamics and kinetics of scale formation and growth are determined and modelled with the aim to characterize and predict oxidation controlled life time of the materials. Besides thermochemistry, however, a decisive role for life time is played by stresses in the oxide / substrate system. These stresses can be of intrinsic nature (oxide growth stresses, transformational stresses, etc.) or of extrinsic type (cooling stresses, operational forces, etc.). In particular cooling stresses resulting from the differences of the coefficients of thermal expansion of substrate and the (partial) oxide layers are a well known source for oxide scale cracking and spalling since they can reach stress values of more than 1 GPa (depending on the temperature drop and the system). The origin and the level of the different types of stresses in oxide scales have been dealt with in detail (amongst others) in an overview book [#ref1] devoted exclusively to the mechanical failure of oxides. As a main conclusion from the existing knowledge in the literature it can be one has to be aware of their role in oxidation. Much of this role concerns the life time of the protective effect of the oxide scale with all the consequences for the life time of the material. Literature data indicate that in most of the cases the fracture strains of the oxide scales are significantly below 1% (at least under tensile stresses), fig. 1, i.e. under practical conditions stress controlled mechanisms in oxidation can be initiated by scale fracture, delamination or spalling since a critical strain of less than 1% is often easily exceeded during high temperature component operation. For this reason a significant effort has been undertaken in the past to develop quantitative models stated that stresses in oxide / metal systems are unavoidable and that
+
+2
+
+on mechanical scale failure and some of the more common are summarized together with the respective model equations in fig. 2.
+
+Fig. 1: Summary of oxide fracture strain data from the literature [#ref2]
+
+3
+
+a) Through scale cracking (tensile)
+
+b) Interfacial crack growth (compressive)
+
+b c
+
+r K Ic 1 + d  (1 +  ) =  f c
+
+(
+
+)
+
+c) Buckling (compressive)
+
+d) Crack deflection towards surface (compressive)
+
+e) Spalling (compressive)
+
+Fig. 2: Schematic summary of the more common failure models for oxide scales [#ref3] t c , ic , b , bf , s c c c = failure strains of the scales under the
+
+respective loading mode KIc = fracture toughness Eox = Young's modulus of the oxide 4
+
+c = physical defect size d = scale thickness r = interfacial roughness R = radius of a detached part of the scale f = geometrical factor  = Poisson ratio A more detailed description of these models can be found e.g. in [#ref1] and [#ref2] and in the references quoted there. Since oxide scales at high temperatures are living systems [#ref1], [#ref4] the formation of a scale crack or spallation does not automatically mean the end of the protective effect. As the oxidation processes keep on going, healing of such cracks may occur restoring protection by the scale [#ref1]. Examples of such healing cracks are shown in figs. 3 and 4, indicating that even complex multiphase oxide scales as those on intermetallic TiAl close up completely by crack healing even if theory would predict the reminiscence of a crevice in the oxide scale if the latter would mainly be growing in inward direction [#ref6] as that on TiAl. Generally it can be stated that technical metallic materials can only survive in practical service since their protective oxide scales are able to close cracks and spallations by healing. Otherwise even the low strains induced by operation at high temperature and during cooling
+
+5
+
+Fig. 3: Example of a healing through scale crack on TiAl after 100 hrs oxidation and subsequent straining at 900°C in air [#ref5]
+
+Fig. 4: EPMA element distribution maps of a healed through scale crack in the oxide scale of TiAl after oxidation at 900°C in air [#ref5] would be sufficient to set the scales out of their protective function. As a consequence of all the processes in such living systems the structure of the oxide scale and the metal subsurface zone as well as the oxidation mechanisms and kinetics may be influenced by the presence 6
+
+of stresses which will be the topic of the present paper. The variety of these effects will be illustrated by four systems which are a single phase oxide in the form of NiO on pure nickel, a more complex chromium rich oxide) scale on a technical 9% Cr steel and the multiphase oxide scale on intermetallic TiAl, the protective chromia (or thermally grown oxide scale (TGO) of a thermal barrier coating system.
+
+The Role of Stresses for the Morphology of a Single Phase Oxide Scale, e.g. NiO on Pure Nickel
+The system nickel oxide on nickel has widely been investigated since several decades and a number of models have been developed to explain the two layer structure of the scale (see ovierview in [#ref7]).
+
+Fig. 5: Development of oxide morphology at 900°C in air on Ni99.99 as a function of oxidation time [#ref8] Most recent experimental results reveal that this structure is the result of the presence of isothermal growth stresses in the oxide [#ref8]. As shown for the example of Ni99.99 at 900°C in air in fig. 5 the oxide 7
+
+scale of the first hours of oxidation consists of one layer with equiaxed structure. Only after 5 hrs the typical two layer structure forms with an outer columnar partial layer and the inner equiaxed part. This type of Ni99.999 single crystal material is used the scale is still consisting of one single equiaxed oxide layer even after 100 hrs of oxidation, fig. 6a. The situation becomes different if the oxide / metal interface is structure is observed, fig. 6b. a "poisoned" with a Pt marker as an impurity where again the two layer structure is observed for the rest of oxidation time. If ultra-high purity
+
+a)
+
+b) Fig. 6: Oxide scale on single crystal ultra high purity nickel after oxidation for 100 hrs at 900°C in air [#ref8] a) Without Pt marker b) With Pt marker
+
+8
+
+For the NiO / Ni systems mentioned in situ oxide growth stress measurements were performed during isothermal oxidation at 900°C in air, either by the differential test in monofacial oxidation (DTMO, i.e. a thin metal foil of Ni is protected against oxidation on one side leading to foil bending if growth stresses occur by the oxidation of the opposite side) [#ref8] or by X-ray diffraction [#ref9]. The DTMO was accompanied by acoustic emission measurements indicating the occurrence of isothermal scale (micro-) cracking at 900°C due to growth stresses if present. The results of these measurements are shown in figs. 7 and 8.
+
+a)
+
+b)
+
+c)
+
+Fig. 7: Scale stress (a), acoustic emission energy (b) and foil deflection (c) as a function of time in DTMO measurements at 900°C in air for the scale on Ni99.99 [#ref8]
+
+9
+
+Fig. 8: Growth stress in NiO on Ni as a function of time at 900°C in air as determined by XRD measurements [#ref9] Both, DTMO and X-ray measurements reveal that for Ni99.99 (and Ni99.999 with the Pt marker) the scale growth stresses increase steeply in compressive direction after a short initial tensile period and then drop to a more or less constant lower level after the peak between 2 and 5 hrs. This lower level seems to be characterised by an oscillating course of the stresses as it would be expected in the case of stress relaxation by scale (micro-) cracking and stress increase by superimposed healing processes as described elsewhere [#ref10]. As an interesting feature of the acoustic emission results there is a strong acoustic emission activity in the early stages of oxidation (mechanical failure by microcracking and / or delamination) which slows down after the stress relief behind the stress peak and comes up again when the stress oscillations start. If one switches to the 99.999 Ni single crystal material almost no acoustic emission activity is found and the scale stress increases continuously (i.e. no stress relief processes take place), fig. 8. In other words if acoustic emission and stress relief occur after a few hours the oxide scale has a two layer structure. If no acoustic emission (i.e. no cracking or delamination) and no stress relief are observed the oxide scale remains a single layer. Evidently it is the purity of the oxide / metal interface which decides on how the structures react on the presence of oxide scale 10
+
+growth stresses. A higher amount of impurities at the interface as for the Pt marker on Ni99.999 or for the less pure Ni99.99 weakens the oxide / metal interface or possibly even the oxide itself allowing stress relaxation by microcracking and / or micro-delamination as postulated in [#ref11].
+
+By this situation the following four stages can lead to the typical two layer structure as concluded in [#ref8], fig. 9: Stage I:
+
+formation of a single-phase oxide scale with high porosity at the oxide-metal interface;
+
+Stage II:
+
+coalescence of the interfacial voids and local detachment of the oxide scale, formation of cavities at the interface, microcracking, and shear failure of the detached parts of the oxide scale;
+
+Stage III:
+
+local formation of an inward-growing, fine-grained oxide scale underneath the detached parts of the outer oxide, lateral growth of interfacial separations, and coarsening and formation of columnar oxide crystals in the outer, detached oxide scale;
+
+Stage IV:
+
+complete formation of a duplex layer, inner fine-grained in the outward-growing oxide scale with longish pores, oriented along the columnar grain boundaries.
+
+oxide scale with equiaxed pores, coarse columnar grains
+
+In the first stage, the oxide scale on nickel 99.99 grows at the oxidegas interface by mere outward cation diffusion, as was already shown by O marker experiments by Atkinson and Smart [#ref12] as well as by Graham and Hussey [#ref13]. In addition, a small amount of inward transport of
+18O
+
+into the inner Ni16O layer was observed, although the
+
+oxide scale was single phase. This can be taken as an indication of the mechanism suggested by Rhines and Wolf [#ref14]. In their mechanism, compressive growth stresses in the oxide scale can lead to microcrack formation superimposed by healing processes of these microcracks. As a result, the oxide scale will be interspersed with
+
+11
+
+Fig. 9: Schematic of the different stages in the development of the oxide scale on technically pure nickel during exposure in air at 900°C (explanation see text) [#ref8]
+
+12
+
+microcracks, which grow and heal at the same time, thus, leading to a scale in which, at least temporarily, gas-phase transport in an inward direction is possible through the migrating and healing microcracks. In this stage, pores are preferentially formed at the oxide-metal interface because of the permanent nickel outward cation transport and the inward movement of nickel vacancies. Coalescence of pores initiates the failure mechanism in the oxide scale according to Stage II when planar compressive stresses from oxide scale growth reach a critical value. The presence of such compressive scale stresses in the oxide scale at 900°C was confirmed by the DTMO measurements.
+
+The duration of the first two stages together is about 3 hrs, as was shown by the metallographic investigations and the stress measurements. The beginning of Stage II coincides with the penetration of molecular oxygen through the (micro-)cracks formed in the oxide scale. The molecular oxygen reacts with the unprotected nickel metal surface underneath a detached area of the scale and starts the formation of new fine-grained nickel oxide. As already mentioned, the penetration of oxygen through the oxide scale has been confirmed by several authors in the form of
+18O
+
+isotope-marker
+
+experiments. Since cation transport plays a role in the growth of the inner layer, a part of this layer also grows in the outward direction contacting the detached outer oxide scale. At the new interface between the inner and outer oxide scales, high porosity was observed after 5 hrs[#ref8], since the cavities under the detached layer are not completely closed by oxidation. Mrowec [#ref15} as well as Gibbs and Hales [#ref16] had suggested a mechanism for the penetration of molecular oxygen via grain boundaries or pore channels in the oxide scale, which, however, can be regarded as less likely than transport through microcrack networks as the present results indicate. These results support the model suggested by Atkinson and Smart [#ref12] in which molecular oxygen penetrates through the oxide scale via stress-induced microcrack networks. The microcracks in the oxide scale can heal since nickel-cation transport in the outward direction is not interrupted. This healing process has been confirmed by Moon [#ref17], [#ref18] by the observation of newly formed oxide at the NiO grain boundaries in
+18O
+
+SIMS investigations. This healing process, 13
+
+however, leads to an internal volume increase in the oxide leading to
+
+high growth stresses, which, in turn, initiate the formation of further local microcracks. Thus, a stationary process comes into action consisting of continuous microcracking and continuous microcrack healing leading to a stationary microcrack network. As a result, the the environment to the metal-oxide interface. As soon as this oxide scale exhibits a certain permanent permeability for oxygen from equilibrium of microcrack formation and superimposed microcrack healing has been reached, Stage IV starts. In the experiments, the beginning of this stage was around 5 hrs when a continuous duplex layer had formed.
+
+All in all the present results are a good example showing how scale growth stresses can affect the geometrical structure of oxide scales.
+
+The Role of Stresses in a Multiphase Oxide Scale, e.g. Oxide on Intermetallic TiAl
+Oxide scales formed on TiAl at temperatures above 800°C in air reveal a complex microstructure consisting of TiO2 and Al2O3 (and some other phases) which changes significantly during oxidation time. This microstructure has been investigated in great detail using transmission electron microscopy [#ref19], [#ref20] and is schematically summarized in fig. 10.
+
+14
+
+Fig. 10: Schematic of the effect of scale structure on the kinetics of TiAl oxidation [#ref19] Before the stresses in these oxide scales had been measured the dynamic situation obvious from fig. 10 was simply explained by a mere chemical mechanism [#ref21]. However, DTMO and X-ray in situ measurements at 900°C revealed that again significant growth stresses build up in the scales accompanied by acoustic emission, figs. 11 and
+
+15
+
+12, and that stress as well as acoustic emission intensity oscillations
+
+Fig. 11: Deflection of a TiAl(Cr) foil during isothermal oxidation (DTMO) at 800°C in air together with the measured acoustic emission energy [#ref10]
+
+16
+
+Fig. 12: Results from in situ X-ray measurements of the oxide growth stresses on TiAl at 900°C in air [#ref22] occur which are even more marked than those observed for NiO on Ni [#ref10]. It can therefore be expected that again a superposition of stress relief by microcracking and of stress increase by microcrack healing and further oxide growth leads to such oscillating behaviour which is schematically illustrated in fig. 13.
+
+17
+
+Fig. 13: Schematic of the interaction between stress build-up (I), stress relief (II) and acoustic emission activity [#ref10] This dynamic situation could explain the complex microstructure in the oxide scales on TiAl which is schematically shown for the situation shortly before breakaway in a more detailed representation in fig. 14.
+
+18
+
+Fig. 14: Schematic of the scale structure on TiAl after oxidation at 900°C in air shortly before breakaway [#ref23] Explaining this structure solely by chemical considerations would end up in problems since the different phases in the scales are not reactants' activities. Furthermore the development of the arranged according to their thermodynamic stabilities and the local microstructure of the physical defect distribution (pores, microcracks) and size as a function of time (investigated in detail in [#ref10]) supports the assumption of closure of the microcracks formed during stress relief processes by microcrack healing. In summary again a oxidation of the TiAl alloys. stress controlled dynamic situation has to be expected also in the
+
+The Role of Stresses in the Oxidation of Chromia Forming Conventional 9% Cr Steels
+Recent investigations in dry air and humid environments at 650°C show [#ref24] that modern 9% Cr steels for fossil power stations (e.g P91, Nf616, etc.) have a chromium content right at the edge for the formation of a protective chromia or chromium rich oxide scale. For this reason the oxidation behaviour may change dramatically if stresses lead to cracking or spalling of the protective oxide scale and fresh metal is exposed to the environment. The Cr-content in the metal subsurface zone can drop significantly below a value of around 7% Cr simply by the formation of chromia or a chromium rich oxide scale. This value of about 7% Cr turned out to be a minimum value needed for protective oxide scale formation in the experimental investigations in [#ref24]. The depletion kinetics of Cr are given for the example of P91 in fig. 15.
+
+19
+
+Fig. 15: Cr-concentration directly underneath the oxide scale as a function of oxidation time for P91 at 650°C in 3 different environments (EPMA-measurements) [#ref24] In dry synthetic air the metal subsurface zone Cr value at the oxide / metal interface only locally falls below this critical value, i.e. at 20 positions where thicker oxide nodules are observed within the very
+
+thin protective oxide scale, figs. 15a and 16a.
+
+Fig. 16: Three steps of oxide scale formation starting with small nodules until a thick continuous oxide layer forms (example P91 at 650°C) [#ref24] 21
+
+The presence of water vapour accelerates Cr-depletion kinetics, fig. 15, and the kinetics become faster with increasing water vapour content, figs. 15b and c, and fig. 17.
+
+Fig. 17: Minimum of Cr-concentration directly underneath the oxide scale as a function of water vapour content at 650°C during 10.000 hrs oxidation time [#ref24]
+
+22
+
+In dry air besides very little acoustic emission within the first 200 hrs there is significant AE activity between 200 and 250 hrs in fig. 18
+
+a)
+
+b) Fig. 18: Acoustic emission as a function of time during isothermal oxidation of P91 in dry synthetic air (a) and air + 10% H2O (b) at 650°C [#ref24]
+
+23
+
+during isothermal oxidation (and of course during cooling after about 300 hrs). This indicates that evidently growth stresses can lead to some (presumably local) cracking of the oxide scale even without cooling. The presence of such growth stresses was confirmed again by DTMO and X-ray measurements, being in the range of about 200 MPa for P91 in dry air, fig. 19.
+
+Fig. 19: Tendencies in the growth stress level of the oxide scales on P91 at 650°C in dry air and air + 10% H2O [#ref24]
+
+However, only at those positions where the Cr-content in the subsurface has dropped below the critical value some local nonprotective Fe-rich nodules had formed as a consequence of scale cracks, figs. 15a and 16a. The general characteristics of the scale are still protective which is also reflected by the very slow mass change kinetics in fig. 20.
+
+24
+
+Fig. 20: Mass change kinetics of P91 during oxidation at 650°C in different environments [#ref24] Interestingly the situation becomes quite different when water vapour is added to the environment. The initial growth stresses increase dramatically, fig. 19, and the same occurs with the acoustic emission activity, fig. 18b, i.e. also the isothermal scale (micro-)cracking frequency increases leading to the stress relief obvious from fig. 19. For the experiments in dry air the stress level remains on a more or less constant value confirming together with the AE data that for these scales if at all only very little cracking (and, thus, stress relief) takes place. The presence of water vapour evidently leads to an increase of the intrinsic scale stresses. The consequences are quite obvious from figs. 15, 16 and 20. The higher cracking frequency, fig. 18b, in water vapour containing environment effects a higher Cr-depletion rate, fig. 15, resulting in an early drop of the Cr-content of the subsurface zone below the critical limit and, thus, in an early initiation of breakaway, fig. 20. Tendencially, the higher the water vapour content the higher seem to be the AE-activity (cracking frequency) and the Cr-depletion rate, and the earlier the initiation of breakaway oxidation can occur, fig. 20. 25
+
+For completeness it should be mentioned that after a certain period of breakaway type oxidation a kind of "repassivation" occurs, fig. 20, which is described in detail in [#ref24]. Furthermore, Cr-depletion in water vapour environment is (in addition to the scale cracking and volatile chromium hydroxyles [#ref24]. healing processes) to some extent also accelerated by the formation of
+
+The Role of Stresses in Bond Coat Oxidation of Thermal Barrier Coatings
+There are some indications that even in the thermally grown oxide (TGO) scale between the bond coat (MCrAlY) and the ceramic top coat (Y-stabilized zirconia) significant intrinsic growth stresses can build up, see results from DTMO measurements in fig. 21.
+
+Fig. 21: DTMO measurements of the stresses in the thermally grown oxide of a TBC system at 1000°C in air using free standing bond coat foils [#ref25] Despite of the high stress levels in fig. 21 only very little acoustic emission is observed which may be due to the high test temperatures 26
+
+of 1000°C and higher. At such temperatures plastic deformation processes (which are not easily detected by AE) may become dominant over purely elastic (micro-)cracking. At least after cooling a large number of microcracks are found by metallography in and around the TGO, confirming that scale stresses must have been present not only not be explained that the crack lengths in fig. 22 are a function of from cooling but also during the isothermal period. Otherwise it could
+
+Fig. 22: Crack types and crack lengths as a function of oxidation time at 1000°C in air for the TGO in an APS-TBC system [#ref25]
+
+27
+
+oxidation time and the crack modi also change during oxidation. bond coat follow breakaway type characteristics, fig. 23.
+
+Furthermore, TGO thickness and -phase depletion kinetics in the
+
+Fig. 23: TGO thickness and -phase depletion kinetics in the bond coat at 1000°C in air [#ref25] It may, therefore, not be surprising that TGO scale stresses can play a role for the life time of thermal barrier coating (TBC) systems. Most recent approaches in the development of TBC lifetime models [#ref26] therefore distinguish between different damage accumulation mechanisms, fig. 24.
+
+Fig. 24: Life time modelling distinguishing between different damage accumulation mechanisms [#ref26]
+
+28
+
+Besides the mechanical and thermal fatigue limit (mechanical and thermal cycling of the coating system) and the Al depletion limit (resulting from Al interdiffusion between substrate and bond coat as well as from Al consumption by oxide scale formation and growth) a thermal aging limit was introduced. The latter contains (among other parameters, e.g. top coat sintering) the intrinsic TGO stress situation as well as the physical defect structure in the TGO resulting from these TGO stresses. Also the Al depletion limit is influenced by the presence of TGO stresses if microcracking and healing in the TGO occur during high temperature exposure. Interestingly this Al depletion limit model is based on a critical Al content in the bond coat subsurface of around 3% which is an order of magnitude where no reforming of Al2O3 can be expected after scale cracking has occurred [#ref27]. Rather, fast and, thus, the end of the protective period of the bond coat. Summarizing these observations it can be concluded that also for complex layer systems like thermal barrier coatings, an important role for life time is played by stress induced oxidation mechanisms. Taking these mechanisms into account as in the more sophisticated life time model mentioned above reduces the scatter band of the predicted life time values from a factor of 3 in the conventional models [#ref28] to now a factor of 2 [#ref26]. growing spinels will form indicating breakaway oxidation behaviour
+
+Conclusion
+In the present paper four examples have been shown indicating that stress-controlled mechanisms in the oxidation of metallic alloys are omnipresent. These mechanisms can have a significant influence on e.g. scale morphologies and on life time of the protective effect of the oxide scales. Although the situation of oxidation becomes more complex when taking also these mechanisms into account, understanding and quantification of the latter offer the potential of a more reliable and accurate prediction of oxidation controlled component life time. For this reason all efforts contributing in the above sense to a broadening of high temperature corrosion knowledge on the mechanical and chemical-mechanical side are of high value.
+
+29
+
+References
+!ref1 `Protective Oxide Scales and Their Breakdown", M. Schütze, Wiley, Chichester 1997.
+
+!ref2 `Test Methods and Data on the Mechanical Properties of Bruns, Materials at High Temperatures, 18, pp39-50, 2001.
+
+Protective Oxide Scales, M. Schütze, S. Ito, W. Przybilla, H. Echsler, C.
+
+!ref3 `Mechanical Properties of Oxide Scales', M. Schütze, Oxidation of
+
+Metals, 44, pp29-61, 1994.
+
+!ref4 `Mechanical Interactions in Oxide Scales', M. Schütze, High The Electrochem. Soc., Pennington, pp1-17, 1998.
+
+Temperature Corrosion and Materials Chemistry, Eds. P.Y. Hou et al.,
+
+!ref5 `Cracking and Healing of Oxide Scales on Ti-Al Alloys at 900°C',
+
+Oxidation of Metals, 52, pp241-276, 1999.
+
+!ref6 H.W. Grünling, B. Ilschner, S. Leistikow, A. Rahmel and M. Schmidt, Werkstoffe und Korrosion, 29, pp691, 1978.
+
+!ref7 R. Hangsrud, Corrosion Science, 45, pp211-235, 2003. !ref8 `Role of Growth Stresses on the Structure of Oxide Scales on
+
+Nickel at 800 and 900°C', W. Przybilla, M. Schütze, Oxidation of
+
+Metals. 58, pp103-145, 2002.
+
+!ref9 T. Gnäupel-Herold and W. Reimers, Proc. Int. Conf. Residual
+
+Stresses V, T. Ericsson et al., eds. Linköping, 1997.
+
+!ref10 W. Przybilla, M. Schütze, Oxidation of Metals, 58, pp337-259, 2002.
+
+4, pp1064, 1988.
+
+!ref11 J.R. Robertson, M.I. Manning, Materials Science and Technology,
+
+!ref12 A. Atkinson, W. Smart, J. Electrochemical Society, 11, pp2886, 1988.
+
+30
+
+!ref13 M.J. Graham, R.J. Hussey, Oxidation of Metals, 44, pp339, 1995. !ref14 F.N. Rhines, J.S. Wolf, Metallurgical Transactions, 1, pp1701, 1970.
+
+!ref15 S. Mrowec, Corrosion Science, 7, pp563, 1967. !ref16 G.B. Gibbs, R. Hales, Corrosion Science, 17, pp487, 1977. !ref17 D.P. Moon, Oxidation of Metals, 31, pp71, 1989. !ref18 D.P. Moon, Surface and Interface Analysis, 12, pp27, 1988. !ref19 C. Lang, M. Schütze, Oxidation of Metals, 46, pp255-285, 1996. !ref20 C. Lang, M. Schütze, Materials and Corrosion, 48, pp13, 1997. !ref21 S. Becker, A. Rahmel, M. Schorr, M. Schütze, Oxidation of
+
+Metals, 38, pp425, 1992.
+
+!ref22 W. `Final Report no. DFG RE 688/15', Reimers, T. GnäupelHerold, Deutsche Forschungsgemeinschaft, Bonn 1997. !ref23 M. Schmitz-Niederau, M. Schütze, Oxidation of Metals, 52,
+
+pp225-240, 1999.
+
+!ref24 `The Oxidation Behaviour of Ferritic Martensitic 9% Cr Steels in H2O Containing Environments', M. Schütze, Dr. Renusch, M. Schorr, submitted to Materials at High Temperature.
+
+!ref25 H. Echsler, D. Renusch, M. Schütze, in preparation. !ref26 D. Renusch, M. Schütze, in preparation. !ref27 G.R. Wallwork, A.Z. Hed, Oxidation of Metals, 3, pp171, 1971. !ref28 `Thermal Barrier Coating Life Predicition Model', J.T. De Masi, K.D. Sheffler, M. Ortiz, NASA-Report CR 182230, 1989
+
+31
+

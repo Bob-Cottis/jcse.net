@@ -1,0 +1,97 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 21
+
+4 January 2007
+
+Corrosion of Mild Steel by Degradable packaging wood at High Humidity and Its Prevention.
+Mrs. K. Srivastava & Shailendra K. Dwivedi Deptt. of Chemistry Christ Church College, Kanpur
+Key word : Corrosion, mild steel, Packaging wood, volatile corrosion inhibitor, m-dinitrobenzene, Anthraquinone
+Abstract : Metallic equipments corrode in closed wooden boxes kept under hot humid condition. Wood may serve as a source of acetic acid. In the present investigation, the corrosion of mild steel by vapours of different woods (Mango (Magifera indica), Muhua (Madhuca indica), Jamun (Syzygium Commune)) has been studied at 80% RH. Corrosion by acetic acid vapors has also been studied. The effect of two volatile corrosion inhibitors m-dinitrobenzene and anthraquinone has been studied for their protective performance towards accelerated corrosion by different woods and also by acetic acid. The mild steel panels (i) kept in the vicinity of different woods (ii) exposed to acetic acid vapors corrode severely. The two VCIs proved to be highly efficient inhibitors. They completely suppressed the accelerated corrosion by (i) woods and by (ii) Acetic acid in vapor phase
+
+Introduction : In Packaging of electronic equipments various types of woods are used for making of packaging boxes. Packed equipments are transported from one place to another place. It takes several months and passes through different climatic conditions. Different climatic condition are variation in temperature, humidity, acidity etc. The earliest report on climatic deterioration of electronic equipment is from Australian army. In which the electronic equipment dumped in packaging cases completely failed. Numerous examples of failure of electronic equipment are reported in many parts of the world1. They ascribed it to be corrosion of metallic components due to unfavorable environmental conditions. Corrosion of ferrous metals by vapours given out by organic materials has been investigated by Rance and Cole2. Knotkova et.al.3 and by Donavan stringer4-5. Free acid vapours are derived by mild and progressive hydrolysis of the acetyl group attached to hemicellulose in wood6. The acetyl content of wood hemicellulose differs from species to species as also from timber to timber within a species 7,8. However, irrespective of acetyl content, wood paper that has been submitted for publication in the Journal © University of Manchester and the authors 2006. This is a preprint of a may serve as a source of acetic acid of
+Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 21
+
+4 January 2007
+
+when stored under hot humid conditions. Although the rate of hydrolysis of the acetyl hemicelluloses vary from species to species, the risk of corrosion to metallic equipment in closed wooden boxes under hot humid condition is difficult to avoid. Most of packaging woods (under high humid condition) have a great chance to emit acetic acid, which corrode ferrous metals very rapidly at the room temp. In the present investigation corrosion of mild steel kept in the vicinity of different woods at high humidity has been studied. Acceleration of corrosion by acetic acid has also been studied. Different inhibitors were studied to prevent the corrosion of iron. Materials and Method PC RCA (18 SWG) mild steel panel of the size 3 inches by half inches was used as experimental samples. Mild steel panels were finely polished with 000 emery paper and were cleaned with sulphur free toluene before experiment. Panels were initially weighed, suspended over 80% RH humidity with and without woods for 2 months at room temperature. After the experiment the panels were reweighed. Due to rust weight of the panels were increased. Corrosion was measured in terms of increased weight. 80% RH was produced with the help of 14.55% H2SO4 in sealed dessicator. AR quality 98% pure acetic acid was used for the experiment. 0.001 c.c. acetic acid was taken in cotton inside dessicator to produce acid vapours. to study the corrosive effect of vapours emitted by packaging wood, 2x2 inches packaging wood pieces were selected, soaked in water (tap water) for 24 hours and hanged inside sealed dessicators at different humidities. Prepared panels were suspended inside these dessicators near the wood pieces Controls were also runs simultaneously without wood pieces. Meta dinitrobenzene and anthraquinone were studied as volatile corrosion inhibitors to prevent corrosion. All the experiments were conducted at room temperature (28o to 30oC). Result and discussion : Corrosive effect of vapours emitted by mango wood is shown in photo no. 1. a" is the photo of panel when it was kept over 80% RH; a is the photo of the panel when kept in the vicinity of mango wood. It is clear from the picture a suffers more corrosion, than a" this indicates that Ferrous metals kept in the vicinity of mango wood suffers accelerated corrosion; a' is the photo of panel which was kept in the vicinity of mango wood and also in the presence of m-dinitrobenzene (VCI). Panel a' is almost corrosion free. It shows that m-dinitrobenzene inhibits the general corrosion as well as accelerated corrosion.
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 21
+
+4 January 2007
+
+Photo no. 2 shows acceleration of corrosion by mahua wood. B is the photo of the panel when it was exposed without wood and B' is the photo of panel which was exposed in the vicinity of the mahua wood. Picture clearly shows that Mahua wood greatly accelerate the corrosion of iron at 80% RH in 2 months. Photo no. 3 shows the effect of m-dinitrobenzene on corrosion by Mahua wood b is the photo of panel which was exposed in the vicinity of mahua wood and b' is the photo of panel which was exposed in the vicinity of Mahua wood as well as VCI (0.2 mg m-dinitrobenzene). Photo clearly shows that m-dinitrobenzene completely inhibits corrosion caused by Mahua wood. Photo no. 4 shows the effect of m-dinitrobenzene on accelerated corrosion by Jamun wood. Panel c shows the accelerated corrosion by Jamun wood and the panel c' shows the inhibition of accelerated corrosion by (VCI) m-dinitrobenzene. This photograph clearly shows that m-dinitrobenzene completely inhibits the accelerated corrosion by Jamun wood. Photo no. 5 shows that the effect of Anthraquinone on accelerated corrosion caused by Jamum wood. Panel g shows the corrosion caused by Jamum wood and panel g' shows the inhibition of corrosion by (VCI) anthraquinone. It is evident that Anthraquinone completely inhibits corrosion by Jamun wood. In photo no. 6 C is the photo of panel exposed over 0.001 c.c. acetic acid in 1 litre desiccators at 80% RH. This clear that c suffers severe corrosion. M is the photo of the panel exposed over acetic acid vapours in the presence of (VCI) m-dinitrobenzene. It is clear from the photograph that m-dinitrobenzene completely inhibits corrosion by acetic acid. In the photo no. 7 C is photo of panel exposed over acetic acid vapours A is the photo of panel exposed over acetic acid as well as anthraquinone vapours. Photo shows that Anthraquinone completely inhibits corrosion by acetic acid. Conclusion : The mild steel panels kept in the vicinity of different woods (Mongo, Mahua, Jamun) were heavily rusted in comparison to that panels which were exposed in the absence of woods. The two (VCIs) mdinitrobenzene and Anthraquinone proved to be highly efficient. They completely suppressed the accelerated corrosion by wood in vapour phase Acetic acid accelerated corrosion of mild steel. Both m-dinitrobenzene and anhraquinone completely prevent corrosion by acetic acid at 80% RH.
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 21
+
+4 January 2007
+
+Acknowledgement : The authors wish to thank Principal, Christ Church College, Kanpur for providing necessary facilities and Dr. A.K. Awasthi, Head of Deptt. of Chemistry for help and encouragement given during the study and experimental work. References : 1. C.P. Lascaro, "Corrosion resistance of electronic parts" Tech. Report ECOM-3576 US Army Electronics Command, New Jersy (1972). 2. Rance, V.E. and Cole H.G. "Corrosion of metals by vapours from organic materials" H.M.S.O. (1971) 3. Knotkova ­ Germakova, D. and Vlokova, J., Br. Corr. J.6 No. 1, 17 (1971). 4. Donovan, P.D. and Stringer, J., Br. Corr. J., 5 No. 4, 144 (1970). 5. Donova, P.D. and Stringer, J., Br. Corr. J.6, 132 (1971) Donovan, P.D. and Moynehan, T.M. corr. Sci., 15,803 (1965). 6. Whister R.L. & James. A., Industr. Engg. Chem., 15, 317 (1943). 7. Arni P.C., Cochrance G.C. and Gray J.D., The emission of Corrosive Vapours by wood (Part I), J. Appl. Chem. 15 (7), 305 (1965). 8. Schikonr, K., Werkst, U. Korrosion, 1291, 1 (1961).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 21
+
+4 January 2007
+
+a
+
+a'
+
+a"
+Photo No. 2 Corrosion effect of Mahua wood B- mild steel exposed to high humidity at 80% RH B'- mild steel exposed at Mahua wood at 80% RH.
+
+Photo No. 1 Corrosion effect of mango wood and its inhibition by mdinitrobenzene at 80% RH a- mild steel exposed near mango wood. a'- mild steel exposed near mongo wood in the presence of VCI (m-dinitrobenzene) a"- mild steel exposed over 80%RH only.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 21
+
+4 January 2007
+
+Photo No. 3 Inhibitive effect of mdinitrobenzene for corrosion by Mahua wood. b- mild steel exposed near Mahua wood b'- mild steel exposed near Mahua wood in the presence of m-dinitrobenzene
+
+Photo No. 4 Inhibitive effect of mdinitrobenzene for corrosion by Jamun wood. c- mild steel exposed near Jamun wood c'- mild steel exposed near Jamun wood in the presence of m-dinitrobenzene
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 21
+
+4 January 2007
+
+Photo No. 5 Inhibitive effect of Anthraquinone for Jamun wood. g- mild steel exposed near Jamun wood g'- mild steel exposed near Jamun wood in the presence of Anthraquinone
+
+Photo No. 6 Inhibitive effect of mdinitrobenzene on corrosion of mild steel by acetic acid vapours. C- mild steel exposed to acetic acid vapours M- mild steel exposed to acetic acid vapour in the presence of mdinitrobenzene
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 21
+
+4 January 2007
+
+C
+
+A
+
+Photo No. 7 Inhibitive effect of Anthraquinone on corrosion of mild steel by acetic acid vapours. C- mild steel exposed to acetic acid vapours A- mild steel exposed to acetic acid vapour in the presence of Anthraquinone
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

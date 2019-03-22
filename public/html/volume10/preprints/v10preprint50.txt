@@ -1,0 +1,404 @@
+ISSN 1466-8858
+
+Volume 10, Preprint 50
+
+submitted 29 August 2007
+
+Corrosion Inhibition Effects of Sodium Dodecyl Sulfonate on Zinc Surface in Nitric Acid Solution
+LIU Ming-jing, YANG Ting, JIAO Qing-zhu Institute of Chemistry and Chemical Engineering, Liaoning Normal University, No.850 Huanghe Road, Dalian, china, liumingjing1983_liaoshi@yahoo.com.cn
+
+Abstract
+In order to study the alkyl sulfonate anion surfactant's corrosion inhibition and adsorption on
+
+acid was weight under different temperatures and different concentrations of sodium dodecyl sulfonate by weight-loss method and electrochemical method. Results obtained from weight-loss method reveal that the rule of adsorption conforms with Langmuir's isotherm in 0~300mg·dm-3 concentration. Electrochemical polarization curve showed Sodium dodecyl sulfonate had corrosion inhibition effects both on the anodic reaction and the cathodal reaction. In the experiment, the data of weight-loss method were analyzed with Sekine method and electrochemical data were treated with Tafel line extension. Some thermodynamic parameters( H0,S0,G0), electrochemical parameters (Ecorr , Icorr )and dynamic parameters as activate energy were obtained.
+
+Keywords:
+
+Nitric acid; Zinc; Sodium Dodecyl Sulfonate; Adsorption; Polarization
+
+Introduction
+In the 1950's, aniline and aniline derivations had been found effectively on corrosion inhibitors for the zinc in nitric acid, after the 1970's alkyl sulfonate oleate could retard the dissolution rate of zinc in nitric acid solution [1]. Since the 2000's, Vashi, R.T discovered that the ethanolamine and ethanolamine derivations have highly corrosion inhibition effects in 0.01mol·dm-3 HNO3 and in 0.01 mol·dm-3 HNO3+HCl binary mixture solution at 301K[2,3]. Since then, Vashi,R.T used chloroanilines to inhibit corrosion of zinc in 0.05 mg·dm-3HNO3[4]. People wanted to find some effective and non-hazard inhibitors. Sodium dodecyl sulfonate (SDS) has good adsorbability on the liquid-solid interface and the
+
+mg·dm-3. The adsorption of such organic compounds has been attributed to different factors such
+
+as altering the nature of the corrosion products, chemisorption, rearranging the potential of the surface or changing the resistance. An extensive review of the literatures about the adsorption of
+
+
+
+Corresponding author. Tel+0086 041182158309 Email: liumingjing1983_liaoshi@yahoo.com.cn
+
+fax: +0086 041184258309
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+003
+
+eht no
+
+effective inhibition rate reaches to 85% in 3 wt % HNO3 at 293K
+
+concentration of
+
+%
+
+zinc in nitric acid, the corrosion inhibition of sodium dodecyl sulfonate on zinc in 3wt
+
+Nitric
+
+ISSN 1466-8858sulfonate anion have been performed[5,6,7] , but very few studies about thesubmitted 29 August 2007 Volume 10, Preprint 50 alkyl zinc surface in
+
+nitric acid reported. The aim of the present work is to study the inhibition corrosion effects of SDS on zinc in nitric acid solution.
+
+Experimental
+Materials
+All the chemicals used were of AR grade. The solutions were prepared in triply distilled water. The percentage composition of the zinc samples used was as follows: Pb0.004, Fe0.002, Cu0.001, Zn the remainder.
+
+Weight-loss measurement
+The specimen sheet of 20mm×30mm×2mm was abraded with emery paper No.1000 and successively washed with distilled water, alcohol, and acetone. The temperature was in the range of 293-323K. and specimens were immersed in a 100 dm3 solution with the desired concentrations for 1h. The experimental data were analyzed with Sekine method[8].
+
+Electrochemical polarization
+A specimen electrode of 1cm2 area was used as a working electrode. The assistant electrode consisted of a platinum wire, and the potential was measured by a saturated calomel electrode. The test solution was aerated for 40min before running. The electrode was abraded with wet emery paper of No.1200 grade and was washed by acetone and alcohol. The scanning scope of the potential was -2V to 0.2V and the scanning rate of the potential was conducted at 60 mV /min. The electrochemical data were analyzed with extension method of the Tafel line.
+
+Results and Discussion
+Relationship between weight loss of zinc and concentration of SDS at different temperature is shown in Fig.1.In general, the corrosion weight loss increased with increasing the temperatures. At any temperature, inhibition effect by SDS is evident on the concentrations under 100mol/L. When the content increase to the certain value, the tend W C level off and the weight-loss basically unchanged. It is apparent from these figures that SDS at low concentrations was confirmed to inhibit the corrosion rates by adsorbing on the zinc surface. Therefore, the adsorption at concentration lower than 100 mol·dm , which gives excellent inhibition effect. It is investigated to determine whether it follows the Langmuir isotherm. Assuming that the inhibitor forms a monomolecular layer on the zinc surface at the maximum inhibition of corrosion weight loss, the values of surface coverage() of the inhibitor is unity. The  value can be calculated from the following equation:
+3-
+
+where W0 and W are the values of weight loss without and with addition of inhibitor,
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+
+
+
+
+
+
+
+
+=
+
+W0
+
+W/W0
+
+Wm (1)
+
+
+
+ISSN 1466-8858 Volume loss, which 50 submitted 29 August 2007 respectively; and Wm is the corrosion weight10, Preprint gives the maximum inhibition
+
+efficiency. A correlation between  and the concentration (C) of inhibitor in the electrolyte can be represented by the Langmuir adsorption isotherm. = KC/(1+KC) (2) Rearranging Equation(2), C/=1/K+C (3) If the hypothesis above is true, the data of C/ and C fit straight line with the slope nearly
+
+the in nitric acid solution, not only the SDS adsorption on the surface of zinc, but also the surface state of zinc, the zinc corrosion electricity, multilayer adsorption occurred, and some
+
+other disturbed factors. So it's not exact to use the weight loss method to calculate the values of coverage(), that couldn't reveal the SDS adsorption condition on the surface of zinc exactly; so the correction factor is introduced to revise the equation:
+ = KC/(1+KC) And then: C/ = /K + C It can be seen that the C/ and C also fit the straight line, but the slope changes into f and the intercept is K, and the condition which the slope doesn't equal to 1.0, is also applicable. So this equation is more suitable and exact. Where K is the constant of adsorption. The relation between C/ and C at different temperatures is shown in Fig.2. The plots at each temperature were found to yield a straight line, and their slopes have the same trend. Consequently, the adsorption of SDS on the zinc surface at low concentrations follows the Langmuir adsorption isotherm. The  value is believed to be equal to the K value of Equation (2). Since the K value at each temperature is determined from the intercept in Figure.2 and Table 1. The adsorption heat (H) can be obtained from the K value applied to the van't Hoff equation:
+0
+
+0 And then ln K 0 = - H + a ln T + b T + B
+
+where H is the adsorption heat, determined by the temperature, B is the constant. The
+value of ln K was calculated from the data listed in Table 1. The plots of ln K
+0 0
+
+against the temperature (T) yield a curve, and the relation between H and T was obtained from the equation: H = H0aT+bT2 = -52.08-895.2T+2.544T2, through this equation, the adsorption heat was calculated in different temperatures (Figure3).
+where R and T are constant and absolute temperature, respectively. The G0 value under different K value has been reported according to Equation (5). The changes of standard entropy were calculated from the simple relationship:
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+eht no stceffe evah srotcaf ynaM . /1
+ d ln K
+0
+
+equals to 1.0 and the intercept is
+
+K
+
+weight loss of zinc in
+
+/
+
+=
+
+H dT + B RT 2
+
+H = H 0 + aT + bT 2
+RT R R
+(4)
+
+ISSN 1466-8858
+
+submitted 29 August 2007 (5) G0 =H0 -TS0 (6) The calculated values are shown in Table 2. It is clear that reaction runs self-movingly for 0 G <0. Adsorption entropy S0<0 illuminates that the adsorption process which takes place on the surface of zinc is decreasing-entropy exothermal process. Efficiency of corrosion inhibition is decreased with rising the temperature, because the adsorption ability is weaken on zinc with increasing temperature. Reaction of H 0<0 are exothermic. The electrochemical polarization curves of Zinc in 3 wt % HNO3 solution at different temperatures are shown in Figure.4 to Figure7. The experimental data were analyzed with extension method of the Tafel line. The corrosion potential Ecorr, the corrosion electric current Icorr and the efficiency of corrosion inhibition are listed in Table 3, respectively. It is clear that the corrosion potential of zinc in the presence and absence of SDS has been changed when the temperature increases. SDS is a hybrid type inhibitor[9] by suppressing the anodic and the cathodal corrosion. The efficiency of corrosion inhibitor decreased with increasing the temperature. The values of corrosion current which are proportional to Icorr obtained at different temperatures and the Arrhenius activation energy Ea[10], could be calculated from the following equation: Log k= -Ea/2.3RT + C (7) where K is the slope of straight lines which yielded by using log Icorr against 1/T (Fig 8). It can be seen that the presence of inhibitor enhances the activation energy as shown in Table 4 and retards the dissolution of zinc in HNO3 solution.
+
+Volume 10, Preprint 50 G0 = -RTlnk
+
+Conclusions
+The rule of adsorption conforms with Langmuir isotherm. Oxygen of SDS structure adsorbed on the zinc surface and alkyl formed hydrophobe membrane. The result leads that zinc and HNO3 solution are separated to retard the dissolution of zinc in HNO3 solution. Corrosion potential of zinc in the presence and absence of SDS with increasing temperature has been changed, but there is little difference between corrosion potentials in the presence and absence of inhibitor. SDS is hybrid type inhibitor and both relieve the anodic's corrosion and the cathodal's corrosion. Through increasing the activation energy, SDS makes the dissolution of zinc in HNO3 solution difficult.
+
+References
+[1]. K. Y. Huang, Corros & protect in chemical industry. 3, pp37-43. 1992. [2]. Vashi, R. T.; Desai, S. A.; Champaneri, V. A.; Patel, R. N, Bulletin of Electrochemistry.20,4, pp187-192,2004. [3]. Bhajiwala, H. M.; Vashi, R. T, Bulletin of Electrochemistry. 18,6, pp 261-266,2002.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10, Preprint R. submitted 29 August 2007 [4]. Vashi, R. T.; Desai, S. A.; Champaneri, V. A.; Patel, 50 N, Journal of the Indian Chemical
+
+Society. 82,8, pp739-742,2005. [5]. L.B.Yuan, X.X.Liu, X.H.Li, al, Corrosion and protection. 24, pp376-381,2003. [6]. Y.J.Li,G.Xie, D.J.Yang. al, Southern metals.148, pp9-14,2006. [7]. H.F.Zhao, Y.L.Yang, D.H.Liu. al, Applied chemical Industry. 35, pp535-541,2006.
+
+[9]. T.S.Zhang, Corrosion inhibition, BeiJing: book concern of chemical industry, 2003. [10]. L-Meligi AA, British Corrosion Journal. 35, pp75-77,2003
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+.6891,772 272pp ,5,24 .noisorroC ,I enikeS
+
+[8].
+
+-
+
+Fig.1. Relationship between weight loss of zinc and concentration of SDS at different temperature
+
+Fig.2. Langmuir adsorption isotherm of SDS on zinc surface at different temperatures
+
+ISSN 1466-8858
+
+Volume 10, Preprint 50
+
+submitted 29 August 2007
+
+Fig .3.
+
+Arrhenius plots of zinc in 3% HNO3 in the presence of SDS
+0.5
+
+0.5
+
+ba
+0.0
+
+b
+0.0
+
+a
+
+-0.5
+
+-0.5
+
+E(V)
+
+-1.0
+
+E(V)
+-1.0
+-1.5
+
+-1.5
+
+-2.0
+
+-2.0
+-4.0 -3.5 -3.0 -2.5 -2.0 -1.5 -1.0 -0.5
+
+-4.5
+
+-4.0
+
+-3.5
+
+-3.0
+
+-2.5
+
+-2.0
+
+-1.5
+
+-1.0
+
+-0.5
+
+log| I|
+
+log| I|
+
+Fig.5. Polarization curves of zinc in HNO3 at 30 (a) without inhibitor (b)100 mg·dm-3SDS
+0.5
+
+20 (a) without inhibitor (b) 100mg·dm SDS
+
+-3
+
+0.5
+
+ba
+0.0
+
+0.0
+
+-0.5
+
+-0.5
+
+E(V)
+
+-1.0
+
+-1.5
+
+-2.0
+
+-4.0
+
+-3.5
+
+-3.0
+
+-2.5
+
+-2.0
+
+-1.5
+
+-1.0
+
+-0.5
+
+E(V)
+
+-1.0
+
+-1.5
+
+-2.0
+
+-4
+
+-3
+
+-2
+
+log| I|
+
+log| I|
+
+Fig.6. Polarization curves of zinc in HNO3 at 40 (a) without inhibitor (b) 100 mg·dm-3SDS
+
+Fig.7. Polarization curves of zinc in HNO3 at 50(a) without inhibitor (b) 100 mg·dm-3SDS
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+  
+ba
+-1 0
+
+Fig.4. Polarization curves of zinc in HNO3
+
+at
+
+  
+
+  
+
+  
+
+ISSN 1466-8858
+
+Volume 10, Preprint 50
+
+submitted 29 August 2007
+
+Table 1 The relations between temperature and some other parameters
+f
+
+20 30 40 50
+
+0.9944 0.9972 0.9987 0.9898
+
+34.05 46.20 55.48 64.61
+
+0.7051 0.6375 0.5762 0.5150
+
+5.651 3.753 2.825 2.168
+
+Table 2 Thermodynamic parameters increment of the adsorption process temperature H0 G0 S0 J/mol·K -78.87 -56.90 -33.88 -11.45
+
+20 30 40 50
+
+-38.00 -31.30 -24.33
+
+-20.75 -20.69 -20.63
+
+Table3 Parameters for corrosion of zinc in HNO3 solution at different temperatures temperature 20 Without inhibitor Ecorr/V -1.031 Icorr/(A·cm-2) 0.0912 IE/% 84.78
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+
+
+
+
+KJ/mol -44.19
+
+KJ/mol -21.07
+
+%EI
+
+301×K
+
+epolS
+
+f /K
+
+T/1
+
+
+
+Fig.8.
+
+icorr
+
+( Inhibition Efficiency= IE )
+
+
+
+noitalerroC
+
+
+
+erutarepmeT
+
+87.50 78.49 61.73 43.06
+
+ISSN 1466-8858
+With SDS
+
+Volume 10, Preprint 50
+-0.9472 -0.9893 -0.9926 -0.9685 -0.9093 -0.9364 -0.8991 0.0139 0.0974
+
+submitted 29 August 2007
+
+Without inhibitor 30 With SDS
+
+77.06 0.0223 0.1035 58.96 With SDS 0.0425 0.1097 43.13 With SDS 0.0624
+
+Without inhibitor 40
+
+Without inhibitor 50
+
+Table 4
+
+Activation energies of zinc in the presence and absence of inhibition
+
+HNO3 SDS
+
+-0.2512 -2.119
+
+0.9998 0.9964
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+)lom/Jk(aE
+4.803 40.52
+
+R tneciffeoC noitalerroC
+
+K epolS
+
+noitulos
+

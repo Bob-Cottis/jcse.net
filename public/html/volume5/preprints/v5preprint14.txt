@@ -1,0 +1,161 @@
+ISSN 1466-8858
+
+Volume 5 Preprint 14
+An insight into the mechanism of sludge formation in naphtha storage tank
+A. Rajasekar, S. Maruthamuthu1 N. Muthukumar, S. Mohanan, P. Subramanian and N. Palaniswamy Corrosion Science and Engineering Division, Central Electrochemical Research Institute, Karaikudi -630 006, Tamilnadu, India.
+
+Abstract: Degradation of petroleum product problem arises since hydrocarbon is an excellent food source for a wide variety of microorganisms. Microbial activity leads to unacceptable level of turbidity, corrosion of pipeline and souring of stored petroleum product. In the present study, biodegradation of naphtha in a storage tank has been investigated. Huge quantity of sludge was noticed in a naphtha storage tank in South West India. To investigate the reason for the formation of sludge, iron bacteria, manganese oxidizing bacteria, acid producers, and heterotrophic bacteria were enumerated and identified in the sludge and in water. Sulphate reducing bacteria (SRB) could not be noticed either in the sludge or in water. IR spectroscopy study showed the formation of primary alcohol during degradation process. NMR showed the presence of heteroatom in the sludge. A mechanism for the formation of sludge has been proposed. Key wards: sludge. water contamination, degradation, bacteria, corrosion, FTIR, NMR, XRD
+1
+
+Corresponding author: E-mail: raja76sekar@rediffmail.com. Tel.: 04565 ­ 227550 Fax:914565-227779
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Introduction
+Microbial contamination of fuels has been the cause of intermittent operational problems throughout the world for many years. Even less than 0.1% of water contamination is enough for microbial activity leading to biodegradation of hydrocarbons. In order to prevent the effects of microbial growth, several lines of approaches such as good house keeping practices, treatment with biocides to limit the growth and use of special tank linings, etc are used. The types and ability of microorganisms to degrade petroleum hydrocarbons have been widely documented (1-5). Internal corrosion as a cause for leakage of steel tanks were documented in US, France, Sweden and Switzerland by various sources (6-9). Oil and Natural Gas Corporation Ltd (ONGC), India noticed the failure of pipeline by heterotrophic bacteria and SRB in Indian offshore pipelines, but degradation of product was not noticed (10). Jana et al. (11) reported the combined effect of CO2, SRB, and chloride in the low velocity area causing severe corrosion and failure of pipeline in Mumbai offshore. In the present case naphtha is stored in a tank. The major constituents of naphtha is presented in Table A1. This stored naphtha is transported through a 22 inch diameter underground pipeline (5.5 Km) to a nearly thermal power station. Corrosion products of about 10 Kg is collected once in 2 month at the filters in the naphtha receiving end at the thermal power station. Large quantity of sludge was noticed in the naphtha storage tank where the disposal of sludge has to be cleared by the pollution control board. Water contamination of a minimum of 4 to 5 inches height is found to exist in the naphtha storage tank at the bottom of the tank. The microbial growth in the sludge often made severe turbidity and cloudiness of naphtha. Moreover, sludge often changed the actual chemical properties of naphtha in the storage tank and transporting pipelines. Since no information is available on the mechanism of naphtha degradation in naphtha storage tank, the present study has been designed to investigate the reasons for the sludge formation in the naphtha storage tank in tropical Indian condition.
+
+2
+
+Materials and methods
+Enumeration and identification of microbes
+Sludge from the naphtha storage tank and water samples were collected using sterilized conical flasks. The conical flasks containing the samples were kept in an icebox and transported from the site to CECRI- Microbiology laboratory. The collected naphtha sludge and water samples were serially diluted (10 fold) using 9ml of sterile distilled water blanks and the samples were plated by pour plate technique. The nutrient agar medium, iron medium, API Broth and Mn-medium (Hi-media, Mumbai) were used to enumerate heterotrophic bacteria (HB), iron bacteria (IOB), acid producers (AP), sulphate reducing bacteria (SRB) and manganese oxidizing bacteria (MOB) respectively. Plates in triplicate were prepared for each dilution. The plates were inverted and incubated at 33°C for 24 hours. After 24 hours, the colonies were counted and isolated. The plates containing bacterial colonies with 30-300 numbers were selected for calculation. The bacterial colonies were expressed as colony forming units ( CFU) per gm /ml of naphtha sludge and water samples respectively. SRB was enumerated by MPN technique. Morphologically dissimilar colonies were selected at random from all plates and isolated colonies were purified using appropriate medium by streaking methods. The pure cultures were maintained in specific slants for further biochemical analysis. The isolated bacterial cultures were identified up to genus level by their morphological and biochemical characterization viz gram staining, motility, indole, methyl red, Vogurs pruscur, citrate test, H2S test, carbohydrate fermentation test, catalase test, oxidase test, starch , gelatin, lipid hydrolysis etc (12).
+
+Chemical properties of sludge and water
+5 gms of sample of sludge was mixed with 100 ml of triple distilled water and agitated for 2 hrs using shaker. After shaking, the samples were filtered and the filtrates were used for chloride and sulphate analysis. Chloride was estimated by Mohr's method and sulphate was estimated by the gravimetric method. Chloride and sulphate were also estimated in contaminated water collected in the storage tank.
+
+3
+
+FTIR was used for the analysis of biochemical characteristics of the samples of sludge and naphtha. The spectrum was taken in the mid IR region of 400­ 4000 cm-1 and recorded using ATR (Attenuated Total Reflectance) technique. The sample was directly placed in the zinc selenide crystal and the spectrum was recorded in the transmittance mode.
+1
+
+H NMR Spectroscopy (Bruker,300m Hz)) was also used for the analysis of the
+
+sludge samples. The sample of sludge was dissolved in deutrated chloroform solvent and Tetra Methyl Silane (TMS) was used as a reference standard. The sample of sludge collected from the storage tank was dried and crushed to a fine powder and used for XRD analysis to determine the nature of the complex formed in the sludge. A computer controlled XRD system, JEOL Model JDX ­ 8030 was used to scan between 100 and 850 ­ 2  with copper K  radiation (Ni filter) at a rating of 40 KV, 20 mA.
+
+Results
+Enumeration and identification of microbes in the sludge and in water
+Table.A2 presents the data on the enumeration of bacterial population in naphtha sludge and water. The heterotrophic bacteria count was in the range of 106 CFU in one gram of sludge and one ml of water. Iron bacteria, manganese oxidizing bacteria and acid producers were in the range between 103 and 105, whereas SRB was too low to count both in the sludge and in water. In all the types of microbes, gram-negative bacteria completely dominated. Among the heterotrophic bacteria isolated, gram negative bacteria were more dominant than gram positive bacteria by 80%. Generic distribution was found to be Pseudomonas sp.(20%), Bacillus sp.(10%), Gallionella sp.(10 %) and Vibrio sp. (10%). All the manganese-depositing bacteria and iron oxidizing bacteria isolated from the sample of sludge were completely dominated by gram negative bacteria. Generic composition was dominated by Gallionella sp. (25%) and followed by Legionella sp. (12.5%) and Siderocapsa sp. (12.5%). Among iron bacteria, Gallionella sp. (22.22%) and Thiobacillus sp. were equally shared and followed by Bacillus sp. (11.11%). Acid
+
+4
+
+producing bacterial isolates were found to be gram negative. Among them Thiobacillus sp. 28.6% was followed by Thiospira 14.25% and Sulfolobus sp. 14.25%.
+
+Chemical properties of sludge and water
+Table A3 presents the data on the sulphate and chloride content present in the water and sludge. The chloride content was 7 ppm whereas the sulphate content was 155 ppm in water. The chloride and sulphate content in the sludge was about 12ppm and 60 ppm respectively. The FTIR spectrum (Figure.A1a) of the naphtha shows peaks at 2955 cm-1, 2923 cm-1, 2855 cm-1 indicating the presence of CH-aliphatic stretch. The peaks at 1457 cm-1 and 1378 cm-1, indicate the CH def for methyl group. The peaks in the range between 693 cm-1 and 727cm-1 indicate the presence of substituted benzene. The FTIR spectrum (Figure.A1b) of sludge shows a broad peak between 3000 and 3500 cm-1 indicating the presence of OH-band. Another peak at 1033 cm-1 indicates the CO stretching for primary alcohol group. The peak at 1635 cm-1 indicates the presence of SH stretch. The 1H NMR spectrum of naphtha shows (Figure -A2) , peak at 0-3 chemical shift () indicating the presence of aliphatic protons in naphtha compounds. The other peak at 7 chemical shift () indicates the presence of aromatic nuclei in the naphtha compounds. FigureA3, shows the 1H NMR spectrum of sludge. A peak at 1.5 chemical shift () indicates the presence of water. Another broad peak between 4 and 6 chemical shifts () indicates the presence of heteroatom-included proton (Hydrogen). This may be due to the presence of S-H in the sludge. Figure A4 presents the details of XRD data corresponding to the phases present in the sludge sample.  Iron III oxide hydroxide, Iron sulphate and ferric sulphate were noticed in the sludge.
+
+Discussions
+Microbial activity in oil industries can result in fuel contamination, unacceptable level of turbidity, filter plugging, corrosion of storage tanks, pipelines and souring of stored products (13-14). Hence it is quite essential to investigate the nature of degradation of fuels. The degradation of diesel and crude oil has been studied in oil ­ spilled soil by
+
+5
+
+Delille (15). Lloyed Jones et al.(16) isolated alicyclic hydrocarbon utilizing consortia Rhodococcus sp. Flavobacterium sp. and Pseudomonas sp. isolated from oil refinery soil. April (17) noticed 64 species of elemental fungi from five flare pits in northern and western Canada that were tested for their ability to degrade crude oil using gas chromatography analysis which indicated that the species were capable of degradating hydrocarbon of the aliphatic fraction of crude oil, nC12 , n-C26. Besides, Roffey (18) reported on the aerobic and anaerobic degradation in crude oil and in diesel storage tanks. In the present study, the roles of microbes on degradation of naphtha and the mechanism for naphtha degradation have been explained . The enumeration of microbes show the presence of heterotrophic bacteria (HB), iron oxidizing bacteria (IOB), manganese oxidizing bacteria (MOB) and acid producers (AP) in the sludge and water. Sulphate reducing bacteria (SRB) could not be noticed in water and sludge. The sulphate level was about 155 and 60 ppm in water and sludge respectively. It is surprising that though sulphate is present in water and sludge, sulphate reducing bacteria could not be noticed. The pH range for the growth of SRB is 6.5 to 8.5, with optimum being 7.2 to 7.5 (19). The broad ecological classes of sulphur-oxidizing bacteria can be discerned, among those living at neutral pH and those living at acid pH (20), whereas many of the forms are living at acid pH. In the present study, the pH of the sludge was 6.8. At the interface between naphtha and water, the pH was about in the range between 5.5 and 6.0. The absence of SRB may be due to the domination of acid producers (AP), iron oxidizing bacteria (IOB) and manganese oxidizing bacteria (MOB). The acidity creates "syntrophy" for the three communities of microbes namely acid producers, manganese oxidizers and iron oxidizers which suppress the proliferation of SRB. Pseudomonas sp., Bacillus sp., Gallionella sp. Thiobacillus sp., Thiospira sp., Sulfolobus sp. Legionella sp., and Siderocapsa sp were noticed in the sludge. Pseudomonas is strictly aerobic, chemoorganotrophic which is able to use other than one carbon organic compounds as sole carbon and energy sources, catalase positive, usually oxidase positive. It is aerobic having a strictly respiratory type of metabolism with oxygen as the terminal electron acceptor; in some cases nitrate can be used as an alternate electron acceptor, allowing growth to occur anaerobically. Some species are facultative
+
+6
+
+chemolithotrophs able to use H2 or Carbon as energy sources. Gallionella is a chemolithotrophic bacteria capable of oxidizing ferrous to ferric ion while assimilating significant quantitative C14O2 and grow in oligotrophic waters in nature. Iron hydroxide may make up 90% of dry weight of cell mass. Microaerophilic,optimum pH 6-9 and O2 concentration 1mg/l, found in ferrous ion containing water and in soils. Bacillus has chemoorganotrophic metabolism with single source of carbon and energy with inorganic N2. It is strictly respiratory, strictly fermentative or both using various substrates. It is strict aerobes or facultative anaerobes, gives catalase positive in test. In the absence of organic compounds it acts as facultative chemolithotrophs using H2 as energy source. It can tolerate in the temperature range of 25- 750C and pH value of 7.5- 8.0 to 2. Thiobacillus sp. is strictly autotrophic. Energy derived by the oxidation of thiosulphate to sulphate, sulphur granules and polythionates may accumulate depending on culture conditions, Elemental sulphur is slowly oxidized. also oxidizes, other partially reduced sulphur compounds including H2S, tetrathionate and in some strains thiocyanate. It is strictly aerobic- Growth occurs between pH 4.5- 7.8. Sulfolobus is gram negative and aerobic which uses elemental sulphur as energy source. It is facultative autotrophs and prefers pH optimum being 2-3; maximum 5.8; minimum 0.9. Thiospira are usually with pointed ends, with sulphur inclusions Siderocapsa are spherical to ovoid cells embedded in a common capsule, partially encrusted with iron and/ or manganese compounds which is aerobic but can grow under reduced oxygen tension. Legionella are nutritionally fastidious. They require iron and L-Cysteine- HCl and iron salts are required for growth. It is chemoorganotrophic, using aminoacids as carbon and energy sources. Vibrio is chemoorganotrophs, having both respiratory (O2) and fermentative. Metabolism of CHO is fermentative with mixed products, but no CO2 or H2. On the basis of heterotrophic bacteria and autotrophic bacterial physiology, it can be assumed that heterotrophic bacteria utilizes energy from naphtha and the conversion of elemental sulphur in naphtha has been utilized by acid producing bacteria viz Thiobacillus sp and Sulfolobus sp to sulphuric acid and dissolved as sulphate in water and sludge. Hence it can be concluded that the presence of sulphate in water is due to the activity of microbes on elemental sulphur. Since naphtha with water is transported through the pipeline under pressure the
+
+7
+
+supply of oxygen may be sufficient for the aerobic bacteria. The concentration of chloride was about 10 ppm in the water and in the sludge samples. This data reveals that chloride contribution on corrosion may be nil. Naphtha is not a single compound, it has many organic constituents viz n- Butane, Isopentane, 2- Methyl Pentane, n- Hexane, Benzene, n-Heptane, Methyl cyclohexane, Toluene, 3-Methyl Heptane,3,5 Di Methyl cycloheptane and n- Nonane with sulphur. IR results (Fig.1b) indicate that CH-aliphatic stretch was degraded by microbes .The absence of peaks in the sample of sludge in the range between 674 and 727 indicates that benzene ring is consumed by microbes since the major components of n-heptane (-CH2CH2-)n, toluene and benzene in naphtha are degraded as R-CH3 by consumption of hydrogen. Heterotrophic bacteria break the organic constituents by consumption of hydrogen and convert into R-CH3 where as autotrophic bacteria increases the addition of oxygen and convert as R-CH2-OH (primary alcohol). The addition of oxygen or sulphate (4-5 chemical shifts ()) heteroatom can be seen in NMR spectrum and the spectrum indicates that both aliphatic and aromatic group are degraded by microbes. The addition of oxygen is due to the very rapid addition of oxygen by Gallionella sp and Legionella sp which supports with the observation made by Muthukumar et al (21). Moreover Gallionella .being chemolithotrophic, microaerophilic and acidophilic species, produces toxic oxygen products (H2O2) as an outcome of its metabolism and it needs the scavenging mechanism to overcome the toxic product. Here the role played by manganese oxidizing bacteria and iron bacteria seems to be vital. The manganese and iron oxidizers were used for scavenging the produced toxic oxygen product. This is where the syntrophic relationship between Thiobacillus and Gallionella could be appreciated. Mars et al (22) studied the effect of trichloro ethylene on the competitive behaviour of toluene- degrading bacteria viz Pseudomonas putida and Burkholderia sp. Besides Shim (23) also reported the trichloroethylene degradation by toluene-o-xylene monooxygenase of Pseudomonas sp. Microbial degradation of nitrobenzene was reported by Sten et al (24) by Comamonas testosterone and Acidovorax delafieldii and noticed the broad degradation ability towards nitrobenzene. Zhu (25) characterized the microbial communities like Proteobacteria sp. and Comamonas denitrificans in gas industry
+
+8
+
+pipelines and mentioned about the importance of microbially influenced corrosion. In composite crude oil (26) where the aqueous and oil phases co-exist, the potentially limited bacterial corrosion may be enhanced in a matrix population of crude oil degraders and non degraders. Even where the corrosion causing bacteria do not utilize hydrocarbon as energy sources, the intermediate degradation will boost the energy available to the corrosion causing bacteria to sustain the corrosion reaction. Jobson et al (27) also reported that intermediate hydrocarbon degradation products make available energy sources for the physiological activities of the corrosion bacterium Desulfovibrio sp. This supply of utilizable hydrocarbon degradation products explaines why corrosion was intensive in the Pembiana oil pipeline. Besides Westlake et al (28) reported corrosion by ferric reducing bacteria isolated from oil production system at Pembiana oil pipeline. They identified oil degraders viz Bacillus, Aeromonas, Cornebacteria in the oil wells and suggested that heterotrophic bacteria converted oil into lactic acid which was utilized by Pseudomonas and Clostidium and encouraged the formation of FeS. In Indian refined diesel product pipeline, the benzene in the diesel was utilized by heterotrophic bacteria Brucella sp and converted into aliphatic compound (21) which supported the theory by Traxler and Flamming (29) whereas Gallionella sp took energy from only aliphatic compounds in diesel. Toluene and ethyl benzene were used as sources of carbon and energy by microbes where as the ethyl benzene was degraded by monooxygenase enzyme (30). Besides Rhodococcus rhodochrons S-2 produces extra cellular polysaccharides that help to live in aromatic fraction (31). XRD results reveal the presence of ferrous and ferric sulphate in the sludge which indicate the role of iron/manganese bacteria while acid producers cause the formation of sulphate in the water and sludge. In the inner side of the tank severe corrosion was noticed, where there is no paint. The paints peeled off from the surface at many spots and this severe corrosion may be due to the abrasion caused by the movement of the floating roof top followed by the exposure of the surface to the atmosphere. In can be concluded that Fe++ comes from the storage tank/ pipes and combines with organic degraded products, whereas organic compound is degraded by heterotrophic bacteria and Fe++ can be converted as Fe+++ by autotrophs viz. Gallionella sp and Legionella sp, which was noticed in XRD data (21).
+
+9
+
+Autotrophic bacteria Fe Heterotrophic bacteria (- CH2- CH2-) Reduction ( R CH3-) n oxidation Bacterial Metabolism Figures A5 and A6 indicate that degradation starts from naphtha ­water interface and it can be understood that the presence of inorganic products (iron oxide and iron sulphate) from the storage tank combine with naphtha degraded products at the interface and settles down in the storage tank. The aromatic and aliphatic compounds in naphtha are degraded by heterotrophic bacterial activity and subsequently autotrophic bacteria converts ferrous and manganese on the metal into oxides. The degradation may favour the microbiologically influenced corrosion of pipeline and at the bottom of the storage tank. It can be concluded that in fuel transporting pipelines/storage tank, water can stratify at the bottom of the line / storage tank , which encourage the degradation. Hence, the degradation accelerate the corrosion by the formation of Fe2O3. A simplest model can be envisaged. R- CH2 OH (Primary alcohol)
+++
+
+Fe +++
+
+10
+
+Mechanism for sludge formation in naphtha storage tank
+Microbes HB Benzene ring + ATP (CH2 ­ CH2 )n H+ S AP, IOB, MOB Fe Fe++ +2e(Anodic reaction) Fe+++ ¼ O2 + (from tank) Fe+++ + ½ H2O S2O32-(Thiosulphate) Addition of Oxygen (Acid Producers ) H+ (H2SO4 in water) R- CH3 O2 SO4+ 2H+ H H+ + e(Cathodic reaction) R-CH2 OH (Primary Alcohol) Fe2O3
+
+R-CH2 ­ SH
+Iron- Organic Complex (Sludge)
+
+References
+1. Davis. B ; In: Petroleum Microbiology, Elsevier, New York (1967), pp. 62­68. 2. Higgins, I.J; . Gilbert. P.D ; In: K.A. Chater and H.J. Somerville, Editors, The Oil Industry and Microbial Ecosystem, Heyden and Sons, London (1978), pp. 52­58.
+
+11
+
+3. Watkinson. R.J.; In: Developments in Biodegradation of Hydrocarbons vol. 1, Applied Science Publishers, London (1978). 4. Atlas, R.M; Microbiol. Rev. 45 (1981), p. 180. 5. Atlas, R.M ;Petroleum Microbiology, Macmillan, New York (1984). 6. Ben Bogner, R.; Anticorrosion. (1990),12 (3), 12-13. 7. Pim James, H.; Tank corrosion study, Suffolk Country, Department of health Services, office of underground storage Tanks, US, EPA, 1988. 8. Stapleton, P.; Sweden report, US. EPA, US, T2-5-22B, 1987. 9. Churchill A.V.; Material Protection . ( 1963), pp. 19 - 23 10. Samant A.K.; and Anto P.F.; In: Proceedings of third National Corrosion Congress on Corrosion Control by NCI, Karaikudi, India . (1992) pp. 188 ­ 208. 11. Jana, A.K.; Sahota, S.K.; Dhawan, H.C.; Bull. Electrochem, (1999), 15, 262-266. 12. Holt, J.G.; Kreig, N.R.; Sneath, P.H.A.; Stanely, J.T.; Williams, S.T, In: Bergey's manual of Determinative Bacteriology. Eds; Williams and Wilkins Publishers: Maryland, (1994). 13. Rahman. K.S.M.; Thahira ­ Rahman. J.; Lakshmanaperumalsamy. P.; Banat, I.M.;. Bioresource Technol. (2002 a) , 85 (3), 257- 261. 14. Hill, E.C.; In: Petroleum microbiology. Biodegradation of petroleum products; R. M., Atlas., Eds ; Macmillan: New York, (1984), pp. 579-617. 15. Dellille, D.; Microbiol. Ecol,(2000),40, 159 ­ 168. 16. Lloyed Jones, G.; Trudgill, P.W.;. Int. Bioremed. (1989), 25,197-206. 17. April, T..M. ; Can. J. Microbial, (2000), 46, 38 - 49. 18. Roffey, R.; Int. Bioremed, (1989), 20 219-236.
+
+12
+
+19. Buchanan, R. E.; Gibbons N.E;, In Bergey's manual of Determinative Bacteriology; Eds; Williams and Wilkinis company: Baltimore, 1974. 20. Michael.T.Madigen, John M.Martinko, Jack Parker. In: Biology of
+
+microorganisms; Eds; Prentic Hall International : 661-663. 21. Muthukumar, N.; Mohanan, S.; Maruthamuthu, S.; Subramanian, P.; Palaniswamy, N.; Raghavan, M.; J. Electrochem. Comm (2003), 5, pp. 421-425. 22. Astrid E.; Mars, Gjalt T.; Prins, Pieter Wietzes.; Wim de Koning, and Dick B. Janssen.; Appl. Microbiol. Biotechnol. (1998) 64 No.1, pp. 208-215. 23. Shim H.; Ryoo D.; Barbieri P.; and Wood T.K.; Appl Environ Microbiol, (2001) 56, pp 265-269. 24. Jian-Shen Zhao and Owen P.; Ward Can.J.Microbial./Rev (1999), 45(5), pp 427432. 25. Xiang Y.Zhu.; John Lubeck and John J.Kilbane II Appl. Microbiol (2003), 69 (9) pp 5354 -5363 26. Obuekwe C.O.; Weshake D.W.S.; and Plambeck J.A.; Can. J.Microbial (1987),33 pp 272-275. 27. Jobson A.m.; Ph.D thesis University of Alberta, Edmonton (1975). 28. Westlake D.W.S.; Semple K and Obuekwe C.O.; Biologically induced corrosion . Eds S.C.Dexter National Association of corrosion Engineers, Houston, Tx pp 193 - 200. 29. Taxler R.W.; and Flannery W.L.; Mechanism of hydrocarbon degradation. In: A. Walters and J. Elphich, Eds, Biodeterioration of Materials, Microbiological and Allied Aspects vol. 1, Elsevier, Amsterdam (1968), pp. 44­54. 30. Prenafeta-Boldu, F.X.; Vervoort, J.; Gvnestijn, J.T.C.; Appl. Microbiol. (2002), 68, pp 2660-2665. 31. Iwabuchi, N.; Sunari.M Urai. C; Anzai, H.; Nakajiona, M.; Harayama, S.; Appl. Environ.Microbiol. (2002) 68, pp2337.
+
+13
+
+Table A1. Major constituents in Naphtha Name of the constituents Percentage by Weight
+
+n- Butane Iso Pentane 2- Methyl Pentane n- Hexane Benzene n-Heptane Methyl Cyclo Hexane Toluene 3-Methyl Heptane 3,5 Di Methyl Cyclo Heptane n-Nonane Sulphur
+
+2.85 4.65 2.71 3.21 2.33 10.45 15.96 14.43 3.11 2.13 4.64 0.04
+
+14
+
+Table A2. Enumeration of Bacterial Population in Sludge and Water
+
+Sludge Total Viable Count (CFU/gm) HB IB MOB A.P SRB
+
+7.2 x 106
+
+1.12 x104
+
+1.62 x 104
+
+3.8 x 103
+
+Nila
+
+Water Total Viable Count (CFU/ml) 4.8 x 107 6.3 x 105 4.2 x 105 1.02 x 104 NIL
+
+a = One tube blackening at 10-2 dilution, HB = Heterotrophic Bacteria, IB = Iron Bacteria MOB = Manganese Oxidizing Bacteria, AP=Acid producing bacteria, SRB = Sulphate Reducing Bacteria
+
+15
+
+Table A3. Physiochemical Properties of a Sludge and Water
+
+Sample Water Sludge
+
+pH 7.6 6.8
+
+Chloride ppm 7 12
+
+Sulphate 155 60
+
+Figure A1.
+
+16
+
+Figure A2.
+
+17
+
+Figure A3.
+
+Figure A4
+
+18
+
+Figure.A5.
+
+Naphtha/water interface
+
+Figure.A6
+
+Settlement of degraded Naphtha and iron (corrosion product)
+
+19
+
+Figure legends
+Figure 1: FTIR spectrum of naphtha degradation. a. Naphtha, b. Sludge Figure 2: 1H NMR spectrum of naphtha (control). Figure 3: 1H NMR spectrum of sludge. Figure 4: XRD pattern of the sludge sample 1 and 2 - Ferric oxide, 3 - silicon-di-oxide, 4 and 5 - manganese and its oxides Figure.5: Sludge formation between Water-Naphtha interface Figure.6: Sludge formation at the bottom of water-naphtha system
+
+20
+

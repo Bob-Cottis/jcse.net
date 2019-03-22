@@ -1,0 +1,439 @@
+9 ISSN 1466-8858
+
+Volume 9 Paper 9
+
+The Potential Effect in Cathodic Disbondment of Buried Pipelines with Aged and High Performance Coatings
+D.S. de Freitas 1 S.L.D.C.Brasil 2 W.Baptista3 J.C.F.Telles4,
+
+J.A.F.Santiago5 J.H.L.Oliver6,
+1 LACOR/National 2 School
+
+Institute of Tecnology ­ INT, Brazil, denisesf@int.gov.br
+
+of Chemistry/Federal University of Rio de Janeiro, Brazil, simone@eq.ufrj.br 3 PETROBRAS/CENPES/, Brazil, walmar@petrobras.com.br
+4 COPPE/
+
+Federal University of Rio de Janeiro, Brazil, telles@coc.ufrj.br 5 COPPE/ Federal University of Rio de Janeiro, Brazil, santiago@coc.ufrj.br 6 PETROBRAS/Transpetro, Brazil, jolito@petrobras.com.br
+
+Abstract
+High performance coatings provide excellent protection to pipelines in service conditions. Such coatings have been applied to replace aged coatings, which have lost efficiency due to transport,
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+installation, operation or even due to aging processes. There is growing concern regarding cathodic protection systems when segments of high performance coating are placed together among aged sections, since the current injected assumes a non-uniform profile. The present work determines the potential distributions on cathodically protected buried pipelines. Computer simulations using a three-dimensional application of the Boundary Element Method and experimental analysis with different soil conditions are carried out. Parameters such as the distance of anodes to pipelines, efficiency of aged coating, soil resistivity and presence of scattered/localized defects are taken into account. The numerical simulations are based on experimental results and field conditions. Some experimental cathodic disbondment tests are presented, considering the potential distribution numerically obtained.
+
+Keywords: Numerical simulation, cathodic disbondment, cathodic protection, coatings.
+
+Introduction
+During the lifetime of pipelines, corrosive processes are likely to occur. These processes are due to natural aging of coating allied to damage resulting from transportation, installation and even during operation. As a consequence, the replacement of pipeline segments is necessary. These are coated, in plant, with high performance coatings, such as Fusion Bonded Epoxy (FBE) and Polyethylene Adhesive Tape (PE3L). The pipeline replacement has to be accessed in relation to the cathodic protection applied in the pipeline network. It is especially relevant because the cathodic protection system is projected to attend the tubes with aged coatings, such as coaltar enamel, bituminous coatings, etc, most common in Brazil. Therefore, the current required to protect the old pipelines can easily overprotect the new segments. The potentials in this region can reach very negative values.
+
+2
+
+Attention has to be given to cathodic disbondment of new coatings as a consequence of overprotection, especially in regions close to where the anodes are located. If there is any failure in the replaced pipe, exposing the metal substrate, it is believed that the current density in that region can be very high leading to serious damage in the coating. In this case, a progressive disbondment of coating from the metal substrate is expected. The literature has reported this process in buried pipelines coated with high performance coatings [13], corroborating with this research. The high current density is not necessarily the only factor responsible for the cathodic disbondment. The association with other parameters can magnify this effect and has to be taken in account. It is widely accepted that the loss of adhesion of the coatings is related to the formation of a high alkaline environment in the metal/coating interface. However, there is not a final agreement about the mechanisms involved in the disbondment. Some parameters can influence the process, such as soil resistivity, wet/dry cycles of soil, treatment of metal surface, etc [4,5] The aim of this investigation is to determine by computer simulation the most probable potential of the new segments of pipe and test in lab the behaviour of the coating regarding cathodic disbondment. However some real systems have been numerically simulated [6,7], this kind of cathodic protection problem has not been reported in literature.
+
+2. Experimental procedure
+In order to understand the role of cathodic protection systems in real buried pipelines with aged and high performance coatings, a joint research was carried out using tools as computer simulation of the actual system and investigation of soil characteristics in the laboratory. Parameters such as curves and resistivity values of soil samples, taken from regions nearby the segment of the replaced pipe (high performance coating), were experimentally obtained. The aim of the investigation is to determine, by computer simulation, the most probable potential developed over the new 3
+
+segments of pipe and test in lab the behaviour of the coating regarding cathodic disbondment. Here, the methodology employed in this research is presented, whereas the cathodic disbondment tests are to be discused in a future work. 2.1. Preliminary modelling A preliminary modelling with a real system was carried out with soil resistivity of 1,000 ohm.cm, previously obtained in laboratory. As a means to evaluate the presence of pipe sections with high performance coatings in old buried pipelines, numerical simulations have been carried out using a software based on the Boundary Element Method [8]. Initially, a real pipeline with approximately 122 Kilometers, was analyzed. The pipeline is protected by impressed current anodes and there are three sections with new coatings (99.9% of efficiency). In Figure 1, the simulated pipeline is schematically represented and shows the impressed current anodes at different distances fromto the pipeline. The total current was supplied in order to keep the potential over the whole pipe in, at least, -0.85VCu/CuSO4.
+
+0
+
+   39.353 48.316 55.000 (340) (570) (200)
+
+122.936
+
+  8.653 (71,3) Pipe diameter= 1,016 m (40") Deep of pipe = 2,008 m
+
+    64.200 92.500 (45) (88) Pipe Characteristics Aging coating (80%efficiency)  anodes
+
+115.300 (141,15)       112.400 119.300 (115) (110)
+
+ Localization of anodes (distance from the pipe) Pipe repairing localization (pipe repairing extension)
+
+length unit = meters
+
+New coating (99.9%efficiency)
+
+Figure1 ­ Schematic representation of the characteristics of the actual pipeline simulated. 4
+
+The following conditions have been considered for the numerical simulations: anodes as impressed current point sources and cathodic curves, experimentally obtained in 1,000 ohm.cm soil, as pipeline boundary conditions. The buried pipe was modelled using cylindrical quadrangular elements. Beyond the simulation of the real pipeline, other simulations have been accomplished in order to analyse some parameters that influence the potential distribution in the buried pipe. For this, smaller hypothetical pipes have been simulated (100m and 10,000m). The following parameters have been evaluated: · the form of representation of possible failures in the new coating: small distributed failures or a single failure; · the influence of the distance between anode and pipe; · the potential profiles, considering different coating efficiencies; · the potential distribution in the interface between new and old coatings. 2.2. Laboratory methodology In order to improve the numerical simulation and to define parameters to study cathodic disbondment, a research on the soil sample was executed. The first step was to analyse the physicalchemistry properties of the soil. Then, the resistivity of the soil, as received and as a function of the humidity content, was determined. After that, the behaviour of the metal (bare pipe) in soil as a function of the water content was obtained. These results defined the resistivity and the polarization curves adopted for numerical simulation, which in turn will provide the proper potential to be used in the cathodic disbondment test).
+
+3. Results and discussions
+3.1. Experimental results 3.1.1. Soil analysis
+
+5
+
+The soil samples taken from the region of the new segment of pipe were analysed. Table I shows this characterisation and Table II the physical-chemistry analysis. It can be observed that the soil resistivity alters from one sample to another. Therefore the variation of resistivity as a function of humidity content was determined. The methodology used is described elsewhere [9] and consists of drying out the soil and to add the percentage, in weight, of water progressively. Figure 10 presents the behaviour of the samples in relation of humidity. Table I: Characterization of soil samples as received SOIL Kilometer 39.353 Humidity Content (%) Resistivity ( .cm) pH SOIL PARAMETERS Kilometer 39.353 ClSO4 Na Ca++ Mg++ Al+++ P K Conductivity % Sand %Clay %Silt 0,07 ppm 0,067 ppm 8,97 ppm 120 ppm 72 ppm 144 ppm 1 ppm 25 ppm 0,1 mS/cm 72 6 22 27,81 87000 6,40 SAMPLES ­ AS RECEIVED Kilometer 48.316 28,78 4950 7,16 SAMPLES Kilometer 48.316 9,04 ppm 0,029 ppm 14,26 ppm 1020 ppm 84 ppm 0,0 9 ppm 156 ppm 0,26 mS/cm 62 22 16 Kilometer 55.000 5,92 ppm 0,012 ppm 23,23 ppm 280 ppm 132 ppm 90 ppm 51 ppm 62 ppm 0,2 mS/cm 79 18 3 Kilometer 55.000 29,34 31500 5,71
+
+Table II: Physical-chemistry analysis of soil samples
+
+6
+
+1200
+
+1000
+Resistivity (k ohm.cm)
+
+800
+
+39 48
+
+600
+
+55
+400
+
+200
+
+0
+0% 5% 10% 15% 20% 25% 30% 35% 40%
+
+Humidity content
+
+Figure 2 - The soil samples behaviour in function of humidity content It can be observed in Figure 2 that the resistivity does not vary after 15% humidity for the samples in Kilometer 48 and 55, and for kilometer 39 after 25% humidity. This characteristic is probably related to the higher resistivity in comparison with the other samples (Table I). 3.1.2 Polarization curves Polarization curves were obtained to be used to the numerical simulation and also had the objective to define the electrochemical conditions of the pipe in the soil. The methodology employed was a three electrodes cell, where the working electrode was a steel sample, a calomelan saturated electrode as a reference and a graphite rod as an auxiliary electrode. The soil with various humidity contents was the electrolyte. The curves are shown in Figures 3 to 5.
+
+100 0 -100 -200
+E (mV)
+
+0 -200 -400 Humidity Content -600 15% 20%
+E (mV)
+
+Humidity Content
+
+5% 10% 15% 20% 25% 30% 35%
+
+-300 -400 -500 -600 -700 -800 0,01 0,1 1 10 100 1000 Log i (mA/cm2)
+
+-800 -1000 -1200 -1400 -1600 -1800 -2000 0,01
+
+25% 30% 35%
+
+0,1
+
+1
+
+10 Log i (mA/cm2)
+
+100
+
+1000
+
+10000
+
+Anodic polarization
+
+Cathodic polarization
+
+7
+
+Figure 3 - Polarization curves of Kilometer 39.353.of soil sample
+
+100 0 -100 -200
+E (mV)
+
+0 -200 -400 -600
+E( mV)
+
+Hum idity Conte nt
+
+-300 -400 -500 -600 -700
+
+5% 10% 15% 20% 25% 35% 30%
+
+Humidity Content
+
+-800 -1000 -1200 -1400 -1600
+
+5% 10% 15% 20% 25% 30% 35%
+0,01 0,1 1 Log i (mA/cm2) 10 100 1000
+
+-800 0,0001
+
+0,001
+
+0,01
+
+0,1
+
+1
+
+10
+
+100
+
+1000
+
+10000
+
+100000
+
+-1800 0,001
+
+Log i (m A/cm2)
+
+Anodic polarization
+
+Cathodic polarization
+
+Figure 4 - Polarization curves of Kilometer 48.316.of soil sample
+
+100 0 -100 -200
+E (mV )
+
+0 -200 -400 -600
+E ( V) m
+
+Humidity Content
+
+Humidit y Content
+
+-300 -400 -500 -600 -700 0,1 1 10 Log i ( mA/cm2 ) 100 1000
+
+5% 10% 15% 20% 25% 30% 35%
+
+-800 -1000 -1200 -1400 -1600 -1800 0,1
+
+5% 10% 15% 20% 25% 30% 35%
+
+1
+
+10 Log i (m A/cm2 )
+
+100
+
+1000
+
+Anodic polarization
+
+Cathodic polarization
+
+Figure 5 - Polarization curves of Kilometer 55.000 of soil sample The polarization curves showed that in low humidity contents the currents are low, in agreement with the high resistivity of the soil (Figure 2). On the other hand, increasing the water content the currents increased indicating a higher corrosivity of the soil. The curves also showed that there is no passivation process of steel during the anodic polarization indicating active corrosion as the humidity increases. Computer simulations pointed out there is a possibility that the potentials can reach high negative values over the new coating segment (Figures 7 and 8). If this was really possible, that segment 8
+
+would be overprotected and the coating could be damaged. Therefore new curves were obtained, but this time in extreme cathodic potentials, up to the limitation of the equipment. The humidity contents were chosen to simulate dried to wet conditions of the soil. The aim of these experiments was to check the limiting currents found during extreme cathodic potentials. Figure 6 shows the curves obtained.
+
+0 Humidity Content -500
+
+15% 35%
+
+-1000
+
+E (m V)
+
+-1500
+
+-2000
+
+-2500
+
+-3000
+
+-3500 0,000001
+
+0,00001
+
+0,0001
+
+0,001
+
+0,01
+2
+
+0,1
+
+1
+
+10
+
+Log i (mA/cm )
+
+Figure 6 - Cathodic curves for Kilometer 48 sample
+
+3.2. Numerical results 3.2.1. Potential distribution on real pipeline The curves with 35% and 15% humidity content, presented in Figure 6, have been adopted as boundary condition for simulating a real pipeline. The results are shown in Figures 7 and 8. The repairs and the distance between anode and pipeline influence the potential distribution. Here, the positioning of anodes and repaired segments are schematically represented, the real distances between anodes and pipeline are indicated in Figure 1. In order to keep the minimum potential at about ­0.85 VCu/CuSO4, different current values have been applied to each anode bed. The current value is a function of the distance between anode and pipeline.
+
+9
+
+-0.80
+-0 .85
+
+anodes c urre nt: 1- 9000A 4-1 500A 2- 9000A 5- 5 00A 3- 9500A 6- 5 00A
+
+resistivity = 3,400 ohm.cm repairs anodes
+
+-1.00 -1.20 -1.40
+
+Po tential (V Cu/CuSO4)
+
+-1.60 -1.80 -2.00 -2.20 -2.40
+
+2 1
+
+-2.60 -2.80 -3.00 0 20000 40000 60000 80000
+
+3 4 5 6
+
+100000
+
+120000
+
+pip elin e coordinate (m)
+
+Figure 7 ­ Numerical simulation considering 35% humidity content cathodic polarization curve (resistivity = 3,400 ohm.cm).
+
+10
+
+-0.80 -1.00 -1.20 -1.40
+
+anode s current: 1- 400A 4-120A 2- 220A 5- 50A 3- 240A 6- 10A
+
+resistivity = 36,500 ohm.cm repairs ano des
+
+-0.85
+
+Potential (V Cu/CuSO4)
+
+-1.60 -1.80 -2.00 -2.20 -2.40 -2.60 -2.80 -3.00 0 20000 40000 60000 80000 100000
+
+2 1 3 4 5
+120000
+
+6
+
+pipeline coordinate (m)
+
+Figure 8 ­ Numerical simulation considering 15% humidity content cathodic polarization curve (resistivity =36,500 ohm.cm).
+
+3.2.2. Failures representation of new coating
+Failures can be simulated as a single region without coating or as small failures, uniformly distributed, with the same area. The uncoated area is a function of the efficiency attributed to a coating. In fact, a n efficiency of 99.9% means that 0.1% of the pipe is without coating. In the simulations, both cases are considered: a uniform distribution was admitted, by considering 99.9% for the new coating and 80% for the old one, and just a single failure whose area was equal to 0.1% of the section with new coating. In the latter case, a null current was admitted for the pipe section with the new coating and the failure was simulated as a sphere positioned close to the pipe. The potential calculated considering uniformly distributed failures was found to be more cathodic (-1.32 VCu/CuSO4 ) than the potential of a single failure (-1,10 VCu/CuSO4). Therefore, the simulation of failures distributed over the pipe generates more cathodic potentials and is in fact, more adequate if one is aiming at an
+
+11
+
+investigation of possible overprotection potentials in a pipeline with new and aged coatings.
+
+3.2.3. Influence of distance between anode and pipeline
+Figure 9 a and b shows the great influence of the distance between anode and pipe. This item refers to the quantification of this influence, considering a 100m and a 100 Km pipe with a single anode located at different distances, in a 3,400 ohm.cm soil resistivity. The distance above which no significant potential variation can be observed is related to the length of the pipe. High cathodic potential values have been observed in the section with new coating, where there is a greater current density.
+
+99.9% coa ting effciency
+
+-0. 80
+
+old pi pe
+
+old pipe
+
+-1. 20
+
+Potential (V)
+
+-1. 60
+
+ano de/pipeline distan ce pip eline len gth = 100 m 10 m 20 m
+-2. 00
+
+40 m 50 m
+
+40
+
+50
+
+60
+
+Pipeline coordinate (m)
+
+(a)
+
+12
+
+-0 .8 0
+
+-1 .2 0
+
+Pot ential (V)
+
+-1 .6 0
+
+-2 .0 0
+anode/pipeline distance pipeline length = 100 Km
+
+-2 .4 0
+
+10 Km 20 Km 40 Km 50 Km
+
+-2 .8 0
+
+40000
+
+50000
+
+60000
+
+Pipeline coordinate (m)
+
+(b) Figure 9 - Influence of the distance between anodes bed and pipeline.
+
+3.2.4. Influence of aged coating efficiency in the potential distribution Figures 10 and 11 present simulations considering one remote anode from the pipeline and two alternative soil resistivity values. Three different coating efficiency values have been considered for the old pipeline and, in order to keep the minimum potential at about ­ 0.85 V Cu/CuSO4, different current values have been applied. Maintaining a minimum protection level at the old pipeline, the new coating segment achieves more cathodic values as the efficiency of the old pipeline coating diminishes. It is important to point out that this potential peak is solely due to the difference of efficiency between the two coating values (aged and new one), since the anode has been located remote from the pipeline.
+
+13
+
+-0 .80
+old pipe
+
+99.9% coating effciency
+
+old pipe
+
+-1 .00
+
+Potential (V)
+
+-1 .20
+
+-1 .40
+
+re sistivity = 3,40 0 ohm.cm old pipe coa ting e fic ie nc y f 7 0% 8 0% 9 0%
+
+-1 .60 47 48 49 50 51 52 53 54
+
+Pipeline coordina te (m)
+
+Figure 10 ­Potential distribution considering different old pipe coating efficiency (resistivity = 3,400 ohm.cm).
+
+-0.80
+
+old pipe
+
+99.9 % coating effcie ncy
+
+old pi pe
+
+-1.00
+
+Po ten tial (V)
+
+-1.20
+
+-1.40
+
+resistivity = 36,500 ohm.cm old pipe coating efficiency 70% 80% 90%
+
+-1.60 47 48 49 50 51 52 53 54
+
+Pipeline coord inate (m)
+
+14
+
+Figure 11 ­Potential distribution considering different old pipe coating efficiency (resistivity = 36,500 ohm.cm).
+
+3. Conclusions
+A number of numerical simulations has been carried out, considering two different soil resistivity values and several distances between anode beds and pipeline. The simulations indicated the following:  there are two causes for the developed potential peaks over the pipeline, first the proximity of the anode and second the difference between coating efficiency values;  there is a limiting distance between anode and pipe after which the potential peak generated over the new coating section of the pipeline remains unchanged. This distance is related to the pipeline length.  the negative potential peak in the new pipe segment has been found to be a direct function of the difference between new and aged coating efficiency. It was observed that this behaviour become more pronounced as the original coating deteriorates and the soil resistivity decreases.
+
+4. References
+[1] Payer J.H. et al., "Fundamental research on disbonding of pipeline coatings". Final report, april 1, 1991 - december 31, 1995, Case Western Reserve University, Dept. of Materials Science and Engineering: Cleveland, OH. 1996. [2] Rodriguez R.E., Trautman B., Payer J.H., "Influencing factors in cathodic disbondment of fusion bonded epoxy coatings". Corrosion 2000. Orlando: NACE International.
+
+15
+
+[3] Leidheiser H.J., W. Wang, Igetoft L., "The mechanism for cathodic delamination of organic coatings from a metal surface". Progress in Organic Coatings, 1983. 11: p. 19-40. [4] J.J.Perdomo, I.Song, "Chemical and Electrochemical Conditions on Steel under disbonded coatings: the effect of applied potential, solution resistivity, crevice thickness and holiday size", Corrosion Science, 42, pp 1389-1415, 2000. [5] Perdomo J.J., Chabica M.E., Song I., "Chemical and Electrochemical Conditions on Steel under disbonded coatings: the effect of previously corroded surfaces ans wet and dry cycles", Corrosion Science, 43, pp 515-532, 2001. [6] W.Baptista, S. L.D.C.Brasil, J.C.F.Telles, "Assessment of Internal Cathodic Protection in Pipelines for Seawater Collection in Oil Platforms", Materials Perfomance, April 2004. [7] M.Schultz, S.L.D.C.Brasil, L.Miranda, W.Baptista, R.Brito, "Cathodic Protection Simulation of Aboveground Storage Tank Bottom: an Experimental and Numerical Results". Nice, France, SCI - Société de Chimie Industrielle, Eurocorr 2004. [8] C.A.Brebbia, J.C.F.Telles, L.C.Wrobel, Boundary Element
+
+Techniques: Theory and Applications in Engineering, Spring-Verlag, Berlin, 1984.
+[9] Silva, J.M.; Tersariol, L.H., 24 o CONBRASCORR 2004, Rio de Janeiro, 2004
+
+16
+

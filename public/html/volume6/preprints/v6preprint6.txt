@@ -1,0 +1,185 @@
+Volume 6 Paper C004 THE RISK OF STRESS CORROSION CRACKING OF PRESTRESSED STEEL AND ITS PREVENTION BY USE OF NITRITE INHIBITOR C. Alonso, J. Fullea and C. Andrade Institute of Construction Science Eduardo Torroja Dept. Physico-Chemistry of Construction Materials C/ Serrano Galvache s/n 38033, Spain mcalonso@ietcc.csic.es
+
+Abstract Studies carried out on corrosion of steel reinforcements have demonstrated that it commonly happens in chloride contaminated or in carbonated concrete. Prestressed steel is not immune from this form of deterioration and also corrodes under such conditions. This type of reinforcement, because of its composition and in-service stress level, is also vulnerable to stress corrosion cracking (SCC). Although the use of NO2- type inhibitor to reduce the risk of reinforcement corrosion has been widely studied, relatively few studies have been performed on its effectiveness to reduce the risk of SCC in prestressing steel. Present paper deals with subject of SCC in prestressed steel exposed to simulated pore solutions of carbonated concrete, in this work was 0.05M NaHCO3. The effect of temperature on SCC phenomena is addressed in relation to the mechanism and propagation of failure (crack rate propagation). Nitrite as corrosion inhibitor efficiency to avoid SCC of prestressed steel is also studied. Results indicate that there exists a risk of SCC on prestressed steel in 0.05M NaHCO3. The failure is potential dependent and also affected by the temperature showing a maximum risk at 30ºC and ­300mV SCE. The SCC phenomena is inhibited in presence of nitrite, this fact leads to attribute to the embrittlement occurring in prestressed steel be mainly due to the hydrogen generated during corrosion process. 1. Introduction Cold drown pearlitic steels are employed in pre-stressed structures to assure that concrete works under compression. The steel within concrete remains indefinitely protected against corrosion by the physical barrier of the cover, but also because of the high alkalinity of the cement paste that guaranties its electrochemical protection by allowing to develop a passive layer on the surface of the steel. However, the external aggressive may diffuse through the pore net-work of the concrete and reach the surface of the reinforcements initiating corrosion. The further progress of corrosion results in reduction of service life of the structure. The typical aggressive agents that reduce reinforce concrete durability are chloride ions and the lowering of the concrete pH due the reaction of carbon dioxide with alkaline substances in
+
+the concrete (carbonation). In both cases the steel is no longer protected and corrosion and stress corrosion cracking (SCC) could happen. SCC on pres-stressed steel has been largely studied since 70´s due to the risk that this type of failure induces [1-8]. Laboratory failures by SCC have been reproduced in pre-stressing steels wires in alkaline environments simulating chloride and sulfate contaminated concrete [5, 8, 9, 10], and also in environments simulating carbonated concrete [6,10]; however, the mechanism of cracking is not fully understood. Stress corrosion failure of prestressed steel has been attributed in many cases to be caused by the hydrogen embrittlement (HE), that may be induced by cathodic polarization of the steel or during corrosion process, because of the acidification occurring at the tip of a pit and further hydrolysis of the ferrous oxides formed [11,12]. SCC can also take place simultaneously to HE enhancing brittle process in prestressed steel. One difficulty to progress with the problem is to try to reproduce in laboratory the realistic working conditions of prestressed steels. In addition, in many cases to approach the problem has been broken in elementals pieces where each aspect of the mechanism may be studied separately [13,14]. The used of protective methods to fight against SCC is less studied, although several protection methods were developed to avoid corrosion of reinforcements. One of the preventive methods studied during years is the employ of corrosion inhibitors. Among all type possible inhibitors suggested for reinforcement the most widely used is the NO2- [15-20]. However the use of corrosion inhibitors to reduce SCC risk is low developed [21-22]. Present paper deals with the approach to the understanding of SCC mechanism of construction prestressing steel occurring in a simulated carbonated media and under the effect of the electrochemical potential and the temperature. Cracking has been induced and developed and further inhibited with Ca (NO2)2 addition. 2. Experimental Materials A cold drown commercial pearlitic steel and the parent pearlitic steel rod were used in SCC tests. The parent pearlitic steel was obtained from the cold drown rod after a first cold draw pas bringing from a 12 mm initial diameter rod to a 10 mm final one. The parent steel was heat treated at a temperature of 250ºC during 15 minutes with the propose of increase the yield stress from the as received material value of 950 MPa to values near to the usual ones in the typical pre-stressing steels. Chemical composition an mechanical properties of both steels are shown in table 1 and 2 respectively. The main difference between both type of steels is the microstructure; the parent steel shows a full pearlitic structure with light elongation of the pearlitic colonies and preferential orientation of the cementite lamellas. Similar microstructure has the cold drown steel, but the elongation of the pearlitic colonies are more evident, this introduces a higher anisotropy in this type of steel and increases the uncertainty in SCC mechanism studies. These differences in microstructure led to the use of each type of steel in different sets of tests:
+
+2
+
+1) The parent steel, was employed to see SCC in function of temperature. 2) The cold drown steel was used to see the effect of electrochemical potential on SCC and the inhibition of the process. Smooth machined specimens were employed with treaded heads, of 2.5 mm in diameter. The dimensions are those of figure 1. C 0.77 Mn 0.65 Si 0.23 P 0.006 S 0.014 Cr 0.20 Ni 0.074 Cu 0.13 V 0.063
+
+Table 1. Chemical composition of the steel (in wt%). . Type of steel Parent steel Cold drown steel Rp0,2 (MPa) 1273 1548 Rm (MPa) 1426 1738 Elongation (%) 3.7 5.5 RA (%) 34 32
+
+Table 2. Mechanical properties at room temperature of parent steel and cold drown steel The aggressive environment was a naturally aerated 0.05M aqueous solution prepared with chemical analytical NaHCO3 and distilled water, pH=8.5, previously tested as promoting SCC in cold drawn steels [6,10]. Sodium nitrite was added in some cases, in a proportion 0.05M Ca(NO2)2 to the 0.05M NaHCO3 solution, the resulted pH of these solutions was 6.9.
+
+Fig. 1.- Dimension and shape of the smooth machined steel employed in SSRT.
+
+3
+
+Testing conditions A metacrylat polymer electrochemical cell with a double chamber, shown in figure 2, was employed for SCC tests. The testing solution was introduced in the inner chamber and put in contact with the wire. Vaseline oil was added to the surface of the solution in order to form a uniform layer that allows the isolation from the atmosphere. The reason was to guaranty the stability of the solution during test. The NaHCO3 solutions are unstable if they are in direct contact with the atmosphere, changes in the pH take place due to changes in the chemical equilibrium HCO3-  CO3=, as also noticed in previous studies with this system [6,10]. Several temperatures were tested of: 5, 10, 30, 50 and 75 ºC. Tap water from a repository heated or cooled up to the required temperature was pumped and introduced through the external chemise of the SCC cell. The temperature of the solution inside the cell was continuously recorded. The effect of temperature in air was studied by testing the machined specimens in an oil Vaseline bath, consider as inert system.
+
+COUNTER ELECTRODE
+
+
+
+REFERENCE REELECTRODE
+
+WATER IN
+
+WATER OUT
+
+STEEL
+
+
+Fig. 2.- Type of SCC cell employed for testing at different temperatures. The tests were performed at potentials imposed by a potentiostat using a conventional threeelectrodes arrangement. A saturated calomel electrode (SCE) and a platinum electrode were employed as reference and the counter electrodes respectively. All the potentials in this work are in the SCE scale. The range of testing potentials was ­700 mV up to +300mV, SCE. The electrochemical connection with the reference electrode was made through a lugging inserted in the testing solution to avoid any pollution of chlorides from the internal solution of the reference electrode. The specimens were tested in slow strain rate test (SSRT) at a strain rate of 3x 10-7 s-1. The SSRT of smooth specimens were done imposing a high strain rate until the yield stress is reached and following the test with the slow strain rate above mentioned. The crack growth rate was calculated after the specimen failure using the length of the largest secondary crack measured with optical microscopy in transversal polished surfaces and the time to failure.
+
+4
+
+Electrochemical tests Electrochemical tests were also performed in the system with 0.05M NaHCO3 with and without addition of 0.05M Ca(NO2)2. Polaritation curves at 1000 and 10 mV/min were performed. Icorr measurements were made through the employ of polarisation resistance method. 3. Results Electrochemical response of the systems The electrochemical behaviour of prestressed steel rods in carbonate and bicarbonate solutions was widely studied in [23] and their relation with SCC was established. In present paper the effect of the addition of Ca(NO2)2 inhibitor is considered. The corrosion rate measurements are included in figure 3. The results indicate active corrosion of prestressed steel in 0.05 M NaHCO3 (Icorr > 0.2 µA/cm2) after 40 days of test. This situation changes if Ca(NO2)2 is added to the solution showing Icorr < 0.1µA/cm2 all test duration.
+
+CORROSION RATE, (µA/cm2)
+
+No NO2
+
+With NO2
+
+TIME
+
+(DAYS)
+
+Fig. 3.- Corrosion rate of prestressed wires in 0.05M NaHCO3 media with and without calcium nitrite Polarisation curves in 0.05 NaHCO3 solutions at 1000 and 10 mV/min are shown in figures 4, without inhibitor and 5 with inhibitor. Test With and without 0.05 M Ca(NO2)2 additions were performed. The results indicate that the inhibitor reduces the active peaks appearing without nitrite addition to the electrolyte, either for 10 and 10000 mV/min. In the region between ­ 300mV and +100 mV SCE coexist with high and low current density, identified as active/passive region.
+
+5
+
+Fig. 4.- Polarisation curves at 1000 and 10 min/min in 0.05M NaHCO3 without Ca(NO2)2
+
+Fig. 5.- Polarisation curves at 1000 and 10 min/min in 0.05M NaHCO3 with Ca(NO2)2
+
+6
+
+Slow Strain Rate Tests (SSRT) The effect of the imposed electrochemical potential on the SCC susceptibility was measured at room temperature on cold drown specimens and through SSRT, results of cross section reduction and time to fracture are included in figures 6 and 7. An important area reduction and a drastic decrease of the time to failure are observed at potentials ranging from -200mV to ­700mV, SCE, with a maximum effect at ­300mV. This region of potentials where SCC exists can be associated with potentials were anodic process takes place and so the oxidation of iron. This anodic effect of the corrosion process on SCC disappears when calcium nitrite as corrosion inhibitor is introduced in the system.
+
+VALUE IN AIR
+AREA REDUCTION (%)
+
+NO NO2
+
+WITH NO2
+
+POTENTIAL, mV, (SCE)
+
+Fig. 6 .- Area reduction in function of potential of steel. Effect of NO2- addition in SSRT. The parent steel specimens tested at ­300mV, SCE and temperatures between 5 and 75ºC behave as it is displayed in the figure 8. Time to failure, area reduction, ultimate tensile strength and elongation at fracture are represented vs the temperature for tests in inert environment and in 0.05M NaHCO3 solution. For the aqueous environment and all the temperatures, the four mechanical characteristics showed a significant reduction as compared to their values in Vaseline oil.
+
+7
+
+RUPTURE TIME (HOURS)
+
+VALUE IN AIR
+
+NO NO2
+
+WITH NO2
+
+POTENTIAL, mV, (SCE)
+Fig. 7.- Time to fracture in function of the polarised potential. Influence of NO2- addition in SSRT.
+
+45 40 35 30
+36.6 31.3 24.1 21.4 16.9 13.8 13.3 41.5
+
+70
+65.6
+
+60
+
+60.7 54.3 47.8 40
+
+61
+
+time to fracture (h)
+
+35.4
+
+50 40 30 20 10 0 0
+
+RA (%)
+
+25 20 15 10 5 0 0
+
+INERT SOLUTION (NaHCO3)
+
+41.3 34 37.3
+
+INERT SOLUTION (NaHCO3)
+
+10 20 30 40 50 60 70 80 TEMPERATURE (ºC)
+
+10 20 30 40 50 60 70 80 TEMPERATURE
+
+ultimate tensile strength (MPa)
+
+2400 2200 2000 1800 1600 1400 1200 0 1220 215 5
+
+2327
+
+7.5 7
+7.2 6.9 6.6 5.9 5.2 4.5 4 3.7
+
+elongation (%)
+
+1974 183 1 1620 1789 1670 1665
+
+INERT SOLUTION (NaHCO3)
+
+6.5 6 5.5 5 4.5 4 3.5 3
+
+INERT SOLUTION (NaHCO3)
+
+4.3
+
+10 20 30 40 50 60 70 80 TEMPERATURE (ºC)
+
+0 10 20 30 40 50 60 70 80 TEMPERATURE
+
+Fig. 8.- Effect of the environment temperature on the mechanical parameters usually employed as susceptibility index.
+
+8
+
+SEM of the fracture surfaces of metallographic sections supported the interpretation of the lowering of mechanic parameters as effect of cracking susceptibility. The SEM fractographs in the figure 9 are on the left a representative ductile surface corresponding to the fracture in vaseline oil at 300C and on the right a representative surface corresponding to the test in NaHCO3 media at the same temperature, showing a cuasiclivage brittle fracture. Also cold drawn steel gave similar forms of fracture in the range form -200 to ­700 mV, SCE.
+
+Fig. 9.- Ductile fracture in air (left) and cuasiclivaje in 0.05M NaHCO3 (right). 4. Discussion Electrochemical behaviour of prestressed steel in 0.05 M NaHCO3 and its relation to SCC. The corrosion rate measurements of prestressed steel in NaHCO3 solutions allow to identify the need of an active corrosion for SCC risk to occur in anodic potentials region (from 700mV to ­200 mV, SCE, in present work), a similar risk was postulated in [17] and later demonstrated in [6], but with higher concentrations of NaHCO3. The additional tests from polarisation curves indicate two regions of active potentials forming different type of oxides. The peak at more negative potentials may be related with the formation of magnetite and ferrous corrosion products like FeO and FeCO3. Some authors have noticed that the stability of magnetite increase at more negative potentials [20, 24, 25]. The region of potentials with highest SCC risk is that between ­200 to ­600 mV, this is precisely that associated with the formation of ferrous oxides and/or magnetite. This leads to believe that a certain level of corrosion activity is needed, but also the formation of a low oxidised forms is fundamental, because this lower oxidised levels of Fe may suffer a further hydrolyses and acidify the zone. This is precisely the mechanism proposed by [12 ,26] to take place in the bottom of a pit. The differences in intensity of the peaks at 10 and 1000mV/min indicate the co-existence of active-passive states in the same region of potentials, where the intense anodic activity is indicated by the curve at a faster sweep rate, and the relative inactivity at the lowest sweep
+
+9
+
+rate. This differences in corrosion activity are considered by [27] to be related with regions were the risk of SCC is high. Influence of the presence of Ca(NO2)2 to reduce SCC risk of prestressed steel The action of inhibitors to prevent cracking may operate in different mechanisms, as indicated in [22]: · By changing the critical balance between activity and passivity that is frequently associated with dissolution of related cracking. · By influencing the local cell action that is involved with intergranular cracking and chemical heterogeneity at grain boundary · By moving the potential to a non cracking value · By preventing the ingress of hydrogen into the metal. The need of a certain active state to induced a SCC phenomenon is demonstrated when calcium nitrate, as corrosion inhibitor, is added to the system. The NO2- acts in two ways, in one hand, it inhibits the pit formation, but also being this inhibitor of anodic nature, inhibits the formation of ferrous oxides forms, while the formation of ferric oxides are enhanced, as confirmed by previous authors [18-20]. Certain activity for Fe+2 formation seems to be essential for SCC process to develop on prestressed steel. One reason could be attributed to the fact that the acid hydrolyses of Fe+2 is contributing and so, the formation of protons, H+, is favoured. Later on, the cathodic process of the reduction of H+ to form atomic hydrogen, H, is essential, which is the element expected to penetrate into the net of the prestressed steel inducing the embrittlement of the metal. Neutron diffraction spectroscopy of fractured prestressed steels tested under SSRT in 0.05 M NaHCO3 solutions confirmed that deformation of ferrite lamellas takes place when SCC or hydrogen embrittlement occurs [28]. Environmental assisted failure in 0.05 NaHCO3 solutions of prestressed steel and its prediction by surface mobility model The SCC failure detected in 0.05 M NaHCO3 solutions is of transgranular nature, as also found in [6] being the aspect of the fracture similar to that found at very cathodic potentials, where the reason for metal embrittlement is due to hydrogen penetration. The largest secondary cracks measured after sectioning the sample, see figure 9, indicate that the propagation path is through the perlitic lamellas. The crack length was measured and divided by the total test time in order to obtain an average crack growth rate.
+
+10
+
+Fig. 10.- Right, metalographic axial section showing secondary cracks. Left, transgranular propagation of secondary cracks in parent pearlitic steel after SSRT in 0.05M NaHCO3 at ­300mV SCE. The SCC failure is also dependent on temperature as it can be seen in figure 10, as it was also found by [29, 30], however in present work it has been found that there is not a discontinuity with temperature. The experimental results of crack velocity calculated in present experiments have been compared with those postulated by Surface Mobility Model [31, 32]. The crack rates have found to move between 10-8 top 10-9 m in the range of temperatures studied. In the figure11, the experimental crack propagation rates have been represented together with the theoretical predicted by surface mobility mechanism [31,32], in which the formation of different type of oxides on the surface of the steel are considered taking or not into consideration the presence of hydrogen formation during corrosion process: 1) If the contaminant is magnetite, Fe3O4 2) If the contaminant is FeO and 3) If it happens hydrogen embrittlement. At low temperatures (< 30ºC), the experimental crack velocities correspond quite well with that predicted with Surface Mobility Model [31, 32] if it is assumed the formation of hydrogen. Concerning the type of oxides, change from ferric and magnetite at lower temperatures, on the lips of the crack. At higher temperatures the hydrogen contribution is depressed, probably due to the formation of H2 gas that is removed easily from the system, or because the increase of temperature does not allow to maintain the atomic H to be trapped into the metal net. Concerning the type of oxide is the FeO more favourable at high temperatures (>30ºC). There is an intermediate temperature range of transition between both kinetics.
+
+11
+
+1
+
+1.00E-04
+HE
+
+1.00E-06 cpr (m/s). 1.00E-08 1.00E-10 1.00E-12 1.00E-14
+Fe2O3 + H
+
+FeO + H
+
+FeO
+
+Experimental Fe2O3 Fe3O4
+
+Fe3O4 + H
+
+1.00E-16 0.0027 0.00284 0.00298 0.00312 0.00326 0.0034 0.00354 0.00368 1/T(K)
+Fig. 11.- Experimental average crack velocities. Comparison with theoretical predictions of Surface Mobility Model. 5. Conclusions From experimental results of present work has been possible to obtain the next conclusions: 1. The cold drown pearlitic prestressed steel is susceptible to suffer SCC in 0.05 M NaHCO3 solutions 2. The risk of SCC depends on the electrochemical potential exhibited by the reinforcement. 3. The existence of an active state together with the formation of ferreous oxidised levels of Fe play a fundamental role for SCC to occur. 4. The embritlement of the prestressed steel found in 0.05 M of NaHCO3 is associated to the atomic hydrogen production in corrosion process that penetrates into the stressed steel. 5. The crack velocity shows a big influence of the incubation process and seems to follow the temperature dependence predicted by the surface mobility model but with a significant contribution of the hydrogen in the low temperature region. 6. The additions of calcium nitrite like corrosion inhibitor, reduce the risk of corrosion and avoid the SCC to occur on 0.05MNaHCO3 media. Acknowledges. The authors want to thank the MICYT for the financial support of present work. They also want to thank M. Acha and D. Janeva for their contribution in experimental work.
+
+12
+
+Bibliography [1] [2] [3] [4] [5] K.F. McGuinn and J.R. Griffiths, Br. Corrod. J., v. 12, n 3, (1977) 156. K.F. McGuinn and M. Elices, Br. Corrod. J., v. 16, n 3, (1981) 187. M. Elices, Rev. Ibr. Corros y Protc. (1983) V. Sánchez-Galvez, L. Caballero and M. Elices, ASTM, 1916RS (1985) R.N. Parkins, M. Elices, V. Sanchez-Galvez and L. Caballero, Corros. Sc., 22 (1982) 379. [6] M.C. Alonso, R.P.M. Procter, C. Andrade and M. Saenz de Santa Maria, Corros. Sc., 34, 6 (1993) 961. [7] J. Fullea, C. Alonso, and C. Andrade, Anales de Mecánica de Fractura, v. 18 (2001) [8] J. Fullea, C. Alonso, C. Andrade and P. Longo, Anales de Mecánica de Fractura, v. 19 (2002) 331. [9] A.M. Lancha, PhD on Influencia del trefilado en la CBT de aceros eutectoides, Univ. compl.. Madrid (1987) [10] M. Acha, PhD on Corrosion bajo tensión de alambres de acero pretensado en medios neutros con HCO3- y alcalinos con SO4=, Univ. compl. Madrid, (1993). [11] J.R. Galvele, Modern aspects of electrochemistry, n27, edt. E.R. White, Plennun Press, NY (1995) 233. [12] J.R. Galvele, Mang. Corros., n 34 March-April, (2000)7. [13] J.R. Galvele, Corros. Sc., v. 35 (1993) 419. [14] H. Vogt and M.O. Speidel, Corros. Sc. V. 40, n 2/3 (1998)251. [15] S. Berke, W.P. Grace, Corrosion-85, NACE, paper n273 (1985). [16] C. Andrade, C. Alonso and J.A. Gonzalez, Cem. Conc and Agg., ASTM, v 8, n 2 (1986)109. [17] C. Alonso, C. Andrade, ACI Mat. J., March-April 1990)30. [18] A.H. Rosemberg and J.M. Gaidis, Mat. Perform., NACE (1979) 45. [19] V.B. Ratinov and T.I. Rozenberg, Conc. and Admix. Handbook (1972) 430. [20] C. Perez.Vazquez, PhD Univ. of Vigo (1999). [21] J. Jabery, Br. Corros. J., v 20, n3 (1985) 133. [22] R.N. Parkins, Br. Corros. J., v 21, n 1 (1986)2. [23] M.C. Alonso and C. Andrade, Corros. Sc., v 29, n 9, (1989)1129. [24] D.H. Davies and G.T. Bersntein, Corrosion NACE, 36 (1980) 416. [25] M. Pourbaix. Lectures on electrochemical corrosion. Plenum press, New York. (1973). [26] J.R. Galvele, Passivity of metals, The electrochemical Society, Inc., New Jersey (1978). [27] R.N. Parkins, C.S. O´dell and R.R. Fessler, Corros, Sc., 4 (1980) 707. [28] M. Castellote, J. Fullea, C. Alonso, C. Andrade, I. Llorente, X. Turrillas and J. Campo, Anales de Mecánica de la fractura, vol 20, (2003)185-188. [29] H. Vogt and M.O. Speidel, Corros. Sc., 40 (1998) 251. [30] R. Magdowski, M.O. Speidel, Metallurgical transactions, 19ª (1988) 1583 [31] J.R. Galvele, Corros, Sc., 27, 1 ( 1987)1 [32] J.R. Galvele, Corros Sc, 35 (1993)419
+
+13
+

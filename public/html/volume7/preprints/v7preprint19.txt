@@ -1,0 +1,446 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+Morphology, composition and corrosion properties of electrodeposited Zn-Ni alloys from sulphate electrolytes. M. M. Abou-Krisha(*), A. M. Zaky and A. A. Toghan. Faculty of Science, Chemistry Department, South Valley University, Qena, Egypt. *: Mortaga_aboukrisha@yahoo.com Abstract The electrodeposition of zinc-nickel alloys from sulphate bath was studied using cyclic voltammetry technique, where some characteristics were followed during both of the deposition and the dissolution of the alloys. Under the examined conditions, electrochemical and surface analyses indicated that the deposition took place with the formation of two structure had a composition corresponding to  and  phases of zincnickel alloy. Corrosion properties of Zn-Ni were studied depending on the light of anodic linear polarization resistance and the anodic part of the cyclic voltammograms. It is found that the protective capability of galvanic deposits containing Ni is substantially higher than that of ordinary Zn deposits. The effect of current density and boric acid and sodium sulphate concentrations on the morphology and the composition of the deposited films were also studied. The results indicate that the addition of boric acid to the plating bath increases the nucleation density of the deposit and consequently the content of Zn in the alloy. This effect has been attributed to the adsorptive interactions of boric acid at the electrode surface. The increase of sodium sulphate in the bath significantly increases the amount and content of Ni in the deposit and decreases those of Zn. The deposition potential, morphology and the composition of the deposit were greatly influenced by the current density. The Ni content in the deposition layer was depressed at high current density, whereas, Zn deposition was predominant. Keywords: Electrodeposition; Zn-Ni Alloy; Anomalous Codeposition; Current Density; Boric Acid; Bath Composition; Sulphate Bath; Electrochemical Studies 1. Introduction Electroplated zinc coatings are considered as one main way for the corrosion protection of steel. Recently, the interest of Zn-Ni alloy coatings has increased owing to their better mechanical and corrosion properties compared with pure zinc coatings [1-4]. Developing and studying electrolytes, of electrodeposits Zn-Ni alloys from, is a highpriority problem in electroplating. The use of zinc and its alloys for improving the corrosion resistance of coated steel, has been growing worldwide [5,6] and as a substitute
+1
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+for toxic and high-cost cadmium coatings [7]. In the automotive industry, for example, its use has been growing in search of increasing the corrosion resistance of chassis. The Zn-Ni alloys obtained by electrodeposition processes, with the amount of nickel varying between 8% and 14% by weight, give corrosion protection five to six times superior to that obtained with pure zinc deposits [8]. Many studies have attempted to understand the characteristics of the deposition process of Zn-Ni alloy [9-15]. The electrodeposition of Zn-Ni alloys is classified by Brenner [16] as an anomalous codeposition where zinc the less noble metal, is preferentially deposited. Although this phenomenon [17] has been known since 1907, the codeposition mechanisms of zinc and nickel are not well understood [18,19]. There are some propositions to explain the anomalous codeposition of the Zn-Ni alloys. The first attributes the anomalous codeposition to a local pH increase, which would induce zinc hydroxide precipitation and would inhibit the nickel deposition [20-22]. It was, however, later that anomalous codeposition occurred even at low current densities [23], where hydrogen formation is unable to cause large alkalinization effects. Another proposition is based on the underpotential deposition of zinc on nickel-rich zinc alloys or on nickel nuclei [24,25]. Two other papers [26,27] on NiFe electrodeposition propose different mechanisms. The mechanism of Lieder and Biallozor [26], assumes that Ni2+ discharges first to form a thin layer which chemisorbs water to form adsorbed Ni(OH)+, competition between the Ni2+ and Fe2+ to occupy active sites leads to the preferential deposition of Fe. Matlosz [27] uses a two-step reaction mechanism involving adsorbed monovalent intermediate ions for both electrodeposition of iron and nickel, as single metals, and combines the two to develop a model for codeposition. Anomalous effects assumed to be caused by preferential surface coverage due to differences in Tafel rate constants for electrodeposition. Sasaki and Talbot [28] proposed model extends the one-dimensional diffusion modeling of Grande and Talbot [29], a supportive or interpretive, rather than a predictive, model of electrodeposition. A main contribution of this model is the inclusion of hydrogen adsorption and its effects on electrodeposition. N. Zech et. al. [30] concluded that
+2
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+codeposition of iron group metals leads to a reduction of the reaction rate of the more noble component and an increase of the reaction rate of the less noble component compared to single metal deposition. The aim of this work is to investigate the effect of different current density and boric acid and sodium sulphate concentrations of the sulphate bath on the alloy properties. The morphologies obtained of the different deposit types are presented, as well as an analysis of the deposit compositions. The results of the experimental approach, based essentially on the analysis of the cathodic part of the cyclic voltammograms and galvanostatic measurements during electrodeposition and X-ray diffraction. The dissolution behavior of the deposits was also investigated using anodic linear polarization resistance and the anodic part of the cyclic voltammograms. 2. Experimental The electrolytes used for electrodeposition of Zn-Ni alloy were freshly prepared using Analar grade chemicals without further purification and doubly distilled water. The composition of the standard bath was 0.15 M H3BO3, 0.01 M H2SO4, 0.40 M Na2SO4, 0.20 M NiSO4 and 0.20 M ZnSO4 and the pH was adjusted at 2.5. Series of experiments were carried out to study the effect of current density (1 to 30 mA cm-2), boric acid concentration (0.15 to 0.60 M) and sodium sulphate concentration (0.20 to 1.00 M) of the bath on the deposits characteristics. To verify the influence of different conditions on the deposition process, a cyclic voltammetry behavior and galvanostatic measurement were used. Anodic linear polarization for corrosion resistance studies was also used. For cyclic voltammetry the scan rate was 5 mV s-1 where the deposition and dissolution of the coating were accomplished in the same bath. Previously, it was verified that no replacement reaction between Ni and Zn ions took place [11]. The electrochemical cell was composed of a steel rod (purity 99.98%) as a working electrode with a surface area of 0.196 cm2, Ag/AgCl/KCl(sat) mounted in a Luggen capillary, and a Pt sheet was used as a counter electrode. The working electrode before each experiment was mechanically polished with successive grades of emery paper
+3
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+degreased with ethyl alcohol, rinsed with doubly distilled water, and dried. Before each run the glass cell only was cleaned with chromic/sulphuric acids mixture, but C4 sintered glass with hot sulphuric acid, washed with first and second distilled water. Then the cell filled with the 100 cm3 of the electroplating solution of temperature 30.0oC and placed along the experiment in air thermostat to ensure adjustment of temperature at 30.0oC. All experiments were duplicated and the reproducibility for this type of measurements was found to be satisfactory. For standard bath we made series of experiments at different times and the relative standard deviation (RSD %) was obtained for Zn and Ni are 4.8% and 6.4% respectively. Scanning electron microscopy (SEM, JSM- 5500 LV, SEM, JEOL, Japan) was used to study the morphology of the alloys and measured the thickness of the deposits (crosssection). Atomic Absorption Spectroscopy (Variian SpectrAA 55) was used to analyze coating composition. The Zn and Ni content in the deposit were confirmed by EDS (Energy Dispersive X-ray Spectrometer) system with link Isis® software and model 6587 X-ray detector (OXFORD, UK). X-ray diffractometry (XRD) model D5000 Siemens diffractometer was used to identify the phases of Zn-Ni alloys deposited. The instrument is equipped with a copper anode generating Ni-filtered CuK Radiation ( = 1.5418 , 40 kV, 30 mA). An on-line data acquisition and handling system facilitated an automatic JCPDS library search and match (Diffrac software, Siemens) for phase identification purposes. In order to determine the percentage composition of deposit, the deposited layer was dissolved in 20 cm3 of 3.0 M HNO3, then diluted up to 100 cm3 with doubly distilled water in 100 cm3 measuring flask. A suitable diluted solution was then analyzed to ascertain the Zn and Ni contents in the deposited alloy using Atomic Absorption Spectroscopy. From the resultant analysis, the film thickness and the cathode current efficiency of the deposit from the selected baths on steel were calculated.
+
+4
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+The thickness of the deposited alloy layer is approximately estimated from the amount of deposit, the densities of Zn (dZn = 7.14 g cm-3) and Ni (dNi = 8.90 g cm-3) of the same surface area (0.196 cm2) [31,32], and confirmed by SEM (cross-section). To measure the corrosion resistance of the deposit the linear polarization resistance technique was used. In this technique the coated Zn-Ni galvanostatically on steel surface was washed and transferred into the electrolytic cell containing 100.0 cm3 0.025 M HCl in order to anodically dissolve the coating. To begin the measurements, the coated electrode galvanostatically was introduced into the cell immediately after electroplating, rinsed with double distilled water and was allowed few seconds (30 s) to reach equilibrium. The anodic dissolution of deposits in a voltammetric mode was conducted at a potential scan rate of 2 mV s-1. The values of electrochemical corrosion measurements of the coatings, E(i=0)- corrosion potential, Icorr.- corrosion current, Rp- polarization resistance, bc- cathodic and ba- anodic Tafel constants and corrosion rate, were obtained and represented in Tables 1-3.
+
+3. Results and Discussion 3.1. Effect of Current Density: Figure 1 shows the potential-time dependence for the deposition of zinc-nickel alloys on steel substrate at different current densities. At low deposition current densities (1 mA cm-2) the deposit consists of a high nickel-rich phase and the deposition takes place with very low nucleation overpotential. This curve consists of two parts, the first part indicated the deposition of Ni rich phase (ZnNi ­phase) which needed the very low nucleation overpotential (i.e. normal codeposition). The second part corresponds to an increase in Zn content (which induced by the deposited Ni [13]), due to a formation of new ZnNi phases (probably ­phase), and indicated by the sharp increase in the nucleation overpotential. These observations were confirmed by using XRD and indicated the formation of ­phase at very low current density and short time. The morphology of the deposits is very similar to ­phase deposits as shown in Figure 2a. Alloy with current
+5
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+density (1 mA cm-2) show a very uniform structure, which appears less, deformed even at higher magnification, and, very similar to that of pure Ni electrodeposits [33]. As the current density increases (3­7 mA cm-2), more overpotential is needed to create the initial nucleus and more zinc is deposited, but the deposit can still grow at low potentials. At these low polarizations, the deposition of nickel is strongly inhibited by the presence of zinc while the deposition of zinc induced by the presence of nickel [13,30]. As current density increases (10-20 mA cm-2) more overpotential is necessary to create the first nucleus and more zinc is deposited. When the zinc content increases, see Table 1, at current density 10 mA cm-2, a grain deposit with a smaller and similar size crystal (Figure 2b) is obtained. The rounded shape of E-t curves obtained at low times in these conditions indicates the presence of some adsorption process, probably related to the intermediate (ZnNiad+) suggested in other cases [15,34]. All these conditions correspond to zinc deposited at potentials below its deposition potential where the reduction of this metal is driven by the Ni2+ deposition. The increase of current density up to 30 mA cm-2 leads to, arise the potential to plateau slightly and then slowly relaxes to more positive values after the nucleation spike. When the deposits obtained in this zone are analyzed, Zn contents of about 89% are obtained, SEM pictures revealed that the alloy has the non-structured deposit (Figure 2c), where relatively similar to that of enriched Zn electrodeposits. The effects of current density on the percentage of Ni and Zn in Zn-Ni alloys from sulphate bath are shown in Table 1. At low current density there is a relatively high Ni content in the alloy, which result from the more noble nature of Ni (normal-codeposition). However, the decrease in Ni content when current density increased was observed. A small rise in Ni content can be observed at the higher current density employed because the preferentially deposited Zn (less noble metal) is more depleted in the cathode diffusion layer than the Ni (more noble metal). Also, current efficiency of the alloy increased generally is due to the increase of the Zn content, which represent the main alloy component. Increasing in the thickness of the deposited layer follows these changes. This
+6
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+may be due to the increase of Zn content on the alloy which posses the lower density (dZn =7.14 g cm-3 and dNi = 8.90 g cm-3). Also, it is clear that at current density values higher than 5 mA cm-2 the composition of the formed Zn-Ni alloy takes almostly constant value. Linear polarization resistance tests (Figure 3 as a representative results) were done using steel-coated galvanostatically by Zn-Ni alloys. It is observed that, see Table 1, at low current density (1 mA cm-2), there is a normal codeposition takes place, which detected by the higher Ni content in the deposit. Therefore, the measured corrosion potential (E(i=0)) has more positive value and the alloy has a better corrosion-resistance. As the deposition current density increase to 3 mA cm-2, the E(i=0) shifts to more negative value due to the decrease of Ni content. Also, the increase of the current density from 5 to 30 mA cm-2, the measured corrosion potential (E(i=0)) shifted to more positive values. This is may be due to the increase of the amount of Zn and Ni in the alloy and the thickness of the deposited by increasing the deposition current density. From the values of electrochemical corrosion measurements we can conclude that the corrosion rate and current and bc decreased and the ba and polarization resistance increased with the current density increased from 5-30 mA cm-2. While, at low currents (1-3 mA cm-2), these values depending on the Ni content in the deposit, taking the opposite direction with the current density increased.
+
+3. 2. Effect of H3BO3 Concentration: The role of boric acid has been of great interest in the electrodeposition of Ni [35] and Zn-Ni alloy [36]. It is now believed that boric acid either complexes with Ni2+, acting as a homogeneous catalyst, or adsorbs on the electrode surface, has a significance role on morphology and compositional characteristics. The presence of boric acid results in an increase of current efficiency of deposition process, amount of Zn in the deposited alloy, and the nucleation density of the deposit [36]. These effects have been attributed to the adsorptive interactions of boric acid at the electrode surface. Also, boric acid acting as buffer to maintain the pH of the electrolyte bath [37,38]. Similar effects of boric acid were observed in the present work during Zn-Ni deposition from suggested sulphate bath.
+7
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+The influence of the boric acid concentrations on the cathodic part of the cyclic voltammograms was studied, as shown in Figure 4. In these curves the deposition potentials are shifted towards increasingly negative potentials, where the boric acid concentration in the electrolyte is increased due to the decrease of deposited Ni content in the alloy, see Table 2. Also, the cathodic peak, which starts at about ­0.5 V, due to probably the presence of H2SO4 and consequently the hydrogen evolution, decreased with boric acid concentration increased. This may be due to that the boric acid acts as a buffer solution. Also, this may be ascribed to adsorption of the boric acid on the electrode surface and in turn decreases the surface coverage by H+ with increasing its concentration. It is found, from the anodic part of the cyclic voltammograms that, the phases, of the deposits obtained, from solutions containing different boric acid concentrations, consisted of a mixture of two phases. These phases are -phase [(Ni3Zn22) the first dissolution anodic peak] and  [(Ni5Zn21) the second dissolution anodic peak], which are due to the preferential dissolution of Zn from two phases. In spite of the smaller Zn content deposited in absence of boric acid, the two anodic peaks appear approximately at ­0.97 V and ­ 0.64 V have the highest peaks, due to the highest cathodic charge. Whereas, in the presence of boric acid the two anodic peaks generally are shifted to more positive potentials (i.e. the corrosion resistance increased). This observation has been attributed to the adsorptive interactions of boric acid at the electrode surface, which increase Zn amount in the deposit. The peak height decreases with increasing boric acid concentrations, although Zn content increases in the deposit as increasing boric acid concentrations. This is due to a parallel decrease of cathodic charge. Due to the increase of nucleation overpotential, at constant Einv the deposition cathodic charge diminishes. Figure 5 shows the potential­time dependence for the deposition of Zn-Ni alloys on steel at different boric acid concentrations. It seems that as increasing the concentrations of boric acid, more overpotential is needed to create the initial nucleus and more zinc is deposited, after the nucleation spike. Also there is some potential trembling was observed, probably because bubbles of hydrogen blocked part of the electrode surface [39].
+8
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+From Table 2 it is significantly clear that, as increasing the boric acid concentration in the bath, an increase of the Zn content and smaller decrease of the Ni content in the deposited alloy layer takes place. The alloy current efficiency increased due to the decrease of the hydrogen ions adsorption and increase of the total mass of the deposit. Also, the thickness of the deposited film was increased due to the amount of Zn increases which is the main content and posses the lower density. The morphology of zinc-nickel alloys on steel electrode was influenced by the boric acid concentrations. The results indicate that adding of boric acid to plating bath increases the nucleation density of the deposit and increase the amount of Zn deposited. Figure 6a confirmed that the increase of boric acid producing a more refined grain structure. This reduction in grain size can be explained by the increase of deposited film, which increases the number of new grains nucleated. It can be observed that the deposit obtained by 0.60 M boric acid shows a more refined granulation (Figure 6b), due to the higher nucleation rate. It is observed from Linear polarization tests that, the Zn-Ni alloy coatings obtained by different boric acid concentrations showed that, the corrosion potential (E(i=0).) decreases, when the boric acid concentration increased (Table 2), comparable to the corrosion potential value (E(i=0). = -1.062 V) of electrodeposited pure Zn on steel [33]. The electrochemical corrosion measurements indicated that the corrosion rate and current and bc were decreased and the ba and polarization resistance were increased with the boric acid concentration increased. Thus, the improvement achieved in the corrosion resistance of deposits can be explained by its different morphology, as well as by its refined grains, the composition of the alloy and the thickness can be considered as the reasons for the results obtained with electrodeposits in this work.
+
+3. 3. Effect of Na2SO4 Concentration: The influence of the Na2SO4 concentrations on the cyclic voltammograms was studied and indicated that the deposition potentials are shifted towards increasingly positive potentials when the Na2SO4 concentration in the electrolyte increased due to the increase of deposited Ni content in the alloy, see Table 3. At the same time the cathodic
+9
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+peak, which start at about ­0.5 V, decreased when Na2SO4 concentration increased due to the hydrogen evolution decreases and this appears as increasing the current efficiency of the deposit. From the anodic part of the cyclic voltammograms it is seems that, the phases of the Zn-Ni alloys varied with Na2SO4 concentration. The deposits obtained from solutions containing different Na2SO4 concentration consisted of a mixture of two phases  (Ni3Zn23) and  (Ni5Zn21). In the presence of 0.20 M Na2SO4, the -phase was the lowest quantity and the -phase was the highest quantity comparable with the other Na2SO4 additions. This result is confirmed by XRD (Figure 7a, b) which indicate that the increasing Na2SO4 concentration in the bath the -phase was increased and the -phase was decreased in the deposit. The main reason for this behavior could be attributed to the increase of electrolyte conductance as a result of addition Na2SO4 and hence will induce the deposition of Ni. Galvanostatic measurements indicated also that, the cathodic deposition potentials are shifted towards more positive potentials by increasing Na2SO4 concentrations. Also, it is noticed that the more overpotential was needed to create the first nucleus with decreasing Na2SO4 concentrations. From Table 3 it is clear that the increasing Na2SO4 concentrations significantly increased Ni amount and it is content in the deposit. On the other hand, Zn amount and it is content in the deposit was decreased. When Na2SO4 concentrations maintained between 0.20 M to 1.00M at current density 10 mA cm-2, deposits with 7.5-26.5% nickel content were readily obtained and the current efficiency of alloy deposition can reach 93%. Also, there is a little increase in the thickness comparable as expected with the increasing of the total mass. This is due to the total mass increases as the increases of Ni content which posses the higher density than Zn. It is quite clear that uniform deposit ,see Figure 2b, is obtained from bath containing 0.40 M Na2SO4 concentration. Curiously, the most uniform deposit with a similar small grain size was observed, as Na2SO4 concentration is raised to 0.60 M, see Figure 8, due to the increase of Ni content.
+
+10
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+Linear polarization tests were done using a steel-coated galvanostatically by Zn-Ni alloy. From Table 3 it seems that, increasing Na2SO4 concentration the corrosion rate, potential and current and bc were decreased and ba and polarization resistance were increased, this indicates that corrosion-resistance increased by increasing the Na2SO4 concentration. Thus, based on the results in Tables 1-3, it is possible to select an appropriate operating conditions to obtain an optimum nickel concentration in the range of 11-13% that provides best corrosion resistance for this types of alloy on steel substrate [40,41].
+
+4. Conclusions In the present research a sulphate bath was used and Zn-Ni alloy deposits were obtained at different variables such as current density, and concentration of boric acid and sodium sulphate in the bath. The morphologies obtained of the different deposit types are presented, as well as an analysis of the deposit compositions. Different proportions of the two metals can be obtained by using different deposition parameters, but at all, preferential deposition of zinc occurs and anomalous codeposition takes place. The results suggest the following sequence of events: first, Ni2+ (or its monovalent intermediate) adsorbed; followed by adsorption of Zn2+ (or its monovalent intermediate) onto the freshly adsorbed and deposited nickel. The adsorption of zinc ions adsorption inhibit subsequent deposition of nickel, although it does not block it completely. Electrochemical tests results are also presented in order to verify the corrosion behavior of deposits. At low deposition current densities (1 mA cm-2) the deposit consists of a high nickel-rich phase and the deposition takes place with very low nucleation overpotential. The deposition process consists of two parts, the first part indicated the deposition of Ni rich phase (ZnNi ­phase) which needed the very low nucleation overpotential (i.e. normal codeposition). The second part corresponds to an increase in Zn content (which induced by the deposited Ni), due to the formation of new ZnNi phases (probably ­ phase), and indicated by the sharp increase in the nucleation overpotential.
+11
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+The addition of boric acid raised the Zn amount in the deposited alloy, increased the nucleation density of the deposit and producing more refined grain structure. The deposition potentials are shifted towards increasingly positive potentials when the Na2SO4 concentration in the electrolyte is increased due to the increase of deposited Ni content in the alloy. In the presence of 0.20 M Na2SO4, the -phase was the lowest quantity and the phase was the highest one comparable to other Na2SO4 concentrations. It is interesting to mention that the current efficiency generally increases, as can be seen in Tables 2 and 3, due to the decrease of H+ adsorbed and in turn the hydrogen evolution decreases, as the boric acid and sodium sulphate concentrations increases. On the other hand, from Table 1, the current efficiency decreases when the current density changes from 1 to 3 mA cm-2. This is because at low current density the adsorbed H+ and consequently the hydrogen evolution is very low and increases by increasing the current density. Increasing the current density from 3 - 15 mA cm-2, there is a competition between the increase of H+ adsorption and the activation of Ni2+ and Zn2+ adsorption, which is predominant, and reach limitation at 15 mA cm-2. At higher current densities than 15 mA cm-2 the H+ adsorption increases.
+
+References: [1] I. Brooks and U. Erb, Scripta Mater., 44 (2001) 853. [2] J. B. Bajat, Z. Kacarevic-Popovic, V. B. Miskovic-Stankovic and M. D. Maksimovic, Progr. Org. Coat., 39 (2000) 127. [3] C. Muller, M. Sarret and M. Benballa, J. Electroanal. Chem., 519 (2002) 85. [4] E. Beltowska-Lehman, P. Ozga, Z. Swiatek and C. Lupi, Surf. Coat. Technol., 151 (2002) 444. [5] A. P. Shears, Trans. IMF., 67 (1989) 67. [6] T. E. Sharples, Prod. Finish., 54 (1990) 38. [7] A. M. Alfantazi, J. Page and U. Urb, J. Appl. Electrochem. 26 (1996) 1225. [8] L. Anicai, M. Siteavu and E. Grunwald, Corros. Prevent. Control, 39 (1992) 89.
+12
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+[9] C. Muller, M. Sarret and M. Benballa, Electrochim. Acta, 46 (2001) 2811. [10] G. Barcelo, J. Garcia, M. Sarret, C. Muller and J. Pregonas, J. Appl. Electrochem., 24 (1994) 1249. [11] F. Elkhatabi, M. Sarret and C. Muller, J. Electroanal. Chem., 404 (1996) 45. [12] F. Elkhatabi, G. Barcelo, M. Sarret and C. Muller, J. Electroanal. Chem., 419 (1996) 71. [13] F. J. Fabri Miranda, O. E. Barcia, O. R.Mattos and R. Wiart, J. Electrochem. Soc., 144 (1997) 3441. [14] N. Koura, Y. Suzuki, Y. Idemoto, T. Kato and F. Matsumoto, Surf. Coat. Technol., 169 (2003) 120. [15] G. Roventi, R. Fratesi, R. A. della Guardia and G. Barucca, J. Appl. Electrochem., 30 (2000) 173. [16] A. Brenner, Electrodeposition of alloys, Vol. 2, Academic Press, New York, (1963) p. 194. [17] E. P. Shoch and A. Hirsch, J. Am. Chem. Soc., 29 (1907) 314. [18] M. F. Mathias and T. W. Chapman, J. Electrochem. Soc., 137 (1990) 102. [19] S. Swathirajan, J. Electroanal. Chem., 221 (1987) 211. [20] H. Fukushima, T. Akiyama and K. Higashi, Metallurgy, 42 (1988) 242. [21] T. Akiyama, H. Fukushima, K. Higashi, M. Karimk-hani and R. Kammel, in: Proceedings of Galvatech, 89, Tokyo, (1989) 45. [22] K. Higashi, H. Fukushima, V. Takayushi, T. Adaniya and K. Matsudo, J. Electrochem. Soc., 128 (1981) 2091. [23] J. Horans, J. Electrochem. Soc., 128 (1981) 45. [24] M. J. Nicol and H. I. Philip, J. Electroanal. Chem., 70 (1976) 233. [25] S. Swathirajan, J. Electrochem. Soc., 133 (1986) 671. [26] M. Lieder and S. Biallozor, Surf. Coat. Technol., 26 (198) 23. [27] M. Matlosz, J. Electrochem. Soc., 140 (1993) 2272. [28] Y. Keith Sasaki and B. Jan Talbot, J. Electrochem. Soc., 147 (2000) 189. [29] W. C. Grande and J. B. Talbot, J. Electrochem. Soc., 140 (1993) 675.
+13
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+[30] N. Zech, E. J. Poldlaha and D. Landolt, J. Electrochem. Soc., 146 (1999) 2886. [31] T. Ohtsuka, E. Kuwamura, A. Komori and T. Uchida, ISIJ Int., 35 (1995) 892. [32] T. Ohtsuka and A. Komori, Electrochim. Acta, 43(1998) 3269. [33] M. R. Kalantary, G. D. Wilcox and D. R. Gabe, British Corrosion J., 33 (1998) 197. [34] E. Chassaing and R. Wiart, Electrochim. Acta, 37 (1992) 545. [35] J. P. Hoare, J. Electrochem. Soc., 133 (1986) 2491. J. P. Hoare, ibid., 134 (1986) 3102. [36] C. Karwas and T. Hepel, ibid., 135 (1988) 839. [37] A. B. Velichenko, J. Portillo, M. Sarret and C. Muller, J. Appl. Surf. Sci., 148 (1999) 17. [38] Y. Lin and J. R. Selman, J. Electrochem. Soc. 140 (1993) 1304. [39] A. B. Velichenko, J. Portillo, X. Alcobe, M. Sarret and C. Muller, Electrochim. Acta, 46 (2000) 407. [40] S. A. Waston, Nickel development Instiute Publications, Report No 13001, March 1988; S. A. Watson, Procedings of IMF Conference, 61-78, Torquay, April 1991. [41] N. Short, A. Abibsi and J. K. Dennis, Trans. IMF, 67 (1989) 73; N. Short, A. Abibsi and J. K. Dennis, Trans. IMF, 69 (1991) 145.
+
+14
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+List of Tables Table (1): Values of Ni and Zn amount in the deposit, total mass of the deposit, % Ni and Zn content, current efficiencies % (Ni, Zn and Zn-Ni deposit), thickness and electrochemical corrosion measurements of the deposit on steel from a bath containing 0.20 M ZnSO4, 0.20 M NiSO4, 0.01 M H2SO4, 0.40 M Na2SO4 and 0.15 M H3BO3 at different current density for 10 minutes at 30.0oC. Table (2): Values of Ni and Zn amount in the deposit, total mass of the deposit, % Ni and Zn content, current efficiencies % (Ni, Zn and Zn-Ni deposit), thickness and electrochemical corrosion measurements of the deposit on steel from a bath containing 0.20 M ZnSO4, 0.20 M NiSO4, 0.01 M H2SO4, 0.40 M Na2SO4 and different concentrations of H3BO3 at 10 mA cm-2 for 10 minutes at 30.0oC. Table (3): Values of Ni and Zn amount in the deposit, total mass of the deposit, % Ni and Zn content, current efficiencies % (Ni, Zn and Zn-Ni deposit), thickness and electrochemical corrosion measurements of the deposit on steel from a bath containing 0.20 M ZnSO4, 0.20 M NiSO4, 0.01 M H2SO4, different concentrations of Na2SO4 and 0.15 M H3BO3 at 10 mA cm-2 for 10 minutes at 30.0oC.
+
+15
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+Table (1)
+Current density /mA cm-2 Ni amount in the deposit / 10 g Zn amount in the deposit / 10-6 g Total mass of the deposit / 10 g Ni content / % Zn content / % Ni Current efficiency (eNi) / % Zn Current efficiency (eZn) / % Zn-Ni deposit Current efficiency (etotal) / % Thickness of the deposit / µm ba / V decade-1 bc / V decade
+-1 -6 -6
+
+1 29 6 35 82.9 17.1 81.1 15.1 96.2 0.21 37.84 0.1161 1.32 0.387 336 -430
+
+3 31 72 103 30.1 69.9 28.9 60.2 89.1 0.69 0.9925 0.2991 1.74 0.244 706 -743
+
+5 27 150 177 15.2 84.8 15.1 75.3 90.4 1.22 0.5272 0.3866 5.25 0.082 2935 -971
+
+7 31 222 253 12.3 87.7 12.4 79.6 92.0 1.75 0.6294 0.3754 4.46 0.094 2450 -969
+
+10 40 326 366 10.9 89.1 11.2 81.8 93.0 2.55 0.7022 0.3550 4.39 0.102 2375 -968
+
+15 60 516 576 10.4 89.6 11.2 86.3 97.5 4.01 0.7189 0.2712 4.19 0.131 2237 -965
+
+20 84 687 771 10.9 89.1 11.7 86.2 97.9 5.37 0.8995 0.2412 2.44 0.143 1514 -960
+
+30 127 973 1100 11.5 88.5 11.8 81.4 93.2 7.64 0.9983 0.1957 0.970 0.152 893 -948
+
+icorr. / A cm-2 x 10-3 Rp / K-Ohms Corr. Rate / milli-inches year-1 E(I=0) / mV
+
+16
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+Table (2):
+H3BO3 concentration in bath / M Ni amount in the deposit / 10-6 g Zn amount in the deposit / 10-6 g Total mass of the deposit / 10 g Ni content / % Zn content / % Ni Current efficiency (eNi) / % Zn Current efficiency (eZn) / % Zn-Ni deposit Current efficiency (etotal) / % Thickness of the deposit / µm ba / V decade-1 bc / V decade
+-2 -1 -3 -6
+
+Without 36 279 315 11.4 88.6 10.1 70.0 80.1 2.19 0.7084 0.4621 4.59 0.094
+
+0.15 36 314 350 10.3 89.7 10.1 78.8 88.9 2.44 0.7182 0.3561 4.21 0.118 2221 -966
+
+0.30 37 333 370 10.0 90.0 10.4 83.6 94.0 2.58 0.7301 0.2234 3.22 0.128 1925 -961
+
+0.45 37 343 380 9.7 90.3 10.4 86.1 96.5 2.65 0.7523 0.1790 2.35 0.141 1834 -958
+
+0.60 37 357 394 9.4 90.6 10.4 89.5 99.9 2.75 0.7712 0.1486 1.98 0.159 1716 -949
+
+icorr. / A cm x 10 Rp / K-Ohms
+
+Corr. Rate / milli-inches year E(I=0) / mV
+
+-1
+
+2510 -970
+
+Table (3):
+Na2SO4 content in the bath/ M. Ni amount in the deposit / 10 g Zn amount in the deposit / 10 g Total mass of the deposit / 10-6 g Ni content / % Zn content / % Ni Current efficiency (eNi) / % Zn Current efficiency (eZn) / % Zn-Ni deposit Current efficiency (etotal) / % Thickness of the deposit / µm ba / V decade-1 bc / V decade
+-2 -1 -3 -6 -6
+
+0.20 25 304 329 7.6 92.4 7.0 76.3 83.3 2.31 0.7162 0.4211 4.32 0.110 2318 -968
+
+0.40 41 294 335 12.2 87.8 11.5 73.8 85.3 2.32 0.7242 0.3508 4.18 0.114 2255 -961
+
+0.60 60 284 344 17.4 82.6 16.8 71.3 88.1 2.36 0.9219 0.3197 3.87 0.119 2199 -955
+
+0.80 77 275 352 21.9 78.1 21.5 69.0 90.5 2.39 1.498 0.2027 3.54 0.121 2121 -952
+
+1.00 95 265 360 26.4 73.6 26.6 66.5 93.1 2.42 1.880 0.1219 3.10 0.128 1917 -0.943
+
+icorr. / A cm x 10 Rp / K-Ohms
+
+Corr. Rate / milli-inches year-1 E(I=0) / mV
+
+17
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+List of Figures Figure (1): E-t curves for steel in 0.20 M ZnSO4, 0.20 M NiSO4, 0.01M H2SO4, 0.40 M Na2SO4 and 0.15 M H3BO3 at different current density for 10 minutes at 30.0oC. Figure (2): SEM photographs of electrodeposited Zn-Ni on steel from a bath containing 0.20 M ZnSO4, 0.20 M NiSO4, 0.01M H2SO4, 0.40 M Na2SO4 and 0.15 M H3BO3 at different current density for 10 minutes at 30.0oC. (a) at 1 mA cm-2. (b) at 10 mA cm-2. (c) at 30 mA cm-2. Figure (3): log i-E curves for steel, plated from a bath containing 0.20 M ZnSO4, 0.20 M NiSO4, 0.01M H2SO4, 0.40 M Na2SO4 and 0.16 M H3BO3 at different current density for 10 minutes at 30.0oC, in 0.025 M HCl at 30.0oC. Figure (4): i-E curves (cyclic voltammograms) for steel in 0.20 M ZnSO4, 0.20 M NiSO4, 0.01M H2SO4, 0.40 M Na2SO4 and different concentrations of H3BO3 and scan rate 5 mV s-1 at 30.0oC. Figure (5): E-t curves for steel in 0.20 M ZnSO4, 0.20 M NiSO4, 0.01M H2SO4, 0.40 M Na2SO4 and different concentrations of H3BO3 at 10 mA cm-2 for 10 minutes at 30.0oC. Figure (6): SEM photographs of electrodeposited Zn-Ni on steel from a bath containing 0.20 M ZnSO4, 0.20 M NiSO4, 0.01M H2SO4, 0.40 M Na2SO4 and different concentrations of H3BO3 at 10 mA cm-2 for 10 minutes at 30.0oC. (a) at 0.30 M H3BO3. (b) at 0.45 M H3BO3. Figure (7): XRD patterns of electrodeposited Zn-Ni on steel, obtained at potential 1.13 V. holds for 15 minutes, from a bath containing 0.20 M ZnSO4, 0.20 M NiSO4, 0.01 M H2SO4, different concentrations of Na2SO4 and 0.15 M H3BO3 at 30.0o C. (a) at 0.20 M Na2SO4. (b) at 0.60 M Na2SO4. Figure (8): SEM photographs of electrodeposited Zn-Ni on steel from a bath containing 0.20 M ZnSO4, 0.20 M NiSO4, 0.01M H2SO4, 0.60 M Na2SO4 and 0.15 M H3BO3 at 10 mA cm-2 for 10 minutes at 30.0oC.
+
+18
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+-700
+
+Volume 7 Preprint 19
+
+31 January 2005
+-2
+
+-800
+
+E vs. Ag/AgCl/ mV
+
+-900
+
+1 mA cm -2 3 mA cm -2 5 mA cm -2 7 mA cm -2 10 mA cm -2 15 mA cm -2 20 mA cm -2 30 mA cm
+
+-1000
+
+-1100
+
+-1200
+
+-1300 0 2 3 5 7 8 10
+
+t / minute Figure (1):
+
+(2a)
+
+19
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+(2b)
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+(2c)
+
+Figure (2):
+20
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+-2.5
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+-3.0
+
+-3.5
+
+log i/ A cm
+
+-2
+
+-4.0
+
+-4.5
+
+-5.0
+
+5 mA cm -2 10 mA cm -2 15 mA cm
+
+-2
+
+-5.5 -1030
+
+-1025
+
+-1020
+
+-1015
+
+-1010
+
+-1005
+
+-1000
+
+E vs. Ag/AgCl/ mV Figure (3):
+
+0.015
+
+0.010
+
+0.005
+
+0.000
+
+i/ A cm
+
+-2
+
+-0.005
+
+-0.010
+
+-0.015
+
+Without H3BO3 0.15 M 0.30 M 0.45 M 0.60 M
+
+-0.020
+
+-0.025 -1200 -1100 -1000 -900 -800 -700 -600 -500
+
+E vs. Ag/AgCl/ mV Figure (4):
+
+21
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+-1000
+
+-1040
+
+Without H3BO3 0.15 M 0.30 M 0.45 M 0.60 M
+
+E vs. Ag/AgCl/ mV
+
+-1080
+
+-1120
+
+-1160
+
+-1200
+
+-1240 0 1 2 3 4
+
+t / minute
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+Figure (5):
+
+22
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+(6a)
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+(6b)
+
+Figure (6):
+
+23
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+24
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 19
+
+31 January 2005
+
+Figure (8):
+
+25
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

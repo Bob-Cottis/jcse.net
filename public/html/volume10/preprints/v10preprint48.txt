@@ -1,0 +1,317 @@
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+Cetyl medium
+
+trimethylammonium
+
+bromide
+
+as
+
+corrosion inhibitor for mild steel in acidic
+Mukta Sharma1, Jyoti Chawla1, and Gurmeet Singh2
+1 2
+
+Department of Applied Sciences & Humanities,CITM, Faridabad, India Department of Chemistry, Delhi University, India. E-mail: muktapragya@gmail.com, chem_jyoti@yahoo.com
+
+Abstract
+The inhibitive effect of Cetyl trimethylammonium bromide (CTAB) on acid corrosion of mild steel in sulphuric acid at different temperatures has been investigated. Galvanostatic and potentiostatic studies were used to calculate the corrosion current, inhibition efficiency, passivation current and passivation potential range. The parameters so obtained were used to explain the effectiveness of inhibitor when present in different concentrations. Scanning Electron Microscopic (SEM) studies also help us to understand the changes that take place on the surface layer with respect to change in CTAB concentration. The extent of corrosion inhibition has also been evaluated by comparing the micrographs obtained from SEM. The results obtained are in direct agreement with the electrochemical studies. words: Key words Corrosion inhibitors, Surfactants, Mild Steel, Adsorption.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+Introduction
+The corrosion of iron and mild steel is a fundamental, academic and industrial concern that has received a considerable amount of attention [1]. The use of corrosion inhibitors is one of the most practical methods for the protection against corrosion, especially in acidic media [2]. Every and Riggs list many individual compounds that were subjected to laboratory tests for their inhibiting action in acids [3]. Uhlig also quoted many compounds that are most effective inhibitors for sulphuric acid [4]. It is universally accepted that the organic molecule inhibits corrosion by adsorbing at the metal-solution interface. Fischer [5] carried out an accurate analysis of different modes of inhibiting electrode reactions including corrosion. Corrosion inhibition is a complex mechanism and depends on the formation of mono- or multi- dimensional protective layers on the metal surface. The protective nature of the surface layer depends on many factors: interaction between inhibitor and substrate, incorporation of inhibitor in the surface layer, chemical reactions, electrode potential, concentration of the inhibitor, temperature, properties of the corroding surface, etc. It is well recognized that steady state and dynamic electrochemical techniques coupled with surface and solution analytical techniques can be used to facilitate the development of plausible corrosion inhibition mechanism, as has been used in this study [6-9]. Maayta et.al [10] investigated the effect of cationic surfactant as corrosion inhibitor for aluminum acidic and basic solutions. The inhibition action was found to depend on the concentration of the inhibitor, the concentration of the corrosive media and the temperature. The inhibition efficiency in NaOH was higher than that in HCl solutions. In both acidic and basic media, the increase in temperature resulted in a decrease of the inhibition efficiency and a decrease in the degree of surface coverage. Pitting and crevice corrosion inhibition of stainless steel in groundwater by ionic surfactants and non-ionic surfactants were studied using electrochemical techniques [11]. Shalaby
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+and Osman studied the synergistic effect of anionic and nonionic surfactants on corrosion of mild steel in acidic solution [12]. The corrosion inhibition by surfactant molecules is related to the surfactant's ability to aggregate at interfaces and in solution. Surfactants adsorb on surfaces due to their amphiphilic nature and form aggregates with different morphologies, which potentially provide different extent of corrosion inhibition. The effectiveness of surfactant inhibitor can be studied on the basis of their micellar properties in a particular medium. The most well known inhibitors are surfactants containing long chain of carbon atoms and heteroatoms like nitrogen, sulphur and oxygen atoms. Corrosion inhibition of carbon steel by nonionic polyoxy ethylene (80) monopalmitate, cationic hexadecyltrimethylammonium bromide (HTABr) and anionic sodium dodecyl sulfate (SDS) in sea water has been evaluated by weight loss method, correlated with adsorption measurements and Xray analysis. The inhibition efficiency of these compounds increases with their concentration and reaches a maximum value around their critical micelle concentration (CMC) [13]. Hong & co-workers demonstrate that ammonium dodecyl sulphate (ADS), an environmentally safe surfactant, can be utilized for this application in Electrochemical Mechanical Planarization (ECMP) of copper. Using an acidic electrolyte of glycine and H2O2, and small Cu disks, it was shown that the corrosion inhibition efficiency of ADS is superior to that of benzotriazole [14]. This article investigates the inhibition of corrosion of mild steel in acidic medium using cetyl trimethyl ammonium bromide (CTAB) by using different techniques. The effectiveness of the inhibitor is explained on the basis of electrochemical parameters obtained from Galvanostatic and Potentiostatic studies. In the present work, the use of Scanning Electron Microscopy (SEM) has been made to obtain a clear understanding of the nature of adsorption or the surface morphology of the mild steel specimen exposed to the inhibited and uninhibited solutions. This would also enable us to understand the changes that take place on the surface layer with respect to the changes in the inhibitor's concentration and would show the extent of corrosion in the presence of inhibitor when present in different concentration.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+Experimental
+Materials Flat mild steel 2 mm thickness (with data C= 0.15%, Si = 0.8%, S = 0.025%, P = 0.025%, Mn = 0.02%) was used. The solutions used for the corrosion studies were prepared in conductivity water. Sulphuric acid (E Merck, India) was used for the preparation of solutions. Cetyltrimethyl ammonium bromide (CTAB) was obtained from Fluka. All reagents were used as received and of analytical grade. Preparation of working Electrode A cylindrical iron rod of 1cm length and 0.8 cm in diameter soldered on one end with an insulated Copper wire and carefully coated with an epoxy resin (araldite) leaving the circular flat surface exposed uncoated for the corrosion studies. The exposed metal surface was then abraded with different grades of emery papers of variety 150, 320, 400, 600 and 1200 respectively. This was finally polished by 4/0 polishing paper to mirror like surface followed by washing and dried in a desiccator for twenty-four hours. These mild steel coupons were used as working electrodes for the corrosion studies immediately. Galvanostatic Polarization Studies The potential of the metal electrode Vs. saturated electrode was measured by using galvanostat assembled indigenously having the range of 10mA to 100mA. A constant distance of approximately 1-2 mm between the tip of Luggin capillary and working electrode surface was maintained for all the experiments. Platinum electrode was used as a counter electrode. The potential of working electrode was measured against Saturated Calomel Electrode (SCE). Steady State potentials were achieved in three hours. Potentiostatic Polarization Studies A saturated calomel electrode (SCE) was used as a reference electrode. The steady state potentiostatic polarization was done through
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+the potentiostat by applying potentials of 20 mV increments after every one minute and the corresponding current values were recorded one minute after the potential was applied .The anodic polarization experiments were repeated for a number of times for each set and the reproducible data have been recorded. Scanning Electron Microscopy (SEM) An electron microscope, JEOL­840 SEM has been used for the study of surface morphology. Polished specimen that had a smooth pit free surface was subjected to corrosion exposure. Then these specimens were thoroughly washed in distilled water and dried in a desiccator. Thereafter, mild steel coupons were dipped into solutions of 10-3M and 10-7M concentration of inhibitors in one normal sulphuric acid for twenty-four hours at room temperature. Then, they were thoroughly washed with distilled water, dried in a desiccator and thereafter subjected to SEM examination.
+
+Results and discussion
+Galvanostatic polarization studies Galvanostatic cathodic and anodic polarization studies on Mild Steel in 1N H2SO4 in the presence and absence of CTAB at different temperatures, viz., 308 K, 318 K, 328 K and 338 K have been studied. The effect of change in concentrations of CTAB on Tafel Polarization curves for Mild steel has also been studied. Figs.1-5 show the plots of Logarithms of true current densities against the corresponding electrode potentials for mild steel in H2SO4 in the presence and absence of CTAB at different temperatures, which are measured against SCE. The electrochemical parameters so obtained are listed in Table1. It is clear from the table that CTAB inhibits corrosion of mild steel to different extent when present in different concentrations. The small variation in the inhibitor concentration is found to cause considerable change in the corrosion current. The increase in concentration of CTAB leads to low value of corrosion current (icorr). The percentage decrease in corrosion
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+current was found to increase with respect to increase in concentration of surfactant. The effect is most pronounced at concentration 10-3 M. It is further seen that at a given inhibitor concentration, the corrosion current is higher at higher temperatures and this trend is observed at all concentrations of the inhibitor. At lower temperature, the decrease in corrosion current with an increase in concentration of CTAB is more pronounced than at higher temperature. For example, at 308 K, the corrosion current decreases from 1.259 mA/cm2 for the uninhibited solution to 0.100 mA/cm2 for the solution containing the inhibitor (10-3 M), while this change is from 6.310 mA/cm2 to 3.162 mA/cm2 for the above inhibitor concentration at 338 K. At the highest temperature, i.e., at 338 K, the inhibition efficiency is reduced to 49.88% as compare to that of 92% at 308 K for 10-3 M. CTAB has produced no appreciable shift in open circuit potential towards any direction. This indicates that this additive acts as the mixed type inhibitor and influences both the cathodic and anodic partial processes to an equal extent. Potentiostatic Steady State Potentiostatic Polarization Studies Mild Steel has been anodically polarized in 1N sulphuric acid. The log of current density vs potential plots are obtained with the help of a potentiostat and shown in Fig.6. The corresponding electrochemical . parameters are given in Table 2. It is a known fact that the shape of the potentiostatic current potential curves depends on certain factors namely, rate of potential change, surface preparation, purity of the metal, temperature of the medium, etc. Therefore, all these parameters have been kept constant for all the experiments as far as possible and practicable. To understand the role of CTAB in passivating mild steel in sulphuric acid, mild steel has been anodically polarized with the help of potentiostat and the log of current density vs potential plots as shown in Figs.6 & 7. Since corrosion is the result of the interaction of the anodic and cathodic reactions, the corrosion potential of a metal surface is determined by the intersection of the anodic and cathodic polarization curves, the intersection occurring where the anodic and cathodic reaction rates are equal to the corrosion rate. The effect of CTAB has been studied
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+in terms of the electrochemical parameters e.g., current maximum or critical current density ic, flade potential Epp and passivation current, ip. The anodic dissolution parameters (ic, E
+pp
+
+and i p) of mild steel in 1N
+
+H2SO4 solution at various concentrations of these additives are listed in Table 2. From the table and figs., it can be seen that CTAB behaves in different manner and have different effects on the anodic dissolution of metal when present in different concentrations. The experimental results from Figs.6 & 7 can be discussed under the following classification: Active dissolution range Prepassive transition range Passive and transpassive range Active Dissolution Range When the anodic polarization has started from the open circuit potential it may be presumed that HSO4- and SO42- ions are gradually adsorbed on the surface. Transition Prepassive Transition Range (The current maximum of the peak) The adsorption of additive on the metal surface should be considered in competition with already adsorbed SO42- /HSO-4 ions on the surface and the additive is adsorbed very strongly along with the sulphate ions in this range of potentials. With the increase in potential, this change to a film which hinders the metal dissolution reaction thus bringing down the critical current density. The decrease in the critical current density is an indication of the reinforcement of the protective ability of the already adsorbed HSO-4 /SO42- ions paired with the protonated additive ions. CTAB exerts a large influence on the current maximum and can be concluded that CTAB is getting adsorbed strongly. This results in lowering of the current maximum with the increase in these additive's concentrations. Passive and Transpassive Range CTAB decreases the passivation current to a considerable extent. This shows that protonated inhibitor which is ineffective towards metal dissolution in the active potential range become effective in the passivation potential. The satisfactory explanation to this effect is that
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+the adsorbed [Fe(OH)]ads interacts with the protonated inhibitor molecules forming neutral organic compounds which forms insoluble polymeric films on the surfaces and possible insoluble complexes are shown below: Fes[Fe(OH)3]-oxide phase + In H+  [Fes In (OH)3]-oxide phase Where `In' stands for inhibitor. The additional inclusion of inhibitor molecules along with the passive Fe2O3 reinforces the protective activity and decreases the passivation current. The appearance of dark covering on the surface and a slight change in colour of the solution is indicative of the resistive layer formation along with oxide layers on the metal surface. This passive current starts increasing and transforms into transpassive region where once again evolution of oxygen starts violently and passivity is destroyed. The breakdown of passivity (the breaking of the protective film/barrier provided by the passive film) initiates the most damaging kinds of corrosion like pitting corrosion, crevice corrosion, stress corrosion, etc. The breakdown of passivity is extensively reviewed [16-18], which [16-18] explains about the chemical alteration of the passive film or the environment so that the film effectively prevents the destructive local attack. This, therefore, gives a clear potential range in which these additives are effective and at higher potential regions the passive layer is broken and oxygen evolution starts. The critical current density and the passivation current are 2.18 mA cm-2 and 0.31 mA cm-2 respectively. The passivation range for this has been seen to be 280-1080 mV. Similarly, the passivation range becomes large for other concentrations though ic increases for 10-5 M and 10-7 M concentrations of CTAB. These values show that CTAB acts as a good passivator of mild steel in 1N H2SO4 solution. CTAB is assumed to adsorb on the metal surface due to already adsorbed anions i.e., HSO4-, SO42- and OH-, etc. present in this system. At all the concentrations, this additive with the help of various anions is able to form such an effective layer thereby making the metal passive. type (M-In-OH) effect.
+ads
+
+CTAB forms the complexes of the (M-In-A)
+ads
+
+or (M-In)ads. or
+
+where A is the anion
+
+present in the solution or is the anion of the CTAB that causes synergistic The complexes along with synergistic adsorption of Br- ions parameters of metals in the passive influence the anodic dissolution
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+range. Due to enhanced overall electron density on the molecules, these are adsorbed much more strongly and uniformly at all the concentrations. This will hinder the charging/permeation of hydrogen into the film or oxide layer or resistive layer thereby making the metal more passive and affecting the anodic dissolution parameters to show increased extent of passivity. Characterization Surface Characterization by Scanning Electron Microscope In the present investigation, surface chemistry of mild steel specimen exposed to the uninhibited and inhibited solutions has been undertaken to supplement the studies. In SEM, an electron beam is scanned over the surface of the specimen and is detected by using a secondary electron detector. The function of the secondary electron detector is to collect the emitted secondary electrons and amplify them after converting into video signals. These video signals are used for Zmodulation in a roaster on a television or oscilloscope screen to display a scanning image, synchronized with a probe scan. 10-3 M and 10-7 M concentrations of CTAB in 1N Sulphuric acid were used to study for taking SEM micrographs. SEM was operated at 15 KV in the secondary electron mode since the secondary electrons emanate from the depth of 10 Å or less from the corroded surface, the picture obtained a faithful reproduction of the surface features. The micrographs were taken at the magnification of 2500 Å. It is quite apparent from the micrographs that the surfaces treated with the inhibitor show lesser corrosion as compared to those of the metal immersed in the acid alone. The Fig. 8(a) shows the scanning electron micrographs of unexposed specimen, i.e., plain mild steel surface without dipping in any solution. As it is seen, the surface of uncorroded surface is found to be absolutely free from any noticeable defects such as cracks and pits. The marks on the surface are streaks made during polishing with emery papers. Fig 8(b) shows the scanning electron micrographs of corroded surface of mild steel after immersion in 1N sulphuric acid solution. The surface of mild steel coupon becomes badly corroded as a large number of pits and cracks are observed on the
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+steel surface. In Fig. 9(a) it is quite apparent from the micrographs that when the specimen is treated with CTAB (10-3 M concentration), the surface of mild steel seen is less corroded as compared to 1N sulphuric acid. No pits are identifiable on the surface so it can be seen that the metal surface is fully covered with the inhibitor molecules giving it a high degree of protection against corrosion. The extent of corrosion, as visible from micrographs, is much less as compared to specimen exposed to 1N Sulphuric acid giving it quite a good protection. Fig. 9(b) shows the micrograph of mild steel when treated with 10-7 M concentration of CTAB that the metal surface is not completely covered with inhibitor molecules so more corrosion can be seen thereby giving less protection to the surface as compared to 10-3 M concentration of CTAB. It is also observed that the inhibition action of this additive reduces with the reduction of the concentration of the additive.
+
+Conclusions
+The extent of corrosion of mild steel in 1N H2SO4 in presence of CTAB has been studied by using different techniques. CTAB has produced no appreciable shift in open circuit potential towards any direction. This indicates that this additive acts as the mixed type inhibitor and influences both the cathodic and anodic partial processes to an equal extent. It can also be concluded that inhibition efficiency of CTAB increases with decrease in temperature and increase in concentration.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+References 1) P.R. Roberge, Handbook of Corrosion Engineering, McGraw-Hill, 2000. 2) H. Kaesche, Corrosion of Metals: Physiochemical principles and
+
+current problems, Springer, 2003. 3) R.L. Every and O.L. Riggs, Mat. Prot., 46, 3, pp9, 1964. 4) H.H. Uhlig, The corrosion Handbook, John Wiley and Sons, Inc.,
+1948p 5) H. Fischer, Werskst Korros, 23,pp445, 1972. 6) V.S. Shastri and R.H. Packwood, Werkstoffe Und Korrosion, 38, pp77, 1987. 7) V.S. Shastri, R.H. Packwood and J.R. Bazon, Division Report PMRL
+
+CANMEY, Energy Mines and Resources, Canada, pp87-89, 1987. 8) J.S. Bednee. L.E. Galbrath and V.E. Moore, Corros. Jr., 24, pp30,
+1989. 9) J.S. Bednee, Proc. 6th Eur. Symp. an Corrros. Inhib., Univ. Ferrara,
+
+Supple. No. 8, pp-741.
+10) N.A.F. Al-Rawashdeh and A.K. Maayta , Anti-Corrosion Methods
+
+and Materials , 52,3, pp.160 ­ 166, 2005. 11) D. Gopi, S. Rajeswari, Corrosion prevention
+49, 2, pp. 64-70, 2002.
+
+&
+
+control,
+
+12) M.N. Shalaby, M.M Osman, A.A.E. Feky, Anti-corrosion methods
+
+and materials, 46,4,pp25-56, 1999.
+13) L. 14) Y. Xianghong Hong, and M. and Guannan, S.V. Babu,
+
+Applied
+
+Surface Science, Solid-State
+
+252,5,pp1254-1265, 2005. D.Roy
+
+Electrochem.
+
+Lett.,8,11,pp297-300, 2005.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+Table1. Corrosion parameters of Mild Steel in 1N H2SO4 in the presence and absence of CTAB.
+
+Temp. (K) 308
+
+Conc. (mol l-1) 10-3 10-5 10-7 Blank
+
+icorr (mA cm-2) 0.100 0.3160 0.5012 1.259 0.1995 0.6310 1.000 2.512 1.259 1.585 2.512 3.981 3.162 3.981 5.012 6.310
+
+Log (icorr) 2.0 2.5 2.7 3.1 2.3 2.8 3.0 3.4 3.1 3.2 3.4 3.6 3.5 3.6 3.7 3.8
+
+I% 92.0 74.90 60.19 --84.15 74.48 60.12 --68.37 60.18 36.90 --49.88 36.90 20.57 ---
+
+318
+
+10-3 10-5 10-7 Blank
+
+328
+
+10-3 10-5 10-7 Blank
+
+338
+
+10-3 10-5 10-7 Blank
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+Table2. Electrochemical Parameters for Anodic Dissolution of Mild Steel in 1 N H2SO4 in the presence and absence of CTAB
+
+Additive
+
+Concentration (mol l-1)
+
+ic x 10 -2 (mA 3.16 2.18 2.63 2.45 cm -2) (mA 0.39 0.31 0.12 0.1
+
+ip cm -2)
+
+E pp mV (Range) 400 ­ 1550 280 ­ 1080 180 ­ 1080 140 ­ 1080
+
+Blank CTAB
+
+0 10-3 10
+-5
+
+10-7
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+308 K -300 0 -350 -400 E(mV) -450 -500 -550 -600 -650 Log (i/A)/uA/cm2) Fig. 1. Cathodic and anodic Polarization curves for H2SO4 at different tem peratures. 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5 318 K 328 K 338 K
+
+-200 -300 -400 E (mV) -500 -600 -700 -800 -900 Log (i/A)/uA/cm2) 0 0.5 1 1.5 2 2.5 3 3.5 4
+
+- 0 M CTAB - 10-3 MCTAB - 10-5 MCTAB - 10-7 M CTAB
+4.5 5
+
+Fig.2. Tafel Polarization curves for Mild Steel in 1N H2SO4
+solution containing various concentrations of CTAB at 308 K
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+-200 -300 Pot vs SCE/mV -400 -500 -600 -700 -800 -900 Log (i/A)/uA/cm 2) 0 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5
+
+Fig.3 Tafel Polarization curves for Mild Steel in 1N H2SO4 solution containing various concentrations of CTAB at 318 K
+
+- 0 M CTAB - 10-3 MCTAB - 10-5 MCTAB - 10-7 M CTAB
+-200 -300 0 -400 -500 -600 -700 -800 -900 Fig.4 Tafel Polarization curves for Mild Steel in Log (i/A)/uA/cm2) 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5
+
+1N H2SO4 solution containing various concentrations of CTAB at 328 K
+
+-200 0 -300 Pot. vs SCE(mV) -400 -500 -600 -700 Log(i/A)/uA/cm2) Fig.4.5 Tafel Polarisation curves for Mild Steel in 1 N H2SO4 solution containing various concentrations of CTAB at 338 K 0.5 1 1.5 2 2.5 3 3.5 4 4.5 5
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+6 5 Log (i/A)/µA/cm2----> 4 3 2 1 0 -500
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+Pot vs SCE / mV---->
+
+Fig. 5.Potentiostatic Polarization curve for Mild Steel dissolution in 1N H2SO4 at 298 K
+
+Fig 6. Potentiostatic Polarization curves for Mild Steel in 1 N H2SO4 containing various concentrations of CTAB - 0 M CTAB, - 10-3 M CTAB , - 10-5 M CTAB, - 10-7 M CTAB
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 48
+
+submitted 22 August 2007
+
+Fig.7(a). Scanning electron micrograph of polished mild steel specimen
+
+Fig.7(b). Scanning electron micrograph of corroded specimen in acid
+
+Fig.8(a). Scanning electron micrograph of mild steel when treated with 10-3M CTAB
+
+Fig.8(b). Scanning electron micrograph of mild steel when treated with 10-7 M CTAB
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

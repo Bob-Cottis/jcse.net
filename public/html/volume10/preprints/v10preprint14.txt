@@ -1,0 +1,410 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+Polyaniline Related Ion-Barrier Anticorrosion Coatings (I) Ionic Permeability of Polyaniline, Cationic, and Bipolar Films
+Jianguo Wang, Charlie C. Torardi, Michael W. Duch DuPont Company, Experimental Station, Wilmington, DE 19880-0262 Jianguo.Wang@usa.dupont.com
+
+Abstract
+Ionic permeabilities of coating films were studied with a variety of experimental methods including measurements of membrane potential, salt diffusion, and electron spectroscopy (ESCA). The results show that polyaniline in a polymer matrix lets anions diffuse through, a cationic film is permeable to cations, and the combination of a polyaniline contained primer with the cationic topcoat is an ion-barrier which delays penetration of both anions and cations.
+
+Keywords: Polyaniline, ion-barrier, conducting polymers, membrane potential, ion permeability.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+1. Introduction
+Over a half century ago it was assumed that organic coatings act as a barrier to water and oxygen from the environment. However, scientific investigations of the subject have determined that the limiting factor in the protective mechanism of barrier coatings is frequently their resistance to the flow of ionic current (1). Mayne (2-3) reasoned that a paint film could protect steel from corrosion by virtue of its high electrolytic resistance, which impedes the movement of ions, and thereby reduces the corrosion current to a very small value. The concept of ion-barrier coatings is a promising way to obtain an environmentally friendly alternative to toxic anticorrosion pigments. Many studies have since been carried out on the ionic permeability of paint films (1-10).
+
+In a study of polyaniline (PAn) containing coatings, we suggested that PAn primer layers were selectively permeable to anions and the topcoats were selectively permeable to cations; when they mixed in one layer both anions and cations can migrate through, and the combination of the anionic layer with the cationic layer is a barrier for both cations
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+and anions (11).
+
+In the present work, the ion permeabilities of PAn
+
+containing primer, cationic topcoat, and their combinations, i.e., the bipolar films, are demonstrated by measurements of membrane
+
+potential, salt diffusion, and electron spectroscopy (ESCA).
+
+2. Experimental
+2.1. Membrane Preparations.
+
+The coating materials were painted on pieces of filter paper (Whatman® 50) to make membranes. Both sides of the filter papers were painted and the total thickness of the membranes was ~ 0.2 mm. Multilayer coatings of the same material were used to eliminate possible pinholes. The following membranes were prepared:
+
+Cationic membrane (C): cation exchange resin C-249 (Sybron Chemicals Inc.) mixed with epoxy resin GY 509 and hardener HY 2964 (Huntsman Inc.). The weight ratio of 509: 2964: C-249 is 2:1:1.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+PAn primer membrane (P): A commercial COPPASSIVTM 4900 primer (Ormecon Chemie, Germany) which contains a conducting form of PAn dispersed in a polymer matrix (12).
+
+Bipolar membrane (B): the PAn primer layer (P) with the cationic layer (C) as a topcoat.
+
+Membrane C1: membrane C + 7.5 wt. % polyaniline powder (Panipol® F, Panipol Ltd. Finland).
+
+Membrane C2: membrane C + 10 wt. % XIOPOS01 solution (conducting polyaniline in xylenes, butyl cellosolve; solid content 41.1%, Monsanto Co.).
+
+Membrane C3: membrane C + 15 wt. % polyaniline powder (Panipol® F, Panipol Ltd. Finland). 2. 2 Membrane Potential and Salt Diffusion.
+
+A membrane was sealed between two glass half-cells with "O" rings and a clamp for both membrane potential and salt diffusion
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+measurements (Fig. 1). The volume of each half-cell was 250 ml, and magnetic stir bars were used during the tests.
+
+Fig. 1 The cell for measurements of membrane potentials (with the electrodes), and salt diffusion (without the inserted electrodes).
+
+For membrane potential tests, 0.1 M KCl solution (C0) was in a halfcell and the other half-cell was filled with KCl solutions of lower concentrations, i.e. 0.01 M, 0.025 M, and 0.05 M KCl. Each half-cell had inserted a saturated calomel electrode that was connected to a potentiometer to measure the membrane potential. During the membrane potential measurements the electrolyte tends to pass through the membrane with a resulting variation in electrolyte concentration on
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+both sides of the membrane (13). To minimize the concentration variation the solutions were removed and the cells refilled with fresh solutions when the potential reading just became stable. The membranes should be preconditioned by soaking in KCl solutions for ~ a week either in the cell or out of the cell in sealed bottles before the measurements.
+
+For the salt diffusion measurements, one half-cell was filled with 3.5 wt. % sodium chloride solution and the other half-cell was filled with de-ionized (DI) water. The concentrations of chloride and sodium ions in the DI-water half cell were tracked with a chloride ion electrode (Orion Chloride Electrode 96-17) and a sodium ion electrode (Orion ROSS Sodium Electrode 86-11). Samples of ~2 ml were taken from the halfcell and put in a test tube for the concentration measurements. The electrodes were calibrated every day. 2. 3. ESCA.
+
+ESCA spectra were obtained using a Physical Electronics PHI 5800ci spectrometer operated with an Al monochromatic X-ray source at 350
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+watts power (15 kV and 23.3 mA). High-resolution spectra were recorded at analyzer pass energies of 23.50 eV (Fe 2p spectral figure) and 46.95 eV (quantitative analysis) and a take-off angle of 45°. An analyzer slit of dimension 0.8 mm x 2 mm was used to image the sample analysis area. Spectra were scanned at 0.1 eV step interval and 50 msec step time. A PHI Model 06-350 ion gun and a Model NU-04 neutralizer were used to compensate for charging effects. The pressure in the analysis chamber was typically below 5 x 10-8 Torr during analysis. Number of scans used to accumulate spectra for each element varied, depending on signal intensity. The spectral peak binding energy position was recorded at the peak maximum intensity. The calibration and linearity of the electron binding energy scale was checked by recording the Au 4f7/2 line at 84.0 eV and the Cu 2p3/2 line at 932.7 eV. The binding energy values are reported as recorded without adjustment since sample charging was not indicated. Sample specimens for ESCA were cut to about 1 cm x 1.5 cm in size from the larger cold steel coupons. The coating was peeled
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+away and the steel surface was analyzed without further preparation. The samples were mounted for analysis on either a PHI Model 190 flat sample holder or a PHI Model 260 flat platen and fastened using a stainless steel screw and a washer. A control specimen for the Fe 2p reference spectrum was cut from a cold steel coupon and the uncoated side was sanded, washed and then argon ion sputter-etched cleaned. PHI MultiPak@ software version 6.0A was used for data analysis.
+
+3. Results and Discussion
+3 .1 Ion Permeability of the Cationic Topcoat Inside an ion-exchange membrane, there are fixed ions that make the membrane permeable to mobile ions with opposite charge (counterions) and repel ions with the same charge (co-ions) (14). When an ion-exchange membrane is between two solutions containing the same electrolyte in different concentrations, a membrane potential arises between the two membrane surfaces. The thermodynamic limiting value of the membrane potential is given by the Nernst equation (15): For ideal cation permselectivity:
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+R is the gas constant, T is the temperature, F is the Faraday constant, C' and C" are mean activities of the ion on each side of the membrane at equilibrium. With univalent counterions, i.e., Z+ = 1, the limiting value of the membrane potential at room temperature is 59 mV per power of 10 of the activity ratio of the solutions. A lower value of the slope indicates that the membrane is not an ideal cationic or anionic membrane, and there are some co-ions that diffuse through the membrane. A similar equation is for a membrane of ideal anion permselectivity (15), however, the limiting value of the membrane potential at room temperature is -59 mV.
+
+Fig. 2 shows that for the cationic membrane (C) the slope of membrane potential vs. log (C/C0) is 55 mV per power of 10 of the activity ratio which is close to the limiting value. With such a membrane
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+potential, the diffusion rate of anions, the co-ions, through the membrane can be ignored (15).
+
+Fig. 2. Membrane potential vs. log (C/C0). Dashed line: ideal cationic membrane, C: the cationic membrane C1, C2, and C3 are the membranes of PAn mixed with the cationic membrane material, P: the membrane of commercial PAn primer.
+
+The salt diffusion results are consistent with the membrane potential data. Fig. 3b shows that the film allows sodium ions to penetrate through and impedes the diffusion of chloride ions.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+The exchange of counterions between either membrane sides, i.e., the interdiffusion, can take place at a considerable rate (15). It was noticed that the pH of the DI- water changes during salt diffusion experiments. These changes should relate to the diffusion of counterions in the water (hydroxide ions or protons depending on the membranes). The interdiffusion may help maintain the electronutrality of the solutions on both sides of the membrane.
+
+Fig. 3 Diffusion of sodium ions (Na+) and chloride ions (Cl-) from 3.5 wt. % sodium chloride solution to 250 ml of de-ionized water through membranes (a) PAn (thickness ~ 0.3 mm), (b) cationic (thickness ~ 0.5 mm), (c) bipolar (thickness ~ 0.4 mm). Cation-exchange resin C-249
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+was used for (b) and (c). The curve labeled with Na+ (W) is obtained when water was filled in both half-cells. This curve is a control because the cation exchanger used for making the membrane itself contains some sodium.
+
+The cationic material was coated on a cold-rolled steel (CRS) panel and immersed in 3.5% sodium chloride solution for three months (16). After the immersion, a portion of the coating was mechanically removed and the substrate surface was investigated by ESCA. Fig. 4 shows the ESCA Fe 2P1/2
+2/3
+
+spectra of the CRS substrate after the immersion. The
+
+ESCA data show that the Cl/Na atom ratio on the substrate under the cationic coating is 0.13 (Table 1) indicating that the cationic coating was selectively permeable to sodium ions during the immersion.
+
+The three different experimental results discussed above indicate that the cationic layer is permeable to cations and is a barrier to anions.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+Fig. 4 ESCA Fe 2P1/2
+
+2/3
+
+spectra of CRS coupons after immersion in NaCl
+
+solution for 3 months.
+
+Table 1. ESCA data for the substrate surfaces after coated coupons were immersed in 3.5 wt. % sodium chloride solution for 90 days.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+Coating on CRS coupon
+
+ESCA % Atomic Concentration
+
+(a)
+
+Atomic
+
+Fe 2p3/2 Binding Energy (eV) and species
+
+Fe
+
+C
+
+N
+
+O
+
+Na
+
+Cl
+
+Ratio
+
+Cl/Na
+
+PAn
+
+(b)
+
+rusty area
+
+36.8 11.0 0.1 50.3
+
+0.3
+
+0.7
+
+2.3
+
+711.5 FeO(OH) (25) 711.0 Fe2O3 (26) 711.0 Fe2O3 (26)
+
+white area
+
+15.3 11.6 0.3 51.5 11.3 0.1
+
+0.01
+
+Cationic
+
+(c)
+
+15.6 23.8 0.8 42.7 9.9
+
+1.3
+
+0.13
+
+Bipolar
+
+6.2 35.1 3.0 48.2
+
+0.1 0.1
+
+1.0
+
+712.4
+
+(a) The elemental analysis excludes hydrogen. Trace amounts of Ca, F, Mg, Mn, P and S were detected, but the data are not listed here.
+
+(b) Immersion for 80 days.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+(c) The epoxy binder for cationic coatings has a chlorine-containing ingredient, (chloromethyl) oxirane, and nitrogen-contained hardener that may lead to the higher chlorine (1.3%) and nitrogen (0.8%) concentrations.
+
+3. 2 The Ion Permeability of PAn Contained Primer For the PAn primer membrane (P) the slope of membrane potential vs. log (C/C0) is only 27 mV per power of 10 of the activity ratio (Fig 2). This low slope shows that the PAn membrane is neither an ideal anionic membrane nor an ideal cationic membrane, and it is permeable to both cations and anions.
+
+The salt diffusion data are consistent with the membrane potential results. Fig. 3a shows that both chloride ions and sodium ions diffuse through the PAn membrane.
+
+The PAn primer was also painted on CRS panels and the coated panels were immersed in 3.5% sodium chloride solution for 80 days. After the immersion, some areas of the substrate surface are rusty (16). ESCA data (Table 1) show the interesting result that the Cl/Na ratio is 2.3
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+on a rusty surface, and the Cl/Na ratio is 0.01 on a non-rusty surface. Therefore, the PAn coating film is heterogeneous in ion permeability: the surface corresponding to the rusty area is preferentially permeable to chloride ions and the surface related to the non-rusty area is preferentially permeable to sodium ions.
+
+The three different experimental results discussed above indicate that the PAn primer layer is permeable to both anions and cations. PAn is an anion exchanger (17-21) and an anion-exchange membrane is selectively permeable to anions (14). A membrane of PAn with paraffin as the matrix has the slope of membrane potential vs. log (C/C0) close to the limiting value of 59 mV (22) showing the PAn membrane is selectively permeable to anions. However, the polymer matrix of a PAn membrane also impacts the permselectivity of the membrane. The membranes of PAn with polymer matrices other than paraffin have lower slopes (22) indicating that these polymer matrices are permeable to cations to some extent. This is understandable because most organic resins are
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+preferentially permeable to cations when immersed in water or in an aqueous solution of electrolyte (2). Therefore, the polymer matrix of
+
+the PAn primer is suggested for creating the diffusion pathway for cations. When PAn was mixed with the material of cationic membrane
+
+(C), the slopes significantly dropped (C1, C2, and C3 vs. C in Fig. 2). These decreases demonstrate that the membranes made up of PAn with a cationic matrix are permeable to both cations and anions.
+
+3.3 The Ion Permeability of Bipolar Layers In the salt diffusion experiments, the concentrations of chloride and sodium ions in the half-cell with DI-water are essentially unchanged over the 100 hours of the testing (Fig. 2c). These results indicate that the bipolar membrane delays the diffusion of both chloride and sodium ions. The bipolar coating was painted on the CRS panels for the immersion test
+
+(16). After the immersion test, the ESCA data of the substrate under the
+bipolar coating show low levels (0.1%) of both sodium and chlorine (Table
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+1). These data also indicate that the bipolar coating is a barrier to the diffusion of both ions.
+
+As discussed earlier, the PAn primer is heterogeneous in ion permeability. The primer layer is suggested to be an anionic membrane with a "cationic defect". Therefore, the bipolar coatings for the salt diffusion and the ESCA measurement consist of a cationic topcoat (Fig. 2, Fig. 3b) with an imperfect anionic primer (Fig. 2, Fig. 3a). The imperfection in the anionic primer may eventually show up, for example, upon longer immersion of the bipolar coatings in an electrolyte solution
+
+(16).
+The relation between the ion-barrier properties and the membrane potential is much more complex for a bipolar membrane than that for a mono-polar one (23, 24).
+
+4. Conclusions
+1. PAn in a coating film creates anionic permeability.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+2. PAn bipolar coatings that consist of a PAn primer and a cationic topcoat are ion barriers to both cations and anions.
+
+References
+[1] D. Greenfield, D. Scantlebury, (http://www2.umist.ac.uk/corrosion/JCSE/volume3/Paper5/v3p5.html) [2] J. E. O. Mayne, Official Digest, February (1952) 127. [3] J. E. O. Mayne, J. Oil Col. Chem. Assoc. 40 (1957) 183. [4] C. A. Kumins, A. London, J. Polym. Sci. 48 (1960) 395.
+
+[5] C. A. Kumins, Official Digest, August (1962) 843.
+
+[6] U. Ulvasson, M. L. Kullar, and E. Wahlin, J. Oil Col. Chem. Assoc. 50
+
+(1967) 254. [7] J.D. Murray, J. Oil Col. Chem. Assoc. 56 (1973) 210. [8] R. Fernandez, and H. Corti, J. Coat. Techno., 49 (1977) 62.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+[9} H. Corti, R. Fernandez-Preni, Progress in Organic Coatings, 10 (1982) 5. [10] T. Skoulinkidis and A. Ragoussis, Corrosion, 48 (1992) 666. [11]. J. Wang, Synthetic Metals, 132 (2002) 53.
+
+[12]. Technical data sheet of CORRASSIV 4900 Primer, Ormecon Co. [13]. Konrad Dorfner, Ion Exchangers, p607. Walter de Gruyter Berlin. New York 1991. [14] S. P. Nunrs, K. ­V. Peinemann Eds. Membrane Technology in the
+
+Chemical Industry WILEY-VCH. Weinheim, (2001) pp. 223-233.
+[15] Friedrich Helfferich, Ion Exchange, McGraw-Hill Book Company (1962) pp357, 408-409.
+
+[16]. J. Wang, C. C. Torardi, and M. W. Duch, Manuscript submitted to
+
+JCSE for Preprint publication.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+[17] D. Tallman, G. Sparks, A. Dominis, G. Wallace, J. Solid State
+
+Electrochem. 6 (2002) 73.
+[18]. P. Zarras et al., Radiation Physics and Chemistry, 68 (2003) 387. [19] A. A. Syed, M. K. Dinesan, Synthetic Metals, 36 (1990) 209. [20] J. Wang, Synthetic Metals, 132 (2002) 49. [21] A. R. Dolan, T. D. Wood, Synthetic Metals, 143 (2004) 243. [22] F. B. Diniz, K. C. S. de Freitas, W. M. Azevedo, Electrochimica Acta, 42 (1997) 1789. [23] P. Ramirez, S. Mafe, J. A. Manzanares, and J. Pellicer, J. of
+
+Electroanalitical Chemistry 404 (1996) 187.
+[24] A. A. Alcaraz, P. Ramirez, S. Mafe, H. Holdic, and B. Bauer, Polymer 41 (2000) 6627.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 14
+
+10 November 2006
+
+[25] J. F. Moulder, W. F. Sticke, P. E. Sobol, K. D. Bomben, Handbook of X-ray Photoelectron Spectroscopy, Perkin-Elmer, Physical Electronics Division, Eden Prairie, MN, (1992). [26] J. C. Corneilie, J-W He, D. W. Goodman, Surf. Sci. 338 (1995) 211.
+
+Acknowledgements
+We thank M. C. Plummer for ESCA experiments, Sue Wang for graphic and text editing, and S. Rostovtsev for helpful discussions.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

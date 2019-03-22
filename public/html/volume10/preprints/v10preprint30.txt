@@ -1,0 +1,252 @@
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 Mechanical / Electrochemical Characterization of Surfaces of Electropolished 316L Stainless Steel for Orthopedic Implant Applications: Part 2
+
+Vrishali Madav, Dr. R. Raman, Herbert Horn-Zolle, Dr. S.N.Malhotra, Dr. Sardesai.
+Corrosion sciences and Engineering (IDP), Indian Institute of Technology Bombay, Mumbai 400076, MH, India
+
+Abstract Electropolishing (EP) is the method of obtaining extremely smooth surfaces. It is also observed that EP of stainless steels have enhanced localised corrosion resistance as compared to mechanically prepared surfaces. For biomedical applications such as orthopaedic implants it is required that near zero defect surface is ensured .This work studies EP of solution annealed and cold rolled 316L stainless steel (316L SS) and characterises the surface physically for roughness, topography and electrochemically for localised corrosion. Characterization techniques involve Profilometry, Specular reflection, SEM, AFM, Ellipsometry, XPS, polarization studies in Hank's solution, and Micro- cell Ecorr noise studies to estimate localized corrosion resistance. The results are compared with nitric acid passivated 316L SS surfaces. This part summarizes and discusses the results of characterization techniques like XPS, polarisation studies in Hank's solution, and Micro- cell Ecorr noise studies.
+
+As received 316L SS showed very small passivity which broke down at approx. 65 mV (Vs SCE) .As the amount of stresses go on reducing in the break down potential increases to approx. 350 mV (SCE) much more comparable with 316LVM stainless steel grade. Micro cell Ecorr noise studies depict a definite repassivation in case of electropolished samples. Also, in Electropolished samples at least 60 % of the observations follow a certain noise trend where as mechanically buffed and nitric acid passivated surfaces show more inconsistency in the trends observed suggesting more local variation in the properties of the surface. At the surface Cr to Fe ratio is found to be affected with the type of surface treatment given. At the surface material i.e. with reduced degree of cold working till solution annealing;
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 solution annealed and electropolished stainless steel showed seven times increase in Cr to Fe ratio than in the bulk.
+studies, Keywords: Electropolishing ,316L SS, XPS, Polarization studies, Micro- cell Ecorr noise
+
+1. Introduction Importance of Electro polishing (EP) is deeply studied by the researchers and a few of those related to topic can be listed1-3 as follows; To Achieve Bright, Smooth, Appealing surface, to remove strains, metal debris and embedded abrasives, to remove distorted surface layer, to reduce pit initiation sites, to create chromium enriched surface, to decrease wear and fretting corrosion, to decrease the surface wettability, improvement in texture, plausible finishing of complex geometries, etc. The surface roughness, texture and localized corrosion resistance are the most important characteristics for stabilizing tissue-implant interface. The proliferation and differentiation of osteoblastic cells is hampered when corrosion products are released due to loss of passivity4. Moreover the Electropolished surface can hardly grow any germs over it5. Electropolished stainless steel was found to have the least rough surface and; showed significantly fewer bacterial cells on it and beginning early bio-film formations than the other treated surfaces6. Enhancing the biocompatibility of the 316L SS surfaces motivates us to characterize the electropolished surfaces and compare those with mechanically finished and nitric acid passivated surfaces. It is well understood that being cheaper and providing sustainable biomaterial properties,316L SS material is very popular and abundantly used as temporary fixation device in orthopedic implant applications. Optimum EP may comparatively lower cost than going for expensive material replacements like 316 LVM; without compromising sustainable required properties at the surface. While EP there occures a preferential dissolution of iron. Stainless steel when made anodic, along with iron, chromium also dissolves. But soon it gets scheilded with quick formation of Cr2O3 and the rate of chromium dissolution is retarded. Thus the surface from which iron is depleted is now enriched
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+serve
+
+as
+
+better
+
+means
+
+of
+
+upgrading
+
+the
+
+surface
+
+integrity
+
+at
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 with chromium comparitively. Increased chromium content actively takes part in the formation of more protective passive layer richer in chromia. Even though the `reservoir ` or the bulk of the material does not supply the extra chromium amount to reach the additional passivity needed at the surface, the purpose is fulfilled.
+
+The pitting potential (Ep) , corrosion potential (Ec), and polarization resistance(Rp) get changed by the chromium enrichment (Scr) in the surface film . The higher the (Scr), the higher the (Ep) ,(Ec), and (Rp) values.7 Another support for the fact of enhanced passivation of 316L SS is enhancement of pitting potential from 229mVsce to 931 mVsce for before and after passivation treatment (35% HNO3 , at 35
+0C
+
+evident that EP also results in the Cr enrichment. Thus the statement could be relevant to EP results also. Shuo- Jen Lee et al9 have studied the effect of EP process conditions on corrosion resistance of 316L SS. They have shown that a more uniform and compact layer of passive film was formed after the EP process greatly reduced the IGC attack. In these studies, various annealed and cold rolled stainless steel 316L surfaces are subjected to optimized EP treatment10. To compare the results another set is nitric acid passivated11 as well. These surfaces are evaluated by XPS, polarisation studies in Hank's solution, and Micro- cell Ecorr noise studies.
+
+for 6 hr)respectively8. It is
+
+2.Experimental 2.1 Sample Preparation 316L plate is cut in to 25mm*25mm squares with thickness ~ 3 mm. four types Soak time ~24 min Quench in water), 10%cold worked, 20%cold worked and 40%cold worked. all sample surfaces are cleaned and grit blasted to achieve 0.3 micron Ra value as a start roughness value. Two sets were prepared out of these treated samples; viz electropolished and mechanically buffed plus nitric acid passivated. Hence in all 8 types of samples were produced. Solution annealed and electropolished(SAEL), 10% cold rolled and electropolished(10EL) , 20% cold rolled and electropolished(20EL), 40% cold rolled and electropolished(40EL), Solution annealed and mechanically buffed plus nitric
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+of bulk treatments are carried out namely; Solution annealing (Temp. ~ 10500C
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 acid passivated(SABUFF), 10% cold rolled and mechanically buffed plus nitric acid passivated(10BUFF) , 20% cold rolled and mechanically buffed plus nitric acid passivated(20BUFF), 40% cold rolled and mechanically buffed plus nitric acid passivated(40BUFF). 2.1.1 Steps followed in EP
+Ultrasonic Solvent Degreasing Alkaline Degreasing Swill; rinse in water & dry
+
+Rinse in running water and Drying
+
+Electro- polishing
+
+Fig1 Steps followed in EP 2.1.2 EP Setup
+Rectifier Thermometer
+
+Ti fixture Lead cathode Sample anode
+
+Aspirator Hotplate - Stirrer
+
+Fig 2 EP Setup Commercial EP (Sulphuric acid ­Phosphoric acid) bath supplied by Canning ­ electrolyte strirring and air agitation as well. 2.1.3 Passivation set up used to passivate mechanically buffed surface The required number of samples are Nitric acid passivated with bath Concentration as 25% HNO3 maintaining the temperature at 50 0C for 20 min. 2.2 Characterization The obtained surfaces were characterized with the techniques like XPS, polarization studies in Hank's solution, and Micro- cell Ecorr noise studies.
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+Mitra ­ Phoenix India Limited was used. EP was done at 60 0C for 15 min with
+
+ISSN 1466-8858 2.2.1 XPS
+
+Volume 10 Preprint 30
+
+10 April 2007
+
+Photoelectron spectra were recorded using a Escalab MKS2 spectrometer equipped with a hemispherical electron analyzer and a Mg K X-ray source operated at 300 W. The specimens were fixed on small flat discs supported on
+
+an XYZ manipulator placed in the analysis chamber. The residual pressure in
+
+the analysis chamber was maintained below 5×10-7Pa during data acquisition. Spectra were collected depending on the peak intensities, with step size of 0.1 eV and at a pass energy of 20 eV, which is typical of high-resolution conditions. Intensities were estimated by calculating the area under each peak after smoothing and fitting the experimental curve to a mixture of Lorentzian and Gaussian lines of variable proportion. Although specimen charging was observed, accurate binding energies (BE) were determined by referencing to the adventitious C 1s peak at 285.0eV. Atomic ratios were computed from peak intensity ratios and reported atomic sensitivity factors12 Every sample was sputtered for 5 times to expose the deep lying material. Atomic weight percent of chromium and chromium to iron ratio was noted after each sputter cycle for every sample. The results are graphically presented in Fig3. Sputtering cycle was conducted with following parameters, Time of sputtering: 5 min, Acceleration: 5 kv, Angle: 450, Accelerating species: Argon ion. 2.2.2 Polarisation studies in Hank's solution. To study the response of 316L material without and with various surface treatments given; by polarizing those in Hank's solution13 simulating the tissue fluid conditions. For a better comparison, 316LVM grade material postulating greater pitting potential (due to minimized sulphur content) is studied along with the former samples. The experiment is conducted with a potentiostat using Model 363, EG&G Princeton Potentiostat / Galvanostat. Studies were carried out by using a graphite electrode as a counter electrode and saturated room temperature. 2.2.3 Micro- cell Ecorr noise studies A material like stainless steel shows a good resistance against uniform corrosion. The property is attributed to the passive film (mostly chromia) present over the surface. Such surfaces undergo localized corrosion attack of
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+calomel electrode(SCE) as a reference electrode, at a scan rate of 0.5 mV/ sec at
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 corrosive media. To understand these surfaces an attempt towards judging localized corrosion resistance is given.
+
+Micro cell14 studies Overcome the limitations of traditional polarisation studies larger surface area e.g.1-2 cm sq,( where as localized breakdown is at most defective passive film.) Here ~100 micron dia. circular area is exposed to the corroding electrolyte (in respect to SCE over a period of time, avoiding any polarization. It is a well known fact that when ever a metal or alloy is immersed in an electrolyte , it acquires a potential referred to as corrosion potential (Ecorr) The position of the potential will be anywhere between the Nernst's potentials corresponding to anodic (oxidation) and cathodic (reduction) half cell reactions. The exact values will depend on the electrochemical kinetics of these reactions. Further, this potential is not expected to be steady because the instantaneous rates of anodic and cathodic reaction will not be equal leading to charge imbalance. This leads to electrochemical noise. It was established that these noise signals are not truly random but may show persistency or anti persistency. Traditionally statistical R/S analysis (Hurst analysis, after it's founder) is used for analyzing these kind of signals. The analysis yield an exponent called Hurst exponent, `H' which can take values anywhere between 0 and 1. If H is less than 0.5 the signal is anti persistent If H is almost equal to 0.5 the signal is truly random If H is greater than 0.5 the signal is persistent The hypothesis is discussed by A.Akos Horvath and Robert Schiller15 in detail and has been used in the present work is as follows High value of H with the positive going noise trend corresponds to a definite good location in the passive film. High value of H, with a negative going trend corresponds to a definite bad location in the passive film. e.g. scan rate sensitivity, departure from freely corroding state and exposure of
+
+always due to deleterious micro-structural features leading to localized
+
+this case 3.5%NaCl) and the open circuit potential (OCP); Ecorr, is measured with
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 The randomly selected five points on the sample are made to undergo localized Ecorr noise studies to perceive an idea about the surface. All the 8 final samples are characterized with this technique .The results are exhibited graphically and for the simplicity the values of `H' are incorporated in the respective graphs. 3.Results and Discussion 3.1 XPS chromium profiling and variation of Cr to Fe ratio according to the depth
+Cr profile & CR/Fe ratio measured by ESCA
+30 2,5
+
+25
+
+2
+
+Atomic Wt.% of Cr
+
+20 Cr/Fe ratio 1,5 15 1 10
+
+5
+
+0,5
+
+0 1st cycle 2nd cycle No.of sputter cycle 3rd cycle 5th cycle
+
+0
+
+Cr at. Wt.% in as received 316L Cr at. Wt.%in solution annealed andelectropolished Cr at. Wt.%in 40% cold rolled and electropolished Cr/Fe ratio in solution annealed & passivated Cr/Fe ratio in 40% cold rolled and passivated
+
+Cr at.wt.%in solution annnealed and passivated Cr at. Wt.%in 40%cold rolled and passivated Cr/Fe ratio in base material 316L Cr/Fe ratio in solution annealed &electropolished Cr/Fe ratio in 40% cold rolled and electropolished
+
+staright lines are for chromium profiling and dashed lines are for Cr to Fe ratio
+
+Fig 3 Chromium profiling and variation of Cr to Fe ratio according to the depth An increase in Cr at. wt.% can be observed from the deeper zone up to the surface in tested samples except in 40 EL and 40BUFF. Primarily it appears as the stressed condition of material (e.g. 40% cold rolling) is contributing to the at. wt. % of Cr in 40EL and 40BUFF. At the surface Cr at. wt.% value is maximum for SABUFF sample i.e. 27.1%. Where as it is more or less same for 316L as received, SAEL, 40EL, 40BUFF(17.8-18.9%). The surfaces of 316L as received, SAEL, SABUFF show at first the decrease and then the increase (measured from depth to surface) in Cr at.wt.% than in the underlying material indicating the chromium enrichment in the surface. more dissolution of Chromium at the surface. Hence there is a slight decline in
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 The Cr/Fe ratio depicts the relative increase in the Cr at.wt.%. At the location in bulk material which remained unaffected by EP; all the samples start with the same Cr/Fe ratio. The presence of chromia imparts maximum value of Cr/Fe ratio to the surface of every stainless steel sample irrespective of the treatment maximum for SAEL sample. given. At the surface, this ratio is minimum for as received316L SS and
+
+3.2 Porisation studies in Hank's solution
+Polarization studies in simulated body fluid namely Hank's solution
+1000
+
+800 Potential Vs SCE in mV 600
+
+400
+
+200
+
+0 -2 -1 0 -200 1 2 3 4 40% cold worked and Electropolished Solution annealed and Electropolished Solution annealed and buffed-nitric acid Passivated 316 L without any passivation treatment 316LVM grade without any passivation Treatment
+
+-400
+
+-600
+
+log current density in mcro A/dm sq
+
+Fig 4 Polarization curves for various surface treated stainless steel samples in Hank's solution with SCE as a reference electrode
+
+Table 1 Epit & Ecorr for the various sample surface treatments in Hank's solution
+
+Sl.no 1 2 3 4 5
+
+Sample surface treatment S a buff S aEl 40 El Pristine 316L Pristine 316LVM
+
+Ecorr (mV) Vs SCE +145 -290 +295 -10 -60
+
+Epit (mV) Vs SCE + 410 + 350 + 65 + 270
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 Corrosion behaviour of any surface as general (not precisely localized properties) can be well studied in potentio-dynamic polarization condition where larger area is exposed to the electrolyte. Here the response obtained in terms of current density and potential is a compromise for all the locally varying points. As received 316L SS showed very small passivity which broke
+
+down at approx. 65 mV (Vs SCE) .As the amount of stresses goes on reducing in the material i.e. degree of cold working is reduced; till solution annealed condition, break down potential increases to approx. 350 mV (SCE) i.e. much more comparable with 316LVM stainless steel grade. Solution annealed and buffed and nitric acid passivated sample showed highest pitting potential. Epit of SABUFF> SAEL> 316 LVM>316L (The data for 40% cold worked and Electropolished could not be obtained.). Significant change in Ecorr values with respect to the surface treatment given can be observed in the graph. Ecorr of 40EL> SABUFF>316LVM>316L>SAEL At the same time the extent of passive range obtained for SAEL> 316LVM>SABUFF>316L The rise in Ecorr value and the extent of anodic polarization curve in the passive region brings out the importance of EP which changes the corrosion resistance of the surface positively. 3.3 Micro- cell Ecorr noise studies
+
+fig 5 Ecorr Vs time curve for SAEL surface in 3.5% NaCl solution
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 30
+
+10 April 2007
+
+Fig6 Ecorr Vs time curve for SABuff surface in 3.5% NaCl solution
+
+Fig7 Ecorr Vs time curve for 10EL surface in 3.5% NaCl solution
+
+Fig8 Ecorr Vs time curve for 20EL surface in 3.5% NaCl solution
+
+fig 9Ecorr Vs time curve for 40EL surface in 3.5% NaCl solution
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 30
+
+10 April 2007
+
+Fig10 Ecorr Vs time curve for 10BUFF surface in 3.5% NaCl solution
+
+Fig 11 Ecorr Vs time curve for 20BUFF surface in 3.5% NaCl solution
+
+Fig12 Ecorr Vs time curve for 40Buff surface in 3.5% NaCl solution To describe the surface in terms of corrosion resistance the response from all the five randomly selected points is taken into consideration. Depending upon the consistency of the noise signals in all the five points, trend followed in the noise pattern, tendency of the re-passivation and persistency of the noise signal expressed in terms of Hurst exponent, the surfaces are ranked qualitatively Table 2 Ranking of surfaces according to the localised corrosion behaviour Sr.no Surface treatment given Ranks given out of 5
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 1 Sa El 2 3 4 5 6 7 8 10 El 20 El 40 El S a, buff 10 buff 20 buff 40 buff
+
+Volume 10 Preprint 30
+
+3 42.5 3+ 2+ 1.5 1 2.5
+
+10 April 2007
+
+EP definitely imparts more reliable passive layer as far as localized corrosion resistance is considered. These results can be correlated with chromium enrichment occurred during EP and hence forming more protective passive film, the protective oxide layer. There does exist the attempt of breakdown of passive layer denoted by fall in Ecorr values in the noise trend, but definite repassivation tendency is exhibited very well in case of Electropolished samples. Also, in Electropolished samples at least 60 % of the observations follow a certain noise trend where as mechanically buffed and nitric acid passivated surfaces show more inconsistency in the trends observed suggesting more local variation in the properties of the surface .It seems from the results that cold working given is helping in the formation of good passive layer. While EP, accelerated dissolution in stressed condition and resultant effective enrichment in chromium in passive film may answer this behavior. 4 Discussions so far and its relevance to biocompatibility Elsewhere, Ellipsometry data10 showed that Electropolished samples possess thinner (when compared to other samples) but reliable chromia than that of formed by the nitric acid passivation treatment only where the probability of chromia being impure is more. Any layer to be protective enough needs no More over thicker layer grows stresses within and looses integrity after a certain thickness. Hence thin, reliable oxide layers are preferred when corrosion protection is considered. A certain degree of cold rolling is definitely assisting in the formation of stronger chromia ( may not be thicker).Conventionally; cold rolled material being stressful should exhibit the worse corrosion properties .However, it is not surprising that these surfaces in Electropolished condition showed better corrosion resistance .In fact more the stresses present higher shall be the rate of attack while EP and hence more and more iron goes into solution enriching chromium level in the surface. This enriched chromium
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+extra thickness but it has to be compact, and well adherent to the substrate.
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 makes chromia more effective which can repassivate efficiently after a corrosive attack. The decreased corrosion resistance of the material due to stressed condition is counter balanced by chromium enrichment of the surface. This fact brings out the importance of EP where cold working is inevitable to attain the required strength in stainless steel wires and pins used as orthopedic implants.
+
+This fact is confirmed in electrochemical noise studies where highest ranks in terms of corrosion resistance and integrity of the surface is grabbed by 10% cold worked and Electropolished sample and second ranker is 40% cold worked and Electropolished samples. The worst behavior is shown by 20% cold worked and buffed ­ passivated sample Polarization in Hank's solution shows lowest value of Ecorr for solution annealed and electropolished sample but the extent of passivity available makes the surface more reliable. Similarly the Epit value for solution annealed and buffed ­passivated surface ranked highest compared to the other surfaces .But at the same time, the extent of passivity available is lesser than that of Electropolished sample. It is well known that to increase the corrosion resistance of 316L SS, it is vacuum remelted to minimize the sulphur content. Sulphur is detrimental for pitting corrosion resistance. Such a process makes material more costly. Potentiodynamic polarization studies of various surface treated samples in simulated body fluid i.e. Hank's solution show the comparable performance of stainless steel 316L in solution annealed and Electropolished sample with 316LVM stainless steel .The benefits of 316LVM stainless steel are well noted but its corrosion resistance performance can be further improved by EP as well. 5Conclusion Overall grit blasted-and elecrtopolished surfaces proved to have better surface properties, more reliable passive, protective layer than mechanically buffed and nitric acid passivated surfaces. This conclusion is also supported by the observations discussed in the other parallel9 10; work else where.
+
+Acknowledgement 316L material', Sushrut Surgicals; Mumbai. Mr. Ajay Pitre.
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 `EP bath'; CMP India Limited, Mr. Tushar Patkar; Chemitall-Rai India Limited, Mr. Himanshu Joshi.
+
+`Initial sample preparations' Velmore Home Décor Limited, Thane, Mr. H.N.Shah.. Mr. Laxman, Mrs,Leena `Xray photoelectron spectroscopy', Fraunhofer Institute for Lasertechnik Aachen, Germany, Herbert Horn-Zolle
+
+`localised Microcell studies', Welding lab, Department of Met.Engg. and Mat. Sci. IITB, Mumbai, Rashmi Dalvi References 1 Lawrence Durney, "Graham's electroplating engineering handbook",pp101, fourth edition 2 Arnold, J .W., Bialey,G.W, "Surface finishes on stainless steel reduce bacterial attachment and early biofilm formation :scanning electron and atomic force microscopy study", Poultry science,Vol. 79, Issue 12, December 2000, 1839-1845 3 N.P. Fedot'ev, "EP , anodizing , and electrolytic pickling of metals", Robert Draper Limited, Teddington 4 S. Morris, J. P. Sousa, et al, "Effects of AlSi 316L corrosion products in invitro bone formation", Biomaterials, 19, 999-1007, 1998. 5 H. Hocheng, P.S. Kao, Y.F. Chen, "EP of316L SS for anticorrosion passivation", Journ al of material engineering and performance, Vol 10(4), 418, Aug-2001 6. Arnold, J .W., Bialey,G.W, "Surface finishes on stainless steel reduce bacterial attachment and early biofilm formation :scanning electron and atomic force microscopy study", Poultry science,Vol. 79, Issue 12, December 2000, 1839-1845 7 T.Hong, T.Ogushi, M. Nagumo, "The effect of chromium enrichment in the film formed by surface treatments on the corrosion resistance of type 430 stainless steel", corrosion science, vol 38, no 6, 881-888, 1996
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 30 10 April 2007 8 X.Y. Wang , Y.S. Wu, L. Zhangand Z.Y.Yu, "Atomic force microscopy and x ray photoelectron spectroscopy study o the passive film for type316L SS", Corrosion, vol 57, no 6, 540-546, june 2001 9 Shuo-Jen Lee, Jian-Jang Lai; "The effects of EP (EP) process parameters on corrosion resistance of316L SS"; Journal of Materials Processing Technology 140 (2003) 206­210
+
+10 Dalvi Vrishali, "Mechanical / Electrochemical Characterization Of Surfaces Dissertation, Metallurgical CORROSION Engineering SCIENCE and AND NGINEERING (IDP), Dept
+
+Of Electro Polished316L SS For Orthopedic Implant Applications", A of of Materials Science,Indian Institute
+
+Technology, Bombay, pp 34, Jan 2003 11 ASTM designation F 86-00,"standard practice for surface preparation and marking of metallic surgical implants" 12 J.H.Scofield, " Hartree-Slater subshel photoionisation cross sections at 1254 qnd 1487 ev", J.electron spectroscopy related. Phenomenon. 8 (1976) 129 13Cuneyt T, "Synthesis of Biomimetic Ca-Hydroxyapatite Powders at 37o C in Synthetic Body Fluids", Biomaterials, Vol 21, pp 1429-38, (2000). 14 R Raman, Dept. of Met. Engg and Mat Sci., IITBombay, "Origin and analysis communication
+
+of
+
+electrochemical
+
+noise
+
+in
+
+localised
+
+corrosion
+
+process",
+
+Personal
+
+15 Akos Horvath *, Robert Schiller; "Rescaled range analysis of the corrosion potential noise"; Corrosion Science 45 (2003) 597­609
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

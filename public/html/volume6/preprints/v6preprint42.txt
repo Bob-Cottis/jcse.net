@@ -1,0 +1,106 @@
+Volume 6 Paper C100
+
+FAILURE OF SUPER HEATER OF BOILER TUBES
+
+BY
+
+DR. SHAHID TUFAIL SHEIKH PSO
+
+MINERALS AND METALLURGY RESEARCH CENTRE PCSIR LABORATORIES LAHORE-54600 PAKISTAN
+
+ABSTRACT: Boiler tubes of super heater failed very early when put into service, three samples of these along with the sample of tube working with out any problems as reference standard were evaluated for their Microstructure, Chemical analysis, Elemental distribution using Electron Probe Micro Analyzer and Corrosion resistance in a Combined Cyclic Corrosion tester in order to establish the cause of early failure. The oxygen content, film or scale forming properties, residual stresses built into a part being the main causes of boiler tubes corrosion. The composition of both the failed tubes and the one working contains chromium and molybdenum in the right amount and are used in the same conditions, the early failure of the tubes, was attributed due to the poor processing during manufacturing, the formation of blow holes and segregation of the carbides at the boundary, also the localized heating increases the residual stresses already incorporated in the tubes during metal working, these stresses crosses the limit of deformation tolerable causing the formation of inter crystalline cracks leading to the bursting of the tubes. ````````
+
+INTRODUCTION: Corrosion in hot water systems particularly in boiler tubes is mostly due to the dissolved oxygen (1), it may be uniform corrosion, pitting, inter granular cracking. Water being a uniform solvent can dissolve all the materials present in the earth crust, in presence of carbon dioxide the solubility of the water increases (2). The poor quality water, high pressure and elevated temperature may also causes premature failures. It is thus important that steel used in boiler tubes construction must be creep
+
+and oxidation resistant at high temperature. The primary cause of the inter granular attack is the presence of an inhomogeneous condition at the grain boundary. This may be due to the segregation mechanism or of the inter granular precipitation. Metal working techniques involves plastic deformation includes rolling, swagging, explosive forming, and others. Because metalworking involves residual stresses being built into a part, altering the microstructure and there is a limit to the amount of Plastic deformation tolerable. Residual stresses can also be built into a worked piece, stresses particularly tensile are detrimental to the work pieces and these stresses increases with the amount of deformation and also lack of uniform working through the thickness of a part. Residual stresses are deleterious because they increase the effect of load on a component by adding to the applied load. Stress corrosion also prolongs the loading. Applied stress due to over heating can cause cracking, low melting point inclusion can also cause failure at high temperature by melting. Applied stresses may cause cracking either of inclusion or at the inclusion-matrix interface. Gas holes and porosity formed during welding process also propagates cracking.
+
+EXPERIMENTAL WORK:
+
+CHEMICAL ANALYSIS: Four samples of the super heater boiler tubes, including one good quality provided were analyzed to determine their chemical composition. The results are as follows:
+
+Original Failed tube
+
+Failed
+
+Failed
+
+tube No.1 tube No.2 tube No.3
+
+Carbon Manganese Silicon Chromium Molybdenum
+
+0.07% 0.53% 0.24% 1.00% 0.25%
+
+0.09% 0.53% 0.22% 0.99% 0.25%
+
+0.11% 0.52% 0.28% 1.00% 0.24%
+
+0.11% 0.53% 0.29%
+
+1.04%
+
+0.24%
+
+2
+
+MICROSCOPIC EXAMINATION: The microscopic examination reveals that tube of Japanese origin have pearlitic-ferritic structure with very little or no inclusions and segregation at the boundaries. Tubes of local origin contains inclusions along with the porosity in them, corrosion pits were also present and chromium carbide segregating at the boundaries.
+
+ELECTRON PROBE MICROANALYSER STUDY:
+
+Structural Mapping At High Magnification: Mapping of the four tubes were carried out at 25.0 KV AND 1.08 Ampere current. It shows the presence of heavy elements such as chromium, molybdenum at the grain boundaries in the case of tube 2 and 3. Also the presence of sulphur is indicated along with the manganese around the pores. Distribution of heavy elements is more or less uniform in the sample of original tube.
+
+SPOT ANALYSIS: Spot analysis were carried out non the four samples reveals the presence of sulphur and manganese around the pores particularly in the samples of the tubes N0. 2 and 3. The sample of the original tube have lesser amount of the sulphur in it.
+
+SEM STUDY: The scanning electron microscope (SEM) reveals that porosity is prominent in the samples of the fractured tube, heavy elements carbides are segregating at the grain boundaries and the presence of non metallic inclusions in the fractured tube sample.
+
+X-RAY MEASUREMENTS: X-ray measurements were carried out at the accelerating voltage of 25-30 Kv volts. The studies also confirms the presence of sulphide inclusions, in the samples of the fractured tube particularly at the place where fracture has occurred and pores are present.
+
+3
+
+CYCLIC CORROSION TESTING: The corrosion accelerated salt spray test of four tubes was carried out for 120 hours at 35°C and 70% relative humidity, using 5% sodium chloride solutions acidified with acetic acid to a pH of 5.5. The number of corrosion spots on the fractured tubes 1-3 is significantly more than the number of spots on the surface of the original tube.
+
+DISCUSSION: Corrosion in most cases is caused by ordinary natural water, the amount of dissolved oxygen is the controlling factor. In closed water system the oxygen concentration is limited and practically determines the corrosion rate. Also, the variation in the content of dissolved oxygen is the most active cause of pitting on the surface of the corroding metal. In the absence of oxygen, all kinds of corrosion are reduced to a negligible rate in most natural water. Hot water systems when kept full of water and protected from undue contact with the air practically shows no corrosion, because the oxygen present originally is exhausted after a short time. On the other hand, hot water system, using the same water as in the closed water systems failed in few years. Raw water is heated and added to the system as the heated water is drawn out, and as result a fresh supply of oxygen is continually brought in. The rapid corrosion in such cases is indicated by the decrease in dissolved oxygen as the water flows through the system. Corrosion in steam, power plant is more active in the hot feed water line, or where the water happens to impinge on the metal of the boiler. Corrosion in such cases is caused by the comparatively large amounts of dissolved oxygen present in these parts of the system and elevated temperature. Corrosion boilers is the resultant of two groups of contending forces. The first is the tendency of the metal to go into solutions, the initial corrosion thus initiated is thus maintained by the depolarization effect of free oxygen and evolution of hydrogen determined by the pH. Corrosion in steam boilers and accessories occurs mainly in the following forms by uniform attack, intergranular attack, pitting; and erosion combined with corrosion or cavitation effects in feed water pumps and heaters. The solubility of all the materials constituting the earth crust is increased in the presence of carbon dioxide or alkalies in water. Consequently natural waters are impure. Many of these are entirely unfit for boiler use without pretreatment. Use of poor quality water in high pressure boiler leads to high corrosion rates, sometime accompanied by embrittlement or cracking of the metal. Operating under such conditions may result in tube failures (due to overheating or pitting)
+
+Steam boiler in operation is fairly efficient degassifier and may liberate into steam practically all the dissolved gases in the feed water, particularly when evaporation is progressing at a normal rate and the fed water is introduced above the water line. The 4
+
+feed water should of course, always be in the low neutral or alkaline zone. When the boiler are banked or used intermittently, or at a low rate of evaporation, the oxygen should be keep as low as practicable. Dissolved oxygen is probably the greatest accelerator of corrosive action in boilers and accessories. Differences in oxygen concentration due to irregular sludge deposits, etc. account for much of the pitting in the water space of boiler system.
+
+Carbon dioxide causes serious corrosion to turbines, condensers, pipes. This occurs only where condensation of the steam takes place. Carbon dioxide dissolves in water forming carbonic acid, thus lowering pH influences the corrosion in boiler, mainly by its effects on carbonates scales. Higher alkalinity is required to inhibit corrosion with the higher concentrations of dissolved oxygen or soluble salt. But boiler operating at very high pressure, the accelerating affect of temperature is so great that usually of high pH (10.0-11.0) and zero oxygen is desirable. The concentration of water increases with the increase in the concentration of soluble salts present if sufficient free oxygen is also available, conditions become more favourable to localized corrosion. This variation in concentration may give use to concentration cell and localized corrosion, thus to ensure uncontaminated steam, it is desirable to maintain relatively low and fairly uniform concentration of soluble salts in the boiler water. Sulphuric acid may be generated in the boiler where the water has been previously treated with coagulants; especially alum unless sufficient alkali is added to form stable sulphates.
+
+Cracking in steam boiler steel generally includes one or the other of two types of stress corrosion. All such fatigue failures result mainly in trans crystalline cracks. Another type of stress corrosion cracking is caused by the combined action of stress close tot he elastic limits in bleaching systems in which caustic boiler water has been highly concentrated. The grain boundaries of steel are chemically weak and failure due to high stress and concentrated caustics solution is predominantly inter crystalline.
+
+Inter crystalline cracking occurs due to the four simultaneous conditions:
+
+a) The boiler water must contain substances particularly hydroxides capable of producing intergranular damage when concentrated in contact with steel stress.
+
+b) There must be a joint or seam into through which leakage of this boiler water may occur slowly.
+
+5
+
+c)
+
+The boiler water must concentrated with the joint or seam.
+
+d) The steam must be over stressed locally where it is exposed to chemical concentration. Such conditions may develop in seams in riveted drums and in rolled tube seats and result in embrittlement of the steel and ultimate failure by cracking.
+
+Steel used for boiler construction must have greater resistance to creep and oxidation at temperature above 240°C.The solution of boiler water corrosion problem lies in the removal of the causes of corrosion by adequate feed water conditioning since low alloy steels posses very little advantage over plain carbon steels of good grade in their resistance to aqueous corrosion. Low alloy steel containing chromium, molybdenum eliminate the graphitization tendency in steam piping at elevated temperature. Cracking occurs because of over heating. Any low melting point constituents at segregated areas that are resent may melt at the temperature used to preheat the metal for working, causing a weakness known as hot shortness. This can happen in steel with a high sulphur content. Another potential for cracking exists in those metals where the working causes precipitation which can result in increased yield strength and reduced ductility. High temperature also causes the growth of grains which result in weakening of the metal.
+
+Gas holes and porosity are caused by the evolution of solidifying metal and entrapment of the gas in solidifying metal. This gas may result form various resources, a decrease in solubility upon cooling form the liquid state, reaction of metallic oxide with C to form Co and Co2 and the reaction of liquid metal with H2O in green sand mole.
+
+CONCLUSIONS: The increase service life of the original tube as compared to the locally purchased tube is due to the following:
+
+1. Segregation of the heavy elements carbides in the fractured tubes, as compared to the original tube. Inclusions and porosity is more significant in the fractured tube 23 whereas it is considerably less than the original tube.
+
+6
+
+2. Rapid material removal is more pronounced in the fractured tubes 1,2 and the early failure is due to the development of porosity and inclusion which weakens the metallic bond, thus when they are subjected to high pressure to steam at elevated temperature, cracks developed at these weak point eventually leading to their bursting.
+
+REFERENCES:
+
+1.
+
+Walker, W. H., Anna M. Cederholm, and L. N. Bent, The corrosion of Iron and Steel, J. Am. Chem. Soc., 28, 1251-1264, 1907; 473-474, 1908. mechanical
+
+2. Hatfield, W. H., Corrosion as affecting the metal used in the arts, Engineer, 134, 639-643, 1922.
+
+7
+

@@ -1,0 +1,365 @@
+Volume 6 Paper H016
+
+Evaluation of the Critical Oxide Thickness to Initiate Spallation from a LPPS CoNiCrAlY Coating
+S. Gray, M. P. Taylor, E. Chau and H. E. Evans
+
+Department of Metallurgy and Materials, The University of Birmingham, Edgbaston, Birmingham B15 2TT, UK, S.Gray@bham.ac.uk and M.P.Taylor@bham.ac.uk and H.E.Evans@bham.ac.uk
+
+Abstract
+The critical oxide thickness required to initiate spallation from an LPPS CoNiCrAlY overlay coating during cooling from 1100°C to room temperature has been determined metallographically and has been favourably with a finite element model developed for a compatible alloy system in which delamination and spallation are assumed to be due to the mechanism of wedge cracking at the TGO coating interface. Keywords: LPPS, Overlay coatings, MCrAlY, TGO, critical oxide thickness, spallation. found to lie within the range 2.5 to 3.2 µm. This finding compares
+
+1. Introduction
+combination of both) are regularly used in high-temperature plant to Metallic overlay coatings of the MCrAlY type (where M is Ni, Co or a
+
+provide resistance to oxidation and high-temperature corrosion through the formation of a protective surface layer of alumina. Such coatings are also frequently used as a bond coat in thermal barrier coating systems. For both applications, the endurance of the coating system depends on the maintenance of the protective alumina layer.
+
+To enable this, a high resistance to spallation is required and also a sufficient reservoir of aluminium within the coating so that re-healing of the alumina layer is possible should spallation occur. Experimental studies on a variety of alloy systems ranging from
+
+chromia-forming austenitic steels [1,2], alumina-forming ferritic steels [3,4] to alumina-forming nickel-based alloys [5] have shown that spallation, initiated during cooling, requires a critical temperature drop for a given oxide thickness. This critical condition can be understood from the premise that oxide spallation will result when the strain decohesion. that [1]:   F Tc =   2  E ( m -  ox ) (1 -  ) 
+1 2
+
+energy within the oxide layer equates to that required to produce Assuming that the strain energy derives solely from differential thermal contraction strains during cooling, it can be shown
+
+(1)
+
+Here, E and  are, respectively, the Young's modulus and Poisson's ratio of the oxide, m and ox are, respectively, the coefficients of the critical temperature drop for spallation and F is the effective fracture energy for interfacial fracture. Finite element analyses [6,7] have shown that this simple "strain energy" criterion can be used to predict spallation arising from the growth of a wedge crack along the oxide/metal interface. An important requirement, though, is that creep relaxation in the alloy, at the crack tip, produces a period of zero crack growth during the early stages of cooling and that final growth, in the vicinity of the effective fracture energy, F , can acquire high values, typically 10-100 J.m-2, depending on the level of strain energy dissipated by local substrate alloy creep. These concepts and the model of spallation will be compared, in this paper, with the behaviour of a CoNiCrAlY overlay coating. Attention 2 temperature drop, Tc , occurs rapidly [5]. Under these conditions, the thermal expansion of alloy and oxide,  is the oxide thickness, Tc is
+
+will be paid to the morphology of the spall zones as a guide to the nature of the spallation process. NiCrAlY coating alloy. The experimental results will be compared with earlier [8] finite element calculations for a similar
+
+2. Experimental
+Specimens supplied by Chromalloy UK and Alstom Power Ltd. in the form of 10mm diameter bars of 150 mm length, which had been recessed at 10mm intervals along the length and subsequently coated, Figure 1. All corners had been chamfered prior to coating to avoid stress concentration at the edges. The coating used was AMDRY 995 powder deposited by Low Pressure Plasma Spraying (LPPS) to a thickness of 100 µm. Compositional details of the substrate and coating are given in Tables 1 and 2, respectively. Once coated, the specimens were of the directionally-solidified alloy CM186-LC were
+
+polished to produce an essentially flat outer surface. The bars were partitioned for oxidation testing, producing cylinders of 10 mm length, all exposed substrate surfaces were masked with an aluminabased paint prior to testing.
+
+Figure 1.
+
+dimensions and the mid-line along which sectioning of the specimens was performed after testing.
+
+Schematic representation of the as-received specimen bar showing
+
+3
+
+Table 1 Nominal chemical composition of CM186-LC
+Element Max. Min. Max. Min. C 0.08 0.06 0.40 0.03 Cr 6.30 5.70 7.40 6.70 Co 9.50 9.00 9.80 9.30 W 9.00 8.00 3.00 2.70 Ta 3.60 3.20 1.20 1.10 Hf 1.60 1.20 0.60 0.40 Al 0.90 0.50 1.20 0.60 Re 5.90 5.50 13.3 12.4 Zr 3.10 2.80 1.00 0.90 B 0.01 0.00 0.00 0.00 Mo 0.02 0.01 0.10 0.10 Ni 0.70 0.30 0.40 0.20 Fe Bal. Bal. Bal. Bal.
+
+Wt %
+
+At %
+
+Table 2 Nominal chemical composition of Amdry 995
+Element Wt % Cr 21 Co Bal. Al 8 Ni 32 Yt 0.5
+
+The specimens were subjected to isothermal oxidation in laboratory air at 1100°C for varying times up to 335 hours. After oxidation, specimens were removed from the furnace at temperature and cooled naturally in laboratory air to room temperature and left for a few hours. The cooling rate varied throughout this transient from an The specimens In order to estimated average value over the first 100oC of approximately 104 oC/h to appreciably lower values at lower temperatures. were visually inspected for signs of gross spallation.
+
+maintain the integrity of the remaining oxide, each specimen was gold sputtered and nickel plated in a Watts bath. The specimens were the sectioned transversely at the mid-length using a slow-speed diamond cutting wheel and mounted in cold setting resin. These were ground on progressively finer SiC paper from 120 to 1200 grit and polished progressively down to a ¼ µm diamond finish. Ultrasonic cleaning was performed and finally sputtering with gold to eliminate charge build up on analysis in the SEM. The specimens were first examined using an optical microscope to identify the approximate fraction of spallation that had occurred. Subsequently a JEOL 6300 Scanning Electron Microscope, SEM, was used to measure the oxide layer thickness distribution around the 4
+
+specimen circumference and to determine the composition of the oxide using Energy Dispersive Spectroscopy, EDS.
+
+3. Results
+3.1 Specimen microstructure The microstructural detail of the as-received specimen can be seen in Figure 2. The SEM images reveal the duplex structure of the aluminium Al-rich  phase (NiAl) and the  phase (Ni3Al) present in the asreceived condition and also the presence of the ­chromium phase. After time at temperature, a thermally grown oxide (TGO) layer developed at the outer surface of the overlay coating, Figure 3, with a reduction in the amount of  phase present in the coating in the proximity of the surface. A few diffusionally isolated regions of the overlay coating were identified in these specimens and discussed elsewhere [10]. In these regions, internal oxidation produces diffusion barriers resulting in premature chemical failure of sections of coating. For this present study, however, regions of the coating that have experienced this diffusion cell behaviour have been avoided. alumina. EDS analysis confirms that in all cases the TGO included in this study was
+
+Ni plate CoNiCrAlY coating
+
+
+
+ '
+Substrate
+
+(a)
+Figure 2.
+
+(b)
+SEM images of sections through the as-received specimens, (a) higher
+
+magnification showing the phases present and limited internal oxidation and (b) lower magnification showing the complete coating system.
+
+5
+
+Ni plate TGO Coating Ni plate TGO Coating
+
+(a)
+
+(b)
+
+Figure 3. SEM images of sections through a specimen held at 1100°C for 1hr showing
+
+TGO formation on the outer surface and a reduction in amount of the darker NiAl phase in the outer level of the coating associated with aluminium depletion at (a) x800 and (b) x3500 magnification.
+
+3.2 Oxide Growth Kinetics TGO thickness measurements were made at randomly distributed sites around the circumference of the oxidised specimens. Figure 4. Histograms showing the frequency of distribution for 4 and 20hrs are given in
+
+70 60 50
+
+16 14 12
+
+Frequency
+
+Frequency
+
+40 30 20 10 0 0.25 0.50 0.75 1.00 1.25 1.50 1.75 2.00 2.25 2.50 2.75 3.00
+
+10 8 6 4 2 0 0.250.500.751.001.251.501.752.002.252.502.753.003.25
+
+TGO Thickness/µm
+
+TGO Thickness/µm
+
+(a)
+
+(b)
+
+Figure 4. Histograms showing the distribution of TGO thickness in specimens held at 1100°C for (a) 4hrs and (b) 20hrs.
+
+6
+
+It is clear from Figure 4 that the distribution of oxide thicknesses is unimodal and, nominally, Gaussian. The mean TGO thickness and standard deviation taken from the specimens oxidised up to and spallation of the TGO occurred on cooling to room temperature in
+
+including 20hrs are presented in Figure 5(a). Significant amounts of specimens oxidised for longer times but the thickness of the residual TGO on these specimens was not included here. In Figure 5 (b) the demonstrate a power law dependence (equation 2): Xn=kp.t (2) oxide thickness data are plotted logarithmically against time and
+
+where x is the TGO thickness, t is time at temperature and kp is the rate constant. From Figure 5(b) the value for n was found to be 2.5. These kinetics are plotted on linear axes in Figure 6 to show that the data extrapolate convincingly to zero time and, so, indicate that there has been a negligibly short period of non-protective transient oxidation. The rate constant Kp obtained from this figure is 1. 28x1019
+
+m2.5s-1.
+
+3.0 2.5
+
+5.0
+
+TGO Thickness / µm
+
+1.5 1.0 0.5 0.0 0 5 10 15 20 25
+
+log time (s)
+
+2.0
+
+4.5
+
+4.0
+
+3.5
+
+3.0 -0.2
+
+-0.1
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+Time / hr
+
+log TGO thickness
+
+(a)
+
+(b)
+
+Figure 5. (a) Mean TGO thickness for specimens oxidised up to and including 20hr factor of 2.5 applies to this data.
+
+at 1100°C and (b) the log time vs log thickness plot demonstrating an exponential
+
+7
+
+TGO Thickness^2.5 / µm^2.5
+
+10 8 6 4 2 0 0 5 10 15 20 25
+
+Time / hr
+Figure 6. Plot of the TGO thickness to the power of 2.5 against time. The slope of this graph produces a value for the growth rate of 1.28x10-19 m2.5s-1.
+
+3.3 Spallation Microscopical examination of cross sections of each of the specimens was used to estimate the linear fraction of the specimen cross section that had exhibited oxide spallation. These fractions, expressed as a percentage are plotted in Figure 7 as a function of the exposure time and can be used to identify the minimum exposure required to initiate spall. The criteria for spallation here was the total loss of TGO from the overlay coating. It can be seen that significant spallation occurred in all specimens oxidised for times greater than 50h and that the quantity increased with time at temperature and thus TGO thickness. Significantly, for shorter times there was no detectable spallation, as determined temperature. From Figure 7, it can be seen that this critical oxide thickness is developed during an exposure of between 20 and 50hrs at temperature. for 20hrs and 50hr was made. No evidence of spallation was found in the 20hrs specimen, but at 50hrs, spalled regions of the order of 20µm were found, Figure 8. It should also be noted from this figure that there were no extensive regions of decohesion or void formation under 8 A detailed SEM examination of the specimen oxidised metallographically, indicating that a critical oxide thickness was required to initiate spallation during cooling to room
+
+the oxide adjacent to these spall zones and that the oxide/metal interface was sensibly planar
+80
+Percentage Cross Sectional Spallation
+
+60
+
+40
+
+20
+
+0 0 100 200
+Time at Temperature/hr
+
+300
+
+400
+
+Figure 7. Plot of the percentage of spallation as a function of time at temperature.
+
+Ni plate TGO
+
+Coating
+
+Ni plate TGO
+
+Coating
+
+Spalled
+
+Spalled
+
+60 µm
+
+60 µm
+
+Figure 8. Two SEM images of sections through the LPPS CoNiCrAlY coating held at 1100°C for 50hr showing spallation sites. Note that the adherent oxide at the spall site tends to have an inclined fracture surface and that there are no obvious defects planar.
+
+at the interface of this oxide with the underlying coating which remains sensibly
+
+9
+
+A more direct estimate of determining the spall initiation condition can be obtained from Figure 9 which plots the percentage of spallation as a function of the measured TGO thickness. This method uses all the oxide thickness data and includes residual TGO thickness, i.e. where spallation over some of the specimen surface will have occurred. It is not possible to obtain a single, unambiguous value of the average to 3.2 µm seems reasonable. From the oxidation kinetics, equation (2), this corresponds to exposure times of 22 and 40 hours respectively, and is consistent with the estimate mad from figure 7.
+Percentage Cross Sectional Spallation
+80
+
+critical oxide thickness from this figure but a value in the range 2.5µm
+
+60
+
+40
+
+20
+
+0 0 1 2 3 4 5 6
+
+Mean TGO Thickness/µm
+
+Figure 9. Plot of the percentage of spallation as a function of mean TGO thickness.
+
+4 Discussion
+As can be appreciated from Figure 8, isolated regions of spallation occur and these tend to be dispersed randomly across the specimen surface with no obvious preference for edge locations. The examples shown in Figure 8 represent the morphology after cooling from 50 hours exposure, i.e. shortly after spall initiation. oxide thickness is approximately 3 µm (see preceding Section) and the spall zone has an apparent diameter, 2r, of around 20 µm. This gives 10 In this case, the
+
+a value of approximately 3 for the ratio r/ and this has profound implications for the nature of the spallation process. In particular, it can readily be shown that buckling of the oxide layer as a route to spallation is not feasible. Thus, using Timoshenko's [10] solution for a biaxially stressed (in compression) clamped plate and assuming that the only source of stress derives from differential thermal strains during cooling, it can be shown [6] that the critical temperature drop, Tb, to produce buckling is:
+
+Tb =
+
+( m
+
+  2 -  ox ) (1 -  )  R  1.22
+
+2
+
+(3)
+
+where the various terms have already been defined. Inserting typical (m-ox)=9x10-6 K-1 gives a value for Tb of approximately 13000K. Clearly, this is far too large for buckling to be a feasible route to oxide spallation but it should be emphasised that the calculation also assumes that a large 20-µm zone of decohesion exists at the oxide/metal interface prior to cooling.
+
+values into this equation of =0.27, =3.0x10-6 m, R=10x-6 m and
+
+voidage, at a spatial resolution of around 1 µm, was detected at the oxide/metal interface. Such a small zone of decohesion implies that only very thin oxide could develop a buckle configuration during cooling as shown by the left-hand curve of the spallation map of
+
+In actuality, no significant
+
+Figure 10 [8]. This line has been calculated using equation (3) with a tests only for oxides < 0.1 µm thick. The critical oxide thickness for spallation deduced from the present
+
+value of 1 µm for R and shows that buckling could occur in the present
+
+work lies in the range 2.5 to 3.2 µm but these are means and, as Nevertheless, the low tail of this distribution at 20 hours exposure, i.e. near the spall initiation condition, still provides oxide thickness values far larger, at 2 µm, than those required to initiate buckling. It is emphasised that this is the case for specimens measured after exposures at which spallation had not occurred so that the full distribution of oxide thicknesses was available for measurement. 11 It shown in Figure 4, a distribution of values of oxide thickness exists.
+
+can be concluded, therefore, that the spallation found in the present tests is not caused by buckling of particularly thin regions of the oxide layer.
+
+Figure 10.
+
+constant rates shown [8]. The superimposed line is for the present CoNiCrAlY alloy naturally cooled from 1100°C.
+
+A spallation map for the Ni16CrAlY system cooled from 1100°C at the
+
+The cross sections of the spall zones shown in Figure 8 also show that the fracture surface of the adjacent, adherent oxide tends to be inclined at roughly 45o to the plane of the oxide/metal interface. This is the geometry expected [1,6] when spallation results from the growth of a wedge crack along the oxide/metal interface, as shown schematically in Figure 11. Here, the inclined surfaces are the planes over which shear cracking has occurred early in the cooling transient. Subsequent sliding during further cooling then results in the development of out-of-plane tensile stresses across the oxide/metal interface and the growth of a wedge crack [6]. It should be noted that the sliding displacements required to develop the wedge crack are, typically, very small [6], of order an elastic deflection, and can be accommodated even though the inclined surface may not be microscopically flat.
+
+12
+
+Shear Cracks
+
+TGO
+
+TGO
+
+Wedge cracking
+
+Coating
+
+Coating
+
+Figure 11. (a) Schematic representation of the formation of wedge cracks at the base of shear cracks within the TGO due to thermal contraction differences between the TGO and the coating. (b) Joining of wedge cracks leading to spallation.
+
+As outlined in the Introduction, finite element predictions [7,8] show that the wedging process can be described by equation (1) provided that coating creep is accounted for. Energy dissipation by creep then results in effective fracture energies larger than required to propagate an elastic crack. These will increase as the extent of creep relaxation increases, for example, as cooling rate reduces. This has been shown [9] for a free-standing CoNiCrAlY coating, similar to the current, during cooling from 11000oC where F was found to be 22 J.m-2 at a cooling rate of 104 oC/h but to increase to 40 J.m-2 for the slower cooling rate of 102 oC/h. The corresponding predictions of critical temperature drop to initiate spallation, Equation (1), are shown as the two right-hand curves in Figure 10. It can be appreciated that unlike the buckling route, oxide spallation by wedging becomes energetically easier with thicker oxide layers. For the case shown in figure 10, however, there is a separation of the buckling and wedging lines so that, at these intermediate oxide thicknesses, the oxide layer remains adherent and mechanically stable during cooling from 1100oC. The fact that the buckling and wedging lines do not intersect on this map means that any buckle formed, e.g. with thin oxides, will not propagate laterally [6]. The faster cooling rate of the two used in constructing the wedging lines shown in Figure 10 is a reasonable approximation to the experimental cooling rate experienced in the present tests during the 13
+
+early stages of cooling.
+
+representative of that occurring at intermediate temperatures during the transient. Even so, although not modelling accurately the variation in actual cooling rates through the transient, these previously computed lines will still offer guidance on the value of the critical oxide thickness required to initiate spallation. The range of values
+
+The lower of the two (102 oC/h) is more
+
+(2.5 to 3.2 µm) deduced experimentally are shown as two points on Figure 10 corresponding to a temperature drop of 1080oC. The position of these within the region where wedge cracking is predicted and close to the border of the stable oxide region is in broad found in this study. agreement with the model and consistent with the spall morphology
+
+5 Conclusions A study has been made of the oxidation and spallation behaviour of a LPPS CoNiCrAlY overlay coating on a Ni-based CM186-LC superalloy after oxidation in air at 1100oC. It is found that the growth of the protective alumina layer is sub-parabolic, characterised by a time exponent of 0.4. Oxide spallation occurred during cooling to room temperature after an exposure time of between 20 and 40 hours, SEM examination showed that the spall sites were, typically, around 20
+
+corresponding to a critical oxide thickness in the range 2.5 to 3.2 µm. µm in diameter and tended to show inclined fracture surfaces. It was demonstrated that a buckling route to spallation could not operate and that an oxide wedging process led to the observed spallation. observed values of the critical oxide thickness to initiate spallation were in broad agreement with earlier finite-element analyses on a free-standing CoNiCrAlY coating alloy. The
+
+6 Acknowledgements The authors would like to thank Mr. Mick Whitehurst and Mr. Mike Henderson of ALSTOM Power (Ltd) and Mr. Rodney Wing of Chromalloy United Kingdom Ltd. for the provision of specimens and their encouragement during the course of this work. The Engineering and 14
+
+Physical Sciences Research Council fund the project under grant GR/R47653/01.
+
+7 References 1 `Conditions for the initiation of oxide scale cracking and pp. 209-222 2
+
+spallation', H.E. Evans and R.C. Lobb, Corros. Sci., 24, (1984),
+
+`Experimental Data on the Spallation of Protective Oxide H.E. Evans, Mater. High Temp., 12, (1994), pp. 169-175.
+
+Scales: A Brief Literature Survey', J. Jedliski, M.J. Bennett and
+
+3
+
+`Life-time extension of alumina forming FeCrAl-RE alloys: Nicholls, Mater. High Temp., 17, (2000), pp. 125-132.
+
+influence of alloy thickness', J. Wilber, M.J. Bennett and J.R.
+
+4
+
+Hukelmann, P.A. Beaven and G. Borchhardt, in `Cyclic W.J. Quadakkers, IOM Communications, (1999), pp. 17-37. 5 `High
+
+alumina scales on the ODS alloy MA 956', V. Guttmann, F.
+
+`The influence of surface pre-treatment on the integrity of
+
+oxidation of high temperature materials' Eds. M. Schtze and
+
+Materials Science Forum, Vols 251-254, (1997), pp. 22-40. 6
+
+temperature oxidation of single-crystal Ni-base superalloys', K. Bouhanek, D. Oquab and B. Pieraggi,
+
+`A numerical-analysis of oxide spallation', H.E. Evans, G.P (1993), pp. 1-22
+
+Mitchell, R.C. Lobb and D.R.J. Owen, Proc. R. Soc., A440,
+
+7
+
+`The critical strain energy criterion for oxide spallation ­ Aspects of High Temperature Corrosion", Eds. D.A. Shores, Pennington, N.J., (1996), pp. 1-15.
+
+revisited', H.E. Evans and A. Strawbridge, in `Fundamental
+
+R.A. Rapp and P.Y. Hou, The Electrochemical Society,
+
+15
+
+8
+
+`Creep effects on the spallation of an alumina layer from an
+
+NiCrAlY coating', H.E.Evans, A. Strawbridge, R.A. Carolan and C.B. Ponton, Mater. Sci. Eng., A225 (1997) 1-8.
+`Formation of diffusion cells in LPPS MCrAlY coatings', H.E. Evans and M.P. Taylor, in press.
+
+9
+
+10
+
+S. Timoshenko, `Theory of Elastic Stability', McGRaw-Hill, New York, (1936), p. 136-177
+
+16
+

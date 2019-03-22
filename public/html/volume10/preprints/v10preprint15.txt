@@ -1,0 +1,429 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+Polyaniline Related Ion-Barrier Anticorrosion Coatings (II) Protection Behavior of Polyaniline, Cationic, and Bipolar Paints
+Jianguo Wang, Charlie C. Torardi, Michael W. Duch
+
+DuPont Company, Experimental Station, Wilmington, DE 19880-0262 Jianguo.Wang@usa.dupont.com
+
+Abstract
+A polyaniline (PAn) containing coating layer leads to substrate corrosion in an environment of aggressive anions. A cationic coating results in delamination or blistering. Bipolar coating consisting of a PAn primer and a cationic topcoat inhibits both corrosion and delamination.
+
+Key words: Polyaniline, anticorrosion, ion-barrier coating, anionic coating, cationic coating.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+1.
+
+Introduction
+The most effective corrosion inhibitors in organic coatings have been
+
+hexavalent chromium compounds. The chromate-pigmented anticorrosion coatings are used in aircraft, automotive, construction and marine industries. However, the chromate pigments are known to be human carcinogens and are considered to be environmentally unacceptable. The EU community released the "End of Life Vehicles Directive" which bans the use of chromium (VI)-containing coatings in the automotive industry from July 1st 2007 (1). In the US, hexavalent chromium-containing coatings are under increased scrutiny by both the Environmental Protection Agency (EPA) and the Occupational Safety and Health Administration (OSHA). There is an urgent need for non-toxic alternatives, and intensive research to find such substitutes is underway worldwide.
+
+As a promising replacement to the toxic anticorrosion pigments, conducting polymers have received considerable attention over the past
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+two decades. Many investigations have shown that coatings containing conducting polymers, such as polyaniline (PAn) and polypyrrole (PPy), protect ferrous and non-ferrous metals from corrosion. Tallman et al.
+
+(2-3), Zarrer et al. (4) have published recent general reviews on the
+anticorrosion behavior of conducting polymers. To explain the protection effect of conducting polymers, most of the research has focused on the electronic and electrochemical properties of conducting polymers, although no one model brings together all the different kinds of data that sometimes appear to be conflicting (2-4). To prolong the lifetime and optimize the material compositions, further understanding of the anticorrosion mechanism of conducting polymers is needed. Based on electrochemical experiments, we (5) suggested that PAn coatings act as anionic membranes and that bipolar coatings, the combinations of a PAn primer with a cationic topcoat, are good ionbarrier coatings. Recently, we demonstrated that PAn primer allows anions diffuse through, and a bipolar coating is a barrier to both cations
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+and anions (6). The present report shows that the protective behavior of these coatings depends critically on their ion-barrier properties.
+
+2.
+
+Experimental
+
+2.1. Coatings and Immersion Tests. Three types of coatings were applied onto cold-rolled steel (CRS) coupons (7 cm x 10 cm x 0.08 cm) : (a) PAn coatings: a conducting form of PAn dispersed in a polymer matrix (Ormecon Chemie, Germany); Four layers, ~ 0.5 g of the PAn primer per each layer, were applied on the coupons with the total thickness of ~ 80 µm. (b) Cationic coatings: cation exchange resin C-249 (Sybron Chemicals Inc.) mixed with epoxy resin and hardener (6); four layers, ~ 0.5 g of the cationic material per each layer, were applied on the coupons with the total thickness of ~ 140 µm. (c) Bipolar coatings: the PAn primer with the cationic coating as the topcoat; to approximate paint thickness, two layers of the primer and two layers of the cationic topcoat were applied with the total thickness ~ 120 µm. The cation-exchange pigment Sheldex® (W. R. Grace & Co.) was also used to make cationic and bipolar coatings. In addition to the three types
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+of coatings, reverse PAn bipolar coatings that use the cationic material as the primer and the PAn material as the topcoat were also made for immersion tests. Multi-layer coatings of the same material were used to eliminate possible pinholes.
+
+For the immersion tests, a glass cell open at the bottom was set on the surface of a coated coupon. The cell and coupon was clamped together and sealed with an "O" ring. The cell was filled with 3.5 wt % NaCl solution, and the exposed surface area of coatings was ~ 28 cm2.
+
+2. 2. Electrochemical Impedance Spectroscopy (EIS) and Corrosion Potential Measurements Electrochemical measurements were conducted during the immersion tests. The set-up of EIS experiments is described in (5). The EIS data were presented as Nyquist plots. The first semicircle's diameter of the Nyquist plots is estimated as pore resistance (Rpo), which is the resistance for ionic transport through a coating layer (7). Corrosion potentials (Ecor) were recorded at the start point of the EIS experiments.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+The values of potential in this report are versus a saturated calomel electrode (SCE).
+
+3. Results
+3.1 Immersion Tests Blisters are seen on the surface of the PAn coating after the immersion tests (Fig. 1a, 2a). Schauer and co-workers (8), and Tallman et al. (9) reported similar observations with this PAn primer coating. Consistent with these observations, Wessling (10) recognized that a polyaniline-containing primer alone was not sufficient as a practical viable coating system.
+
+When the immersion tests were completed, half of the immersed coatings were mechanically removed from the substrates (Fig.1). Two distinct areas on the substrate under the PAn coating were observed: some areas were covered by rust, and other areas without rust but white in color (Fig. 1a). ESCA measurements revealed that the atom ratio of Cl/Na is > 1 on the rusty surface and is < 1 on the white surface (6).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+These data indicate that the coating above the rusty area was preferentially permeable to chloride ions during the immersion, and the coating above the white areas was preferentially permeable to sodium ions. It was shown that the polymer matrix combined with the PAn is responsible for cationic permeability, and PAn results in the anionic permeability of a coating layer (6). Therefore, we will refer to the areas that is preferentially permeable to anions when discuss the protection behavior of PAn in a coating.
+
+Two pieces of PAn coated coupons were immersed in 3.5% NaCl solution for a week. With one coupon, corrosion was prevented by bubbling nitrogen through the solution during the immersion. The coating retained the green color of ES (emeralding salt, the conductive form of PAn) (Fig. 3a) after the immersion. Air was bubbled in the solution during the immersion of other coupon, and the color of the coating changed from green to blue (Fig 3b), which is the color of EB
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+(emeralding base, the non-conducting form of PAn). Schauer and coworkers (8) also reported this color change.
+
+The cationic coating was totally delaminated from the substrate as shown by inserting a coin between the coating and the substrate surface (Fig. 1b). The bipolar coatings provided good protection: neither blistering, nor delamination was observed with these coatings (Fig. 1c, 2c).
+
+The behavior of the reverse bipolar coating was very different from that of the bipolar one. For the reverse bipolar coating, the cationic primer delaminated from the substrate after the immersion, as shown by inserting a coin (Fig. 1d). The PAn topcoat delaminated with the primer and stuck to the "O" ring when the cell was taken apart after the test. A piece of the topcoat was put back onto the primer to show that the PAn maintained the original (green) color (Fig. 1d).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+Fig. 1 Appearance of coated CRS coupons after immersion in 3.5 wt. % sodium chloride solution (a) PAn coating, immersion for 80 days, (b) Cationic coating, immersion for 90 days, (c) Bipolar coating, and (d) Reverse bipolar coating immersion for six months. The circular areas
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+were exposed to the solution during the immersion. To show the appearance of substrates, a part of each coating in the circular area was removed after the immersion test.
+
+Fig. 2 Appearance of coated CRS coupons after immersion in 3.5 wt.% sodium chloride solution for 150 days: (a) PAn coating, (b) cationic coating, and (c) bipolar coating. The cation exchanger used for the cationic and the bipolar coatings was cation-exchange pigment Sheldex® (W. R. Grace & Co.). After the immersion, the cationic coating
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+delaminated from the substrate and stuck to the "O" ring when the cell was taken apart after the test. A piece of the delaminated coating (white in color) was put back on the substrate in the photograph (b).
+
+Fig. 3 Appearance of PAn primer coated CRS coupons after immersion in 3.5 wt. % sodium chloride solutions for 7 days (a) The immersion solution was bubbling N2 (b) The immersion solution was bubbling air.
+
+3.2 Corrosion Potential (Ecor) and Pore Resistance (Rpo) The corrosion potentials (Ecor) during the immersion are shown in Fig. 4. The Ecor of the coupon coated with the PAn primer dramatically
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+dropped to ~ - 400 mV in the first week, then slowly decreased. Schauer and co-workers (8) also reported that this PAn primer resulted in a rapid potential decreasing in sodium chloride solution. The Ecor values of reverse bipolar coating are close to that of the cationic coating: the Ecor declined during the first couple of days, and moved in the more positive direction, reaching ~ + 200mV in ~ 20 days of immersion. The relations between movement of the corrosion potential (Fig. 4) and the protection behaviors of the coatings (Fig. 1) are consistent with Leidheiser's summary (11). Active potentials, i.e., movement of Ecor in the more negative direction, indicate rusting beneath the coating, while increasingly positive Ecor with time suggests that delamination is of concern. With the bipolar coating, neither corrosion beneath the coating nor delamination is observed. Accordingly, the Ecor remained at ~ +100 mV during the immersion.
+
+The pore resistance (Rpo) values vs. immersion time are showing in Fig. 5. The Rpo values of PAn primer are lower than 106 Ohm cm2 after
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+one month of immersion. Rpo values of the reverse bipolar and the bipolar coatings are all higher than 108 Ohm cm2 during the immersion showing that they are all good ion barriers. However, performances of these two coatings during the immersion tests are very different: the bipolar coating provided good protection, but the reverse bipolar coating was totally delaminated (Fig.1c vs. Fig. 1d).
+
+Fig. 4 Corrosion potential (Ecor) of painted CRS coupons vs. immersion time. P: Pan coating, C: cationic coating, B: bipolar coating. RB: reverse bipolar coating. Cation-exchange resin C-249 was used for making the
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+cationic layers. Coupons were immersed in 3.5 wt.% sodium chloride solution.
+
+Fig. 5 Pore resistance (Rpo) of painted CRS coupons vs. immersion time. P: Pan coating, B: bipolar coating. RB: reverse bipolar coating.
+
+4. Discussion
+It is well established that the corrosion of steel in the presence of air and water consists of two electrode reactions:
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+The two reactions take place on the metal surface but are separated spatially. In order to inhibit corrosion, it is necessary to stop either the anodic or the cathodic reaction. The effects of PAn primer, cationic topcoat, and the bipolar coatings on the two electrode corrosion reactions will be discussed.
+
+4.1 PAn Coating Because PAn coatings are impermeable to cations (6), the coatings impede the diffusion of the substrate metal ions into the bulk solution and, therefore, slow down the anodic dissolution (Eq. 1). This is supported by the report that PAn coatings provide anodic protection in an environment free of aggressive anions (12).
+
+Aggressive anions, such as chloride ions, on a metal surface accelerate the anodic dissolution of the metal (13). Aggressive anions in the environment can transport through a PAn coating (6), thereby promoting corrosion of undercoat substrate (Fig. 1a).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+However, the migration of chloride ions can be stopped to a certain extent by the EB form of PAn. EB is not an anion exchanger according to the commonly referenced EB formula (2, 4). But, ion-exchange experiments have clearly demonstrated that EB is actually an anion exchanger with hydroxyl counterions (14). This result was further supported by electrospray ionization mass spectrometry data (15). Chloride ions exchange with the hydroxyl ions of EB and become trapped
+
+(14). This results in EB being superior to ES in terms of corrosion
+protection for steel (16-20) and aluminum (21) in sodium chloride solutions. Among several different PAn primers with the same topcoat, those containing EB primer performs best (22). This is probably due to EB trapping the chloride ions that leak through the topcoat.
+
+The color of the PAn coating immersed under nitrogen remains green (Fig. 3a), and the color of the one immersed under air changed (Fig. 3b) indicating that the color change is related to corrosion. It is believed that cathodically produced hydroxyl ions (Eq. 2) diffused into the
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+PAn coating, and de-doped the ES (green) to EB (blue) (2-4). The dedoping reaction makes ES perform better than EB in terms of delamination and the released anions by the de-doping reaction also impact corrosion protection (see 4.3 the protection effect of PAn bipolar
+
+coatings).
+The protection behavior of a PAn coating is schematically summarized in Fig 6a. The chloride ions migrate from the bulk solution into the coating-metal interface (6), and the cathodic hydroxyl ions move in the reverse direction leaving the interface (3b). The figure illustrates that the counterions on either membrane side migrate to the other side. This is the interdiffusion of counterions. When a potential gradient exists, the interdiffusion also can occur, and there will be ions on one side of the membrane migrating against the gradient (23). However, the net charge flux agrees with the potential gradient (23). The interdifusion effect also explains the movements of sodium and ferrous ions in reverse directions in the case of a cationic coating (Fig. 6b).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+(a)
+
+(b)
+
+(c)
+
+Fig. 6 Protection schemes for coated steel coupons immersed in sodium chloride solution: (a) PAn coating; (b) Cationic coating; and (c) Bipolar coating.
+
+4.2 Cationic Coating and Reverse Bipolar Coating Delamination is one of the most common forms of failure in organic coatings. It only occurs when alkali metal ions from the environment get into the coating-metal interface and act as counterions to the cathodically generated OH- (Eq. 2) (24).
+
+Many researchers studied cathodic degradation by making an artificial defect that penetrated the polymer coating to the bare metal. The artificial defects are suggested to be the starting point of cathodic
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+degradation (25). However, Souto and Scantlebury (26) showed that the cathodic degradation is independent of the artificial defects. Fig. 1b, 1d, and 2b show that even without artificial defects in the coating layers, delamination still occurred when a cationic coating was coated on the metal surface.
+
+Fig. 6b schematically suggests the protection mechanism of a cationic coating. Since the cationic layer is permeable to cations and impedes the transport of anions (6), alkali metal ions can diffuse from the bulk solution into the cationic layer-metal interface and the anodic dissolved ferrous ions can diffuse from the interface to the bulk solution. Meanwhile, chloride ions can not enter the cationic layer-metal interface from the bulk solution, and the cathodically generated OH- ions can not leave the interface. Therefore, there are sodium, ferrous, and cathodically generated hydroxyl ions in the cationic layer-metal interface. When the pH at the interface reaches to a certain value, a Fe2O3 layer will
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+form on the substrate surface (see 4.4 Passivation), and the delamination occurs at higher sodium hydroxide concentration in the interface.
+
+Blistering is also one of the most common forms of failure in organic coatings. Fig. 1a and the ESCA data (6) suggest that local cationic areas of the coating cause blistering during the immersion test.
+
+For the reverse bipolar coating, a cationic layer on the metal surface keeps the cathodic hydroxyl ions (Eq. 2) in the coating - metal interface and delamination occurs when alkali ions get into the interface. The alkali ions probably come through the "cationic defect" of the PAn coating
+
+(6). Because the cathodic hydroxyl ions were kept inside the cathodic
+primer - metal interface, they can not penetrate through the cationic layer, and thereby, can not de-dope the PAn contained in the topcoat from ES (green) to EB (blue) (Fig. 1d).
+
+4.3 PAn Bipolar Coatings It was demonstrated that PAn bipolar coating is a barrier for both anions and cations (6). The cationic topcoat prevents aggressive anions
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+from the environment diffusing to the metal surface. Thereby, the aggressive-anions accelerated anodic dissolution is inhibited. It has been suggested that a topcoat should have sufficient "sealing properties" which are not offered by the PAn coating itself, but only by the topcoat; however, the nature of the "sealing properties" was not identified (10). As discussed here, the topcoat should provide a seal against anions, to which a PAn coating, as discussed earlier, is permeable.
+
+Under a cationic topcoat, a PAn primer provides anodic protection (see 4.1 PAn Coatings) and delays delamination. Due to the anionic membrane nature of the PAn coating, sodium ions cannot diffuse into the coating-metal interface and cathodic hydroxyl ions can diffuse out of the interface. Therefore, the delamination is delayed. Fig 6c schematically suggests the protection mechanism of a PAn bipolar coating. The figure indicates a high pH condition between the topcoat and the primer that was observed by Schauer et al (8). Some blisters showed up on the
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+bipolar coatings when an immersion test lasted longer than one year. This is probably due to the PAn primer having some "cationic defects" (6).
+
+With an ES primer, the cathodic hydroxyls will be consumed on dedoping ES to EB. Because of this buffer effect, ES contained primer is expected to be more resistant to delamination compared to EB. Dedoping reaction also releases dopant anions (2), therefore, ES acts as an "anion reservoir" (27). If the released anions are aggressive, such as chloride ions, corrosion will be accelerated (3, 28). Coatings perform better when the anions are effective corrosion inhibitors such as phosphonate ion (29). Because the cathodically produced hydroxyl ions, the corrosion products, cause the releasing of the inhibitive anion, ES coatings are suggested to be "smart" coatings (27, 30). Li, Tan and Lee (31) suggested a synergism between a PAn coating and a topcoat but the origin of the synergism was not clear. The present work shows that the synergism is between an anionic and a cationic membrane.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+4.4 Passivation The formation of a protective oxide (Fe2O3) layer on the metal surface under PAn coatings is known as the passivation effect of PAn (3). With passivation, a coating will tolerate pinholes and minor scratches. Iron is corroded in both acidic (pH < ~2) and alkali (pH > 12.5) water, whereas the passivation may occur in the pH range of ~ 9.4 to 12.5 (32). Because chloride ions can break down a protective oxide layer (13), the reported passivation conditions with PAn coatings were either free of chloride ions (in a high humidity chamber) (33-34), or the EB form of PAn was used (35-36). EB traps the aggressive anions and releases hydroxyl ions (14), which help passivation. The cationic coatings keep high pH at the coating-metal interface (Fig. 6b); therefore, the substrates were passivated during the immersion tests (6). Due to the "buffer effect", the ES contained PAn bipolar coating keeps low pH at the interface. However, the high potential with the bipolar coating (Fig. 4) may lead to passivation because at low pH (between 3 and 9) passivation is possible at higher potential (32). The Fe 2p2/3 binding energy of 712.4 eV on the substrate
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+beneath the bipolar coating (6) is higher than that for iron oxides and hydroxides indicating that iron under the bipolar coating may exist as a mixture of iron oxide and Fe-PAn complex (36). Some researchers demonstrated polyaniline-iron interactions (8, 37-39). However, bipolar coatings without polyaniline also show good corrosion protection (40-42) suggesting that the polyaniline-iron interaction should not be essential for corrosion protection.
+
+5. Conclusions
+1. PAn coatings alone lead to undercoating corrosion in an environment of aggressive anions.
+
+2. Cationic coatings alone result in cathodic degradation.
+
+3. PAn bipolar coatings that consist of a PAn primer and a cationic topcoat prevent undercoating corrosion and delay delamination.
+
+References
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+[1] Commission Decision of 27 June 2002, Official Journal of the
+
+European Communities L 170/81. (2002).
+
+[2] D. Tallman, G. Sparks, A. Dominis, G. Wallace, J. Solid State
+
+Electrochem. 6 (2002) 73.
+[3] G. Sparks, A. Dominis, G. Wallace, D. Tallman, J. Solid State
+
+Electrochem. 6 (2002) 85.
+[4] P. Zarras et al., Radiation Physics and Chemistry, 68 (2003) 387. [5] J. Wang, Synthetic Metals, 132 (2002) 53. [6]. J. Wang, C. Torardi, M. Duch, submitted to JCSE for Preprint publication [7] G. W. Walter, Corrosion Science, 26 (1986) 681. [8] T. Schauer, A. Joos, L. Dulog, C. D. Eisenbach, Progress in Organic
+
+Coatings, 33 (1998) 20.
+[9] D. E. Tallman, Y. Pae, G. P. Bierwagen, Corrosion, 55 (1999) 779.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+[10] B. Wessling, (http://www2.umist.ac.uk/corrosion/JCSE/volume1/paper15/v1p15. html). [11] H. Leidheiser, Jr, Progress in Organic Coatings, 7 (1979) 79. [12] V. Brusic, M. Angelopoulos, T. Graham, ANTEC, (1995) 1397. [13] R. A. Dickle, A. G. Smith, CHEMITECH, January (1980) 31. [14] J. Wang, Synthetic Metals, 132 (2002) 49. [15] A. R. Dolan, T. D. Wood, Synthetic Metals, 143 (2004) 243. [16] Y. Wei, J. Wang, X. Jia, J. Yeh, and P. Spellane, Polymer 36 (1995) 4536. [17] A. Talo, O. Forsen, and S. Ylasaari, Synthetic Metals, 102 (1999) 1394 [18] A. Mirmohseni, and A. Oladegaragoze, Synthetic Metals, 114 (2000) 105.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+[19] G. M. Spinks, A. J. Dominis, and G. G. Wallace, Corrosion January (2003) 22 [20] A. Fenelon, and C. Breslin, Surface & Coating Technology 190 (2005) 264 [21] N. A. Ogurtsov, A. A. Pud, P. Kamarchik, G. S. Shapoval, Synthetic
+
+Metals, 143 (2004) 43.
+[22] A. J. Dominis, G. M. Spinks, G. G. Wallace, Progress in Organic
+
+Coatings, 48 (2003) 43.
+[23] Friedrich Helfferich, Ion Exchange, McGraw-Hill Book Company (1962) pp357, 408-409.
+
+[24] D. Greenfield, D. Scantlebury, (http://www2.umist.ac.uk/corrosion/JCSE/volume3/Paper5/v3p5.html) [25] A. Leng, H. Streckle, M. Stratmann, Corrosion Science, 41 (1999) 547.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+[26] R. Souto and D. Scantlebury, Progress in Organic coatings, 53 (2005) 63.
+
+[27] J. E. Pereira da Silva, S. I. Cordoba de Torresi, and R. M. Torresi,
+
+Corrosion Science 47 (2005) 811
+[28] S. Jasty, and A. J. Epstein, Polymer Material Science and Engineering 72 (1995) 565. [29] P. J. Kilen, Y. Ding, D. C. Silverman, Corrosion, 58 (2002) 490. [30] M. Kendig, M. Hon, and L. Warren, Progress in Organic Coatings, 47 (2003) 183. [31] P. Li, T. C. Tan, J. Y. Lee, Synthetic Metals, 88 (1997) 237. [32] M. Pourbaix, Atlas of Electrochemical Equilibria in Aqueous Solutions, Pergamon Press Ltd., London (1966) Sec. 12.1 [33] J. Posdorfer, B. Wessling, Polym. Prepr., 41 (2000) 1735.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+[34] M. Fahlman, H. Guan, J. A. O. Smallfield, A. J. Epstein, ANTEC, (1998) 1238. [35] A. A. Pud, et al., Synthetic Metals, 107 (1999) 111. [36] W. Siegl, J. Shyyu, R. Dikie, M. Chattha. Polym. Mater. Sci. Eng. 62 (1990) 926. [37] M. Fahlman, S. Jasty, A. J. Epstein, Synthetic Metals, 85 (1997) 1323. [38]. P. J. Kinlen, D. S. Silverman, and C. R. Jeffreys, Synthetic Metals, 85 (1997) 1327. [39] M. C. Beard, and P. Spellane, Chem Mater 9 (1997) 1949.
+
+[40] B. B. Chernov, M. A. Korzhavina, G. I. Shcherbinina, Yu. N. Mikhailovskii, Protection of Metals, 18 (1982) 196. [41] E. V. Zobov, Z. V. Mishina, Protection of Metals, 19 (1984) 380. [42] Z. Wang, F. Su, Z. Gu, Y. Zhang, S. Zhou, J. Chin. Soc. Corr. Pro., 17 (1997) 93.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 15
+
+10 November 2006
+
+Acknowledgement
+We thank M. C. Plummer for ESCA experiments, L. Hanna for photographs, Sue Wang for graphic and text editing, and S. Rostovtsev for helpful discussions
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

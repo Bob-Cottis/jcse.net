@@ -1,0 +1,293 @@
+Volume 6 paper H015 ___________________________________________________________ The Nature and Composition of Thermal Oxides on InAlP
+M. J. Graham, S. Moisa, G. I. Sproule, X. Wu, J. W. Fraser, P. J. Barrios, A. J. SpringThorpe and D. Landheer Institute for Microstructural Sciences, National Research Council of Canada, Ottawa, Canada K1A 0R6
+
+Abstract
+Producing insulating layers on III-V semiconductors is crucial for a number of important device applications. Al-containing oxides on AlGaAs and InAlAs have been found to possess good insulating characteristics. Oxides on InAlP have recently been shown to be even more promising. This paper presents data on the thermal oxidation at 500 ºC in moist nitrogen (95 ºC) of MBE-grown InAlP layers (In0.525 Al0.475 P, In0.494 Al0.506P and In0.485 Al0.515P) lattice matched to GaAs. The oxides (20 nm ­ 300 nm thick) have been characterized by Auger electron spectroscopy (AES), X-ray photoelectron spectroscopy (XPS), Rutherford backscattering spectroscopy (RBS), scanning electron microscopy (SEM), and transmission electron microscopy (TEM). Oxides are amorphous and appear to be a mixture of indium phosphates and aluminum oxide. The oxidation kinetics are parabolic. Electrical measurements performed on metal-insulator-semiconductor (MIS) structures indicate that the oxides have good electrical properties. A brief oxidation in oxygen at 500 ºC following oxidation in moist nitrogen oxidizes residual indium particles present at the oxide/substrate interface reducing the current density by two orders of magnitude to 1.7×10-10 Acm-2 and increasing the oxide breakdown field to 5.1 MVcm-1, making the oxide films potentially useful for some device applications. Keywords: III-V semiconductors, InAlP, thermal oxidation, surface-analytical techniques.
+
+Introduction
+Producing chemically and electrically stable surfaces on III-V semiconductors is crucial for a number of important device applications. Passivation layers can be produced by deposition of silicon nitride or oxide or created by a variety of oxidation processes including thermal oxidation. Thermal oxidation data for AlGaAs and InAlAs in GaAs- and InP-based heterostructure devices have been reported [1-7], and the Al-containing oxides have often been found to possess good insulating characteristics. Recently, Al-containing thermal oxides on InAlP have been shown to be even more promising [8-10]. This paper presents data on the thermal oxidation of InAlP at 500 ºC in moist nitrogen
+
+(95 ºC). The composition and nature of the oxide have been determined by Auger electron spectroscopy (AES), X-ray photoelectron spectroscopy (XPS), Rutherford backscattering spectroscopy (RBS), transmission electron microscopy (TEM) and scanning electron microscopy (SEM). Current-voltage (IV) measurements on Algated capacitors are reported.
+
+Experimental
+InAlP layers, approximately lattice matched to GaAs, were grown by molecular beam epitaxy (MBE). Two different structures were utilized, as shown in Fig.1. For oxidation experiments,
+
+50nm n-GaAs cap 1.175µm n-In0.525AlP and n-In0.494AlP [Si (1×1018/cm3)] 60nm In0.485AlP
+
+1µm n-GaAs [Si (1×1017/cm3)]
+
+50nm n-GaAs buffer [Si (1×1018/cm3)] 50nm n-GaAs buffer 3" Si-doped GaAs a [Si (1×1017/cm3)] 3" Si-doped GaAs
+
+b Fig1 - MBE-grown layers of InAlP two ~ 1µm thick InAlP layers (In0.525Al0.475P and In0.494Al0.506P) were used [Fig. 1(a)]. For electrical measurements of oxides a 60nm-thick layer of undoped In0.485Al0.515P was grown on a doped GaAs layer [Fig. 1(b)]. The GaAs cap layer was removed by treatment for 30 sec in 1 HCl : 5 H2O solution followed by 2 min in 3 citric acid : 1 H2O2 before complete oxidation of the InAlP layer and subsequent electrical measurements. Oxidations were performed in a Lindberg/Blue furnace at 500 ºC in moist nitrogen (N2 bubbled through H2O at 95 ºC with gas transfer through heated tubes to the oxidation furnace).
+
+2
+
+After oxidation samples were analyzed by AES (PHI 650 system); XPS (PHI 5500 with a monochromated AlK source; TEM (Philips EM 430T) operating at 250 keV; SEM (Hitachi S-4700 FESEM). Metal-insulator-semiconductor (MIS) structures were formed by evaporating Al dots (area 5×10-4 cm2) through a shadow mask followed by annealing in forming gas for 5 min at 450 °C. IV measurements were performed on these capacitors using a probe station with a HP 5140B pA meter / DC voltage source.
+
+Results and discussion Oxide growth and oxide composition
+Oxidations were performed at 500 ºC in moist nitrogen for periods of time ranging from 6 minutes to 4 hours. As seen in Fig. 2, the oxidation kinetics are parabolic (after a brief incubation period), and the ~1µm thick InAlP layer with the higher Al content oxidizes slightly faster. Oxides ranging in thickness from ~ 20 nm to ~ 300 nm have been characterized by Auger, XPS, and TEM.
+
+400
+
+100
+
+Oxide Thickness (nm)
+
+300
+
+200
+
+40
+100
+
+20
+
+0 0 50 100 150 200 250
+
+0
+
+Time (min)
+
+Fig. 2 - Oxide thickness and (oxide thickess)2 vs. time, for In0.525Al0.475P (,) and In0.494Al0.506P (,) oxidized at 500 ºC in moist nitrogen. Oxide thickness determined by TEM or SEM measurements of cross-sections. Parabolic kinetics are observed after a brief incubation period.
+
+3
+
+2
+
+60
+
+(Oxide Thickness) (nm) x10
+
+80
+
+2
+
+-3
+
+TEM micrographs of the oxide formed after 1 hour on In0.494Al0.506P are shown in Fig. 3.
+
+Oxide
+
+InAlP
+
+GaAs
+
+a
+
+0.3µm
+
+Oxide
+
+b
+
+InAlP
+
+0.1µm
+
+Fig. 3 - TEM micrographs of ~ 154 nm-thick oxide formed on In0.494Al0.506P after 1h at 500 ºC in moist nitrogen. Cross-section prepared by ion milling. The lower magnification image [Fig. 3(a)] illustrates a uniformly-thick oxide on InAlP on GaAs. The higher magnification image [Fig. 3(b)] shows the uniform oxide and the presence of particles near the oxide / InAlP interface which have been
+
+4
+
+attributed to unoxidized indium [9,10]. The bulk of the oxide is amorphous as deduced for both electron diffraction and X-ray diffraction measurements. An Auger profile of the oxide of Fig. 3 is shown in Fig. 4. The Auger sensitivity factors for P, Al and In in the oxide are found to be quite different from those in the substrate.
+
+100
+
+Atomic Concentration (%)
+
+80 60 40 20 0
+Al
+
+O
+
+P In
+
+0
+
+10
+
+20
+
+30
+
+Sputter Time (min)
+
+Fig. 4 - Auger electron spectroscopy (AES) profile of ~ 154 nm-thick oxide formed on In0.494Al0.506P after 1h at 500 ºC in moist nitrogen (TEM micrographs of the oxide shown in Fig. 3). Auger sensitivity factors in the oxide are based on RBS analysis of the oxide composition; the profiles have been truncated just after the oxide / InAlP interface. Sputtering was by 1 keV argon ions. Therefore, the sensitivity factors in the oxide have been based on the oxide composition as determined by RBS. RBS analysis of oxides formed after 6, 18 and 36 minutes (whose Auger profiles have similar characteristics to those in Fig. 4), gives an In:P:Al:O ratio of 0.08:0.17:0.08:0.67. The In, P and Al ratios in the oxide are the same as in the substrate and the oxygen is ~ 67 %. Therefore, as seen in Fig. 4, P is the major component in the oxide, the Al level is fairly constant and In appears to be depleted in the outer part of the oxide and increases at the interface. This increase in 5
+
+In at the substrate interface is better seen in the Auger profile in Fig. 5 obtained by Physical Electronics on a PHI 680 system.
+
+x 105 3
+
+P
+2.5
+
+O
+
+Intensity (counts)
+
+2
+
+In
+1.5
+
+In
+1
+
+C
+0.5
+
+Al
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+Sputter Depth (nm) Fig. 5 - Auger electron spectroscopy (AES) profile of the same oxide as in Fig. 4, obtained by Physical Electronics on a PHI 680 system. Sputtering was by 2 keV argon ions, with Zalar rotation. Low beam current and Zalar rotation were used and the sputter rate was slowed down close to the interface. An indication of the chemical composition of the oxide can be obtained from XPS measurements of the oxide formed after 6 minutes of oxidation. This oxide, as seen in the high-resolution TEM micrograph of Fig. 6, is quite uniform in thickness (~ 26
+
+6
+
+nm), and the darker regions (<10 nm diameter) which appear to be crystalline are likely, as noted above, to be small particles of unoxidized indium.
+
+Oxide
+
+InAlP
+
+Fig. 6 - TEM micrograph of ~ 26 nm-thick oxide formed on In0.494Al0.506P after 6 min at 500 ºC in moist nitrogen. Cross-section prepared by ion milling. Oxygen 1s, P 2p and In 3d XPS data are shown in Fig. 7. Curve fitting was carried out using the binding energies of Hollinger et al. [11,12], Faur et al. [13], and an In2O3 standard for the various relevant species. Curve-fitting of the O 1s signal [Fig. 7 (a)] suggests the possible presence of several species. These include small components of the oxide species In2O3 and P2O5 and the phosphate and polyphosphate species InPO4, In(PO3)3 and In(POy)x [14]. The peak positions for P2O5 and In(POy)x are practically coincidental and thus it is questionable whether both species are present in the layer. Similarly, the peaks for InPO4 and In(PO3)3 coincide, and thus only one of these
+
+7
+
+species may be present in the layer. The yield corresponding to the latter two species is significantly greater than the yields from In2O3, P2O5 and In(POy)x indicating that one, or both of these species dominate. Curve-fitting for the P 2p signal [Fig. 7(b)] is consistent with the data for the O ls peak. Thus, peaks are included for both InPO4 and In(PO3)3, and one of, or both P2O5 and In(POy)x, since the individual peaks for the two species occur at similar energies. The relative yields again indicate the dominance of In(PO3)3 and InPO4 over other phosphorus-containing species. The curve-fitting of the In 3d peaks [Fig. 7(c)] supports the presence of one of, or both, InPO4 and In(PO3)3 species, which cannot be separated. These species are the main indium-containing constituents of the layer. The contribution from In2O3 and In(POy)x is small. Examination of the Al 2p XPS peak (not shown) confirms the presence of Al2O3 (and not AlPO4) in the oxide. The main components of the oxide formed on InAlP from XPS and Auger data are therefore In(PO3)3, InPO4 and Al2O3. Only small amounts of In2O3 and P2O5 are present.
+
+a
+
+O 1s
+
+InPO4 or In(PO3)3
+
+P2O5 or In(POy)x
+
+In2O3
+
+535
+
+534
+
+533
+
+532
+
+531
+
+530
+
+529
+
+b
+Intensity (arb. units)
+
+P 2p
+In(PO3)3 InPO4
+
+P2O5 or In(POy)x
+
+137
+
+136
+
+135
+
+134
+
+133
+
+132
+
+c
+InPO4 or In(PO3)3
+
+In 3d
+
+In(POy)x
+
+8
+
+In2O3
+
+Fig. 7 - Curve-fitted X-ray photoelectron spectra (XPS) of ~ 26 nm-thick oxide formed on In0.494Al0.506P after 6 min at 500 ºC in moist nitrogen. (a) O ls; (b) P 2p; (c) In 3d. (TEM micrograph of the oxide shown in Fig. 6).
+
+Electrical measurements
+IV measurements for a ~ 48 nm-thick oxide film formed on In0.494Al0.506P after 12 minutes of oxidation at 500 ºC in moist nitrogen indicate a breakdown voltage of 14.2 V, corresponding to a breakdown field of 3.0 MVcm-1 [15]. In an attempt to produce better insulating oxide, the In0.485Al0.515P layer [Fig. 1(b)] was oxidized completely in moist nitrogen (95 ºC). This took 66 minutes at 500 ºC. The current density as a function of gate voltage for the oxidized capacitor is shown in Fig. 8 (upper curve).
+
+10
+
+-7
+
+Current Density (A/cm )
+
+moist N2
+
+2
+
+10
+
+-9
+
+moist N2 + dry O2
+
+10
+
+-11
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Gate Potential (V)
+
+9
+
+Fig. 8 - Plot of current density vs gate potential for Al-gated capacitors made with oxidized In0.485Al0.515P films. The oxide film is ~80 nm-thick. Upper curve after oxidation at 500 ºC in moist nitrogen (95 ºC) for 66 min. Lower curve after subsequent oxidation at 500 ºC for 1 h in dry oxygen. TEM examination of the oxide shows the presence of unoxidized indium particles at the substrate interface similar to that shown in Fig. 3(b). Subsequent oxidation for 1h at 500 ºC in dry oxygen oxidizes these particles which are not present in the TEM micrograph shown in Fig. 9.
+
+Oxide
+
+GaAs
+0.1µm
+
+Fig. 9 - TEM micrograph of ~80 nm-thick oxide formed by complete oxidation at 500 ºC of the In0.485Al0.515P layer [Fig. 1(b)] in moist nitrogen (95 ºC) for 66 minutes followed by oxidation for 1 h in dry oxygen. (Electrical measurements of the oxide shown by the lower curve in Fig. 8). Confirmation of the oxidation of the particles is provided by In 3d XPS spectra of the O2-treated oxide near the substrate interface (not shown), which indicates a much larger In2O3 peak than that in Fig. 7 (c). Oxidation of the In particles leads to improved electrical properties as shown by the lower curve in Fig. 8. The current density at a field of 1 MVcm-1 (8.6 V gate potential) is 1.7×10-10Acm-2, approximately two orders of magnitude lower after the final treatment in dry oxygen. The breakdown voltage is increased to 44 V, corresponding to a breakdown field of 5.1 MVcm-1. Thus the films should be useful as insulators in some device applications. Since the leakage current was small, the quasi-static capacitance could be obtained. Using a ramp voltage of 0.1 Vs-1 scanned from ­ve to +ve potentials, the accumulation capacitance was measured, enabling a dielectric constant of 7±1 to be extracted. For the n-type
+
+10
+
+substrates, injection of the electrons is from the substrate and this suggests that elimination of the In particles near the interface may well be responsible for the current reduction. However, the possibility that the final oxygen annealing improved the bulk property of the films cannot be ruled out without further investigation.
+
+Concluding remarks
+Thermal oxidation of InAlP layers (In0.525Al0.475P, In0.494Al0.506P and In0.485Al0.515P) at 500 ºC in moist nitrogen produces amorphous, insulating oxide which is a mixture of indium phosphates and aluminum oxide. The oxidation kinetics are parabolic, and the InAlP layer with the higher Al content oxidizes slightly faster. Electrical measurements on oxidized capacitors indicate that the oxides have low leakage currents and high breakdown fields, making them potentially useful for some device applications.
+
+Acknowledgement
+The authors thank Drs. I.V. Mitchell and W. Lennard of the University of Western Ontario for the RBS analysis, and Dr. K. D. Childs and D. F. Paul of Physical Electronics for the AES profile on the PHI 680 system.
+
+References
+[1] [2] [3] [4] [5] [6] [7] [8] [9] F. A. Kish, S. J. Caracci, N. Holonyak, Jr., K. C. Hsieh, J. E. Baker, S. A. Maranowski, A. R. Sugg, J. M. Dallesasse, R. M. Fletcher, C. P. Huo, T. D. Osentowski and M. G. Crawford, J. Electron. Mat. 21, 1133 (1992). U. K. Mishra, P. Parikh, P. Chavarkar, J. Yen, J. Champlain, B. Thibeault, H. Reese, S. S. Shi, E. Hu, L. Zhu and J. Speck, IEDM'97, 21.1.1. S. J. Caracci, M. R. Kramas, N. Holonyak, Jr., M. J. Ludowise and A. FischerColbrie, J. Appl. Phys. 75, 2706 (1994). P. A. Grudowski, R. V. Chelakara and R. D. Dupuis, Appl. Phys. Lett. 69, 388 (1996). H. Gebretsadik, K. Kamath, W-D. Zhou and P. Bhattacharya, Appl. Phys. Lett. 72, 135 (1998). R. J. Hussey, G. I.Sproule, J. P. McCaffrey, R. Driad, Z. R. Wasilewski, P. J. Poole, D. Landheer and M. J. Graham, Proc. Int. Symp. on High-Temperature Corrosion and Protection 2000. Hokkaido, Japan, September 2000, p.39. R. J. Hussey, R. Driad, G. I.Sproule, S. Moisa, J. W. Fraser, Z. R. Wasilewski, J. P. McCaffrey, D. Landheer and M. J. Graham, J. Electrochem. Soc., 149, G581 (2002). A. L. Holmes, Ph. D. Dissertation, The U. of Texas at Austin, December 1999. P. J. Barrios, D. C. Hall, G. L. Snider, T. H. Kosel, U. Chowdhury and R. D. Dupuis, in State-of-the-Art Program on Compound Semiconductors (SOTAPOCS XXXIV) 199th Meeting of The Electrochemical Society (Washington, DC, March 25-30, 2001).
+
+11
+
+[10] P. J. Barrios, D. C. Hall, U. Chowdhury, R. D. Dupuis, J. B. Jasinski, Z. Liliental-Weber, T. H. Kosel and G. L. Snider, Abstract, 43rd Electronic Materials Conference, Notre Dame, Indiana, June 27-29, 2001. [11] G. Hollinger, E. Bergignat, J. Joseph and Y. Robach, J. Vac. Sci. Tech. A3, 2082 (1985). [12] G. Hollinger, J. Joseph, Y. Robach, E. Bergignat, B. Commere, P. Viktorovitch and M. Froment, J. Vac. Sci. Technol. B5, 1108 (1987). [13] M. Faur, D. T. Jayne and M. Goradia, Surface and Interface Analysis 15, 641 (1990). [14] A. Pakes, P. Skeldon, G.E. Thompson, S. Moisa, G.I. Sproule and M.J. Graham, Corros. Sci. 44, 2161 (2002). [15] M. J. Graham, S. Moisa, G. I. Sproule, X. Wu, J. W. Fraser, P. J. Barrios, D. Landheer, A. J. SpringThorpe and M. Extavour, Proc. 5th International Conference on the Microscopy of Oxidation, Limerick, Ireland, August 2002.
+
+12
+

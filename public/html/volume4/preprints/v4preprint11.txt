@@ -1,0 +1,490 @@
+A First-Principles Based Approach to Potential Attenuation Projection for Marine Pipelines and Risers
+W.H. Hartt and D.K. Lysogorski
+Center for Marine Materials Department of Ocean Engineering Florida Atlantic University ­ Sea Tech Campus 101 North Beach Road Dania Beach, Florida 33004 USA
+
+Abstract
+Cathodic protection (cp) design and analysis tools for one dimensional systems such as pipelines and risers are reviewed with emphasis being given to newly proposed, first-principles based potential attenuation and anode/anode bed current output equations that incorporate all relevant resistance terms (anode (electrolyte), coating, polarization, and metallic path). One of the new expressions pertains to pipelines with superimposed (bracelet) anodes and a second to the case where the anode/anode bed is offset from the pipeline, as occurs for buried onshore pipelines and marine pipeline cp retrofits and pipelines deployed by reeling. In effect, the former (superimposed anode) is a special case of the latter. It is demonstrated that the expressions can be employed to analyze both galvanic and impressed current cp systems. Comparisons are made between the potential attenuation projected by the present expression and by the classical equations of Morgan/Uhlig. It is concluded that the Morgan/Uhlig approach is non-conservative in cases where the pipeline, or a portion thereof, lies within the anode potential field. Key words: Pipelines, cathodic protection, potential attenuation, design
+
+Introduction
+Submerged and buried pipelines are invariably protected from external corrosion by a combination of coatings and cathodic protection (cp). In effect, the cp provides protection per se while the coating system renders the cp more efficient and effective. This results because the coating reduces the effective exposed pipe surface area such that cp is needed only at coating defects. Consequently, pipe current demand to achieve a requisite polarization is reduced, thereby lowering anode output requirements and increasing the spacing between anodes or anode ground beds. Cathodic protection systems for marine compared to buried onshore pipelines are distinctive in several regards. Thus, design in the former case normally assumes several percent coating bare area and employs galvanic bracelet anodes spaced about 250 m apart. This relatively short spacing arises because of, first, limitations on the size of bracelet anodes that can be deployed from a lay barge and, second, the fact that current density demand is relatively high and service lives of 20-30 years are needed. For the on-shore buried counterpart, on the other hand, higher coating quality combined with impressed current (ic) cp, which is the type normally employed here, is such that metallic path ground return resistance is the controlling factor; and, consequently, anode ground bed spacings as great as 50-100 km can be realized. Figure 1 schematically shows the potential profile that results in each of these two cases. Thus, for the galvanic bracelet anode situation (Figure 1a) potential is constant except within the field of the anode which normally extends only about 10-15 m. Here, the magnitude of pipe polarization is determined by electrolyte resistivity, anode dimensions, and anode current output (alternatively, pipe current demand). Buried pipelines with iccp and large anode/anode bed spacings, on the other hand, exhibit continued polarization decay with increasing distance beyond the field of the anode (Figure 1b) in conjunction with the voltage drop in the pipeline. As such, generalized pipeline polarization
+
+behavior reflects influences from four resistance terms; the anode (electrolyte), coating, electrochemical polarization, and metallic path return. The critical design parameter in the galvanic anode (ga) cp case is projection of pipe current demand. For buried pipelines with iccp, anode ground bed design and spacing are also important.
+
+Anode Potential Anode IR Drop
+
++ Potential -
+
+Polarized Pipeline Potential
+
+Pipeline Free Corrosion Potential
+
+Pipeline
+
+Anode (2)
+
+(a)
+Mid-Anode Spacing Anode IR Drop
+
++ Potential
+
+Pipeline IR Drop
+
+Polarized Pipeline Potential
+
+Anode Bed
+
+Pipeline Free Corrosion Potential
+
+Pipeline
+
+(b) Figure 1: Schematic illustration of potential profiles that arise from (a) galvanic cp of marine pipelines with bracelet anodes and (b) impressed current cp of buried pipelines.
+
+Pipeline Cathodic Protection Design
+For marine pipelines with closely spaced galvanic anodes such that metallic path resistance is negligible, the design process has historically involved the following steps [1,2]: 1. Calculation of net pipe current demand, Ic, from the expression,
+
+2
+
+I c = Ac  f c  ic ,
+
+(1
+
+where Ac is the pipe surface area, f c the coating breakdown factor (ratio of bare to total pipe surface area), and ic is current density demand (normally specified for marine applications as 60-170 mA/m2 (bare surface area basis)) [1,2] depending upon water depth, temperature, sea water versus mud exposure, and whether or not the calculation is for the mean (ic = im ) or final (ic = if ) condition, where im is the timeaveraged current density and if is the current density near the end of the design life. 2. Determination of the net anode mass, M (kg), from a modified form of Faraday's law,
+M= 8, 760  im  T uC
+
+,
+
+(2
+
+where u is a utilization factor, C is current capacity (kg/A-y), and T is design life (y) and of current output of individual anodes, Ia , from Ohm's law,
+Ia = c - a Ra
+
+,
+
+(3
+
+where  c and a are the closed circuit pipe and anode potentials, respectively, and Ra is anode resistance. For bracelet anodes, Ra is normally calculated using McCoy's formula [3],
+Ra = 0.315   e Aa
+
+,
+
+(4
+
+where  e is electrolyte resistivity and Aa is anode surface area. 3. Lastly, the number of anodes, N, is determined as,
+N= Ic . Ia
+
+(5
+
+For 1) marine pipeline cp retrofits, 2) marine pipelines deployed by reeling with subsequent anode sled placement, and 3) buried onshore pipelines with iccp systems, anode spacing is likely to be large and metallic path resistance significant, as discussed above. For this circumstance, the classical first-principles based equations of Morgan [4] and Uhlig [5] are useful. Thus, for pipelines polarized by identical, equally spaced anodes,
+ 2r  R p m E z = Eb  cosh  k       
+1/2
+
+  (z - Las /2 ) or  
+
+  2r  R 1/2  p m   Las /2  , Ea = Eb  cosh-    k      
+
+(6
+
+where Ea , Eb , and Ez are the magnitudes of polarization at the drainage point, the mid-anode spacing, and at distance z from a drainage point, rp is the pipe radius,
+
+3
+
+Rm the pipe electrical resistance per unit length, k   the current density demand, and
+
+Las the anode spacing.
+Difficulties here, however, are that, first, anode resistance does not appear explicitly and, second, there is uncertainty associated with Ea , Eb and k   . Numerical methods such as Boundary Element Modeling (BEM) incorporate anode resistance and accommodate the fact that  c is a function of z; however, they do not consider metallic path resistance.
+
+Newly Proposed Attenuation Equations
+Pipelines Protected by Superimposed (Bracelet) Anodes: Pierson et al. [6] and Lysogorski et al. [7] improved upon the Morgan/Uhlig expression by introducing the governing equation,
+'' ' Ec ( z ) = U m ( z ) - U e' ( z) , ''
+
+(7
+
+where, Ue(z) and Um (z) are potentials in the metallic pipe and electrolyte, respectively, at distance z along the pipeline from the centerline of an anode, these being superimposed on the pipe, identical, and equally spaced. The former term was evaluated as,
+U e = I e (z )  R e (z),
+
+(8
+
+where Ie(z) is current in the electrolyte at z and Re(z) is the incremental resistance difference between two successive nodes in the electrolyte. The Ec(z) term was addressed by assuming a linear relation between  c and ic according to,
+E c ( z ) =     ic ( z ) ,
+
+(9
+
+where,  is the polarization resistance and  is the total-to-bare pipe surface area ratio (1/f c). Substitution of this and a modified version of the differential equation that yielded Equation 6 [4,5],
+' U 'm ( z) =
+
+Rm  2    rp 
+
+ E c ( z) ,
+
+(10
+
+into Equation 7 yielded what has been termed an inclusive attenuation equation for polarization of a unidimensional system,
+2  H Las /2 H  E " (z ) +  2 + B   Ec (z ) = 3  E c (t )  dt , c z z z 
+
+(11
+ e  rp
+- Rm  2    r p
+
+, and  e is electrolyte     resistivity. The expression is distinct compared to Equation 6 in that coating, polarization, and metallic path return resistances are included explicitly and anode (electrolyte) resistance implicitly as the integral term, whereas Equation 6 does not include the anode resistance term and numerical modeling the metallic path. Together, the where Ec(z) is the magnitude of pipe polarization at z, H = , B=
+
+4
+
+product of  and  is synonymous with k   from the Uhlig expression. Table 1 provides a comparison between · and the more conventional representation of pipe current density demand in terms of f c and ic. Table 1: Listing of a range of  values as related to coating quality ( and f c) and ic. Pipe Bare Area, percent 0 fc 0  8 ic, mA/m2 5 20 50 5 20 50 5 20 50 5 20 50 5 20 50 5 20 50 , m2 * 70 10 7 70 10 7 70 10 7 70 10 7 70 10 7 70 10 7 , m2
+
+
+0.01
+
+0.0001
+
+10,000
+
+0.1
+
+0.001
+
+1,000
+
+1
+
+0.01
+
+100
+
+5
+
+0.05
+
+20
+
+100
+
+1
+
+1
+
+700,000 100,000 70,000 70,000 10,000 7,000 7,000 1,000 700 1,400 200 140 70 10 7
+
+* This parameter was calculated, assuming a linear cathodic polarization curve, as the slope corresponding to the indicated ic at 0.35 V polarization.
+Equation 11 has been solved using a Coordinate Mapping Based Finite Difference Method (CoMB-FDM) numerical procedure. In so doing, an anode was positioned at z = 0; and the initial pipeline numerical increment, z, was set equal to the radius of a spherical anode, ra (eq), the resistance of which is the same as that of a bracelet anode based upon Equation 4 such that,
+ra ( eq ) = 0 .282  Aa .
+
+(12
+
+Potential of the pipe at z=ra (eq) was then taken as a . Figure 2 shows potential attenuation plots, as determined from Equation 11, in comparison to results acquired using Boundary Element Modeling and Equation 6 for the pipe, cp, and electrolyte parameters listed in Table 2. The trends exhibited here generally conform to those in Figure 1a. The close correspondence between results for the first two methods confirms accuracy of Equation 11 since, for such a small Las , Rm  0. Accuracy can also be confirmed by an independent calculation of Ia ··Ra , which yields the potential difference between the anode and pipe ( c -  a ). Obviously, the solution of Equation 6 provides poor correlation except at · = 1,000 m2 , because of it not incorporating anode resistance. An example where metallic path resistance is not expected to be negligible was also analyzed based upon the same parameters as in Table 2 for · = 100 ·m2 but with Las = 6,000 m [7]. Figure 3 shows the calcula ted potential profile for cases of  m = 0 and 1.70·10-7 ·m. An independent calculation of anode voltage drop,  a , was made using the equation,
+I a  Rra z = I a  e , 4    ra
+
+(13
+
+5
+
+-1.10
+
+Uhlig, =4
+
+Uhlig,  =1,000
+BEM,FDM
+
+ = 1,000
+
+-1.00
+ = 100
+
+BEM FDM BEM FDM
+
+Potential, V Ag/AgCl
+
+-0.90
+
+ = 20
+
+-0.80
+
+ = 8
+
+BEM FDM
+
+-0.70
+
+ = 4
+
+BEM FDM
+
+-0.60
+
+0
+
+20
+
+40
+
+60
+
+80 Distance, m
+
+100
+
+120
+
+140
+
+Figure 2: Comparison of attenuation curves as determined from a COMB-FDM solution to Equation 11, BEM, and Equation 6. (Note: the FDM curves were determined using an earlier version of Equation 11 [7]. The difference between these results and ones from Equation 11 is small for the pipe parameters assumed). Table 2: Pipe, cp, and electrolyte parameters for the attenuation profiles in Figure 2. Pipe Outer Radius, m Pipe Inner Radius, m Anode Spacing, m Anode Radius, m Anode Length, m Equivalent Spherical Anode Radius, m Anode Potential, VAg/AgCl Pipe Corrosion Potential, VAg/AgCl Electrolyte Resistivity, ·m Metallic Resistivity, ·m 0.1355 0.1280 244 0.187 0.432 0.201 -1.05 -0.65 0.30 1.70E-07
+
+where ra is radius of the spherical anode (0.201 m) and Ia was determined as 2.654 A by numerically integrating the area under the  c-z curve. This yielded 0.315 V; and from this a corresponding far field pipe potential of -
+
+0.735 VAg/AgCl was calculated. Also,  c was estimated as the breakpoint in the `w/ pipe resistance' curve in Figure 3 as -0.73 VAg/AgCl, whereas the actual data showed potential at z = 15 m (at this distance  c was changing at less than one mV per 10 m) as -0.737 VAg/AgCl. Figure 4 shows the more positive potential portion of the w/ pipe resistance attenuation curve in Figure 3 along with a second curve based upon Equation 6 with the drainage point potential set equal to -0.735 VAg/AgCl. This latter curve superimposes upon the COMB-FDM one in the Rm dominated region with the far- field potential between the two methods differing by only two mV. 6
+
+-1.05
+
+-0.95
+
+w/ pipe resistance w/o pipe resistance
+
+Potential, VAg/AgCl
+
+-0.85
+
+-0.75 -0.706 -0.687 -0.65 0 500 1000 1500 2000 2500 3000
+
+Distance from Anode, m
+
+Figure 3: FDM solutions to Equation 11 with presence and absence of the metallic path resistance term.
+-0.80
+Equation 6
+
+Potential, VAg/AgCl
+
+Equation 11
+
+-0.75
+
+m
+-0.70
+
+-0.65 0 500 1000 1500 2000 2500 3000
+
+Distance from Anode, m
+
+Figure 4: Comparison of the Rm dominated portion of the attenuation equation in Figure 3 (Equation 11) and the solution of Equation 6 with drainage point potential for the latter equal to  c just beyond the anode potential field. Pipelines Protected by Displaced Anodes: The case of pipelines protected by identical, equally spaced displaced (offset) anodes has also been analyzed [8]. This involved a modification of the protocol utilized for derivation of Equation 11 based upon the arrangement and terms illustrated schematically in Figure 5 and substitution into Equation 8 the expressions,
+
+I e ( z )  2   2    r p  i c (t )  dt =
+z
+
+L
+
+4   rp  
+
+  E (t )  dt and
+z
+
+L
+
+(14
+
+7
+
+ra
+
+p+p OF p
+Z=0
+
+z
+
+Drainage Point
+
+z1 z2
+
+Figure 5: Schematic illustration of assumed arrangement between an offset anode and pipeline.
+2 3  e   p   p   p  R e = 1 - (1 -   +   -   K) , 4   p   p p p   
+
+(15
+
+where p  z 2 + OF 2 with OF being defined in Figure 5. With appropriate manipulations and substitutions, Equation 7 becomes,
+ H z E " (z ) +  B + c  2 z + OF 2   L /2   E (z ) = - H  Q  as E (t )  dt , c 32  z 
+
+(
+
+)
+
+(16
+
+ 1 where Q =   z 2 + OF 2 
+
+(
+
+)
+
+3
+
+-
+2
+
+(
+
+ . 5 2 2 z + OF 2   3z
+2
+
+)
+
+Using an offset distance (OF) of zero, which is synonymous with the anode being superimposed, it can be shown that Equation 16 reduces to Equation 11. Thus, Equation 16 encompasses Equation 11 and is proposed as a more general expression, based on first principles, for pipelines protected by identical, evenly-spaced, equally displaced anodes.
+Solutions to Equation 16 were obtained using the same CoMB-FDM numerical procedure as for Equation 11. As was the case for Equation 11, Equation 16 was derived assuming gacp. Greater applicability of Equation 16 is likely to result, however, with adaptation for pipelines with iccp systems. This can be accomplished in terms of an equivalent galvanic anode with potential  a (eq) that provides the same polarization as the ic one, as defined by the expression [9],
+V =  a (ic) -  a (eq) ,
+
+(17
+
+where V is the rectifier voltage and  a (ic) is potential of the ic anode. An example based upon the above equations was developed assuming a rectifier voltage of 10 V, an ic anode potential of 1.50 VCSE , with other parameters as listed in Table 3. The unrealistically large anode (0.374 m radius and 2.677 m long) is intended to
+
+8
+
+be equivalent resistance-wise to a multiple anode array. As above, ra(eq) was calculated using Equation 12. Knowing  a (eq) and ra (eq), the equivalent spherical anode was superimposed on the pipeline; and potential at the first node was set equal to  a (eq). The total anode output current, IA , was then numerically calculated from the potential profile generated from the CoMB-FDM based FORTRAN program. This current was used to calculate the drainage point potential,  dp , according to the expression,
+I A  e 4 1 1 -  .  ra(eq ) OF   
+
+dp = a (eq) + I A  Rr (eq )OF = a (eq)+ a
+
+(18
+
+Table 3: Assumed pipe, cp, electrolyte parameters. Pipe Outer Radius, m Pipe Inner Radius, m Anode Spacing, m Anode Radius, m Anode Length, m Equivalent Spherical Anode Radius, m Anode Offset Distance, m Polarization Resistance, , m2 Pipe bare area, percent Corresponding, , m2 Pipe Corrosion Potential, VCSE Electrolyte Resistivity, m2 Metallic Resistivity, m2 0.136 0.128 100,000 0.374 2.677 0.749 25, 100, 500 17.5 0.1 17,500 -0.30 100 1.70E-07
+
+Figure 6 shows a plot of  c versus z for the parameters in Table 3 based upon the procedure outlined above in conjunction with both Equations 16 and 6. In each case,  c is projected to be more positive based upon the former than the latter with the difference being relatively large for OF = 25 m and negligible for 500 m. This difference is expected to increase also with increasing electrolyte resistivity (constant current density demand) and . Clearly, the anode potential field is influential at the smaller OF values such that the Equation 6 projections are non-conservative. Figure 7 illustrates these same plots on a semilog scale such that the distinction between the Equation 16 and 6 results is more apparent. The finding that the potential profiles projected by both approaches essentially superimpose for the case where the pipeline is beyond the anode field (OF = 500 m) constitutes additional confirmation of Equation 16. An alternative approach is illustrated in Figure 8, where again projections were developed using Equations 6 and 16 for the same parameters as in Table 3 but with OF = 25 m and Las values of 25, 50, and 100 km. In this case,  dp for application of Equation 16 was based upon Equation 18, as before; however,  dp for Equation 6 utilized the expression,
+dp =  a (eq ) + I A  e 4 1  .  ra(eq )   
+
+(19
+
+As such, the Equation 6 attenuation curves neglect completely the anode potential field. Table 4 lists the  dp and mid-anode spacing potentials for each of the three examples according to both equations. Because for the
+
+9
+
+-1.00 -0.90 -0.80
+Uhlig, 25m
+
+Potential, VCSE
+
+-0.70
+Uhlig, 100m
+
+-0.60 -0.50 -0.40 -0.30 -0.20 0 10000
+
+Uhlig, 500m
+
+COMB-FDM, 25m COMB-FDM, 100m COMB-FDM, 500m
+
+20000
+
+30000
+
+40000
+
+50000
+
+Distance from Drainage Point, m
+
+Figure 6: Potential profiles for the pipe, cp, and electrolyte parameters listed above and in Table 3 according to Equations 16 and 6.
+-1.00 -0.90 -0.80
+COMB-FDM, 25m Uhlig, 100m Uhlig, 25m
+
+Potential, V CSE
+
+-0.70 -0.60 -0.50 -0.40 -0.30 -0.20 0.1 1 10 100 1000 10000 100000
+COMB-FDM, 100m
+
+COMB-FDM, 500m Uhlig, 500m
+
+Distance from Drainage Point, m
+
+Figure 7: Representation of the Figure 6 data in semilog format. relatively small OF employed here a portion of the pipeline is within the anode potential field,  dp is consistently more negative based upon Equation 18 than Equation 19. The mid-anode potentials, on the other hand, are in good mutual agreement (maximum difference 8 mV). In Figure 9, the profiles from Figure 8 are shown in semilog format. The p urpose for doing this is to emphasize the near field, where potentials projected by the two methods remain different. Thus, at 100 m, the potential projected by Equation 6 is approximately 50 mV more positive than for Equation 16, whereas within 10
+
+10
+
+-0.20
+
+-0.40
+
+Potential, VCSE
+
+-0.60
+
+-0.80
+
+Equation 16 Equation 6
+
+-1.00
+
+-1.20 0 10000 20000 30000 40000 50000
+
+Distance from Drainage Point, m
+
+Figure 8: Potential profiles based upon Equations 6 and 16 for the parameters in Table 3 and the dp values in Table 4. Table 4: Comparison of drainage point and mid-anode spacing potentials for the example in Figure 8. Equation 16 dp , VCSE  c(Las/2), VCSE -1.177 -0.890 -0.947 -0.584 -0.862 -0.403 Equation 6 dp , VCSE  c(Las/2), VCSE -0.951 -0.892 -0.714 -0.592 -0.627 -0.408
+
+Anode Spacing , m 25000 50000 100000
+
+m of the drainage point this difference exceeds 200 mV. While this difference does not pose a corrosion risk, it could contribute to coating damage or hydrogen embrittlement (or both).
+
+11
+
+-0.20
+
+-0.40
+
+Equation 16 Equation 6
+
+Potential, V CSE
+
+-0.60
+
+-0.80
+
+-1.00
+
+-1.20 0.1 1 10 100 1000 10000 100000
+
+Distance from Drainage Point, m
+
+Figure 9: Representation of the Figure 8 data in semilog format.
+
+Conclusions
+The newly proposed potential attenuation equation for cathodically polarized pipelines and risers with identical, equally spaced anodes has been derived as,
+ H z E " (z ) +  B + c  2 z + OF 2   L /2   E (z ) = - H  Q  as E (t )  dt , c 32  z 
+
+(
+
+)
+
+where Ec(z) is the magnitude of polarization as a function of distance z from an anode,  e  rp H= ,   - Rm  2    r p , B=   Las is anode spacing,  e is electrolyte resistivity, rp is outer pipe radius , Rm is pipe resistance per unit length,  is polarization resistance,  is ratio of total pipe surface area to bare surface area, OF is anode offset distance, and
+
+ 1 Q=  z 2 + OF 2 
+
+(
+
+)
+
+3
+
+-
+2
+
+(
+
+ . 5 2 2 z + OF 2   3z
+2
+
+)
+
+12
+
+For the case of superimposed anodes (OF = 0), as occurs for bracelet anodes on marine pipelines, the expression reduces to,
+2  H L as /2 H  E' ' (z ) +  2 + B   E (z ) = 3  E (t )  dt . z z  z
+
+Accuracy of both equations is demonstrated, and example analyses are provided. The results indicate that these two expressions are in good agreement with the classical equations of Morgan and Uhlig when the pipe is beyond the anode potential field and that they provide improved accuracy in potential attenuation projection compared to the Morgan and Uhlig expressions in cases where the pipeline or a portion thereof lies within the anode potential field.
+
+Acknowledgements
+The authors are indebted to member organizations of a joint industry project, including ChevronTexaco, ExxonMobil, Shell Pipeline Company, and the Minerals Management Service for financial sponsorship of this research.
+
+References
+1. "Cathodic Protection Design," DnV Recommended Practice RP401, Det Norske Veritas Industri Norge AS, 1993. 2. "Pipeline Cathodic Protection ­ Part 2: Cathodic Protection of Offshore Pipelines," Working Document ISO/TC 67/SC 2 NP 14489, International Standards Organization, May 1, 1999. 3 McCoy, J.E., The Institute of Marine Engineers Transactions, Vol. 82, 1970, p. 210.
+
+4. Morgan, J., Cathodic Protection, Macmillan, New York, 1960, pp. 140-143. 5. Uhlig, H. H. and Revie, R. W., Corrosion and Corrosion Control, Third Ed., J Wiley and Sons, New York, 1985, pp. 421-423.
+
+6. Pierson, P., Bethune, K., Hartt, W. H., and Anathakrishnan, P., Corrosion, Vol. 56, 2000, p. 350.
+7. Lysogorski, D.K., Hartt, W.H., and Ananthakrishnan, P. "A Modified Potential Attenuation Equation for Cathodically Polarized Marine Pipelines and Risers," paper no. 03077 to be presented at CORROSION/03. To be published in Corrosion. 8. Lysogorski, D.K. and Hartt, W.H., "A Potential Attenuation Equation for Design and Analysis of Pipeline Cathodic Protection Systems with Displaced Anodes," paper no. 03196 to be presented at CORROSION/03, March 16-21, 2003, San Diego. 9. Hartt, W.H., "The Slope Parameter Approach to Marine Cathodic Protection Design and Its Application to Impressed Current Systems," in Designing Cathodic Protection Systems for Marine Structures and Vehicles, Ed. H. Hack, Special Technical Publication 1370, Am. Soc. For Testing and Materials, West Conshohocken, PA, 1999.
+
+13
+

@@ -1,0 +1,328 @@
+Volume 6 Paper C023
+
+Corrosion of Friction Stir Welds in High Strength Aluminium Alloys
+A. J. Davenport, R. Ambat, M. Jariyaboon, P. C. Morgan*, D. Price*, A. Wescott*, and S. Williams*
+
+The University of Birmingham, Metallurgy and Materials, Edgbaston, Birmingham B15 2TT, a.davenport@bham.ac.uk *BAE SYSTEMS, ATC Sowerby, Bristol BS34 7QW
+
+Abstract
+The corrosion of Friction Stir Welds (FSW) was investigated as a function of processing conditions. It was found that the toolpiece rotation speed was the dominant processing parameter. At higher rotation speeds, anodic attack is concentrated in the heat-affected zone (HAZ) of the weld, and the nugget (centre) of the weld acts as a local cathode owing to the presence of a large number of fine precipitates. For a lower toolpiece rotation speed, the anodic attack takes place in the nugget. In all cases, anodic attack is predominantly intergranular. Laser surface treatment is an effective method for protecting FSW from corrosion. Keywords: Friction Stir Welds, FSW, Aluminium, Aerospace, Intergranular Corrosion
+
+Introduction
+Friction stir welding (FSW) is a new method for joining metals in which a rotating toolpiece is moved along the junction of two metal plates.
+
+The local frictional heating causes the metal to flow, forming an almost seamless weld with excellent strength. Although the microstructural heterogeneity of FSW is less than conventional fusion welds, there are still concerns about susceptibility to corrosion [1-10]. Anodic attack of the weld can take place in the weld nugget, where mixing of the metal has taken place, or in the heat-affected zone (HAZ) either side of the weld [1,4,6,7,10]. It is usually in the form of
+
+intergranular attack, although some pitting has been observed [1,10]. Laser surface melting is a well established method for improving the corrosion resistance of metal surfaces [2,10-17]. It homogenises the surface, removing both intermetallic particles (which act as cathodic sites and also initiate pits) and sensitised grain boundaries. It is therefore a promising method for overcoming the microstructural heterogeneity found in welds. The aims of the present project are to investigate the mechanism of corrosion of FSW and how this is affected by the processing parameters, and to investigate laser surface processing as a possible route to corrosion protection.
+
+Experimental Method
+Two alloys were used, 2024 and 7010, as welded (FSW) and ATC. FSW was carried out with varying rotation speeds (rotation of the toolpiece) and travel speeds (travel speed of the material relative to the rotating toolpiece), as indicated in Table 1.
+Table 1. FSW process parameters
+
+welded with laser surface treatment (FSWLT) supplied by BAE SYSTEMS
+
+Rotation speed Travel speed FS MM FF SS fast medium fast slow 2 slow medium fast slow
+
+The original FSW material was 6.35 mm thick. Prior to laser treatment, ~2 mm of the top surface was milled off and laser-treated using a Lambda Physik LPX 315i excimer laser. The laser treatment was performed over a width of 80 mm with the weld at the centre. The corrosion susceptibility was screened with indicator gel. The FSW experiments were conducted directly on the as received surface. All the specimens were cleaned with acetone and de-smutted with concentrated HNO3 prior to the experiment. Thin layers of gel was prepared using 3 g Agar with 5 mM NaCl and 15 ml of universal indicator in 100 ml of water, mixed together during heating and cast in to thin layers of 1-2 mm thick. A piece of this gel comparable to the area of the surface to be investigated was cut and placed on the specimen surface, and the colour change observed with time to locate anodic and cathodic corrosion areas. Anodic regions become acidic and the indicator changes colour from green to yellow. Cathodic regions become alkaline, and so a blue colour is observed. The electrochemical behaviour across the weld and laser-treated surfaces was evaluated in 0.1 M NaCl using a microelectrochemical device. The device consists of a micro-electrochemical cell attached to the carousal of an optical microscope in which the solution, counter and reference electrodes are located in a pipette, which makes contact with a local region of the working electrode (in this case the weld sample). The lateral resolution of the technique is determined by the dimensions of the pipette tip, in this case ~1 mm in diameter. In the present investigation, electrochemical experiments were conducted across the surface at 5 mm intervals. All experiments were carried out in the naturally aerated condition with an Ag/AgCl reference electrode using a 1285 Solatron electrochemical measurement system.
+
+material was ground using 1200 grade SiC paper, whereas for FSWLT,
+
+Results and Discussion
+Figure 1 shows the microstructure of different regions of a friction stir weld: the nugget, thermomechanical-affected zone (TMAZ), heataffected zone (HAZ), and parent plate. The nugget has a fine grain 3
+
+size and is recrystallised. The TMAZ shows elongated grains. The HAZ shows a similar microstructure to the parent plate.
+
+Figure 1. Microstructure of a friction stir weld in 2024.
+
+Figure 2. Gel test on FSWs in 2024 produced under different processing conditions. The anodic regions appear yellow and the cathodic regions dark green.
+
+4
+
+Figure 2 shows the results of a gel test on friction stir welds in 2024
+
+with different processing parameters. The gel is yellow in the anodic regions and dark green in the cathodic regions. It can be seen that for the welds with fast and medium rotation speeds (FS, MM, FF), anodic sample produced with a low rotation speed (SS), it is the nugget that has been attacked. attack is in the HAZ, while the nugget is a cathode. In contrast, for the
+
+These observations were confirmed for immersion tests in 0.1 M NaCl for 24 hours. The location of the attack was the same as that for the gel tests. Close examination (not shown) indicates that both the HAZ and nugget show signs of intergranular corrosion. The cross section of the welds showed that intergranular attack of the HAZ is less for sample SS with a slow rotation speed than for any of the other welds.
+10 Current Density, A/cm 2
+-3
+
+10
+
+-4
+
+Current Density, A/cm
+
+parent HAZ nugget
+
+10
+2
+
+-3
+
+10
+
+-4
+
+AA2024 0.1 M NaCl
+
+10
+
+-5
+
+10
+
+-5
+
+10
+
+-6
+
+10
+
+-6
+
+parent HAZ nugget
+
+10 -0.75
+
+-7
+
+SS
+
+AA2024 0.1 M NaCl -0.5
+
+-0.7 -0.65 -0.6 -0.55 Potential, V vs Ag/Ag/Cl
+
+10 -0.75 -0.7 -0.65 -0.6 -0.55 -0.5 -0.45 -0.4 Potential, V vs Ag/AgCl
+
+-7
+
+FS
+
+Figure 3. Anodic polarisation curves for different microstructural regions of FSWs in 2024 measured with a microelectrochemical cell. The welds were produced with a slow toolpiece rotation rate (SS) and a fast toolpiece rotation rate (FS).
+
+Figure 3 shows the anodic reactivity across the weld as determined using the microelectrochemical cell. For the sample SS (slow rotation speed), the nugget region has the highest anodic reactivity, whereas for the sample FS (high rotation speed), the anodic reactivity of the HAZ is slightly greater than the nugget. The results for all of the samples are summarised in Figure 4, which shows the potential at 10-5 Acm-2. Again, sample SS (slow rotation rate) shows highest reactivity (lowest potential) in the nugget regions, whereas the other samples show similar anodic reactivity across the entire weld region 5
+
+(HAZ and nugget). In all cases, the reactivity of both the HAZ and nugget are substantially greater than the parent metal.
+-0.5 Potential, V vs Ag/AgCl
+
+-0.55
+
+-0.6 FS MM FF SS 0 Distance, mm 20 40
+
+-0.65
+
+AA2024 0.1 M NaCl -20
+
+-0.7 -40
+
+Figure 4. The potential at 10-5 Acm-2 determined from microelectrochemical anodic polarisation curves (Figure 3) as a function of distance from the centre of the weld for welds produced with different processing parameters (Table 1).
+10 Current Density, A/cm
+2 -4
+
+Current Density, A/cm 2
+
+SS
+
+10
+
+-4
+
+FS
+
+10
+
+-5
+
+10
+
+-5
+
+10
+
+-6
+
+AA2024 0.1 M NaCl parent HAZ nugget -0.9 -0.8 -0.7 Potential, V vs Ag/AgCl -0.6
+
+10
+
+-6
+
+AA2024 0.1 M NaCl parent nugget HAZ -0.9 -0.8 -0.7 Potential,V vs Ag/AgCl -0.6
+
+10
+
+-7
+
+-1
+
+10
+
+-7
+
+-1
+
+Figure 5. Cathodic polarisation curves for different microstructural regions of FSWs slow toolpiece rotation rate (SS) and a fast toolpiece rotation rate (FS).
+
+in 2024 measured with a microelectrochemical cell. The welds were produced with a
+
+Figure 5 shows the cathodic reactivity of samples SS and FS. The cathodic current flowing at ­0.85 V(Ag/AgCl) across the welds is shown in Figure 6. In all cases, there is an enhanced cathodic reactivity in the nugget region. The reason for this was investigated by examining the microstructure of the weld region. Figure 7 shows the microstructure of the parent region of the weld compared with the nugget. It is clear that there are far more precipitates in the nugget region of the weld than in the parent. This is due in part to the 6
+
+fragmentation of constituent particles by the toolpiece. However, a more significant effect is likely to be precipitation of particles as a result of the heat in the weld region. Preliminary work [18] suggests increase the cathodic reaction rate by a factor of three.
+20 Current Density, µA/cm AA2024 0.1 M NaCl FS MM SS FF
+2
+
+that thermal treatments at temperatures in the range 300-400°C can
+
+15
+
+10
+
+5
+
+0 -40
+
+-20
+
+0 20 Distance, mm
+
+40
+
+Figure 6. The current density at ­0.85 V(Ag/AgCl) determined from
+
+microelectrochemical cathodic polarisation curves (Figure 5) as a function of distance from the centre of the weld for welds produced with different processing parameters (Table 1).
+
+7
+
+The results indicate that toolpiece rotation speed is an important
+
+parameter in determining the corrosion susceptibility of welds. For a high rotation speed, the anodic reactivity of the HAZ is slightly greater than the nugget, and both are greater than that of the parent. This is a consequence of increased grain boundary precipitation leading to greater sensitisation. In contrast, for a slow rotation speed, the higher reactivity than the parent metal.
+
+reactivity of the nugget is greater than the HAZ, and again, both show
+
+Figure 7. Microstructure of 2024 parent material compared with the weld nugget, showing a high density of fine intermetallic particles in the nugget as a result of fragmentation of constituent particles and precipitation processes.
+
+Regardless of the processing parameters, the cathodic reactivity of the nugget region is significantly higher than that of the HAZ or parent material. This is a consequence both of fragmentation of particles by the action of the toolpiece and also precipitation reactions (Figure 7). The location of anodic attack during total immersion conditions is determined by the balance between the anodic and cathodic reactivities of the different regions. For example, in the case of welds produced at moderate or high tool rotation speeds, the anodic reactivity is high across the entire weld region (HAZ and nugget), but the elevated cathodic reactivity in the nugget region leads to a local increase in pH, protecting the nugget from anodic attack even though it is inherently reactive. It is thus likely that the behaviour of welds during atmospheric exposure or salt fog tests may be different from total immersion tests since the galvanic coupling between the nugget and HAZ may be less well defined.
+
+8
+
+Figure 8. The surface of a laser-treated FSW in 2024 (a) secondary electron image and (b) backscattered electron image showing no signs of high atomic number intermetallic particles. The surface of the parent material: (c) secondary electron
+
+image and (d) backscattered electron image, showing bright intermetallic particles.
+
+9
+
+Figure 8 shows the surface of a FSW after laser surface treatment. The surface is roughened as a consequence of the melting and solidification processes that take place during treatment, but examination of the backscattered electron image of the surface shows no signs of high atomic number second phase particles. In contrast, of the parent plate.
+10
+2 -4
+
+intermetallic particles are readily observed in the backscattered image
+-4
+
+10 Current Density, A/cm
+Anodic current at: -550 mV AA2024 0.1M NaCl
+2
+
+Current Density, A/cm
+
+AA2024 0.1M NaCl
+LASER TREATED WELD
+
+10
+
+-5
+
+10
+
+-5 LASER TREATED WELD
+
+10
+
+-6
+
+10
+
+-6
+
+(a)
+-40 0 40 Distance, mm 80
+
+10
+
+-7
+
+(b)
+-40
+
+Cathodic current at: -800 mV 0 40 Distance, mm 80
+
+-80
+
+-80
+
+Figure 9. Anodic (a) and cathodic (b) current densities across a laser-treated weld microelectrochemical cell.
+
+(FSWLT) in 2024 as a function of distance from the weld centre, measured with the
+
+The lack of intermetallic particles leads to a substantial decrease both in anodic and cathodic reactivity as shown in Figure 9, which gives the results of microelectrochemical tests across a laser-treated weld. The intermetallic particles in the surface layer have been melted by the laser treatment, and the molten metal has solidified sufficiently rapidly that no precipitation has taken place. This means that a higher solute level is present in the surface layers, which will suppress anodic reactivity, and the loss of intermetallic particles will decrease the available number of pit initiation sites in addition to decreasing the number of cathodic sites available. The effect of laser treatment is highlighted in Figure 10, which shows gel tests for an untreated weld, and laser-treated welds with and without a deep scratch for 2024. The laser-treated weld without a scratch shows no attack in the centre, with only a small anodic region at the periphery of the sample where the edge of the sample has made contact with the gel. The effect of laser surface treatment on the rate of the cathodic reaction is highly beneficial: it means that even when a 10
+
+scratch is present on the surface and the reactive HAZ is exposed, the rate of attack on the HAZ is less than that for the parent metal owing to the lower cathodic reactivity of the remainder of the surface.
+
+Figure 10. Gel test on FSWs in 2024 comparing the untreated weld (a) with laser-
+
+treated welds without (b) and with (c) a scratch penetrating the laser-treated layers.
+
+Figure 11. FSWs in 7010 without (a) and with (b) laser treatment after a 21 h gel test.
+
+Figure 11 shows FSWs in 7010 with and without laser treatment after a 21 hour gel test. For the untreated weld, anodic attack is located in the HAZ. The laser treatment still offers a substantial improvement in corrosion resistance, but small corrosion spots are observed on the surface. Close examination reveals that these are located at the overlap region between the laser tracks.
+
+11
+
+10 Current Density, A/cm
+2
+
+-3
+
+7010 FSW and Laser Treated 0.1M NaCl
+
+10 10 10
+
+-4
+
+-5
+
+-6
+
+10 -0.75
+
+-7
+
+Ridges (Nugget) Ridges (HAZ) Ridges (Parent) Irradiated zone -0.7 -0.65 -0.6 Potential, V vs Ag/AgCl -0.55
+
+Figure 12. Microelectrochemical measurements of the anodic reactivity in lasertreated FSWLT in 7010 showing that the ridges between laser-treated zones are substantially more reactive than the centres of the zones.
+
+Microelectrochemical measurements of the anodic reactivity of the tracks and the overlap regions are shown in Figure 12. It is clear that the overlap region is more sensitive to breakdown, indicating that further work is required to optimise the treatment conditions. However, the tracks themselves show high resistance to attack.
+
+Conclusions
+Corrosion of friction stir welds in high strength aluminium alloys such as 2024 and 7010 is driven by the microstructural changes brought about by the welding process. Intergranular attack can take place within the HAZ and nugget regions as a result of exposure to elevated temperatures. The nugget region shows enhanced cathodic reactivity as a consequence of the fragmentation of constituent intermetallic particles and precipitation processes in the weld region. The extent of both the anodic and cathodic reactivity is affected by the weld processing parameters. The critical parameter appears to be the rotation speed of the toolpiece. For welds produced with a slower toolpiece rotation speed, the nugget shows greatest anodic attack, whereas for welds produced with higher toolpiece speeds, the high cathodic reactivity in the nugget protects it from anodic attack, so the main anodic attack is located in the HAZ. Laser surface treatment shows great promise as a method for protecting FSWs from corrosion, particularly for 2024. It produces a 12
+
+highly homogeneous layer without sensitised grain boundaries or cathodically active intermetallic particles. Even when the layer is damaged, it offers good corrosion protection owing to the overall decrease in cathodic reactivity of the surface. However, for 7010, laser processing parameters need to be optimised to avoid localised attack in the ridges between laser-treated zones.
+
+Acknowledgements
+This work was supported by EPSRC in collaboration with BAE SYSTEMS, Airbus UK, and DERA. MJ was supported by a scholarship from the Royal Thai Government.
+
+References
+1. F. Hannour, A.J. Davenport and M. Strangwood, Proc. of the 2nd International Symposium on Friction Stir Welding, 26-28 June, Gothenburg, Sweden, 2000. 2. F. Hannour, A.J. Davenport, S.W. Williams, P.C. Morgan and C.C. Figgures, Proc. of the 3rd International Symposium on Friction Stir Welding, 27-28 September, Kobe, Japan, 2001. 3. J. Corral, E.A. Trillo, Y. Li, L.E. Murr, J. Mat. Sci. Lett., 19, pp2117, 2000. 4. G. Biallas, R. Braun, C. Dalle Donne, G. Staniek and W.A. Kaysser, 1st 1999. International Symposium on Friction Stir Welding, TWI, UK, pp1,
+
+5. C.D. Donne, R. Braun, G. Staniek, A. Jung and W.A. Kaysser, Materialwissenshaft und werkstofftechnik, 20, pp609, 1998. 6. J.B. Lumsden, M.W. Mahoney, G. Pollock and C.G. Rhodes, Corrosion, 55, pp1127, 1999. 7. G.S. Frankel and Z. Xia, Corrosion, 55, pp139, 1999. 8. R. Braun and L. Litynska-Dobrzynska, Materials Science Forum, 396-4, pp1531, 2002.
+
+13
+
+9. J.B. Lumsden, M.W. Mahoney, C.G. Rhodes and G.A. Pollock, Corrosion, 59, pp212, 2003. 10. Rajan Ambat, Manthana Jariyaboon, A.J. Davenport, S.W. Williams, Corrosion Congress, Granada, Spain, September 22-29, 2002. Eng., A231, pp55, 1997. 12. R. LI, M.G.S. Ferreira, A. Almedia, R. Vilar, K.G. Watkins, M.A. McMahon and W.M. Steen, Surface Coatings and Technology, 81, pp290, 1996. 13. P.L. Bonora, M.Bassoli, P.L. De Anna, G. Battaglain, G. Dellamea, P. Mazzoldi and A. Miotello, Electrochem. Acta, 25, pp1497, 1980. 14. E. McCafferty, P.G. Moore and G.T. Peace, J. Electrochem. Soc., 129, pp9, 1982. 15. K.G. Watkins, Z. Liu, M. McMahon, R. Vilar and M.G.S. Ferreira, Materials Sci. and Eng. A , 252, pp292, 1998. 16. J. Barnikel, T. Seefeld, A. Emmel, E. Schubert and H.W. Bergmann, Journal of Metals, 5, pp29, 1996. 17. J. Barnikel, T. Seefeld, K. Scutte and H.W. Bergmann, HTMHaerterei-Technische Mitteilungen, 52, pp94, 1997. 18. M. Jariyaboon, R. Ambat, A,J. Davenport, Unpublished work, The University of Birmingham, 2003.
+
+D.A. Price and A. Wescott, Proceedings of the 15th International
+
+11. K.G. Watkins, M.A. McMahon and W.M. Steen, Materials Sci. and
+
+14
+

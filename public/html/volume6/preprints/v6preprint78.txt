@@ -1,0 +1,308 @@
+Volume 6 Paper H023
+
+The Cyclic Oxidation Behaviour of Several Coatings at 1150°C
+A. Littner, M. Schütze
+
+Aluminide and Platinum Aluminide Diffusion
+
+Karl-Winnacker-Institut der DECHEMA e.V., Theodor-Heuss-Allee 25, 60486 Frankfurt am Main, Germany, littner@dechema.de
+
+Abstract
+Hot-section components of aero gas turbines are made of nickel superalloys and are essentially protected by aluminide and platinum aluminide coatings. In this paper, we report about the cyclic oxidation behaviour in air at 1150°C of several aluminide and platinum aluminide coatings. Gravimetric investigations of the specimens were used in order to characterize the cyclic oxidation resistance of each specimen. Aluminide coatings exhibited extensive spallation leading to early mass losses and preventing the formation of a protective oxide scale. X-ray diffraction of spalls as well as examination of specimens at several stages of the tests showed formation of mixed oxide layers the formation of extensive quantities of voids. Gravimetric measurements on platinum aluminide coatings confirmed the beneficial effect of platinum promoting selective oxidation of aluminium resulting in the formation of a pure alumina scale with better scale adherence. Spallation was delayed up to about 1250 cycles. Then, due to the wrinkling of the coating surface and to the formation of voids, spallation led to the rapid degradation of the specimens. Keywords: Cyclic oxidation, Aluminide coatings, Platinum aluminide coatings.
+
+such as -Al2O3/NiAl2O4/TaO2 mixtures. SEM investigations revealed
+
+1. Introduction
+The use of nickel-base superalloys as turbine blade materials requires their protection against environmental attack. It has been shown that corrosion and oxidation resistance of gas turbine components. Of all the diffusion coatings known from the literature, aluminide coatings are the most widely used. During oxidation they may form a protective -Al2O3 scale acting as a barrier against oxidising species present in the atmosphere. Unfortunately, under service conditions, the oxide scale can rapidly spall as a consequence of stresses due to thermal cycling and oxide growth. Then, the continuous re-oxidation of the coating surface associated with interdiffusion between coating and substrate progressively leads to aluminium depletion of the coating. Finally, the Al-concentration near the oxide-metal interface is too low to ensure the selective formation of alumina and non-protective mixed oxides form. Platinum additions are well known to improve the high temperature cyclic oxidation behaviour of the coatings. However, mechanisms by which platinum improves the oxidation resistance of the diffusion coatings are still not well understood. Many studies attributed beneficial effects to platinum promoting the selective oxidation of Al [1], increasing the adherence of the -Al2O3 scale [2], delaying the diffusion of deleterious alloying elements towards the coating surface [3] or reducing the amount of voids at the scale/metal interface [4]. The present work reports about the cyclic oxidation behaviour at 1150°C of aluminide and platinum aluminide coatings deposited on two different substrates by several industrial partners under the frame of the ORDICO European Growth contract [5]. The purpose was to investigate the specimen weight change as well as the nature and morphology of the oxide layers formed on the surface of the coatings as a function of time. Optical investigations, SEM, EPMA as well as XRD were used to characterise the cyclic oxidation behaviour of the different coatings. diffusion coatings can significantly improve the high-temperature hot
+
+2. Experimental Procedures
+
+2
+
+a. Materials The chemical composition of the alloys used as substrate materials is given in table1. Ni Alloy 1 Alloy 2 Al Cr 5.1 6.5 Co 9.9 9.5 Ti / 1.1 Ta 7.3 5.2 W 6.5 6.5 Mo 1.9 0.6 Re 4.7 4.5 Hf 0.1 0.1
+
+59.2 5.3 60.4 5.6
+
+Tab. 1: Chemical composition of the alloys (wt.%) measured by EPMA (10 µm spot).
+
+Button samples (18 mm diameter and 5 mm thickness) were coated with different qualities of aluminide and platinum aluminide coatings. Table 2 shows the type of the coatings that have been tested. Two different qualities of aluminide coatings and two platinum aluminide coatings were tested. The production of the latter coatings involved a standard process with platinum electrolytic deposition, aluminisation and heat treatment at high temperature. Coating name Al 1 Al 2 PtAl 1 PtAl 2 Coating type NiAl (PWA 73) NiAl (Ni,Pt)Al + PtAl2 (Ni,Pt)Al + PtAl2 Substrate Alloy 1 Alloy 2 Alloy 1 Alloy 2
+
+Tab. 2: Type and substrate of the coatings tested.
+
+b. Cyclic Oxidation Test Procedure The samples were placed on a motionless mullite sample-holder whereas the movement of the tubular furnace occurred by horizontal linear motion. The hot furnace was moved over the sample within 2 min. A thermocouple of type S was used to periodically calibrate the working zone temperature of the furnace during the tests. Precision of temperature was maintained within 1150 ±8°C. In order to be sure to measure the total mass change of the samples, including spalls, each 3
+
+sample was introduced into individual Al2O3 crucibles. Mass change of the crucible containing the specimen was recorded separately from that of the specimen. Measurements were repeated three times in order to allow accurate thermogravimetric curves. Cyclic oxidation tests were performed at 1150°C in laboratory air. Each cycle consisted of 1h at 1150°C, 44min at ambient temperature and 16min reheating (see fig. 1). These parameters were determined in accordance with the COTEST programme [6]. The sample temperature reached after cooling was about 80°C. The temperature profile was measured by a thermocouple in close contact with the tested specimens.
+
+Fig. 1: Temperature-time profile for the cyclic oxidation tests at 1150°C
+
+c. Microscopy, Microanalysis and X-Ray Diffraction After a certain number of cycles the tests were interrupted in order to investigate the oxide scale morphologies and compositions of the coatings. Optical, SEM and EPMA investigations have been carried out for imaging of microstructural features including quantitative phase composition analysis. Spalls were also periodically taken from the alumina crucibles and investigated by X-ray diffraction. Diffractograms were taken with and without silicon reference powder. The U-fit software [7] has been used to fit the lattice parameters of the different structures. In order to determine the volume fractions of the individual crystalline phases as a 4
+
+function of cycle number, a method close to that proposed by Chmielova has been used [8]. If A is the oxidation product with the highest X-ray peak, then the following equations allowed the phases: xi I = i , for i = 1 to n-1 xA IA x A + x1 + ... + x n -1 = 1 , products and IA, I2, ..., In-1 the highest peak intensities for each phase determined from XRD patterns. where xA, x1, ..., xn-1 are the volume fractions of the n oxidation quantitative determination of the fraction volumes of the n different
+
+3. Results and Discussion
+a. Microstructure in the As-Received Conditions
+
+Aluminide coatings
+Cross sections of the as-coated specimens are shown in Fig. 2. Backscattered electrons micrographs showed that Al 1 and Al 2 coatings had a -(Ni,Al) outer zone (OZ) rich in substrate element precipitates. Between the OZ and the substrate, an interdiffusion zone (IZ), consisting of large alloying element precipitates was apparent. Average thicknesses of the two coatings including the interdiffusion zone were 72 and 83 µm, respectively. Because of the high density and the small size of the precipitates, it was not possible to investigate separately the -(Ni,Al) matrix and the alloying element precipitates. Then, compositions of the coatings were determined by EDS analyses of 5x70 µm2 areas within 5 µm of the coating surface (see table 3). It has been shown that the presence of 2 at.% Ti close to the surface of the Al 2 coating coming from the alloy 2 clearly differentiated both coatings (see Fig. 3). EDS investigations also revealed that the surface at.% Al) with poor adherence to the coating whereas the Al 2 coating precipitates. of the Al 1 coating consisted of Al-rich -(Ni,Co)Al particles (up to 55 presented a 2-3 µm -(Ni,Co)(Al,Ti,Cr) layer poor in alloying element
+
+5
+
+Ni Al 1 36.5 Al 2 36.1
+
+Al 50.5 49.0
+
+Cr 5.3 5.7
+
+Co 3.7 2.6
+
+Ti / 2.0
+
+Ta 2.2 2.7
+
+W 1.5 1.5
+
+Mo 0.3 0.4
+
+Re 0.0 0.0
+
+Table 3: Chemical composition of the Al 1 and Al 2 coatings within 5µm of the surface (EDS analyses).
+
+a)
+
+b)
+
+Fig. 2: SEM micrographs of the as-coated a) Al 1 and b) Al 2 coatings.
+
+Fig. 3: Ti-distribution in the Al 2 coating in the as-coated conditions.
+
+Platinum aluminide coatings
+Figure 4 shows the microstructures of the two platinum aluminide coatings. From the SEM micrographs it was possible to distinguish for each coating three different zones. The outermost layer consisted of a -(Ni,Pt)Al/PtAl2 fine-grained zone dissolving in both, -(Ni,Pt)Al and PtAl2 structures, Co, Cr and, in the case of PtAl 2, a low amount of Ti
+
+(see tables 4 and 5). The intermediate layer was composed of a -NiAl 6
+
+matrix with Cr- and Ta-rich precipitates. The interdiffusion zone consisted of Cr-, Ti-, Ta-, W- and Re-rich precipitates. X-ray mappings showed that platinum was mainly localised in the outermost layer of the coating. The thicknesses of the coatings PtAl 1 and PtAl 2 including the interdiffusion zone were 60 and 58, respectively. For each coating, a row of pores evidencing the original substrate surface was apparent above the interdiffusion zone.
+
+a)
+
+b)
+
+Fig. 4: SEM micrographs of the as-coated a) PtAl 1 and b) PtAl 2 coatings.
+
+Ni PtAl 1 PtAl 2 38.0 39.0
+
+Al 51.0 50.6
+
+Pt 6.1 6.4
+
+Cr 4.4 3.4
+
+Co 0.5 0.5
+
+Ti / 0.04
+
+Table 4: Chemical composition (at.%) of the -(Ni,Pt)Al phases present in the OZ of the platinum aluminide coatings (within 5 µm of the coating surface).
+
+Ni PtAl 1 PtAl 2 16.1 13.9
+
+Al 54.2 54.6
+
+Pt 22.5 23.5
+
+Cr 1.8 1.8
+
+Co 5.0 5.3
+
+Ti / 0.80
+
+Table 5: Chemical composition (at.%) of the PtAl2 phases present in the OZ of the PtAl 1 and PtAl 2 coatings (within 5 µm of the coating surface).
+
+7
+
+b. Cyclic Oxidation Tests at 1150°C
+
+Aluminide coatings
+Results of the weight change measurements as a function of the number of cycles are given in figure 5. Curves show that coatings Al 1 and Al 2 had a very similar behaviour up to the end of the tests (2269 cycles).
+
+5 0 Weight change [mg/cm²] -5 -10 -15 -20 -25 -30 -35 -40 Number of cycles 0 500 1000 1500 2000 2500
+
+Al 1
+
+Al 2
+
+Fig. 5: Results of the weight-change measurements of aluminide coatings Al 1 and Al 2.
+
+The optical inspection of the crucibles containing the specimens showed that the spallation starting point of the oxide layers lies after about 10 and 40 cycles for Al 1 and Al 2, respectively. Coating Al 1 revealed the early formation of a blue oxide scale, characteristic of the spinel NiAl2O4. From X-ray diffraction patterns of NiO particles could also be evidenced. As shown in Fig. 7a, the spall volume fraction of Al2O3 and TaO2 decreased progressively during the first 1600 cycles whereas the formation of NiAl2O4 showed an increase. NiO appeared only after longer exposure times and was found to be predominant in the spalls collected after about 2200 cycles. It was also obvious that the appearance of NiO coincided with the formation of a dark-grey oxide layer in the centre of the samples. Coatings Al 2 revealed more complex oxidation mechanisms. The early stages of oxidation (<40 cycles) led to the formation of a yellow oxide layer (see Fig. 6). X-ray patterns evidenced in the spalls the presence 8 the spalls collected in the crucibles, the presence of Al2O3, TaO2 and
+
+of the compounds -Al2O3, NiAl2O4 and TaTiO4 (see Fig. 7b). Then, TaTiO4 was assumed to be responsible for the yellow colour of the oxide layer since NiAl2O4 and Al2O3 are known to be blue and grey,
+
+respectively. The early extensive formation of TaTiO4 is also in
+
+accordance with the Ti-distribution micrograph (see Fig. 3) exhibiting a high Ti-concentration within 3 µm of the surface. After consumption of the titanium close to the coating surface, the volume fraction of TaTiO4 progressively decreased whereas NiAl2O4 predominantly formed. In the case of coating Al 2, the oxide layer became
+
+progressively green (due to a mixture of yellow and blue oxides) after about 500 cycles and then completely blue after about 1500 cycles (see Fig 6c and d). product of both coatings. Nevertheless, the extensive spallation of the oxide layers during cooling never allowed the formation of a protective alumina scale. The continuous re-oxidation of the coating surface led to progressive aluminium depletion of the coating. Finally no more Alrich oxide (Al2O3, NiAl2O4) was formed and oxidation was dominated by fast growing NiO. Comparing Al 1 and Al 2, it was obvious that the appearance of NiO occurred later on coating Al 2 than on coating Al 1 (see Fig. 7). Moreover, the Al2O3 volume fraction in the spalls of Al 2 decreased slower than for coating Al 1. However, the weight change curves of both coatings were very similar and did not seem to be affected by the fact that Al2O3 formed more easily on coating Al 2. SEM inspections causing cracking of the upper oxide layer as shown in figure 8. also evidenced the detrimental effect of Ti-rich oxides (TaTiO4) A considerable amount of Al2O3 has also been evidenced as oxidation
+
+9
+
+a)
+
+b)
+
+c)
+501 and d) 1515 cycles.
+
+d)
+
+Fig. 6: Appearance of the surface on coating Al 2 a) as-received and after b) 22, c)
+
+10
+
+100%
+
+80% Volume fraction
+
+60%
+
+40%
+
+NiO TaO2 NiAl2O4 Al2O3
+
+20%
+
+0% 200 520 1220 Number of cycles 1617 2268
+
+a)
+100%
+
+80% Volume fraction
+
+60%
+
+40%
+
+NiO TaTiO4 NiAl2O4 Al2O3
+
+20%
+
+0% 36 150 520 1220 Number of cycles 1617 2195
+
+b)
+Fig. 7: Volume fraction of the oxidation products collected in the crucibles of a) Al 1 and b) Al 2 after different numbers of cycles.
+
+11
+
+Fig. 8: Formation of Ti-rich oxides on the surface of coating Al 2 causing spallation of the Al-rich oxide layer.
+
+In table 6, a comparison of the measured structural parameters of the different oxidation products with those from the JCPDS-files in some cases showed a distortion of the expected lattices. This effect is explained by the substitution of Ni, Al or Ta by other coating/substrate transition metal elements. Indeed, EDS-analysis of the spalls showed the presence of Co and Cr in NiAl2O4 (up to 4 at.% for both elements), TaO2 and TaTiO4 structures. TaO2 and TaTiO4 particles were too fine to determine their exact compositions. Nevertheless, analyses confirmed that TaTiO4 was the only structure where Ti was found. Analyses of alumina particles evidenced the formation of pure Al2O3. No Cr, usually in solid solution in this structure, could be detected. Sample Al2O3 lattice parameters NiAl2O4 lattice parameters JC-PDS reference Xray diffraction pattern Al 1 82-1468 a = 4.7589 c = 12.9919 a = 4.76 c = 12.99 Al 2 a = 4.76 a = 8.08 a = 8.07 78-0552 a = 8.050 77-2305 a = 13.32 c = 6.120 a = 13.20 c = 6.05 a = 4.62 TaO2 lattice parameters TaTiO4 lattice parameters 81-0912 a = 4.709 c = 3.067
+
+12
+
+c= 12.991
+
+c = 2.99
+
+Tab. 6: Comparison between parameters taken from JCPDS-data and those measured from the spall X-ray diffraction patterns after 520 cycles (fitted using the U-fit software).
+
+SEM investigations showed in Fig. 9 on the surfaces of both coatings the formation of three different zones that could be associated with areas where the oxide scale is still adherent (zone 1), where reoxidation occurred after spallation (zone 2) and where spallation had just taken place (zone 3) respectively. Investigations also revealed the formation after about 1500 cycles of extensive quantities of voids with sizes up to about 20 µm. Such voids are known from the literature by different diffusivities of Ni and Al in the -NiAl structure or to condensation of vacancies during cooling. They are detrimental for the adherence of the oxide scale and promote its spallation during cooling of the specimens. [9,10] and are assumed to be due to either a Kirkendall effect induced
+
+Fig. 9: Surface of coating Al 1 after 1550 cycles.
+
+Platinum aluminide coatings
+The results of the weight change measurements are shown as a function of the number of cycles in figure 10. Curves of each coating exhibited two different regimes: an increase of the weight gain due to the formation of an adherent and protective oxide scale followed by a rapid weight loss due to extensive spallation of the oxide layer.
+
+13
+
+0 0 Weight change [mg/cm²] -5 500 1000 1500 2000 2500
+
+-10
+
+-15
+
+PtAl 1
+-20
+
+PtAl 2
+
+Number of cycles
+
+Fig. 10: Results of the weight-change measurements of aluminide coatings PtAl 1 and PtAl 2.
+
+Coating morphology before the beginning of spallation
+Optical inspections before the beginning of spallation revealed for each coating the presence of a brown-grey oxide layer identified by XRD as -Al2O3. SEM investigations showed that this oxide scale consisted of Al2O3 platelets (see Fig. 11). After 160 cycles, coating surfaces of both coatings revealed the formation of wrinkles [11] (see Fig. 12 a). As shown in figure 12 b, the growth of the wrinkles progressively led to the formation of cracks assumed to be responsible for the beginning of oxide scale spallation. Magnification of the weight change curves just before specimens started to loose weight showed that spallation began for both coatings after approximately 1250 cycles (see Fig. 13). It was difficult to attribute any chemical effect to the coating platinum concentrations since the coating performances were dominated by the mechanical properties of the oxide layer formed.
+
+14
+
+Fig. 11: SEM micrograph of the PtAl 2 coating after 36 cycles.
+
+Growth of wrinkles
+
+a)
+
+b)
+
+Fig. 12: Surface morphology of coating PtAl 2 after a) 160 and b) 500 cycles.
+1,2 1 Weight change [mg/cm²] 0,8 0,6 0,4 0,2 0 0 200 400 600 800 1000 1200 1400 1600 1800 Number of cycles
+
+PtAl 1
+
+PtAl 2
+
+Fig. 13: Results of the weight-change measurements for the platinum aluminide
+
+15
+
+coatings PtAl 1 and PtAl 2.
+
+Coating morphology after the beginning of spallation
+After the beginning of spallation, the oxidation resistance of the coatings was exclusively dominated by the spallation kinetic of the oxide layer. For each coating, blue zones, revealing the formation of NiAl2O4, appeared preferentially in the centre of the specimens (see surface of the coatings. Finally, a dark-grey NiO-rich oxide layer formed on the specimens (see Fig. 14 c). Fig. 14 b). Then, progressively the blue oxide layer covered the entire
+
+a)
+
+b)
+
+c)
+Fig. 14: Appearance of coating PtAl 1 after a) 500, b) 1500 and c) 2145 cycles.
+
+Weight change curves, that were very similar for both coatings up to about 1300 cycles, revealed relevant differences in the mass loss rates after the beginning of spallation. The marked difference in the spallation rates of coating PtAl 1 and PtAl 16
+
+2 was surprising. PtAl 2, deposited on alloy 2, clearly showed a slower weight loss compared to PtAl 1 deposited on alloy 1. This indicated a beneficial influence of alloy 1 as substrate material since PtAl 1 and 2 were deposited with the same coating parameters. After 2300 cycles, X-ray diffraction patterns revealed the rapid formation of NiO in accordance with observations of Göbel et al. [12] on CMSX-4
+
+substrates coated with a Pt-Al diffusion coating. The volume fractions of each oxide calculated from the XRD patterns confirmed the better behaviour of PtAl 2 compared to PtAl 1. Indeed, the volume fraction of NiO was much higher in the spalls coming from PtAl 1 (see Fig. 15), which in turn indicates a more rapid aluminium depletion of the investigations of PtAl 1 and PtAl 2 spalls also evidenced the presence of a few Pt and (W, Ta) oxide particles that could not be detected by XRD. coating preventing the formation of Al2O3 or NiAl2O4. SEM
+
+100% 80% Volume fraction 60% 40% 20% 0% PtAl 1 PtAl 2
+
+NiO TaTiO4 TaO2 NiAl2O4 Al2O3
+
+Fig. 15: Volume fraction of the oxidation products collected in the crucibles of PtAl 1 and PtAl 2 after 2300 cycles.
+
+Surface investigations of the specimens after 2300 cycles revealed a similar surface morphology as that observed on the aluminide coatings (see Fig. 16). Only small quantities of platinum could be detected by SEM on the coating surfaces.
+
+17
+
+Fig. 16: SEM micrograph of the surface of coating PtAl 2 after 2300 cycles.
+
+4. Conclusion
+Investigations of the cyclic oxidation behaviour of aluminide coatings evidenced that due to thermal cycling, the coatings were not able to form a protective -Al2O3 scale. It has been shown that as a function of the coating composition, many different types of mixed oxides can form during the oxidation tests. The aluminide coatings deposited on alloy 1 and alloy 2 up to about 1600 cycles exhibited NiAl2O4/Al2O3/TaO2 and NiAl2O4/Al2O3/TaTiO4 oxide layers, respectively. Longer exposures led to the rapid growth of NiO. The detrimental effect of Ti has also been evidenced by the growth of Tirich oxides leading to cracking of the upper Al-rich oxide scale. Although the oxide layers formed on both coatings tested showed many compositional differences, the weight change curves evidenced that both coatings had up to about 2269 cycles a very similar behaviour. From the weight change measurements, it has been demonstrated that the cyclic oxidation resistance of the platinum aluminide coatings was much better than that of the aluminide coatings. Addition of platinum could delay the beginning of spallation up to about 1250 cycles by promoting the formation of an adherent and protective -Al2O3 scale. The start of spallation was due to the wrinkling of the coating surfaces leading to rapid degradation of the platinum aluminide coatings. After 2000 cycles, the coatings showed a similar morphology as that observed on aluminide coatings. Particularly, both types of coatings exhibited extensive quantities of voids at their surfaces. Finally, the investigations also showed that the combination of alloy 2 18
+
+as substrate material and platinum aluminide coatings was the best among the systems tested.
+
+Acknlowledgements
+This work was supported by the ORDICO European-funded R&D programme N°G4RD-CT-2000-00319. The authors thank MTU Aero Engines and Fiat Avio for providing specimens, the whole project consortium (MTU Aero Engines/Germany, Fiat Avio/Italy, IAM-JRC Petten/Netherlands, Archer Technicoat Ltd/UK, SIFCO Turbine Components/Ireland, IOPW/Germany, Lufthansa Technik AG/Germany, CRF/Italy, Techspace Aero/Belgium) for very useful discussions, M. Schorr, P. Gawenda, M. Jusek for EPMA, SEM and X-ray diffraction analyses, respectively.
+
+References
+
+[1] E.J. Felten, Oxidation of Metals, 10, 1, 23-28, 1976 [2] Y. Zhang, W.Y. Lee, J.A. Haynes, I.G. Wright, B.A. Pint, K.M. Cooley, 2687, 1999 P.K. Liaw, Metallurgical and Materials Transactions A, 30A, 2679-
+
+[3] J. Schaeffer, G.M. Kim, G.H. Meier, F.S. Petit, in E. Lang (ed.) The Role of Active Elements in the Oxidation Behaviour of High Temperature Metals and Alloys, Elsevier, Amsterdam, 231-267, 1989 [4] J.A. Haynes, Y. Zhang, W.Y. Lee, in N.B. Dahotre, J.M. Hampikian (eds.), Elevated Temperature Coatings: Science and Technology III,
+
+TMS, Warrendale, PA, 186-196, 1999
+
+[5] European Union-funded Research Programme N° G4RD-CT-200000319, see www.ordico.eu.com for more details [6] European Union-funded Research Programme N° GRD1-200140037 M-T, see http://cotest.dechema.de for more details [7] M. Evain, Institut des Matériaux de Nantes, France, Version 1.3, 1992 19
+
+[8] M. Chmielova, J. Seidlerova, Z. Weiss, Corrosion Science, 45, 883889, 2003 [9] C. Leyens, B.A. Pint, I.G. Wright, Surface and Coatings Technology,
+
+133-134, 15-22, 2000
+
+[10] D. Oquab, D. Monceau, Scripta materialia, 44, 2741-2746, 2001 [11] V.K. Tolpygo, D.R. Clarke, Acta mater., 46, 14, 5167-5174, 1998 [12] M. Göbel, A. Rahmel, M. Schütze, Oxidation of Metals, 41, 3/4, 271-299, 1994
+
+20
+

@@ -1,0 +1,419 @@
+Volume 6 Paper C054 Pitting Of Carbon Steel Heat Exchanger Tubes In Industrial Cooling Water Systems
+N. Laycock1, S. Hodges1, D. Krouse1, D. Keen2 and P. Laycock3
+1Industrial
+
+Research Limited, Gracefield Research Centre, PO Box 31-310, Lower Hutt, New Zealand, n.laycock@matperf.com 2Plant Reliability Solutions Pty Ltd, PO Box 263, Carina, 4152, Australia, dkeen_prs@powerup.com.au 3UMIST, Mathematics Department, PO Box 88, Manchester M60 1QD, UK, pjlaycock@umist.ac.uk
+
+Abstract
+A model is described for the evolution of the maximum pit depth in carbon steel heat exchanger tubes exposed to industrial cooling water. This model assumes that pitting occurs only intermittently, during relatively short periods when the environmental conditions are outside the safe operating envelope. The model is discussed in relation to a survey of cooling water chemistry and heat exchanger inspection data from nine industrial plants, together with a laboratory investigation of pure iron in pH 8.4 borate buffer solution with and without 0.01M chloride. Keywords: carbon steel, pitting corrosion, statistics, cooling water
+
+Introduction
+Heat exchangers often contain several hundred tubes that can be as ECT, IRIS and LOTIS. Potentially more accurate measurements can be made by tube extraction and destructive laboratory examination, but this is necessarily limited to only a few tubes. Even when nondestructive methods are used, it is rare for inspection to cover more than 10-20% of the tube bundle. Consequently, when pitting corrosion inspected in-situ through the use of non-destructive techniques such
+
+is found within the inspected tubes, maintenance engineers must estimate the extent of damage in the remaining tubes and decide whether or not the exchanger will function adequately until at least the next scheduled inspection. In these situations, extreme value (EV) the present condition of the entire tube bundle [1] EV techniques can also be easily applied to life prediction, provided that inspection data are available for a number of different times, and that operating conditions in the future can reasonably be considered similar to those in the past [2]. However, even with a well managed water treatment program, the environmental conditions are by no means constant over prolonged periods of time. A Japanese survey of carbon steel heat exchangers in cooling water circuits found that the depth of the deepest pit tends to increase with the square root of time over many years of service [3], but the underlying mechanisms are far from clear. For example, does pitting occur continuously during operation, or only in short bursts when certain (rare) conditions are reached? In the latter case, do the same pits re-initiate many times, or not? In this paper we consider the kinetics of pit initiation and growth based on laboratory data from a range of potential-controlled tests in pH 8.4 borate buffer solution with low level chloride additions. These inspection data from industrial plants in New Zealand and Australia. results are discussed in relation to water chemistry and tube statistical techniques can be used to provide robust assessments of
+
+Industry Survey
+This survey involved nine industrial plants, operated by a total of five different companies. The plants were variously engaged in the production of ammonia, nitric acid, sulphuric acid, or nickel. From each plant, we obtained historical records of cooling water (CW) chemistry, together with the inspection and maintenance records for all carbon steel heat exchangers in their CW systems. The type and extent of available information varied considerably between sites, but some key factors were monitored and recorded in all cases.
+
+2
+
+Water Chemistry The raw water quality and CW treatment regimes varied from plant to plant. However, some general similarities can be identified. The target pH was somewhere between 7.4 and 8.2, total hardness was typically 200­500 ppm (as CaCO3), and the nominal maximum chloride concentration was between 200 and 500 ppm. Six of the plants were using a zinc phosphate-based corrosion inhibitor, two were using phosphate without zinc, and one was using zinc in conjunction with the relatively high level of natural silicate in their raw water. Microbiological control was typically achieved by a mixture of chlorine and bromine-based programmes, although one plant was using chlorine-dioxide, and a variety of proprietary scaling inhibitors were in use. As expected, all measured water chemistry parameters showed considerable variation over time. For example, Figure 1 shows the variation of the chloride concentration over about 3 years since commissioning of "Plant A".
+400 Chloride concentration (ppm) 350 300 250 200 150 100 50 0 28-Aug-99 14-May-00 29-Jan-01 16-Oct-01 3-Jul-02 20-Mar-03
+
+Date
+
+Figure 1: Chloride concentration in the CW at plant A as a function of time since commissioning. The nominal maximum chloride level at this plant is 300 ppm. Inspection and maintenance records We have not yet completed a full analysis of the inspection and maintenance records from each site. However, for one plant ("B") we have identified the actual service lifetime of carbon steel tube bundles, separating those with CW on the shell-side from those with CW on the 3
+
+tube-side (Figure 2). Ignoring those HEs that have been in-service for less than 20 years and are still-running, 43% (6/14) of those with CW on the tube-side and 78% (7/9) of those with CW on the shell-side were replaced within 20 years. This apparent difference in life expectancy is consistent with the view of several plant engineers that cleaning, frequently lead to Microbially Influenced Corrosion (MIC) problems in HEs with CW on the shell-side.
+40
+
+lower flow rates, and the relatively greater difficulty of in-situ
+
+35
+
+30
+
+25 Life (Years)
+
+20
+
+Still Running Replaced
+
+15
+
+10
+
+5
+
+0 A B C D E F G H I J K L M N O P Q R S T U V W X Y Z AA Heat Exchanger ID
+
+(a)
+40
+
+35
+
+30
+
+25 Life (years)
+
+20
+
+Still Running Replaced
+
+15
+
+10
+
+5
+
+0 A B C D E F G H I J K L M N Heat Exchanger ID
+
+(b)
+
+Figure 2: Service lifetime before replacement for carbon steel heat exchanger tube bundles at Plant B: (a) for those with CW on the tubeside; (b) for those with CW on the shell-side. For plants A and B, we have also obtained a selection of tubes extracted from a small number of heat exchangers. In both cases, the 4
+
+CW-side of the tubes showed extensive pitting corrosion. For one tube from each plant, we measured the depth of every observable pit within a narrow (~1.6 mm) band around the full circumference of a randomly selected part of the tube ­ see Figure 3.
+80 Frequency (number of pits) 70 60 50 40 30 20 10 0
+10 0 13 0 16 0 28 0 22 0 25 0 19 0 31 0 10 40 70
+
+Pit Depth (microns)
+
+(a)
+140 Frequency (number of pits) 120 100 80 60 40 20 0 10 40 70 100 130 160 190 220 250 280 310 340 370 400 Pit Depth (microns) 430
+
+(b) Figure 3: Pit depth distributions for the CW-side of carbon steel tubes: (a) From a HE at Plant A where the CW was on the shell-side, and the tube was extracted after about 1 year of service; (b) From a HE at Plant B where the CW was on the tube-side, and the tube was extracted after about 20 years of service. Measurements were made using a metallurgical microscope with a graduated focus, and the estimated accuracy is ± 20 µm.
+
+For plant A we have also been provided with non-destructive examination (NDE) results from inspection of one heat exchanger after 5
+
+two years of operation. The NDE results were provided simply as the maximum measured pit depth in 40 inspected tubes, which amounted to about 10% of the tubes in the bundle. These data are presented in Figure inspection of three tubes extracted after one year of operation. Also 4, together with comparable results from microscopic
+
+plotted is the fitted mean function obtained from a 4-parameter GEV
+
+fit to these data, as in Laycock et al [2]. On each fixed inspection date, distribution for these data. That model also assumes an increasing variance for the data, as observed here. However, the pit-depths significantly different from the default assumption of a Type I
+
+this analysis showed a reasonable fit to a Type II or Frechet
+
+measured at the 1st inspection had a distribution which was not distribution (P<0.20) whilst those measured at the 2nd inspection, although they had a noticeably longer upper tail, nevertheless only showed some evidence against a Type I distribution (P<0.03). Estimates of the maximum pit depth in the whole HE, assuming a Type I distribution, are also shown in Figure 4.
+
+Pit depth (microns)
+
+2500 2000 1500 1000 500 0 0 200 400 600 800 1000 Days in service observed data fitted mean function Type I whole HE return level
+
+Figure 4: Maximum pit depths for one HE at Plant A. The data points are the maximum pit depths measured in each inspected tube from two separate inspections. Also shown are the GEV estimate of the mean-maximum pit depth and the Type I estimate of the maximum pit depth in the whole HE.
+
+Experimental
+The test solution for this work was pH 8.4, 0.136 M borate buffer solution, sometimes with the addition of 0.01 M NaCl. These solutions 6
+
+(7.07 g l-1) and NaCl (0.58 g l-1) and distilled water, and de-aerated by bubbling with nitrogen. The reference electrode for these experiments
+
+were made up using analytical grade Na2B4O7.10H2O (8.17 g l-1), H3BO3
+
+was a saturated calomel electrode (SCE) and all potentials in this paper are quoted against this reference. Potential and current data were acquired digitally at sampling rates appropriate for each of the different tests. Polarisation Curves Pure (99.9%) iron plate was obtained from Goodfellow Metals and used to make working electrodes with an exposed surface area of about 1 cm2, polished to a 220 grit finish. Upon immersion, the samples were cathodically treated at -1V for 10 minutes. Any hydrogen bubbles on the sample surface were removed by agitation of the sample, and then the potential was swept anodically at 1 mV s-1 until the anodic current density exceeded 1 mA cm-2. Data were recorded at 1 Hz, and the pitting potential was defined as that where the anodic current density last crossed 100 µA cm-2 before the end of the experiment. Potentiostatic Passivations Pure (99.99+%) iron wire (diameter 1 mm) was obtained from Goodfellow Metals and used to make working electrodes in which only the end of the wire was exposed. The exposed area was ~0.008 cm2, and the surface was polished to a 220 grit finish. These samples were cathodically treated (as above), then the potential was stepped to the test potential and held for 50 or 60 minutes. Test potentials ranged from -500 mV to + 200 mV and data were recorded at 7 Hz. A small number of tests were also carried out in which the current was recorded at 1009 Hz for arbitrarily selected 60 s periods during 60 minute passivations. Interrupted Pitting Tests Pure (99.9%) iron plate was obtained from Goodfellow Metals and used to make working electrodes with an exposed surface area of about 4 cm2, polished to a 220 grit finish. In each experiment, a sample was cathodically treated (as above) and then the potential was stepped to 7
+
+the test potential of 0 V and held for 2 to 30 minutes. The sample was then removed, ultrasonically cleaned in acetone and examined using a metallurgical microscope. After examination, the sample was reimmersed and the potential was stepped immediately back to the test potential and held for another period of 2 to 30 minutes. The sample was then removed, cleaned and inspected again. This sequence of potentiostatic immersion and ex-situ inspection was repeated several times for each sample. During every inspection, two sets of measurements were made: i Pit depth measurements. Before the experiment, five separate points on the sample surface were identified in terms of their position relative to one corner of the sample, which was marked as the origin. During inspection, the microscope field of view was first centred on each of these points, such that the number and exact location of all pits within an area of 0.02 cm2 could be identified for each point. These areas did not include any of the sample edges. The depth of each individual pit in these five areas was then measured by separately focusing the microscope on the pit edge and the pit bottom and recording the relative movement of the microscope stage. ii Pitting density measurements. Before the experiment, three
+
+separate strips on the sample surface were also identified. The strips were each 1.6 mm wide and ran parallel to each other across the full 2 cm width of the sample, giving a total surface area within these strips of 0.96 cm2 per sample. During each inspection, the total number of pits within these three strips was recorded.
+
+detected and that the accuracy of our measurements was ± 20 µm.
+
+In both cases, we estimate that all pits with a depth > 20 µm were
+
+Results
+Polarisation curves Figure 5 shows a typical polarisation curve for pure Fe in borate buffer solution containing 0.01 M NaCl: stable pitting begins at about 0 mV. 8
+
+In Figure 6, we have plotted the cumulative probability of failure (n/N) at any given potential, and N is the total number of tested samples. vs potential, where n is the number of failed (i.e. stably pitted) samples
+
+Thus, each data point indicates the pitting potential of an individual sample, which varied from about -35 mV to +15 mV in these tests.
+1000 100 i ( A cm-2) 10 1 0.1 0.01 -1.2
+
+-1
+
+-0.8
+
+-0.6
+
+-0.4
+
+-0.2
+
+0
+
+0.2
+
+0.4
+
+Potential (V vs SCE)
+
+Figure 5: Typical polarization curve for pure Fe in pH 8.4 borate buffer solution containing 0.01 M NaCl. Stable pitting begins at about 0 mV.
+Cumulative Probability of Failure (n/N) 1 0.9 0.8 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0 -0.04
+
+-0.03
+
+-0.02
+
+-0.01
+
+0
+
+0.01
+
+0.02
+
+Potential (V vs SCE)
+
+for 7 potentiodynamic tests of pure Fe in pH 8.4 borate buffer solution containing 0.01 M NaCl. Potentiostatic passivations Figure 7 shows a typical current decay for passivation at -175 mV in the borate buffer + chloride solution. Superimposed on the passive current are a number of short-lived current transients, generating 9
+
+Figure 6: Cumulative probability of failure (n/N) vs applied potential
+
+peak currents up to ~200 nA above the background. Figure 8 shows one of the smaller transients, recorded at a high sampling frequency in order to reveal its shape.
+1000 900 800 700 600 500 400 300 200 100 0 0 500 1000 1500 Time (s) 2000 2500 3000
+
+Figure 7: Typical potentiostatic current decay for pure Fe at -175 mV in pH 8.4 borate buffer solution containing 0.01 M NaCl. Data recorded at 7 Hz.
+40 35 30 25 I (nA) 20 15 10 5 0 13.47 13.48 13.49 Time (s) 13.5 13.51
+
+Figure 8: Individual anodic current transient from pure Fe at -175 mV in pH 8.4 borate buffer solution containing 0.01 M NaCl. Data recorded at 1009 Hz. As shown in Figure 8, many of the anodic transients had an extremely short lifetime (~20-100 ms), and generated peak currents only slightly above the apparent background noise level (~20-30 nA). Thus, it was not immediately clear whether these transients were caused by a 10
+
+I (nA)
+
+physical process, or were simply irregular experimental noise. However, we have developed software routines for automated counting of transient signals exceeding any specified threshold above the background level. For experiments both with and without the presence of chloride, Figure 9 shows the total number of transients (Ntot) as a function of the specified detection threshold. Clearly, for any threshold level, the number of transients is ~1-2 orders of magnitude greater in containing solutions, we assume that the majority (>90%) of transients are generated by chloride-induced, localised breakdown of passivity. The characteristic transient shape (Figure 8) is similar to that produced by metastable pitting of iron [4], but the transients in this work are much smaller (both in terms of peak height and event duration). Consequently, at this stage, we tentatively consider these transients to be the result of pit nucleation events, analogous to the sub-nanoamp anodic transients observed on stainless steels [5,6,7] and titanium [8].
+1000000 100000 Ntot (cm-2) 10000 1000 100 10 1 0 10 20 30 40 50 60 70 80 Threshold (nA) Borate+Cl Borate only
+
+the presence of chloride. Thus, for experiments with chloride-
+
+Figure 9: Total number of anodic transients as a function of the specified detection level for pure Fe in pH 8.4 borate buffer solution, with and without 0.01 M NaCl. Data were recorded at 7 Hz. For experiments in chloride-containing solutions, Figure 10 shows the number of transients as a function of time for experiments in the chloride-containing solution at -175 mV. Clearly, the rate of pit nucleation decreases with time such that the total number of the total number of pit nucleation sites available at that potential (in this environment). As shown in Figure 11, the number of available 11 transients in each experiment (Ntot) is assumed to be approximately
+
+sites is approximately zero at low potentials (less than about -300 mV), but increases very rapidly as the pitting potential is approached. In these potentiostatic experiments, stable pitting occurred at slightly lower potentials than suggested by the potentiodynamic results shown in Figure 6.
+
+90000 80000 70000 60000 N (cm-2) 50000 40000 30000 20000 10000 0 0 500 1000 1500 Time (s) 2000 2500 3000
+
+Figure 10: The number of transients (N), above a 40 nA threshold, as a function of time for pure Fe at -175 mV in pH 8.4 borate buffer solution with 0.01 M NaCl. Results are shown for 3 experiments, with data recorded at 7 Hz.
+90000 80000 70000 Ntot (cm-2) 60000 50000 40000 30000 20000 10000 0 -500 -400 -300 -200 -100 0
+
+E (mV vs SCE)
+
+Figure 11: The total number of events (Ntot), above a threshold of 40 nA threshold, as a function of the test potential for pure Fe in pH 8.4 borate buffer solution with 0.01 M NaCl. Interrupted Pitting Tests 12
+
+As shown in Figure 12, about 100 pits were typically found within the inspected area after the first immersion period. However, the number of pits did not usually increase significantly in the 2nd or subsequent periods of exposure. We take this to indicate that pits were initiated during the 1st period at almost all the sites capable of supporting stable pit growth in the test conditions.
+160 140 Number of pits 120 100 80 60 40 20 0 0 10 20 30 40 50 60 70 Time (minutes)
+
+Figure 12: The number of pits identified in the specified area during interrupted pitting tests of pure Fe in pH 8.4 borate buffer containing 0.01 M NaCl. Results are shown for immersion times ranging from 2 to 20 minutes, at a test potential of 0 mV. The depth of individual pits was also measured after each immersion period. In Figure 13, the pit depths measured at the end of the 1st immersion period are shown, for immersion times varying from 2 to 30 minutes. If we assume that the largest pits initiated at the beginning of the test and propagated throughout the first immersion period, then the fitted curve through the maximum pit depths gives an indication of the kinetics of single pit growth in these conditions. The results suggest that the depth of individual pits increases with t1/2.
+
+13
+
+100 90 80 70 60 50 40 30 20 10 0 0 5 10 15 20 25 30 35 Time (minutes)
+
+Figure 13: Pit depths measured at the end of the 1st immersion period for various immersion times. Also shown is a best fit through the pit is the fitting parameter. In the majority of cases, however, there was no significant pit growth after the first period ­ see Figure 14. This suggests that once pit growth has been terminated by emersion, there is only a very low probability of re-initiating pitting at that site in the same test conditions.
+Frequency (number of pits) 6 5 4 3 2 1 0
+-10 - 0 0 - 10 10 - 20 20 - 30 30 - 40 40 - 50 50 - 60 60 - 70 70 - 80
+
+depth maxima to the equation, pit depth = t0.5, where t is time and 
+
+Pit depth (microns)
+
+Pit growth (microns) 2 minutes 10 minutes 30 minutes
+
+(a) Time period 1
+
+14
+
+Frequency (number of pits)
+
+8 7 6 5 4 3 2 1 0
+-10 - 0 0 - 10 10 - 20 20 - 30 30 - 40 40 - 50 50 - 60 60 - 70 70 - 80
+
+Pit growth (microns) 2 minutes 10 minutes 30 minutes
+
+(b) Time period 2
+
+Frequency (number of pits)
+
+8 7 6 5 4 3 2 1 0
+-10 - 0 0 - 10 10 - 20 20 - 30 30 - 40 40 - 50 50 - 60 60 - 70 70 - 80
+
+Pit growth (microns) 2 minutes 10 minutes 30 minutes
+
+(c) Time period 3
+
+Figure 14: The increase in depth of individual pits in the specified area during interrupted pitting tests of pure Fe at 0 mV in pH 8.4 borate immersion period; (c) 3rd immersion period. buffer containing 0.01 M NaCl, for: (a) 1st immersion period; (b) 2nd
+
+Discussion
+The primary goal of this work is to develop a model for the prediction of maximum pit depths in carbon steel tubes exposed to industrial CW over periods of several years. In particular, we aim to address issues arising from the inherent variability of the environmental conditions in CW circuits, and from the apparently reasonable assumption that pitting does not usually occur continuously throughout the service life of a heat exchanger. Pit Initiation Sites 15
+
+In potentiostatic tests of pure Fe in borate buffer solution with 0.01 M chloride, at potentials just below the stable pitting potential, we have found ~50,000 pit nucleation sites per cm2 (Figure 11). In comparison, from interrupted pitting experiments at potentials just above the pitting potential we found about 100 significant pits per cm2 (Figure 12), whilst in ex-service tubes (from both plants A and B) there were about 500 pits per cm2. Although the measurements methods are somewhat different, these results are comparable with those reported
+
+by Burstein and colleagues [7] for stainless steels, which show a are capable of supporting pit growth (either metastable or stable).
+
+nucleation site density of 107-108 cm-2, of which about 104-105 cm-2
+
+In the interrupted pitting tests, the conditions were very aggressive and the results indicate that almost all possible pit initiation sites were used within the first immersion period. However, we suggest that conditions in real CW systems will usually be less aggressive and that pit initiation rates will be much lower than observed experimentally in this work. It may also be that fresh sites are created at a significant rate by concurrent general corrosion processes. Therefore, within the range of validity of our proposed model, the density of possible pitting sites is effectively unbounded. We can now suppose that pits are activated according to a purely random process at a constant rate  per unit area. This implies that after an exposure time t, the count,
+
+n = n(t), of pits will follow a Poisson distribution with mean t per unit
+area. We are interested in the depths of the deepest pits seen in each sampled unit of area (e.g. in each inspected tube). Single Pit Propagation Kinetics If pits never deactivate then the deepest pits will simply be the oldest pits. And if pits grow according to a simple convex power law, then we can infer that the mean size, L, for these deepest pits will be proportional to a power of the maximum pit age. For a `worst case' scenario, we suppose that the unit of area is chosen so as to make this `oldest' pit. So that
+
+effectively the same as the overall exposure time, t, for each such
+
+L = t
+
+with 0 <  <= 1 16
+
+(1)
+
+for some appropriate growth rate parameter,  and power law number . Experimental data obtained in this work suggests a  value of 0.5, see Figure 13 above. This is consistent with diffusion controlled is consistent with a constant anodic current density within the pit, which is considered a definite (and unlikely to be achieved) upper which means that the fastest pits would propagate through a 2.5 mm tube wall in about 20 days. Notwithstanding that a potentiostatic test in borate buffer solution is significantly different from open-circuit exposure in a CW circuit, this finding is consistent with the notion that pitting corrosion of carbon steel does not usually occur continuously in real systems, otherwise the most rapid tube failures would take place in a matter of weeks rather than years (Figure 2). Environmental Variability We know that the environmental conditions within a CW system are highly variable. For example, Figure 1 shows the variation of the chloride concentration over time at Plant A. After an initial start up period of around two months, and allowing for one particularly long period with missing data, this has the characteristic appearance of a stationary stochastic process. There are 709 data points, with a minimum of 0 ppm, a maximum of 370 ppm and an average of 200 ppm. The data are negatively skewed relative to a Normal distribution, as can be seen in Figure 15, with small but statistically significant Generalized Pareto distribution to the upper tail of this distribution showed this to be not significantly different from a simple exponential tail, with a 10 year predicted maximum of 391 ppm and a 20 year predicted maximum of 408 ppm compared with the observed maximum of 370 ppm over three years. skewness [-0.721] and kurtosis [0.741]. Fitting a bound. Figure 13 also suggests a  value of about 15 µm min-0.5,
+
+growth of an approximately hemispherical pit. On the other hand, =1
+
+17
+
+200
+
+Number
+100
+
+Std. Dev = 53.64 Mean = 200.3 0 N = 709.00
+0 0. 38 0 0. 3 6 .0 0 3 4 .0 0 32 0 0. 3 0 .0 0 2 8 .0 0 26 0 0. 2 4 .0 0 22 0 0. 2 0 .0 0 1 8 .0 0 16 0 0. 1 4 .0 0 1 2 .0 0 10 0 . 80 .0 60 .0 40 0 . 20 0 0.
+
+CHLORIDE
+
+Chloride (ppm)
+
+Figure 15: Distribution of measured chloride concentrations (ppm) at Plant A over 3 years of operation. The first two months immediately after commissioning have been ignored. Obviously, the probability of pit initiation does not depend on just one critical factor. It is also apparent from Figure 2 that, even within the same system, small differences in variables such as the CW flow rate, process-side temperature or distance from the biocide dosing point can lead to differences of over 20 years between the lifetimes of different heat exchangers. It must also be acknowledged, as in the Larson-Skold index [9], that the ratio of aggressive anions (such as chloride) to non-aggressive anions (such as carbonate) is a much better indicator of corrosivity than is the chloride concentration alone.
+
+Nevertheless, as an example, it seems reasonable to suggest the existence of a critical chloride level above which pitting corrosion will occur, and below which (all else being equal) it will not.
+
+Now suppose that propagating pits can be deactivated by unfavourable conditions (e.g. low chloride levels), and that any such site cannot then be reactivated regardless of the conditions. This is consistent with the absence (in most cases) of any significant pit growth during the 2nd and 3rd immersion periods of the interrupted pitting tests (Figure 14). Now, let the active growth time for any one pit be denoted by . Then, at time t the deepest pits will be those with largest  and this will be 18
+
+the largest max=(n) of the n = n(t) active growth times for the pits in
+
+each sample unit of area. Finally, suppose that the conditions ( x = x ( t ) ) at any one site vary according to a stationary stochastic
+
+process such that the time, , for continuously favourable conditions (so x  F , say) has mean . We will now describe two possible methods of arriving at a suitable probability distribution for .
+
+%
+
+%
+
+%
+
+Method 1
+As discussed above, favourable conditions for pitting are likely to occur at high levels of chloride, so we are interested in the distribution of excursions above some critical (but as yet unknown) chloride concentration threshold. Table 1 shows the number of threshold upcrossings (i.e. occasions when the chloride concentration changed from below to above each given threshold), and the duration of those excursions, for the CW chloride concentration at Plant A. The nominal upper limit for chlorides at this plant is 300 ppm, and this level is only rarely exceeded. Arbitrarily choosing a critical level of 250 ppm produces a sample data set for  of 47 excursions with mean =2.1 days and a good fit to a GEV distribution having positive shape parameter =0.414, implying a Type II, or Frechet, distribution (see [10], pp46-47). For the excursion duration data, the kernel smoothed density function and the fitted Frechet density function can be seen in Figure 16 below.
+Thresholds Up-crossings count Average run length in days 0 3 50 5 100 20 150 37 200 74 7.74 250 47 300 8 350 1 400 0
+
+363.33 213.60 49.40 20.97
+
+2.09 1.38 1.00 0.00
+
+Table1: Threshold-crossing data for the CW chloride concentration at Plant A.
+
+19
+
+Probability duration
+
+Excursion duration (days)
+
+Figure 16: The kernel smoothed density function and the fitted Frechet density function for the duration of excursions above a 250 ppm chloride concentration in the CW at Plant A. It is known, see Leadbetter et al ([11], p22 with ="1/"), that a Type II asymptotically a Frechet distribution. As noted previously, the count of distribution lies in its own domain of attraction so that n-(n) has such excursions for a stationary process will have mean, n=t,
+
+proportional to the total exposure time t. So if we assume that each such excursion is associated with a pit, then, given that pits grow according to a power law with power law number , it follows that
+
+L = K1t
+
+for some constant K1
+
+(2)
+
+Since  < 1 in practice, as in the chloride data set examined above, by Equation (1). Experimental and field data values of `'=0.5 and this leads to a (logically necessary) lower growth rate than that implied
+
+`'=0.333 have been previously reported [2,3]. Similarly, both the GEV and Type I fits in Figure 4 gave an estimated value of `'=0.228, which implies an estimate of =0.456, assuming  has its theoretically
+and experimentally supported value of 0.5.
+
+Method 2
+Another approach to deriving a suitable probability distribution for  is to make a further theoretical assumption. If the favourable conditions region, F, for x is relatively small, or if pitting only occurs during extreme excursions of any relevant parameters - such as chloride 20
+
+%
+
+concentration, then  will be a purely random process with rate parameter 1/ and an exponential distribution for the active growth periods. The count of such excursions will have a Poisson distribution as suggested above, with mean (n=t) proportional to the total exposure time t (see [11], Theorem 9.1.2, p176). It is also known ([11], extreme value distribution. Given that pits grow according to a power law during their active growth period (as above), it follows that
+
+p20), that ((n) ­ loge(n))/ has then asymptotically got a Type I
+
+L = K2 [loge(t)]
+Pit Depth Prediction
+
+for some constant K2
+
+(3)
+
+When tube inspection data are available from several different times, it is appropriate to use purely statistical methods [2] to predict future pit depths. However, in our experience it is common for only one set of inspection data to be available. For this situation in particular, we have derived two possible equations (2 and 3) to estimate the meanmaximum pit depth per unit sample area as a function of time. To illustrate these methods, we have used the inspection data shown in Figure 4 for plant A. Firstly, we have used `'=0.228 (as discussed
+
+above) with K1 as a fitting parameter to fit equation (2) to the inspection data. Then, similarly, we have assumed a critical chloride concentration threshold of 250 ppm, giving n = 47, t = 3 years and
+
+=2.1 days, with K2 as a fitting parameter to fit equation 3 to the same
+data. As shown in Figure 17, despite the rather arbitrary selection of the 250 ppm chloride threshold, both methods give a result very similar to the purely statistical GEV fit shown in Figure 4. At any given time, EV statistical techniques would still be required to estimate the maximum pit depth in a heat exchanger of a given size (as in Figure 4).
+
+21
+
+1400 Pit depth (microns) 1200 1000 800 600 400 200 0 0 200 400 600 800 1000 Days in service Observed data Eqn (2) Eqn (3)
+
+Figure 17: Predicted forms of the mean-maximum pit depth vs time, according to Equations 2 and 3, fitted to the maximum pit depth data from Plant A using K1 and K2 as fitting parameters.
+
+Summary and Conclusions
+We have developed a general model for the evolution of the maximum pit depth in carbon steel tubes exposed to industrial CW. This model assumes that pitting occurs only intermittently, during relatively short periods when the environment within a particular HE is capable of causing pitting. The length of the longest excursion into this condition increases with operational time in a manner analogous to the increase of the maximum pit depth with increasing exposed surface area. Based on this model, we have presented two possible expressions (2 and 3) for the mean-maximum pit depth per unit sample area as a function of time. These methods have been discussed in relation to the results from a survey of CW chemistry and HE inspection data from 9 industrial plants in Australasia. To provide supporting information for this model, we have
+
+investigated the pitting corrosion of pure iron in pH 8.4 borate buffer solution, with and without 0.01M chloride. Experimentally, we have shown that: o In potentiostatic tests at potentials very close to the stable pitting potential, the presence of chloride initially produces a very high rate of anodic current transients, typically with 22
+
+peak heights <200 nA and durations <1 s, which are tentatively identified as pit nucleation events. o The frequency of the current transients increases with potential but decays with time, consistent with exhaustion of physical sites as a result of pit nucleation.
+
+o At potentials close to the pitting potential, the total number of available pit nucleation sites is of the order of supporting stable pit growth. o After a particular pit has propagated for some time and then been deactivated by temporary removal from the test environment, it is very rare for that pit to be reactivated by further exposure to the same experimental conditions. 50,000 cm-2, but only about 100 cm-2 seem capable of
+
+Acknowledgements
+This work was funded by the New Zealand Foundation for Research Science and Technology, under contract C08X0219. We are also grateful to the plants that participated in this study: Orica (Kooragang Island), Incitec (Gibson Island), WMC (Mount Isa and Phosphate Hill), QNP (Moura), Ballance (Kapuni) and QNI (Yabulu).
+
+References
+
+1
+
+S-1 (2001). 2
+
+D. Krouse and N.J. Laycock, Corrosion and Materials, 26, No. 2, P.J. Laycock, R.A. Cottis and P.A. Scarf, J. Electrochem. Soc., 137,
+
+64-69 (1990). 3
+
+NACE, Houston TX (1997). 4
+
+Plant Aging and Life Prediction of Corrodible Structures, p 169,
+Y.F. Cheng and J.L. Luo, J. Electrochem. Soc., 146, 970 (1999).
+
+M. Nakahara, in Proceedings of the International Symposium on
+
+23
+
+5
+
+(1991). 6 7
+
+A.M. Riley, D.B. Wells and D.E. Williams, Corros. Sci., 32, 1307 T. Suter and H. Boehni, Electrochim. Acta, 42, 3275 (1997).
+
+Newman, p 1, The Electrochemical Society, Pennington NJ, USA (1996). 8 G.T. Burstein and R.M. Souto, Electrochim. Acta, 40, 1881
+
+Corrosion II, Eds., P.M. Natishan, R.G. Kelly, G.S. Frankel and R.C.
+
+G.T. Burstein and S.P. Mattin, in Critical Factors in Localised
+
+(1995). 9
+
+State Water Survey, pp. 43 ­ 46, ISWS C-71, Champaign, IL (1958). 10
+
+Quality of Water to Corrosion of Steel and Cast Iron, 1958 Illinois
+
+T.E. Larson and R. V. Skold, Laboratory Studies Relating Mineral
+
+Values, Springer, London (2001).
+
+S. Coles, An Introduction to Statistical Modeling of Extreme M.R. Leadbetter, C. Lindgren and H. Rootzen, Extremes and
+
+11
+
+Verlag, New York (1983).
+
+Related Properties of Random Sequences and Series, Springer-
+
+24
+

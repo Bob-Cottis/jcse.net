@@ -1,0 +1,344 @@
+ISSN 1466-8858
+
+Volume 9 Paper 8
+
+The Slope Parameter Approach to Galvanic Anode Cathodic Protection Design with Application to Marine Structures
+William H. Hartt, Centre for Marine Materials, Department of Ocean Engineering, Florida
+
+Atlantic university ­ Sea Tech Campus, Dania Beach, FL 33004 USA, hartt@oe.fau.edu
+
+Abstract
+Both the newly developed Slope Parameter based method and the conventional approach for marine cathodic protection design that utilizes three current densities and reviewed. While the former is shown to be technically more sound because it is first-principles based, a historical shortfall in both cases has been absence of a method also based upon first-principle for projecting design current density. In the present paper, an approach is developed for determining, either from literature data or from short-term in-situ exposures, a value for the design mean current density; and it is demonstrated how doing this facilitates application of the Unified Design Equation. Keywords: Cathodic protection, design, Slope Parameter, marine, galvanic anode, Unified Design Equation, mean current density.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Introduction
+For metals and alloys that lack inherent corrosion resistance, corrosion control in submerged and buried applications is invariably affected by cathodic protection (cp) or by cp and coatings together. In the latter case, the role of the coating is often to render cp more effective and efficient rather than to provide corrosion protection per se. Significant advances have transpired during the past 50 or so years in development of both the theory and practice of cp, largely in response to escalation in petroleum product production and transportation and to expansion of these activities offshore. Hallmark events regarding the development and practice of cp in marine applications include: 1. 2. The classical inception research of Davy1,2,3 nearly 200 years ago. Use of galvanic anodes on U.S., British, and Canadian Navy ships during the first half of the 20 th century.4 3. Recognition of -0.80 V Ag/AgCl as the protection potential threshold for steels in natural waters. 4. Recognition of the role of calcareous deposits 5,6 ,7,8 ,9,10,11 formed on cathodic surfaces in sea water as contributing to the efficiency and effectiveness of cp. 5. Introduction and refinement of recommended practices for cp design.12,13,14 6. 7. 8. Development of high performance galvanic Al anodes.15,16,17 Incorporation of the "rapid polarization" concept8,9,18,19 into cp design of offshore structures. Development of numerical methods for cp design and analysis.20,21 9. Development of mixed-metal oxide (MMO) anodes for impressed current (ic) cp. 2
+
+10. Development of the Slope Parameter concept and the Unified Design equation.22,23,24,25 In this paper, the last of these items is critically reviewed in terms of, first, basic concepts and, second, situations to which the Slope Parameter has utility. Also, a method is proposed based upon shortterm exposures for determining the mean design current density.
+
+Basic Concepts
+Transients result when a metal is polarized, as in cp, from its steadystate free corrosion potential. Figure 1 exemplifies this as a plot of potential () and current density (ic ) as a function of time subsequent c to exposure of uncoated 200 mm square steel specimens connected to a galvanic Al anode through a resistor of the indicated size (designated R x) to quiescent natural sea water. The initial decay in both  and ic c reflects progressive control by oxygen concentration polarization, but continued decay of these parameters for the R x=55 specimen was in response to this control being enhanced by calcareous deposit formation (item 4 above). The data also illustrate the principle of "rapid polarization" (item 7) in that this same specimen required less current density for polarization to a more negative potential than for the R x=110 specimen, in apparent contradiction to the normal dependence of  upon ic . c Figure 2 schematically illustrates the relationship between  and c current (I c) for such a polarized system upon establishment of a polarized steady-state. Here, the steel has been polarized from its corrosion potential ( (steel)) to a more negative potential  where, corr c for protection,  is -0/80 VAg/AgCl or more negative (item 3 above) and c the anode to , the difference between the two potentials being the a product of the anode current output and net circuit resistance (Ia and R t, respectively). The latter parameter (Ia ·R t) serves as the basis, in many instances, for cp design as explained below. Figure 3 shows steady-state -ic data for individual steel specimens c that were polarized in natural sea water by a galvanic Al anode but with an external resistor of the indicated size (R x=75 to 5,750  in ) the circuit between anode and cathode.26 If a potential scan were 3
+
+-0.40
+Potential, V (Ag/AgCl)
+
+-0.50 -0.60 -0.70 -0.80 -0.90 -1.00 0 500 1000
+
+Rx = 55 Ohms Rx = 110 Ohms
+
+1500
+
+2000
+
+2500
+
+Exposure Time, hours
+
+(a)
+250
+Current Density, mA/m2
+
+200 150 100 50 0 0 500 1000
+
+Rx = 55 Ohms Rx = 110 Ohms
+
+1500
+
+2000
+
+2500
+
+Exposure Time, hours
+
+(b) Figure 1: Plots of (a) potential and (b) current density versus exposure tine for steel-Al anode couples in natural sea water.
+
+4
+
+ (steel) corr
+
+1 O  O   2OH H 2e 2 22
+
+- Potential +
+
+Ia t R  c  a
+H O e  H OH  2
+
+ (anode) corr
+
+Ic
+
+Current Figure 2: Schematic illustration of the polarized steady-state of steel in natural water upon cathodic polarization by a galvanic Al anode.
+-0.60 -0.70 -0.80 -0.90 -1.00 -1.10
+
+Potential, VSCE
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+Current Density, mA/m 2
+
+Figure 3: Steady state potential-current density data for steel specimens connected through different size resistors to aluminium anodes. performed on a particular specimen from  to  (steel) subsequent c corr to the polarized steady-state being achieved, a cathodic curve as in Figure 2 would result. However, the steady-state -ic trend for c 5
+
+multiple specimens that encompass a range of steady-state  values c assumes a sigmoidal shape where ic is maximum near -0.80 V Ag/AgCl and minimal near -1.00 VAg/AgCl . Such behaviour is a consequence of calcareous deposits that form in the range of the latter potential being particularly protective. These data illustrate that, while protection is achieved upon polarization to -0.80 V Ag/AgCl, the ic to affect this is approximately three times greater than at -1.00 VAg/AgCl . Consequently, the latter value is typically adapted as the cp target for offshore structural steel installations. Figure 426 expands upon Figure 3 and shows the -ic decay trend for c typical individual specimens, each with a unique Rx, from early exposure to steady-state (or nearly so). Data at specific times (24, 120, 460, and 3200 hours) have been connected, thereby defining the cathodic polarization curve at these times. This reveals the transition from a cathodic polarization curve characterized by classical oxygen concentration polarization (24 hours) to the long-term sigmoidal one that reflects various degrees of calcareous deposit formation (3200 hours). -600 -700
+Potential, VSCE
+Rx , O hms
+75 150 340 680 1000 1437 2874 3784 5750
+
+-800
+3200hrs 24hrs
+
+-900
+120hrs 480hrs
+
+-1,000 -1,100
+
+0
+
+200 100 Current Density, mA/m2
+
+300
+
+400
+
+Figure 4: Potential-current density decay trends at four different times from experiments involving different Rx. 6
+
+Likewise, Figure 5 shows a similar plot to the one in Figure 4 for SS316; 27 and Figure 6 illustrates the long-term, steady-state results alone. These reveal that, while the peak and minimum ic for the SS and carbon steel are approximately the same, these tend to occur at a more negative potential for the former. This may reflect reduced catalytic efficiency for the SS such that greater polarization was required to affect the same ic and calcareous deposit formation rate.
+
+-30 0 -40 0 -50 0
+
+Potential, mVSCE
+
+-60 0 -70 0 -80 0 -90 0
+
+9 6 0h rs
+
+-100 0
+2 2 0 0h rs
+
+-110 0 -120 0
+
+2 4 0d y s 1 0 0 h rs 48 0 hrs
+
+4 8 hrs
+
+3 6h rs
+
+2 7 h rs
+
+1 4 hrs
+
+8h rs
+
+0
+
+100
+
+200
+
+300
+
+400
+
+C u rr e n t D e n s it y , m A / m
+
+2
+
+Figure 5: Potential-current density decay trends at four different times for experiments involving different R x.
+
+Galvanic Anode CP Design for Offshore Structures
+Early cp design procedures for offshore structures specified a single current density (the mean, im , which is analogous to I c in Figure 2); and the corresponding required number of anodes, Nm , to provide this current density for the design life, T, was calculated from a modified form of Faraday's law,
+
+7
+
+-800
+
+Potential, mV(SCE)
+
+-900
+
+-1000
+
+-1100
+
+-1200
+
+0
+
+10
+
+20
+
+30
+2
+
+40
+
+50
+
+C u r re n t D e n s it y , m A / m
+
+Figure 6: Steady state -ic data for SS specimens connected through c different size resistors to aluminium anodes.
+
+i AT N m c , C  wu
+where Ac = structure surface area, C = anode current capacity, w = weight of an individual anode, and u = anode utilization factor.
+
+(1
+
+However, with recognition of the rapid polarization phenomenon, the design method transitioned to one based on not only im but also an initial (io ) and final (if) current density, where the former is relatively large in order to affect rapid polarization and the latter is of sufficient magnitude to ensure repolarization should calcareous deposits become storm disrupted in late life. These current densities are a function of water temperature and movement and, hence, vary 8
+
+spatially. Tables 1 and 2 list values of io and if and of i m, respectively, according to one recommended practice. 13
+Table 1: Design values for i o and if.
+Temperature, oC
+Depth, m 0-30 >30-100 >100-300 >300 >20 (Tropical) io 0.150 0.120 0.140 0.180 if 0.100 0.080 0.090 0.130 12-20 (Sub-Tropical) io 0.170 0.140 0.160 0.200 if 0.110 0.090 0.110 0.150 7-12 (Temperate) io 0.200 0.170 0.190 0.220 if 0.130 0.110 0.140 0.170 <7 (Artic) io 0.250 0.200 0.220 0.220 if 0.170 0.130 0.170 0.170
+
+Table 2: Listing of i m values for offshore structures in different exposures.
+
+Temperature, oC Depth, m 0-30 >30-100 >100-300 >300 >20 (Tropical) 0.070 0.060 0.070 0.090 12-20 (Sub-Tropical) 0.080 0.070 0.080 0.100 7-12 (Temperate) 0.100 0.080 0.090 0.110 <7 (Artic) 0.120 0.100 0.110 0.110
+
+By this method, the design approach involves, first, calculation of Ia based upon assuming a value for the voltage drop in Figure 2 for both the initial and final conditions and assuming Rt Ra , where Ra is resistance of an individual anode. Thus, a  Ia  c . Ra The N corresponding to the initial and final conditions (No and Nf, respectively) is then determined from the expression, i A N c c , Ia where i c is successively set equal to io and if. In doing this, consideration is given to the fact that  and ic decrease and Ra c increases as the exposure progresses. Ideally, the three N values would be the same; however, this is seldom the case since the method is an algorithm rather than being first-principles based. 9 (3 (2
+
+Consequently, the highest of the three N's is selected, meaning that over-design results for the other two criteria. This over-design has been projected to be by approximately 32 percent for Gulf of Mexico structures.23
+
+The Slope Parameter Concept for CP Design and Analysis
+The Slope Parameter, S, analytically represents the -i c decay path c along which polarization occurs. Thus, from a modified representation of Ohm's law, 28  = (Rt·Ac)·ic + , c a (4
+
+a linear interdependence between  and ic is projected provided Rt·A c c and  are constant with time, as is generally the case for steels in a natural waters The Slope Parameter then is defined by the expression,   S tc  c . RA c i (5
+
+Figure 7 shows a -ic plot for the Rx = 55 and 110 specimens in c Figure 1 and indicates a linear trend in both cases. The slopes
+-0.40
+Potential, V (Ag/AgCl)
+
+-0.50 -0.60 -0.70 -0.80 -0.90 -1.00 -1.10 0 50 100 150 200 250 Current Density, mA/m2 Rx = 55 Ohms Rx = 110 Ohms
+
+Figure 7: Plot of  versus ic for cathodically polarized steel specimens c in natural sea water. 10
+
+measured from the graph are 2.3 and 4.3 m2 for Rx = 55 and 110   , respectively, whereas the corresponding calculated values (Equation 5), assuming R x=Rt, are 2.2 and 2.4 m2, thus indicating good agreement  between the two. The data for different specimens in Figures 4 and 5 also illustrate an approximately linear -i c decay with time. c
+
+The Unified Design Equation
+It can be assumed that multiple, identical galvanic anodes upon space frame structures act as resistors in parallel. Thus,
+
+R Rt  a . N
+Combining Equations 1, 5, and 6 then yields,
+
+(6
+
+i  TS Ra   m w , u C
+
+(7
+
+which is termed the Unified Design Equation. Because all terms on the right side are design choices, the process is reduced to anode dimensioning such that the requisite value for R a is realized. w Equation 7 is first-principles based and incorporates both io and im , the former implicitly within S (Equation 5) and the latter explicitly.
+
+Current Density to Affect CP
+While the criterion for cp is in terms of potential (item 3 above), design is accomplished via current density (Tables 1 and 2). However, with due respect to design ic values, there is no first-principles method for projecting these. In this regard, Figure 8 shows a compilation of ic versus time data from the literature 29 for various structures and exposure panels worldwide and reveals a power law relationship beyond about 100 hours between these two parameter as,
+
+ic  c  d , 10 T
+
+(8
+
+where c and d are constants. Table 3 lists values for these two parameters considering that the warm and cold water data conform to
+
+11
+
+distinct populations. Likewise, by integrating this expression over the design life, and dividing by that time, im is determined as,
+k 10(c )  d T im  , d 1
+
+(9
+
+where k is a multiple of the standard deviation,  for the warm or cold , water data. Values for are 0.23 for warm water and 0.23 for cold.
+1000
+
+Current Density, mA/m^2
+
+100
+
+10
+
+1 1 10
+
+Arabian Gulf GOM GOM/avg (shallow) GOM/wrap South Atlantic Barents Sea North Sea Pacific GOM/avg(deep)
+100 1000 10000 100000 1000000
+
+Time, hours
+
+Figure 8: Cathodic protection current density as a function of exposure time for offshore structures and test panels.
+Table 3: Values for the Equation 8 constants.
+
+c d
+
+Warm Water 3.13 -0.41
+
+Cold Water 2.82 -0.23
+
+Application of the Slope Parameter in CP Design
+In a design situation for which relevant data from prior exposures does not exist, test panels similar to the specimens from which the data in Figures 1 and 7 were developed and with appropriately sized resistors (R x) can be exposed at the site of interest and  and ic recorded as a c function of time. The exposures need only continue until it can be 12
+
+assured that the knee on the sigmoidal -i c curve has been missed c and an appropriate value for S thereby assessed. Selection of an appropriate im is more complex since data scatter in Figure 8, even after partitioning according to warm versus cold water, can approach an order of magnitude. However, provided exposure conditions are such that a stable film forms, results for individual experiments have proven to exhibit less scatter than in Figure 8, as shown by Figures 1 and 7 for laboratory specimens and by Figure 930 for a 410 day panel exposed in deep water Gulf of Mexico. The values for c and d (Equation 8) and for are then determined and an appropriate k is selected according to the desired conservatism. The corresponding im is then calculated from Equation 9. This method avoids any need for extending the test panel exposure to long-term. Based upon this i m and the corresponding S (see above), an optimized design for the galvanic anode cp system can be accomplished based upon Equation 7.
+
+1000
+Current Density, mA/m2
+
+100
+
+10 10 100 Time, hours
+Figure 8: Current density versus time data for a steel panel cathodically polarized by an Al anode in deep water Gulf of Mexico.
+
+1000
+
+10000
+
+13
+
+References
+
+1 2 3 4
+
+H. Davy, Phil. Trans. Royal Soc. London, 114, p.151, 1824. H. Davy, ibid, 114, p.242, 1824. H. Davy, ibid, 115, p.328, 1825. D.P. Graham, F.E. Cook, F. E. and H.S. Preiser, Trans. Soc. Naval Arch. and Marine Engrs., 64, p.241, 1956. S.L. Wolfson and W.H. Hartt, Corrosion, 37, p. 70, 1981. W.H. Hartt, C.H. Culberson, and S.W. Smith, Corrosion, 40, p. 609, 1994. S-H Lin and S.C. Dexter, Corrosion, 44, p. 615, 1988. J.E. Finnegan and K.P. Fischer, "Calcareous Deposits: Calcium and Magnesium Ion Concentrations," paper no. 581 presented at CORROSION/89, April 17-21, 1989, New Orleans. K.P. Fischer. and J.E. Finnegan, "Cathodic Protection Behaviour of Steel in Sea Water and the Protective Properties of the Calcareous Deposits," paper no. 582 presented at CORROSION/89, April 1721, 1989, New Orleans.
+
+5 6
+
+7 8
+
+9
+
+10 J.S. Luo, R.U. Lee, T.Y. Chen, W.H. Hartt, and S.W. Smith,
+
+Corrosion, 47, p. 189, 1991.
+11 K.E. Mantel, W.H. Hartt, and T.Y. Chen, Corrosion, 48, p. 489, 1992. 12 "Corrosion Control of Steel-Fixed Offshore Platforms Associated with Petroleum Production", NACE Standard RP 0176-2003, NACE, Houston, 2003. 13 "Cathodic Protection Design," DnV Recommended Practice RP-
+
+401, Det Norske Veritas Industri Norge AS, January, 2005.
+14
+
+14 "Cathodic Protection of Submarine Pipelines by Galvanic Anodes," DnV Recommended Practice RP-F103, Det Norske Veritas Industri Norge AS, October, 2003. 15 C.F. Schrieber, and J.T. Reding, Materials Protection, 6 , 5, p. 33, 1967. 16 T. Sakano, K. Toda, and M. Hanada, Materials Protection, 4, 12, p. 45, 1966,. 17 J.T. Reding, and J.J.Newport, Materials Protection, 5, 12, p. 15, 1966. 18 T. Foster and V.G. Moores, "Cathodic Protection Current Demand of Various Alloys in Sea Water," paper no. 295 presented at CORROSION/86 (Houston, TX: NACE, 1986). 19 R. Mollan and T.R. Anderson, "Design of Cathodic Protection Systems," paper no. 286 presented at CORROSION/86 (Houston, TX: NACE, 1986). 20 R.A. Adey, and S.M. Niku, Computer Modelling of Corrosion Using the Boundary Element Method," Computer Modelling in Corrosion, ASTM STP 1154, Ed: R.S. Mudd, American Society for Testing and Materials, 1992, p. 248. 21 R. Strommen, Materials Performance, 24, 3, p. 9, 1985. 22 W. Wang, W.H. Hartt, and S. Chen, Corrosion, 52, p. 419, 1996. 23 W.H. Hartt, S. Chen, and D.W. Townley, Corrosion, 54, p 317, 1998. 24 D.W. Townley, "Unified Design Equation for Offshore Cathodic Protection," paper no. 97473 presented at CORROSION/97, March 9-14, 1997, New Orleans. 25 "Design of Galvanic Anode Cathodic Protection Systems for Offshore Structures," NACE International Publication 7L198, NACE International, Houston, TX, 1998. 15
+
+26 27
+
+W.H. Hartt and S. Chen, Corrosion, 55, p. 596, 1999. K. Kim and W.H. Hartt, "Characteristics of Cathodic Protection and Calcareous Deposits for Type 316L Stainless Steel in Simulated Deep Sea Conditions," paper no 06104 to be presented at CORROSION/06, March 12-16, 2006, San Diego.
+
+28
+
+Fischer, K. P., Sydberger, T. and Lye, R., "Field Testing of Deep Water Cathodic Protection on the Norwegian Continental Shelf," paper no. 67 presented at CORROSION/87, March 9-13, 1987, San Francisco.
+
+29 30
+
+W.H. Hartt and E. Lemieux, "Corrosion, 56, p. 988, 2000. S. Chen, "Steel Cathodic Polarization and Calcareous Deposit Characteristics in Deep Seawater," PhD dissertation, Florida Atlantic University, 1996.
+
+16
+

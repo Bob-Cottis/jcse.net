@@ -1,0 +1,250 @@
+ISSN 1466-8858
+
+Volume 10 Paper 25
+
+Measurement of Oxide Barrier-Film Thickness of Anodized Aluminium by Electrochemical Impedance Spectroscopy
+K.Habib, K.AL-Muhanna, and F.AL-Sabti
+
+Materials Science Laboratory, Department of Advanced Systems, KISR, P.O.Box 24885 Safat,13109 Kuwait, E-mail:khaledhabib@usa.net Abstract
+In this study, the effect of the annealing treatment on electrochemical behaviour and was investigated. the oxide barrier- film thickness of anodized aluminium-magnesium (Al-Mg) alloy Electrochemical parameters such as the polarization resistance (RP), solution resistance (RSol), alternating current impedance (Z), and the double layer
+
+capacitance (CdL) of the anodized Al-Mg alloy were determined in sulphuric acid methods. Then, the oxide film thickness of the anodized Al-Mg alloy was measured from the obtained electrochemical parameters as a function of the sulphuric acid conditions. concentration (0-10% H2SO4), in the as received sample and annealed sample received samples (4.2nm) and for the annealed samples (0.63nm) in sulphuric acid thickness of the as received samples is greater than the one for the annealed samples, because the former samples are thermodynamically unstable (more chemically active) as compared to the annealed samples. concentrations of 4% and 2% H2SO4, respectively. The reason behind the oxide film The optimum thickness of the oxide film was detected for the as solutions ranged from 0-10% H2SO4 by electrochemical impedance spectroscopy (EIS)
+
+Impedance, Sulphuric Acid, and Oxide Barrier ­Film Measurement.
+
+Keywords: Annealing Treatment, Electrochemical Parameters, AL-Mg Alloy, AC-
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at referenced in published work. © University of Manchester 2007. http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be
+
+Introduction
+It has been known that the formation of anodic oxide films is a its alloys. For example, the formation of porous oxide layer, with an common means of achieving corrosion protection of aluminium and underlying barrier (compact) oxide film, is normally achieved in acidic media [1], while barrier (compact) oxide films alone are typically deposited in neutral buffer solutions [2]. The porous oxide layers are
+
+more preferred than the barrier (compact) films on the aluminium because they can form to high oxide thickness and yield excellent abrasion protection. Also, the porous oxide layers provide improved There is a corrosion resistance after chemically sealing of the pores.
+
+number of methods for the measurement of the oxide film thickness and among those methods are the optical interferometry [1] and the Electrochemical Impedance Spectroscopy (EIS) [2]. of both methods are given else where [1&2}. A detail discussion Also, the discussion
+
+includes some examples of the measurements of the oxide film layer by optical interefrometry and electrochemical impedance spectroscopy (EIS). The objective of this study was to determine the oxide barrier (compact)-film thickness and the electrochemical parameters of anodized aluminium-magnesium (Al-Mg) alloy by electrochemical techniques. resistance, solution resistance, alternating current (A.C) impedance, and the double layer capacitance of the anodized Al-Mg alloy were determined in sulphuric acid solutions (0-10% H2SO4) by Electrochemical parameters such as the polarization
+
+electrochemical impedance spectroscopy (EIS) methods. Then, the oxide barrier- film thickness of the anodized Al-Mg alloy was measured from the obtained electrochemical parameters as a function electrochemical parameters such as the polarization resistance, solution resistance, alternating current (A.C) impedance, and the double layer capacitance of anodized films of metallic samples in aqueous impedance spectroscopy (EIS). Consequently, one can measure the oxide barrier- film thickness of metallic samples from the obtained 2 solutions can be determined by the electrochemical of sulphuric acid concentration (0-10% H2SO4). It is well known that
+
+alternating current (A.C) impedance or the double layer capacitance by applying the following relationship[3]: C =1/Z= (e e0 A/L) Where Cdl Z e e0 A is the double layer capacitance of the oxide film is the alternating current (A.C) impedance of the oxide film is the dielectric constant,8.4 of the aluminum oxide, Al2O3 is the permittivity of the free space, 8.85X 10-14 F/cm is the exposed surface area of the sample to the aqueous
+
+(1)
+
+solution L is the oxide Barrier- film thickness.
+
+Therefore, from Equation No.1, one can measure the oxide barrierfilm thickness from the obtained electrochemical parameters, i.e., the double layer capacitance of the oxide film, as the following [3]: L = (e e0 A/ Cdl) (2)
+
+Equation No.2 will be used in this study to measure the oxide film thickness of the Al-Mg alloy as a function of sulphuric acid concentration (0-10% H2SO4).
+
+Experimental Work In the present investigation, an Aluminium-Magnesium (Al-Mg) alloy was used. The alloy composition comprises of 0.207% Fe, 1.07%Mg, and balanced aluminium, known to be 6360 Aluminium alloy. samples were fabricated in a cylindrical form with a diameter of 2cm, for the electrochemical investigation, according to the standard methods of the American Society of Testing Materials [4]. Then, some of the samples were solution annealed at 450 0C for two hours in an electric furnace, then, the samples were slow cooled in the furnace. Thereafter, all samples (annealed and as received samples) were 3 The
+
+polished and ground by silicon carbide papers until the finest grade (1200) was reached. Then, a set of the annealed and the as received An optical light samples were prepared for metallographic examinations, in order to determine the microstructures of the samples. examinations. For determination of the electrochemical parameters of the annealed and the as received samples, all EIS measurements were performed against a saturated calomel electrode (SCE) according to procedures described elsewhere [4]. the cell made of a 1000 cm3 flask, a reference electrode, the saturated Colomel electrode (SCE), a counter electrode, made of platinum wire, and a working electrode, annealed and as received Al-Mg Samples. The exposed surface area of all samples was 3.14 cm2. In this study, EIS measurements were conducted using a potentialstat/Galvanostat made by Gamry instruments in order to obtain impedance spectra. The EIS spectra of the annealed and as received samples of Al-Mg alloy were determined in 0,2,4,6,8,10% H2SO4. The sulphuric acid solution was diluted by distilled water. Values of the polarization resistance and the solution resistance were obtained by the complex plane plots (Nyquist plots). The complex plane plots (Nequist Plots) are basically the logarithm of the imagine impedance (Zimage) versus the logarithm (Rp) and the solution resistance(Rs) were obtained by the data fitting method of the Randell's semi circle. current (A.C) impedance and the double layer capacitance were (A.C) impedance and the double layer capacitance were obtained at low frequency based on the extrapolation of the intersection line at a frequency equal to 0.16 Hz from the x-coordinate in Bode plots, to the y-coordinate in Bode plot. Bode plots are basically the logarithm of versus the logarithm of the frequency (X-coordinate). All the impedance (Z) (Y-coordinate) and the phase ( ) (Y- coordinate) plotted electrochemical parameters of the Al-Mg samples were determined by using Gamry's based software. It is worth noting that there was no delay time at the beginning of each test during the measurements of the electrochemical parameters of the Al-Mg samples in 0, 2, 4, 6, 8, 4 Also, values of the alternating of the real impedance(Zreal).The values of the polarization resistance A standard electrochemical cell was used, microscope (Made by Nachet, France) was used for the metallographic
+
+obtained from Bode plots at a low frequency. The alternating current
+
+the samples. Also, in order to plot the complex plane (Nuquist) and Hz to 0.01 Hz.
+
+10% H2SO4.This step was necessary to avoid any chemical oxidation of
+
+Bode plots, the frequency range was chosen to range between 10000 (A.C) impedance and the double layer capacitance, of all investigated samples, were used to measure the oxide film thickness of by using equation No. 2,as a function of the sulphuric acid concentration, 0,2,4,6,8,10% H2SO4 . Results and Discussion Figures. 1 and 2 show the microstructures of the Al-Mg alloy in the as received and annealed conditions, respectively. It is obvious from Fig.1 and Fig.2 that the microstructures of the Al-Mg samples in the as received and annealed conditions consists of two distinguished phases. the second phase is in a form of second phase particles,  phase (Al3Mg2), dark phase. The different between the microstructures of the as received sample (Fig.1) and the annealed sample (Fig.2) are in the grain size of the (Al) phase as well as the size of the second phase particle, the  phase. condition. sample. It is clear that the average grain size of the (Al) Phase is larger in the annealed sample than in the as received equivalent to 224 m as compared to 100 m for the as received intersection method according to the standards of the American Society of Metals [5]. received sample. The average grain size has been determined by the line In addition, the second phase particle ( phase) The average grain size of the (Al) Phase is found The matrix phase is (Al) phase, white phase. In contrast, Finally the obtained data of the alternating current
+
+is found larger and courser in the annealed sample than in the as This occurred because the annealed sample was As a result normalized (slow coaled in the furnace) after the solution annealing this led to the precipitation of the second phase particles ( phase), by nucleation and growth, in the (AL) matrix phase. particles, see Fig.2. particles were enlarged by coalescing with other second phase This process eventually led to the coursing of the second phase particles when the temperature of the furnace reached the room temperature. Then second phase treatment for two hours at 450 0C in an electric furnace.
+
+5
+
+condition. The magnification of the figure is 200X.
+
+Fig. 1 shows the microstructure of the Al-Mg alloy in the as received
+
+Fig. 2 shows the microstructure of the Al-Mg alloy in the annealed condition. The magnification of the figure is 200X. Figures 3,and 4 show the Nequist plots of the as received samples of polarization resistance (Rp), solution resistance (RS), alternating current impedance (Z), and the double layer capacitance (Cdl) were determined. Tabulated values of the Rp, RS , Z , Cdl , and the oxide film thickness (L) of the as received samples of the Al-Mg alloy are given in Table I. 6 Al-Mg alloy in the 0, 2-10% H2SO4, respectively. From these plots the
+
+The oxide film thickness of the as received samples was measured by double layer capacitance. The obtained data in Table I show that as the polarization resistance and
+respectively.
+
+implementing Equation No.2, and using the obtained values of the concentration of the sulphuric acid increased from 0-4% H2SO4, the the double layer capacitance were
+
+observed to decrease from 12.22 to 0.6 Kohms and 31.3 to 5.61 F
+
+Fig.3 shows the Nequist plot of the as received and annealed samples of Al-Mg alloy in 0% H2SO4.
+
+Fig.4 shows the Nequist plot of the as received samples of Al-Mg alloy in 2%-10% H2SO4. 7
+
+0-4% H2SO4, values of the alternating current impedance and the oxide
+
+In contrast, as the concentration of the sulphuric acid increased from
+
+film thickness were observed to increase from 31.95 to 178 Kohms and 0.75 to 4.2 nm, respectively. This observation is in agreement with the known electrochemical concept of as the thickness of the oxide layer increases, the resistance (impedance) of the metal increases as well, because the oxide film protects (shields) the base metal from the surrounding environment [3]. Consequently, the
+
+values of the double layer capacitance decreased because the double
+
+layer capacitance has an inverse proportional relationship with the alternating current impedance, see Equation No1.In the meantime, the polarization resistance was observed to decrease from 12.22 to 0.6 Kohms because of the high tendency of the Al element, in general, to oxidation (anodization) in sulphuric acid solution. On the contrary, the solution resistance was observed to decrease all the way from 1.03 Kohms to 0.65 ohms as the solution concentration increased from 0 to 10% H2SO4.This naturally occurred because of increase of the density of the ionic species in the distilled water. In other words, the addition of sulphuric acid from 0-10% H2SO4 to the distilled water has increased the distilled water conductivity. Furthermore, the obtained data in Table I, show that as the concentration of the sulphuric acid increased from 4-10 % H2SO4, the polarization resistance was observed to increase first from 0.6 to 2.58 Kohms, then decrease to 0.45 Kohms.On the other hand, the double layer capacitance was observed to increase from 5.61 to 29.61 F as a function of the increase of the sulphuric acid concentration from 4-10% H2SO4. In contrast, as the concentration of the sulphuric acid increased from 4-10% H2SO4, values of the alternating current impedance and the oxide film thickness were observed to decrease from 178 to 33.8 Kohms and 4.2 to 0.8 nm, respectively. This observation is in agreement with the known electrochemical concept of as the thickness of the oxide layer decreases, the resistance (impedance) of the metal decreases as well, because the oxide film becomes less protective of the base metal from the surrounding environment. Consequently, the value of the double layer capacitance was observed to increase because the double layer capacitance has an inverse proportional relationship with the alternating current impedance. In addition, Figures 3,and 5 show the 8
+
+Nyquist plots of the annealed samples of Al-Mg alloy in the 0,2,4,6,8,10% H2SO4, respectively. From the Nyquist plots
+
+the
+
+polarization resistance, solution resistance, alternating current (A.C) impedance, and the double layer capacitance of the Al-Mg alloy were determined in the annealed conditions in 0, 2, 4, 6, 8, 10% H2SO. Tabulated values of the polarization resistance, solution resistance, alternating current (A.C) impedance, the double layer capacitance, and are given in Table II. the oxide film thickness of the annealed samples of the Al-Mg alloy In the same way, the oxide film thickness of the annealed samples was measured by implementing Equation No.2, and using the obtained values of the double layer capacitance. From the obtained data in Table II, one can tell that as the concentration of the sulphuric acid increased from 0-10% H2SO4, values of the polarization resistance and the solution resistance were observed to decrease from 14.71 Kohms and 3.36 Kohms to a study state value of 0.1 Kohms and 0.001 Kohms, respectively. In contrast, as the concentration of the sulphuric acid increased from 0-10% H2SO4, values of the alternating current impedance and the oxide film thickness were observed to increase first from 24.15 to 26.93 Kohms and 0.56 to 0.63 nm, respectively. Then, the values of the alternating current impedance and the oxide film thickness were observed to attain a steady state value of around 17 Kohms and 0.4 nm, respectively. behaviour of the annealed samples was expected to behave as the as received samples as a function of the sulphuric acid concentration. In contrast, the double layer capacitance was observed to vary several The electrochemical
+
+times in a range between 37.1 3 to 62.18 F as a function of the increase of the sulphuric acid concentration from 0-1% H2SO4.This behavior was unexpected ,because the double layer capacitance should have an inversely proportional relationship with the alternating current impedance. In order to obtain the optimum thickness of the oxide film with respect to the sulphuric acid concentration, plots of the oxide film thickness versus the sulphuric acid concentration were constructed. Figures 6 show the relationship between the oxide film thickness and the sulphuric acid concentration, for the as received and annealed 9
+
+samples, of the Al-Mg alloy. The figure show clearly at sulphuric acid
+
+concentrations of 4% and 2% H2SO4, the optimum thickness of the oxide film was detected for the as received samples (4.2nm) and for the annealed samples (0.63nm), respectively. for the annealed samples, because The reason behind the former samples are oxide film thickness of the as received samples is greater than the one the thermodynamically unstable (more chemically active) as compared to the annealed samples.
+
+In addition, this observation is agreement with
+
+the fact that the E.I. Spectroscopy is useful technique to measure the electrochemical parameters and the oxide barrier (compact)-film thickness of aluminium alloys [2].
+Table 1. The Electrochemical Parameters and the Oxide Film thickness of AlMg alloy in the as Received Condition in Different H2SO4 Concentrations.
+
+% H2SO4
+
+Rp (Kohms)
+
+Rs (Kohms)
+
+Cdl (F)
+
+Z (Kohms)
+
+L (nm) 0.75 2.5
+
+0 2
+
+12.22 1.72
+
+1.03 0.0623
+
+31.3 9.36
+
+31.95 107
+
+4
+
+0.6
+
+0.520
+
+5.61
+
+178
+
+4.2
+
+6
+
+1.53
+
+0.057
+
+8.08
+
+124
+
+2.9
+
+8 10
+
+2.58 0.45
+
+0.053 0.00065
+
+8.4 29.61
+
+119 33.8
+
+2.8 0.8
+
+10
+
+2%-10% H2SO4..
+
+Fig.5 shows the Nequist plot of the annealed samples of Al-Mg alloy in
+Tabel II. The Electrochemical Parameters and the Oxide Film thickness of AlMg alloy in the annealed Condition in Different H2SO4 Concentrations. Rp (Kohms) 14.71 0.2 Z Rs (Kohms) 3.36 0.0026 Cdl (F) 41.4 37.13 24.15 26.93 (Kohms) L (nm) 0.56 0.63
+
+% H2SO4
+
+0 2
+
+4
+
+0.11
+
+0.0012
+
+62.18
+
+16.1
+
+0.375
+
+6
+
+0.14
+
+0.0011
+
+53.09
+
+18.83
+
+0.44
+
+8 10
+
+0.11
+
+0.0003
+
+59.13
+
+16.91
+
+0.395
+
+0.0885
+
+0.00063
+
+50.4
+
+19.84
+
+0.463
+
+11
+
+4.5 4 3.5 Oxide Film Thickness (nm) 3 2.5 2 1.5 1 0.5 0 0 1 2 3 4 5 % H2SO4 6 7 8 9 10
+
+L (as Received) L (Annealed)
+
+Fig.6 shows the relationship between the oxide film thickness and the concentration of the sulphuric acid solution of the as received and annealed samples of the Al-Mg alloy.
+
+CONCLUSIONS
+The following conclusions are drawn from the present investigation: 1-As the concentration of the sulphuric acid increased from 0-4% H2SO4, the polarization resistance and the double layer capacitance were observed to decrease. 2- In contrast, as the concentration of the sulphuric acid increased from 04% H2SO4, values of the alternating current impedance and the oxide film thickness were observed to increase 3- The solution resistance was observed to decrease all the way from 1.03 Kohms to 0.65 ohms as the solution concentration increased from 0 to 10% H2SO4. This naturally occurred because of increase of the density of the ionic species in the distilled water 4-As the concentration of the sulphuric acid increased from 4-10 % H2SO4, the polarization resistance and the double layer capacitance were observed to increase.
+
+12
+
+5- In contrast, as the concentration of the sulphuric acid increased from 410% H2SO4, values of the alternating current impedance and the oxide film thickness were observed to decrease. 6-As the concentration of the sulphuric acid increased from 0-10% H2SO4, values of the polarization resistance and the solution resistance were observed to decrease. 7- Values of the alternating current impedance and the oxide film thickness were observed to increase as the concentration of H2SO4 increased from 02%, and then attain a steady state, as the concentration increased from 610%. 8-In contrast, the double layer capacitance was observed to vary several times as a function of the increase of the sulphuric acid concentration from 0-10% H2SO4. 9- The optimum thickness of the oxide film was detected for the as received samples (4.2nm) and for the annealed samples (0.63nm) at sulphuric acid concentrations of 4% and 2% H2SO4, respectively. The reason behind the oxide film thickness of the as received samples is greater than the one for the annealed samples, because the former samples are thermodynamically unstable (more chemically active) as compared to the annealed samples. 10- The E.I. Spectroscopy is found useful technique to measure the
+
+thickness of aluminium alloys
+
+electrochemical parameters and the oxide barrier (compact)-film
+
+References
+[1] K.Habib,"In Situ Measurement of Oxide Film Growth on Aluminium Samples by Holographic Interferometry",Corrosion Vol.43,No.3,PP.449-455(2001).
+
+Science,
+
+[1] R.Ptucek, R.Rateick, and V. Birss, "Impedance Characterization of Anodic Barrier Al Oxide Film Beneath Porous Oxide Layer" , Journal of The Electrochemical Society, 153 (8) B304-B310(2006).
+
+13
+
+Press,1977,58.
+
+[3] Baboian R., Electrochemical techniques for Corrosion, NACE
+
+[4] ASTM, Standard Test Method for measurement of Impedance of Anodic Coating on Aluminum, Annual Book of ASTM standards, B45767,1994, 179. [5 ]Metals Handbooks, American Society of Metals, ASM Ninth Edition, Metal Park, 4, 689.
+
+14
+

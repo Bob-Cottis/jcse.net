@@ -1,0 +1,154 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 17
+
+24 November 2006
+
+A Case Study of Biological Corrosion in Ports Basin
+Mounia EL HAJI Université Sidi Mohamed Ben Abdellah Faculté PolyDisciplinaire de Taza.BP 1223 Taza ­ Gare mouniae@free.fr Abstract The role of sulfate-reducing bacteria (SRB) on the perforative corrosion of soft steel is now one of the principal concerns in research undertaken in the field of microbiological corrosion. Frequently, in the anaerobic environment within biofilm the SRB is involved in perforative corrosion. The influence of the SRB on the corrosion is not the only effect. However, the growth of the bacteria can produce the compound H 2 S, which is highly toxic to most living beings. Since H 2 S is one of the major products of the SRB's metabolism, certain industrial accidents can result from their presence. The aim of this work is, by SRB counting, to show, their important contribution and that of others, such as iron bacteria and sulfo-bacteria, to the corrosion of soft steel, and therefore to the damage of fixed harbors installation. Keywords : Sulfate-reducing, anaerobic, organic matter, corrosion. Introduction The role of microorganisms is considerable in various biological cycles. A number of bacteria contribute to fight pollution or to develop organic matter. However, other microorganisms have harmful effects among which, the damages caused to fixed harbors installations [5,6]. Important damages of soft steel are observed. By examining the SRB, we try to show this deterioration. During mineralization of biodegradable matter, sulphur, like the other essential elements (carbon, oxygen, nitrogen), is found under different forms: either linked to organic compounds, or free as inorganic matter, so that the reduced state becomes the oxidized state. In anaerobic conditions, sulphur is the stable and the form of the sulphur cycle. The biolological cycle of sulphur Sulphur is a widely spread element, found in various forms : solid, gaseous or dissolved in water (organic or mineral sulphur at different levels of oxidation, sulphuric acid, sulphur, sulphate, sulphide...). It has an important role in biological phenomena. Several microorganisms are involved in the sulphur cycle through multiple molecular transformations under certains conditions (reduction, oxidation). Among these microorganisms, we distinguish three groups involved in the sulphur cycle and depending on the medium, they can:
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 17 24 November 2006 mineralize the sulphur (for example : Clostridium) ; oxidize the sulphur (sulfo-bacteria) ; reduce the sulphur (for example : sulfate-reducing)
+
+Presentation of the area of study The basin and fluvial lock are the oldest afloat basin. The level of water is constant, apart from a variation due to high and low tides (between 1 and 1,5 meters). The fluvial basin is rectangular with an east-west alignment with 65 meters wide and 550 meters long. The basin is isolated from the downstream waters by the fluvial lock on the west and by Vétillart basin on the east. However, the water can percolate through the stony accommodation with no apparent macrophone transit. The sediment being very rich in organic matter, black in colour, and has a putrid and nauseating smell. The temperature of the water varies between 5°C in winter and 18 °C exceptionally 20 °C in summer. The salinity is on the order of 27 %° in the fluvial basin : the observations show several of different salinity and temperature combinations for the stratification of water. Theoretical context The physiology of SRB (the sulfate-reducing bacteria) puts the light on their distribution and their role in the natural environment. Their development requires the presence of dissolved sulfates and organic substrates in an anaerobic environment ; such conditions are frequent in deep aquatic habitats. The accumulation of organic matter in those regions where the accessibility of oxygen is limited by the solubility of this gas in the water, leads to the degradation of the organic matter by anaerobic bacteria communities to which the SRB belong. By using the fermentation products, they are responsible for the last stage of degradation. Generally, the presence or the absence of sulfate determines the favored reaction. The corrosion by sulphate-reducing bacteria Von Wolgozen Kuhr and van Der Vlugt [15] where the first to identify the SRB as associated to certain cases of corrosion of steel in an anaerobic environments. They built a theory known as classical cathode depolarization to explain this phenomenum. When the conditions that are gathered for the SRB to intervene in the corrosion process, i.e. pH neutral in anaerobic environments, the cathode reaction produces the surplus of potential of hydrogen, that polarizes and annihilates the formation of any electric cell. The metabolic oxidation of hydrogen by SRB (using thehydrogen absorbed) may cause cathode depolarization according to the following reaction:
+
+2
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Anodic reaction
+
+Volume 10 Preprint 17 2 + 4 Fe 4 Fe + 8 e -
+
+24 November 2006
+
+Dissociation of water molecules Cathode reaction Cathode depolarization Corrosion products
+
+8 H2O 8 H+ + 8 e-
+
+8 OH - + 8H + 4 H2 4 H2O + S2FeS + 2 H + Fe(OH) 2
+
+SO 4 2 - + 8H + H 2 S + Fe
+2+
+
+2 OH - + Fe 2 + On the whole : SO 4 2 - + 4Fe + 4H 2 O
+
+FeS + 3Fe(OH) 2 + 2OH -
+
+The diagram of figure 1 highlights all the reactions due to iron bacteria and SRB, but the reactions due to sulfo-bacteria do not intervene directly in the corrosion processes but modify the environment.
+
+O r g a n ic su b s tra te
+
+Figure 1.: The mechanism of reaction of SRB in anaerobic corrosion according to theory of cathode depolarization by taking into account the reduction of sulfate with organic matter.
+
+SRB and corrosion in environment Several studies have shown that the absolute necessity of direct colonization of metal by SRB. The works [4] with natural diversity of population of SRB for example show that the initiation of corrosion coincides exactly with fixing a biofilm on steel (figure 2).
+
+3
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 17
+
+24 November 2006
+
+Surface area attacked Iron interface of ion with SRB and cation Hydroxide white ferrous
+
+Hydroxide yellow ferrous Dirty marine
+
+Steel area
+
+Removable crust
+
+Figure 2. : Formation of a biofilm on the surface of steel The presence of elementary sulfur has been noticed in some cases, at the stings' periphery linked to the action of SRB [9]. Strong steel corrosion has been observed in presence of elementary sulfur this can explain the rapid corrosion cases observed on site when the aerobic conditions become anaerobic [16]. Chemical or bacterial oxidation of sulfur can lead to formation of corrosive sulfur or polysulfur.
+
+Compound Mackinawite FeS cubic* Pyrrhotite Greigite Smrythite Marcasite Pyrite
+* cubic FeS does not exist in a natural state
+
+Formula Fe(1+x)S FeS Fe(1-x)S Fe 3 S 4 Fe(3+x)S 4 FeS 2 FeS 2
+
+Stoechiometric Variation X = 0,055 à 0,064 x = 0,14 à 0,00 x = 0 à 0,25 S-deficient S-or Fe-deficient
+
+4
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 17 24 November 2006 Table 1. Different sulphites of iron according to Smith and Miller (1975).
+
+a) Comparison with a witness bar after a month of implantation
+
+b) Granular pyrite (spring of iron sulfur)
+
+Figure 3. : Development of pyrite on soft steel bars With anaerobic conditions, the solubility of elementary sulfur is influenced by the concentration in sulphide, the pH and temperature and only dissolved sulfur (present in different forms shown in table 1) have corrosive action [13]. The different factors that favour the development of SRB are grouped in table 2. Favorable factors for development of SRB Anaerobes simplistic environment presence of : Designation environment with out O 2 200 mV ­ 300 mV SO 2 CO 3 H2 Organic matter N Near neutrality pH presence of H 2 S Very favorable condition for iron corrosion
+
+5
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 17 Table2. Factor of risk of microbial corrosion by SRB.
+
+24 November 2006
+
+Experimental approach With the aim to focus on the corrosion phenomena by SRB, about 10 soft steel bars were disposed in the fluvial basin. The first observations were obtained with an optic microscope, and after the first month of experimentation they revealed the presence of pyrite (the shape of iron sulphide that we supposed useful to SRB) on the bar set until the watersediment interface, as shown in the photos (figure 3). After two months, the research based on the stock approach in a solid environment was conceived directly after sampling and with that method we enumerated the SRB. Method of enumeration in solid environment In a synthetic environment adapted for the action of SRB and containing sulphates, adding the iron in the form of ferrous sulphate leads to the formation of sulphide, which cause the characteristic blackening of the environment [11]. We have considered the environment E of Postgate constituted of : - Dihydrogenophosphate of potassium - Ammonium chloride - Calcium chloride (CaCl2, 6 H2O) - Sodium of sulfate anhydride - Sodium lactate solution at 60 % - Extract baking powder - Magnesium chloride (MgCl2, 7H2O) - Agar agar - Water 0,5g 1 1 2 g g g
+
+3,5 ml 1 2 g g
+
+15 g 1 l
+
+The component is dissolved in changed water. The pH is adjusted to 7.6 after sterilization. We distribute 10 ml of this compound in to tubes (160 x 16 mm). The sterilization process takes place in an autoclave at 121 °C during 15 minutes. Before using those tubes, we regenerated the compound for 20 or 30 minutes in a boiling water-bath. The solution was cooled afterwards at 45 or 60 °C and we add in sterile conditions, in each tube 0.1 ml of the following solutions : - iron sulphate solution at 5% - ascorbic acid solution at 1%
+
+6
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 17 - thyoglycolique acid at %
+
+24 November 2006
+
+Instructions Two operations were performed : incorporation of 1ml of the pure sample or of the other dilutions obtained from the sample, in the liquefied environment, cooled to 45 °C and flowed in Petri box incubation at temperatures of 28-30 for 15 days. After three days of incubation we observed and enumerated the appearance of black colonies. a) Optic section of filamentary b) Beggiattoa accumulating spots
+
+sulpho-oxydant structures
+
+of sulphur in cytoplasm
+
+Figure 4. : Filaments of bacteria for different magnifications Bacterial metabolisms involved in corrosion: case of bacteria sulfooxydant The most spectacular cases of corrosion induced by sulpho-oxydant bacteria, essentially the thiobacilles, were observed on concrete or stones [5, 6, 10, 12]. However, in some environments, metals, ferrous or not suffer from the results of their metabolism. This metabolism requires a source of sulphur, which can be an atmospheric deposit of pyrites or H 2 S of chemical or biological origin. Using the sulfur compound like electron donor allows the growth of autotrophic thiobacilles(with presence of CO 2 as carbon source) with the concomitant formation of sulfuric acid. This acid is the cause of corrosion, eventually aggravated by the production of iron salts, as long as the pyrites act as substrates. The deterioration of materials containing the native sulphur can be caused by thiobacilli that can use this source directly, [10].
+
+7
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 17 24 November 2006 In spite of their preference for very different growth conditions, in opposition to those favoring the development of SRB, the sulpho-oxydant bacteria coexist with the latter which produces the H 2 S indispensable for its growth
+
+Another type of sulpho-oxydant bacteria is represented by the genera Beggiatoa and Thiothrix that have filamentary structures and that accumulate sulphur in their cytoplasm as small capsules (as shown by photography figure 4). We find them in habitats similar to those of thiobacillus, since they also need the H 2 S produced by the SRB. Generally, however, they are not considered as responsible for any corrosion action [14], they can form the viscous pile, likely to accommodate the SRB to which they are linked for metabolic reasons, as thiobacilli and also contribute to the construction of a multi-specific biofilm. Results For three samples of water taken at the water-sediment interface, near where the steel bars have been implanted, the solid environment has been seeded to the order of 0,4 ml and 4 ml in order to enumerate the SRB (table 3). This result allowed the calculation of the number of SRB colonies per milliliter by using the following equation : Y = X/V.d Y : colonies per milliliter ; X : colonies found in mother solution dissolved to 10 - 1 ; V : total volume used for colony isolation ; d : selected dilution. Using the results of table 3 has allowed us, according to the last equation, to obtain 12.5 colonies per milliliter; that lead to a clear idea of SRB abundance on the site studied. Sample test Number colonies sample 1 Black environment (layer bacteria) Mother dissolved (0,4ml) at solution 10 - 1 of Number of colonies Number of colonies in in sample 2 in sample 3 Black environment (layer bacteria) Black environment (layer bacteria)
+
+Mother solution (4ml)
+
+2 colonies
+
+0 colonies
+
+1 colonies
+
+Table 3. Enumeration of SRB colonies on the studied sites.
+
+8
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 17
+
+24 November 2006
+
+In a natural environment, sulphur exists in an sulphate reduction by the SRB.
+
+environment is due to the
+
+So the quantity of iron formed depends on several phenomena which can have a varying affect on the case. Those cases we mentioned the quantity and quality of organic matter which sediment, the deposit velocity, the available sulphate quantity, as well as the temperature [1, 2, 8]. The quantity of sulphur which precipitates depends heavily on the amount of iron that does enters into the reaction. The structure of the pyrite that is formed depends mostly on the degree of saturation of the solution, which precipitates. The formation speed obviously depends on the initial reactants. However the importance of the formation of this product is that it confirmed the presence of SRB (amount 12.5 colonies per milliliter) on the site studied. The SRB is associated with the behavior of several bacterial families, particularly iron bacteria and sulpho-bacteria generate the compact tuberous concretions sometimes responsible for considerable obstructions and eventually for the consequent stings can become perforative. Conclusion The action of SRB through corrosion attacks is dominant in the studied environment. However all microorganisms engaged in the sulphur cycle are wide spread and their activity essentially depends on the environmental conditions, pH and temperature. This work has shown the interaction of the following series of corrosion mechanisms: - The adsorption of the nutriment by the biofilm provoked different airings and chemical concentrations, hence the contribution of iron bacteria in the construction of the biofilm (for example : Gallionella and sphaerotillus). Metabolic corrosive reduction by SRB using the pyrite as source of iron sulphide leads to the production of the H 2 S. Oxidation of the H 2 S by the sulpho-bacteria (specifically the Thiobacillus and Beggiatoa). The principal products of this oxidation are the elementary sulphur and sulphate. References 1. Berner R.A. (1984). Sedimentary pyrite : An update. Geochim. Cosmochim. Acta. 48, pp. 605-615. 2. Berner R.A. and Westrich J. T. (1985).- Bioturbation and early diagenesis of carbon and sulfur. Am. Journ. Sci., 285, pp. 193-206. 3. Breton G., Girard A. and Lagardère J. P. (1995). Espèces animales benthiques des bassins du port du Havre (Normandie, France) rares, peu
+
+9
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 17 24 November 2006 connues ou nouvelles pour la région. Bull. Trim. Soc. Géol. Norm. et Amis du Muséum du Havre, t.82, fasc.3, pp. 1-28.
+
+4. Bryant R. D., Jansen W., Boivin J., Laishley E.J. and Costerton J.W. (1991).- Affect of hydrogenas and mixed sulfate-reducing bacterial populations of the corrosion of steel. Appl. Environ. Microbiol. 57, pp. 28042809. 5. Divet L. (1996).- Activité sulfatique dans les bétons consécutive à l'oxydation des pyrites contenues dans les granulats. Suythèse bibliographique. Bulletin des Laboratoires des Ponts et Chaussées, 201, Réf. 3931, pp. 45-63. 6. Divet L. (1996).- Etude des risques d'oxydation de la pyrite dans le milieu basique du béton. Bulletin des Laboratoires des Ponts et Chaussées, 204, Réf. 4019, pp. 97-107. 7. Divet L. (1997).- Les réactions sulfatiques dans les bétons. Entretenir, réparer et renforcer les ouvrages en béton. Bulletin du Laboratoire central des Ponts et Chaussées, 58, 24p. 8. Golhaber M.Band Kaplan I.R. (1980).- Mechanism of sulfur incorporation and isotope fractionation during early diagenesis in sediments of the Gulf of California. Rev. Mar. Chem., 3, pp. 83-104. 9. Hamilton W.A. (1985).- Sulfate-reducing bacteria and anaerobic corrosion. Ann. Rev. Microbiol. 39, pp. 195-217. 10. Postgate J.R. (1982).- Economic importance of sulphur bacteria. Phil. Trans. R. Soc. Lond. B. 298, pp. 583-600. 11. Rodier J. (1984).- L'analyse de l'eau, eaux naturelles, eaux résiduaires et eau de mer : physico-chimie, bactriologie, biologie. Edition Dunod, Paris, 1383p. 12. Sand W. (1987).- Importance of hydrogen sulfide, thiosulfate and methylmercaptan for growth of thiobacilli during simulation of concrete corrosion. Rev. Appl. Environ. Microbiol., 53, pp. 1645-1648. 13. Schalschl E. (1980).- Elemental sulfur as a corrodent in dearated, neutral aqueous solutions. Mat. Perf. 19, pp. 9-12. 14. Tatnall R.E. (1981b).- Fundamentals of bacteria induced corrosion. Mat. Perf. 20 (9), pp. 147-165. 15. Von Wolgozen Kuhr C.A.H. and Van Der Vlugt L.S. (1934).- The graphitization of cast iron as electrobiochemical process in anaerobic soils. Wat., Deb Haag. 16, pp. 147-165. 16. Wang J. and Morse W. (1996).- Pyrite formation under conditions approximating those in anaerobic sediments. Pathway and morphology. Rev. Mar. Chem., 52, pp. 99-121.
+
+10
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

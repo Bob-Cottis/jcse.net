@@ -1,0 +1,309 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+Studies on some organic polyphosphates for cooling water treatment
+
+S.P.Subramanaian, M.Renukadevi, A.Subbiah, K.Saminathan, A.Gopalan and T.Vasudevan*
+
+Department of Industrial chemistry, Alagappa University, Karaikudi, 630 003, India.
+
+ABSTRACT
+In the present work, we have synthesized some of the organic polyphosphates through the condensation of aryl phosphorodichloridate with dihydroxy benzoic acid and then employed them as antiscalants for carbonate and sulphate calciumscale inhibition. The other requirements of the antiscalants such as calcium-polymer chelation, iron dispersability and biocidal properties are examined. The scaling time and limiting
+
+current values which are characteristics of the antiscalants are monitored through constant potential electrolysis. The morphology of the scales is examined through SEM and XRD studies. A suitable mechanism for the antiscaling process is proposed.
+
+Corresponding Author
+
+Dr. T.Vasudevan, e.mail: drtvasudevan2002@yahoo.com,
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+INTRODUCTION
+
+Polymers containing functional groups like carboxylic [1, 2], sulphonic, phosphoric, phosphionic and phosphono groups are reported as having good antiscaling property. Naturally available polymers such as carboxy methyl cellulose, tannin, lignin polymers with anionic, cationic and ampholytic groups and organo phosphorous compounds have also been reported as antiscalants for cooling and boiler water systems. In the present study polyphosphates were synthesized in two stages. In the first stage aryl
+
+phosphorodichloridate from phenol and phosphorousoxychloride were prepared. In the second stage the aryl phosphorodichloridate was condensed with dihydroxy benzoic acids to yield the corresponding polyphosphates [3]. These compounds were evaluated as aniscalants for cooling water.
+
+EXPERIMENTAL DETAILS SYNTHESIS OF POLYPHOSPHATES
+
+2,5-dihydroxy benzoic acid (50 mM) along with dry toluene (30 ml) was taken in a reaction flask fitted with reflux condenser and CaCl2 guard tube. Phenyl
+
+phosphorodichloridates (55 mM) was added drop by drop. When the addition was over, mixture was heated under reflux for 48 hours with constant stirring. The polymer
+
+obtained was treated with distilled water to dissolve out any unreacted hydroy benzoic acid and filtered at the pump. In the place of phenyl phosphorodichloridate, o-methyl
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+formyl phosphorodichloridate and p-methyl phenyl phosphorodichloridate were used for condensation and the corresponding phosphates were prepared.
+
+TECHNIQUES USED CHEMICAL SCREENING TEST
+
+As per NACE standard [4] chemical screening test was carried out to measure quantitatively the capacity of the antiscalants to inhibit the precipitation of major hardness forming salts of the cooling waters. The test was selected to rank the polymers on their efficiency on retarding the formation of CaCO3 scales such as CaCO3 and CaSO4 from water.
+
+CONSTANT POTENTIAL ELECTROLYTES
+Using EG and G Princeton Applied Research (PAR) versastat II constant potential electrolysis was performed. The three electrode cell assembly was used. The working and counter electrodes were of platinum foils of area 1cm2. A standard calomel electrodes (SCE) was used as the reference electrode. The working platinum electrode was cleaned using fuming nitric acid and repeatedly washed with double distilled water after each experiment.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+AC IMPEDANCE TECHNIQUE The cell used in this technique was the same as mentioned earlier. A constant potential of -1.2 V versus SCE was applied to the working platinum electrode dipped in the test solution over a period of 30 minutes to accelerate the scaling on the electrode surface.
+
+SCANNING ELECTRON MICROSCOPY (SEM)
+
+Morphological changes of the calcium carbonate and sulphate crystals formed on the glass plates due to the influence of the polymers were observed after making them conductive using JFC 100-E ion sputtering device. SEM photographs were taken using JOEL JSM 840 scanning microscope for the scales both in the presence and absence of the polymers.
+
+X-RAY DIFFRACTION STUDIES (XRD)
+
+X-ray diffraction studies were carried out using JOEL-8030 which is computer controlled.
+
+CHELATION TEST
+The chelation test was performed for all the antiscalants in the presence of Ca2+. The absorbance of the test solutions were measured with UV-Visible spectrometer at a wavelength of 190 nm. This wavelength is reported to be more sensitive for calcium polymer Chelation [5].
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+RESULTS AND DISCUSSIONS
+
+The antiscalants behaviour of the polymers with respect to carbonate and sulphate scales of calcium brine is discussed.
+
+CHEMICALSCREENING TEST
+
+The results of phenyl phosphorodichloridate-2,5 dihydroxy benzoic acid polymer (A) at various pH for the carbonate brine of 300ppm Ca2+ions at 70ºC are presented in table (1). The antiscaling efficiency increases with increase in concentration of the polymer with increase in temperature in the range of 50-80ºC the antiscaling efficiency decrease but only marginally. The other compounds o-methyl formyl phenyl phosphoro dichloridate2,5 dihydroxy benzoic acid polymer (B) and p-methyl phenyl phosphoro dichloridate-2,5 dihydroxy benzoic acid polymer (C) show similar behaviour and the results are presented in the same table.
+
+CONSTANT POTENTIAL ELECTROLYSIS
+
+The results of the constant potential electrolysis for the control gives a scaling time of 12.6 minutes and the residual current value of 4.83 µA respectively. These values are comparable to those reported in literature [6,7]. With the addition of increasing
+
+concentrations of antiscalant, the scaling time and the residual current values are on the increase compared to that in control. The results were presented in the table 2.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+IMPEDANCE MEASUREMENTS
+
+With the introduction of polymer in increasing concentrations, the Rt value decrease accounting for the unsettled Ca2+ ions in solution. Nearly more than one order reduction in the Rt values for the polymeric solutions compared to the control justifies the electro catalytic role for oxygen reduction played by the bare metal namely platinum compared to that of the scale covered surface. The double layer capacity values have increased in the presence of compounds. This change in capacity is related to the dielectric nature of the scale formed. The values are presented in the table3. For the compound B, the rising portion at the low frequency end correspond to certain conditions that is related to the oxygen diffusion on the electrode surface that limits the overall process. The inhibition values calculated from Rt values matches well with chemical screening test results for all the three compounds. For the compound C, there are two semicircles for some of the concentrations, one accounting for the slow charge transfer scaling process and other relatively fast oxygen diffusion process. Also, the increased capacity accounts for the hindered oxygen reduction on the scale covered electrode surface.
+
+SEM RESULTS Gabrielli et al [78], have presented the morphology of CaCO3 scale through SEM photographs. The calcite crystals are block like particles of cubic shape [7,8] or entangled rhombohedran [9]. The dihydrate crystals exhibit in the absence of any polymer addition are reported as thin tubular cells exhibiting monoclinic symmetry [10,11]. Calcite
+
+crystals have been deposited on glass plate in the absence and in the presence of the
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+antiscalants at 70ºC. In the presence of the antiscalants the crystals appears to be more like distorted needle shaped particles. The definite morphological changes induced by the antiscalants are evident from SEM studies [not shown].
+
+CHELATION TEST
+
+The polymeric antiscalants have the property to bridge carboxylic groups with calcium ions. This results in the appearance of a slight turbidity or opalescence. The
+
+corresponding UV results are presented in table 4.
+
+SUMMARY AND CONCLUSIONS In the present work, some of low molecular weight organic polyphosphates that are water soluble as their sodium salts have been synthesized, characterized and evaluated as antiscalants for carbonate and sulphate brine in cooling waters. The summarized results of the studies are presented below. Some of the condensation products of 2,5-dihydroxy benzoic acid/2,4-dihydroxy benzoic acid have been prepared and characterized to be tried as antiscalants for carbonate brine in cooling water with aryl phosphorodichloridate. These polyphosphates have been evaluated for their effectiveness in the inhibition of calcium carbonate and calcium sulphate scales. Chemical screening tests as per NACE standards have been carried out in respect of the calcium scales at varied pH's and temperatures. Calcium potential electrolysis and impedance measurements have been carried out in bicarbonate brine at pH 8 to confirm their performance with respect to calcium carbonate scale inhibition. The SEM studies and XRD measurements are
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+performed to follow the changes in the crystal morphology of the scales, if any, in the presence of polymers. The major conclusions of the present investigation are presented are presented below:
+
+From chemical screening tests for carbonate scale at 70ºC for different pH's the rated performance of the compounds are as follows: phenyl polymer > methylpolymer > methyl formyl polymer.
+
+With regard to the temperature performance in the range 50-80ºC at pH 8 the phenyl polymers are found to be best.
+
+(1)
+
+Even at the highest level of 1000 ppm of carbonate brine at 70ºC and pH
+
+7.6 the phenyl polymer is able to give 100% antiscaling efficiency.
+
+(2)
+
+It is very striking to note that either the presence or absence of electron
+
+releasing or withdrawing groups on the phenyl ring of the polyphosphate has any marked influence on their antiscaling efficiency. This may be due to the absence of complete adsorption on the scale particles by the polymers but can be attributed to the phenomenon wherein these substances acting in sub- stoichometric level and get wrapped up over the crystallites retarding or promoting the growth of a particular face in preference to others in the crystal affecting the nucleation and growth rates.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+(3)
+
+Constant potential electrolysis is applicable only for calcium carbonate
+
+scaling. The two important parameters namely scaling time and residual current are indicative of the slowing down of the oxygen reduction reaction on the scale covered electrode surface compared to that on scale free surface.
+
+(4)
+
+The impedance measurements enable the calculation of the charge transfer
+
+resistance of the scaling process. In the presence of the polyphosphates there is a decrease of Rt values which is a measure of the efficiency of the compound as an antiscalant. Also the change in the Cdl value is related to the dielectric nature of the scale formed.
+
+(5)
+
+The SEM photographs (not shown here) of the scale clearly highlight the
+
+morphological changes suffered by them in presence of the polymers.
+
+(6)
+
+All the polyphosphates are found to have good dispersing ability for iron.
+
+(7)
+
+Chelation test performed at 20 ppm dosage of the polymers at pH 8.4
+
+indicates that all of them have the ability to bridge Ca2+ions through their carboxylic groups. This is reflected in the slight turbid appearance of the solution. Also this is confirmed through UV studies.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+TABLE 1
+
+ANTISCALING EFFICIENCES
+
+Dosage levels (ppm) 2 4 6 8 10
+
+Compound A pH pH pH 7.2 7.6 8.0 100 91 91 100 91 91 100 100 91 100 100 100 100 100 100
+
+Percentage efficiencies Compound B pH pH pH pH 8.4 8.6 7.2 7.4 76 36 100 80 81 52 100 100 90 52 100 100 100 61 100 100 100 61 100 100
+
+Compound C pH pH 7.2 7.4 100 83 100 100 100 100 100 100 100 100
+
+pH 7.6 80 90 100 100 100
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+TABLE 2:
+
+SCALING PARAMETERS FROM CONSTANT POTENTIAL ELECTROLYSIS
+
+Dosage Compound A level Scaling Residual (ppm) time(sec) current,wa control 756 4.83 2 1019 5.36 4 1120 12.74 6 1324 17.87 8 1434 32.81 10 1678 73.34
+
+Compound B Compound C Scaling Residual Scaling Residual time(sec) current,wa time(sec) current,wa 756 4.83 756 4.83 884 14.36 810 11.63 1113 16.66 942 11.54 1330 34.54 966 14.36 1470 43.58 1248 17.16 >1800 63.51 1705 67.31
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+TABLE3:
+
+IMPEDANCE RESULTS
+
+Dosage level (ppm) TYPE A TYPE B TYPE C Cdl (f/cm2) % inhibition Rt (/cm2)
+
+Control
+
+2
+
+4
+
+6
+
+8
+
+10
+
+3557.9 3557.9 3557.9 9.5 9.5 9.5 -
+
+368 254.5 31.2 91.8 15.7 12.8 89.7 93.4 99.1
+
+31.7 55.1 23.2 99.2 28.8 17.2 99.1 98.4 99.4
+
+28 45.0 22.7 110.1 35.0 17.5 99.2 98.7 99.4
+
+13.2 33.5 21.6 120.3 47.5 29.3 99.6 99.0 99.4
+
+13.1 14.4 19.0 121.8 69.6 33.3 99.6 99.6 99.5
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+TABLE 4
+
+CHELATING ABILITY OF THE ANTISCALANTS
+
+Polyphosphates Addition Blank (After 1 hour)
+
+Absorption 0.004 0.002 0.224
+
+Wavelength 228.5 264.5 310.5 261.5 164.0 241.5 261.5 304.0
+
+Compound A Compound B Compound C
+
+0.303 0.420 0.359 0.259 0.160
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 5
+
+17 July 2006
+
+REFERENCES (1) (2) (34) (4) S.Sarig, F.Kahana and R.Leshem, Desalination,17, 215, 1975 D.R.Sexmith and E.Q.Petrey, Desalination, 13, 87, 1973. H.Mark, N.G.Garylord and N.M.Bikalas, Encyclopedia of polymer science and Technology, Interscience publishers. NACE standard test method, TM 0374-95," Laboratory screening test to determine ability of scale inhibitors to prevent the precipitation of CaSO4 and CaCO3 from solution". (5) (6) (7) (8) (9) (10) (11) T.Imair, T.Uchida, S.Ano and T.Tsvenki, Mat.pref, 41, 1998. A.Alice Arul Antony, G.Paruthimal kalaignan, A.Gopalan, K.Balakrishnan, and T.Vasudevan, Bull.Electrochem, 15, 124, 1999. C.Gabrielli, M.Keddam, A.Khalil, R.Rosset and M.Zidoune, Electro Chim.Acta, 42, 1207, 1997. C.Deslous, D.Festy, O.Gil, G.Ruis, S.Touzain and B.Tribollet, Electro Chim. Acta, 43, 1891, 1998 C.Gabrielli, M.Keddam, A.Khalil, R.Rosset and M.Zidoune, J.Appl.Electrochem, 26, 1125, 1996 Joseph C.Salaman, Polymer materials Encyclopedia, C.R.C.Press Inc., Florida, 7587, 1996. A.E.Austin, J.F.Miller D.A.Vanghan and J.F.Kircher, Desalination, 16, 345, 1975.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

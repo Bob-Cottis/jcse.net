@@ -1,0 +1,404 @@
+ISSN 1466-8858
+
+Volume 10, Preprint 40 submitted 16 Chromates and Dichromates as corrosion inhibitors forJuly 2007
+
+Tin coated steel in 0.5M Monochloroacetic acid
+Sangita Sharma,* Kinnari H. Parikh and J.J.Vora
+Department of Chemistry, Hemchandracharya North Gujarat University, Patan -384 265 (Gujarat), India. Email : smridhee2000@yahoo.co.in
+
+Abstract : The corrosion behavior of Tin coated steel in monochloroacetic acid
+and its inhibition by chromates and dichromates were studied by using weight loss technique at 35 to 55 ± 0.1 ºC. All the data reveal that chromates and dichromates acts as an inhibitor in the acid environment. The % inhibition efficiency of chromates and dichromates decrease with increase in inhibitor concentration, period of immersion and temperature. The experimental data fits into the Temkin, Fruendlich and Langmuir adsorption isotherms. Thermodynamic parameters for adsorption of chromates and dichromates were calculated from the experimental data.
+
+Keyword : Potassium chromate, Sodium chromate, Potassium dichromate,
+Sodium dichromate, Ammonium dichromate, corrosion inhibition, Adsorption isotherms, Tin coated steel, Monochloroacetic acid.
+
+Introduction :
+Corrosion is inevitable [1] and is a serious problem because it contribute to depletion of our natural resources, pollution of environment, loss in term of cost and human life in term of accident. Severity of corrosion problem varies from place to place because the process of corrosion depends on a number of factors. Ignorance sometimes is the cause of many premature unexpected and expensive failures due to corrosion problems [2]. Electrolytic Tinplate undoubtedly enjoys the pride of place as a packaging medium especially for food. It owes its unique position to its " nine layers sandwich structure", each of which contributes to its eminence as a packing material.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----1---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 40 Tin Coated Steel is used baby food, milk powder, coffee submitted 16 July 2007 tins, oil cans
+
+etc. Today TCIL, India is also capable of supplying excellent quality of thin strip DR for Instant Coffee packaging and other OTS products in the range of 0.17mm, 0.19mm and 0.21mm respectively. Detailed review of literature has revealed that bulk of work is carried out on mild steel and a little work is available on coated steel. Only a few references are available on Tin Coated Steel.
+
+Experimental :
+Tin coated steel used in present work has procured by Tata Tin Plate, Jamshedpur, India. Each sheet was 0.21mm in thickness, Type is Double reduced, Grade Coating is Equally Coated, Temper Designation is DR 550 (DR 08), Hardness 30RT is 73 +3/-3 and Classification is Bright finish. The chemicals used were of A.R. grade. All the solutions were prepared in conductivity water and standardized by different method [3] and their purities were checked by noting their melting points, solubility and crystallization method [4]. For weight loss studies, rectangular specimens of area 6 cm × 3 cm (thickness 0.21mm) with a small hole of about 2 mm diameters just near the one end (3 cm side end) of the specimen for suspension has been used. Each specimen was first washed with distilled water and dried. The specimen was finally degreased by A.R. carbon tetrachloride. The test specimens were exposed to 0.5M solution of monochloroacetic acid containing controlled additions of various chromates and dichromates viz., Potassium chromate, Sodium chromate, Potassium dichromate, Sodium dichromate and Ammonium dichromate. The specimen was weighted in single pan balance (Matelar Tolado AB 204 electronic balance) to an accuracy of ±0.0001gm. Then one specimen at a time was suspended by a glass-hook in each beaker (Borosil) which contained 230 ml of the test solution, the solution being open to air at 35 ± 0.1°C and left exposed to the air for various immersion periods (1 to 4 hours). Similar experiments were also carried out at other temperatures, viz., 40°, 45°, 50° and 55°C. For maintaining temperature the specimen were placed in a corrosive medium in " High Precision Water Bath" Cat. No. MSW ­ 274 with readability ± 0.1°C.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----2---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 After
+
+Volume 10, be cleaned with saturated ammonium 2007 submitted 16 July the tests, the specimen canPreprint 40
+
+acetate solution [5-6]. But in present study only distilled water was used to remove corrosion products of tin coated steel in monochloroacetic acid.
+
+Results and discussion :
+The weight loss of the Tin coated steel coupons in 0.5M monochloroacetic acid in the absence and presence of different concentrations of chromates and dichromates at 35 ± 0.1 ºC were determined. From the weight loss values determined, the % inhibition efficiencies (% I ) were calculated using the following equation [7-8].
+
+Where Wu and Wi are weight loss of metal for tin coated steel in the absence and presence of inhibitor respectively in monochloroacetic acid at the same temperature.
+
+Effect of inhibitor concentration :
+The effect of inhibitor concentration on inhibitor efficiency in 0.5M monochloroacetic acid is given in table - 1 and fig. 1 Table : 1 Effect of Concentration of Inhibitor on Corrosion loss (mg/dm2) of Tin Coated Steel in 0.5M Monochloroacetic acid at Temperature 35 ± 0.1 °C ( Efficiency is shown in paranthesis )
+
+Period of Immersion : 1 Hour
+Inhibitor Nil Potassium chromate Sodium chromate Potassium dichromate Sodium dichromate Ammonium dichromate Inhibitor Concentration
+
+0.5%
+4.40 2.20 (50) 3.58 (19) 3.30 (25) 7.43 (-69) 2.20 (50)
+
+1%
+4.40 0.55 (88) 0.28 (94) 0.55 (88) 0.83 (81) 0.28 (94)
+
+1.5%
+4.40 1.38 (69) 2.20 (50) 2.20 (50) 1.65 (63) 1.10 (75)
+
+3%
+4.40 2.20 (50) 0.83 (81) 3.30 (25) 2.48 (44) 1.65 (63)
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----3---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+Potas s ium chrom ate 100
+
+Volume 10, Preprint 40
+
+submitted 16 July 2007
+Potassium dichromate
+
+100 75
+
+75 % Inhibition
+
+50
+
+% Inhibition
+
+50 25 0
+
+25
+
+0 0 1 2 3 4
+
+0
+
+1
+
+2 % Concentration
+
+3
+
+4
+
+% Concentration
+
+Sodium chromate
+100 % Inhibition
+% Inhibition 100 75 50 25 0
+
+Sodium dichromate
+
+80 60 40 20 0 0 1 2 3 4
+
+0
+
+1
+
+2
+
+3
+
+4
+
+% Concentration
+
+% concentration
+
+Ammonium dichromate
+100 % Inhibition 75 50 25 0 0 1 2 3 4
+
+% Conce ntration
+
+Fig. 1 : Effect of Concentration on inhibitor efficiency of tin coated steel in 0.5M monochloroacetic acid at temperature 35 ± 0.1°C and period of immersion 1 hour. Of the inhibitors studied in this programme of work, Sodium chromate and Ammonioum dichromate have proved to be the best inhibitor giving 94% protection at 1% concentration and also potassium chromate, potassium dichromate and sodium dichromate have proved to be the good inhibitor giving 88%, 88% and 81% protection at 1% concentration to Tin coated steel in 0.5M monochloroacetic acid solution at temperature 35 ± 0.1°C and for period of immersion of 1 Hour respectively.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----4---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+submitted 16 of At 1% concentration Volume 10, Preprint 40 in 0.5M monochloroacetic acid the order July 2007
+
+efficiency of inhibitor are as under : Sodium dichromate (81%) < Potassium dichromate (88%) < Sodium dichromate (88%) < Ammonium dichromate (94%) < Sodium chromate (94%).
+
+Effect of immersion period :
+To determine the effect of immersion period on inhibitive efficiency, weight losses were determined in 0.5M monochloroacetic acid containing 1% inhibitor for immersion periods of 1, 2, 3 and 4 hours (fig. 2). From the inhibitive efficiencies given in table - 2 it may be generalized that the efficiency of Sodium chromate and Ammonium dichromate decrease with time up to an immersion period of 4 hours.
+
+Table : 2 Effect of Period of immersion on corrosion of Tin coated steel in 0.5M monochloroacetic acid at 35 ± 0.1 °C Weight loss in mg /dm2 Period of immersion 1% K2CrO4 0.55 (88) 2 10.73 1.75 (84) 3 17.33 4 (77) 4 33 6.88 (79) 1% K2Cr2O7 0.55 (88) 2.15 (80) 2.75 (84) 7.43 (78) 1% Na2CrO4 0.28 (94) 1.1 (90) 2.7 (84) 4.4 (87) 1% 1% Na2Cr2O7 (NH4)2Cr2O7 0.83 (81) 3.19 (70) 4.54 (74) 7.43 (78) 0.28 (94) 1.1 (90) 2.75 (84) 4.4 (87)
+
+Nil
+
+1
+
+4.4
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----5---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 40
+
+submitted 16 July 2007
+
+90 % Inhibition
+
+70
+
+50 1 1.5 2 2.5 Time in Hour 1 % Potassium chromate 1 % Sodium chromate 1 % Amomium dichromate 1 % Potassium dichromate 1 % Sodium dichromate 3 3.5 4
+
+Fig. 2 : Effect of Time on Inhibitor Efficiency of Tin Coated Steel in 0.5M Monochloroacetic acid at Temperature 35 ± 0.1 °C
+
+Out of Potassium chromate, Potassium dichromate and Sodium dichromate is almost similar to that of Sodium chromate. It is observed that the inhibitor efficiency decreases in most of cases with increase in period of immersion. This may be due to the desorption of the adsorbed inhibitor molecules at more duration of time and thus exposing the metal surface to further attack [9]. For immersion periods ranging from 2 to 4 hour, the general order of inhibitor efficiency is as under : Sodium dichromate < Potassium dichromate < Potassium chromate < Sodium chromate < Ammonium dichromate. However, for 1 hour immersion period, the efficiency increases in the same order as 2 to 4 hours.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----6---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Effect
+
+Volume 10, Preprint 40 of temperature on inhibitive efficiency :
+
+submitted 16 July 2007
+
+To determine the effect of temperature on inhibitive efficiency, weight losses were determined in 0.5M monochloroacetic acid containing 1% inhibitor at solution temperatures of 35°, 40°, 45°, 50° and 55°C in table ­ 3 and fig. 3. It is seen that the extent of corrosion in inhibited as well as uninhibited acid increases with a rise in temperature, the loss in weight being much higher in plain acid. The result also show that all the five compounds studied decrease the corrosion rate to an appreciable extent, the extent of inhibition ranging from 34 % to 94 %. From the weight losses it may be generalized that here also Sodium chromate and Ammonium dichromate appears to be the best inhibitors.
+
+Table : 3 Effect of Temperature (°C) on Corrosion loss (mg/dm2) of Tin Coated Steel in 0.5M Monochloroacetic acid for immersion period of 1 Hour
+
+Inhibitor (inhibitors concentration)
+
+35 ± 0.1 40 ± 0.1 45 ± 0.1 50 ± 0.1 55 ± 0.1 (Efficiency is shown in parenthesis)
+
+Nil (mg/dm2) Potassium chromate (1.0%) mg/dm2
+
+4.4 0.6 ( 88 )
+
+5.8 0.9 ( 85 ) 0.8 ( 86 ) 1.1 ( 81 ) 1.7 ( 70 ) 0.7 ( 89 )
+
+6.9 1.1 ( 84 ) 0.8 ( 88 ) 2.0 ( 72 ) 1.9 ( 72 ) 0.7 ( 90 )
+
+8.7 1.2 ( 87 ) 4.0 ( 55 ) 2.2 ( 75 ) 5.2 ( 40 ) 2.4 ( 73 )
+
+10.5 2.2 ( 79 ) 6.9 ( 34 ) 2.8 ( 74 ) 6.3 ( 40 ) 2.8 ( 74 )
+
+Sodium chromate (1.0%) mg/dm2
+
+0.3 ( 94 )
+
+Potassium dichromate (1.0%) mg/dm2
+
+0.6 ( 88 )
+
+Sodium dichromate (1.0%) mg/dm2
+
+0.8 ( 81 )
+
+Ammonium dichromate (1.0%) mg/dm2
+
+0.3 ( 94 )
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----7---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+110 90
+% Inhibition
+
+Volume 10, Preprint 40
+
+submitted 16 July 2007
+
+70 50 30 35 40 45
+Tem perature in ° C
+
+50
+
+55
+
+Potassium chromate Sodium dichromate
+
+Potassium dichromate Ammonium dichromate
+
+Sodium chromate
+
+Fig. 3 : Effect of temperature on Inhibitor Efficiency of Tin Coated steel in 0.5 M Monochloroacetic acid The value of Energy of activation, Ea were calculate with the help of the equation
+
+and also from the plot of log  Vs 1/T where  is the corrosion rate at temperature T (K) and R is the gas constant. From the Ea value (table ­ 4), it is apparent that for the corrosion of Tin coated steel in uninhibited acid the Ea value is 8.66kcal/mol where as inhibited acid the values are higher and range from 14.12kcal/mol (Potassium chromate) to 32.35kcal/mol (Sodium
+
+chromate). In inhibited acid, the Ea values, thus vary and depend on the inhibitive power of the inhibitor. It appears that the exponential term in the Arrhenius equation appreciably changes the Ea value with a slight change in the corrosion rate. The higher value of activation energy in inhibited acid suggest that the adsorption of the inhibitor on the metal surface may be physical or weak in nature [10]. According to Putilova [11] et. al. the behavior of those inhibitors whose activity decreases with a rise in temperature and in whose presence the activation energies are higher in inhibited than in uninhibited acid may be compared with that of unstable catalyst poisons whose adsorption decreases with increasing temperature.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----8---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 40 Table : 4
+
+submitted 16 July 2007
+
+Energy of Activation (Ea) for the corrosion of Tin Coated Steel in 0.5M Monochloroacetic acid in presence and in absence of Inhibitors at different Temperature Period of Immersion : 1 Hour Name of Inhibitor (35 - 40)°C Nil 1 % Potassium chromate 1 % Sodium chromate 1 % Potassium dichromate 1 % Sodium dichromate 1 % Ammonium dichromate 10.53 16.79 40.87 26.47 28.24 33.10 Ea kcal/mol (40 - 45)°C 6.77 11.05 1.27 22.77 4.36 2.07 (45 - 50)°C 9.84 0.99 64.01 4.89 40.63 50.77 Mean Ea (50 - 55)°C kcal/mol 7.49 27.66 23.26 9.40 7.82 6.01 8.66 14.12 32.35 15.88 20.26 22.99
+
+Adsorption characteristics :
+The surface coverage () of the Tin coated steel by adsorbed chromates and dichromates were calculated from the corrosion rate by using following equation [12].
+
+Where Wu and Wi are the corrosion rates in the absence and presence of chromates and dichromates in the 0.5M monochloroacetic acid solution. The  was found to uncertain with increase inhibitor concentration at the 35 ± 0.1°C temperature studied. The nature of inhibition on the corroding surface during corrosion inhibition of metals and alloys has been deduced in terms of adsorption characteristics of the inhibitors [13-14]. The way in which the value of  for 1% Sodium chromate varied at constant temperature with the logarithm of
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----9---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 inhibitor
+
+Volume 10, Preprint 40 submitted 16 July concentration show in fig. 4 conformed to the Temkin isotherm, which 2007
+
+is formulated as [15]
+
+Where `a' is molecular interaction parameter,  is the surface coverage area. And k is the equilibrium constant which is related to the standard free energy of adsorption below [16].
+
+Diagram has been plotted to show dependency of coverage degree on logarithm of inhibitor concentration. The fig. 4 shows that this dependency is in confirmation with Freundlich adsorption isotherm equation written as follows.
+
+Where `a' and `qm' are constants characterization for given adsorption system. Diagram has been plotted to logarithm of (/1- ) against logarithm of inhibitor concentration. The fig. 4 show that this dependency is in the confirmation with Langmuir adsorption isotherm equation as follows.
+
+The facts indicate that chemisorptions occurs according to Temkin, Freundlich and Langmuir adsorption model and that the metal surface is heterogeneous.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----10---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+1 Surface Coverage  0.8 0.6 0.4 0.2 0 -0.3
+
+Volume 10, Preprint 40
+
+submitted 16 July 2007
+
+-0.2
+
+-0.1
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+Log Concentration
+
+Temkin adsorption isotherm
+0 -0.2 Log  -0.4 -0.6 -0.8 -0.4
+
+-0.2
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+Log Concentration
+
+Freundlich adsorption isotherm
+1.5 Log (  /(1-)) 1 0.5 0 -0.5 -1 -0.4
+
+-0.2
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+Log Concentration
+
+Langmuir adsorption isotherm
+
+Fig. 4 : Adsorption isotherm in presence of Sodium Chromate as inhibitor in 0.5M Monochloroacetic acid
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----11---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Study
+
+Volume 10, Preprint of Thermodynamic Parameters : 40
+
+submitted 16 July 2007
+
+The thermodynamic functions like standard free energy of adsorption (G), enthalpy of adsorption (H) and entropy of adsorption (S) are estimated in the presence of inhibitors for 0.5M monochloroacetic acid and are given in table - 5 Table : 5 Thermodynamic Parameters of Free energy of adsorption (G), Enthalpy of adsorption (H) and Entropy of adsorption (S) for various Inhibitors in 0.5M Monochloroacetic acid Temperature : 35 ± 0.1 ° C Period of Immersion : 1 Hour
+
+Sr.No.
+
+Name of Inhibitor
+
+G
+kcal mol-1
+
+H
+cal mol-1 k-1 0.67 -5.63 1.07 6.92 -0.35
+
+S
+cal mol-1 17.48 14.97 12.48 25.34 21.22
+
+1 2 3 4 5
+
+1 % Potassium chromate 1 % Sodium chromate 1 % Potassium dichromate 1 % Sodium dichromate 1 % Ammonium dichromate
+
+-5.38 -4.62 -3.84 -7.80 -6.54
+
+[I] Free energy of adsorption Free energy of adsorption (G) was calculated from the thermodynamic kinetic model (a modified langmuir adsorption isotherm fit) [17-20].
+
+The equilibrium constant is related to the free energy of adsorption by the equation below [21].
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----12---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 The relation
+
+Volume c, where 40 submitted 16 July log (/1-) against log 10, Preprint c is the inhibitor concentration is 2007
+
+linear showing an adsorption on the metal and alloy surface electrode according to the Langmuir isotherm [19]. Negative values [22] of G indicates strong interaction of inhibitor molecule and spontaneous adsorption of inhibitor on the Tin Coated Steel surface. The standard free energy of adsorption values in 0.5M
+
+monochloroacetic acid for inhibitors under investigation are within limit of -7.80 to -3.84 kcal/mol. Such results have been observed in majority of inhibitors of various types in acid aqueous media [23-26]. However in 0.5M acid, where in inhibitor efficiency are more differentiated because G values are more negative for good inhibitor like for Sodium dichromate and Ammonium dichromate than those of less efficient inhibitors like Potassium dichromate.
+
+[II] Enthalpy and Entropy of adsorption Enthalpy of adsorption and Entropy of adsorption were calculated this equation as under
+
+Where R is gas constant.
+
+This agrees with general suggestion that more negative values of G and positive value of S leads to increase in inhibitor efficiency [27]. The positive values of entropy of adsorption S suggest the adsorption to be a spontaneous process. But order of efficiency of different inhibitors and the order of decrease or increase w.r.t. S do not agree and these suggest decrease in free energy is the controlling factor in adsorption process.
+
+Conclusion.
+In general for all selected inhibitors, rate of corrosion increases with rise of temperature and increase in immersion period; and efficiency of inhibitors decreases with rise of temperature. From weight loss data it may be generalized that corrosion protection is high for short period of time for all the
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----13---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 inhibitors.
+
+Volume free energy submitted 16 of The negative value of 10, Preprint 40 and small value of heat July 2007
+
+adsorption for all inhibitors suggest for strong interaction of inhibitor molecules and spontaneous adsorption on metal surface and adsorption may be physical type. Dichromates and Chromates are passivator type of corrosion inhibitors and as per electrochemistry passivators reduce cathodic areas at a current density equivalent to that at anodic areas which is itself greater than critical current density of metal and passivation of metal occurs. Passive areas became noble to adjacent areas and passivity results over the entire metal surface.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----14---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 40
+
+submitted 16 July 2007
+
+References
+[1] [2] R. Balasubramaniam, Current science, 84(2), pp25, 2003. G. Mars Fontana, `Corro. Engineering', 3rd edition, Mc Graw Hill Book Company, 4, 1987. [3] G.H. Jeffery and J. Basset et. al., `Vogel's Text Book of Quantitative Chemical Analysis', 5th edition, Longman, 1989. [4] The Merck Index, `An Encyclopedia of Chemical, Drugs and Biologicals', 12th edition, Merck and Co. Inc., 1996. [5] F.A. Champion, `Corrosion testing procedures', Chapman and Hall, London, pp194, 1964. [6] F.N. Speller, `Corrosion causes and prevention', Mc Graw Hill, New York, pp38, 1951. [7] [8] J.D. Talati and R.M. Modi, Trans. SAEST, 11, pp259, 1986. L.A. Al-Shamma, J.M. Saleh and N.A. Hikat, Corros. Sci., 27, pp221, 1987. [9] N.S. Rawat and A.K. Singh, Bull. Electrochem., 3, pp7, 1987.
+
+[10] P.K. Ghosh, D.K. Ghasarkar and V.S. Gupta, British Corros. J., 18, pp287, 1983. [11] I.N. Putilova, S.A. Balezin, and V.P. Barannik, `Metallic Corrosion Inhibitors', Pergamon Press, pp31, 1960. [12] B.G. Ateya, B.E. Anadouli and F.M.A. El-Nizamy, Bull. Electrochem., 17, pp437, 2001. [13] R.K. Dinnapa and S.M. Mayanna, J. Appl. Electrochem., 11, pp111, 1982. [14] R.K. Dinnapa and S.M. Mayanna, Corrosion, 38, pp525, 1982. [15] U.J. Ekpe, U.J. Ibok, O.E. Offiong, B.I. Ita and E.E. Ebenso, Mater Chem. Phys., 40, pp87, 1995. [16] S. Bilgic and M. Sahin, Mater. Chem. Phys., 70, pp292, 2001. [17] S. Murlidharan, M.A. Quraishi and S.V.K. Lyer, Corros. Sci., 37, pp1739, 1995. [18] A. EI-Away, A. Abd EI-Nabey and S. Aziz, J. Electrochem. Soc., 139, pp2149, 1992. [19] I. Langmuir, J. Amer. Chem. Soc., 39, pp1848, 1947.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----15---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 A.M.S. [20]
+
+submitted 16 July 2007 Abdel and E.L.A.Volume 10,Trans. SAEST, 16, pp197, 1981. Saiyed, Preprint 40
+
+[21] H.M. Bhajiwala and R.T. Vashi, Bull. Electrochem., 17, pp446, 2001. [22] H.B. Rudresh and S.M. Mayanna, J. Electrochem. Soc. India, 31, pp109, 1982. [23] D. Prasad, G.S. Jha, B.P. Chaudhary and S. Sanyal, J. Indian Chem. Soc., 79, 264, 2002. [24] N.C. Subramanyam, R.S. Seshadri and S.M. Mayanna, `Tenth International Congress on Metallic Corrosion', Oxford and I.B.H., New Delhi, 3, pp3007, 1987. [25] D. Prasad and S. Sanyal, J. Indian Chem. Soc., 74, pp637, 1997. [26] S. Sanyal, Indidan J. Technol., 30, pp16, 1992. [27] S. Sanyal, J. Electrochem. Soc. India, 39, pp192, 1990.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of ----16---Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

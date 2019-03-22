@@ -1,0 +1,163 @@
+ISSN 1466-8858
+
+Volume 10 Paper 37
+
+Seawater Corrosion Behavior of AISI 1053 and AISI 304 Alloys
+
+S.Y. Seoh, W.M.N. Wan Nik, H. B. Senin
+
+Faculty of Science and Technology, University Malaysia Terengganu, Mengabang Telipot, 21030 Kuala Terengganu, Terengganu, Malaysia, xsyin06@yahoo.com.cn
+
+Abstract
+Corrosion behavior of AISI 1053 and AISI 304 alloys have been determined at room temperature in seawater solution. The electrochemical behavior of the alloys has been studied by the open circuit potential (OCP) and the polarization resistance (Rp). The corrosion products and the microstructure on the alloys were characterized by using energy-dispersed X-ray spectroscopy (EDS), and Scanning Electron Microscope (SEM), respectively. The results have shown that the deposited film of the alloys was rich in Fe and O for AISI 1053 alloys; and rich in C and also Si for AISI 304 alloys. It was suggested that the dissolved oxygen having typical influence in the seawater corrosion of these alloys. Both alloys affected by pitting corrosion while AISI 1053 alloys displayed enhance deleterious effect on their surface. Keywords: Steel, Polarization, SEM, Pitting corrosion
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Introduction
+Steel has been widely used as structural materials in industries and machinery sectors; however its tendency to corrosion when exposed to marine environment still cannot be avoided. Corrosion specifically refers to any process involving the deterioration of metal components and the loss of material due to chemical attack involving chemical and electronic changes [1-3]. Corrosion in marine environment depends on many parameters such as temperature, dissolved oxygen content, salinity, pH, biofouling, formation of protection layers and fluid velocity [2,4, 5]. Carbon steels are commonly used in marine application, such as construction, nuclear and fossil fuel power plants, chemical processing, mining and transportation due to their mechanical strength and low cost. However, gradually stainless steels are used for a wide range of applications in seawater for the reasons of its excellent corrosion resistance in seawater and its reasonable cost. Stainless steels are widely used as condenser tubing, boat hardware, pump impeller, valves, pump shafts and seawater pipe. Due to the widely usage of carbon steel and stainless steel, many researcher have been studied on their electrochemical behavior and their microstructure properties [6-10]. In this work, the corrosion characteristic of carbon steel AISI 1053 and stainless steel AISI 304 induced by dissolved oxygen content were investigated based upon oxidation kinetics by weight loss experiment, polarization resistance by electrochemical method and morphologies of scales by SEM-EDS.
+
+2. Materials and method
+2.1. Material
+The present study were carried out using: a) AISI 1053 alloy in plate having composition in Wt.%: Fe-balance, 0.50-C, 0.15-Si, 0.8-Mn, 0.04-P, 0.05-S; and b) AISI 304 alloy in plate having composition in Wt.%: Fe-balance, C-0.3%, Cr-12%, Ni-8%. The test media used for the 2
+
+investigation ­ seawater, was pump from Marine Hatchery of UMT (University Malaysia Terengganu), Kuala Terengganu, Malaysia.
+
+2.2. Weight loss experiment
+The AISI 1053 alloy and AISI 304 alloy in sheet plates were cut out into coupons of rectangles sizes, 26 mm X 14 mm X 2mm and 20mm x 10mm x 1mm, respectively. They were then grounded with silicon carbide abrasive papers of 320, 600 and 800 grit sizes respectively and finally degreased in acetone. The coupons were rinsed with distilled water, dried and then weighed before exposure. The weighed test coupons were totally immersed in two different conditions for period of 120 days at room temperature as below: Condition A: Seawater in static condition without aeration Condition B: Seawater in static condition with aeration Variation in mass change was recorded at 30 days intervals throughout the 120 days and the corrosion rate were calculated. Before recording of the mass change, the specimens were chemically cleaned. The chemical mixture used for cleaning is as below [11]: AISI 1053: 3.5g hexamethylene tetramine, reagent water to make 1000mL AISI 304: 100mL nitric acid, 20mL HCl, reagent water to make 1000mL
+
+2.3. Electrochemical experiment
+A potentiostat (Autolab PGSTAT30) was used to perform the linear polarization test on AISI 1053 alloy and AISI 304 alloy at different immersion time's samples. The small rectangle size coupons were be partially immersed in seawater. Saturated calomel electrode (SCE) and the platinum sheet were used as reference electrode and counter electrode, respectively. The experiment was programmed to polarize the coupons potential to about +0.05mV vs open circuit potential 3
+
+(OCP) in both the directions i.e. cathodic and anodic to get polarization resistance, Rp.
+
+2.4. Morphology studies and corrosion products characterization
+The corroded images of AISI 1053 alloys and AISI 304 alloys before and after cleaned by chemical were taken by using SEM (JOEL MODEL 6360LA). In present study, low vacuum mode with 50Pa and detection of secondary electrons were chosen. The Energy Dispersive X-Ray Spectrometer (EDS) (Model EX-23000BU) is linked to Scanning Electron Microscope (SEM)( (JOEL MODEL 6360LA) and uses X-Rays to identify the corrosion products on the surface of the samples. The EDS also determined the relative percentage of the detected elements present on the scanned area.
+
+3. Results and discussion
+3.1 Weight loss measurements
+Result that obtained for the weight loss experiment where the specimens immersed in aerated and none aerated seawater has indicated that, the weight loss and the corrosion rate of the specimens were influenced by the dissolved oxygen in seawater. Figure 1a&b showing the curves of weight loss versus exposure time for AISI 1053 alloy and AISI 304 alloy in aerated seawater and none aerated seawater. Figure 1a shows a steady continuing increasing of weight loss with the exposure time up to 120 days. The higher weight loss was recorded by AISI 1053 alloy immersed in aerated seawater. However, for AISI 304 alloy, the higher weight loss was recorded by the non aerated seawater condition (Figure 1b). Weight loss of AISI 304 alloy in both conditions was increasing with time during the initial exposure period. However, up to 90 days, the weight loss of each test was decrease with increasing the period of time. This may due to the formation of passive layer on the surface of specimens and act as a protective layer for the specimens. As compare Fig. 1a and Figure 1b, 4
+
+showing that weight loss of AISI 1053 alloy was much higher than AISI 304.
+1.20E-01 1.00E-01 Weight loss, g/cm
+2
+
+none aerated seawater aerated seawater
+
+8.00E-02 6.00E-02 4.00E-02 2.00E-02 0.00E+00 0 720 1440 2160 2880 Time/hours
+
+(a)
+6.00E-04 none aerated seawater aerated seawater Weight loss, g/cm
+2
+
+4.00E-04
+
+2.00E-04
+
+0.00E+00 0 720 1440 2160 2880 Time/hours
+
+(b) Figure 1. Graphs of weight loss vs time of samples in none aerated seawater and aerated seawater for: a) AISI 1053; b) AISI 304
+
+Curves made for corrosion rate versus immersion time of AISI 1053 alloy and AISI 304 alloy in aerated and non aerated seawater are presented in Figure 2a&b. AISI 1053 alloy showing higher corrosion rate in aerated seawater than non aerated seawater. Throughout the immersion time, the trend of the corrosion rate for both conditions of AISI 1053 alloy was almost the same. Corrosion rate for AISI 304 alloy was decreasing with time throughout exposure period. Initially, AISI 304 alloy in aerated condition provided the lower corrosion rate, however, up to 90 days; the corrosion rate of AISI 304 5
+
+alloy in aerated seawater is slightly higher than in none aerated seawater. This may due to the initial breakup of the protective layer. As the protective film breakup, the surface of specimens was exposed to the attack of dissolved oxygen and chloride. As compare Figure 2a and Figure 2b, showing that corrosion rate of AISI 1053 alloys was much higher than AISI 304 alloys. We can conclude that AISI 304 alloys having better resistivity in both seawater conditions than AISI 1053 alloys.
+2.00E+01
+
+1.50E+01 Corrosion rate, mpy
+
+1.00E+01
+
+5.00E+00 none aerated seawater aerated seawater 0.00E+00 720 1440 2160 2880 Time/hours
+
+(a)
+2.50E-01 2.00E-01 Corrosion rate, mpy 1.50E-01
+
+none aerated seawater aerated seawater
+
+1.00E-01 5.00E-02
+
+0.00E+00 720 1440 2160 2880 Time/hours
+
+(b) Figure 2. Graphs of corrosion rate vs time of samples in none aerated seawater and aerated seawater for: a) AISI 1053; b) AISI 304
+
+6
+
+3.2 Linear polarization scan
+Figure 3 shows plot of OCP, Ecorr versus immersion time for samples after immersed in aerated seawater and non aerated seawater. AISI 1053 alloy samples do not show much variation in OCP values for both conditions samples. AISI 304 alloy exhibits more positive OCP values than AISI 1053 alloy. This mean the AISI 304 alloy appear to be noble than AISI 1053. The AISI 304 alloy in aerated seawater shows the most positive OCP value. The shift of OCP towards the more noble direction indicates that the cathodic process controlled more than the anodic process [12]. The potential value increases steeply towards noble direction for AISI 304 alloy after immersed in aerated seawater and non aerated seawater, indicate the healing condition of the passive films. [13]. Figure 4 shows plot of polarization resistance, Rp versus immersion time for samples after immersed in aerated seawater and non aerated seawater. The higher the Rp value, the lower the corrosion rate. All of the samples show the higest Rp value on fourth month, except the sample of AISI 304 alloy in none aerated seawater condition. It shows a rapid drop after second month. This exceptional case may due to the process depassivation of the oxide films. As the aeration was supply, air bubbles are present; it may cause impingement attack and lead to the depassivation of the passive film. However, as we compare the corrosion rate of all specimens to their electrochemical behaviors, it shows almost identical behavior.
+0.40 0.30 0.20 0.10 E c orr / V 0.00 -0.10 -0.20 -0.30 -0.40 -0.50 -0.60 30 60 Time/days 90 120
+AISI 1053 in non aerated seawater AISI 1053 in aerated seawater AISI 304 in non aerated seawater AISI 304 in aerated seawater
+
+Figure 3. OCP readings at different immersion time of samples in seawater
+
+7
+
+6.00E+02 5.00E+02
+
+AISI 1053 in non aerated seawater AISI 1053 in aerated seawater AISI 304 in non aerated seawater AISI 304 in aerated seawater
+
+R p / k o h m -c m 2
+
+4.00E+02 3.00E+02 2.00E+02
+
+1.00E+02 0.00E+00 30 60 Time/days 90 120
+
+Figure 4. Rp plots at different immersion time of samples in seawater
+
+3.3. Morphology studies and corrosion products chaterization
+Figure 5 (a, b, c & d) show Scanning Electron Microscope (SEM) micrographs on AISI 1053 alloy and AISI 304 alloy immersed in seawater of different tests for 120 days.
+
+(a)
+
+(b)
+
+(c)
+
+(d)
+
+Figure 5. SEM micrographs show the surface layer grown on samples: a) AISI 1053 in none aerated seawater; b) AISI 1053 in aerated seawater; c) AISI 304 in none aerated seawater; d) AISI 304 in aerated seawater.
+
+8
+
+Both AISI 1053 alloys are heavily corroded and show thick and loose films. However, the AISI 1053 alloy that immersed in aerated condition show higher corrosion rate. Higher dissolved oxygen content will increase in the rate attack and lead to the higher risk of corrosiveness. As observed, the AISI 1053 in aerated seawater were rich in iron oxide. Dissimilar to AISI 1053 alloy, surface of both AISI 304 alloys show a film that rich in microorganism e.g. diatom phytoplankton. AISI 304 alloy in non-aerated seawater reveal the higher corrosion rate than in aerated condition. The result of Energy-dispersed X-ray Spectroscopy (EDS) and its spectrum analysis are shown in Figure 6 (a, b, c & d). The main elements found in the corrosion products of AISI 1053 alloys are Fe and O. According to Rao et al. [15], XRD analysis on the corrosion products of carbon steel show the presence of -FeOOH, FeO, Fe2O3 and FeSi and sulphur. As detected by EDAS, both samples of AISI 304 alloys show high percentage in C and Si. This may due to the presence of the diatom phytoplankton. Besides, their percentage of sulphur was slightly higher than the AISI 1053 alloys. This may caused by the bacterial activity such as suphate reducing bacteria (SRB). Activity of SRB comprises the removal of cathodic hydrogen or formation of iron sulphide [14]. The presence of this aggressive ion of sulphide will breakdown the formation of the passive film and accelerates the process of anodic dissolution. This lead to AISI 304 alloy in none aerated seawater having higher corrosion rate than in aerated seawater condition. However, despite of the formation of sulphite on the interface of metal, Raul Sandoval-Jabalera et al [16], Nagiub and Mansfeld [17] have suggested that the biofilm formation by the microorganism provided a certain capacity to protect the metals. Figure 7 (a, b, c & d) shows Scanning Electron Microscope (SEM) micrographs on AISI 1053 alloys and AISI 304 alloys after chemically cleaned. Obviously, surface of the specimens of AISI 1053 alloys were porous. It is heavily attacked by pitting corrosion, especially in the condition of aerated seawater. SEM shows AISI 304 alloys exhibit better surface than AISI 1053 alloys. However, AISI 304 alloys that immersed in none aerated seawater was having some cracks on the
+
+9
+
+surface of the specimens. A small pit also presence on the AISI 304 alloy which immersed in aerated seawater.
+
+Elements % C 2.23 O 22.33 Na 0.17 Mg 0.23 Si 0.19 P 0.01 S 0.37 Cl 0.34 Ca 0.93 Mn 0.14 Fe 73.06
+
+Elements % C 5.67 O 21.35 Na 0.35 Mg 0.08 Si 0.18 P 0.01 S 0.32 Cl 0.75 Ca 0.49 Mn 0.01 Fe 70.80
+
+(a)
+Elements % C 48.23 O 20.88 Na 1.79 Mg 1.06 Si 11.12 P 0.09 S 1.45 Ca 1.05 Cr 0.43 Mn 1.08 Fe 12.60 Ni 0.23
+
+(b)
+Elements % C 64.58 O 9.94 Na 0.97 Mg 0.80 Si 1.87 S 0.73 Cl 2.65 Ca 0.57 Cr 2.88 Mn 1.41 Fe 12.71 Ni 0.91
+
+(c)
+
+(d)
+
+Figure 6. EDS spectra measured on the surface of samples after 4 months immersed in seawater: a) AISI 1053 in none aerated seawater; b) AISI 1053 in aerated seawater; c) AISI 304 in none aerated seawater; d) AISI 304 in aerated seawater.
+
+10
+
+(a)
+
+(b)
+
+(c)
+
+(d) Figure 7. SEM micrographs show the deterioration of test coupons: a) AISI 1053 in none aerated seawater; b) AISI 1053 in aerated seawater; c) AISI 304 in none aerated seawater; d) AISI 304 in aerated seawater
+
+11
+
+4. Conclusions The corrosion studies of AISI 1053 alloys and AISI 304 alloys in seawater have been carried out at room temperature for 120 days. In the exposure to seawater, AISI 304 alloys having more corrosion resistance compare to AISI 1053 alloys. From OCP reading and Rp values, AISI 304 alloys appear to be noble than AISI 1053, this is agreed with the corrosion rate behaviour. The film deposited on AISI 1053 alloys coupons were thick and loose, whereas the film deposited on AISI 304 deposit was rich in microorganism. The attack of the pitting corrosion exhibiting deleterious effect on the surface of AISI 1053 alloys and the AISI 304 alloys just show some crack and small pits on the surface of the alloys. It is suggest that the dissolved oxygen having typical influence in the seawater corrosion of AISI 1053 alloys and AISI 304 alloys.
+
+References
+[1] G. Blustein, J. Rodriguez, R. Romanogli, C.F. Zinola, J. Corros. Sci. 47, 47 pp369-383, 2005. [2] A.U. Malik, S. Ahmad, I. Andijani, S. Al-Fouzan, Desalination. 123 123, pp205-213,1999. [3] A. Loto, Corros. Prevention and Control. 9, pp119-124, 1992.
+
+[4] S. C. Dexter, J. P. LaFontaine, Biofouling. 7, pp97-127, 1993. [5] D.A. Shifler, J. Corros. Sci. 47, pp2335-2352, 2005. 47, [6] Y.F. Cheng, F.R. Steward, J. Corros. Sci. 46, pp2405-2420, 2004. 46, [7] C.-O.A. Olsson, D. Landolt, J. Electrochim Acta. 48, pp1093-1104, 48, 2003. [8] Ph. Refait, J.-B. Memet, C. Bon, R. Sabot, J.-M.R. Génin, J. Corros. Sc.i 45, pp833-845, 2003. 45, [9] R. Vera, B.M. Rosales, C. Tapia. J. Corros. Sci. 45, pp321-337, 45, 2003. [10] Sei J. Oh, D.C. Cook, H.E. Townsend, J. Corros. Sci. 41, pp168741, 1702, 1999. 12
+
+[11] ASTM, Designation G1-03. [12] A.U. Malik, I. Andijani, F. Al-Moaili, G. Ozair, J. of Cement & Concrete Composites 26, pp235-242, 2004. 26, [13] A.U. Malik, S. Amad, I. Andijani, S. Al-Fouzan, J. of Desalination, 123, 123, pp205-213, 1999. [14] T.S. Rao, T.N. Sairam, B. Viswanathan, K.V.K.Nair, Corro. Sci. 42, 42, pp1417-1431, 2000. [15] T.S. Rao, M.S. Eswaran, V.P. Venugopalan, K.V.K. Nair, P.K. Mathur, J. of Biofouling 6, pp245-259, 1993. [16] R. Sandoval-Jabalera, G.V. Nevárez-Moorillón, J.G. Chacón-Nava, J.M. Malo-Tamayo, A. Martínez-Villafañe, J. Mex. Chem. Soc. 50, 50, pp14-18, 2006. [17] A. Nagiub, F. Mansfeld, J. of Mater. & Corros. 52, pp817-826, 52, 2001.
+
+13
+

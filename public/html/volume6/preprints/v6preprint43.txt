@@ -1,0 +1,454 @@
+Volume 6 Paper C102
+
+Calculation of Relative Humidity in Equilibrium with Strong Electrolyte Solutions by Thermodynamic Data
+Tadashi Shinohara* , Wataru Oshikawa** and Shin-ichi Motoda***
+
+* Materials Engineering Laboratory, National Institute for Materials Science, 1-2-1 Sengen, Tsukuba, Ibaraki, 305-0047 Japan, SHINOHARA.Tadashi@nims.go.jp ** Department of Mechanical and Systems Engineering, College of Engineering, University of the Ryukyus, 1, Sembaru, Nishihara, Okinawa, 903-0213 Japan, oshikawa@tec.u-ryukyu.ac.jp *** Tokyo University of Mercantile Marine, 2-1-6, Etchujima, Koto-ku, Tokyo, 135-8533 Japan, motoda@ipc.tosho-u.ac.jp
+
+Abstract
+metal surface in atmospheric environment, relative humidity, RH, in were calculated using available thermodynamic data. The activity water, X, could be given as a function of ionic strength of the solution, which was determined using the mean activity coefficient data available in literature for electrolytes in the solution. RH values obtained as RH(%)=100×fw(X)X agreed well with the measured values reported in the literature for solutions with individual electrolytes, for example NaCl, MgCl2, Na2SO4, Mg(NO3)2 and so on. RH values for solutions with various concentrations of sea salt were also calculated coefficient of water, fw(X), for the solution with molar fraction of In order to estimate concentrations of electrolyte layers formed on
+
+equilibrium with various concentrations of strong electrolyte solutions
+
+was confirmed that composition of water film formed as a solution of
+
+also the calculated RH values agreed well with the measured ones. It
+
+as those for solutions with NaCl-MaCl2 mixed electrolytes. In this case
+
+sea salt could be estimated when amount of deposited sea salt, Ws, was Ws10-2g/m2.
+
+Keywords: atmospheric corrosion, water film, relative humidity, activity of water, strong electrolyte, mean activity coefficient
+
+Introduction
+deposited on a metal surface. The thin water film is formed as a Atmospheric corrosion is known to progress under a thin water film
+
+solution of strong electrolyte, for example deposited sea salt, by absorbing moisture in air. The relative humidity, RH [%], of air in equilibrium with a thin water film is given by RH [%] = 100aw ; where
+
+compositions of the thin water films with NaCl and/or MgCl2. However, many kinds of strong electrolyte particles are deposited on the metal surfaces in the actual atmospheric environment. In this study, calculation methods for estimation of RH in equilibrium with various
+
+aw is the activity of water in the electrolyte solution or thin water film. A few researchers [#ref01, 02] have made thermodynamic analyses for
+
+concentrations of strong electrolyte solutions are suggested where [#ref03].
+
+these RH values are calculated by using available thermodynamic data
+
+Relationship between Activity Coefficient of Water And That of Solute Species
+Consider a mixed aqueous solution containing n number of solute
+
+species. Activity, ai , of solute i (i = 1, 2, ··· n) in such a solution is related to aw by the Gibbs-Duhem relation:
+
+x w d (ln a w ) +  xi d (ln ai ) = 0
+i =1
+
+n
+
+This relation is rewritten as
+
+d (ln a w ) = - ( xi x w )d (ln ai )
+i =1
+
+n
+
+(1)
+
+where xw and xi are the mole fractions of water and solute i with of activity coefficient fi is given by
+
+reference to the Raoult standard. The expression for d(ln ai) in terms d(ln ai)=d(ln fixi)=d(ln fi)+d(ln xi)=d(ln fi)+(1/xi)dxi
+
+Substituting this equation into Eq. (1), following equation is obtained 2
+
+d ln( f w ) + (1 x w )dx w = - ( xi
+i =1 n
+
+n
+
+x w )d (ln f i ) -  ( xi
+i =1
+
+n
+
+x w )(1 xi )dxi
+n
+
+= - ( xi x w )d (ln f i ) - (1 x w ) dxi
+i =1 i =1
+
+(2)
+
+Using the relation x w +  xi = 1
+i =1 n
+
+following equation is obtained dx w +  dxi = 0
+i =1 n
+
+Thus, Eq . (2) is rewritten as d (ln f w ) = - ( xi x w )d (ln f i )
+i =1 n
+
+(3)
+
+obtained
+
+By integration of Eq . (3) from xw=1 to xw=X , following equation is
+
+
+
+xw = X
+
+xw =1
+
+d (ln f w ) = - 
+i =1
+
+n
+
+xw = X
+
+xw =1
+
+( xi
+
+x w )d (ln f i )
+
+(4)
+
+The left hand side, LHS, of this equation is expressed as Thus, Eq. (4) is reduced to ln f w ( X ) = - 
+i =1 n xw = X x w =1
+
+LHS=ln fw(X) - ln fw(1)=ln fw(X)
+
+( xi
+
+x w )d (ln f i )
+
+(5)
+
+Because (xi/ xw) in Eq.(5) is give as (xi/ xw) = (mi/M), then Eq. (5) is further reduced to ln f w ( X ) = - 
+i =1 n xw = X xw =1
+
+(mi
+
+M )d (ln f i )
+
+(6)
+
+where mi is the molality of solute i and M is that of water (M =
+
+1000/W0 = 55.51 mol/kg; where W0 is the molecular weight of H2O).
+
+Calculation of Activity Coefficient of Water for Strong Electrolyte Solution
+Solution electrolyte species (A+B-  +Az++ -Bz-), the activity coefficient, f ,of this strong electrolyte solution is given by f=f±=++Consider an aqueous solution containing a single strong Calculation of Activity Coefficient of Water for Single Strong Electrolyte
+
+Thus, Eq. (6) for this solution can be written as 3
+
+f w ( x) = ( M ) 
+
+xw= X
+
+xw=1
+
+md (ln f ± ) ; X = M (M + vm )
+
+(7)
+
+Suffix i is not given in this formula because this solution contains only of the strong electrolyte solution is given as a function of ionic strength, I, as follows d(ln f±)=[ (ln f±)/I]dI a single strong electrolyte species. The mean activity coefficient , f ,
+
+where I is further represented by
+
+(8- 1) (8-2)
+
+Thus, by substituting Eqs. (8-1) and (8-2) into Eq. (7) under the obtained
+
+I=Z*m, Z*=(z+2++z-2-)/2
+
+conditions of I = 0 at xw = 1 and I = Ix at xw = X, following equation is
+ln f w ( X ) = - v MZ *
+
+(
+
+) I [(ln f ) I ]dI
+Ix 0 ±
+
+(9) (10)
+
+By applying the Debye-Hückel relation
+
+(
+
+log f±=Az+z-I1/2/(1+BåI1/2) A = 0.5115mol -1 2 dm 3 2 , B = 0.3291 × 10 7 cm -1 mol -1 / 2 dm 3 / 2
+
+)
+
+f± of the strong electrolyte solution is approximated as follows
+[#ref04] : log f±= log f±DH + CI + DI2
+ln f w ( X ) = -2.303 v MZ *
+*
+
+(11)
+±
+
+Thus, Eq. (9) is reduced to
+
+( ) I [(log f ) I ]dI = -2.303(v MZ ){F ( I ) + CI 2 + 2 DI
+IX
+
+0
+
+2
+
+3 X
+
+X
+
+X
+
+3}
+
+(12)
+
+where F(Ix) is given by
+
+F(Ix)= 0Ix I ·[(log f±DH)/ I]dI
+=-[ Az+z-/(B3å3)]×[BåIx1/2-2ln(1+BåIx1/2)-1/(1+BåIx1/2)+1] (13)
+
+Calculation of Activity Coefficient of Water for Mixed Strong Electrolyte Solution represented by
+n i =1
+
+The ionic strength, I, of a mixed strong electrolyte solution is I =  Z i* mi =  Z i* k i m1
+i =1 n
+
+(14)
+
+where ki is the ratio of mi against that of electrolyte i=1, ki= (mi/m1), and Zi* is Z* of the electrolyte i. Accordingly, mi is given as :
+
+mi = k i m1 = k i I Z i* , Z i* =  Z i* k i
+i =1
+
+n
+
+(15)
+
+By substituting Eq. (15) into Eq. (6) under the assumptions of I = 0 at 4
+
+xw=1 and I = Ix at xw=X, following equation is obtained
+ln f w ( X ) = - vi k i MZ t
+i =1 n   X = M  M +  mi  i =1   n
+
+(
+
+*
+
+)
+
+IX
+
+0
+
+I [ (ln f iX ± ) I ]dI
+
+(16)
+
+where i and fix are  and f of the electrolyte i in the mixed strong any handbook. Hence, it was estimated under the assumption that the activity coefficient of a given ion does not vary in the solutions with obtained for a strong electrolyte species (A+B-  +Az++ -Bz-): the same ionic strength [#ref05, 06]. Thus, the following equation is electrolyte solution, respectively. The value of fix is not available in
+
+This indicates that the activity coefficient of each ionic species in the mixed electrolyte is assumed to be the same as in the single electrolyte solution with the same ionic strength and is given by Eqs. (10) and (11). Accepting this assumption, Eq. (16) is rewritten as
+
+fx±(I) =[fx(Az+,I)+· fx(Bz-,I)-](1/) =[f(Az+,I)+· f(Bz-,I)-](1/)=f ±(I)
+
+(17)
+
+ln f w ( X ) = - vi k i MZ t
+i =1
+
+n
+
+(
+
+*
+
+)
+
+IX
+
+0
+
+I [ (ln f i ± ) I ]dI
+
+(18)
+
+containing only the electrolyte species i is given by
+ln f i , w ( I X ) = - vi MZ i
+
+With reference to Eq. (9), the expression of fi,w(X) in the solution
+
+(
+
+*
+
+)
+
+IX
+
+0
+
+I [ (ln f i ± ) I ]dI
+
+(19)
+
+Thus, following equation is obtained by substituting Eq. (19) into Eq.(18);
+
+ln f w ( X ) =  k i Z i
+i =1
+
+n
+
+(
+
+*
+
+Z i ln f i , w ( I X ) =  Z i mi Z t m1 ln f i , w ( I X )
+* * * i =1
+
+)
+
+n
+
+(
+
+)
+
+(20)
+
+Ii=Zi*mi, Eq. (20) is reduced to
+n i =1
+
+Provided that the ionic strength of the electrolyte i is represented by
+
+ln f w ( X ) =  (I i I X ) ln f i ,w ( I X )
+
+(21)
+
+Thus, if fw of the solution containing only one electrolyte species is known, fw of the mixed electrolyte solution can be estimated.
+
+RH of Atmosphere in Equilibrium with Strong Electrolyte
+Solution
+RH of Atmosphere in Equilibrium with Aqueous Solution Containing a
+Single Strong Electrolyte Species 5
+
+To carry out the calculation of Eq. (12), the value of å in Eq. (10) must be determined in addition to those of C and D. The values for these parameters were found as follows. First, the relationship between f± and I was derived from the relationship between mean
+
+[#ref03]. The values of f and I were input by taking into account Eq. (8-2) and the following relationship [#ref03]:
+
+activity coefficient, ± , and concentration, m [mol/kg], in literatures
+
+Next, the relationship between =log f -log f±DH and I was derived as a second order equation of I, (CI + DI2), by the least squares
+
+f± = ± (1 + W0m / 1000)
+
+under the condition of å =0~10-7cm, and this relationship was fitted method. The values for å, C, and D yielding the largest correlation
+
+coefficient were taken as the acceptable parameter values. The values
+
+obtained with å = 4.5 x 10-8cm, as shown in the figure. The
+
+1 shows the results for MgC12. The largest correlation coefficient was
+
+of ± used in following calculations are the ones at 25°C [#ref03]. Fig.
+
+equation and Eqs. (12) and (13), fw(X) was calculated. Fig. 2 shows the results of a similar calculation for NaCl and for MgC12 together with the available values in the literature ([#ref03] for NaCl and [#ref01] for from the osmotic pressure. The calculation results for both NaCl and MgC12 agreed well with the corresponding values in the literature. solutions. The m-RH relationships for chloride and sulfate solutions solutions with those in the literature [#ref03, 07, 08, 09 ]. The Similar calculations were carried out for various strong electrolyte
+
+approximate expression of f± is given on top of the figure. Using this
+
+MgC12). For NaCl, the RH was obtained as the aw value calculated
+
+are shown in Fig. 3 and 4. Table 1 shows the RH values for saturated
+
+6
+
+Table1. Comparison of the calculated relative humidity values of various saturated salt solutions with the reported values in the literature.
+Calculated 25 Na2SO4 KCl (NH4)2SO4 NaCl NH4Cl Mg(NO3)2 CaCl2 MgCl2 LiCl KOH NaOH LiBr 93.6 84.1 78.5 75.2 76.8 53.7 28.1 32.9 11.4 10.1* 6.6* 4.2 15 79.3 52 31 32.3 34 11.3 9.28) 7.28) 3.69) 81.1 76 79.2 25 93
+)
+
+Literature 15) 93 86 25
+
+calculation results for these strong electrolytes also agreed well with the corresponding values in the literature.
+
+RH of Atmosphere in Equilibrium with Mixed Strong Electrolyte
+Solution In the atmospheric environment, water film is formed by absorption 7
+
+of moisture by sea salt particle, which contains mainly NaCl and MgCl2.
+
+The values of f± and aw for solutions containing NaCl and MgC12 were Mg-Cl system in Fig. 5. The results in the region where NaCl is precipitated, "NaCl(s)+solution" , are indicated by dotted lines. The ones (·, #ref01). calculated results for aw=0.75 and 0.85 are fitted well with measured In the calculation for the solution of sea salt, it was assumed that
+
+calculated, and the results are plotted in the phase diagram of the Na-
+
+m[MgCl2]/m[NaCl] = m[Mg2+]/m[Na+] = 0.11 [#ref01] where sea salt is fully dissolved ­ line T in the figure ­ , and m[MgCl2] and m[NaCl] were
+determined from the available solubility curve where NaCl is NaCl, MgCl2 and Cl-, m[NaCl], m[MgCl2] and m[Cl-]= precipitated­ line S in the figure ­. The calculated concentrations of
+
+m[NaCl]+2m[MgCl2], respectively, are shown in Fig.6 with measured
+results. The calculated results were fitted well with the available measured data, and it is confirmed that the RH value for mixed electrolyte solutions also can be estimated with available thermodynamic data. To confirm the relationships between chemical composition of water film and RH, amount of absorbed moisture was measured. Stainless steel sheets with area of 100cm2 and QCM, Quartz Crystal Microbalance, were covered with simulated sea salt, which contains NaCl and MgCl26H2O; m[Mg2+]/m[Na+] = 0.11 [#ref01], and were exposed in the constant humidity chamber for 2~4h. The amount of exposure. absorbed moisture, Wab, was determined as weight change during the The QCM was an AT-cut quartz crystal with gold platings on both sides. The surface on one side was to be exposed, while the other 8
+
+side was covered with silicone sealant forming a closed compartment weight change, w (g/m2), by the following equation: where q0 is a reference resonant frequency(q0=5.88 MHz), N is a fixed frequency coefficient of q= -(q02u/N)·w
+
+filled with dry air. The frequency change, q (Hz) was converted to the (22)
+
+the crystal(N=1.67×10-5cm·Hz),
+
+ is the density of the crystal (=2.65g/cm3), and u is the
+number of exposed
+
+surface(u=1). Thus, a frequency change of 1 (Hz) was converted to weight change of 1.28×10-4 g/m2. used for the measurement under conditions where amount of deposited sea salt, Ws, was Stainless steel sheets were
+
+Ws 1g/m2. The QCM was used under conditions where Ws=
+
+conditions where Ws >10-2g/m2.
+
+10-310-2g/m2, because the oscillations of QCM were unstable under Relationships between Wab and RH measured by QCM and stainless
+
+in Fig. 7 are shown in Fig.8. The weight of NaCl, MgCl2 and water,
+
+steel sheets are shown in Fig.7, and the ratios of (Wab/Ws) for the data
+
+W[NaCl], W[MgCl2] and Ww , respectively, in the deposited sea salt with weight of Ws are determined as follows: W[NaCl]=(M[NaCl]/ M t)· Ws (23-1) W [MgCl2]=(s M [MgCl2]/ M t)· Ws (23-2) W w=(6 s M [H2O]/ M t)· Ws (23-3) M t= M [NaCl]+ s M [MgCl2]+ 6 s M [H2O] where M [NaCl], M [MgCl2] and M [H2O] are molecular weights of NaCl, MaCl2 and water, respectively, and s=m[Mg2+]/m[Na+] = 0.11. It is
+considered that MgCl26H2O is fully dissolved under the conditions of
+
+RH40%. Thus, concentration of MgCl2, m[MgCl2], is obtained as
+
+9
+
+m[MgCl2]=1000W[MgCl2]/M[MgCl2]·(Wab+Ww)
+By resolving Eq.24, (Wab/Ws) is obtained as : =1000s/{6sM[H2O]+Mt(Wab/Ws)}
+
+(24) (25)
+
+This estimated value of (Wab/Ws) is also plotted in Fig. 8. follows;
+
+(Wab/Ws)={ (1000s/m[MgCl2])- 6sM[H2O]}/ Mt
+
+For NaCl, concentration, m*[NaCl], is calculated temporarily as
+
+m*[NaCl]= 1000W[NaCl]/M[NaCl]·(Wab+Ww)
+= 1000/{6sM[H2O]+Mt(Wab/Ws)}
+
+"NaCl(s)+solution" region in the phase diagram in Fig. 5, actual
+
+If the composition of {m[MgCl2], m*[NaCl] } is plotted in the
+
+(26)
+
+concentration, m[NaCl], must be obtained based on solubility curve, line S given in Fig. 5 , and m[MgCl2], while m[NaCl]= m*[NaCl] if the region. The concentrations of Cl-, m[Cl-]= m[NaCl]+2m[MgCl2], composition of {m[MgCl2], m*[NaCl] } is plotted in the "solution"
+
+obtained for the data in Fig. 7 are plotted in Fig. 9 along with
+
+calculated line given in Fig. 6. For water film, calculated results also agreed well with the measured data, when Ws10-2g/m2, as shown in Figs. 8 and 9. Thus, it is confirmed that composition of water film Concentrations of water film are diluted than estimated ones when Ws<10-2g/m2, because water adsorbs on metal surface without sea salt particle and its weight is not neglected [#ref10]. formed as a solution of sea salt can be estimated when Ws10-2g/m2.
+
+References
+!ref01 Muto and K. Sugimoto, Zairyo-to-Kankyo , 47, 519, 1998. !ref02 M. Yamamoto, H. Masuda and T. Kodama, Zairyo-to-Kankyo , 10
+
+48, 633, 1999.
+
+!ref03 Jpn Chem. Soc. : Chemical Handbook, Fundamentals, Maruzen , Tokyo, p.1 196, 1975; Jpn Electrochemical Soc. : Electrochemical Handbook, Maruzen, Tokyo, p. 84, 1985. !ref04 H. Ohtaki, M. Tanaka and S. Funahashi, Chemistry of Solution Reactions, Gakkai Shuppan Center, Tokyo, p. 7, 1977. Equilibrium, Kyoritsu, Tokyo, p. 124, 1963. Electrolysis, Agne , Tokyo, p. 56, 1979. 1961. !ref08 Jpn Chem. Soc., Chemical Handbook, Fundamentals, Maruzen , Tokyo, p.559, 1966. !ref09 K. Murakami, H. Sato and K. Watanabe: Trans. Jpn. Soc. Refrigerating and Air Conditioning Engineers, 12, 107, 1995. !ref05 M. Koizumi, Kyoritsu Monograph Series 124, Chemical !ref06 M. Takahashi and N. Masuko, Chemistry of Industrial !ref07 N. A. Lange: Handbook of Chemistry, 10th Ed., McGraw-Hill,
+
+!ref10 S. Okido and Y. Ishikawa: Zairyo-to-Kankyo, 47, 476, 1998.
+
+11
+

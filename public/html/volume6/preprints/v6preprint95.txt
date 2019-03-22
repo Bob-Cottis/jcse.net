@@ -1,0 +1,181 @@
+Volume 6 Paper H052
+
+Oxidation / Reduction Sintering of Ni Powder
+T. Werber1, Z. urek2, T. Wierzcho3, J. Stoch4, A. Stawiarski2, M. Homa2
+1 Technion-Israel
+
+Institute of Technology, Israel, 2 Cracow University of Technology, Chemistry Department, Cracow, Poland, 3 Warsaw University of Technology, Head of Surface Engineering Department, Warsaw, Poland, 4 Polish Academy of Sciences, Institute of Catalysis and Surface Chemistry, Cracow, Poland
+
+Abstract
+The possibility of preparing a porous nickel designed for construction of active electrodes, by the oxidation of nickel powders and their subsequent reduction was investigated. The oxidation process was carried out at 600 ­ 650 0C. Four mixtures of powders: 100% Ni, 70% Ni + 30 % NiO, 90% Ni + 10% NiO, and 90% Ni + 10% Ni2O3 were used grains of 20 - 60 µm diameters were used. Based on the mass increase it was found that a millimetre thick Ni powder layer, exposed to air for 2 hours was completely oxidised. The oxide forming on the surface of the Ni grains causes sintering of individual grains. Nickel atomic hydrogen. The porous nickel layer was then subjected to SEM (scanning electron microscopy) studies. The specific surface area of the powder was also determined. Keywords: Electrodes, nickel powders, oxidation, reduction oxide was next reduced in a plasma atmosphere, containing about 30% in the experiments. Ni grains of 100 µm diameter, and NiO and Ni2O3
+
+Introduction
+Rough nickel with a highly developed surface area is usually used in electrochemical reactions for hydrogen evolution. Such electrodes are
+
+obtained mechanically or by plasma spraying. High surface area (HSA) nickel electrodes are obtained by coating porous nickel with a thin layer of nickel powder followed by sintering. After activation the electrodes are formed. The activated coating increases the surface area during hydrogen evolution. The Raney nickel is a commonly known of the electrode and causes a significant reduction of over-voltage and frequently used catalyst in electrochemical reactions. It has a sponge-like metal structure, with pores of an average diameter of 34 Å and crystallites of 25-150 Å. The real surface area of this catalyst may attain 70 m2/g. Activation of the electrodes based on the Raney-type nickel and cobalt alloys involves the electrochemical deposition the nickel and cobalt alloy on nickel or steel gauze. The material is coated with a powdered mixture of aluminium (Al) and aluminium oxide (Al2O3), heat-treated leached in 5 mole/dm3 KOH, at 90 0C. The electrodes are stabilised by conditioning in a hydrogen atmosphere at 600 0C. Activation of cathodes is also carried out either by the deposition of nickel or cobalt alloys with molybdenum, by depositing nickel, molybdenum and tungsten alloys onto a nickel surface, or by the formation of sulphide films on nickel-cobalt, cobalt-iron or nickeliron coatings. Nickel electrodes are also activated with nickel sulphide or cobalt-nickel sulphide (NiCoS4) coatings. Nickel electrodes with a developed surface area are additionally used as anodes in the electrolysis of water. Porous nickel electrodes may also be prepared from nickel carbonyl. Porous nickel impregnated with Ni(OH)2, deposited on steel gauze, is a better catalyst than nonimpregnated nickel. The electrochemical impregnation is done mainly with KOH. The Raney nickel, used as a support for mixtures of cobalt, strontium and lanthanum oxides and is also a good catalyst for oxygen generation. The development of the surface area of nickel electrodes may be carried out by the oxidation of a nickel plate in air and the subsequent reduction of the formed NiO layer (scale). In this paper the possibility to prepare nickel electrodes by sintering the nickel powder during its oxidation and the subsequent reduction of so as to obtain the Ni/Co/Al alloy on the surface. Aluminium is
+
+2
+
+the oxidised grains to metallic nickel, using atomic hydrogen, is studied.
+
+Experiments And Results
+Mixtures of powders of different grain-sizes were prepared so as to reduce the inter-granular distances. Before oxidation the mixtures were placed on the surface of 0.5 mm
+
+nickel foil rectangles 11 x 21 mm. The foil edges were wrapped at the height of 1 mm, thus creating a form determining the 1 mm thickness of the mixtures of powders. Such prepared samples were placed in the Linberg furnace, which was heated to the desired temperature in 1.5 hours. The oxidation process lasted for 2 hours after the desired temperature had been reached. Then the furnace and the samples were cooled down to 300 0C. The samples were then removed from the furnace. Oxidation was carried out at three temperatures: 600 0C, 625 0C and 650 0C. Afterwards the oxidised samples were placed in the working chamber of equipment for low-temperature plasma-arc heat-treatment. In a dynamic vacuum of the order of 4 mbar, under a continuous flow of hydrogen through applying a voltage of 600 V between cathode (the samples) and anode (the steel wall of the chamber). Under these conditions a low temperature plasma, containing about 30% of atomic hydrogen formed. The reduction process was carried out for 2 hours. The reduced sample was then cooled in vacuum of 10 mbar in an atmosphere of molecular hydrogen. the chamber, the sample was heated to 550
+0C,
+
+simultaneously
+
+The samples obtained were studied by SEM, to determine the morphology of the surface of the samples presence of pores. The specific surface area of the samples was studied by means BET. The results are presented in Table 1.
+
+3
+
+Table 1.Specific surface of sinters
+Chemical No. Oxidation Oxidation time [h] 1 1 Mass of specimen [g] 0,2000 0,0880 Specific surface after reduced [ m2/g ] 0,56 0,48 composition temperature [%] 1. 2. 100 Ni 70 Ni + 30 NiO 30 Ni + 70 NiO 70 Ni + 30 NiO 100 Ni 70 Ni + 30 NiO 100 Ni 100 Ni 70 Ni + 30 NiO [ oC ] 600 600
+
+3.
+
+600
+
+1
+
+0,0607
+
+0,48
+
+4. 5. 6. 7. 8. 9.
+
+600 600 600 600 600 600
+
+2 2 3 3 3 3
+
+0,2000 0,2000 0,1500 0,3538 0,1810 0,0727
+
+0,52 0,49 0,20 0,21 0,23 0,19
+
+The rate of mass-increase for the sample containing: a) 100 % Ni, b) 90 % Ni + 10 % Ni2O3 is shown in Figure 1.
+
+4
+
+0.02
+
+a
+m[g]
+
+0.02 0.015 0.01 0.005 0
+
+b
+
+m[g]
+
+0.015 0.01 0.005 0 0 1 2 3 4
+
+0
+
+1
+
+2
+
+3
+
+4
+
+Oxidationtim [ h] e
+b) 90 % Ni + 10 %Ni2O3
+
+Oxidationtim [ h] e
+
+Figure 1. Rate of mass-increase for the sample containing a) 100 % Ni,
+
+The curve is parabolic, which shows that after 2 hours practically all metallic Ni has been oxidised. Figure 2 shows microphotography: a) nickel powder, b) NiO powder, c) Ni2O3 powder. Figure 3 shows microphotography nickel powder: a) after oxidation, b) after reduction. Figure 4 shown microphotography mixture of powders 90% Ni+10% NiO: a) after oxidation, b) after reduction. Subsequently Figure 5 shows microphotography mixture of powders 90% Ni+10% Ni2O3: a) after oxidation, b) after reduction.
+a b
+
+c
+
+Figure 2. Microphotography a) nickel powder, b) NiO powder, c) Ni2O3 powder
+
+5
+
+a
+
+b
+
+Figure 3. Microphotography nickel powder: a) after oxidation, b) after reduction.
+
+a
+
+b
+
+Figure 4. Microphotography mixture of powders 90% Ni+10% NiO a) after oxidation, b) after reduction
+
+a
+
+b
+
+Figure 5. Microphotography mixture of powders 90% Ni+10% Ni2O3 after oxidation,
+b) after reduction
+
+6
+
+Discussion
+
+During the oxidation of metallic Ni in air atmosphere a layer of NiO is formed on the surface. Nickel oxide (NiO) belongs to the so called "p-type" semiconductors, which means that free cationic sites, called vacancies, appear in the cationic sub-lattice. The nickel vacancies are formed according to the equation ½ O2 = OO + 2h + V"Ni where: OO, h and V"Ni represent oxygen ion, an electron hole in valence band and doubly ionised nickel vacancy, respectively. The process of growth of the oxide scale therefore proceeds by the outward diffusion of Ni ions and diffusion of vacancies, inward. As a result, the driving force for the reaction is reflected by concentration gradient of cation vacancies across the oxide. The spherical shape of the nickel grains causes the plasticity of the scale diminishes relatively quickly and the process of its plastic flow is inhibited. The process of oxidation is not stopped however, because at least in one place contact between metallic nickel and the scale is retained, because of gravitation and other factors. After a sufficiently long time the grain of nickel becomes completely oxidised and empty spaces is left inside the grain. The process of joining of individual grains proceeds not only in places where contact between the metallic grains exists. The product formed has a volume greater than the initial metallic nickel (by a factor of 1.7). Therefore the growing oxide fills the inter-granular space, increasing the contact between individual grains. However, not every contact has the character of intergranular joints. It seems that only those places may form stable joints, through which nickel ions have flowed. This process may be described in the following way: the layer of scale in contact with the nickel grain being oxidised shows a relatively high saturation with nickel ions. These ions diffuse towards the surface, where the concentration of nickel ions is the lowest. Once two grains come into contact the diffusion of nickel ion is directed towards the lowest concentration of these ions. It means that this part of the scale, which earlier has lost contact with the metallic nickel, becomes
+
+7
+
+saturated with vacancies. Therefore, at the moment of its contact with
+
+another grain, which contacts with metallic nickel and is saturated with nickel ions, the contact may form the joint, as in this instance metal ions can flow to the part of the scale where the concentration of contact of two grains this contact becomes a stable joint. Aggregation Mixing two powders differing in grain size may create a good contact between grains. Powders of the same diameter have equal areas of contact, whilst grains differing in size form a contact with a lower area, but the contact area of the smaller grain is greater than in the case of two grains of the same size. Figure 6 present the influence of the grain size on the contact area and on the ratio of the contact area to the size of the smaller grain. From this figure it results that the grains contacting with larger ones have a greater contact area than grains of the same size. Obviously it should be remembered that the contact area depends on the duration of the oxidation process. However, in completely oxidised metal the processes of equilibration of the concentration of defects in the scale, as well as the crystallisation process may lead to the stabilisation of contact by the elimination of stresses. A good contact between grains depends also on the shape of the surface. If the surface of grains is coarse, joining of grains is more difficult from the very beginning and the mechanical strength of the contact is weak. Primary roughness of scale. the surface of powders lead also to roughness of the surface of the metals ions is lower. After the diffusion of metal ions through the of grains also depends on the area of the contact between the grains.
+
+8
+
+Figure 6. The influence of the grain size on the contact area
+
+Surface roughness in the final stage of preparation of the developed surface of electrodes are highly desirable. Sintering of powder grains by oxidation causes the formation of three types of pores. The first are pores resulting from the geometry of the powders - inter-grain porosity. The second type leads to pores forming inside grains due to oxidation of metal. In the case of oxide layers with prevailing cationic transport of reagents, as occurs during the oxidation of nickel, the oxide growth take place on the external oxide surface. Simultaneously in the phases formerly occupied by the consumed metal empty spaces are created [Figure 7]. The third pore type consists of micro-pores forming within the scale. Micropores may be open, maintaining contact between the outer atmosphere and the interior of the oxidised grains. Open pores are advantageous, because they enable contact between the medium and the surface inside the grain, which in the absence of such pores becomes chemically inert.
+
+9
+
+Figure 7. Empty spaces inside the grain
+
+Conversely, closed pores develop only the outer surface of individual grains. The increase of the surface of electrodes may be gained by mixing two powders of different grain size. In this case the inter-granular space is reduced, because it is filled with smaller grains of oxide, and after reduction, metal grains. The process of oxidation has to create stable joints between the grains of the powders. The process of reduction leads to further development of surfaces. NiO density is lower than that of pure nickel. Therefore reduction causes the removal of oxygen atoms and the nickel atoms form a metallic framework in the primary volume of the NiO. During the transformation of NiO into Ni unstable oxide joints are exchanged into more stable metallic joints.
+
+Conclusions
+Based on the investigations carried out the following conclusions may be drawn: 1. As the results of the oxidation of metallic nickel powder there occurs aggregation of grains forming a porous layer. 2. Oxide junctions depend on several parameters, such as reaction time, size of oxidised grains and their shape.
+
+10
+
+3.
+
+After oxidation the sample contains three types of pores: interpores.
+
+granular, open and closed within the scale and intra-grain
+
+4.
+
+powders of different grain-size.
+
+The surfaces of the material may be increased by mixing two
+
+5.
+
+during oxidation of Ni, but during reduction of the oxide.
+
+Contact between Ni powder and NiO powder does not form
+
+6.
+
+A mixture of 90% Ni + 10% NiO forms a relatively good junction after reduction. Increasing the amount of NiO in the mixture weakens the mechanical properties of the electrodes.
+
+Acknowledgements
+The work was supported by Polish Research Committee for grant No 7 T08D 04019
+
+References
+1. M. Fedortchenko, A. P. Lyapunov and W. V. Shorochod, Powder Metall.12 (1963) 27
+
+2. K. Sloczyska and T. Werber, Arch. Hutn. 13 (1968) 323 3. A. Atkinson, Rev. Mod. Phys. 57 (1985) 437 4. T. Werber, Solid State Ionics 42 (1990) 205-211 5. Patent US 4,534,837
+6.
+
+F. Czerwiski, Rozprawy Monografie, Uczelniane Wydawnictwa NaukowoDydaktyczne, Kraków (2000)
+
+11
+

@@ -1,0 +1,303 @@
+Volume 6 Paper H050
+Steam Oxidation Resistance of Thermal Sprayed Coatings for USC boiler applications: Coating Materials Selection and Process strategy
+
+T.Sundararajan, S.Kuroda, T.Itagaki and F.Abe
+
+National Institute for Materials Science, 1-2-1 Sengen, Tsukuba, 3050047, JAPAN
+
+Abstract
+
+In our earlier studies, thermal spray of Ni-Cr and Al coatings was attempted on modified 9Cr-1Mo steel, to evaluate their steam oxidation resistance. The results showed that the HVOF coating of 50Ni-50Cr showed an excellent performance against the steam oxidation till 750oC for 1000 hours. APS coating process for Ni-Cr exhibited the porous structure, which resulted in the scale growth at the coating/substrate interface and propagates with testing
+
+temperature and duration. In the case of Al coating, though APS process could produce the dense coating, the diffusion of Al into the substrate was very fast and it resulted in the dissolution of the coating during the course of time. In the present investigation, APS coatings of 50Ni-50Cr as undercoat and Al topcoat were attempted with the aim that the pores produced by Ni-Cr can be filled with Al topcoat. For comparison purpose the thick 50Ni-50Cr coating (~450 µm) with sealant according to British standard (BS 5493) was also carried out. The results show that both the two-layer coating of Ni-Cr +Al and thick coating with sealant showed the excellent performance against the steam oxidation till 3000 hours of test. But it is interesting to note that the two layer coating showed the similar performance despite
+
+their lower coating thickness compared to thick coating. Ni and Cr diffusion occurred into the Al coating structure. Al diffusion into the Ni-Cr system appears to be slower compared to Fe-Cr system.
+
+Keywords: steam oxidation, Cr-Mo steel, Ni-Cr coating, Al coating, high velocity oxy fuel spray and atmospheric plasma spray.
+
+Introduction
+
+There is increased attention on the plant efficiency of fossil power plants to meet the stringent environmental regulations along with ensuring plant reliability, availability and maintainability without compromising the cost [#ref1], [#ref2]. Steam temperature is a key factor, which controls the plant efficiency and the emission gas. Increasing the steam operating temperature and pressure will proportionally increase the plant efficiency with reduction in the emission gas [#ref 3]. Material used in the power plant should withstand against creep and steam oxidation, while increasing the steam operating temperatures. The ultra-steel project at our institute aims to develop the material that can withstand the steam operating temperature of 650oC. The featured material should possess both creep and steam oxidation resistance along with ease of fabrication. The existing modified 9Cr-1Mo steel (ASME T91) suffers with severe oxidation and creep at this temperature [#ref4]. This necessitated the improved mechanical and oxidation properties of the material that can withstand the increased temperatures. There are several ferritic steels being developed. Many of these newly developed ferritic steels showed an improved creep properties but it has failed to exhibit sufficient steam oxidation resistance. . However, 3% Pd added CrMoWNbV steel developed at our institute showed an excellent steam oxidation resistance6). Addition of Pd promoted the Cr segregation at the surface to form Cr rich oxide at the surface. The higher Cr content present in
+
+2
+
+this scale minimize the further scale growth. However, the cost of this alloy is too high due to Pd addition. [#ref5].
+
+Thermal spray coatings can be applied to overcome the steam oxidation problem since it alters the surface without affecting the bulk spray coatings for fossil power plants to improve the oxidation material properties. A few earlier attempts were made on the thermal resistance of the material though the thermal spray process is extensively used for gas turbine applications [#ref6], [#ref7]. Thermal spray coating of FeAl, FeCrAl and NiAl powders on 9Cr-1Mo steel was attempted to improve the steam oxidation resistance for USC boiler applications [#ref8]. In that, FeCrAl and NiAl showed the promising results. Also, the thermal spray was attempted for the super heater/re-heater components where the material severely suffers on fireside corrosion. The powder used for the study is Fe-Si intermetallics with the undercoat of NiCr alloy [#ref9].
+
+In our earlier studies [#ref10-#ref14], thermal spray of Ni-Cr and Al coatings were attempted on modified 9Cr-1Mo steel. Two coating process namely high velocity oxyfuel (HVOF) spray and atmospheric
+
+plasma spray (APS) were adopted. The results showed that HVOF coating of 50Ni-50Cr showed the excellent performance against the steam oxidation till 750oC for 1000 hours [#ref10-#ref12]. APS coating process exhibited the pores in the coating structure, which resulted in the scale growth at the interface [#ref10, #ref11, #ref14]. Whereas, Al coating produced by APS process could produce a dense coating structure on the modified 9Cr-1Mo steel substrate. But the diffusion of Al into the substrate is very high during the steam oxidation process. At 1000 hours of steam oxidation test, the coating structure is totally vanished due to the diffusion of Al into the steel matrix [#ref13].
+
+3
+
+With the summary of the earlier results, the new design of coatings was attempted with the consideration that high performance coating with less sophisticated process (also economical). APS coatings of study. For comparison purpose the thick 50Ni-50Cr coating (~450 µm) with sealant according to British standard (BS 5493) was also carried out. The post steam oxidized specimens were evaluated by X-ray diffraction (XRD), backscattered electron (BSE) image and energy despersive spectroscopy (EDS) studies in comparison with their respective as-coated specimens. 50Ni-50Cr as undercoat and Al topcoat were attempted in the present
+
+Experimental
+
+The 9Cr-1Mo type ferritic steel was used as a substrate specimen with following dimensions. 20mm (length) x 10mm (width) x 4mm (thick) specimens coated with 50Ni-50Cr and Al powders. Chemical composition of the substrate and powders are represented in Table 1. Thermal spray coatings were carried out using HVOF spray and APS processes to compare the performance of these two processes. The process parameters used for both coatings are given in Table 2.
+
+Prior to the coating process, the specimens were sandblasted using alumina powder for better adhesion to the substrate. For coating A, totally fourteen passes were adopted which included two pre-heating passes, eight passes of Ni-Cr and four passes of Al. Thickness of the respectively. For coating B and C only Ni-Cr is used as the feed stock materials. The total passes given for both coatings are 40 passes including 2 pre-heating passes, which yielded the thickness of about 450 µm. After spraying the specimens B and C are applied with Metco® were cured for 4 hours at room temperature. Sample B is taken for the annealing treatment at 1050oC for 15 minutes to fill the pores of the 4 Sealant of about 40 µm on the surface of the coating. The samples coating obtained by Ni-Cr and Al are about 50 and 20 µm,
+
+Ni-Cr coatings by the sealant. The summary of the coating process for all the three coatings and their thickness are given in Table 3. The coated specimens were supplied to XRD and SEM investigations before placing them into the steam oxidation chambers. Steam oxidation tests were carried out at different temperatures viz., 600, 650, 700 and 750oC. The procedure followed for the steam oxidation process
+
+was described elsewhere [#ref10]. The sample pieces were taken out in different durations namely 1000 and 3000 hours of steam oxidation test. The surfaces of oxidized specimens were supplied to XRD to identify the new phases formed during steam oxidation in comparison with as-coated conditions. SEM/EDS studies were carried out on the cross sections to reveal their change in morphology and composition of the coating after the steam oxidation.
+
+Table 1: Chemical composition of substrate and coating powder (mass%)
+Material 9Cr-1Mo C 0.10 P 0.00 5 S 0.00 1 Si 0.2 4 Mn 0.4 4 Cr 8.7 4 Ni 0.0 4 Mo 0.9 4 Cu 0.0 1 V 0.21 Al 0.014 N 0.058 Nb 0.076 Fe bal
+
+50Ni50Cr Al
+
+0.05
+
+0.7
+
+0.2
+
+50
+
+bal
+
+-
+
+-
+
+-
+
+-
+
+2.8
+
+-
+
+-
+
+0.01
+
+-
+
+-
+
+1
+
+0.0
+
+-
+
+-
+
+-
+
+-
+
+bal
+
+-
+
+-
+
+0.09 5
+
+Table 2: Spray parameters used for APS process:
+
+Powder
+
+50Ni-50Cr Al 5
+
+Plasma gas Flow rate Arc current Arc voltage Powder size Gun speed Stand off
+
+Argon 45 l/min 700 A 30 V 20-53 µm 30 cm/s 100 mm
+
+Argon 45 l/min 700 A 30 V 32-106 µm 30 cm/s 100 mm Showa Denko
+
+Manufacturer Praxair
+
+Table 3: Summary of the coating constituents and thickness: Type A B Constituent Ni-Cr under coat + Al top coat Thickness 50+20 µm Ni-Cr coat + Metco® sealant ­ ~450 µm heat treatment -1050oC/15 min (BS 5493) C Ni-Cr coat + Metco® sealant ­ no heat treatment Results and Discussion: ~450 µm
+
+1. HVOF and APS coating of 50Ni-50Cr:
+Figure 1 shows the BSE image cross sections of 50Ni-50Cr coatings produced by HVOF and APS process. The HVOF coating showed thick The coating appears to be less porous in nature. The APS coating showed the lamellar structure with higher porosity compared to the HVOF coating. The thickness of the coating was around 40 µm. and uniform coating. The thickness of the coating was around 60 µm.
+
+6
+
+Figure 2 depicts the BSE image cross sections of the 50Ni-50Cr coated specimens steam oxidized for 1000 hours. From the HVOF coatings, the BSE images showed a compact coating layer present on the substrate with neither scales nor de-lamination. There is no sign of scale initiation at the coating/substrate interface. The black layer
+
+observed in the coating/substrate interface for 750oC steam-oxidized
+
+specimen arise from the formation of chromium carbide is discussed
+
+elsewhere [#ref11]. The APS coating oxidized at both 600 and 750°C showed the initiation of the scale at the interface. At 750°C, the scale incorporation in the coating as well as at the surface was noticed HVOF APS (indicated by arrow marks). The occurrence of scale growth at the interface for the APS coatings is attributed to the more porous coating structure than HVOF coatings. The steam can penetrate into the pores and reacted with the substrate surface resulted in the scale growth at the coating/substrate interface.
+
+HVOF
+
+600oC
+
+600oC
+
+APS
+Figure 1. BSE image cross section of as-coated 50Ni50Cr 2. APS coating of Al:
+
+750oC
+
+750oC
+
+Figure 2. BSE image cross sections of 1000 hours steam oxidized 50Ni 50Cr HVOF
+
+Figure 3 shows the BSE image for the cross section of Al coated modified 9Cr-1Mo steel specimens. The image shows that the 7
+
+thickness of the coating is around 30-40 µm. The coating appears to be dense and less porous. In Ni-Cr coating, APS process showed variation in the thickness of the coating along with high amount of pores. But in the case of Al, the coatings showed neither non-uniform coating thickness nor porous structure. This suggests that APS could be a good process to produce the dense Al coatings.
+
+Figure 4 shows the BSE image of specimens steam oxidized at different temperature at 1000 hours. At 600oC, the diffusion of Al into the steel substrate was around 10 µm. In the case of 650oC the diffusion of Al reached more than 20µm in the substrate region. Whereas, at 700 and 750oC tested specimens showed the total diffusion of the coating to the substrate. The top surface for both specimens showed the iron oxide layer along with traces of aluminium oxide revealed from the XRD studies [#ref13].
+
+600oC
+
+650oC
+
+Figure 3 BSE image cross section of as-coated Al by APS process
+
+700oC
+
+750oC
+
+Figure 4. BSE image cross sections of 1000 hour steam oxidized Al coating at different 3. As-coat Morphology: Coating A, B and C
+
+8
+
+Figure 5 shows the XRD spectra of coatings A, B and C prepared for steam oxidation test. In that, coating A is in as-sprayed condition, coating B is pretreated with the
+
+Figure 5. XRD spectra for ascoated specimens of Coating A B and C
+
+Metco sealant over the thermal sprayed coating and annealed at 1050oC for 15 minutes. The coating C did not undergo the annealing course. The XRD spectrum for coating A showed four prominent peaks in the measured 2 value of 20-800. All the four peaks observed in this region are indexed to the metallic Al. The X-ray could not penetrate undercoat the Ni-Cr since the thickness of Al top coating is around 20 µm. The coating B showed three major peaks along with several minor peaks. The spectrum showed the Cr bcc as a major peak along with Ni-Cr fcc peaks. However, in our earlier studies [#ref11], the as-coated specimens showed only Ni-Cr fcc peaks. The changes in phase as well as the appearance of several minor peaks are attributed to the annealing procedure of the coating B. The minor peaks are indexed for oxides of aluminum and chromium. The Al2O3 is originated from the sealant, which originally contains Al flakes dispersed into the organic solvents. The XRD spectrum for coating C showed all high intensity peaks, which are indexed to metallic Al and Ni-Cr fcc phase. Unlike coating B, no minor peaks were observed. Though the sealant thickness was aimed for 40 µm over the Ni-Cr APS coating, the sealant applied using wire brush, which, might have resulted in the partial coverage of the Ni-Cr coatings. The higher roughness of the Ni-Cr coating might also have limited the formation of uniform sealant layer. Hence, the appearances of Ni-Cr peaks were noticed for the XRD spectrum of coating C. In the case of coating A, the XRD spectrum showed only Al peaks despite their 20 µm thickness and could not yield the peaks for Ni-Cr undercoat indicated their uniform nature of the Al topcoat.
+
+9
+
+A
+
+B
+
+C
+
+Figure 6. BSE image cross sections for as-coated specimens of Coating A, B
+Figure 6 shows the BSE image cross sections for Coatings A, B and C before placing them into steam oxidation furnace. The coating A showed the two-layered structure contains Al topcoat and the Ni-Cr under coat. The Al topcoat appears to be dense and fully covered over the Ni-Cr undercoat. The total thickness of the coating is around 70 µm. In the case of coating B, the coating structure turned into dense structure and the sealant applied over the coating surface is almost vanished. The Al sealant might have diffused into the coating structure but the BSE image could not detect them. The concentration of diffused Al was found only in the few microns at top surface by EPMA studies. The coating C showed the lamellar structure of as-sprayed Niappears to be non-continuous in nature. Cr coating with the thickness around 450 µm. The sealant layer
+
+4. Steam Oxidation Results 4.1. Coating A
+
+Figure 7 shows the XRD spectra for coating A steam oxidized at 750oC for different durations. The XRD spectrum for 1000 hours steam
+
+Figure 7. XRD spectra of coating A steam-oxidized at 750oC for specimens showed several minor peaks d ff d
+oxidized along with the major Cr-rich Ni-Cr bcc peaks. Most of the minor peaks are responsible for Al2O3 with trace amount of Cr2O3. The as-coated 10
+
+specimen of Coating A showed only peaks responsible for Al and did not yield any peak responsible for either Ni-Cr fcc or Ni-Cr bcc. The appearance of Ni-Cr bcc peak in the 1000 hours tested condition indicated the disintegration of the Al topcoat. At 3000 hours tested duration, the spectrum showed similar trend but remains unchanged. increased for both Al and Cr oxides. The major Cr-rich bcc peak the peak intensities
+
+1
+
+2 3
+
+6
+1000 h 3000 h
+
+5
+
+4
+
+Figure 8. BSE image cross sections of coating A steam-oxidized at 750oC for different durations
+Figure 8 shows the BSE image cross sections of coating A steam oxidized at 750oC for different durations. At 1000 hours duration the Al topcoat showed the drastic change in their structure. The dense coating observed in the as-coated condition is transformed into to porous structure at the top surface along with formation of new layer with grain shaped structure at the underneath. The Ni-Cr undercoat appears to be intact. With increasing the oxidizing duration from 1000 hours to 3000 hours, the coating did not show major changes except the reduced grain type particle size with increase number of the newly formed phase at the interface of Al topcoat and the Ni-Cr undercoat. In both the cases, there was no iron oxide scale at the interface of steel substrate/coating. This infers the excellent protection of coating A against the steam oxidation resistance for modified 9Cr-1Mo steel substrate. EDS point analysis was carried out on the coating structure at five different locations. The locations analyzed are marked in Figure 8 and the results of the elemental composition are given in Table 4. From the results, the top surface of the coating contains oxides of aluminum with little amount of Ni and Cr. The beneath layer of the top 11
+
+surface contains (point 2) major amount of aluminum oxide with minimum amount of chromium oxide. The grain type phase (point 3) appeared in the steam oxidized specimens contains the elemental composition of Ni and Al in the 3:1 ratio. This may be attributed to the formation of Ni3Al intermetallics. The point 4 represents the undercoat Ni-Cr but with reduced amount of Cr. The gray color layer observed at the inner splat basically arise from the separation of Cr phase from the Ni-Cr fcc phase and in the inner splat boundaries showed the oxides of chromium (point 6). EDS point analysis could not detect any Fe in the coating structure indicates excellent protection of the coating against the steam oxidation. As a summary, the Al topcoat over the Ni-Cr oxidation by forming Al2O3 and Cr2O3 on the surface of the coatings. undercoat structure effectively withstands against steam
+
+Table 4: Elemental
+
+Location
+
+Elements O Al 55 47 27 Cr 1 13 3 40 93 58 Ni 8 1 68 51 2 10
+
+600oC 700oC
+
+750oC 650oC
+1 2 3 4 5
+
+33 38 1 25
+
+composition of Coating A
+
+6
+
+Figure 9 shows the BSE image cross sections for the coating A steam topcoat is almost converted into the intermetallic layer along porous structure (oxides)on the top most surface. The beneath Ni-Cr 12 oxidized at different temperature for 3000 hours. At 600oC, the Al
+
+E image cross sections of coating A
+
+undercoat is intact. The oxides have been found at the inner splats, which can be seen as grey layers in the Ni-Cr coating structure. The oxides are mainly consists of Cr revealed from the EDS point analysis. showed the similar performance except the reduction in the thickness of the intermetallic layer. Further increase in the temperature resulted in the increased oxide layer with reduced intermetallic layer. All the coating showed the similar performance against the steam oxidation. With increasing the temperature from 600 to 650oC, the coating
+
+4.2. Coating B and C:
+
+Figure 10 shows the XRD spectra for coating B steam oxidized at 750oC for different durations. At 1000 hours of test duration the spectrum showed the Cr bcc as the major peak along with several Al2O3 and Cr2O3 peaks. But, the peak intensities for Cr2O3 is very small compared to Al2O3 peaks. With increasing the steam oxidation test duration, the Al2O3 peaks were getting suppressed and instead of that Cr2O3 peak was gaining their intensities. This phenomenon can be explained from the oxygen partial pressure required to form their form chromium oxide is around 10-25 Pa, whereas, Al required to form its oxide is only 10-40 Pa [#ref15]. This indicated that the Cr required higher oxygen partial pressure to form its protective oxide and Al oxide could be stable at a lower partial pressure beneath the chromium oxide. Thus, Cr diffuse over the Al layer and approached the surface to form the Cr2O3. respective oxides. At 750oC, the oxygen partial pressure required to
+
+13
+
+Figure 10. XRD spectra of coating B steam-oxidized at 750oC for different durations
+
+Figure 11. XRD spectra of coating C steam-oxidized at 750oC for
+
+1000 h
+
+1000 h
+
+3000 h 3000 h
+Figure 12. BSE image cross sections of coating B steamoxidized at 750oC for different Figure 13. BSE image cross sections of coating C steam-oxidized at 750oC for different durations
+
+The XRD spectra for steam-oxidized specimens of coating C are depicted in Fig. 11. At 1000 hours tested condition, Ni-Cr fcc peak showed a major intensities along with several Al2O3 and Cr2O3 peaks. In the case of 3000 hours, the increased intensities of both oxides 14
+
+in both the cases compared to their respective Al2O3 peaks in coating B. At 3000 hours, coating B showed the suppression in the Al2O3 peaks Al2O3 peaks still dominate at the surface. This indicated the sealant applied over the Ni-Cr coating did not diffuse totally and it remains flakes) converted into Al2O3. hours durations. Both Figure 12 shows the BSE image cross condition showed the identical and increased intensities for Cr2O3 peaks. But in the coating C, the
+
+have been noticed. The peak broadening for Al2O3 peaks was noticed
+
+significantly at the surface. During steam oxidation the sealant (Al sections of coating B steam oxidized at 750oC for 1000 and 3000 tested micrographs with neither de-lamination of the coating nor the scale initiation at the interface. Similar observation was observed for the cross sections of coating C steam oxidized at 750oC for 1000 and 3000 hours durations, which is represented in Fig. 13. However, both the coatings exhibited the grey layers in the inner splat boundaries, might have arise from the oxide formation. EDS point analysis carried out on the inner splat boundaries are discussed below. Though the the surface, the layer could not be detected in the Figure 13. XRD spectrum for coating C showed the prominent amount of Al2O3 on
+
+The higher magnification BSE image cross-sections at the near surfaceon the Figure 14. EDS point analysis were and inner structure of the coating analyzed using EDS point
+
+analysis. The BSE image cross section of higher magnification coating C steam oxidized at 3000 hours are represented in Fig. 14 (a) and (b). Figure 13a reveals that the sealant applied over the Ni-Cr coating exhibit around 10-15 µm thickness. The EDS point analysis was made on 7 different points at near surface and inner coating structure. The elemental compositions observed on each point are given in Table 5. There are three points chosen in the sealant layer. At 15
+
+17 cross sections of coating C steam2 oxidized at 750oC for 3000 hours 63 4
+
+(a) (b)
+
+5
+
+the top surface of the sealant (point 1), it contains major portion of aluminum oxide with below 1 wt% of Cr, possibly chromium oxide. The white layer observed in the sealant (point 2) also exhibited the Al oxide with decrease in the Cr content from 3 wt% to 1 wt%. The since the Al2O3 is the insulating in nature. The point 3 also showed the different contrast of the layer is attributed to the charging effect layer presence of Al oxide with 5.1 wt % of Cr. It indicated that chromium started diffusing towards the top surface to form the Cr2O3. This can be confirmed even from the XRD studies of specimens steam oxidized at 1000 and 3000 hours. the 1000 hours steam oxidized specimens showed the least intensities for Cr2O3 whereas the appearance of Cr2O3 peaks was noticed in the case of 3000 hours. In the longer duration the diffusion may lead to the dominant Cr2O3 layer at the tops surface. Below the sealant layer a thin grey layer observed (point 4) corresponds to the Cr oxide with 10 wt% of Al. The points 5, 6 and 7 are chosen from the Ni-Cr coating structure depending on their change in their phase and morphology. A light gray color pools observed across the Ni-Cr coating structure (point 5) are consists of Cr with very little amount of Ni. This indicated the phase separation from Ni-Cr fcc to Cr bcc phase. XRD steam studies oxidize also revealed the
+
+appearance of Cr bcc phase in the The white layer in the inner coating structure (point 6) represents the original Ni-Cr coating amount of Cr is reduced. The point 7 is located at the black layers inner splat boundaries. EDS point analysis reveal the their elemental composition as Cr and Mn along with oxygen, which either possibly chromium arise from and segregated on the composition but 1 2 3 4 5 6 7 specimens. location O 39 47 41 33 23
+
+Table 5: Elemental composition of coating C
+Elements Al 56 50 49 10 Cr 3 1 5 52 92 36 58 Ni 1 2 57 14 Mn 3 5 1 3
+
+manganese oxides or their spinels. In our earlier studies [12,14], Mn 16
+
+showed the similar phenomenon of segregating in to the inner splat boundaries of 50Ni-50Cr HVOF coatings. From the EDS point analysis none of the points showed the presence of Fe indicated the absence of scale growth. As a summary, the thick 50Ni50Cr coating with sealant showed an excellent protection against steam oxidation till 3000 hours test duration.
+
+Conclusion
+
+Three types of coatings were produced on modified 9Cr-1Mo steel by APS process to evaluate their performance against steam oxidation. The overall performance of the coatings showed satisfactory results till the 3000 hours of tested duration. The salient features of each coating are:
+
+The two-layer coating consists of Ni-Cr undercoat and Al topcoat (Coating A) showed the excellent performance against steam oxidation by forming Al2O3 layer. The Cr is diffusing towards the outer layer to of the two coatings. form Cr2O3. The intermetallic compound Ni3Al formed at the interface
+
+The thick coating with sealant showed the formation of Al2O3 at the will control the surface protection. Both the coatings such as prior annealing treatment and without annealing treatment showed the similar performance. In the case of with out annealing treatment (coating C) the sealant layer converted into Al2O3 at the surface. surface at the initial stages of oxidation. On aging, formation of Cr2O3
+
+Acknowledgement
+
+17
+
+The authors are thankful to Mr.T.Awane for his technical help in EDS analysis and Mr.H.Haruyama for the steam oxidation test.
+
+References
+
+1. F.H.Stott, Mater. Sci and Technol., 5(1989), 734. 2. F.Fitzer, J.Schlichting: Corrosion containing chromium,
+
+aluminum and silicon for high temperature alloy, in High temperature Corrosion: R.A.Rapp (Ed.), NACE, San Diego, CA, Houston TX, March 2-6, (1981), 604-614. 3. R.Viswanathan and W.Bekker, J. Mater. Engg. Perform., 10(2001), 81. 4. E.Metcalf 1.35. 5. F.Abe, H.Okada, S.Wanikawa, M.Tabuchi, T.Itagaki, K.Kimura and K.Yamaguchi, First International Conf on Advances in Structural Steels, May 22-24, 2002, Tsukuba, Japan. 6. R.Burgel and I.Kvernes: High Temperature Alloys for Gas Turbine and Other Applications (Eds. W.Betz et al) Dordrecht, (1986), 327. 7. M.P.Taylor and H.E.Evans, Material Science Forum 369and B.Scarlin: Material for Advanced Power
+
+Engineering, Proc. of 6th liege Conf., Julich, Germany, 5(1998),
+
+372(2001), 711. 8. A.Aguero, J.Garciade Blas, R.Muelas, A.Sanchez and S.Tsipas: Material Science Forum, 369-372(2001), 939. 9. J.Porcayo-calderon, J.G.Gonzalez-Rodriguez and L.Martinez, J. Mater. Engg and Perform., 7(1998), 79. 10. T.Sundararajan, S.Kuroda, T.Itagaki and F.Abe, ISIJ Inter., 43 (2003) 95. 18
+
+11. T.Sundararajan, S.Kuroda, T.Itagaki and F.Abe, ISIJ Inter., 43 (2003) 104. 12. T.Sundararajan, S.Kuroda, T.Itagaki and F.Abe, in Thermal Spray 2003: Advancing the science & Applying the Technology, (Ed) USA. 2003, pp 495. 13. T.Sundararajan, S.Kuroda, T.Itagaki and F.Abe, in Thermal Spray 2003: Advancing the science & Applying the Technology, (Ed) USA. 2003, pp 503. 14. T.Sundararajan, S.Kuroda, T.Itagaki and F.Abe, Proc. High temp Mater. JSPS 123 Committee meeting, Vol. 43(3), 2002, p309324. 15. S.R.J.Saunders and J.R.Nicholls, Mater. Sci. Technol., 5, (1989) 780. C.Moreau and B.Marple, ASM International, Materials Park, Ohio, C.Moreau and B.Marple, ASM International, Materials Park, Ohio,
+
+19
+

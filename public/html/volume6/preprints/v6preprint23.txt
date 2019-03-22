@@ -1,0 +1,324 @@
+Volume 6 Paper C047
+
+Acid Resistance of HastelloyC Coatings Formed by Modified HVOF Spraying with A Gas Shroud
+Jin Kawakita, Seiji Kuroda, and Takeshi Fukushima
+
+Thermal Spray Group, National Institute for Materials Science, 1-2-1, Sengen, Tsukuba 305-0047, JP, KAWAKITA.Jin@nims.go.jp
+
+Abstract
+We developed impermeable anticorrosion coatings of a nickel base alloy, HastelloyC, formed by modified HVOF spraying with a shroud mechanism by inert gas. Carbon steels covered with these coatings indicated no corrosion sign over 10 months in the actual marine exposure. In order to demonstrate durability of these coatings under severer environments, their acid resistance was evaluated in H2SO4 and HCl solutions with the concentration of 0.05 to 5 moldm-3. Substances dissolved from the coating and/or the substrate were determined by the chemical analysis using ICP spectroscopy. In addition, corrosion potential and polarization resistance of the coatings were measured. From the experimental results, it was inferred that penetrating pores were formed through the coatings during immersion for 3 days in 5 moldm-3 of H2SO4 and HCl. The corrosion rate of the coatings was below 10-8 moldm-3h-1 (= 10 HCl. The coating dissolution in 5 moldm-3 of HCl was ten times higher than the value cited above. The rapid increase may be due to the change of corrosion mechanism. Keywords: Thermal spray, HVOF, Coating, HastelloyC, Gas shroud, Corrosion resistance, H2SO4, HCl. µmyear-1) in H2SO4 up to 5 moldm-3 of H2SO4 and 0.5 moldm-3 of
+
+Introduction
+
+Nowadays in Japan, long service life over 100 years is often required of infrastructures because environmental regulations and labour costs on repairing are expected to become increasingly severe and high hereafter. In the marine environment, structural steels are subject to severe corrosion damage. Especially in the splash and tidal zones, cathodic protection is not applicable because of occasional absence of the conductive media, i.e. seawater. Covering of the structural steels with anticorrosion metals and alloys is alternative to conventional thick anticorrosion painting with respect to the mechanical strength as well as the corrosion resistance. Taking into account complex shapes of actual structures and their maintenance problems including on-site repair, thermal spraying is a promising method in comparison with cladding. Since 1995 we have researched and developed coatings of
+
+anticorrosion alloys used in the marine environment with the High Velocity Oxy-Fuel (HVOF) thermal spraying technique in a Japan's national research project for structural steels in the 21st century, named as STX-21. It is known that this technique can make a dense metal coating with comparatively little change in the composition of sprayed materials during spraying. This high performance is caused by have a supersonic speed over 500 ms-1 and to have a lower such as plasma spraying. The anticorrosion coatings demand characteristics of the HVOF spraying that enable sprayed particles to temperature up to 2000°C, compared to other conventional methods impermeable nature above all. This is because if a sprayed coating has a penetrable path to the substrate, the corrosive media such as seawater can permeate the coating beneath the splash zone of a marine structure and reach the interface between the coating and the substrate. At the interface, the electrochemically less noble steel substrate is expected to have severe corrosion damage because of the galvanic effect. Secondarily, the corrosion resistance of the coatings themselves, in other words, their intrinsic corrosion resistance is also important. This is because it determines the service life of coated steels if the coatings have no penetrating path. In fact, the intrinsic corrosion resistance of the HVOF sprayed coatings is different from that of the same type of bulk plates as the coatings, and is mainly dependent on the oxidation level of the coatings [1,2,3]. 2
+
+When the porosity is plotted against the oxygen content for a number of coatings prepared under various HVOF spray conditions, these two parameters show somewhat inversely proportional relationship [#ref3], which indicates that it is impossible to minimize porosity and oxidation simultaneously. Therefore, we developed a mechanism for surrounding in-flight sprayed particles by an inert gas [ 4 , 5 ]. This mechanism was called as a gas shroud, and some types of gas shrouding techniques have been reported so far [6-8]. Their aim was mainly control of oxidation of flying particles during thermal spraying, leading to improvement of the coating performance such as service life in corrosive environments, caused by the decrease in oxidation level of the resulting coatings. Our gas shroud mechanism, however, has a unique feature of flowing high rate of nitrogen (N2) gas in the long distance within the shroud. This mechanism can accelerate the inflight particles, cool them, as well as prevent them from encountering oxygen in the ambient air. When AISI 316L stainless steel (SUS316L) was used as the feed stock powder, the average flight velocity of sprayed particles was over 750 ms-1 at the substrate position and Impingement to the target with such a high speed enables the particles to be highly deformed, leading to make a dense coating with closely packed structure. The coating formed with the gas shroud had significantly low open porosity under the detection limit of mercury intrusion porosimetry [#ref5]. In addition, low molten fraction of the resulting coating down to 0.2 mass% in oxygen content. Nickel base alloy, HastelloyC (HstC) is one of the suitable spray materials. It has significantly high resistance against crevice corrosion in the presence of chloride although the sprayed deposits essentially have pores and voids, which may become a starting point of the corrosion [#ref2]. Coatings of HastelloyC by HVOF spraying with the gas shroud, when formed on steel substrates, had zero through-porosity, resulted in no sign of substrate corrosion in artificial seawater for 3 months [9]. In addition, their intrinsic corrosion resistance in artificial seawater was 3 in-flight particles contributes to decrease the oxidation level of the their molten fraction was approximately 40 mass% at most [#ref6].
+
+comparable to that of a bulk plate of HastelloyC276. These coatings exerted an excellent protective performance on low carbon steel substrates, indicating no corrosion damage over 10 months in the actual marine exposure [#ref3]. In this paper, acid resistance of the HastelloyC coatings by on-shroud HVOF spraying was evaluated in sulfuric (H2SO4) and hydrochloric (HCl) acid solutions in order to reveal their durability in the acids, which impose severer environments than seawater. Corrosion resistance of the coatings was examined with the chemical analysis of dissolved species from coated specimens and with the electrochemical techniques.
+
+Experimental
+Coating was carried out by HVOF spraying (TAFA JP-5000) with kerosene as the fuel. The primary spray condition is listed in Table 1.
+
+Table 1 Spray conditions. Parameter Unit Value 3 ­1 Fuel flow rate dm min 0.49 Oxygen flow rate dm3min­1 760 Combustion pressure MPa 0.69 1.3 -- Fuel/oxygen ratio*1 Barrel length mm 204 Powder feed rate gmin­1 60 Torch velocity mms­1 700 482 mm Spray distance*2 Powder feed gas -- Nitrogen (N2) µm Coating thickness 400 *1 1.0 corresponds to stoichiometric mixture ratio. *2 From exit of combustion chamber. The feedstock was the powder of HastelloyC (TAFA 1268F) and its
+
+chemical composition is as follows: Mo 16.95, Cr 16.57, Fe 6.21, W
+
+4.52, Mn 0.72, Co 0.31, Si 0.73, and Ni balance. Substrate materials were low carbon steel JIS SS400 and nickel base alloy HastelloyC276. degreased ultrasonically in acetone before spraying. In a gas shroud The substrate of 5t×50×100 mm was blasted using alumina grits and system, a pipe was attached to one end of the barrel of the HVOF gun.
+4
+
+A nitrogen gas was injected from both the ends of this pipe at the flow
+
+rates of 2.5 m3min-1 from upstream and at 0.45 m3min-1 from downstream. The open porosity of the coatings was measured by mercury intrusion porosimetry and their oxygen content was determined using the inert-gas fusion method. Coated plates were cut into 2.5 cm square sections and were ultrasonically cleaned in acetone and ion-exchanged water repeatedly.
+
+In order to examine durability of the coatings in the acids, their acid resistance was evaluated by chemical analysis and electrochemical methods as follows: A coated specimen was connected with a stainless rod and used as the electrode whose surface, except for 2 cm2 of the sprayed surface, was covered with silicone resin. For comparison, a by #180 paper in order to increase the actual surface area to a
+
+HastelloyC276 bulk plate was prepared the same way. It was abbraded comparqble level with the sprayed coating. The electrode was immersed in sulfuric (H2SO4) and hydrochloric (HCl) aqueous solutions at 300 K with the concentration of 0.05, 0.5 and 5 moldm-3. At every predetermined time, 5 ml of test solution was sampled, and iron (Fe) and nickel (Ni) elements dissolved in the sampled solutions were determined by ICP atomic emission spectrometry using an analyser
+
+(Seiko Instruments Inc., SPS 3000). Fe and Ni are the major elements of the substrate and the coating, respectively. Corrosion potential of the of Ag/AgCl electrode in the saturated KCl solution. Polarization sample electrode was measured in reference to the standard potential resistance of the sample was obtained by alternating current (a.c.) alternating voltage was applied to the sample electrode at the
+
+impedance using a corrosion monitor (Riken Denshi, Model CT-5). The corrosion potential with amplitude of ±10 mV. The polarization
+
+resistance was estimated by subtracting one impedance value at the frequency of 10 kHz from the other at 100 mHz. In this measurement, the same type of sample electrodes were used for both the working and the counter electrodes. Both the corrosion potential and the
+
+polarization resistance were monitored every 10 minutes for 3 days.
+
+Results and discussion
+
+5
+
+Durability of coatings in sulfuric acid HastelloyC coatings by HVOF spraying with a gas shroud had 0.2 mass% of oxygen content and less than 0.1 vol% of open porosity, as mentioned above.
+
+Figure 1 shows dependence of the dissolution rate of Fe ion from steel substrate through the HastelloyC coating by HVOF spraying with the gas shroud on the concentration of H2SO4 solution. As reported before [10], Fe dissolution from the substrate was estimated according to the following equation because HastelloyC contained an Fe element: Fe(S) = Fe(T) ­ Fe(C) = Fe(T) ­ Ni(C) × Dissolution ratio (= Fe / Ni) (1)
+
+In this equation, uppercase S, T, and C in brackets indicate the dissolution rate of Fe and Ni from each coating formed on
+
+substrate, coating, and total. Dissolution ratio was calculated from the HastelloyC276 plate under the same spray condition as on SS400 plate, as listed in the previous paper [#ref10]. We define the dissolution rate by calculating average dissolution amount by dividing the difference between maximum and minimum dissolution amounts during
+
+Dissolution rate (Fe) / mol·cm ·h
+
+-1
+
+10-7
+
+-2
+
+10-8
+
+10-9
+
+Reliability limit 10-10 -2 10 10-1 100 Conc. (H 2 SO4) / mol·dm -3
+
+101
+
+Fig. 1 Relation between dissolution rate of Fe ion from SS400 steel substrate through HastelloyC coating by HVOF spraying with a gas shroud and concentration of H2SO4 solution. 6
+
+immersion by the immersion time of 72 hr. As seen in Fig. 1, the
+
+dissolution rate of the steel substrate in the concentration up to 0.5 moldm-3 is less than or equal to the reliability limit by this analytical technique. In this paper, the reliability limit is defined as the dissolution rate calculated from the measured value ten times higher
+
+than the detection limit of the analytical instrument. Accordingly, the
+
+coatings have no or slight amount of through pores during immersion
+
+for 3 days in the concentration up to 0.5 moldm-3 of H2SO4. However, the substrate dissolution increases at 5 moldm-3, implying formation of through pores in the coatings. Cross-sectional views of the immersed specimens by optical microscopy, however, showed neither any sign of substrate corrosion nor obvious connecting paths by a rapid increase of the total dissolution rate of Fe, caused by the penetration of the corrosive media through the coatings. Furthermore, formation of through-pores, was not observed for the specimens
+
+during immersion in 5 moldm-3 of H2SO4 for 3 days. Accordingly, the substrate dissolution through the coatings was comparatively small. Figure 2 shows dependence of the dissolution rate of Ni ion from specimens on the concentration of H2SO4 solution. The specimens are HastelloyC coatings on SS400 and HastelloyC276 substrates by HVOF spraying with the gas shroud and concentration of H2SO4 solution, and the result of a bulk plate of HastelloyC276 plate is shown for comparison. Ni dissolution of the coatings increases slightly with the has almost constant value in the concentration over 0.5 moldm-3. Assuming that the coating is consumed by uniform loss, 10-8 moldm-3h-1 of dissolution rate corresponds to loss in coating thickness of 10 µm per year. These result shows that the HastelloyC concentration up to 0.5 moldm-3 during immersion for 3 days and
+
+high corrosion resistance in the H2SO4 solution up to 5 moldm-3. However, the dissolution of the coating is approximately 10 times larger than that of the HastelloyC276 bulk plate. The higher
+
+coatings by HVOF spraying with the gas shroud have a comparatively
+
+dissolution of the coatings is due to deterioration of sprayed particles by oxidation during the spray process as well as difference in actual surface area and dissolution of oxides on the coating surface. 7
+
+Dissolution rate (Ni) / mol·cm ·h
+
+-1
+
+10-7
+
+-2
+
+10-8
+
+10-9
+
+Reliability limit 10-10 -2 10 10-1 100 Conc. (H 2SO4 ) / mol·dm -3
+
+101
+
+Fig. 2 Relation between dissolution rate of Ni ion from HastelloyC
+
+coatings by HVOF spraying with a gas shroud and concentration of H2SO4 solution, : on SS400 substrate, : on HastelloyC276 substrate, and ×: HastelloyC276 plate for comparison. In this paper electrochemical values, i.e. corrosion potential and
+
+polarization resistance, represent the average measured from 24 to 72 hours. The corrosion potential and the polarization resistance show the total protective performance of coatings depending on combination of through porosity and intrinsic corrosion resistance [#ref10]. Figure 3 shows dependence of the corrosion potential of specimens on the concentration of H2SO4 solution. The corrosion potential of both the HastelloyC276 bulk plate and the HastelloyC
+
+coating on the HastelloyC276 substrate by HVOF spraying with the gas shroud shows rising tendencies with the concentration of H2SO4 solution. On the other hand, the corrosion potential of the HastelloyC coating on the SS400 substrate falls at 5 moldm-3. This result suggests that through-pores may be formed in the HastelloyC coatings during immersion for 3 days at 5 moldm-3 and that corrosion took place on the steel substrate. In fact, the corrosion
+
+potential of the on-shroud coating on the SS400 substrate fluctuated continuously during immersion for 3 days in5 moldm-3 of H2SO4 although that on the HastelloyC276 substrate kept almost constant.
+
+8
+
+200 Potential, Ec / mV vs. Ag/AgCl
+
+100
+
+0
+
+-100
+
+-200
+
+10-2
+
+10-1 100 Conc. (H 2SO4 ) / mol·dm -3
+
+101
+
+Fig. 3 Relation between corrosion potential of HastelloyC coatings by HVOF spraying with a gas shroud and concentration of H2SO4 solution, : on SS400 substrate, : on HastelloyC276 substrate, and ×: HastelloyC276 plate for comparison. Figure 4 shows dependence of Rp­1 of specimens on the concentration Corrosion rate, Rc is proportional to Rp­1 only if the polarization
+
+of H2SO4 solution. Note that Rp­1 represents polarization resistance. resistance constants for anodic and cathodic reactions, ba and bc
+
+respectively, are constant. That is not the case for our specimens and
+
+it remains difficult to calculate the dissolution rate from Rp­1. As seen in Fig. 4, the curve of the HastelloyC coating on the SS400 substrate coincides with that on the HastelloyC276 substrate. In addition, Rp­1
+
+test solutions. As reported before [#ref10], however, Rp­1 may be used to relatively compare the barrier capability of HVOF coatings although
+
+of all the coated specimens kept almost constant during immersion for substrate dissolution and the corrosion potential during immersion at Accordingly, Rp­1 does not evaluate contribution of the substrate 72 hours especially even at 5 moldm-3. As cited above, however, the
+
+5 moldm-3 suggested the formation of through-pores in the coatings. corrosion, indicating that through-pores in the HastelloyC coatings by
+
+HVOF spraying with the gas shroud are too small to be detected by our 9
+
+10-3
+-2 -1 -1
+
+R p /  ·cm
+
+10-4
+
+10-5
+
+10-1 100 Conc. (H 2 SO4) / mol·dm -3
+
+101
+
+Fig. 4 Relation between Rp-1 of HastelloyC coatings by HVOF spraying with a gas shroud and concentration of H2SO4 solution, : on SS400 for comparison. Rp represents polarization resistance. substrate, : on HastelloyC276 substrate, and ×: HastelloyC276 plate
+
+impedance method. As for all the specimens, however, increasing corrosion resistance of the sprayed particles in the coating. Durability of coatings in hydrochloric acid
+
+tendencies of Rp­1 with the H2SO4 concentration imply degradation of
+
+Figure 5 shows dependence of the dissolution rate of Fe ion from the steel substrate through the HastelloyC coating by HVOF spraying on the coatings prepared with a gas shroud, named as the on-shroud below, is equal or close to the reliability limit by this analytical coating at 0.5 moldm-3 has approximately 1/50 of smaller the concentration of HCl solution. The substrate dissolution through
+
+technique in the concentration up to 0.5 moldm-3. The on-shroud
+
+dissolution rate than the coating prepared without a gas shroud under the standard spray condition recommended by the instrument manufacturer, named as the off-shroud below. In fact, substrate
+
+corrosion was observed from the cross sectional view of the offshroud coating after immersion [#ref10] although the on-shroud coatings seemed to keep intact interface. Accordingly, the on-shroud coatings have no or slight amount of through pore during immersion 10
+
+Dissolution rate (Fe) / mol·cm -2·h-1
+
+10-7
+
+10-8
+
+10-9
+
+Reliability limit 10-10 -2 10 10-1 100 -3 Conc. (HCl) / mol·dm
+
+101
+
+Fig. 5 Relation between dissolution rate of Fe ion from SS400 steel concentration of HCl solution, : with a gas shroud and : without a gas shroud. for 3 days in the concentration up to 0.5 moldm-3 of HCl. However, of through pores in the coating. Cross-sectional views of the immersed specimens by optical microscopy, however, showed neither any sign of substrate corrosion nor obvious connecting paths by penetration of the corrosive media through the coating. Similarly to the case of H2SO4, a rapid increase of the total dissolution rate of Fe, caused by the formation of through-pores, was not observed for the specimens during immersion in 5 moldm-3 of HCl for 3 days. As for the substrate dissolution, the curve at 5 moldm-3 of HCl is almost in agreement with that at 5 moldm-3 of H2SO4. This result indicates concentration regardless of the types of anion species. Figure 6 shows dependence of the dissolution rate of Ni ion from specimens on the concentration of HCl solution. Although the Ni dissolution rate of the on-shroud coatings increases gradually with the HCl concentration up to 0.5 moldm-3, the dissolution level is comparable to that in the same concentration of H2SO4. In comparison 11 that formation of the through-pores depends on the proton (H+) substrate through HastelloyC coating by HVOF spraying and
+
+the substrate dissolution increases at 5 moldm-3, implying formation
+
+Dissolution rate (Ni) / mol·cm-2·h -1
+
+10-7
+
+10-8
+
+10-9
+
+10-10 -2 10
+
+Reliability limit 10-1 100 Conc. (HCl) / mol·dm
+-3
+
+101
+
+Fig. 6 Relation between dissolution rate of Ni ion from HastelloyC
+
+coatings by HVOF spraying with a gas shroud and concentration of HCl solution,  : with a gas shroud and  : without a gas shroud.  : on SS400 substrate,  : on HastelloyC276 substrate, and ×: HastelloyC276 plate for comparison.
+
+with the off-shroud coatings, the on-shroud coatings have
+
+approximately 1/10 of smaller Ni dissolution at 0.5 moldm-3 and have no gap in dissolution rate between the steel and HastelloyC276 substrates. These results indicate that our gas shroud attachment was able to improve both corrosion resistance and impermeablility of HVOF sprayed coatings. The improvement of coating corrosion resistance is due to suppression of oxidation level, as cited in the Introduction section. Over 0.5 moldm-3, however, Ni dissolution increases significantly, indicating that the HastelloyC coatings became less corrosion resistant in the presence of a large amount of chloride ion. In addition, the Ni dissolution rate of HastelloyC276 bulk plate is considerably higher at 5 moldm-3 of HCl, compared to that at the same concentration of H2SO4 (see Fig. 2). It was reported that a bulk material of HastelloyC276 showed the active behaviour in 3 moldm-3 of HCl while the passive behaviour was observed around its corrosion potential below 2 moldm-3 [11]. Accordingly, the rapid increase of Ni dissolution of HastelloyC coatings in 5 moldm-3 of HCl may be due to changing from the passive state to the active one, i.e. occurrence of 12
+
+200 Potential, Ec / mV vs. Ag/AgCl 100 0 -100 -200 -300
+
+10-2
+
+10-1 100 -3 Conc. (HCl) / mol·dm
+
+101
+
+Fig. 7 Relation between corrosion potential of HastelloyC coatings by HVOF spraying with a gas shroud and concentration of HCl solution, SS400 substrate,  : on HastelloyC276 substrate, and ×: HastelloyC276 plate for comparison.  : with a gas shroud and  : without a gas shroud.  : on
+
+general corrosion. However, no obvious signs of such corrosion could be found on the surface of both the HastelloyC coatings and HastelloyC276 bulk plate after immersion for 3days. At 5 moldm-3, the HastelloyC coating on the SS400 steel substrate has the small Ni dissolution rate than that on the HastelloyC276, corresponding to decrease of the coating corrosion by increase of the steel substrate
+
+corrosion after formation of the through-pores, as mentioned above. Figure 7 shows dependence of the corrosion potential of specimens on the concentration of HCl solution. Parabolic curves can be seen as for changes with the HCl concentration in corrosion potential of all the specimens except the off-shroud coatings. In addition, the corrosion considerable deterioration of the HastelloyC276 bulk plate as well as the HastelloyC coatings. The reason for these behaviours could be explained by increasing of the passive current with the HCl
+
+potential of each specimen drops rapidly at 5 moldm-3, indicating the
+
+concentration up to 0.5 moldm-3 and by shifting to the active state, i.e. general corrosion over 0.5 moldm-3, as mentioned above. As for 13
+
+both the on-shroud coatings at 5 moldm-3 and the off-shroud coatings at 0.5 moldm-3, the SS400 substrate specimens have less noble potential than the HstelloyC276 substrate specimens. This result shows that the through-pores may be formed in these coatings during immersion in HCl and that corrosion took place on the steel substrate. In fact, the corrosion potential of the on-shroud coating on the SS400 HCl although that on the HastelloyC276 substrate kept almost the HastelloyC276 substrate was considered to depend on the corrosion rate of the substrate (see Fig. 5). Figure 8 shows dependence of Rp­1 of specimens on the concentration of HCl solution. Similarly to the case in the H2SO4 solution, the onshroud HastelloyC coating on the SS400 steel substrate in the HCl solution has the same Rp­1 value as that on the HastelloyC276 substrate, especially even at 5 moldm-3. During immersion for 3days
+
+substrate decreased gradually with the immersion time 5 moldm-3 of constant. The potential gap of the specimens between the steel and
+
+10-3 Rp-1 /  -1·cm-2
+
+10-4
+
+10-5
+
+10-1 100 Conc. (HCl) / mol·dm -3
+
+101
+
+Fig. 8 Relation between Rp-1 of HastelloyC coatings by HVOF spraying with a gas shroud and concentration of HCl solution,  : with a gas on HastelloyC276 substrate, and ×: HastelloyC276 plate for comparison. Rp represents polarization resistance. 14 shroud and  : without a gas shroud.  : on SS400 substrate,  :
+
+substrate corrosion, although Rp­1 of all the on-shroud coatings kept almost constant during immersion for 72 hours especially even at 5 moldm-3. As cited above, however, the substrate dissolution and the corrosion potential during immersion at 5 moldm-3 of HCl suggested the formation of the through-pores in the on-shroud coatings, followed by corrosion of the steel substrate. Accordingly, also in the covered with the HastelloyC coating by HVOF spraying with the gas Rp­1 with the HCl concentration imply degradation of corrosion
+
+substrate indicated gradual increase in Rp­1 corresponding to the
+
+in 0.5 moldm-3 of HCl the off-shroud coating on the SS400 steel
+
+H2SO4 solution, Rp­1 does not evaluate corrosion of the steel substrate shroud. As for all the specimens, however, increasing tendencies of resistance of the sprayed particles of the coatings. The remarkable
+
+increase of Rp­1 at 5 moldm-3 is in accordance with the result of the coating dissolution (see Fig. 6).
+
+Conclusions
+Nickel base alloy HastelloyC coatings fabricated by HVOF spraying with a gas shroud kept zero through-porosity during immersion for 3days
+3 of H SO and HCl, through-pores were suggested to form in the 2 4
+
+in the H2SO4 and HCl solution up to 0.5 moldm-3. In both 5 moldmcoatings during immersion, leading to corrosion of the steel substrate. Although the corrosion potential indicated occurrence of the substrate the contribution of the substrate corrosion. corrosion in such a case, the polarization resistance could not estimate
+
+The coatings have corrosion resistance with the corrosion rate below
+
+10-8 moldm-3h-1 (= 10 µmyear-1) in H2SO4 with the concentration up to 5 moldm-3and in HCl up to 0.5 moldm-3 while the corrosion rate of the coatings was ten times higher than that of a bulk plate of HastelloyC276. In HCl with 5 moldm-3, the corrosion rate of the coating became ten times higher than that in HCl up to 0.5 moldm-3 and comparable to that of the bulk plate of HastelloyC276. The rapid increase of corrosion rate in 5 moldm-3 of HCl is due to the change of corrosion mechanism. 15
+
+Acknowledgements
+This research has been funded by the Ultra Steel Research Project (STX-21) in National Institute for Materials Science.
+
+We are very grateful to Dr. Y. Kobayashi for generously allowing us to use the ICP spectrometry.
+
+We greatly appreciate the experimental assistance of Mr. M. Komatsu.
+
+References
+1 `Corrosion behaviour of HVOF sprayed SUS316L stainless steel in seawater', J. Kawakita, T. Fukushima, S. Kuroda, T. Kodama, Corrosion
+
+Science, 44, 11, pp2561-2581, 2002.
+
+2 `Corrosion resistance of HVOF sprayed HastelloyC nickel base alloy
+
+Corrosion Science, in press.
+
+in seawater', J. Kawakita, S. Kuroda, T. Fukushima, T. Kodama,
+
+3 `Development of dense corrosion resistant coatings by an improved HVOF spraying process,' J. Kawakita, S. Kuroda, T. Fukishima, T. publication. Kodama, Science and Technology of Advanced Materials, submitted for
+
+4 `Oxidation of HVOF sprayed alloy coatings and its control by a gas shroud' T. Fukushima, S. Kuroda in: C.C. Berndt (Ed.), International Thermal Spray Conference 2001, Singapore, pp527-532, 2001.
+
+5 `Correlation between the in-flight conditions of HVOF sprayed alloy particles and the coating structure', T. Fukushima, H. Yamada, J. Spray Conference 2002, Germany, pp912-917, 2002. 6 `Application of HVOF spraying to solve corrosion problems in the Thermal Spray Conference, USA, pp611-618, 1992. Kawakita, S. Kuroda in: E. Lugscheider (Ed.), International Thermal
+
+petroleum industry', L.N. Moskowitz in: C.C. Berndt (Ed.), International
+
+16
+
+7 `A gas shroud nozzle for HVOF spray deposition' V. Pershin, J. Mostaghimi, S. Chandra, T. Coyle, in: C. Coddet (Ed.), 15th 1305-1308, 1998. International Thermal Spray Conference, ASM International, France, pp.
+
+8 `Research on HVOF gas shrouding for coating oxidation control', C.M. Hacket, G.S. Settles, in: C.C. Berndt, S. Sampath (Eds.), 8th National Thermal Spray Conference, USA, pp21-29, 1995.
+
+9 `Corrosion resistance of HastelloyC coatings formed by an improved T. Kodama, Materials Transactions, 44, 2, pp253-258, 2003.
+
+HVOF thermal spraying process', J. Kawakita, S. Kuroda, T. Fukushima,
+
+10 `Evaluation of Through-porosity of HVOF sprayed coatings', J. 1, pp17-23, 2003.
+
+Kawakita, S. Kuroda, T. Kodama, Surface & Coatings Technology, 166,
+
+11 `Electrochemical behaviour of 254SMO stainless steel in
+
+comparison with 316L stainless steel and HastelloyC276 in HCl media',
+
+Corrosion Journal, 35 4, pp297-300, 2000.
+
+L. De Micheli, C.A. Barbosa, A.H.P. Andrade, S.M. Agostinho, British
+
+17
+

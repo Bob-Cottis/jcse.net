@@ -1,0 +1,309 @@
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+`Low Signature Impressed Current Cathodic Protection -New Developments - Future Concepts'
+Barry Torrance, Product Manager, Low Signature Cathodic Protection, Aish Technologies Limited, Poole UK (This paper was first presented at Underwater Defence Technology Europe, Amsterdam, June 2005)
+
+ABSTRACT After a brief introduction to present Impressed Current Cathodic Protection (ICCP) technology and its purpose in minimising corrosion, this paper will look at recent developments in ICCP equipment and its contribution to (a) hull condition management, and (b) corrosion-related signature management, and look forward to some future concepts. Topics covered: Solutions for Hull Condition Management Equipment Overview Active bonding of moving parts Condition Based Maintenance Fine-Grain ICCP High-Immunity Reference Electrodes Diver-Safe ICCP Solutions for Corrosion-Related Signature Management Computer Controlled Multi-Zone systems System Modelling Accuracy and Reliability of ICCP information Damage location Own-Ship Signature Display
+
+The topics are grouped broadly into `corrosion reduction' and `signature reduction' areas, but there is much interaction between the two. This interaction can be managed with computer control. The paper will emphasise the need for corrosion and signature management to be built into the design of a vessel right from the start, rather than being almost an afterthought.
+
+KEYWORDS hull condition, corrosion-related signatures, impressed current cathodic protection, multizone, active shaft grounding, damage location, corrosion location, physical scale modelling, own-ship signature, condition based maintenance, cbm, asg, iccp, reference electrode, anode, diver-safe
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+GENERAL ICCP SOLUTIONS for HULL CONDITION MANAGEMENT Solution(s) Cathodic Protection MUST ... .... move the structure's potential sufficiently .... be cost effective over the lifetime of the structure being protected Maintain the structure's potential at  150-200mV more negative than its freely corroding potential Huge savings on structure maintenance and consequential losses will normally result from installing ICCP, and will almost always dwarf the expenditure on initial supply, installation & maintenance the ICCP system
+
+Cathodic Protection MUST NOT... .... degrade the metal it is protecting, or its protective coating Over-protection (>300mV more negative than freely corroding potential) can cause hydrogen embrittlement and coating disbondment. Ensure appropriate over-protection safeguards (eg limits & trips) are incorporated. Flush-mount anodes & reference electrodes to minimise drag Ensure that any noise/ripple on the protection currents does not interfere with the structure's external instrumentation, or (on military vessels) produce a detectable alternating signature Ensure that the protection currents (on military vessels) do not give rise to a detectable static signature
+
+.... degrade the performance or availability of the structure
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+GENERAL ICCP SOLUTIONS for CORROSION-RELATED SIGNATURE MANAGEMENT Signatures associated with electrical currents flowing in seawater as a result of free corrosion or from Cathodic Protection, and methods of mitigating them, are well documented. 1,2 They can be summarised as follows: Alternating Signatures Power Supply Ripple due to harmonics of the ship's power supply appearing at the impressed current anodes. In some circles this has become known as Power Frequency ELFE. Solution(s) Specify very low ripple anode power supplies.
+
+Shaft-related ELFE (Extra Low Frequency Specify Active Shaft Grounding Electrical), due to changing resistance between shaft and hull as the propeller or propulsor rotates, causing modulation of current flowing into the shaft. Static Signatures Underwater Electric Potential (UEP) due to the presence of corrosion currents flowing around the hull (eg current flowing between dissimilar metals), and from ICCP anodes into the hull. This signature is also known as the Static Electric (SE) signature, and it is detectable in the water close to a vessel. Corrosion-Related Magnetic (CRM), a complex field caused by the same currents as the UEP signature, but detectable from the air as well as in the water, and at much greater distances than the UEP3. Indeed, at certain distances, a vessel's CRM signature can become more significant than its Ferromagnetic signature, particularly if the latter has been reduced by degaussing. Solution(s) Distribute cathodic protection by specifying as many anodes as possible. Specify computer modelling and/or physical scale modelling of the anode and reference electrode layout in order to minimise the signature by design.
+
+As for UEP, plus: As far as is possible, arrange anodes for cancellation of anticipated magnetic dipoles. Provide an interface to the ship's degaussing system for calibration of ICCP contribution to the magnetic field.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+ICCP EQUIPMENT OVERVIEW
+Figure 1 illustrates the main components of an ICCP system on a ship. REFERENCE ELECTRODES
+
+MOVING PART BONDING
+
+CONTROL SYSTEM Figure 1 ­ ICCP Components
+
+ANODES
+
+The ANODES apply the protective potential to the hull by passing a current from the CONTROL SYSTEM into the seawater. The REFERENCE ELECTRODES monitor the hull's potential at strategic points, and provide closed loop feedback signals to the CONTROL SYSTEM. The CONTROL SYSTEM comprises one or more Anode Power Supplies and one or more Controller. MOVING PART BONDING ensures that moving components are electrically bonded to the hull, so that corrosion protection is provided to the moving parts, and so that damage is not done to bearings, etc., by the protection currents passing through them. ANODES AND REFERENCE ELECTRODES Anodes and Reference Electrode design is well established, and data is available from many manufacturers. New developments are proposed later in this paper. Some common forms are illustrated below.
+
+(B) (A)
+
+(C)
+
+Figure 2 ­ Some Electrode Configurations (A) and (B) are plate anodes for use on external surfaces, and can either be surface mounted, or flush mounted to reduce drag and turbulence. (C) is a Reference Electrode, which can be similarly mounted.
+
+CONTROL SYSTEMS Today the trend is towards computer-control for ICCP Systems. This may initially be considered an unnecessary expense. If, though, one considers the through life maintenance and manpower cost savings possible using unmanned data logging and analysis, the initial outlay is put in perspective. Computer control is essential, morever, where the vessel must have a low static (DC) electromagnetic signature. For such vessels computer control is used to intelligently control ICCP currents in order to minimise the electric fields around the vessel. This is known as `deamping', a methodology that is already in use on some submarines and surface vessels. It is also being considered for a number of future platforms, and for retrofit.4
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+Some structures and vessels will require many control zones in order to meet signature requirements, with perhaps dozens of anodes and reference electrodes. It may be advantageous to be able to re-configure the ICCP zoning during a vessel's lifetime, in order to meet developing mine or detection threats. The flexibility offered by computer control is therefore important. In these applications there may be one or more controllers, with many anode power supplies distributed around the vessel. Figure 3 shows part of such a system.
+
+Figure 3 ­ Modular ICCP Control System
+
+Courtesy Aish Technologies Limited
+
+BONDING OF MOVING PARTS There can be many moving parts that are mechanically connected to a marine structure. In a ship, the obvious ones are: Propeller Shaft(s) Rudder(s) Stablisers If these parts are metallic, they are likely to suffer from galvanic corrosion if they are not cathodically protected. To enable an ICCP system to cathodically protect moving parts, it is necessary to ensure that they are held as near as possible to the same potential as the main structure. Hinged Components For hinged components such as rudders and stabilisers, this is easy. A flexible connection between the moving part and the main structure ensures that the two are bonded electrically and allows protection current to flow from an anode, through the protected part, and return to the hull.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+Rotating Components For a rotating part such as a propeller shaft, a slipring is used. Without a slipring current flowing from an anode to a propeller will find its easiest route back to the hull, and this will usually be via its bearings (Figure 4). This will not only cause the propeller to be poorly protected, but current flowing through the bearings can contribute to early bearing failure. Figure 4 ­ Current Flow without Slipring To overcome this a slipring is fitted around the shaft and bonded to the hull (Figure 5). The slipring makes electrical contact with the shaft by means of sliver-loaded brushes that carry the current from the shaft to a hull bonding strap. It is clearly very important to keep each slipring in good condition so that low resistance is maintained. Figure 5 ­ Current Flow with Slipring Even lower resistance can be achieved and maintained using an Active Shaft Grounding System (Figure 6). This is a closed loop control system that measures the potential of the shaft relative to the hull using a low-current slipring, and uses the measurement to control the output of a power supply that `sucks' current out of the shaft via a high-current slipring in order to maintain the shaft's potential within a very few mV of the hull. ASG has found particular use in military vessels, where otherwise fluctuating propeller protection currents can create a detectable alternating signature.
+
+Shaft Potential ­ Target 0mV
+
+Figure 6 ­ Current Flow with Active Shaft Grounding
+
+SYSTEM MODELLING
+One cannot over-emphasise the importance of getting the sizing and layout of an ICCP system correct. Corrosion management must be built into the design of a marine structure or vessel right from the outset, and should even be allowed to influence the design and positioning of operational items on the vessel itself. In addition, on military vessels it is necessary for the protection currents to be balanced in a certain way in order to minimise signature. An item of hull-mounted instrumentation may of necessity include areas of uncoated metal in contact with the seawater. If cathodic protection is not considered until long after the position of the instrumentation is fixed, then it may not be possible to achieve that balance. But if cathodic protection expertise is sought during the conceptual stage of ship design, the hull instrumentation can be optimally placed to achieve minimum signature.
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+Not everybody is interested in signature, of course. But even for basic minimisation of corrosion, involvement of the appropriate coatings and cathodic protection expertise at the conceptual stage of design, will go a long way towards avoiding the kinds of corrosion-related failures and tragedies one reads about in the press, and in reducing through-life maintenance costs. Whether ICCP is being considered at the conceptual stage, or almost as an after thought, it is necessary (i) to be confident that an ICCP layout is going to work, and (ii) to be able to evaluate different layout and coating damage scenarios to ensure that the ICCP system will cope with any likely occurrence. Two methodologies are available to enable us to do this: (a) Physical Scale Modelling (b) Computer Modelling
+
+In Physical Scale Modelling a scale model (Figure 7) of the structure or vessel is made. Miniature anodes are fitted around it to carry scaled-down anode currents; miniature reference electrodes are installed to provide feedback and monitoring of the hull potentials, and the whole is floated in salt solution whose salinity has also been scaled. The `Control System' can consist of a simple bench power supply with manual adjustment, or an off-the-shelf potentiostat of the kind used in electro-chemical research, or even a scaled-down version of the controller that will eventually be used on board.
+
+CONTROL SYSTEM
+
+Figure 7 ­Scaled Model of Vessel
+
+Anodes, Reference Electrodes and hull components can be moved around to observe the effect on hull potentials, and the water can be pumped past the vessel to examine the effect (which is considerable) of the vessel moving at speed. The model itself can be metallic, and painted with a scaled thickness of paint, which is removed to replicate coating damage. Or it can be moulded from an insulating material, with cathodic areas simulated with metallic patches electrically connected to the rectifier ground. Figure 8 ­Using a Scaled Research Controller The control system driving the model can be a replica of the system (Figure 8) that will eventually be used on the vessel. Its outputs are scaled to match the model, and its P, I and D parameters can be adjusted to test a large number of scenarios. In addition to being able to model for best corrosion protection, system stability and zone interaction can be investigated and P, I and D parameters selected to give optimum performance. These same parameters can then be used as a high confidence starting point for settings on the full-scale vessel. Until the early 1980s, Physical Scale Modelling was the only way of
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+Images courtesy Aish Technologies Limited
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+simulating a cathodic protection system before incorporation on the vessel itself. As computer processing power increased however, the possibilities presented by Computer Modelling have proceeded apace. Boundary Element Analysis is the methodology generally used. The wetted areas are divided up into a mesh of small elements (Figure 9), each element consisting of an area of a particular material, with a particular coating, and a particular electro-chemical relationship (defined by a `polarisation curve') with the seawater it is in contact with.
+POLARISATION CURVES
+
+Figure 9 ­ Boundary Element Modelling
+
+BOUNDARY ELEMENT MESH
+
+Images by permission: BEASY
+
+A Boundary Element Model is then created with which the ICCP System and its interaction with the hull can be simulated. Once again, it is relatively easy to move hull components around to see the effect on hull potentials. An advantage over Physical Scale Modelling is that it is also easy to change the seawater state and hull component material, provided that the polarisation curve for the material/coating/seawater combination is known for each case. Seawater flow is similarly simulated, by using the revised polarisation data that will apply at higher speeds. A recent advance in Computer Modelling, enables the dynamic properties of the ICCP control system to be incorporated in the overall model. Figure 10 shows typical outputs from a computer model being used to examine poor stability and zone interaction; having identified the problem, changes can be made to the system response and the revised performance examined. Figure 10 ­ Computer Modelling of ICCP Control System
+
+Images by permission: BEASY
+
+In summary, both Physical Scale Modelling and Computer Modelling allow the ICCP specifier to take a significant step forward in establishing confidence in a design before a vessel is launched. While Computer Modelling is probably the most convenient methodology, Physical Scale Modelling can yield results without full knowledge of the polarisation data. Good correlation has been reported between Physical Scale Modelling and Computer Modelling of the same model vessel/structure, and a unified approach using both methods recommended 5.
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+WHAT NEXT?
+So what is in the future for impressed current cathodic protection? It has been around for many decades now, but as electronics and communications continue to provide more and more capability at increasing reliability, ICCP applications will continue to grow. The writer believes that there will be several growth areas over the next few years. Summaries of some of these follow. HULL CONDITION MANAGEMENT The advances in computing power over the past two decades are already enabling some fundamental changes in ICCP system design. Figure 11 ­ User-Friendly Graphical User Interface
+
+Courtesy Aish Technologies Limited
+
+Going is the need to manipulate switches in order to read CP parameters one by one. Now all parameters can be seen at a glance on a single screen (Figure 11), with the operating status (good / warning / alarm) shown in colour for immediate impact.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+Going also is the daily chore of manually recording the CP parameters. This must have been one of the most thankless tasks on board a ship, and its tediousness left it open to error and assumption. The data would then be examined onshore, sometimes months after being recorded.
+
+Figure 12 ­ Automatic Data Logging
+
+Courtesy Aish Technologies Limited
+
+Today the data can be automatically logged, accurately and on time, and pasted into a spreadsheet application, with any trends immediately apparent. Even better, the data can be analysed in real time by the ICCP Control System's computer.
+
+Condition Based Maintenance (CBM) is the science of taking maintenance action based on actual condition. In the case of a ship's hull this might mean that the vessel need not go into dry dock until sensors on the hull indicate that there is a problem developing. The sensors in an ICCP system are primarily the Reference Electrodes. But they are not the main indicators of a potential problem developing because, if the ICCP system is doing its job, it will be maintaining the Reference Electrodes at a steady potential. The real indicators of a problem approaching comes from monitoring the anode currents. If currents remain relatively steady (consistent with a gradual year-onyear coating degradation), then it may be possible, for example, to ignore paint degradation/damage as a reason for dry-docking until the system reaches a pre-determined percentage of its rated capacity. Of course, protection currents will vary for other reasons (changes in seawater conductivity, seawater temperature, ship's speed and ship's draught), so these parameters need to be taken into account when observing the long term trends on which maintenance decisions must be based. Signals representing the parameters are available from other ship's equipment, so this enhanced level of information could be attained, and appropriate corrections made, by feeding them into the ICCP Control System. Figure 13 illustrates this, with the resultant analysed data being fed to the ship management system for display to those responsible for maintenance activities.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+Image by permission: BEASY
+
+Figure 13 ­ ICCP Interface with Ship Management System for Condition-Based Maintenance
+
+Figure 14 shows how information might be displayed, with an immediate overall Hull Condition statement (eg OK/Warning/Alarm), a visual display of hull potentials, and contextual advice by selecting an area with mouse or touch panel.
+
+Figure 14 ­ CBM User Interface
+Author's Impression
+Image by permission: BEASY
+
+DAMAGE LOCATION As well as providing indications that maintenance is, or is not, needed, computing power can be used to more accurately pinpoint a coating degradation problem when one occurs. Three ways fo doing this are outlined below. (1) One indication of a problem approaching comes from monitoring the anode currents. These will almost certainly increase slowly with time as the hull coating becomes porous, but if the current from a particular anode starts rising faster than from others, then it is a sign that there has been some significant coating damage or degradation in the vicinity of that anode. (2) If (say) there are four Reference Electrodes around a structure, the information from them could only define a degrading area as being closer to one of the Electrodes than to any of the others. If, however, the number of Electrodes is increased further to form a grid around the structure, then interpolating from the information they
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+Hull image by permission: BEASY
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+provide would result in a much more accurate estimate of the position of the problem area. Theoretical work on this has been described by at least one organisation6 . (3) Another approach to this has been the prototyping of an Anode (Figure 15) that would provide an indication of the net direction of protection current leaving it7 . Knowing the magnitudes and directions of the currents leaving such Anodes facilitates pinpointing the degraded area they are protecting (Figure 16).
+
+Figure 15 ­ Direction-Finding Anode
+
+Courtesy Aish Technologies Limited
+
+In principle, sensors around an anode respond differently to electrical current passing over them, and produce a series of signals proportional to the magnitude of the current(s). The peak(s) of these signals can be related to the directions the currents are flowing from the anode. This has become known as the `Direction-Finding Anode', and has been prototyped and tested as a four-quadrant device. The prototype performed well7 , demonstrating accurate angular information. Using this information and the measured current magnitudes, it should be possible to identify areas where degradation is taking place (Figure 16).
+
+Figure 16 ­ Identifying Damaged Areas
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+`FINE-GRAIN' ICCP It is common practice to protect steel reinforcement in concrete with highly distributed ICCP, using anodes of a mesh construction. In this way, protection currents have very short paths; important when the electrolyte has a high resistance. Figure 17 ­ Distributed ICCP for Submarine
+
+Short current paths are also important for keeping electric field around a vessel to a minimum. So could the same principle of distributed protection be applied to the protection of military vessels? There would clearly be problems in supporting a mesh or similar distributed anode on the hulls of surface vessels, but for submarines it may be possible. Figure 17 shows how a submarine might be protected, not with a mesh anode, but with strip anode material in the form of a spiral or multiple loops with a small number of discrete anodes for plane surfaces. Such strip anodes could be embedded in the anechoic coating (Figure 18) which would need to be slightly porous in order to contain an electrolyte. Work needs to be done to establish how protective current would be distributed under various scenarios, to keep dipoles to a minimum and possibly achieving some cancellation between adjacent dipoles. It is possible that multiple loops may provide the best flexibility in this area, with opposing currents in each loop (Figure 18).
+
+Figure 18 ­ Strip Anode Concept
+
+OWN-SHIP SIGNATURE MONITORING Figure 19 ­ Own-Ship Signature Monitor At least one recent naval ship specification8 has included the requirement for own-ship magnetic signature monitoring. Corrosionrelated signatures will contribute to the magnetic total, particularly in the far-field. Using information now readily available from a computer-controlled ICCP System, it becomes possible to predict what these signatures might be, enabling more informed operational decision in, for example, mined littoral waters. A simulation has been produced of an ownship Electric and Magnetic field monitor, using real-time data from an ICCP System. This is illustrated in Figure 19 (vertical scales fictitious).
+
+Author's Impression
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+HIGH IMMUNITY REFERENCE ELECTRODES Wiring routes to reference electrodes are usually long and unscreened, and connect to a high impedance amplifier. All this makes the reference electrode wiring very sensitive to electrical interference.
+ANALOGUE TO DIGITAL CIRCUITRY
+
+For corrosion protection this is not a great issue. The few mV (or even a few 10's of mV) error caused by interference will not affect corrosion protection unduly. For signature management, however, a few mV error can be very significant. One solution to this is to buffer the reference electrode signal close to its point of entry to the vessel using a local data acquisition unit, which then transmits the reference electrode data in a noise-immune digital format. This method is already in use on some vessels.
+
+DIGITAL SIGNAL
+
+BUFFER AMPLIFIER
+
+ELECTRODE
+
+Figure 20 ­ High Immunity Reference Electrode
+
+The ultimate solution would be to incorporate the buffer/converter within the body of the electrode itself (see Figure 20). With a screened cable emanating from the electrode body, and the electrode data digitised, there would be very little chance of interference causing a problem.
+
+DIVER-SAFE ICCP A recent ICCP Conference in the United States9 was presented with the challenge of reducing the amount of the time naval vessels were left without any cathodic protection, primarily as a result of the ICCP system being `tagged out' because divers were working around the vessel. Some divers have experienced tingling and effects on tooth fillings while working close to an operating ICCP anode. Most specifications and regulations therefore require power supplies driving anodes close to a diver's area of work to be disabled while the work takes place. Most divers, however, prefer to disable the whole ICCP system as a precaution. This has led to ICCP systems on some vessels being turned off for an average of 3.9 days per month per vessel10. It has been estimated11 that approximately 20Kg of steel is consequently lost from such a vessel per year, primarily from the stern/rudder area. The cost of remedying this is more than significant, and could be avoided if the ICCP system, or the majority of it, could be left turned on. Clearly, an ICCP System is needed that divers can be confident will do them no harm. This may be achievable by using low voltage anodes power supplies. But what anode voltage can be defined as `safe'? Conventional anode power supplies can go up to 28VDC and reportedly have the effects described above. Divers routinely use 27VDC welding equipment with no ill effects. It has been calculated12 that 12VDC is `safe-to-touch' by a diver. The first step for a `diver-safe' ICCP System may therefore be to limit anode voltage to 12VDC. This would require more anodes to maintain corrosion protection coverage, but this would have significant advantage in reducing underwater signatures for military vessels, reducing heat and weight, and in reducing through-life costs (Figure 21).
+
+Figure 21 ­ How More Low Voltage Anodes can save Money, Power and Weight
+
+Appropriate fail-safe anode power supply design would of course be required to ensure that the agreed safe anode voltage can never be exceeded.
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 9 Preprint 17
+
+6 February 2006
+
+IN CONCLUSION
+As mines and detection equipment become more sophisticated, reducing corrosion-related signatures is becoming increasingly important. The cost of a corroding structure can be astronomical, both in terms of money, and sometimes in terms of lives. Miltary vessels with excessive corrosion-related signature levels may (a) be restricted in operation in mined littoral waters, and (b) be more easily detected from the air in open waters. ICCP design done at the conceptual stage of a ship's design cycle, is likely to be less expensive, and to provide better corrosion and signature performance, that an ICCP system incorporated later . There is an increasing awareness of the need to invest early in order to reap reduced through-life costs and increased structure/vessel availability.
+
+1
+
+Department of Defense Developing Science and Technologies List, Section 13: Marine Systems Technology July 2002 (Defense Threat Reduction Agency, Ft. Belvoir) Page 13-42 (http://www.dtic.mil/mctl/DSTL/DSTL_Sec13.pdf)
+2
+
+`Practical Measures for the Reduction and Management of the Electromagnetic Signatures of In-Service Surface Ships and Submarines' (Hubbard, Brooks & Torrance, Underwater Defence Technology Conference 1996)
+3
+
+`A Novel Means of Non-Acoustic Detection' (Beattie & Hubbard, Frazer Nash Consultancy Ltd)
+
+4
+
+"A Future Naval Capability ­ Platform Protection" Office of Naval Research (USA) http://www.onr.navy.mil/media/extra/fncs_fact_sheets/platform_protect.pdf
+5
+
+`Computational Modeling of Shipboard ICCP Systems' V. G. DeGiorgi, E. Hogan, K. E. Lucas, S. A. Wimmer, Naval Research Laboratory WashingtonDC. Papers presented to the Cathodic Protection Conference held at UMIST UK from 10th to 11th February 2003.
+6
+
+"Predicting The Effectiveness of Corrosion Control Measures Using Computer Simulation", Robert A Adey, Ernesto Santana Diaz, BEASY UK, Marine Corrosion Forum, July 2004
+7
+
+"Where is the Cathode?", B C Torrance, R A Perkins, M Forrester-Addie, Aish Technologies Limited, `Warship Cathodic Protection 2001' conference, Royal Military College of Science, August 2001
+8
+
+Preliminary Design Interim Requirements Document Serial Number N763F-S03-026 for Littoral Combat Ship (LCS) Flight 0, Pre Acat 10 Feb 03 (http://www.globalsecurity.org/military/library/report/2003/03r2309 -attach-j4.pdf)
+9
+
+US Navy ICCP Conference, November 2004
+
+10
+
+`Surface Combatant Rudder Deterioration' R Bardsley, NSWCCD Philadelphia, US Navy ICCP Conference, November 2004
+11
+
+`Impressed Current Cathodic Protection ­ What next?' B C Torrance, Aish Technologies Limited, Warship Cathodic Protection 2005 Conference, February 2005.
+12
+
+`Hazards to divers from cathodic protection systems' RJ Moulton - Chapter 21 of `Cathodic Protection -Theory and Practice' Ashworth/Booker 1986
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

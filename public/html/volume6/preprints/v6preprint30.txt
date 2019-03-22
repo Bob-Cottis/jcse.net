@@ -1,0 +1,194 @@
+Volume 6 Paper C072
+
+Localised Corrosion and Inhibitor Selection
+W.Y. Mok, A.E. Jenkins and C.G. Gamble Baker Petrolite, Kirkby Bank Road, Knowsley Industrial Park, Liverpool L33 7SY, UK, wai.mok@bakerpetrolite.com Abstract Corrosion control of oil and gas production systems is an essential element in the overall asset integrity programme. It is common industrial practice to inject corrosion inhibitor into the produced fluid to provide corrosion protection of the internal of carbon steel structures. In the sour environment, corrosion of carbon steel is typically in the form of localised attack, e.g. pitting. It is recognised that there are limitations in the selection of chemical by simply basing the decision on the results of linear polarisation resistance (LPR) measurements obtained in standard laboratory bubble test set-up and field side stream testing. This is particularly the case in sour environments where the general (or uniform) corrosion rate is at such low value that the evaluation of the performance of candidate inhibitors can be difficult. This paper considers the merits of conducting supplementary laboratory tests to complement the LPR results in the evaluation process. Of particular interest is the data obtained in autoclave tests, from which the localised corrosion behaviour of carbon steel can be characterised and the effectiveness of chemical in controlling localised corrosion qualified. In addition, the use of electrochemical noise monitoring technique in the assessment of the performance of corrosion inhibitor in localised corrosion environment was explored. The overall approach in the laboratory chemical selection process and field assessment are discussed. Keywords:, hydrogen electrochemical noise. sulphide, inhibition, localised corrosion, pitting and
+
+Introduction
+In oil and gas production and processing systems, carbon steel is widely used as the construction material for vessels, pipelines and ancillary equipment. This is primarily due to its mechanical properties as well as the cost effectiveness of material. However, carbon steel is susceptible to corrosion attack in the oil and gas production environment, in which acidic gas such as carbon dioxide (CO2) and/or hydrogen sulphide (H2S) may be present. The dissolution of these gases in the produced brine water can result in the lowering of the pH of the brine, and thereby promoting the corrosion processes.
+
+The injection of corrosion inhibitor is a standard practice in oil and gas production systems to control internal corrosion of carbon steel structures. This strategy has shown to be very successful and cost effective. The corrosion inhibitors can be broadly classified into amides/imidazolines, salts of nitrogenous molecules with carboxylic acids, quaternaries, polyoxyalklated amines/amide/imadazolines, nitrogen heterocyclics and other non-nitrogenous compounds containing phosphorus/sulphur/oxygen atoms, etc. Typically, the chemistry of a commercial corrosion inhibitor is a blend of one or a combination of the above compounds together with the incorporation of other components, e.g. surfactants, solvents and demulsifier, etc. [1, 2]. The selection of a corrosion inhibitor for a specific field application would typically undergo a rigorous laboratory evaluation programme followed by field assessment. The laboratory evaluation process may involve series of performance and secondary tests, e.g. bubble tests, partitioning tests, rotating cylinder electrode tests, flow loop tests and compatibility tests, etc. [3, 4]. The best performing candidate inhibitors in the laboratory tests would then be forwarded for further field evaluations, typically by conducting side stream tests. Overall, this approach in the selection of corrosion inhibitors has shown to be successful and is adopted by the oil and gas producers as well as the chemical vendors. In general, the assessment of the corrosion behaviour in the above evaluation tests is usually by linear polarisation resistance (LPR) measurements over relatively short In sweet systems, i.e. period of time, typically within a 24-hours period. environments that contain CO2 only and possibly very small amounts of H2S, LPR monitoring is recognised to be very effective in measuring the corrosion rate as the main form of corrosion is normally general (or uniform) [5]. However, the technique is considered to be unsuitable in systems deviated from the linear relationship, e.g. in localised corrosion systems [6, 7]. It has been reported that corrosion failures are normally associated with localised corrosion [8], thus the use of LPR monitoring only in the assessment, especially in systems susceptible to localised corrosion, should be treated with caution. In systems where H2S is present in appreciable quantity, i.e. sour environment, the general corrosion rate is usually low. This can be attributed to the formation of iron sulphide film on the surface of the carbon steel material. However, if there are any local defects in the iron sulphide film, localised pitting type of attack can result. In the present work, the tests undertaken to select a corrosion inhibitor for a sour system are described. The conventional approach of corrosion inhibitor evaluation described above was employed, but additional tests to qualify the localised corrosion behaviour were also undertaken to assist the selection process.
+
+Methodology
+A number of candidate corrosion inhibitors were evaluated for a specific Far East application by a sequence of laboratory and field tests. The incumbent chemical (Inhibitor G) was used as benchmark in the tests. All the candidates were initially assessed for their brine solubility, emulsion and foaming tendency. Those
+
+2
+
+candidates that failed these secondary property tests were precluded from the corrosion inhibition performance tests. Preliminary Laboratory Bubble Cell Tests Preliminary screening tests based on the bubble cell test set-up were first conducted. The test fluids consisted of 800ml of field brine and 200ml of hydrocarbon. Prior to corrosion rate measurement using LPR the fluids were dearated by sparging with CO2 gas for approximately 1 hour. The sour environment was simulated by the addition of sodium sulphide solution, which gave an equivalent concentration of 28 ppm sulphur in the brine phase. The test temperature (70°C) was maintained at the set point temperature by using a stirrer / heater unit via a temperature controller. Field Side Stream Evaluations A visit to the field location was made to test the best performing products identified in the preliminary laboratory tests. The side stream unit consisted of a series of test sections, into which corrosion inhibitor free produced water from a separator was allowed to flow though the unit via a sampling line. Corrosion probes were inserted into the test sections via access ports. This set-up enabled the exposure of the sensor elements to the produced water to facilitate the monitoring of the corrosivity of the brine. The design of the unit also allowed the injection of corrosion inhibitor into a mixing section upstream of the corrosion probes, and its performance was again monitored by LPR corrosion monitoring technique. Laboratory Autoclave Tests The inhibition performance of the corrosion inhibitors was further assessed in the laboratory using autoclave equipment. The autoclave test work was designed to investigate the pitting inhibition capability of the inhibitors. In this series of tests, corrosion coupons were exposed in the test environment and the corrosion inhibition performance was assessed with respect to the inhibitor concentration. In addition to the corrosion coupon exposure tests, electrochemical noise (ECN) measurements were also made to characterise the corrosion behaviour [9 - 11]. On completion of the tests, the coupons were cleaned and a calibrated microscope was employed to examine the surface conditions as well as for the measurements of the pit depth. The test conditions of this series of tests are summarised below.
+Temperature Gas Pressure Brine Oil Brine Oil Ratio Test Duration : : : : : 70°C CO2/H2S 0.86 bara CO2 / 0.14 bara H2S Field kerosene
+
+:
+:
+
+90:10
+16 Hours
+
+Results
+Bubble Cell Tests
+
+3
+
+The first set of laboratory tests was conducted to evaluate the relative corrosion inhibition performance of the candidate inhibitors at a concentration of 10 ppm/v. A blank (i.e. solution with no inhibitor) was also included as control. The corrosion inhibition given by inhibitors C, D and E was relatively poor in this test. Consequently these inhibitors were eliminated from the testing process. Inhibitors A and B were carried forward to the next stage of the evaluation process. The results are summarised in Table 1. Inhibitor
+Blank A B C D E
+
+Stabilised Corrosion Rate (mm/year)
+1.27 0.23 0.32 0.65 0.39 0.88
+
+% Protection
+81.9 74.8 48.8 69.3 30.7
+
+Table 1. LPR corrosion rates recorded at an inhibitor concentration of 10 ppm/v For the second stage of the evaluation, products were tested at 20ppm/v. For this stage, the incumbent product (Inhibitor G) was also included in the testing along with another chemical (Inhibitor F) that had performed well in previous field tests. The results summarised in Table 2 suggested that Inhibitors B, F and G gave comparable corrosion performance and all three offered marginally higher protection than Inhibitor A. The increase in inhibitor concentrations from 10 to 20 ppm/v also had an obvious impact in improving the inhibition performance.
+Inhibitor Blank A B F G Stabilised Corrosion Rate (mm/year) 1.27 0.09 0.03 0.03 0.02 % Protection 93.2 97.3 97.6 98.1
+
+Table 2. LPR corrosion rates recorded at an inhibitor concentration of 20 ppm/v Field Side Stream Tests On the basis of the laboratory test work, the candidates Inhibitors A and B were selected for further assessment under actual operating conditions. The incumbent Inhibitor G was also included along with Inhibitor F for comparison benchmark purposes. The test set-up incorporated attaching a side stream unit to a water
+4
+
+sampling line of a test separator at the production and processing facility. Corrosion probes inserted in the side stream unit were exposed to the flowing fluid throughout the duration of the tests. The corrosion behaviour of carbon steel was continuously monitored by LPR technique. The results obtained from the field tests are graphically presented in Figure 1. The data suggested that very low corrosion rates were obtained with the LPR measurements. The baseline corrosion rate was only ~0.02 mm/year, even when corrosion inhibitor injection was turned off. It was noted during the field tests that because of operational problems with the separator that some amount of oil was also allowed into the separated water stream. The presence of the oil as well as the presence of an iron sulphide film on the surfaces of the electrodes may have contributed to the low corrosion rate recorded. When inhibitors were injected into the fluid, there were clear indications that a reduction in corrosion rate was achieved. Overall, all the inhibitors may be considered to give similar performance in this set of tests as the corrosion rate was at such low level that the variations was insignificant. It was interesting to note from the historical corrosion data of the production facility that localised corrosion was observed when using Inhibitors F & G. The inhibition of localised corrosion was therefore an important requirement for the inhibitors. On the basis of the LPR data, no useful information could be obtained regarding the localised corrosion inhibition properties of the inhibitor tested.
+Corrosion Inhibitor Side Stream Tests
+0.06
+
+Untreated Inhibitor A
+0.05
+
+Inhibitor B Inhibitor F Inhibitor injection Inhibitor G
+
+LPR Corrosion Rate (mm/year)
+
+0.04
+
+0.03
+
+0.02
+
+0.01
+
+0.00 0 10 20 30 40 50 60 70 80 90 100
+
+Time (Minutes)
+
+Figure 1. Corrosion rate profiles recorded during the side stream tests.
+
+5
+
+Laboratory Autoclave Tests
+Coupon Weight Loss Tests
+
+The pitting corrosion behaviour of the chemicals was evaluated in the laboratory using the autoclave test. Corrosion coupons were exposed in the test environment over a range of inhibitor concentrations, which varied from 25 ­ 400 ppm/v. In addition, a limited number of ECN measurements were made to assess the localised corrosion behaviour. On completion of the tests, the average corrosion rates (based on weight loss) and the maximum pit depths (based on microscope examinations) of the coupons were measured. The results are tabulated in Table 3.
+Chemical / Concentration (ppm/v) Blank A B F G Max Pit Depth (µm) / Average Corrosion Rate (mm/year) 0 25.4 / 0.75 25 88.9 / 0.33 30.5 / 0.14 160 / 0.33 50 68.6 / 0.23 94 / 0.12 152.4 / 0.44 100 45.7 / 0.11 48.3 / 0.1 48.3 / 0.14 104.1 / 0.27 150 45.7 / 0.11 78.7 / 0.11 86.4 / 0.17 86.4 / 0.18 180 0/ 0.05 83.8 / 0.08 22.9 / 0.13 25.4 / 0.15 200 0/ 0.08 0/ 0.04 22.9 / 0.11 40.6 / 0.14 400 7.6 / 0.11 -
+
+Table 3. Recorded maximum pit depth and average corrosion rates in autoclave tests. The coupon results illustrate that at the lower range of inhibitor concentrations, up to 150 ppm/v, localised corrosion was recorded with all the inhibitor tested. This was especially the case with Inhibitor G, which showed severe localised pitting damage at low inhibitor concentrations. In the case of average general (or uniform) corrosion rate, the data suggested that the rate decreased with increasing inhibitor concentration, which was generally expected in inhibited systems. However, the maximum pit depth data were more variable and there did not appear to have a clear correlation between pit depth and inhibitor concentration with some of the inhibitor tested. Some examples of the surface appearances of the coupons after tests are shown in Figure 2. When the inhibitor concentration was increased to 180 ppm/v, Inhibitor A gave no observable localised damage. When the inhibitor concentration was further increased to 200 ppm/v, Inhibitor B also exhibited negligible localised loss. Inhibitor F was further tested at a maximum concentration of 400 ppm/v but pitting attack was still recorded.
+
+6
+
+Inhibitor A
+
+Inhibitor G
+
+Figure 2. Surface appearance of the coupons after tests at 180 ppm/v inhibitor concentration. Electrochemical Noise Tests Electrochemical noise measurements were made during the test to assist the evaluation of the localised corrosion behaviour. A typical example of the ECN time record obtained shortly after the start of the tests is shown in Figure 3. The potentials recorded during this scan were relatively small, between 2.5 ­ 4.5 mV, and were typical of a 3-identical electrode set-up. The coupled current measured was approximately 45 µA, which was indicative of low activity on the test electrodes. There were no characteristic potential and the corresponding current transients in the data which could be associated with the occurrence of localised (pitting initiation or propagation) events on the electrodes.
+Autoclave Tests Blank - Run A
+8 60
+
+7
+
+Potential Current
+50
+
+6 40
+
+Potential (mV)
+
+5
+
+4
+
+30
+
+3 20 2 10 1
+
+0 0 200 400 600 800 1000
+
+0 1200
+
+Time (second)
+
+Figure 3. Electrochemical noise time records obtained near the start of the test.
+
+7
+
+Current (µA)
+
+An example of the ECN time record obtained some 14 hours later is presented in Figure 4. The features of both potential and current were generally similar to those of Figure 3. There may be one small potential transient at ~160 second, which may be associated as a localised event. However the size of the transient (1.1 mV) was not significant. In addition, an episode of localised event which gives rise to a negative potential transient, would normally be expected to have a corresponding current transient. However, this was not found. Therefore, this suggested that the appearance of that transient was probably not related to localised activity on the test electrodes.
+Autoclave Tests Blank - Run B
+55 30
+
+54
+
+Potential Current
+25
+
+53
+
+52
+
+20
+
+Potential (mV)
+
+51 15 50
+
+49
+
+10
+
+48 5 47
+
+46 0 200 400 600 800 1000
+
+0 1200
+
+Time (second)
+
+Figure 4. Electrochemical noise time records obtained at ~14 hours into the test. Comparison of the two sets of data suggested that the potential difference measured had increased to approximately 47 mV, whilst the current had decreased to circa 20 µA between the period of measurements. The higher potential difference suggested that a larger difference existed between the reference and the working electrodes since the start of the tests, whilst the variations in activities between the two working electrodes were marginally lower. Statistical parameters, such as localisation index (LI) [10], pitting factor (PF) [11] and characteristic charge (q) in combination with characteristic frequency (fn) [12], were analysed in order to provide a guide to the corrosion behaviour, i.e. localised or general, (Table 4). Even though localised attack was observed on the electrode, the LI and PF parameters suggested that the corrosion was more general rather than localised. With the q and fn parameters, no firm conclusions could be made regarding the localised corrosion behaviour based on the values derived. As a results of the uncertainty of the value of ECN measurements, it was decided that the determination of corrosion behaviour in this series of tests would be best based on the coupon data only, and no further electrochemical measurement was taken.
+8
+
+Current (µA)
+
+Localised Corrosion Parameter LI PF q (nC) fn (Hz/cm2)
+
+Run A 0.04 0.01 26 581.8
+
+Run B 0.08 0.02 26 384.7
+
+Table 4. Localised corrosion parameters derived from ECN data files.
+
+General Discussion
+The general approach in the selection of corrosion inhibitor in oil and gas production and processing systems is initially to screen candidate inhibitors using standard bubble cell test equipment. This may be followed by additional tests under more severe test conditions, e.g. high shear, high temperature and high pressure conditions, etc. The assessment of performance is normally based on electrochemical measurements, e.g. LPR or impedance, which provides instantaneous corrosion rate information, and/or average corrosion rate based on weight loss data. On the basis of the recorded corrosion rates, the best performing chemicals in the laboratory tests would then be tested in the field using a side stream unit set-up for a relatively short period of time. (In some cases, a longer term evaluation, e.g 3-months period, may be adopted in a field trial.) In almost all short duration tests, the assessment is based on the conventional electrochemical monitoring data, and/or the uses of more sensitive weight loss measurements such as Ceion or Microcorr. The limitations of these types of measurements are that they are more suited to general corrosion. In systems where localised corrosion predominates, the above approach may not be able to identify if an inhibitor is appropriate for controlling localised corrosion. It is important that the capability of the inhibitor is qualified in localised corrosion applications as most reported field corrosion failures are due to localised attack. In the present work, the localised corrosion performance of a number of inhibitors was evaluated in autoclave units which allowed an assessment of the morphology of the test coupons and/or electrodes. The LPR corrosion rate data obtained in laboratory and field side stream tests suggested that there was little difference in performance between Inhibitors A, B, F and G. However, the results of autoclave tests revealed a differentiation in the capability of minimising the risk of localised attack. Inhibitors A and B exhibited much better inhibition performance by preventing localised attack on the coupons; whereas Inhibitors F and G were not able to fulfil this requirement, though both may be considered to be perfectly adequate in controlling general corrosion. Electrochemical noise monitoring was employed in this study to assess the localised behaviour. The time records were examined, and a number of localised corrosion parameters were employed to assist the interpretation of localised behaviour. The data obtained did not appear to suggest localised attack, though it must be stated here that only a limited amount of data were recorded. The uses of electrochemical
+
+9
+
+noise corrosion techniques, ECN and P-ECN [13] are currently under further evaluations to investigate localised corrosion. One interesting aspect of this study is that when only LPR data were used as the main criterion to select an inhibitor, there was no significant difference between some of the inhibitors tested, and hence, other criteria may gain a more significant emphasis in the selection process, e.g. secondary properties, costs and environmental properties, etc., even though these criteria are important and are normally considered in the selection process. An important finding of this study is that the corrosion tests to be undertaken in the selection process must be relevant to the corrosion behaviour in the field, and the tests should be able to reveal the limitations or the capabilities of the chemicals. This is very important as the selection of an inappropriate chemical can be costly and damaging because of pre-mature corrosion failures, which can result in unscheduled downtime, loss production, increased maintenance costs, undesirable environmental impacts, health and safety risks to operating personnel.
+
+Conclusions
+·
+
+LPR is a quick and simple measurement to provide general corrosion rate information. It is widely adopted as the preferred technique in screening tests in oil and gas production systems. LPR can be used to differentiate the performance of inhibitors in general corrosion systems, though there are limitations in applying LPR in localised corrosion environment. Inhibitors which work well in preventing general corrosion, may not perform similarly well in preventing pitting corrosion as was illustrated by Inhibitors F and G. Short duration side stream tests using LPR measurements may have limitations in differentiating corrosion inhibition performance of different chemicals. This is especially in sour systems where the general corrosion rate is low. Autoclave test is a relatively better tool in evaluating the localised corrosion behaviour. The extent of localised damage can be more accurately quantified. ECN measurements carried out in this study were shown to be insensitive in revealing localised corrosion events. The use of a number of localised corrosion parameters to qualify the localised corrosion behaviour did not correlate with the surface feature of the test electrodes.
+
+·
+
+·
+
+·
+
+·
+
+·
+
+10
+
+Acknowledgements
+The authors express their thanks to Baker Petrolite for permission to present this paper. The authors also wish to record their thanks to K.A. Bartrip and colleagues for their technical and experimental contributions.
+
+References
+1. "Corrosion Inhibitors", J.I. Bregman, Pub. Macmillan Company, New York, 1963. 2. "The Chemistry of Corrosion Inhibitors Used in Oil Production", J.A. Kelley and C.W. Bowman, UK Corrosion 1984, London, Nov. 1984. 3. "Corrosion Inhibitor Test Methods", S. Webster, A.J. McMahon, D.M.E. Paisley and D. Harrop, Sunbury Report No. ESR 95.ER.054, November 1996. 4. "The Selection of Inhibtors for Crude Oil Pipeline", J. Bown and D. Harrop, Paper presented at Conference of "Chemical Treatment in the Oil and Gas Industry", London, 1986. 5. M. Stern and A.L. Geary, J. Electrcochem. Soc., 104, p. 56, 1957. 6. L.M. Callow, J.A. Richardson and J.L. Dawson, Br. Corrosion J., 11, 2, p.132, 1976. 7. J.R.Scully, Corrosion, 56, 2, p.199, 2000. 8. "Requirements for Inhibition of Localised Corrosion", Y.M. Gunaltun and T. Chevrot, Corrosion/99, NACE, San Antonio, Texas, Apr. 1999. 9. "Electrochemical Noise Measurement for Corrosion Applications", Ed. J. Kearns, J.R. Scully, P.R. Roberge, D.L. Reichert and J.L. Dawson, ASTM 1996. 10. D.A. Eden, D.G. John and J.L. Dawson, UK Patent No. GB 8700310. 11. "Online, Real-Time Corrosion Monitoring for Improving Pipeline Integrity ­ Technology and Experience", R.D. Kane, D.A. Eden and D.C. Eden, Corrosion/2003, San Diego, California, Mar. 2003. 12. "Electrochemical Noise Analysis of Carbon Steel in Sodium Chloride Solution with Sodium Nitrite as an Inhibitor", H.A. Al-Mazeedi, R.A. Cottis and S. Turgoose, Eurocorr 2000, London, Sep. 2000. 13. V. Jovancicevic, US Patent No. US 6280603 B1.
+
+11
+

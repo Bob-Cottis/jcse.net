@@ -1,0 +1,365 @@
+Volume 6 Paper C117 R/S FRACTAL ANALYSIS OF ELECTROCHEMICAL NOISE SIGNALS OF THREE ORGANIC COATING SAMPLES UNDER CORROSION CONDITIONS.
+M. A. González-Núñez, J. Uruchurtu-Chavarín.
+Instituto de Investigaciones Eléctricas, Av. Reforma No. 113, Col. Palmira, Temixco, Morelos, MÉXICO, C.P. 62490, Phone: +52 (777) 318 3811 ext. 7230, Fax: +52 (777) 318 9848, e-mail: magn@iie.org.mx
+
+Keywords: Electrochemical noise, rescaled range analysis, Hurst exponent, fractal, coatings.
+
+Abstract
+This work presents the electrochemical noise results obtained under chloride corrosion conditions in three different coatings (two epoxy coatings and an epoxy/polyurethane) systems. Evaluation was performed from the fractal dimension of the electrochemical noisetime series obtained using the so called Rescale Range Analysis (RRA) proposed by Hurst. The three coatings were exposed in a chloride environment and electrochemical current noise (ECN) measurements were performed. Afterwards, the fractal dimensions were calculated from the time series obtained for the three coatings. This dimension is obtained from the empirical law R/S = (/2)H where R represents the difference between the maximum and minimum values of the variable, S the standard deviation of the time series,  is the period of time measured and H the Hurst exponent between 0 < H < 1. The calculation of the Hurst exponent and fractal dimension of the time series comes from the slope of the R/S plot. The exponent may help to
+
+evaluate
+
+the
+
+coating
+
+resistance
+
+performance
+
+under
+
+corrosion
+
+conditions.
+
+Introduction
+There is a variety of laboratory tests used to demonstrate the protection against corrosion conferred by coatings. Since corrosion is an electrochemical process, electrochemical testing methods which requires charge transport through coatings, has gained considerable attention during the past decade to assess the corrosion resistance properties of organic coatings. One such method is the electrochemical noise (EN) which is a nonconditions. EN data were collected in the form of potential and/or current time series or ensembles of sufficient length, The analysis methods of EN data include statistical and spectral techniques and visual inspection of time records
+(1-5).
+
+perturbative technique used highly successful in different corrosion
+
+Previous studies have suggested
+
+that EN time records contain valuable information about corrosion resistance by coatings, however statistical and visual analysis have not revealed information about mechanisms of corrosion inhibition
+(6).
+
+Spectral analysis have also been used to analyse the periodicity of the structure of EN time records. The slope of the spectral density function (SDF) at higher frequencies typically has the form of (1 / f) . Different values of the  exponent have been reported for specific modes of corrosion Alternatively, the structure of the EN time record can be analysed in development of fractal geometry by Mandelbrot the time domain and described by the Hurst exponent H
+(10) (9). (2, 3, 7, 8).
+
+
+
+The
+
+mathematical tools for the analysis and characterization of the structure and scaling exponents of fractal time records. A "fractal" is an object with complex structure, revealing new details at increasing degrees of magnification. An EN time record is a "random" fractal, where the levels of detail are similar but not identical, sharing the same statistical properties. The fractal dimension df describes the structure of a fractal, e.g., the "roughness" of an EN time record, and and  that are observed for some of the EN time series parameters and 2 the fractal geometry provides the explanation for the values of df, H
+
+has provided
+
+noise spectra. Specifically, the fractional brownian motion (fBm) technique of Mandelbrot provides the connection between the structure of the EN time record and SDF (characterized by df, H and ) and the microscopic behaviour (oxidation reactions) responsible for corrosion. For example the Hurst exponent H which is formally related to , reveals long-term time dependence in a time series and can be evaluated from the oscillations occurring in the data. When the is proportional to the lag time raised to the power 2H, the time series is said to be fractal. The parameter 2H describes both the appearance of "persistence" 0.5 < H < 1, or "anti-persistence" 2H < 0.5) of the associated physicochemical process, e.g., corrosion
+(11, 12).
+
+variation in the time record over a specific time interval (the lag time)
+
+the
+
+time
+
+series
+
+("roughness")
+
+and
+
+the
+
+characteristics
+
+(the
+
+This work presents the electrochemical noise results obtained under chloride corrosion conditions in three different coating (two epoxy coatings and an epoxy/polyurethane system). Application of fractal geometry analysis of EN time series were performed to explore the possibility to evaluate corrosion resistance characteristics of the different coatings.
+
+Experimental
+Coating Samples Description of the three coatings are given in table 1. Each sample substrate consisted of a 10 cm x 15 cm mild steel AISI 1010. These steel panels were cleaned by first rinsing with deionised water, then abraded down to a roughness of 600 mesh, and finally cleaned with di-chloromethane to ensure surface uniformity conditions. The coatings were applied by hand brushing. Coated samples were allowed to cure for several weeks in a cabinet where the air was filtered and the ambient conditions were maintained at 25 °C and 45 % relative humidity. Afterwards samples were immersed in 3% chloride solution for 500 hours. Table 1. Characteristics of coating samples. 3
+
+DESCRIPTION Rugosity Coating Application
+
+Sample 1 600 mesh 1 layer epoxy polyamide 1 layer polyurethane aliphatic epoxy.
+
+Sample 2 600 mesh 2 layers epoxy paint
+
+Sample 3 600 mesh 2 layers epoxy varnish
+
+Dry Thickness
+
+Film 220
+
+m
+
+190 m
+
+143 m
+
+Electrochemical Noise To evaluate and compare the corrosion resistance of the coatings under study, and to characterise their behaviour under aggressive chloride corrosion conditions, electrochemical noise (EN) technique was used with specimens immersed in a 3% NaCl. Each measurement was done at least by duplicate, in order to observe the reproducibility. The electrochemical noise set-up has already been described
+(1).
+
+Briefly, a plexiglass cell was attached to each coated panel (electrode) and filled with electrolyte solution (3% NaCl). A surface area of approximately 7.06 cm2 of each coating was exposed to the electrolyte in each cell. Nominally identical pairs of electrodes were coupled electrically electrolytically by an agar salt-bridge. A reference saturated calomel electrode was placed in one of the cells for each pair of electrodes. Potential noise was obtained against the reference electrode and the current noise between the two electrodes. The noise resistance was then calculated as the ratio of the potential noise standard deviation over the current noise standard deviation (Rn = v / i) Data Collection Data were collected in the form of time records using an through the measurement instrumentation and
+
+electrochemical system and software, that was controlled with a PC computer. The sample period was 0.5 seconds and an average value was then obtained. Every 15 seconds the procedure was repeated and 4
+
+coated sample. The trend was removed when the EN oscillations are superimposed to a DC signal, by subtracting a linear fit from the time
+
+after 30 minutes an EN time series was obtained for the 7.06 cm2
+
+series. Measurements were performed for different times of immersion corrosion processes under coatings were expected to be fairly slow.
+
+in the 3% NaCl solution. The time intervals were chosen because The initial time record was collected after 24 hours of the coated electrodes had been exposed to the electrolyte. Afterwards, time record data sets were collected less frequently over days and weeks. The immersion experiment was allowed to continue for approximately 500 hours. At this time, the cells were dismantled and the coated panels were inspected visually for blistering and rust according to ASTM procedures From the EN time records, the Hurst exponent H was also calculated as to have one quantitative parameter in order to compare signals. This exponent was evaluated using the Hurst rescaled range analysis based on his empirical law proposed in 1965
+(9); (13, 14).
+
+R/S = ( / 2)H where R
+
+represents the difference between the maximum and minimum values of the variable, S the standard deviation of the time series,  is the period of time measured and H the Hurst exponent (called K by Hurst).
+
+Results and Discussion
+A representative example of potential, current and noise resistance time records for the three test paints after 144 hours of immersion are shown in Figures 1 to 3. The general appearance or structure of electrochemical potential and current time records appeared to be similar for the three paints, although a few transients associated to local events can be observed at the beginning and the end of the time series, for two of the samples. The average potential noise is 8E-5 V and the average current is in the order of 9E-12 A. The noise resistance time series reflects the transients observed with an observed average noise resistance of 9E6 ohms. The general structure of the time series as a function of time remained similar for the three samples. Calculated values for noise resistance as a function of time for the carbon steel sample and the three coating samples are given in figure 5
+
+4. Decreasing trend of the noise resistances for the three coatings as a function of time of exposure, associated to coating degradation was not observed resistance remained variable, decreasing and increasing again as a function of time, without showing a definite trend. A decrease in noise resistance could be associated to local pores, voids or defects where localized corrosion might take place, forming corrosion products and
+(15).
+
+Instead, during exposure to the electrolyte the noise
+
+therefore increasing again its noise resistance as observed; without providing a reliable ranking of the coating corrosion resistance performance and suggesting a similar corrosion resistance properties for the three coatings. Values ranged between 1E9 ohms down to 1E4 ohms for all coating systems, with an average 1E7 ohms.
+1.00E-02 Sample 1 Sample 2 Sample 3 Carbon Steel
+
+1.00E-03 Potential (Volts) 1.00E-04 1.00E-05 0 200 400 600 800 1000 Time (s) 1200 1400 1600 1800 2000
+
+Figure 1. Electrochemical noise potential for coated carbon steel after 144 hours of immersion in a 3 % NaCl solution.
+
+6
+
+1.00E-10
+
+Sample 1 Sample 2 Sample 3 Carbon Steel
+
+Current (amp)
+
+1.00E-11
+
+1.00E-12 0 200 400 600 800 1000 Time (s) 1200 1400 1600 1800 2000
+
+Figure 2. Electrochemical noise current for coated carbon steel after 144 hours of immersion in a 3 % NaCl solution
+1.00E+09 Sample 1 Sample 2 Sample 3 Carbon Steel
+
+1.00E+08 Resistance (Ohms) 1.00E+07 1.00E+06 0 200 400 600 800 1000 Time (s) 1200 1400 1600 1800 2000
+
+Figure 3. Electrochemical noise resistance for coated carbon steel after 144 hours of immersion in a 3 % NaCl solution.
+
+7
+
+1.00E+11 Sample 1 1.00E+10 Sample 2 Sample 3 1.00E+09 Carbon Steel
+
+Resistance (ohms)
+
+1.00E+08
+
+1.00E+07
+
+1.00E+06
+
+1.00E+05
+
+1.00E+04
+
+1.00E+03 0 50 100 150 200 250 Time (h) 300 350 400 450 500
+
+Figure 4. Noise corrosion resistance of carbon steel and samples 1 to 3 at different times of immersion in a 3 % NaCl solution. Figures 5 to 8 present the rescaled range analysis for the
+
+electrochemical current noise time series obtained for different times of immersion for carbon steel and the three coating samples. The slopes of the curves represent the Hurst exponent H, which characterizes the time series structure. Depending on the 2H values, Skerry et. al.
+(15)
+
+conditions, depending upon the range of 2H as follows: a) 2H = 0-0.5 for coatings that provided good protection against corrosion. b) 2H is initially low and increased to 0.5-1.5 during exposure for the coatings that afforded an intermediate level of protection; and c) 2H = 1.5-2 for the coatings that offered relatively low corrosion protection conditions.
+
+proposed three protection levels to corrosion
+
+8
+
+1.2 Hi 24 hours Hi 144 hours 1 Hi 312 hours Hi 360 hours Hi 480 hours 0.8
+
+log (R/S)
+
+0.6
+
+0.4
+
+0.2
+
+0 0 0.2 0.4 0.6 0.8 1 log (T/2) 1.2 1.4 1.6 1.8 2
+
+Figure 5. Rescaled range analysis at different times of immersion in a 3 % NaCl solution for carbon steel.
+1 Hi 24 hours 0.9 Hi 144 hours Hi 312 hours 0.8 Hi 360 hours Hi 480 hours log (R/S) 0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3 0.3
+
+0.5
+
+0.7
+
+0.9
+
+1.1 log (T/2)
+
+1.3
+
+1.5
+
+1.7
+
+1.9
+
+Figure 6. Rescaled range analysis at different times of immersion in a 3 % NaCl solution for coating sample 1.
+
+9
+
+1.1 Hi 24 hours 1 Hi 144 hours Hi 312 hours Hi 360 hours 0.8 Hi 480 hours log (R/S) 0.7
+
+0.9
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2 0 0.2 0.4 0.6 0.8 1 log (T/2) 1.2 1.4 1.6 1.8 2
+
+Figure 8. Rescaled range analysis at different times of immersion in a 3 % NaCl solution for coating sample 2.
+1.1 Hi 24 hours 1 Hi 144 hours 0.9 Hi 312 hours Hi 360 hours Hi 480 hours
+
+0.8
+
+log (R/S)
+
+0.7
+
+0.6
+
+0.5
+
+0.4
+
+0.3
+
+0.2 0.3
+
+0.5
+
+0.7
+
+0.9
+
+1.1
+
+1.3
+
+1.5
+
+1.7
+
+1.9
+
+log (T/2)
+
+Figure 9. Rescaled range analysis at different times of immersion in a 3 % NaCl solution for coating sample 3.
+
+10
+
+From the graph the H value was obtained from the slopes. Table 2 presents the 2H values obtained from electrochemical current noise times series obtained, applying the rescaled range analysis for the three different coatings at different times of immersion. comparison the results for carbon steel are also presented. Table 2. The Hurst exponent for the three coatings as a function of immersion. immersion 24 144 312 360 480 Time of Carbon Steel 2H 0.3744 0.6568 0.7654 0.786 0.47 SAMPLE 1 2H 0.3628 0.3244 0.4086 0.4686 0.7330 SAMPLE 2 2H 0.4632 0.7262 0.8588 1.046 0.6884 SAMPLE 3 2H 0.5756 0.7024 0.4832 0.6362 0.4788 For
+
+According to Skerry´s proposal, and using this criteria all samples provide intermediate level of protection (case b), while samples 1 and 2 show a trend towards higher 2H values (lower protection against corrosion conditions). All show variable Rn values below 109 ohms cm2 (good coating).Visual examination of the metal substrates revealed less corrosion attack over the metal surface in sample 3, therefore better barrier type corrosion protection properties for this coating as compared to the other two, confirming the results presented. In a previous study, the corrosion behaviour of the three paintings at different corrosion conditions were evaluated: 1000 hours Prohesion test, at immersion chloride conditions using different electrochemical techniques and visual examination. Samples were ranked and sample 1 presented blistering and samples 2 and 3 localized attack. The best performance obtained was for sample 3, as suggested by these results
+(16).
+
+Persistent noise conditions (2H>1) exhibit rather clear trends with relatively appearance). If, for some time in the past a positive increment was obtained then, on the average an increase in the future will be obtained and the opposite is also true: a decreasing trend in the past 11 little noise (has a relatively smooth or undulating
+
+implies a continued decrease in the future. On the contrary for antipersistent noise (2H<1), an increasing trend in the past implies a decreasing trend in the future and a decreasing trend in the past makes an increasing trend in the future probable. The time record for of magnitude as the total excursion of the time record
+(9).
+
+this case, appears very noisy and the local noise is of the same order increments of persistent noise tend to accumulate, while those of antiThe
+
+persistent noise tend to cancel one another. According to the model of fractional Brownian motion, the value of 2H measures the persistence (or anti-persistence) in the increments of a time record. This persistence is presumably related to the processes generating the time the values of 2H, are reflecting the electrochemical reactions that take place at the electrolyte/substrate interface giving rise to corrosion. If this is true, then this is the reason that 2H can be sensitive to the level of corrosion resistance provided by the various coatings surface of the metal substrate
+(17). (15).
+
+record
+
+(9, 10).
+
+For corrosion processes, the electrochemical noise and
+
+Corrosion begins when aggressive ions attack a local site on the With further ion attack, corrosion
+(18).
+
+spreads gradually and oxidize adjacent sites on the metal surface
+
+On the basis of this model for uninhibited pit growth, it is expected that 2H >1 and the electrochemical noise time records would become persistent. Inhibition of corrosion, however, would be expected to reduce the persistence of the electrochemical noise (2H<1). Inhibition of corrosion may include passivity or the restriction of diffusion of aggressive ions to the substrate corrosion products. The results obtained are consistent with this model, where electrochemical current noise present relatively low frequency oscillations provided a high level of protection against corrosion, as suggested but without reaching persistency (2H>1). Figure 10 shows the trend of the Hurst exponent as a function of the time of immersion. Except for coating 3 sample, all present a trend to increase towards persistent conditions including the steel sample, although at a lower rate (shallower slope). These allow interpretation of results according to the model previously proposed (anti-persistent noise 2H<1) when a coating
+(15).
+
+by a "barrier type" coating or
+
+For carbon steel 2H initially is low with a trend to increase over time
+
+12
+
+1.2 Sample 1 Sample 2 1 Sample 3 Carbon Steel
+
+0.8 Hurst exponent
+
+0.6
+
+0.4
+
+0.2
+
+0 0 50 100 150 200 250 Time (hours) 300 350 400 450 500
+
+Figure 10. The Hurst exponent trend for carbon steel and the three coating samples steel as a function of time of immersion. On the basis of these results it appears that the trend in the Hurst exponent, and not only the values itself can give information regarding the coating performance. Further work is needed to clarify this suggestion.
+
+Conclusions
+The three organic coatings provide good to intermediate corrosion resistance protection to the metal substrate according to the proposed criteria. The trend in the Hurst exponent suggests that coating sample 3 offers the best anticorrosion properties of the three coatings tested. The results obtained for the Hurst exponent demonstrate that electrochemical noise time series are fractals. It provides a tool for the interpretation of the structure of electrochemical noise data as well as a possible quantitative value to rank coating performance and corrosion mechanism.
+
+13
+
+References
+[1] E. Almeida, L. Mariaca, A. Rodríguez., J. Uruchurtu, M. A. Veloz, "Characterization of Pre-rusted Steels in Some Iberoamerican Atmospheres by Electrochemical Potential Noise Measurements"; STP 1277 (1996). p. 411.
+
+Electrochemical Noise Measurements for Corrosion Applications, ASTM
+
+[2] Hladky, K., and Dawson, J.L., "The Measurement of Corrosion Using [3] Uruchurtu, J., "Electrochemical Investigations of the Activation Electrochemical 1/f Noise," Corrosion Science, 22, 1982, p. 231.
+
+Mechanism of Aluminum," Corrosion, .47,6, 1991, p. 472.
+
+[4] Uruchurtu, J., "Transient Behavior of Pure Aluminum During Noise 1987, p. 141. Analysis," NACE Conference in Localized Corrosion, NACE-9, Orlando,
+
+[5] J. M. Bastidas, J. M. Malo, "Electrochemical Noise 1/f in the Study of Corrosion Inhibitor Efficiency", Rev. Metal., 21, 6 1985, p.337. [6] Chen, C. T., Skerry, B. S., "Assessing the Corrosion Resistance of 1991.
+
+Painted Steel by Electrochemical Noise Technique", Corrosion, 47, 598, [7] Uruchurtu-Chavarin, J., Malo, J. M.; "Electrochemical Noise as a
+
+Powerful Electrochemical Technique for Corrosion Studies," Research [8] Gabrielli, C., Huet, F., Keddam, M., Oltra, R.; "Localized Corrosion as a Stochastic Process: A Review"; NACE Conference in Localized Corrosion; NACE-9, Orlando, 1987; p. 93. [9] Feder, J.; Fractals; Plenum Press, New York; 1989. & Co., New York; 1991.
+
+Trends, 2., 1997, p. 49.
+
+[10]. Mandelbrot, B. B.; The Fractal Geometry of Nature; W. H. Freeman [11] Cano, U., Malo, J. M., Uruchurtu-Chavarin, J., "Aluminum Corrosion in Chloride Solution. Is it Chaos or is it Electrochemical [12] Cano, U., Malo, J. M., Uruchurtu-Chavarín, J.; "¿Es Caos o es Ruido Noise?"; Corrosao e Proteccao de Materiais; 13, 1; 1994; p. 6
+
+Electroquímico? Corrosión del Aluminio en Medio Salino"; Rev. de [13] ASTM D610-01; "Standard Test Method for Evaluating Degree of Rusting on Painted Steel Surfaces".
+
+Metal.; 28, 6; 1992; p.348
+
+14
+
+[14] ASTM D714-00; "Standard Test Method for Evaluating Degree of Blistering of Paints". [15] Moon, M., Skerry, B.; "Interpretation of Corrosion Resistance Properties Electrochemical Noise Data"; J. of Coat. Tech.; 67, 843, 1995, p. 35. of Organic Paint Films from Fractal Analysis of
+
+[16] Instituto de Investigaciones Eléctricas Internal Report No. IIE/15/6380/RF 040/ 2000, Temixco, Morelos, México, 2000. [17] Hashimoto, M., Miyajima, S., and Murata, T.; "A Stochastic
+
+Analysis of Potential Fluctuations During Passive Film Breakdown and Repair on Iron"; Corrosion Science; Vol. 33, 1992; p. 885. [18] Kihira, H., Ito, S., Murata, T.; "Electrochemical Impedance
+
+Spectroscopy of Oxide Covered Steels"; Proceedings 10th International
+
+Congress in Metallic Corrosion; 1987; p. 4023.
+
+15
+

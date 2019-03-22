@@ -1,0 +1,324 @@
+ISSN 1466-8858 Volume 10 Preprint 32 21 April 2007 CORROSION INHIBITION EFFICIENCY OF NONIONIC SCHIFF BASE
+AMPHIPHILES OF p-AMINOBENZOIC ACID FOR ALUMINUM IN 4N-HCL
+Nabel A. Negm* and Mohamed F. Zaki
+Applied surfactant laboratory, Petrochemicals department Egyptian Petroleum Research Institute (EPRI), Nasr city, Cairo, Egypt
+
+ABSTRACT A novel series of self-assembled nonionic Schiff base amphiphiles were synthesized and their chemical structures were confirmed using elemental analysis, FTIR spectroscopy and 1HNMR spectra. The surface activities of these amphiphiles were determined based on the data of surface and interfacial tension, critical micelle concentration, effectiveness, efficiency, maximum surface excess and minimum surface area. Thermodynamics of adsorption and micellization processes of these amphiphiles in their solutions were also calculated. The surface and thermodynamic data showed their higher tendency towards adsorption at the interfaces. The synthesized amphiphiles were evaluated as corrosion inhibitors for aluminum (3SR) at different doses (400-10 ppm) in acidic medium (4N HCl) using weight loss and hydrogen evolution techniques. The corrosion measurements showed that the synthesized nonionic schiff bases could serve as effective corrosion inhibitors. The surface and corrosion inhibition activities were correlated to the chemical structures of the inhibitors KEYWORDS Nonionic surfactant, Schiff base, adsorption, surface tension, corrosion inhibition, corrosion rate, inhibition efficiency. INTRODUCTION Ferrous, nonferrous metals and their alloys are extensively used in industry. To remove unwanted scale and salt deposits or mill scales formed during manufacture, metals are immersed in acid solutions, which are known as an acid pickling bath. After the scale is removed, the metal may be subjected to attack by the acids. In order to reduce the degree of metal attack and rate of consumption of the acid, corrosion inhibitors are added to the pickling solutions. Hydrochloric and sulphuric acids are the most commonly used acids in the pickling bath
+(1, 2)
+
+. Most commercial inhibitor formulations include aldehydes and amines in their
+(3)
+
+structure
+
+. The choice of the inhibitors is based on two considerations: first, they could be
+
+synthesized conventionally from relatively cheap raw materials; secondly, they contain the electron clouds on the aromatic rings or, the electronegative atoms such as benzene ring containing Schiff bases
+(6)
+
+. Schiff base inhibitors have been reported as effectively corrosion
+(7-9)
+
+inhibitors for steel, copper and aluminum
+
+. These substances generally become effective
+
+by adsorption on the metal surface. Adsorption depends on the nature and charge of the metal
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+1
+
+ISSN 1466-8858 Volume 10 Preprint 32 21 April 2007 and also, on the chemical structures of the inhibitors (10). Self-assembled monolayer can
+provide a convenient method for corrosion inhibition, since the process of self-assembling is simple, and the chemical composition and thickness of self-assembled monolayers can be tailored by design and synthesis of the adsorption agent. The practical applications of selfassembled monolayers as corrosion inhibitors were explored by several investigators (11-14). It was found that densely packed self-assembled monolayers heteroatom containing compounds were effective for blocking certain electrochemical processes, thus effectively act as corrosion inhibitors. In this study, different self-assembled inhibitors containing polyethylene glycol chains with different molecular weights and schiff base terminal group were synthesized. The corrosion inhibition efficiencies of these compounds towards aluminum alloy were examined using weight loss and hydrogen evolution techniques. The surface activities of these schiff base amphiphiles and the surface activity-corrosion inhibition-chemical structure relationships were also discussed. EXPERIMENTAL PROCEDURES Synthesis of Schiff bases 0.5 mole of aldehydes (anisaldehyde and/or furfuraldehyde, respectively) was condensed with 0.5 mole of p-aminobenzoic acid in presence of 250 mL of ethyl alcohol as a solvent. The reaction mixture was refluxed for 6 hours and then left overnight until the product was precipitated. The product was washed by petroleum ether and recrystallized from ethanol. The final product was dried under vacuum at 40oC (15). The produced Schiff bases were denoted as ASB-p-ABA and FSB-p-ABA and their chemical structures were represented in Scheme 1.
+CH 3 O C H N COOH ASB-p-ABA
+
+Scheme 1. Chemical structures of the synthesized Schiff bases.
+
+Synthesis of ASA-p-ABA polyethylene glycol palmitate Polyethylene glycol monopalmitate of different molecular weights (400, 1000, 2000, 3000 and/or 6000) were esterified by the synthesized Schiff base ASA-p-ABA in equimolar ratio in xylene as a solvent and p-toluene sulfonic acid (0.01 wt%) as a dehydrating agent
+(16)
+
+. The
+
+reaction was continued until complete removal of the water of the reaction. Vacuum distillation was performed to remove the unreacted materials and the solvent, Scheme 2.
+CH3O C H
+n = 9, 14, 23 and 68 ethylene oxide units Scheme 2. Chemical structure of the synthesized ASA-p-ABA polyethylene glycol palmitate
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+N
+
+COO
+
+CH2 CH2 O
+
+COC14 H28 CH3
+n
+
+2
+
+ISSN 1466-8858 Volume 10 Preprint 32 Synthesis of ASA-p-ABA polyethylene glycol-2000-alkanoate
+
+21 April 2007
+
+ASA-p-ABA Schiff base (0.1 mole) was esterified with 0.1 mole of polyethylene glycol2000-monoalkanoic acid namely: decanoate, dodecanoate, tetradecanoate, hexadecanoate, octadecanoate and oleate in presence of xylene as a solvent and p-toluene sulfonic acid as dehydrating agent. The reaction mixture was completed by removal 1.8 mL of water. Then the reaction mixture was distilled under vacuum to complete removal of the unreacted materials and solvent, Scheme 3.
+CH3O C H
+R = decanoate, palmitate, stearate and oleate moieties Scheme 3. Chemical structure of the synthesized ASA-p-ABA polyethylene glycol-2000-alkanoate
+
+N
+
+COO
+
+CH2CH2O
+
+OCOR
+46
+
+Structural analysis The elemental analyses were performed for the synthesized surfactants using Vario Elementar instrument for elemental analysis, Fourier-transfer infrared spectrophotometer for FTIR spectra and Bruker model DRX-300 NMR spectrometer with TMS as an internal standard for
+1
+
+H-NMR spectra. The results were represented in Table 1.
+
+Surface and interfacial tension measurements Surface tension measurements were made for freshly prepared inhibitors solutions in a concentration range of 0.1 to 0.0001 M/L at 25oC using a Du-Nuoy Tensiometer-Kruss-K100. Also, interfacial tension measurements were made for inhibitors-oil systems (17). Weight loss determination Aluminum coupons of 10cm2 were used for weight loss measurement. Different concentrations of the inhibitors (400-10 ppm) in 4N HCl solution were used at 25oC. Coupons were placed in the corrodent-inhibitor systems and removed at 1 hour interval for 4 hours. The tested specimens were washed with distilled water and ethanol then dried and weighted. The difference in the weight was taken as the weight loss in mg. The percentage inhibitor efficiency was calculated as (18): % Efficiency
+= Wb - W X 100 Wb
+
+where Wb and W are the weight loss of aluminum specimens without and with inhibitors, respectively. The corrosion rates were calculated according to the following formula: Cr (mpy) = (KW)/(ATD) where; K = constant, A = area, T = time, W = weight loss in mg and D = density.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+3
+
+ISSN 1466-8858 Volume 10 Preprint 32 Hydrogen gas evolution technique
+
+21 April 2007
+
+In the gas evolution measurement, the corrosion rates of aluminum were investigated by the hydrogen evolution rate with the inhibitors concentrations of 400, 200, 100, 50, 25 and 10 ppm and 4N HCl solution without inhibitors. The hydrogen evolved is a function of the corrosion reaction and it displaced the fluid in the gasometeric setup, which is read directly. Experiments performed without inhibitors recorded the highest volume of hydrogen gas evolved (19). The percentage efficiency was calculated as: % Efficiency =
+Vb - V X 100 Vb
+
+where Vb and V are the volumes of hydrogen evolved without and with inhibitors respectively. RESULTS AND DISCUSSION The Surface Activity Effect of hydrophobic chain length Figure 1 represents the relation between the surface tension and ­log concentration of the synthesized nonionic Schiff base amphiphiles containing similar polyethylene glycol content (n = 46 EO units) at 25oC. It is clear that the surface tension profile has the characteristics of the nonionic surfactants. That appeared in the relatively higher surface tension values. Also, it could be observed that increasing the number of methylene groups along the hydrophobic chains from 10 to 18 units decreases the critical micelle concentrations gradually effect was explained in a previous work
+(20-21) (17)
+
+. That
+
+due to the repulsion occurred between the
+
+hydrophobic chains (nonpolar phase) and the water phase (polar phase), which forced the molecules to adsorb at the air-water interface and to micellize in the bulk of their solutions in order to decrease that repulsion. While, the lowest CMC values was observed for SBG-2000oleate at 0.0009 M/L at 25oC, which referred to the above reasons and also to the unsaturation in oleate chain which increase the repulsion extent. The effectiveness (cmc) values showed gradual decrease by increasing the hydrophobic chain length indicating the increasing of accumulated surfactant molecules at the interface. The maximum accumulation was indicated by the lowest surface tension depression at the critical micelle concentration and was recorded for SBG-2000-oleate molecules at 44 mN/m. The effectiveness values as well as the maximum surface excess considered as a clear description for the accumulation extent of amphiphiles molecules at the air-water interface. The calculated values of the maximum surface excess showed increasing trend from SBG2000-decanoate to SBG-2000-oleate as represented from the slope of pre-CMC region of surface tension profile (Figure 1). The maximum surface excess values were increased from 4
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 32 21 April 2007 decanoate to oleate derivatives indicating higher surface concentration and increasing number
+of surfactant molecules at the interface. Values of the minimum surface area occupied by the nonionic Schiff base amphiphiles at the interface (Amin) were calculated according to the equation: Amin = 1016 / (NAV . max) where, max and NAV are the maximum surface excess and Avogadro's number, respectively. Increasing the maximum surface excess values indicates the increasing of adsorbed molecules at the interface, hence the area available for each molecule will decrease. That causes the compacting of surfactant molecules at the interface to form denser layer. The values of critical micelle concentration, effectiveness, maximum surface excess and minimum surface area of the Schiff base nonionic amphiphiles were listed in Table (2). Effect of polyethylene oxide content Figure 2 represents the effect of ethylene oxide content on the surface activity of the synthesized nonionic schiff base amphiphiles. It is clear that increasing the number of ethylene oxide units within the nonionic moiety increases the hydrophilic characters of these molecules, which increases their critical micelle concentrations and also their surface tension values. The increasing of CMC values can be referred to the formation of hydrogen bonds (HBs) between amphiphiles-water molecules. HBs increase the adsorption of these amphiphiles at the air-water interface, which increases the CMC values gradually. On the other hand, the effectiveness (CMC) values of the synthesized Schiff base nonionic amphiphiles. SBG-n-16 were increased gradually by increasing the length (n) of the nonionic moiety (where n = 9, 14, 23 and 68) (22-23). The effectiveness (CMC) and the efficiency (pC20) values were showed an increasing trend by increasing the hydrophobic chain length. The maximum lowering in the surface tension values was corresponded to the SBG-2000-oleate. The maximum surface excess (max) values indicate lower surface concentration for lower ethylene oxide containing amphiphiles. On contrarily, the minimum surface area (Amin) values increased by increasing the nonionic chain lengths, (Table 2). Thermodynamics of Adsorption and Micellization The micellization and adsorption processes of the amphiphile molecules are occurred instantly. But, in common, one process may be predominating than the other one. The predominance of any of the two processes is governed by the thermodynamic variables of this process. In the investigated amphiphiles, both adsorption and micellization thermodynamic functions were calculated based on the methodology of Rosen, et al (24) and using the surface activity data in Table (2). The free energy changes of micellization and adsorption showed
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+5
+
+ISSN 1466-8858 Volume 10 Preprint 32 21 April 2007 negative sign indicating the spontaneously of the two processes at 25oC. Also, Gmic
+decreased gradually by increasing the hydrophobic chain lengths. But, Gads has slight increase in negativity than Gmic. The maximum depression in Gmic and Gads was observed at -12.04 and 12.11 Kj/Mole for SBG-2000-oleate, respectively. That showed the higher tendency of these amphiphiles towards adsorption rather than micellization. The tendency towards adsorption is refereed to the interaction between the aqueous phase and the hydrophobic chains which pumps the amphiphile molecules to the interface. The presence of these amphiphiles at the interface decreases the different in phases interactions. Corrosion Inhibition Efficiency Effect of alkyl chain length Figure 3 represents the variation of corrosion inhibition efficiency of the synthesized nonionic schiff bases amphiphiles containing constant ethylene oxide content (n = 45 EO units). It is clear that the inhibition efficiency increased by increasing the number of repeated methylene groups in the hydrophobic chains. Schiff base polyethylene glycol ABA-2000 showed the maximum corrosion inhibition efficiency at 55.28%. Comparison between the corrosion rate of the different hydrophobic chains (Figure 3) showed the following trend: oleate > stearate > palmitate > decanoate. That behavior could be referred for two factors. First, the surface activity of these inhibitors at the interfaces. Second, the longer hydrophobic chains neighbored to each other can easily overlapped. That forms a condensed nonpolar layer faced the polar aggressive medium. Hence, good isolation occurred and the corrosion process stopped. The presence of coiling in these chains or unsaturation sites enhances their overlapping. That effect appears obviously in case of stearate and oleate derivatives. Increasing the adsorption tendency is directing them towards the metal/corrosive medium interface where the inhibitor molecules act as a barrier; hence corrosion process steadily decreased
+(25)
+
+. Table (2) also showed that Amin values of the inhibitor molecules at the
+
+interface increased by increasing the number of methylene groups in their chains. That enforcing the molecular visualize to act as a blanket aligned with the aggressive medium and fade away its destructive action as shown in case of SBG-2000-oleate, (Amin = 110.01 A2). Since, the hydrogen evolution and weight loss techniques were used to assure the accuracy and the reproducibility of the results. Hence, Figures (3, 4) showed that the inhibition efficiency of the two techniques are highly comparable having very close values. The invariability confirms the accuracy of the inhibitors efficiency values.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+6
+
+ISSN 1466-8858 Volume 10 Preprint 32 Effect of polyethylene oxide chain length
+
+21 April 2007
+
+Figure (5) represents the variation of corrosion inhibition efficiencies of nonionic schiff base derivatives bearing different ethylene oxide contents (400, 1000, 2000 and 3000) at constant hydrophobic chain (palmitate). The corrosion inhibition efficiency was increasingly varied by decreasing the PEO content. Higher PEO content increases the hydrophilicity of these compounds. Hence, molecules tend to locate in the aqueous medium, which decreases their adsorption tendency at the interfaces. Consequently, their accumulation at the metal surface decreased. That explains their low efficiency as corrosion inhibitors. On contrarily, lower PEO containing derivatives had higher surface activity due to their high hydrophobicity. That directs these molecules towards accumulation at the interfaces. Hence, their corrosion inhibition efficiencies increased (18). Effect of inhibitor doses Figure (6) represents the effect of the synthesized corrosion inhibitor doses on their corrosion inhibition efficiency for aluminum alloy in acidic medium at 25oC. It is clear that, at higher doses (400 ppm),  appears in the lowest values. Decreasing the doses to 200 ppm and 100 ppm increases the inhibition efficiencies to higher extent, till reaches the maximum around 100 ppm. Meanwhile, further decrease in the inhibitor concentrations (50, 25 and 10 ppm) turns the efficiencies to lower values, but remains higher than those belonged to 400 ppm. That behavior could be rationalized to the micellization and micelle formation of these inhibitors (amphiphiles). At lower inhibitor doses (10, 25 and 50 ppm), the molecules are pumped to the interfaces and participated in the formation of isolating layer at the metal surface, hence the corrosion efficiency increased. The 150 ppm dose is considered a critical dose, that is due to the metal surface is completely covered by inhibitor molecules, which appears the highest corrosion inhibition efficiency. That is due to micelle formation neat that concentration. The lowering in corrosion inhibition efficiencies upon increasing the inhibitor concentrations implements the idea that the inhibition occurred through a molecular mechanism and not the micellar one. Corrosion inhibition mechanism The mechanism of inhibition processes of the corrosion inhibitors is mainly the adsorption one. The process of adsorption is governed by different parameters depend almost on the chemical structure of the inhibitors. The adsorption process is occurred either physically or chemically. Figure (6) indicates that the inhibition efficiency increased by increasing the doses of the used inhibitors until the maximum  values at 100 ppm. Then, the efficiency decreased gradually by increasing the inhibitor concentration. That indicates the formation of
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+7
+
+ISSN 1466-8858 Volume 10 Preprint 32 21 April 2007 adsorbed layer of inhibitors at lower concentrations, which increased by increasing the dose to
+100 ppm. The decrease in  at higher doses indicates that the adsorption is not in successive layers due to the formation of the micelles at higher concentrations
+(19)
+
+. That conclusion can
+
+be interpreted from Figure (7), which indicates the formation of only one S-shape proves the formation of one layer of the inhibitor molecules at the metal surface. REFERENCES 1. Sastri VS (1998) Corrosion inhibitor, Wiley, New York, 373:39-40. 2. Dedgamezhad, A, Sheikhshoaie F, Baghaei F (2002) Corrosion inhibitory effects of a new synthetic symmetrical schiff base on carbon steel in acidic media, Anticorrosion Methods and Materials 51(4):266. 3. Emregul KC, Kurtaran R and Atakol O (2003), An investigation of chloride-substituted schiff bases as corrosion inhibitors for steel, Corrosion Science 45:2803. 4. Cheng XL, Ma HY, Chen SH, Yu R, Chen X and Yao ZM (1998), Corrosion of stainless steels in acid solutions with organic sulfur-containing compounds, Corrosion Science, 41(2):321. 5. Sorkhabi HA, Shaabani B and Seifzadah D (2005), Corrosion inhibition of mild steel by some schiff base compounds in hydrochloric acid, Applied Surface Science 239:154. 6. Hosseini MG, Ehteshamzadeh M and Shahrabi T (2007), Protection of mild steel corrosion with Schiff bases in 0.5 M H2SO4 solution, Electrochimica Acta 52(11):3680. 7. Bilgic S and Caliskan N (2001), An investigation of some Schiff bases as corrosion inhibitors for austenitic chromium­nickel steel in H2SO4, J. Appl. Electrochem. 31:79. 8. Shokry H, Yuasa M, Sekine I, Issa RM, El-baradie HY and Gomma GK (1998), Corrosion inhibition of mild steel by schiff base compounds in various aqueous solutions: part 1, Corrosion Science 40(12):2173. 9. Emrgul KC and Atakol O (2004), Corrosion inhibition of iron in 1M HCl solution with schiff base compounds and derivatives, Material Chemistry and Physics 83:373. 10. Ishibashi M, Itoh M, Nishihara H and Aramaki K (1996), Permeability of alkanethiol self-assembled monolayers adsorbed on copper electrodes to molecular oxygen dissolved in 0.5 M Na2SO4 solution, Electrochemical Acta 41:241. 11. Ravari FB and Dadgarnezhad A (2006),Corrosion Inhibition of Mild Steel in 0.5 M Sulfuric Acid by Two Schiff Bases, J. Electrochem. Soc. 501:247. 12. Pang S and Zhu D (2003), Studies on molecular structure of Schiff base derivatives in LB films, Journal of Colloid and Interface Science 265:65.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+8
+
+ISSN 1466-8858 Volume 10 Preprint 32 21 April 2007 13. Dhathathreyan A (2004), Interaction of rigid Schiff base amphiphiles with water structure
+modifiers at air/water interface, Colloids and Surfaces A: Physicochem. Eng. Aspects 236:45. 14. Negm NA, Morsy SMI (2005), Corrosion inhibition of triethanolammonium bromide mono- and dibenzoate as cationic inhibitors in an acidic medium. J Surf Deterg 8(3):1. 15. Rezvani Z, Divband B, Abbasi A R and Nejati K (2006), Liquid crystalline properties of copper (II) complexes derived from azo-containing salicylaldimine ligands, Polyhedron 25:1915. 16. Jiao T and Liu M (2006), Substitution controlled molecular orientation and nanostructure in the Langmuir­Blodgett films of a series of amphiphilic naphthylidene-containing Schiff base derivatives, Journal of Colloid and Interface Science 299:815. 17. Negm NA, Hafiz AA, El-Awady MY (2004), Influence of structure on the cationic polytriethanolammonium bromide derivatives. I. Synthesis, surface and thermodynamics properties. Egypt J Chem 47(4):369. 18. Negm NA, Hafiz AA, El-Awady MY (2005), Influence of structure on the cationic polytriethanolammonium bromide derivatives. II. Corrosion inhibition. Egypt J Chem 48(2):201. 19. James AO, Oforka NC and Abiola OK (2005), Inhibition of the corrosion of aluminum in hydrochloric acid solution by pyridoxal hydrochloride, J. Corr. Sci. Eng. 7:21. 20. Negm NA (2005), zwitterionic surfactants: synthesis, surface and thermodynamic properties of n-ethyl alkanoate-n-ethanol-n-methyl-n-carboxymethyl betaine, Egypt. J. Petrol. 14(1):1. 21. Negm NA and Mahmoud SA (2005), synthesis, surface and thermodynamic properties of carboxymethyl (di-2-ethanol) ethyl alkanoate ammonium bromide amphoteric surfactants, Egypt. J. Petrol. 14(2):79. 22. Negm NA and Mahmoud SA (2003), effect of structure on the physicochemical properties of nonionic phosphate amphiphiles, Egypt. J. Petrol. 12:11. 23. Negm NA (2007), solubilization, surface active and thermodynamic parameters of gemini amphiphiles bearing nonionic hydrophilic spacers J Surfact Deterg 10 (in press). 24. Rosen MJ (1989), Surface and interfacial phenomena 2nd edn. Wiely, New York pp 151. 25. Negm NA and Aiad IA (2007), synthesis and characterization of multifunctional surfactants in oil-field protection applications, J Surfact Deterg 10 (in press).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+9
+
+ISSN 1466-8858 Volume 10 Preprint 32 21 April 2007 Table 1: Elemental analysis of the synthesized Schiff bases nonionic surfactants
+Compound Parent Schiff base SBG-400-16 SBG-1000-16 SBG-2000-16 SBG-3000-16 SBG-2000-10 SBG-2000-18 SBG-2000-Oleate Mol. Wt. 255.27 874.13 1490.86 2476.00 2783.65 2391.85 2504.06 2502.04 Carbon Hydrogen Calc. Found Calc. Found 70.58 67.32 62.03 58.69 52.21 57.74 58.99 58.04 70.31 67.12 61.84 58.51 52.04 57.57 58.81 58.86 5.13 9.11 9.13 9.08 6.48 8.89 9.14 9.02 5.02 9.02 9.04 8.99 6.42 8.80 9.05 8.93 Nitrogen Calc. Found 5.49 1.6 0.94 0.57 0.50 0.59 0.56 0.56 5.24 1.52 0.91 0.54 0.46 0.57 0.53 0.51
+
+All of the above compounds show satisfactory IR spectra: 850-890 cm-1 (benzene ring), 1200 cm­1 (ether linkage), 1340 cm-1 (C=N), 1718 cm-1 (C=O ester group), 2833 cm-1 (CH2) and. 2942 cm-1 (CH3). Also, 1H-NMR spectra: 0.9 ppm (S, 6H, CH3); 1.3 ppm (m, nH, CH2) (where n=16H decanoate, 28H hexadecanoate, 32H octadecanoate) and 3.6 ppm (t, nH, OCH2) (where n=36H PEG-400, 96H PEG-1000, 196H PEG-2000 and 292H PEG-3000).
+
+Table 2: Surface Parameters of the synthesized Schiff base amphiphiles Compound SBG-2000-10 SBG-2000-16 SBG-2000-18 SBG-2000-oleate CMC 0.00173 0.00124 0.000167 0.000156 cmc 23.0 24.0 26.0 28.5 Pc20 3.00 3.25 3.49 3.74  max X 10-10 2.03 1.85 1.78 1.51 Amin, A2 81.83 89.79 93.32 110.01 Gmic -8.72 -9.20 -11.95 -12.04 Gads -8.83 -9.28 -12.02 -12.11
+
+max = (-d/dlogC) / (8.3 X 107 X RT) Gmic = [2.303RTlog(CMC)] ­ [log(55.5)] Gads = Gmic ­ (0.6023 X 10-2 X pi cmc X Amin)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+10
+
+ISSN 1466-8858
+
+Volume 10 Preprint 32
+
+21 April 2007
+
+70 68 66 64 62 60 58 56 54 52 50 48 46 44 42 40 4.30
+
+Surface tension, mN/m
+
+Decanoate hexadecanoate octadecanoate oleate
+
+4.00
+
+3.60
+
+3.30
+
+3.00
+
+2.60
+
+2.30
+
+2.00
+
+-log Conc. Figure 1: Effect of the hydrophobic chain length on the surface tension of the synthesized schiff base amphiphiles containing 46 ethyleneoxide units .
+
+70 68 66 64 62 60 58 56 54 52 50 48 46 44 42 40 38 36 34 32 30 0.0005
+
+400 2000 3000
+
+Surface tension, mN/m
+
+0.00025
+
+0.0001
+
+0.0025
+
+0.005
+
+0.001
+
+0.025
+
+0.05
+
+Concentration, M/L Figure 2: Effect of the hydrophilic chain length on the surface tension of the synthesized schiff base amphiphiles containing palmitate chain.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 32
+
+21 April 2007
+
+100 0 10 25 50 100 200 400 90 decanoate 82.4 87.45 91.3 79.2 58.08 77.2 80 hexadecanoate 81.9 85.81 90.73 93.52 84 62.62 70 octadecanoate 88.4 90.6 93.79 94.8 89.17 70.62 60 oleate 91.47 93.6 96.2 97.3 92.4 73.19 50 40 30 20 10 0 ABA-2000 decanoate hexadecanoate octadecanoate
+
+Efficiency (%), 
+
+25 ppm 50 ppm 100 ppm 200 ppm
+
+oleate
+
+Hydrophobic chain
+
+Figure 3: Relation between the hydrophobic chain length of the different inhibitors and their corrosion inhibition efficiency. 25 ppm 50 ppm 100 ppm200 ppm
+100 ABA-2000 decanoate 90 80 hexadecanoate 70 octadecanoate oleate 60 50 40 30 20 10 0 ABA-2000
+46.1 49.4 55.28 44.2
+
+Efficiency (%), 
+
+82.4 87.45 85.81 90.73 90.6 93.79 93.6 96.2
+
+91.3 79.2 93.52 84 94.8 89.17 97.3 92.4
+
+25 ppm 50 ppm 100 ppm 200 ppm
+
+decanoate
+
+hexadecanoate
+
+octadecanoate
+
+oleate
+
+Hydrophobic chain
+
+Figure 4: Relation between the hydrophobic chain length of the different inhibitors and their corrosion inhibition efficiency using hydrogen evolution method.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 32
+
+21 April 2007
+
+100 90 80 70 60 50 40 30 decanoate 20 hexadecanoate 10 octadecanoate 0
+
+2.378734 1.980794 1.679764 1.378734 1.077704 0.776674 2.392169 1.994229 1.693199 1.392169 1.091139 0.790109 2.398638 2.000698 1.699668 1.398638 1.097608 0.796578 2.398291 2.000351 1.699321 1.398291 1.097261 0.796231
+
+Efficiency (%), 
+
+400ppm 200ppm 100ppm 50ppm
+
+10 77.2 81.9 88.4 91.47
+
+25
+
+50
+
+100
+
+200
+
+400 58.08 62.62 70.62 73.19
+
+oleate
+
+400
+
+82.4 87.45 85.81 90.73 90.6 93.79 93.6 96.2
+1000
+
+91.3 79.2 93.52 84 94.8 89.17 97.3 92.4
+
+2000
+
+3000
+
+Figure 5: Relation between the hydrophilic chain length of the different inhibitors and their corrosion inhibition efficiency.
+
+Ethyleneoxide units
+
+100 90 80 70 60 50 40 30 20 10 0 0 10 25 50 100 200 400
+
+Efficiency (%), 
+
+decanoate hexadecanoate octadecanoate oleate
+
+Dose, ppm
+
+Figure 6: Effect of inhibitor doses on the corrosion inhibition efficiency.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 32
+
+21 April 2007
+
+100 95 90 Efficiency (%),  85 80 75 70 65 60 55 50 0 0.26 0.52 0.78 1.04 1.3 -log Ci Figure 7: relation between the inhibitor concentration (-logCi) and their inhibition efficiency 1.56 1.82 2.08 2.34 2.6 decanoate hexadecanoate octadecanoate oleate
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

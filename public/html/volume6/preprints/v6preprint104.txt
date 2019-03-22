@@ -1,0 +1,493 @@
+Volume 6 Paper H070
+
+Oxidation study of alumina-forming alloys
+S. Chevalier1, C. Houngninou1, S. Paris1,2, F. Bernard1, E. Gaffet2, Z.A. Munir3, J.P. Larpin1, G. Borchardt4
+1Laboratoire
+
+de Recherches sur la Réactivité des Solides, UMR 5613 CNRS, Université de Bourgogne, 9 avenue Alain Savary, BP 47870, 21078 Dijon cedex, France. 2Laboratoire Métallurgies et Cultures, UMR 5060 CNRS/UTBM, Site de Sévenans, 90010 Belfort, France. 3Department of Chemical Engineering and Materials Sciences, University of California, Davis CA 95616, USA. 4Institut für Metallurgie, Technische Universität Clausthal, Robert Koch Strasse 42, 38678 Clausthal-Zellerfeld, Germany. sebastien.chevalier@u-bourgogne.fr
+
+Abstract
+Fe-20Cr-5Al, pack-aluminised Fe-30Cr model alloys and FeAl intermetallics have been oxidised in air under atmospheric pressure and isothermal conditions. The high temperature efficiency of the thermally oxide scales grown on these three materials were compared. The kp values deduced from the parabolic plots of weight gain curves showed that -Al2O3 composed the oxide scale on all samples oxidised at T>1000 °C. For lower temperatures, transient alumina phases are observed, except for the Fe-20Cr-5Al alloys, for which only -Al2O3 was characterised whatever the temperature up to 800 °C. The addition of a reactive element (Y or Y2O3) drastically improved the high temperature oxidation resistance of the tested materials, since the oxide growth rate decreased and the alumina scale adherence strongly increased. The oxide morphologies and the X-ray diffraction patterns helped to compare the high temperature behaviours under oxidant atmospheres.
+
+Keywords: alumina-forming alloys, intermetallics, pack aluminisation, Al2O3 scales, reactive element, oxidation mechanisms.
+
+Introduction
+The high temperature resistance of steels is based on their capacity to form homogeneous, adherent and dense protective oxide scales. Alumina-forming alloys are good candidates to resist to high temperature oxidation atmospheres because alumina scales, especially -Al2O3, exhibit the expected properties [1]. Intermetallic compounds, in particular aluminides, have been developed more recently. They exhibit also excellent high temperature resistance because they form Al2O3 scales acting as diffusion barriers during the oxidation process at high temperature [2,3,4,5,6,7,8,9]. The major problem encountered by intermetallic compounds is their brittleness, especially at room temperature, which creates difficulties during their production [8,9]. Another possibility to elaborate aluminides consists in introducing Al at the steel surface using an Al deposition technique. The pack cementation process has been commonly used to cover iron-based alloys and to form aluminides on their surfaces [10,11,12,13,14,15,16,17,18]. The aim of this work is to compare the high temperature oxidation properties of Fe-20Cr-5Al, pack-aluminised Fe-30Cr model alloys and FeAl intermetallics. Isothermal oxidation tests in the temperature range from 800 to 1200°C have been performed to check their ability to form alumina scales with the expected protective properties. The use of two stage oxidation experiments under
+16O 2
+
+observation of transmission electron microscope (TEM) cross-sections and the use of more classical analytical techniques, as scanning electron microscope (SEM) and X-ray diffraction (XRD), help to describe the high temperature oxide scale growth and to understand the differences observed between the tested samples. A particular attention will be paid to the role played by Y or Y2O3
+
+and
+
+18O , 2
+
+the
+
+addition on the high temperature oxidation behaviour when added to Fe-20Cr-5Al, intermetallics. 2 pack-aluminised Fe-30Cr model alloys and FeAl
+
+Experimental
+
+Fe-20Cr-5Al "model" steels were classically elaborated in laboratory conditions by melting route. They were called "model" alloys since they did not contain any minor elements to avoid the well known influence of alloying elements on the high temperature corrosion behaviour delete the sulfur effect [22,23,24,25,26,27], which was also
+
+[19,20,21]. There was a low amount of sulfur (S>10ppm) in order to susceptible to drastically influence the high temperature behaviour. Yttrium was introduced as an alloying element in Fe-20Cr-5Al steels to get Fe-20Cr-5Al-0.1Y alloys. The intermetallic compounds were produced via Mechanically
+
+Activated Field Activated Pressure Assisted Synthesis (MAFAPAS) technique [28]. It consisted in applying a mechanical pressure together with an electric field on mechanically activated powders. The complete process was described elsewhere [28,29,30,31,32] and yielded to obtain FeAl materials with controlled densification and nanostructure. Indeed, the density of the so-prepared FeAl samples was over 99 % with an average crystallite size of 40-80 nm. Yttria was added in FeAl intermetallics as dispersed particles during the mechanical activation of powders to obtain FeAl-0.1Y2O3 (wt. %). The quantity of yttria was determined according to the literature in order to avoid any
+
+"overdoping" effect, generally observed when the reactive element content is too high in metallic materials [33].The aluminisation of Fe30Cr "model " alloys was carried out using the pack cementation tecnique which involved a pack mixture made of 15 wt.% Al, 3 wt.% NH4Cl and 82 wt.% Al2O3 powders. The metallic substrate was embedded in the pack mixture for 5 hours at 1000 °C under argon atmosphere, to avoid oxidation during the process. The surface of the phases. The aluminised zone was around 100 µm thick [34]. Yttria was introduced as a coating elaborated via the Metal-Organic Chemical Vapour described elsewhere [35]. An Y2O3 film of around 200 nm thick was Deposition (MOCVD) technique, which was completely so-coated steels was covered with (Fe,Cr)3Al and (Fe,Cr)Al intermetallic
+
+3
+
+applied on the aluminised surface or on the Fe-30Cr substrate, before the pack-cementation process. The samples were oxidised over the temperature range from 800 to
+
+1200 °C in laboratory air under atmospheric pressure. Two stage firstly oxidised in
+18O 2 16O 2
+
+oxidation experiments were performed at 1000 °C. The samples were atmosphere was then evacuated without cooling the samples and replaced by (isotopic purity  91%) under the same pressure. The to understand the alumina scale oxygen isotope profiles were monitored by Secondary Neutral Mass Spectrometry (SNMS) mechanism [36,37,38,39,40,41,42,43]. The corrosion products were characterised by scanning electron microscopy (SEM) with a field emission gun (FEG) coupled with an energy dispersive X-ray analyser (EDX). The thermally grown oxides radiation (=0.154056 nm). were identified by X-ray diffraction (XRD), using the K1 copper under 200 mbar pressure. The oxidant
+
+growth
+
+Results
+Isothermal oxidation tests Figure 1 exhibits the oxidation kinetic curves of the Fe-20Cr-5Al steel in the temperature range from 800 to 1200 °C.
+
+4
+
+2,0
+
+1,5
+
+m/S (mg.cm )
+
+800°C 1000°C 1050°C 1100°C 1200°C
+
+-2
+
+1,0
+
+0,5
+
+0,0 0 20 40 60 80 100
+
+t (h)
+
+Figure 1: Isothermal oxidation kinetic curves for Fe-20Cr-5Al steels in air under atmospheric pressure. The weight gain curves obey the parabolic rate law whatever the studied temperature. The parabolic constants were deduced from the slopes of the m/S=f(t1/2) plots and are summarised in Table 1. kp (g2.cm-4.s-1) Fe-20Cr-5Al Aluminised Fe-30Cr 800 °C 900 °C 1000 °C 1050 °C 1080 °C 1100 °C 1200 °C 1.5 10-12 2.2 10-11 2.5 10-13 6.4 10-13 2.1 10-12 5.6 10-13 9.4 10-16 5.4 10-14 4.3 10-13 4.9 10-13 1.2 10-14
+
+FeAl "nanostructured" 5.8 10-14
+
+5
+
+Table 1: Parabolic constants (kp) for Fe-20Cr-5Al, aluminised Fe-30Cr and FeAl samples oxidised in air under atmospheric pressure.
+
+Figure 2 shows the weight gain curves for the aluminised Fe-30Cr oxidised from 800 to 1080 °C. The weight gains increase with the temperature and the curves obey a parabolic law, as depicted in Table 1.
+1,0
+
+0,8
+
+1080°C 1000°C 900°C 800°C
+
+m/s (mg.cm )
+
+0,6
+
+-2
+
+0,4
+
+0,2
+
+0,0 0 20 40 60 80 100
+
+t (h)
+
+Figure 2: Isothermal oxidation kinetic curves for aluminised Fe-30Cr steels in air under atmospheric pressure.
+
+6
+
+1,0
+
+0,8
+
+1000°C 1100°C 800°C
+
+ m/S (mg.cm )
+
+0,6
+
+-2
+
+0,4
+
+0,2
+
+0,0 0 20 40 60 80 100
+
+t (h)
+
+Figure 3: Isothermal oxidation kinetic curves for FeAl intermetallics in air under atmospheric pressure. The kinetic curves of the FeAl intermetallic compounds oxidised at 800, 1000 and 1100 °C are shown in Figure 3. The kinetic curve at 800 °C obeys a parabolic law from the beginning of the oxidation process. At 1000 and 1100 °C, a rapid increase of the weight gain per unit area is observed during the first hour of oxidation, followed by a classical 1. For all tested samples, the kp values are close to each other. Note that the parabolic rate constant is lower for Fe-20Cr-5Al at 800 °C and for FeAl at 1000 and 1100 °C respectively. The effect of yttrium or yttria was tested at 1000 °C. The weight gain curves (Figure 4) clearly evidence that the addition of the reactive element or the reactive element oxide decreases the oxidation rate and the weight gain during 100 h oxidation, compared to the undoped materials (Figure 1 to 3). The single exception concerns the aluminised sample for whith the yttria coating applied after the pack cementation process and which exhibits faster oxidation kinetics and a higher weight gain, compared to the only aluminised sample (Figure 2). 7 parabolic shape. The corresponding kp values are summarised in Table
+
+2,0
+
+1,5
+
+m/S (mg.cm )
+
+FeCrAl-0.1Y FeCr aluminised then Y2O3-coated Y2O3-coated FeCr then aluminised FeAl-0.1Y2O3
+
+-2
+
+1,0
+
+0,5
+
+0,0 0 20 40 60 80 100
+
+t (h)
+
+Figure 4: Isothermal oxidation kinetic curves for Fe-20Cr-5Al-0.1Y, Y2O3-coated Fe-30Cr followed by aluminisation, Aluminised Fe-30Cr followed by Y2O3 coating and FeAl-0.1 Y2O3 intermetallics in air under atmospheric pressure at 1000 °C. Oxide scale characterisation The morphologies of the oxide scales formed on Fe-20Cr -5Al steels at 1000 °C and 1100°C are different. At 1000 °C, the oxide scale is largely convoluted with anchor points of the scale on the metallic substrate. Many spalled areas were observed all over the surface. At 1100 °C, the oxide surface remains flat with much spallation. The oxide scale fracture cross-section exhibits coarse grains with some needles on the oxide surface. For all tested temperatures (from 800 to 1200 °C), -Al2O3 was identified by XRD.
+
+After 100 h at 1000 °C, the aluminised specimens are covered with small oxide grains. At 1080 °C, the oxide scale is slightly convoluted and still composed of small oxide grains. The oxide scale is mainly composed of -Al2O3 with transient alumina phases at T<1000 °C.
+
+The FeAl intermetallic compound exhibits an "hairy" microstructure, since its surface is covered with thin needles after 100 h at 1000 °C in air. At 1100 °C, the oxide scale is composed of classical small 8
+
+platelets. The XRD experiments clearly evidenced transient alumina phases at 1000 °C, whereas -Al2O3 was only detected at 1100 °C.
+
+Two-stage oxidation experiments The SNMS profiles of
+16O
+
+and
+
+18O
+
+are presented in Figure 5. The
+
+experiments were performed at 1000 °C for the three tested materials. peaks of
+18O
+
+The oxygen isotope profiles clearly indicate the presence of two major for the three materials: one peak is located at the oxide
+18O
+
+existing oxide scale close to the metal-oxide interface (Figure 5 a to c).
+
+surface and the second main
+
+peak is situated within the pre-
+
+500
+
+O16
+400
+
+O18
+
+300
+
+counts
+
+200
+
+100
+
+0 0 1 2 3 4 5
+
+thickness (µm)
+
+a)
+
+9
+
+180 160 140 120 100
+
+O16 O18
+
+counts
+
+80 60 40 20 0 0 1 2 3 4 5 6 7
+
+thickness (µm)
+
+b)
+
+140 120 100 80
+
+O16 O18
+
+counts
+
+60 40 20 0 0 1 2 3
+
+thickness (µm)
+
+c)
+
+10
+
+Figure
+
+5:
+
+Oxygen
+
+isotope
+
+experiments at 1000 °C in
+
+16O 2
+
+profiles
+
+and
+
+after
+
+18O , 2
+
+two-stage
+
+a) Fe-20Cr-5Al, b)
+
+oxidation
+
+aluminised Fe-30Cr and c) FeAl intermetallics.
+
+Discussion
+The Fe-20Cr-5Al steels, aluminised Fe-30Cr steels and FeAl intermetallic compounds oxidation curves obey the parabolic rate law. T>1000 °C. At lower temperature, the Fe-20Cr-5Al steel exhibited a kp value two order of magnitude lower than the values determined for the aluminised steel and the intermetallics. Grabke et al. [44] exposed Arrhenius plots of kp together with the corresponding alumina phases formed on NiAl: -Al2O3 at T>950 °C, -Al2O3 at 850<T<950 °C and Al2O3 at T<850 °C. The comparison of our results to the Grabke's steels all over the temperature range (from 800 to 1200 °C), that Arrhenius plots evidences that -Al2O3 is formed on the Fe-20Cr-5Al kp values deduced from the parabolic plots are comparable for
+
+transient alumina phases ( and ) grow at low temperature for the aluminised samples and the intermetallic FeAl compounds, whereas last specimens. These conclusions are confirmed by the observation of the oxide morphologies and above all by the XRD analyses, which identify transient alumina phases at low temperature for the aluminised steels and the FeAl specimens. Al2O3 is the main thermally grown phase for T>1000 °C on these two
+
+The three tested materials possess better high temperature behaviour with the presence of yttrium or yttria, verifying hence the beneficial effects of the so-called reactive elements [45]. Note that for the aluminised steels, the way to introduce the yttria has a major influence on its high temperature oxidation performance. When it is introduced after the aluminisation process, the yttria coating does not improve the oxidation resistance; the oxidation rate and the weight gain during 100 h oxidation tests are higher, compared to those of the undoped aluminised samples. This detrimental phenomenon was already observed [33,46,47] and attributed to an "overdoping" effect and bad
+
+11
+
+incorporation of the reactive element within the growing alumina scale, inhibiting then any beneficial effect of the reactive element. The oxidation mechanisms were clarified at 1000 °C on the Fe-20Cr-
+
+5Al steels, the aluminised Fe-30Cr steels and the FeAl intermetallic aluminium participate to the growth of the alumina scales. Two-stage
+
+compounds. Both inward diffusion of oxygen and outward diffusion of oxidation experiments at lower temperature (800 °C for example) are
+
+actually in progress to understand the effect of the presence of grown alumina scales.
+
+transient alumina phases on the transport mechanism of the thermally
+
+Conlusions
+The oxidation behaviour of Fe-20Cr-5Al steels, pack cemented aluminised Fe-30Cr steels and FeAl intermetallic compounds were tested in air between 800 and 1200°C. Kinetic results and XRD characterisation evidenced that the alumina scales were composed of (-Al2O3 and -Al2O3) were identified at lower temperature (T<1000 °C) for the aluminised and the FeAl specimens. -Al2O3 was the main phase even at 800 °C for the Fe-20Cr-5Al steel. The introduction of yttrium or yttria gave the well known reactive element effect, which consisted in decreasing the oxidation rate and improving the oxide scale adherence. For the aluminised samples, the beneficial effects were observed when the yttria coating was applied prior to the aluminisation. Outward diffusion of aluminium and inward diffusion of oxygen constituted the main diffusive specie paths during the growth of the alumina scales at 1000 °C. The comparison of the preliminary results clearly evidenced that pack aluminisation or the use of FeAl intermetallic could replace FeCrAl steels in order to form protective alumina scales, even if it is obviously -Al2O3 at high temperature (T>1000 °C). Transient alumina phases
+
+12
+
+to early to relate the base material microstructure to the alumina scale growth mechanisms.
+
+Ackowledgments
+The authors are thankful to Dr G. Strehl (Post-doc at the University of Burgundy) for the two-stage oxidation experiments and to S. Weber (Ecole des Mines, Nancy, France) for the SNMS profiles. A part of this (YM 00346). study was performed with the financial support of a PROCOPE program
+
+References
+
+Elsevier Applied Science Publishers Ltd, p408, 1988.
+
+1 `Growth of alumina scales', P. Kofstad, High Temperature Corrosion,
+
+2 `Corrosion behavior', E. A. Aitken, Intermetallics Compounds, J.H. Wetsbrook Ed.,p491, 1967.
+
+3 `The oxidation behavior of intermetallics compounds', G.H. Meier and F.S. Pettit, Materials Sciences Engineering, A153, pp548-560, 1992.
+
+4 `Fundamentals of TiAl oxidation-A critical review', A.Rahmel, W.J. 1995.
+
+Quadakkers and M. Schütze, Materials and Corrosion, 46, pp271-285,
+
+5 `The oxidation of NiAl', H.J. Grabke, M.W. Brumm, B. Wagemann,
+
+Materials and Corrosion, 47, pp675-677, 1996.
+
+6 `Oxidation of -FeAl and Fe-Al alloys', I.Rommerskirchen, B. Eltester, H.J. Grabke, Materials and Corrosion, 47, pp646-649, 1996.
+
+13
+
+7
+
+Materials and Corrosion, 48, pp1-9, 1997.
+
+`Oxidation
+
+of
+
+intermetallics-Japanese
+
+activity',
+
+S.
+
+Taniguchi,
+
+8 `State of Intermetallics development', G. Sauthoff, Oxidation of
+
+Intermetallics, H.J. Grabke and M. Schütze Ed., p3, 1988.
+`Research on oxidation and embrittlement of
+
+9
+
+Grabke and M. Schütze Ed., p15, 1988.
+
+compounds in the U.S.', G.H. Meier, Oxidation of Intermetallics, H.J.
+
+intermetallic
+
+10 `Pack cementation aluminide coatings on superalloys: codeposition
+
+of Cr and Reactive elements', R. Bianco, R.A. Rapp, Journal of
+
+Electrochemical Society, 140, pp1181-1190, 1993.
+
+251-254, pp149-162, 1997.
+
+11 `Oxidation of aluminides', H.J. Grabke, Materials Science Forum,
+
+12 `Controlled formation of surface layers by pack aluminization', L. Levin, A. Ginzburg, L. Klinger, T. Werber, A. Katsman, P. Schaaf,
+
+Surface and Coatings Technology, 106, pp209-213, 1998.
+
+13 `Simultaneous aluminzing and chromizing of steels to form pp19-31, 1998.
+
+(Fe,Cr)3Al coatings', M. Zheng, R.A. Rapp, Oxidation of Metals, 49,
+
+14 `Evolution of aluminide coating microstructure on nickel-base cast superalloy CM-247 in a single-step high-activity aluminizing process', 29A, pp2173-2188, 1998. D.K. Das, V. Singh, S.V. Joshi, Metallurgical and Materials Transactions,
+
+15 `Oxidation resistant coating for gamma titanium aluminides by pack cementation', H. Mabuchi, H. Tsuda, T. Kawakami, S. Nakamatsu, T. Matsui, K. Morii, Scripta Materialia, 41, pp511-516, 1999.
+
+temperature oxidation properties', CH. Koo, T.H. Yu, Surface and
+
+16 `Pack cementation coatings on Ti3Al-Nb alloys to modify the high-
+
+Coatings Technology, 126, pp171-180, 2000.
+
+14
+
+17 `A study on aluminide and Cr-modified aluminide coatings on TiAl alloys by pack cementation method', C. Zhou, H.Xu, S. Gong, Y. Yang, K.Y. Smith, Surface and Coatings Technology, 132, pp117-123, 2000.
+
+18 `Synthesis of nickel-aluminide foams by pack-aluminization of 2001.
+
+nickel foams', A.M. Hodge, D.C. Dunand, Intermetallics, 9, pp581-589,
+
+19 `Critical role of minor elemental constituents on the life time oxidation behaviour of FeCrAl-RE alloys', Quadakkers, V. Guttmann, P.A. Beaven, H. Al-Badairy, G.J. Tatlock, R. Newton, J.R. Nicholls, G. Strehl, G. Borchardt, J. Le Coze, B. Jönsson, A. Westerlund, Proc. of Workshop on Life Time modelling of high D. Naumenko, W.J.
+
+temperature corrosion process, Frankfurt, February 2001.
+
+20 `Analytical electron-microscopy study of the breakdown of -Al2O3 scales formed on oxide dispersion-strengthened alloys', B.A. Pint, A.J. Garratt-Reed, L.W. Hobbs, Oxidation of Metals, 56, pp119-145, 2001.
+
+21 `Comparative study of the alumina-scale integrity on MA 956 and PM 2000 alloys', J.L. Gonzalez-Carrasco, M.C. Garcia-Alonso, M.A. 221, 2001. Montealegre, M.L. Escudero, J. Chao, Oxidation of Metals, 55, pp209-
+
+22 `Addition of yttrium, cerium and hafnium to combat the deleterious effect of sulfur impurity during oxidation of an Ni-Cr-Al alloy', A.S. Khanna, C. Wasserfhur, W.J. Quadakkers, H. Nickel, Materials Science
+
+and Engineering, A120, pp185-191, 1989.
+
+23 `Some observations on the effects of sulfur and active elements on the oxidation of Fe-Cr-Al alloys', C. Forest and J.H. Davidson,
+
+Oxidation of Metals, 43, pp479-490, 1995.
+
+24 `The effects of reactive element additions and sulfur removal on the and J.L. Smialek, Materials and Corrosion, 46, pp232-240, 1995.
+
+adherence of alumina to Ni-and Fe-base alloys', G.H. Meier, F.S. Pettit
+
+15
+
+25 `The effect of yttrium and sulfur on the oxidation of FeCrAl', C.
+
+Mennicke, E. Schumann, C. Ulrich and M. Rühle, Materials Science
+
+Forum, 251-254, pp389-396, 1997.
+
+351, 1999.
+
+26 `Beyond the sulfur effect', P. Hou, Oxidation of Metals, 52, pp337-
+
+27 `Oxidative recession, sulfur release and Al2O3 spallation for Ydoped alloys', J.L. Smialek, Scripta Materialia, 45, pp1327-1333, 2001.
+
+Z.A.Munir, E.Gaffet, F.Charlot, F.Bernard, US PAtent n°6 200 515 B1, 13th of March 2001. 29 `One-Step
+
+28 `One-step synthesis and consolidation of nano-phase materials',
+
+Aluminide', F. Bernard, F. Charlot, E. Gaffet, Z.A. Munir, Journal of
+
+Synthesis
+
+and
+
+Consolidation
+
+of
+
+Nanophase
+
+Iron
+
+American Ceramic Society, 84, pp910-914, 2001.
+
+30 `Synthesis of nanostructured NbAl3 by mechanical and field
+
+Intermetallics, 9, pp571-580, 2001.
+
+activation', V. Gauthier, F. Bernard, E. Gaffet, Z.A. Munir, J.P. Larpin,
+
+31 `Simultaneous synthesis and consolidation of nanostructured
+
+MoSi2', Ch. Gras, F. Bernard, F. Charlot, E. Gaffet, Z.A. Munir, Journal of
+
+Material Research, 1, pp1-8, 2002.
+
+32 `Reactivity Study of a Dense Nanostructured MoSi2 Produced from MAFAPAS', F. Bernard , C. Gras, J.P. Larpin, C. Valot , E. Gaffet E, ZA.Munir, International Journal of SHS, 11, pp279-287, 2002.
+
+the effect of alloying elements: overdoping', J. Klöwer, Materials and
+
+33 `Factors affecting the oxidation behaviour of thin Fe-Cr-Al. Part II:
+
+Corrosion, 51, pp373-385, 2000.
+
+34 `Aluminide coatings on stainless steels by pack cementation: high
+
+Annales de Chimie Science des Matériaux, accepted.
+
+temperature reactivity', C. Houngninou, S. Chevalier, J.P. Larpin,
+
+16
+
+35 `Metal-Organic Chemical Vapor Deposition of Cr2O3 and Nd2O3 coatings. Oxide growth kinetics and characterization', S. Chevalier, G. pp125-133, 2000. Bonnet, J.C. Colson and J.P. Larpin, Applied Surface Science, 167,
+
+36 `Tracer isotope distribution in growing oxide scale', S.N. Basu and J.W. Halloran, Oxidation of Metals, 27, pp143-155, 1987. Borchardt, Oxidation of Metals, 36, pp317-337, 1991.
+
+37 `On the oxidation mechanism of alumina formers', J. Jedlinski, G.
+
+38 `A combined approach : Isotopic exposure / SIMS analysis / SEM to
+
+Graham, G.I. Sproule, D.F. Mitchell, G. Borchardt, A. Bernasik, Materials
+
+study the early stages of oxidation of -NiAl at 1473K', J.Jedlinski, M.J.
+
+and Corrosion, 46, pp297-305, 1995.
+
+39 `Composition and growth mechanism of alumina scales on FeCrAlbased alloys determined by SNMS', W.J. Quadakkers, A. Elschner, W. Speier, H. Nickel, Applied Surface Science, 52, pp271-287, 1991.
+
+40 `18O/SIMS characterization of the growth mechanism of doped and
+
+Metals, 39, pp167-195, 1993.
+
+undoped -Al2O3', B.A. Pint, J.R. Martin, L.W. Hobbs, Oxidation of
+
+41 `The effect of yttrium on the growth process and microstructure of G.I. Sproule and M.J. Graham, Oxidation of Metals, 49, pp455-466, 1998. -Al2O3 on FeCrAl', C. Mennicke, E. Schumann, M. Rühle, R.J. Hussey,
+
+42 `Characterization and growth of oxide films', M.J. Graham, R.J. Hussey, Corrosion Science, 44, pp319-330, 2002.
+
+43 `Application of TEM and SNMS in the thermally grown alumina scale study', S. Chevalier, J.P. LArpin, G. Strehl, G. Borchardt, K. Przybylski,
+
+Materials at High Temperatures, accepted.
+
+44 `The oxidation of NiAl', H.J. Grabke, M.W. Brumm, B. Wagemann,
+
+Materials and Corrosion, 47, pp675-677, 1996.
+17
+
+45 `The role of active elements in the oxidation behaviour of high temperature metals and alloys', E. Lang Ed., 1988. 46 `Effect of reactive element oxide coatings on the high temperature
+
+oxidation behavior of a FeCrAl alloy', P.Y. Hou, Z.R. Shui, G.Y. Chuang, 1992.
+
+J. Stringer, Journal of the Electrochemical Society, 139, pp1119-1126,
+
+47 `Limitations on the use of surface doping for improving high30, 1994. temperature oxidation resistance', B.A. Pint, MRS Bulletin, 19, pp26-
+
+18
+

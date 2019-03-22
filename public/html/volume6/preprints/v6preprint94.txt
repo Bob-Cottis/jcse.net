@@ -1,0 +1,261 @@
+Volume 6 Paper H051
+
+The Slag Corrosion Behaviour Of Laser Surface Treated Refractory Ceramics
+D. Triantafyllidis1, 2, F.H. Stott1, L.Li2
+1
+
+Corrosion and Protection Centre, UMIST, Sackville Street, P.O. Box 88, Manchester M60 1QD, U.K, Laser Processing Research Centre, Department of Mechanical, Aerospace and Manufacturing Engineering, UMIST, Sackville Street, P.O. Box 88, Manchester M60 1QD, U.K.
+
+2
+
+Email: d.triantafylldis@student.umist.ac.uk
+
+Abstract
+High-alumina refractory ceramic systems have been widely and successfully used for applications in corrosive environments. In by weight Cr2O3, provide increased resistance to slag corrosion, particular, refractory systems, rich in Al2O3 and containing about 5% making their use very economical in waste incinerators. Degradation in those environments results mainly from slag penetration through the porous ceramic and local chemical attack due to the inhomogeneities in the material. Laser surface treatment of refractory ceramics, by melting and re-solidification, is a very efficient process for producing pore-free, untreated surfaces. Recent research in the field has resulted in crackfree surfaces, eliminating a major drawback to laser treatment of ceramics, i.e. the development of crack-networks upon solidification. The present paper follows an investigation of the slag corrosion behaviour of a laser surface treated refractory ceramic in a molten homogeneous and smoother surfaces compared to
+
+slag. The material is a high-Al2O3, Cr2O3-containing ceramic exposed for 500 hours at 1250°C to molten slag from a waste incineration plant. Typical crack-free and cracked laser-treated surfaces are compared in terms of the chemical interaction between the slag/lasertreated zone interface, slag penetration and spalling of the treated zone. The corrosion behaviour of the laser surface treated ceramic is
+
+also compared with that of untreated surfaces and an overall assessment of the effects of laser surface treatment on the corrosion resistance of the material to molten slag has been made.
+
+Keywords: slag corrosion, laser surface treatment, refractory ceramics
+
+1. Introduction
+High alumina refractory systems have been widely and successfully used in applications in corrosive environments. Yang and Chan [1] evaluated the corrosion resistance and the microstructures of commercial products of four Cr2O3-free and two Cr2O3-containing high alumina refractories in a rotary slag test. The resistance of the Cr2O3-containing refractories to corrosion by the slag was higher than that of the Cr2O3-free refractories. In some of the latter, cracks were developed parallel to the slag/brick interface and would have resulted in spalling of ceramic if the test exposure had been longer. According refractories was due to the formation of a dense, high melting temperature, Chromium-rich spinel oxide layer at the slag/refractory interface. Moreover, the authors detected an impermeable layer in the bricks immediately adjacent to the interface that could restrict slag penetration. This layer was formed by the crystallisation of fibrous mullite at the test temperature, probably facilitated by the presence of Cr2O3, from corundum and silica minerals. Yamaguchi [2] investigated the sintering of materials in the Al2O3Cr3O3-SiO2 system and concluded that chromium oxide reacted with promoted densification. Konsztowicz and Boutin [3] performed corrosion tests involving porous, high alumina refractories (88% Al2O3, 2 mullite to form rectangular crystals of (Al,Cr)2O3 solid solution, which to the authors, the higher corrosion resistance of the Cr2O3-containing
+
+8% SiO2, etc) in slags and found the refractories to be heavily corroded
+
+[4] investigated the influence of the matrix microstructure of high alumina refractories on corrosion resistance, and concluded that pore desirable
+
+due to slag penetration through interconnected pores. Frohlich et al
+
+size is important in corrosion in slags, with smaller pores being since penetration is not allowed due to surface tension effects. Kashcheev and Semyannikov [5] verified the above conclusion
+
+by investigating the influence of porosity of refractories in terms of corrosion resistance and concluded that a reduction in open porosity and pore size leads to a reduction in slag penetration. The authors argue that the pore size is very important, since slag cannot enter into capillaries measuring less than 5 µm because of the surface tension effects. Godard et al [6] tested various refractories in air-fuel and oxy-fuel display maximum physical and chemical stability whereas silica refractories and many materials containing silicate phases were thermodynamically unstable under the test conditions and showed significant corrosion. Mukai [7] analysed the characteristics of the corrosion of silica-based refractory walls by different types of slag films in an argon environment. Local corrosion of the refractory material at the slag surface was caused by the active motion of the slag film formed by the wettability between the refractory and the slag; the slag film motion accelerated the dissolution rate of the refractory and induced abrasion of the refractories. Orlova et al. [8] investigated the corrosion resistance of various refractory materials in an ironcontaining glass melt. A high alumina refractory showed very good corrosion resistance. Lasers have been employed successfully for surface melting and resolidification of ceramic materials, offering the advantage that the process is independent of the high hardness and brittleness of the material. One particular problem arising from using lasers for surface melting of alumina-based ceramics is the development of thermallyinduced cracks on solidification, resulting from the very high thermal gradients and cooling rates, and the brittleness of these particular materials. 3
+
+combustion conditions. Fused cast alumina refractories were found to
+
+The general problem of crack-free laser surface treatment of aluminabased ceramics was dealt with by Lee and ZumGahr using pre-heating techniques [9]. They studied the surface treatment of dense and porous compact Al2O3 ceramics using a CO2 laser source and a furnace commercial alumina ceramics with different porosity levels. A densified smooth surface was produced, with some thermally-induced cracks. ceramics using a CO2 laser source. The samples were pre-heated in a Lambert et al [10] examined the surface treatment of alumina-based heating chamber prior to processing. No cracks were generated in the centre of the laser-treated areas. Bradley et al [11,12] examined the surface modification of two types of alumina-based ceramics using different light sources (CO2 laser, diode laser and arc lamp). A surface that was pore-free, amorphous and smoother and harder than that of the untreated material was developed. In all the cases, thermallyinduced cracks were produced on the treated surfaces. To eliminate the problem of crack formation, the authors employed a pre-heating technique using a oxy-acetylene flame [13]. The treated samples were crack-free and maintained the main characteristics of samples that were treated without pre-heating. Triantafyllidis et al. [14,15] processed high alumina refractory ceramics using a dual beam arrangement with a CO2 and a diode laser and achieved dense, homogeneous and crack-free surfaces.
+
+as pre-heating source. Laser treatment was performed on two
+
+2. Experimental Procedures
+The material used for this study was Resistal KR85C refractory ceramic, manufactured by RHI Dinaris GmbH (Table 1). The porosity of the techniques and found to be 14.1 ± 0.9 %. as-received material was measured using image analysis
+
+4
+
+ceramic [16]
+
+Table 1. Chemical composition of the Al2O3-based refractory
+
+Constituent Al2O3 SiO2 Cr2O3 P2O5
+
+Content (Weight %) 82 8.5 5.5 1.9
+
+Laser surface processing was performed using a 1.3 kW Rofin-Sinar CO2 (10.6 µm) laser (TEM01*) operating in continuous mode. Effective (dia. 3 mm; laser power 650 W) at a traverse speed of 10 mm/sec. The samples processed at this speed contained thermally-induced cracks. An investigation of the possible effects of surface cracks (possible penetration sites) on the corrosion behaviour of the ceramic material in molten slag was to be carried out. Therefore, it was essential to produce crack-free laser-treated surfaces. This was achieved with a power density of 6 W/mm2 (dia. 12 mm; laser power 680 W) at a processing speed of 0.4 mm/sec. Large area processing was achieved by overlapping laser tracks by 50% of the beam diameter, to achieve a uniform treated depth. All the treated surfaces were pore-free. The samples were cut to 15x15x10 mm3 prior to the corrosion tests. surface treatment was achieved with a power density of 92 W/mm2
+
+The slag used for the experiments was a waste slag taken from a plant used to incinerate industrial and domestic waste. The refractory ceramic materials tested are currently used as internal lining in the secondary combustion chamber of the incineration chamber, at a service temperature of 1150°C. The approximate chemical composition of the slag was determined (Table 2).
+
+5
+
+Table 2. Chemical composition of the slag Constituent SiO2 Fe2O3 P2O3 Al2O3 NiO CaO Na2O TiO2 MgO K2O Content (Weight %) 34.7 12.4 10.3 9.9 7.9 7.3 6.7 4.5 4.4 1.9
+
+A layer of slag, in a solid state, was placed on the top surface of the samples, laid horizontally on specimen holders, prior to being placed in the hot zone of a high-temperature tube furnace. A schematical representation of the test apparatus is shown in Figure 1. Dry air was passed through the tube at 40 ml/min. The test was conducted at a temperature of 1250°C for 500 hours. This temperature was higher than the in-plant service temperature to achieve a more corrosive environment and accelerate the corrosion process. The slag was in a high viscosity, molten state and covered the sample surface.
+
+6
+
+Figure 1. Schematic representation of the slag corrosion test rig
+
+After the required exposure time, the samples were removed from the tube Investigations. The sections were ground and polished to 6 µm before being examined with an AMRAY 1810 SEM, incorporating EDX. furnace and cut across the centre for cross-sectional
+
+3. Results
+Secondary electron micrographs of cross sections of the exposed samples are given in Figures 2-10. Figure 2 shows the general morphology and characteristics of the slag/ceramic interface for an untreated material at low magnification. Figures 3 and 4 are micrographs from two areas of the same interface at a higher magnification; these show the microstructural and morphological features of the interface and any differences from the slag and the bulk refractory ceramic. Figure 5 presents a general view of slag/material interface for a laser-treated, crack-free surface, at low magnification, while Fiures 6 and 7 focus on two areas of this interface. The general morphology of the interface between the slag and a cracked, laser-treated surface is shown in Figure 8. The morphological and microstructural features of this interface at two locations are shown in Figures 9 and 10 at a higher magnification. the
+
+7
+
+500 µm
+
+Figure 2. Back scattered electron micrograph of the general morphology of the untreated refractory/slag interface
+
+A
+
+B
+100 µm
+
+Figure 3. Detail of Figure 2
+
+100 µm
+
+Figure 4. Detail of Figure 2 8
+
+500 µm
+
+Figure 5. Back scattered electron micrograph of the general morphology of the crack-free laser surface treated refractory/slag interface
+
+A
+
+B
+100 µm
+
+Figure 6. Detail of Figure 5
+
+100 µm
+
+Figure 7. Detail of Figure 5 9
+
+200 µm
+
+Figure 8. Back scattered electron micrograph of the general morphology of the cracked laser surface treated refractory/slag interface
+
+A
+
+B
+
+100 µm
+
+Figure 9. Detail of Figure 8
+
+100 µm
+
+Figure 10. Detail of Figure 8 10
+
+The microstructural characteristics of the material/slag interface shown in Figure 3 reveal the formation of a layer, which has a "grey" colour (denoted by A), and a darker matrix on each side of the layer (denoted by B). Similar features are observed in Figure 4; in this case, however, the interface layer is not continuous but consists of particles, dispersed in a continuous matrix. The elements detected by EDX in the interface layer, A, a complex oxide spinel, were O, Al, Cr, Fe, Mg, Ni. A components, is given in Table 3. Table 4 shows the representative The composition of the matrix B is consistent with mullite. representative composition of the spinel, in terms of its oxide composition of the matrix, B, where O, Al, Si, Fe, Ca, Na were detected.
+
+Table 3. Representative composition of interface layer, A, for the untreated material/slag interface
+Constituent Al2O3 FeO MgO Cr2O3 NiO Content (Weight %) 47.6 41.4 4.6 3.5 2.9
+
+11
+
+Table 4. Representative composition of interface matrix, B, for the untreated material/slag interface
+Constituent Al2O3 SiO2 CaO FeO Na2O Content (Weight %) 50.8 33.9 12.7 1.6 1.0
+
+The microstructural features of the material/slag interface for the crack-free laser-treated surface (Figures 6 and 7) are similar to those of the untreated material. An interface layer (A) is formed, surrounded by a matrix (B). The representative compositions of layer A and matrix B, in terms of their oxides, are given in Tables 5 and 6 respectively, based on EDX analysis.
+
+Table 5. Representative composition of interface layer, A, for the crack-free laser-treated material/slag interface
+Constituent Al2O3 FeO Cr2O3 MgO NiO Content (Weight %) 54.8 29.3 6.4 5.3 4.2
+
+12
+
+Table 6. Representative composition of interface matrix, B, for the crack-free laser-treated material/slag interface
+Constituent Al2O3 SiO2 CaO FeO Na2O Content (Weight %) 51.2 33.6 10.2 2.3 1.6
+
+Similar features were observed for the cracked, laser-treated ceramic surfaces. Figures 9 and 10 are micrographs that reveal this microstructure, with the interface layer, A, and the interface matrix, B, being marked. Tables 7 and 8 give the composition of the layer and the matrix in terms of their representative oxides. These micrographs show the treated refractory surface only, indicating that formation of the interface layer and matrix takes place by diffusion of elements in the refractory surface.
+
+Table 7. Representative composition of interface layer, A, for the cracked laser-treated material/slag interface
+Constituent Al2O3 FeO Cr2O3 MgO NiO
+
+Content (Weight %) 58.5 28.6 5.4 5.2 2.3
+
+13
+
+Table 8. Representative composition of interface matrix, B, for the cracked laser-treated material/slag interface
+Constituent Al2O3 SiO2 CaO Na2O FeO Content (Weight %) 52.3 37.9 6.4 1.9 1.5
+
+4. Discussion of Results
+Figures 2, 5 and 8 show the general morphological features of the material/slag interface. The slag appears less porous than the untreated material in Figure 2; there are, however, some large pores and cracks at the interface. The pores developed due to gases entrapped while the slag was melting; these remained entrapped in the interface. The cracks probably formed during the cooling stage. The slag also contains cracks, although these do not penetrate into the untreated material. The interface layer is not uniform and the penetration depth differs from area to area, due to the open porosity and the inhomogeneities in the refractory material. The thickness of the uniform, continuous interface layer (A) (Figure 3) is about 210 µm. Apart from in this region, the interface layer was not continuous, but consisted of isolated particles, dispersed in the interface matrix. The maximum depth of penetration of these discontinuous particles was estimated to be 400 µm. The particles are clearly visible in Figure 4, where they have penetrated to a depth of about 175 µm. Conversely, in the crack-free laser-treated material/slag interface (Figures 6 and 7), the layer was almost uniform and continuous, with particles being 14
+
+formed very close to each other and interconnected in some areas. The
+
+maximum thickness of this layer was 120 µm. The corresponding thickness of the layer for the cracked laser surface treated/slag interface was about 175 µm. Based on the values of the thickness of that the molten slag penetrated through the open pores of the the interface particles. The thicknesses of the layer for the crack-free the layer and the associated maximum penetration depth, it is clear untreated refractory surface to greater depths, leading to formation of and the cracked surfaces were relatively close to each other, the slightly higher value of the cracked surface may be attributed to some molten slag penetration through the cracks of the treated surface. Figure 8 shows the surface of the laser-treated zone after the slag corrosion test. It is clear from this micrograph and those in Figures 27 that the interface layer and the matrix are formed in the ceramic material surface rather than in the slag surface, suggesting a diffusion process of the corrosion species in the molten slag towards the solid surface. As seen in Figure 5, some cracks extended from the interface to the treated zone. It appears that these cracks were initiated at the interface, during the cooling stage. Cracks are not detected in the cracked laser-treated/slag interface (Fig. 8), maybe due to the preexistence of cracks in the laser-treated zone, formed during laser surface and the accommodation of any thermal strains developed during cooling of the treated zone/slag interface. The interface layer, A, is a complex spinel oxide solid solution, based on a FeAl2O4-type normal spinel [17]. The presence of Mg, Cr and Ni, however, leads to a spinel solid solution, with a general chemical untreated material, (Fe0.69, Mg0.21, Ni0.10) (Al0.93, Cr0.07)2 O4, in the case of crack-free laser-treated surface and (Fe0.68, Mg0.27, Ni0.05) (Al0.94, Cr0.06)2 O4 in the case of the cracked laser-treated surface. In the solid solution, the Mg2+ and Ni2+ ions occupy the tetrahedral sites, normally occupied by Al3+ ions in the normal spinel structure. The formation of 15 occupied by Fe2+ ions, whereas Cr3+ ions occupy the octahedral sites formula (Fe0.79, Mg0.15, Ni0.06) (Al0.96, Cr0.04)2 O4, in the case of the
+
+processing, which allowed some expansion and contraction of the
+
+the spinel results from Cr2O3 dissolving in the slag at the interface;
+
+with the presence of the other oxides in the slag (FeO, MgO, NiO), this leads to the precipitation of oxide with of the complicated spinel structure. Generally, these spinel types are dense, with high melting points. Those that have their Al3+ ions replaced by Cr3+ ions have temperatures of 2150°C and 2400°C respectively while those of higher melting temperatures (e.g. FeCr2O4 and MgAl2O4 have melting
+
+FeAl2O4 and MgAl2O4 are 1780°C and 2135°C respectively) [1]. This means that the presence of Cr ions in the spinel structure shifts the melting temperature of the spinel to higher values. This dense and high melting point spinel is expected to act as a barrier to ingress of corrosion species and retard retard any corrosion process. As given in Tables 3, 5 and 7, the Cr2O3 content in the untreated refractory/slag interface is lower than the corresponding value for the crack-free and the cracked laser-treated refractory ceramics. This may be due to the inhomogeneous structure of the untreated surface and the non-uniform distribution of the oxide compounds, which may lead areas. This reduces its availability for formation of the spinel solid solution. Laser melting and re-solidification results in a bi-phasic homogeneous structure [15]. Hence, the availability of Cr2O3 (which is present in the treated zone as a solid solution with Al2O3) is uniform along the surface. The non-uniformity of the untreated refractory surface is also the reason for the non-uniform thickness and morphology of the interface layer. As shown in Figure 2, the layer appears aggregates,whereas it occurs as isolated particles when in contact with the refractory matrix. The aggregates are particles rich in either Fe, Cr or Al oxides. Therefore, they supply the essential elements for precipitaton of the spinel oxide. When the slag is in contact with the matrix, these species are less abundant and the interface cannot become saturated with respect to the species required for spinel formation, mainly Al2O3, and the interface contains isolated particles. In the case of the laser-treated surfaces, the uniform distribution of the spinel-forming species leads to uniform precipitation and an interface layer that mainly consists of closely spaced or, even, interconnected particles. 16 to be continuous and uniform above some to a decrease in the amount of Cr2O3 in the refractory surface in some
+
+The interface layer particles were surrounded by an interface matrix. CaO present in much smaller concentrations, consistent with a mullite
+
+As seen from Tables 4, 6 and 8, this matrix is Al2O3-SiO2 based, with layer. This grew from the corundum and silica minerals, present as aggregates in the untreated material, and in the matrix respectively. In the laser-treated surface, mullite grew from the Al2O3-SiO2 solid solution phase while the surrounding matrix contained large amounts of SiO2. The growth is similar to solid phase sintering of mullite from The presence of CaO in the mullite structure would probably lead to the formation of a high melting temperature solid solution [1]. Mullite formation also results in a volume expansion (between 5 to 10 %). This expansion caused closure of the pores in the interface between the untreated refractory surface and the slag. Moreover, during cooling, it resulted in differential thermal contraction across the crack-free lasertreated surface/slag interface, and formation of the cracks observed in Figure 5. Such differential thermal contraction and the subsequent strains were accommodated by the pre-existent cracks in the cracked laser-treated/slag interface. Al2O3 and SiO2, activated by the high temperature at the interface [1].
+
+5. Conclusions
+Slag corrosion of Cr2O3-containing, Al2O3-based refractory ceramics, leads to the formation of a complicated spinel solid solution in the interface, either as a continuous layer or as isolated particles. This spinel is surrounded by a mullite-based matrix. The formation of the spinel and the matrix is a diffusion-controlled process, with corrosive species from the slag dissolving the oxides in the ceramic at the interface. The layer and the matrix are dense and have high melting points; hence, they are able to increase the corrosion resistance. Laser surface treatment produces a homogeneous and pore-free surface, which, subsequently, results in a uniform and almost continuous spinel oxide layer along the interface. Furthermore, the spinel formed in the laser-treated zone/slag interface is richer in Cr than the one formed at the untreated material/slag interface, hence, it is denser with a higher melting temperature. The thickness of the spinel layer 17
+
+(about half of the maximum thickness of the layer for the untreated material) remains almost uniform along the interface, due to a lack of sites for penetration of slag. The mullite matrix, however, has a differential contraction coefficient that is significantly different from of cracks on cooling.
+
+that of the crack-free laser-treated surface, resulting in the formation
+
+Acknowledgements
+The authors are grateful for the funding provided by EPSRC (GR/N08124). They would also like to thank Dr. C. Ashcroft and Mr. P. Rogers from Cleanaway Ltd, Dr. R. Bayliss from Morgan Materials Technology, Dr. J. Spencer from BNFL and Mr. D. Bailey from Plasma Thermal Coatings for their support to the research.
+
+References
+
+1
+
+`Corrosion
+
+Resistance
+
+and
+
+Microstructure
+
+of
+
+High
+
+Alumina
+
+Journal of the American Ceramic Society, 7, pp1074-1077, 1990,
+Yamaguchi, Ceramics International, 12, pp19-24, 1986
+
+Refractories based on the Rotary Slag Test', H.Y. Yang, C.F. Chan,
+
+2 `Sintering of Compositions in the System Al2O3-Cr3O3-SiO2', A.
+
+3 `Study of Porosity in Corroded Refractories', K. J. Konsztowicz, J., Boutin, Journal of the American Ceramic Society, 76, pp1169-76 1993
+
+4 `Microstructure of High Alumina Refractory Building Materials and its Influence on Corrosion', L. Frohlich, M. Frohlichova, G. Janak, T. Lohay,
+
+Metallurgy, 39, pp119-123, 2000
+
+5 `Role of Structural Factors in Improving the Corrosion Resistance of pp449-453, 1993,
+
+Refractories', I.D. Kashcheev, V.P. Semyannikov, Refractories, 34,
+
+18
+
+6 `Refractory Corrosion behaviour under Air-Fuel and Oxy-Fuel
+
+Environments', H.T. Godard, L.H. Kotacska, J.F. Wosinski, Ceramic
+
+Engineering and Science Proceedings, 18, pp180-207, 1997
+
+7 `Marangoni Flows and Corrosion of Refractory Walls', K. Mukai, pp1015-1026, 1998
+
+Philosophical Transactions of The Royal Society of London A, 356,
+8 `Corrosion of Refractory Materials in Iron-Containing Melts', L.A.
+
+53, pp18-21, 1996
+
+Orlova, S.A. Zhilichev, O. N. Borisova, A.E. Kuleva, Glass and Ceramics,
+
+9 `Surface Treatment of Al2O3 Ceramics by CO2 Lasers', S.Z. Lee, K.H. Zum Gahr, Materials Wissenschaft und Werkstofftechnik, 23, pp117123, 1992
+
+B. Marple, B. Arsenault, Proceedings of the International Symposium on pp515-525, 1993
+
+10 `Laser Surface Modification of Al2O3-Based Ceramics', P. Lambert,
+
+Developments and Applications of Ceramics and New Metal Alloys,
+
+11 `Characteristics of the Microstructure of Alumina-Based Refractory Materials Treated with CO2 and Diode Lasers', L. Bradley, L. Li, F.H. Stott, Applied Surface Science, 138-139, pp233-2139, 1999
+
+12 `Surface Modification of Alumina-Based Refractories Using a Xenon Arc Lamp', L. Bradley, L. Li, F.H. Stott, Applied Surface Science, 154155, pp675-681, 2000
+
+13 `Flame-Assisted Laser Surface Treatment of Refractory Materials
+
+For Crack-Free Densification', L. Bradley, L. Li, F.H Stott, Materials
+
+Science & Engineering A, 278, pp204-212, 2000
+
+14 `Surface Treatment of Alumina-Based Cearmics Using Combined laser Sources', D. Triantafyllidis, L. Li, F.H. Stott, Applied Surface Science,186, pp140-144, 2002
+
+19
+
+15 `Dual Laser Beam Modification of High Alumina Ceramics' D. Triantafyllidis, L. Li, F.H. Stott, Journal of Laser Applications, 15, pp4955, 2003
+
+16 Resistal KR85C Technical Data Sheet No 593, RHI Dinaris GmBH, 2000 17 `Introduction to Ceramics', W.D. Kingery, 2nd Edition, John Wiley & Sons, 1976
+
+20
+

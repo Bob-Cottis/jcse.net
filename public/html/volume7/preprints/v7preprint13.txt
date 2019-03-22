@@ -1,0 +1,163 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 13
+EVALUATION OF CORROSION INHIBITORS BY HARMONIC ANALYSIS
+S. Sathiyanarayanan and G. Venkatachari
+Central Electrochemical Research Institute, Karaikudi- 630 006
+
+Abstract Various electrochemical methods such as tafel polarization, linear polarization and impedance methods are used for evaluation of corrosion inhibitors. Among the
+various electrochemical methods for measurement of corrosion rate of metals, the harmonic current analysis method is highly useful since the corrosion current can be obtained without the usage of tafel constants at corrosion potential. The applicability of this method has been examined for iron in 1M H2SO4 containing o-phenylene diamine inhibitor. Keywords: corrosion inhibition, harmonic currents, Tafel, EIS, LPR
+
+Introduction
+Monitoring of metallic corrosion assumes greater importance because of the huge loss caused by material deterioration. Many online monitoring methods are being increasingly adopted and newer techniques are being explored. The latter assumes significance since no single technique could be employed for all practical situations. Though methods based on linear polarization resistance and electrical resistance were commonly employed for online monitoring, they still have limitations. The former one requires the prior knowledge of Tafel constants while the later one can be used only in the condition where uniform corrosion takes place. Measurement of interfacial impedance values at low and high frequencies have been suggested as an alternative, the results are complicated and interpretation becomes difficult if more than one time constant exists. Following Rangarajan [1], Devay and Meszaros [2] proposed the new method of corrosion monitoring at corrosion potential by measuring the fundamental, second and third harmonic currents from the current response by perturbing a corroding system with a nondistorted sinusoidal signal of low amplitude. This method has the advantages of nonrequirement of prior knowledge of Tafel constants and measuring instantaneous corrosion rate within a very sort duration. Theory The current potential relationship of a corroding electrode can be represented by
+
+..(1)
+
+i
+
+
+
+i
+
+corr
+
+ 2.3 b  a e 
+
+2.3
+
+e
+
+bc   
+
+When such a corroding system is perturbed by a non-distorted sinusoidal signal having angular frequency  and amplitude E at corrosion potential then the equation (1) takes the form
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+..(2)
+
+i
+
+
+
+i
+
+corr
+
+ 2.3 ESint ba  e 
+
+e
+
+2.3 ESint
+
+bc   
+
+Because of the exponential (non-linear) characteristics of the above relationship, the resultant current contains, in addition to the fundamental harmonic current having frequency , higher harmonics of frequency k (k=1,2,3,..). Simplifying the above expression by expanding the exponential terms by Fourier ­ Bessel functions and approximating with Taylor polynomial will lead to
+
+..(3a)
+
+i
+
+corr
+
+ 48 2
+
+i
+1
+
+2 2 2
+
+1 3
+
+ii
+
+
+
+i
+2 3
+
+1 ..(3b)
+
+b
+
+
+
+a
+
+1 2.3E
+
+ i1   i corr   i1   icorr 
+
+4
+
+i  i  i  i 
+2 3
+
+1 ..(3c)
+
+b
+
+
+
+c
+
+1 2.3E
+
+4
+
+Where ba < bc and equations 3b and 3c are interchanged if ba > bc. i1, i2 and i3 are the amplitudes of fundamental, second and third harmonic currents respectively. Thus by measuring the first three harmonic currents, the corrosion current density value can be obtained without the use of tafel constants. The usefulness of this technique has been examined for iron in hydrochloric acid [3], iron and zinc in hydrochloric acid [4], iron in 3 % NaCl [5,6] and steel rebar in concrete[7,8]. In this paper, the application of this method in evaluating the efficiency of the phenylenediamine inhibitor is presented.
+
+Experimental
+Pure iron electrode with effective area of 1 cm2 was used as working electrode. A larger area platinum foil as auxillary electrode and saturated calomel electrode as reference electrode were used. The working electrode was polished with 1/0, 2/0, 3/0 and 4/0 emery papers, degreased with trichloroethylene. Solutions were made using analar grade chemicals with triple distilled water. Block diagram of the experimental setup is shown in figure.
+
+SINE WAVE GENERATOR
+
+POTENTIOSTAT
+
+SIGNAL PROCESSOR
+
+CORROSION CELL
+
+2
+
+A 10 mV amplitude sine wave of specific frequency was potentiostatically impressed to the corrosion cell using EG&G Electrochemical system and the current response was analysed using a Dynamic Signal Analyser (HP 35665A).
+
+Results And Discussion
+The fundamental, second and third harmonic currents of the iron in 1 M H2SO4 is presented in Table ­ I. Table ­ I : Results of Harmonic Analysis System for iron in 1M H2SO4 Time Min 5 10 15 20 25 30 Harmonic Currents, A/cm2 i2 i3 24.39 17.65 22.86 17.35 17.11 14.94 17.19 15.34 10.95 13.64 13.22 13.62
+
+i1 950.9 919.5 812.8 759.8 725.6 712.7
+
+icorr 718.7 688.8 615.5 549.4 541.9 528.5
+
+After 30 minutes of immersion, conventional electrochemical impedance spectroscopy, linear polarization resistance and tafel extrapolation were done to confirm the corrosion current density values obtained from HAS and other methods the results are presented in Table ­ II. The charge transfer resistance Rct obtained from EIS and the polarization resistance Rp obtained from LPR were used in the Stern-Geary equation for getting icorr values. Table ­ II : Corrosion current density values obtained from other methods for iron in 1M H2SO4 Method EIS LPR Tafel icorr, A/cm2 567.4 582.4 448.8
+
+Perusal of the Table II and comparing it with Table I clearly shows the excellent agreement with the data obtained from the conventional electrochemical methods and HAS. But the measurement of harmonic currents and hence the corrosion current density can be done within a short duration of 2 minutes. The inhibition effect of 0.5 M o-phenylene diamine is analysed by measuring harmonic currents for every 5 minutes for a period of 30 minutes and the results are shown in Table ­ III Table ­ III : Results of Harmonic Analysis System for iron in 1M H2SO4 with 0.5 M ophenylenediamine Time Min 5 10 15 Harmonic Currents, A/cm2 i2 i3 83,93 19.30 75,71 15.89 75.33 14.63
+
+i1 577.2 499.5 474.2
+
+icorr 389.6 357.7 358.4
+
+3
+
+20 25 30
+
+436.3 418.1 423.8
+
+69.90 69.39 72.29
+
+13.66 13.36 13.63
+
+327.7 316.5 325.9
+
+The corresponding corrosion current densities obtained by other conventional electrochemical methods after 30 minutes of immersion is presented in Table - IV Table ­ IV : Corrosion current density values obtained from other methods Method EIS LPR Tafel icorr, A/cm2 367.4 382.4 348.8
+
+Data from these tables III and IV show very good agreement in the corrosion rate. Monitoring of corrosion rate with time, that too with very short time intervals facilitates the possibility of studying the kinetics and of corrosion inhibition by an inhibitor. More over, the non-dependence of some other method to get tafel constants for getting corrosion current density values at this very low perturbation is the great advantage of this method.
+
+Conclusions
+This investigation clearly explores the potential application of harmonic analysis system for the evaluation of inhibition efficiency of o-pheynylene diamine in iron 1M H2SO4.
+
+Acknowledgements
+The authors thank the Director, Central Electrochemical research Institute, Karaikudi6 for his keen interest and encouragement.
+
+References 1. 2. 3. 4. 5. 6. 7. 8. S.K. Rangarajan, J.Electroanal. Chem., 62 (1975) 62. J. Devay and L. Meszaros, Acta Chim. Acad Hung., 100 (1979) 183. S. Sathiyanarayanan and K. Balakrishnan, Brit. Corros. J., 29 (1991) 152. G. Venkatachari and K. Balakrishnan, Proc. 10th Int. Cong. Met. Corrosion, Madras, India, November, CERI (1987) 4107. J.S. Gill, L.M. Callow and J.D. Scantlebury, Corrosion, 39 (1983) 61. S. Sathiyanarayanan, G. Venkatachari, N.S.Rengaswamy and K. Balakrishnan, Paper No. 209, Proc. 13th ICCC, Nov. 96. K.Lawson and J.D. Scantelbury, Mater. Sci. Forum., 44-45 (1989) 387. 4107. S. Srinivasan, G. Venkatachari and N. S. Rengaswamy, PaperNo. 210, Proc. 13th ICCC, Nov. 96
+
+4
+

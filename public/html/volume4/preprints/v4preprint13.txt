@@ -1,0 +1,479 @@
+A review of galvanic anode cathodic protection design procedure
+A. Meillier, Corrosion Control Services Limited, 6 Hollinswood Court, Stafford
+Park 1, Telford TF3 3DE
+
+Abstract Electrochemistry is a physical science. As a general definition physical sciences apply mathematical equations, making some assumptions in order to predict/explain phenomena/mechanism occurring in the natural environment. The mechanism of cathodic protection in seawater has been covered exhaustively elsewhere and the intent of this paper is to focus on the procedure of the galvanic (sacrificial) anode cathodic protection design applied in the industry field and guided by specifications, standards and recommended practices. The object of the paper is more to raise questions rather than provide answers. Introduction
+
+Sacrificial anode cathodic protection is considered as a cost effective solution for a variety of submerged marine structures and is the oldest form of cathodic protection. Sacrificial anodes for marine applications are predominantly either aluminium or zinc, Al alloy anode materials are mostly preferred due to their higher electrochemical efficiency which reduce considerably the total weight installed on a structure and provide a more cost effective cathodic protection system than second alloy anodes. A wide range of structures immersed in seawater have been protected by cathodic protection (since 1824, Sir Humphry Davy) using either impressed or galvanic systems. The latter have been/are extensively and successfully used in the oil and gas industry for offshore platforms in the last 30 years in order to supplement or replace existing cathodic protection systems. Retrofits using impressed current systems have been used but generally sacrificial anode retrofits are preferred due to several factors such as simplicity of individual components, better current distribution achieved throughout the structures, etc...[1]. The main reason is due to the mechanical vulnerability of impressed current system components (anodes and cables), therefore applications of such systems to stationary structures in open water are limited and they are more widely used in sheltered coastal waters [2]. A European standard, recently published, covers the specific case of harbour installations and defines the application of cathodic protection to the immersed and buried metallic
+
+1
+
+external surfaces of steel harbour installations and appurtenances in seawater and saline mud [3]. The author has been involved in various cathodic protection designs for ports and harbours throughout the UK and overseas and can attest of the increasing demand of the British ports and harbours authorities in requiring CP for their installations. These are mainly in order to fight a supposedly new form of microbiologically induced corrosion called Accelerated Low Water Corrosion (ALWC) visible on large numbers of immersed metallic components (tubular steel piles and sheet piles) and often occurring at the lowest astronomical tide level. The author can also attest that the majority of these authorities dictate in their specifications the sole use of galvanic CP system principally for their high reliability and low maintenance requirements. Design Tasks This section describes the different steps to be undertaken in the marine cathodic protection design calculations including formulae commonly used. This procedure is defined in DNV RP B401 1993 and this recommended practice has gained acceptance by offshore operators and regulatory bodies worldwide [4]. It should be pointed out that the sequence of design tasks adopted in this document may not always be the most convenient, the sequence may thus be changed to suit individual case. Current requirement and protection potential The current demand required to protect the steel structure is determined by the following formula:
+
+I =i× A× f
+where I: ic : A: f: Current required in Amps Current density required in A/m2 Surface area to be protected m2 Coating breakdown factor
+
+Equation 1
+
+The area of bare steel to be protected is usually calculated from drawings and knowledge of the actual structure and must account for all electrically continuous steelwork exposed to the electrolyte. The primary variable design variable parameter are the design current densities ic (initial, average and final). The actual cathodic current density is a complex function of various marine environment parameters such as temperature, oxygen content, water
+
+2
+
+velocity, seawater chemical composition, seawater resistivity, pH, water depth, seabed composition, possible biological activity in the seabed, erosion condition (with some of the parameters being interdependent) [5]. It is important that the correct current density demand is assigned for design purposes. Several documents quoted these key factors in different climatic zones with DNV expressing these values in four climatic zones based on average surface water temperature and two depths ( 30 m and < 30 m) while BS EN 13174:2001 indicates specific values for harbour installations in function of the aeration and the tidal flow of the seawater. These are the values required to polarise the object to a potential more negative than ­800 mV with respect to Ag/AgCl/seawater reference electrode. These values are also dependent of the local marine environment activity and composition as cathodic kinetics are usually shifted because of changes in the environment (due to variations in flow rate, temperature, oxygen content, etc) then the current demand at a particular potential will also change [6]. The current density needed is not constant with time. For bare steel structures, the initial design current density should be high enough to ensure adequate polarisation within a reasonable lapse of time, e.g. 1 or 2 month [5]; then the necessary current density will decrease due to the formation of calcareous deposits caused by the cathodic current. Formation of such layers is influenced by the seawater's calcium carbonate saturation, which is a function of the influence of the temperature on the solubility constant and biological activity affecting the pH of the seawater [2]. It is also believed that the properties of this natural coating is influenced by the level of current density involving a porous behaviour at high current density (more frequently encountered with impressed system) and thus a less effective role in term of isolation [7]. Conversely, it is also proposed that a low current density will result in the deposition of an inferior calcareous deposit [2] and that the optimum film quality is established by current densities of around the "initial" values in the DNV recommended practice. The average (or maintenance) current density is an important parameter to assess as it is used in the sacrificial anode CP design to calculate the required total anode net mass. The re-polarisation design current density should be high enough to give protection during storms periods after major marine growth removal works which both induce a depolarisation of the structure. The cathodic protection system may be combined with a suitable coating system. The coating reduces the current demand and improves the current distribution. The current demand of coated surfaces increases with time as the coating deteriorates. Various numerical models can be found in different standards and recommended practices but the coating breakdown factors to be attributed to the three different periods mentioned previously are parameters difficult to assess and it is appreciated that they represent a high uncertainty. The progressive breakdown of a coating is dependent on various environmental factors and the quality control during surface preparation and coating
+
+3
+
+application and operators are encouraged to use their own experience in determining the coating breakdown values [2].
+
+Anode mass requirements The total net mass of sacrificial anode material is determined from the following formula:
+M = Im×t×8760 u×
+
+Equation 2
+
+where The maintenance current demand in Amps Design life in years Utilisation factor Electrochemical capacity of anode material in Ah/Kg And 8760 corresponds to the number of hours per year. The utilisation factor indicates at which stage of the dissolution process the anode is no longer reliable in term of provision of current. Beyond the predefined point the anode performance becomes unpredictable due to loss of support of anode material and/or increase of anode resistance to a value where it can no longer deliver the maintenance or final (re-polarising) current densities. Im : t: u: :
+
+Anode to electrolyte resistance (or resistance to earth) The anode to electrolyte resistance is an important parameter in order to predict the current output of an anode (given by Ohm's law, see next paragraph). The resistance R used in the Ohm's law contains the anode to electrolyte (Ra/e), structure to electrolyte (Rs/e), internal structure (Rs) and cabling (Rc) resistances. The last three are normally negligible in a Offshore sacrificial CP design and the remaining resistance, i.e. anode to electrolyte, is the most if not the only significant one to define. There exists a veritable deluge of equations that are used to define anode to electrolyte resistances within their respective limits. DNV RP B401 (1993) and other standards [3,4,5] gives recommended anode resistance formulas for various anode shapes of sacrificial anodes, they are enumerated below.
+
+4
+
+Long slender stand off (L  4r)
+R=
+
+ ln 4L -1 2L r
+
+[( )]
+( ) + 2rL - 1+(2rL ) 
+2 2
+
+Equation 3
+
+Short slender stand off (L<4r)    2L   ln R= 1+ 1+ r 2L   r  2L  
+
+
+
+Equation 3
+
+Long flush mounted (L  width and thickness)  R= 2S
+
+Equation 4
+
+Short flush mounted, bracelet and other flush mounted shapes 0.315 Equation 5 R= A With:  : Seawater resistivity (cm) L : Length of anode (cm) r : Radius (cm) A : Exposed anode surface area (cm2) S : Arithmetic mean of anode length and width (cm)
+
+DNV RP B401 (1993) dictates that equation 3 and 4 are suitable for cylindrically shaped anodes (or trapezoidal) and are only applicable to slender anodes mounted at least 30 cm from the nearest structure steel surface. The distance between this surface and the anode is referred as the "stand off" of the anode. It is often thought that a small stand off would reduce the cathode area which the anode can protect. Equation 3 was published in 1936 by H. B. Dwight and it is more widely known as the modified Dwight Formula [8]. Two formulae are present in the original article, however the expressions are based upon the average potential method of calculating the electrical capacitance of a remote charged cylinder ; and the above mentioned equation was proposed for an infinitely buried or submerged at an infinite distance from any counter electrode or cathode. In practical cases an anode is certainly not remote to the surface on which it is installed and industry has been using the modified
+
+5
+
+Dwight formula for many years. C. de Waard in an article published in 1994 [9] attested that a history of misquotes of this formula followed, many of them associated with the fact that L was originally defined as half the length of the anode. The modified Dwight formula can be regarded as a derived for an infinitely submerged cylinder which has a factor of 2 instead of 4 in the logarithmic term and it is thought that a good argument for this modification does not really exist. It should be noted that in a book published by a French technical committee for the research and exploitation in the oil and gas industry [10] several anode resistances were compiled: the modified Dwight formula was defined to be used when the anode is placed vertically (close to the surface) or in offshore applications, and the original Dwight formula to be used when the anode is placed vertically or horizontally but deeply buried or immersed. The latter practical application enumerated is obviously closer to the theoretical requirements defined in the Dwight's document but no published field applications verifying the accuracy of this statement is known to the author. Equation 4 is known as the Sunde formula [11]. Like the Dwight equation, it is based on the average potential method and it is recommended to use for short slender stand off anodes as it allows for lower length/radius ratio and the reader should notice that this formula reduces to the Dwight equation for values L>>r (a correlation between these formulas is shown in Figure 1). Equation 6 was introduced by J. E. McCoy [12], an Australian corrosion engineer. He proposed it to determine an approximate resistance based on area for any anode shape. As mentioned above this formula is applied when the anode is flush-mounted or is a short flush-mounted bracelet when one face of the anode is in direct contact with the structure. The evolution of the resistance throughout the dissolution process using Dwight, Sunde and McCoy equation for a stand off cylindrical anode has been plotted (Fig. 2) and reveals that McCoy values are far smaller than the others. It confirms mathematically the requirement of DNV to solely use this formula for flush-mounted even if the original McCoy document mentioned that the anode is considered as remote. An other formula frequently encountered in the industry field is the so-called Peterson formula [13] and its expression is similar to the McCoy`s one (equation 7).
+
+R=
+
+ 0.58A
+0.757
+
+Equation 7
+
+This equation was derived empirically from measured resistances obtained from impressed current anode arrays mounted on a 1500 feet steel sea wall cathode (unpolarised) [13]. Peterson's resistance, like McCoy's, is a function of the anode's surface area exposed to the electrolyte and its geometric shape. Therefore this
+
+6
+
+expression can be used in the application for flush-mounted or short flush-mounted bracelet. The resistance calculated by the Peterson's formula differs considerably from the one given by the McCoy's formula thus affecting the expected current output at a same driving voltage (Figure3).
+
+Protection potential and anode current output To predict the current output of protective current from a sacrificial anode the voltage between anode and cathode (driving voltage) is divided by the resistance of the anode to the electrolyte:
+
+I = V R
+
+Equation 8
+
+The accepted criterion for protection of steel in aerated seawater is a polarised potential more negative than ­800 mV measured with respect to silver/silver chloride/seawater reference electrode. Therefore, for design purpose, the protection potential or cathode potential stated above is used in the equation. Standards such as BS EN 13174:2001, DNV RP B401 1993 and Bureau Veritas RPNR 423 DTO R00 E (July 1996) specify that for steel immersed in solutions which contain active sulphate reducing bacteria (anaerobic conditions), and therefore the possibility of microbiologically induced corrosion, a protection criteria of ­900 mV (Ag/AgCl/seawater reference electrode) or more negative is generally recommended. These documents state this protective potential as a criterion but it is not clear from the standards whether or not this potential has to be used in the above equation (thus involving a smaller anode current output compared to the use of the ­800 mV value) at the design stage. BS EN 13174:2001 states that the driving potential can be chosen from values ranging from 0.3 to 0.15 volts.
+
+DNV RP B401 (1993) also recommend a protective potential of ­900 mV versus Ag/AgCl/seawater reference electrode in anaerobic conditions as a cathodic protection criterion but then states: "The latter potential is then applicable as a criterion for monitoring that adequate protection has been achieved but does not affect the design calculations".
+
+A discussion of which protection potential should be used in the design stage and its possible consequence is present later in this paper.
+
+7
+
+The anode current output is calculated for the initial and final projected life of the cathodic protection system. In the latter case, the anodes have been assumed to be consumed to their utilisation factor. The final length and final mass are calculated thanks to the following formulae [4]:
+
+m(final) = m(initial) x (1-u) where m(final) : Final mass of anode (Kg) m(initial) : Initial mass of anode (Kg) u: Utilisation factor Note: this equation is valid for any anode shape ([4]. L(final) = L(initial) ­ 0.1 x u x L(initial) where L(final) : Final length of anode (cm) L(initial) : Initial length of anode (cm) u: Utilisation factor
+
+Equation 9
+
+Equation 9
+
+Note: From DNV this equation is only valid for slender stand off and long flushed mounted anodes. This formula is based on the assumption that a length reduction corresponding to 10 % of the net anode mass/volume reduction occurs when the anode has been consumed to its utilisation factor. Assuming the final shape is a cylinder (any anode shape through the dissolution process will lose its sharp angles and tend to become a cylindrical based shape) the resistance and the current output calculated and compared with the design current demand. Final checks For final verification the anode current capacity is calculated and is defined as: C =m xxu where C m  u : : : : Anode current capacity (Ah) Net per anode (Kg) Electrochemical capacity of anode (Ah/Kg) Utilisation factor Equation 10
+
+8
+
+Anode dimensions and net weight are selected to match all requirements for current output (initial and final) and current capacity for a specific number of anodes. In addition, final calculations are carried out to demonstrate that the following requirements are met:
+
+n x C  I(average) x t x 8760 where n C t and where n : I(ini/fin) : Ic(ini/fin) : : : : Number of anodes Current capacity(Ah) Design life of CP system (years) n x I(ini/fin)  Ic(ini/fin)
+
+Equation 11
+
+Equation 12
+
+Number of anodes Initial or final anode current output (A) Initial or final current demand (A)
+
+Basic Design example It is not possible to describe a typical structure; nevertheless an example (the reader could consider this example as extremely simple) has to be taken in order to apply sacrificial anode CP design procedure and to express several approaches of the author. The example is for a single vertical tubular steel pile with the following characteristics to receive cathodic protection. Pile external diameter Wall thickness Length in seawater Length in mud Surface area in seawater Surface area in mud design life Seawater resisitvity Sacrificial anode alloy 0.559 m 19 mm 8.13 m 15 m 14.3 m2 26.3 m2 20 years 30  cm Al-Zn-In Anode operating potential Electrochemical efficiency Alloy density Seawater initial current density Seawater average current density Seawater final current density Mud initial current density Mud average current density Mud final current density -1.1 V 2670 Ah/Kg 2750 Kg/m3 150 mA/m2 70 mA/m2 90 mA/m2 25 mA/m2 20 mA/m2 20 mA/m2
+
+9
+
+The corresponding current demand of the structure is then: Initial 0.66 2.14 2.8 Maintenance 0.53 0.99 1.52 Final 0.53 1.29 1.82
+
+Current demand in mud (A) Current demand in seawater (A) Total current demand (A)
+
+The total net mass of anode material is calculated as: M = 1.52* 20*8760/ 2670*0.85 = 117.82 Kg It has been decided to use one single long slender cylindrical aluminium anode (with stand off of 30 cm) with the following dimensions:
+
+Weight (Kg) Length (cm) Radius (cm) Steel core diameter (cm) Utilisation factor
+
+119 152.6 9.505 2.5 0.85
+
+The anode resistance is computed at the initial and final stage using equation 3 (Dwight formula) giving the corresponding current output of the anode in order to achieve a structure protective potential of more negative than ­800 mV with respect to Ag/AgCl/seawater reference electrode. The final resistance (when anode reach its utilisation factor of 85 %) is calculated by including the final length and final radius defined as following: L(final) = L(initial) ­ 0.1 x u x L(initial) = 152.6-0.1*0.85*152.6 = 139.63 cm and
+W × 1-u
+
+r final=
+
+×density×L final
+
+()
+
++
+
+(r core)
+
+2
+
+= 4.04 cm Equation 13
+
+with a utilisation factor as 0.85 and other values from table.
+
+10
+
+Using the previous formulae at each percentage of the dissolution process permits the plotting of the evolution of the resistance and current output throughout the life of the anode (Figure 4). The calculation of the several parameters enumerated previously are summarised in the following table:
+
+Initial Final
+
+Resistance (Ohms) 0.09894399 0.13431457
+
+Driving potential (V) 0.3 0.3
+
+Current (Amps) 3.03 2.23
+
+And with C = m x  x u = 119*2670*0.85 = 270071 Ah greater than I(average) 1.52* 20*8760= 266304 Ah
+
+x
+
+t
+
+x
+
+8760 =
+
+It has been demonstrated that by using a conventional cathodic protection procedure one aluminium anode of 119 Kg is adequate in protecting the steel pile for 20 years, but do we really calculate the actual anode life ? Sacrificial anode life A formula calculating the anode life can be found in BS EN 13174:2001 as:
+Life= M ×u× I ×8760 (with I the average output of the anode)
+
+Equation 14
+
+It should be notice that this equation a manipulation of equation 2 with the maintenance current (current demand from structure) replaced with the actual anode current output. It has been found in the literature that a derived equation of equation 14 should be used when calculating the anode life [14,15], it is simply a replacement of V/R for I:
+
+Life= M ×u× E ×8760 R
+
+Equation 15
+
+This formula implies that the average current output is the current at mid-life corresponding to the mid-point of consumption i.e. 85%/2= 42.5 % of the net weight.
+
+11
+
+By the mean of equation 9 and 13 the length and the radius at a certain percentage of dissolution process and therefore the resistance can be calculated. It has been decided to calculate the resistance corresponding from 37 to 47 % and obtain an average of these values giving a resistance of Rmean=0.109656 and an average output of 2.736 A. The calculated life is then: L= 119*0.85*2670/(2.736*8760)= 11.3 years
+
+Discussion The use of equation 15 implies that the cathodic protection system will not operate for the full design life. The equation is correct mathematically but differs from the actual situation in a galvanic couple, where the anode is expected to adjust its output automatically to compensate for changes in current requirements (current demand ) of the metallic structure to which it is attached. For design purpose the driving potential is attributed a value of 0.3 Volts corresponding to a steel/seawater protection potential of ­800 mV and an operating anode/seawater potential of ­1100 mV. This can be considered as a worst case giving the maximum current output of the anode as the purpose is to demonstrate that the anode has the ability to provide a current more than the demand. Life calculated in this manner can be accurate only if the initial and final output of the anode tend to be equal to the respective current demand. If this is so, the system will operate most of the time near the design protective potential of ­800 mV. Figure 5 illustrates the influence of the protecting potential (and thus the driving voltage) at mid-dissolution process on the anode life. It is also important to underline where this assumed current demand comes from; it is obtained by multiplying the current density demand (from standards) by the surface area of steel requiring protection . It is also well recognised that these values are conservative (i.e. are higher than the true situation): T. Sydberger et al [2] from DNV claim that a contingency factor of about 20% has been included in the current densities demand in DNV RP B401 (1993) and A.D. Willis [16] stated that values for initial and mean current density recommended by DNV are in the ratio of 2:1 but practical experience has shown the initial and operating current density ratio to be of the order of 4:1. B. R. Ridd et al [17] carried out a review of historical survey data from North Sea offshore platforms in service for approximately 25 to 30 years and came to the conclusion that the maintenance current densities to maintain protection of the structures are significantly less than prescribed by present day design codes.
+
+12
+
+There is evidence from an other study on a large number of offshore structures which are adequately monitored for both current and potential that the DNV and Bureau Veritas average current density requirement are over generous [18]. The second parameter (surface area of protection) has to be given detailed attention, as it is a key factor in the design process and the way it should be determined is discussed in the next paragraph. Surface area of protection/anodes distribution The steel surface area of protection is frequently chosen or assessed at the design stage; it is dependent on the anode characteristics and can be named as the extention influence of the anode. Various values of surface area of protection is quoted in the literature; a rule of thumb used in the offshore industry is given as 30 m2 of bare steel [19] or it is also claimed that an 500 Kg aluminium anode with a current output of 5 A is enough to protect 30-50 m2 of bare steel [16]. A simple approach determining this surface area can be applied to our example: the mean current demand is estimated to be 70 mA/m2, our anode exhibits a current output of maximum 3.03 A which will protect 3.03/70 = 43.28 m2 (maximum). It should be pointed out that these approaches take in account the maximum anode current output and it has been seen that this current output will rarely occur in a proper design. In the unlikely event that the anode current output was at the maximum the system life would be short. Also these techniques are not related to the complex parameters of the structure shapes (such as high steel surface areas per unit volume or long thin elements presenting large anode-cathode spacing). Complex computer models are now available to assist in defining the optimum anode distribution or individual surface area of protection [20]. But in our example attenuation calculations can be conducted to ensure that the anode chosen will protect the entire tubular steel pile. Several potential attenuation equation are found in the pipeline industry, Morgan [7] provided the earliest analytical treatment and is defined as: For attenuation along a finite pipeline (in our case tubular pile), from a single drain point the equation is: Ex = E0 x cosh a(L-x) / cosh aL Equation 16
+
+13
+
+At x = L Ex = E0 / cosh aL Since cosh 0 = 1 The definition of the symbols used in these equations are: Eo = change in potential at the anode drain point due to energising the unit  EL = change in potential at a distance L from a CP unit due to energising that unit Note: It is accepted that for submarine pipeline a Ecorr value of ­650 mV (Ag/AgCl/seawater reference electrode) should be used in the equations [20] (therefore the change in potential is calculated from this value). Steel resistivity (Ohm-m)  Pile cross sectional area (m2) Pile resistance per metre (Ohm/m) r Coating resistance (Ohm m2) see below Rc Coating/pile resistance (S/m) g Attenuation constant (m-1) a 1.8 10-7 0.0322 =  /Area =5.58 10 -6 10 =Pi*d/Rc=0.17562 =(r*g) 1/2 = 9.9 10 -4 Equation 17
+
+Typical values of coating resistance range from 103 ohm-m2 for a poor quality coating over 10 6 ohm-m2 for high quality coating [22] but for our case, the steel pile is bare and a value of 10 ohm-m2 for bare steel in seawater is advised (bearing in mind than no information are given concerning the characteristics of the calcareous layer) [10]. The total 23.1 m length pile has a length of 15 m in sediment and 8.1 m in contact with seawater. It is decided to place the mid-length of the anode at 6.1 m from the sea surface and the attenuation calculations were conducted as follow: Potential at end of section in mV (Ag/AgCl/seawater reference electrode) section 1 section 2 L= 6.1 m L= 17 m -1099 -1099 -899 -899 -799 -799
+
+Potential at drain point in mV (Ag/AgCl/seawater reference electrode) -1100 -900 -800
+
+From this latter calculation, it has been shown that the installation of a single anode can adequately protect the whole pile. It is also shown that the potentials at end of the section vary in the same manner with the potential next to the anode.
+
+14
+
+It should be noticed that in this example there is neither interference with another anode nor the presence of edge effects. In the case of a submarine pipelines, it is claimed that Morgan's model is expected to give non-conservative attenuations [21]. The model is limited because it is based on the assumption that the effective coating resistance controls the magnitude of polarisation, in fact, resistance of the electrolyte (anode) can also be influential. A more sophisticated model has been developed by P. Pierson et al which is believed to overcome the latter parameter [21]. It is important to underline that the use of Dwight formula for a long slender anode is well accepted only if the stand off is more than 30 cm. DNV give a correlation factor of 1,3 if the off set is 15 cm. C. de Waard evaluated the influence of anode-cathode resistance with a scaled model [9]. His study leads to a new equation (equation 18) which accounts for the effect of the anode-cathode distance and gives good description of the resistance values obtained from experiments with scaled models of practical anode geometry.
+
+R=
+
+ 0.93ln L +0.45ln a + r 2L r L
+
+[
+
+()
+
+( )]
+
+Equation 18
+
+with a: anode-cathode distance (stand off).
+
+Design to achieve protection potential of ­900 mV (Ag/AgCl/seawater reference electrode) It has been mentioned previously that when the environment is susceptible to microbiologically induced corrosion a protection potential of ­900 mV (Ag/AgCl/seawater reference electrode) should be applied. This would apply to environments which are anaerobic with the presence of sulphate reducing bacteria (SRB) or to Accelerated Low Water Corrosion (ALWC) conditions which are understood to support both SRB and sulphate oxidising bacteria (SOB). This protection potential (-950 mV versus Cu/CuSO4 reference electrode in this case) was firstly applied in the buried pipeline industry and show acceptable results. The widely accepted criterion of -950 mV versus Cu/CuSO4 for carbon steel in soil or water in presence of SRB is theoretically based on thermodynamic data on the Fe-S-H2O system which indicates that the equilibrium potential of Fe/Fe2+ shift in the negative direction with increasing H2S content in the solution [23]. The various current density standards/recommended practices values used in the offshore industry are intended to protect the steel structure to a potential of ­800 mV
+
+15
+
+(Ag/AgCl/seawater) but they are known to often result in protection of the steel to ­ 900 mV due to the thermodynamic argument described by the schematic diagram:
+½ O2 + H2O + 2 e  2OH
+-
+
+Potential Fe  Fe +2 e
+2+ -
+
+CP -800 mV -900 mV CP current
+
+log (i)
+
+Figure 6. Schematic Evans diagram for corrosion of steel in seawater
+
+The demand for protecting steel piled structures against Accelerated Low Water Corrosion (ALWC) by mean of cathodic protection has been increasingly important to the port and harbour authorities. A recent multinational project has been sponsored by the European Coal and Steel Community to determine the involvement of biological and physico-chemical factor in this process. Combining results of field and laboratory studies, the cause of accelerated low water corrosion could be identified as microbiologically influenced but the authors of the study suggest that the measured high rate of attack can not be explained with the current knowledge regarding seawater corrosion of carbon steel [24]. For design purpose, DNV recommends that the design driving potential should be 0.3 Volts, implying a protection potential of ­800 mV (Ag/AgCl/seawater) but the necessary protection criterion of ­900 mV (Ag/AgCl/seawater) is only used for monitoring purposes.
+
+16
+
+One additional check can be introduced to the design process by a simple numerical technique which permits to verification of whether the correct potential is applied [10]: E = Eanode - RI where Eanode : R: I: E: Operating potential of anode (-1.1 V) Anode resistance () Current demand = icd*Area Steel/electrolyte potential Equation 19
+
+Values of Figure 2 showing the anode/electrolyte resistance as a function of the dissolution process are used to superimpose the predicted worst potential throughout the life in Figure 7 (note: only the average current demand is used for the plot as initial and final current involve polarisation dynamics, so calculations at 1 to 3 % and 85 % are omitted for clarity). It can be deduced from Figure 7 that the expected protection potential (worst case) will be more negative than ­900 mV (Ag/AgCl/seawater) until 82 % of the dissolution process. The time when this potential is expected to be more positive than­900 mV can be evaluated as follows: The mass of anode material dissolved is calculated as: 119*0.82= 97.58 Kg. This last value is then used in the equation 15 but with I taken as the maintenance current demand: 97.58*2670/8760*1.52= 19.56 years.
+
+It should be remembered that the actual protection potential could be more negative than calculated as this numerical technique represents the worst case, as long as the assumed current densities icd is of sufficient magnitude. By using the recommendation of DNV it has been demonstrated that the structure will be protected at a potential more negative than ­900 mV almost throughout the life and a small period at a potential more negative than ­800 mV, subject to the sufficiency of the current density provision. Alternatively, if we reiterate the design process by including a driving potential of 0.2 Volts, it is detected at an early stage of the design procedure that the Aluminium anode chosen with weight, length and radius respectively of 119 Kg, 152.6 cm, 9.505
+
+17
+
+cm will not deliver enough current to polarise the structure and re-polarise at the beginning and at the end of the design life: Resistance (Ohms) 0.09894399 0.13431457 Driving potential (V) 0.2 0.2 Current (Amps) 2.03 1.47
+
+Initial Final
+
+The required minimum mass of anode material will remain the same as the same current demand is assumed; to meet this revised design process will involve the use of larger anode dimensions, which could either involves an excess of anode material or an anode with the same Al-Zn-In weight but elongated in length. The anode may be reduced in a cast diameter to maintain the optimum alloy mass or the core diameter may be increased (manufacturing requirements will often limit the available choice). If it is possible to obtain a such "modified" anode, the anode mass installation will be optimised and the new dimension are selected to give a larger current output, the resistance is predominantly reduced by increased length of anode rather than increased by reduced radius. An other option available to the designer in order to satisfy the current criterion is include a CP system not with a single anode but with several. It is decided to design a system with two anodes of the same weight with the following characteristic: Weight (Kg) Length (cm) Radius (cm) Steel core diameter (cm) Utilisation factor Current capacity (Ah) 60 133.7 7.2 2 0.85 136 170
+
+The nett mass of anode material criterion is still achieved and the current output of each anode is: Resistance (Ohms) 0.118127 0.157475 Driving potential (V) 0.2 0.2 Current (Amps) 1.69 1.27
+
+Initial Final
+
+The two anodes will then satisfy: Equation 11 2*136170= 272 340 Ah > 1.52*20*8760 = 266 304 Ah
+
+18
+
+And Equation 12 2*1.69 = 3.38 A > 2.8 A 2*1.27 = 2.54 A > 1.82 A
+
+The only drawback of the latter calculations is that the resistance of individual anode has been calculated without taking in account the interference factors which may occur when several anodes are operating in the same area. It should be highlighted that the two anodes are placed in the limited depth of seawater (8.1m). It is decided to install one anode near the water surface and the other one near the seabed, by this disposition the two anodes are spaced of 5 m. A well accepted formula can be found in the litterature giving the resistance to earth of a vertical groundbed with N anodes at spacing a metres distributed on a straight line [22,25]:
+
+R=
+
+ ln 4L -1+ 2L ln0.656N 2NL r a
+
+(
+
+)
+
+Equation 20
+
+In the oil and gas industry a formula is often encountered giving the resistance to earth of several anodes placed in a vertical deepwell groundbed:
+
+R= Ra×F N
+Where Ra: F: Dwight's formula Spacing factor calculated as below
+
+Equation 21
+
+F =1+
+
+ (ln 0.656N )  ×a×Ra
+
+Equation 22
+
+By substituting each term of equation 21 by their respective formulation, it leads to:
+
+R=
+
+  ln 4L -1 + (ln0.656N ) 2NL r Na
+
+(
+
+)
+
+Equation 23
+
+19
+
+Which leads to equation 20:
+
+R=
+
+ ln 4L -1+ 2L ln0.656N 2NL r a
+
+(
+
+)
+
+Equation 20
+
+This means that, with the current resistance formulas used in the industry, there is no apparent difference in the resistance if N anodes are placed along an horizontal line or a vertical line at the same spacing; this unlikely to be factual. It implies that the formula 20 can be used in order to calculate the equivalent resistance of the two anodes installed at a spacing of 5 m on the pile concerned. It should be noticed that a simple electrical formula giving the total resistance of two same resistances in parallel (this formula does not take in account the interference occurring in resistance to earth):
+
+1 =1+1=2 Rt R R R
+Or
+
+Equation 24
+
+Rt= R 2
+
+Equation 25
+
+It can be noticed from Figure 8 showing the variation of resistance for the two anodes concerned given by equation 25 and 20 in function of the spacing that, in our particular case, the spacing does not affect too much the total resistance. Resistances given by equation 20 and 25 are used to calculated the variation of potential during the dissolution process by mean of equation 19 with the same manner as before and it is represented by Figure 9. From Figure 9 and with the different assumptions made that by either the use of equation 20 or equation 25 the estimated protection potential will be more negative than the limit of ­900 mV (Ag/AgCl/seawater reference electrode)during the maintenance period. It is important to emphasise that both resistances were calculated throughout the dissolution process with the assumption that the two anodes are supposed to dissolve at the same rate. This assumption renders the estimation of protection potential evolution possible but it is thought that in the true situation the anodes may not
+
+20
+
+dissolve with the same manner: it is suspected that the anode placed near the surface will be more affected by the wave action involving a flow or turbulance factor which will require the anode to deliver a higher current to adjust the temporary modified current demand, on the other hand the anode placed near the seabed is close to an important surface area of steel (in mud) requiring a less important current demand than in seawater. It is known that anodes will automatically adjust their current output to the cathode current demand but are the anodes compensating each other ?
+
+Conclusions DNV RP B401 has gained acceptance by offshore operators and regulatory bodies worldwide to give the most complete design procedure. It is now well recognised that the different current density requirements in this and other Standards are excessive compared to various field studies for steel in aerobic seawater without significant influence of Microbiologically Induced Corrosion (MIC). It has been shown that the use of several resistance formulae give satisfactory results in the field but these do not necessary comply with the mathematical and/or physical assumptions in their respective original document. With the growing performances of the computer technology it can be expected that modifications of these formulae are susceptible to occur in the future. In complex structures, computer models may be of a great interest in term of current distribution and for optimising the CP system if the relationships between current density, potential, the environment and polarisation are adequately known and incorporated into the models. This paper underlines that the traditional approach to design has some important limitations. When the calculated anode current output reaches the value of current demand the "modified" anode life calculation introduced could detect a shorter life (bearing in mind that this calculation is dependent on the assumed current density and driving voltage used in the design procedure and not the real case one). It is also believed by the author that special care must be addressed to the surface area of protection (of individual anode) and interferences with other anodes which influences the individual current output of the anodes. This, in order to ensure adequate distribution of cathodic protection and to properly address the reduction in current output caused by "mutual interference" between closely spaced anodes. The mechanism of cathodic protection in seawater is complex and the evaluation in terms of potential behaviour presented in the paper has been established in order to predict the potential throughout the life (it should be considered as worst case). This calculation is based on the assumption of the surface area of protection is adequate and the current density demands are correct and it also did not take in account the initial current output delivered to polarise the object.
+
+21
+
+References
+
+[1]
+
+Wyatt B.S., Brittain R., Jones G.R., Further Experience in Offshore Structure Retrofit Cathodic Protection Systems, paper 148, Corrosion 80, NACE, Houston (1980) Sydberger T., Edwards J.D., Tiller I.B., Materials Performance, 36, 2 (1997): p.27 BS EN 13174:2001, Cathodic Protection for Harbour Installation, June 2001 DNV Recommended Practice RP B401 (1993), Cathodic Protection Design, Det Norke Veritas Industry AS, Hovik, 1993 Bureau Veritas Recommended Practice NR 423 DTO R00 E, Corrosion Protection of Steel Offshore Units and Installations, Courbevoie, July 1996 Scantlebury J.D., Corrosion Prevention by Cathodic Protection, UMIST, March 1993 Morgan J.H., Cathodic Protection, 2 nd edition, NACE, Houston Dwight H.B.,Calculations of Resistances to Ground, Electrical Engineering, December 1936: p. 1319-1329 De Warrd C., Materials Performance, 33, 2 (1994): p.17 Chambre Syndicale de la Recherche et de la Production du Pétrole et du Gaz Naturel, La Protection Cathodique : Guide Pratique, Edition Technip, Paris (1986) Sunde E.D., Earth Conduction Effects in Transmission Systems, Chapter 3, Dover Publications Inc., New York (1968) McCoy J.E., Corrosion Control by Cathodic Protection, Transactions of the Institute of Marine Engineering, Vol. 82, No 6, June 1970:p. 82-86 Peterson M.H., Waldron L.J., Naval Research Laboratory Reports 4891, (1957) Ecorr, Tutorial Cd ROM, Corrosion and Protection Centre, UMIST
+
+[2]
+
+[3] [4]
+
+[5]
+
+[6]
+
+[7] [8]
+
+[9] [10]
+
+[11]
+
+[12]
+
+[13]
+
+[14]
+
+22
+
+[15]
+
+Smith S. N., A New Approach to the Design of Retrofit Sacrificial Anodes, paper 1504, Corrosion 2001, NACE, Houston (2001) Willis A. D., Cathodic Protection of Novel Offshore Structures ,in Cathodic Protection Theory and Practice, 2nd International Conference, Stratford upon Avon, June (1989) Ridd B.R., Queen D.M.E., Bjornaas F., Osvoll H. North Sea Platform Cathodic Protection- A Performance vs Design Review, paper 357, Corrosion 99, NACE, Houston (1999) Wyatt B.S., Review of Recent Experience in the North Sea, Design and Operational Guidance on Cathodic Protection of Offshore Structures, Subsea Installations and Pipelines, The Marine Technology Directorate Limited, MTD Limited Publication 90/102 (1990) Scantlebury J.D.,Module E: Cathodic Protection and Organic Coatings, MSc in Corrosion Sciences and Engineering, Corrosion and Protection Centre, UMIST, (2001) Nisancioglou, K., Modelling for Cathodic Protection, in Cathodic Protection Theory and Practice, 2nd International Conference, Stratford upon Avon, June (1989) Pierson P., Hart H., Bethune K. P., Potential Attenuation and Anode Current Output Determination Alternatives for Marine Pipelines and Risers, paper 628, Corrosion 99, NACE, Houston (1999) Francis R., Cathodic Protection Advanced : Short Course, Australasian Corrosion Association, Melbourne (1997) Linder B., Swedish Corrosion Institute Report No. 55 467, Cathodic Protection of Steel Sheet Piling in Sea Water containing sulphate reducing bacteria (SRB), particularly with respect to Accelerated Low Water Corrosion (ALWC), 1999.
+
+[16]
+
+[17]
+
+[18]
+
+[19]
+
+[20]
+
+[21]
+
+[22]
+
+[23]
+
+[24]
+
+Gubner R., Beech I., Statistical Assessment of the Risk of the Accelerated Low Water Corrosion in the Marine Environment, paper 318, Corrosion 99, NACE, Houston (1999)
+
+23
+
+[25]
+
+A.W. Peabody, Peabody's Control of Pipeline Corrosion, 2 nd edition, Edited by R.L. Bianchetti, NACE, Houston (2001)
+
+1 0.9 0.8 Resistance (Ohm) 0.7 0.6 0.5 0.4 0.3 0.2 0.1 0 53.29 43 33 L/r ratio dwight Sunde 23 13 3
+
+Figure 1. Dwigth and Sunde Resistance versus L/r ratio (r=4.45 cm, L variable)
+
+0.135 0.13 0.125 resistance (Ohm) 0.12 0.115 0.11 0.105 0.1 0.095 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 dissolution process Dwight Sunde McCoy
+
+24
+
+0.35 Figure 2. Dwigth, Sunde and McCoy Resistance versus dissolution process (%)[Calculated for cylindrical Al anode of 119 Kg with radius = 9.5 cm and length = 152.6 cm] 0.3
+
+5 4.5 4
+
+0.25 Resistance (Ohm)
+
+3.5 Current (A) 3 2.5
+
+0.2
+
+0.15
+
+2 1.5 1
+
+0.1
+
+0.05 0.5 0 0 5 10 15 20 25 30 35 40 45 50 55 60 65 70 75 80 85 90 95 100 dissolution process McCoy Anode Resistance Peterson Anode Resistance I McCoy I Peterson 0
+
+Figure 3. McCoy and Peterson Resistance versus dissolution process (%)[Calculated for cylindrical Al anode of 119 Kg with radius = 9.5 cm and length = 152.6 cm]
+
+3,3 3,1 2,9 2,7 current (A) 2,5
+
+0,14 0,13 0,12 0,11 0,1 Resistance (Ohm)
+
+2,3 2,1
+
+25
+
+0,09 0,08
+
+Figure 4. Evolution of resistance and current output (with driving potential at 0.3V) throughout the dissolution process (%)[Calculated for cylindrical Al anode of 119 Kg with radius = 9.5 cm and length = 152.6 cm]
+3 40 35 30 2 Amps 25 20 15 10 0,5 5 0 0,3 0,275 0,25 0,225 0,2 0,175 0,15 0,125 0,1 Driving voltage (volts) Average Current Output Anode Life Years
+
+2,5
+
+1,5
+
+1
+
+0
+
+26
+
+Figure 5. Influence of driving potential on life calculated with equation 15.
+
+0.14
+
+-0.96 -0.95 Steel/sea Potential Vs AgCl (Volt) -0.94
+
+0.12
+
+0.1 -0.93 resistance (ohm) 0.08 -0.92 -0.91 -0.9 0.04 -0.89 0.02 -0.88 -0.87 4 7 10 13 16 19 22 25 28 31 34 37 40 43 46 49 52 55 58 61 64 67 70 73 76 79 82 dissolution process resistance Potential
+
+0.06
+
+0
+
+Figure 7. Estimated steel/ sea potential evolution throughout dissolution process using equation 19.
+
+0.13 0.12 0.11 tance (Ohm) 0.1 0.09
+
+27
+
+Figure 7. Influence of the addition of an anode on the equivalent resistance and difference between equation 20 and 25 when the spacing a is increased.
+-1.015 -1.01 -1.005 -1 -0.995 -0.99 -0.985
+
+teel/sea Potential Vs AgCl (Volt)
+
+28
+
+Figure 9. Estimated steel/sea potential evolution throughout dissolution process using equation 19 through equations 20 and 25.
+
+29
+

@@ -1,0 +1,82 @@
+Volume 6 Paper H069
+
+An Investigation on the Corrosion Behavior of Transfer lining Exchanger (TLE) in Olefin Plant of Arak Petrochemical Complex
+M.H. Shariat1, A.A. Riahi2, M.S. Aboutorabi3
+1Department
+
+of Materials Science & Engineering, Shiraz University, Shiraz, Iran, shariat@shirazu.ac.ir 2 Department of Materials Science and Engineering, Tarbaiat Modarres University, P.O. BOX 14115, Tehran, Iran, ariahy@yahoo.com 3Corrosion Centre, Arak Petrochemical Complex, Arak, Iran
+
+Abstract
+In Olefin plant of Arak Petrochemical Complex a Transfer Lining Exchanger (TLE) (A Quench Boiler) which is a vertical heat exchanger is used to quench the gasses coming from the cracking unit. The gasses at a temperature around 870 C coming out of cracking plant are passed through a diffuser to be distributed uniformly into the tubes of heat exchanger. D.M. water passes through the shell side which cools the gas. Relatively large holes were observed on the surface of water side of tube sheet. As the work of complex was very dependent on the performance of (TLE) a through investigation started with the help of were analyzed and the design of the TLE was altered. Examinations showed that the main reason of corrosion and generation of ho les on tube sheet is perhaps due to non-uniform distribution of heat and the presence of precipitate on the tube sheet, formed from the additives to the water, thus causing under deposit corrosion. Design alternation was performed and the TLE with considering the corrosion behavior was constructed. After two years in service, no corrosion on the unit has been reported and the unit has a good efficiency. In this paper the Shiraz and Tarbiat Moddares universities. The fouling on the tubes
+
+result of laboratory experiments and the techniques used to prevent corrosion is presented.
+
+Keywords: TLE, under deposit corrosion.
+
+Introduction
+Naphta is cracked in 860°C after being passed through the coils of the olefin furnace and the produced gases enter the tube side of the TLE. These gases leave the exchanger at a pressure of 0.5 bar and a water with the specification shown in Table 1 is pumped with a pressure of 135 bar into the convection section and from there to steam drum at 350°C and 115 bar. From the lower part of the steam drum, water is fed into the tube sheet which leaves the TLE after passing through the shell. To gain a better understanding a PFD of the above process is shown in figure 1. temperature of 390°C to the other parts of the process. Boiler feed
+
+A Brief Description of TLE
+Transfer Lining Exchanger is used for the purpose of cooling the gases produced from the cracking furnace and is usually known in the abbreviated form as TLE. A general view of it is shown in Figure 2. Tube sheet of the exchanger is a thin plate (15 mm) which is hold in place using a stiffening plate. Tube sheet is connected to this plate using some fingers to transfer the load from the tube sheet to the stiffening plate and then to the shell itself. Center of each tube is surrounded by four fingers to take the advantage of exerting no load on the tube sheet. The gap between tube sheet and stiffening plate is designed to allow for the upward flow of water into shell. There also exists in this section a number of nozzles for blow-down and inspection purposes. As a result of heat transfer from the tubes, vapor bubbles are formed near tube walls which tend to move upward in the shell. As the gases leaving are cooler than those entering it, the upper tube sheet has a lower thickness. In this section tubes are welded to tube sheet after being expanded. Water flow velocity in the surface of tube sheet is around 1 m/s. 2
+
+Observed Damages
+1. There is a considerable reduction in thickness observed in the gas around 5 mm. This could be due to impact of high velocity vapor bubbles. 2. In the welded joint between the tube and tube sheet a high degree of erosion due to gases are observed which makes the tubes loose in their place. side of the tube sheet. In some places thickness is reduced to
+
+3. In the water side of the tube sheet, large pits with dimensions in the range 15 to 20 mm and depth of 1 to 15 mm are observed. (Fig. 3 ). These have all led to the perforation of the part.
+
+Experimental Procedure
+Some are experiments were performed on deposits and boiler feed water. In Table 2 the results of a 1-month investigation on the water and in Table 3 the result of chemical analysis of deposits with cooperation of GE Betz are presented.
+
+Results and Discussion
+In high pressure boilers, mineral free water is usually used for the related purposes. These equipments contain a great amount of condensed water and points of very high temperature are also observed in them. These factors make the high pressure boilers susceptible to damage and failure against caustic soda. Hydroxide ion is the dominant anion in such boilers. So the boiler feed water is readily able to dissolve the Fe3O4 protective layer. It is said that great and a sodium ferro-ferrate is produced. This compound is then moved to regions near damaged areas and iron oxide is produced in these places. The liberated hydroxide ion could then damage the protective layer pH/phosphate ratio could be useful to control this type of damage. Phosphate accumulation of the hydroxide ions. The mechanism could be best 3 acts as a buffering agent and prevents the local at other places. Addition of phosphates to adjust the amounts of caustic soda is mixed by magnetite with some mechanisms
+
+explained by the hydrolysis of sodium tri-phosphate according to the followingreactions. Na3 PO4 + H 2O = NaOH + Na2 HPO4 NaH 2 PO4 + H 2O = H 3 PO4 + NaOH (1) (2)
+
+In the early investigations cavitation was considered as the main damage mechanism. But regarding this fact that surface was covered with deposits in some parts, this theory was disapproved.
+
+Conclusion
+1. To avoid overheating of the cone connected to TLE, it's been coated with refractory material from inside. The purpose of this work is to help make uniform the distribution of gases and maintaining their flow in the laminar range. Sometimes as a result of thermal stresses at shut-down times and in general gas erosion, the refractory must be repaired. It's obvious that the designed shape cannot be exactly rebuilt, so we will face the problem of non-uniformity of the flow on the surface of tube sheet and overheating is the result on some points on the tube sheet. 2. Presence of oxygen due to inefficiency of deairator and hydrazine injection and also improper preservation could be blamed for the observed damages. As a result, places with higher temperatures could be easily attacked by oxygen. 3. Thermal differential cell in the inlet water nozzle is another cause of overheating. 4. Under deposit corrosion in the form of caustic gauging is the other major cause of damage.
+
+Recommendations
+1. A basket of the material Incolloy was installed in the connection to tube sheet to make the flow distribution uniform. A schematic of this is shown in figure 4. 2. Using flush-nozzle at shut-down times may help improve the cleanliness of the tube sheet surface. 4
+
+3. Minute control of water treatment including phosphates, hydrazine and pH control.
+
+4. Hard facing heat treatment to improve resistance to corrosion and erosion.
+
+5. Using a continuous blow-down to prevent the increase of mineral concentration in the water. References: 1- Corrosion in the Petrochemical Industry, ASM, edited by: Linda Gaverick, 1997 2- Metals Handbook, Vol.13, 9th Edition, 1990 3- Uhlig's Corrosion Handbook, 2nd Edition, by R.Winston, 2000. 4- Materials Science and Technology, R.W.Cahn, 2000.
+
+5
+
+Table 1. Boiler Feed Water Specification General Requirements Conductivity (at 25°C) pH-value Oxygen Total Iron Total Copper Silica Total carbon dioxide Hardness Nonvolatile Oily matter Less than 0.2 Greater than 9 Less than 0.020 Less than 0.020 Less than 0.003 Less than 0.02 Not detectable Not detectable Less than 5 Less than 0.5 ppm (as C) ppm ppm ppm ppm ppm Clear and colorless Micro S/m
+
+Table 2. Results of water analysis in a 1-month period DATE 77.1.1 77.1.2 77.1.3 77.1.4 77.1.5 77.1.6 77.1.7 pH 9.5 9.6 9.4 9.4 9.7 10.9 10.8 COND 29 32 24 23 28 284 151 PO4 4.8 5.3 4.8 3 3.3 61 17.4
+
+6
+
+77.1.8 77.1.9 77.1.10 77.1.11 77.1.12 77.1.15 77.1.16 77.1.17 77.1.18 77.1.19 77.1.20 77.1.21 77.1.22 77.1.23 77.1.24 77.1.31
+
+10.4 10.1 9.8 9.2 9.2 7.6 8.8 8.9 8.6 8.5 8.3 8.6 8.8 8.8 9.2 9.2
+
+64 26 11 6.5 4.7 5 23 6.8 5 6 6 6.5 9 10 10 10
+
+6.3 3.3 0.78 0.74 0.5 0.53 4.6 0.8 0.42 0.62 0.72 0.97 1.9 2 2.4 24
+
+7
+
+Table 3. Deposits Chemical Analysis Primary Composition (%) Molybdenum, MoO4, Iron, Fe3O4 Silicon, SiO2 Calcium, CaO Magnesium, MgO Aluminum, Al2O3 Phosphate, P2O5 Chromium, Cr2O3 Mangenese, MnO2 Sodium, NaOH <1 75 11 6 2 2 1 1 1 6.7
+
+Figure1. PFD of the Transfer Lining Exchanger
+
+8
+
+Figure2. A general view of TLE
+
+Fig3. Large Pits on Tube Sheet
+
+9
+
+Figure4. Basket used to make flow distribution uniform
+
+10
+

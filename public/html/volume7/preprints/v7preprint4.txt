@@ -1,0 +1,111 @@
+ISSN 1466-8858
+
+Volume 7 Paper 4 The Effect of Nickel and Aluminum Addition on Oxidation Behavior of Austenitic Heat Resisting Steels
+M. Karaminezhaad, E. Kordzadeh, M. R. Bateni
+
+Material Science and Engineering Dept., Kerman, Iran
+
+Abstract:
+The influence of nickel and aluminum addition on the oxidation behavior of series of austenitic heat resistant Fe-Ni-Cr-Al alloys with different nickel content has been investigated. The specimens were annealed in argon at 1250oC for 8 hrs. Oxidation tests were carried out at 1100oC and 25, 50, 50,100 hours in the air atmosphere. Weight changes were measured using an automatic thermo gravimetric analyzer and corrosion products were analyzed by a series of analytical techniques, including X-ray diffraction (XRD), scanning electron microscopy (SEM), energy dispersive X-ray spectrometry (EDAX) and optical microscopy. The results showed that oxidation resistance increased with increasing nickel content. During oxidation, the alloys develops chromia or alumina layer on the surface, which enhances the oxidation resistance. Al has a favorable effect as it forms alumina layer on the surface that is more protective than chromia. Nickel also has a good effect on the oxidation behavior of the alloys as it enters the structure of the protective layer and decreases the defects. KEY WORDS: Heat Resisting Steel, Internal oxidation, Corrosion
+
+resistance, Chromia and Alumina
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+1. Introduction
+Heat resisting steels are used in power plant equipments, gas turbines, metallurgical furnaces, oil refinery furnaces, petrochemical furnaces, manufacturing of glass , synthetic rubber etc. [1, 2]. Available heat resisting alloys can be classified in two broad families, depending on whether their crystal structure is ferritic or austenitic. Ferritic steels are mechanically weak, with poor creep strength. The more ductile and more creep resistant austenitic steels owe their ability to withstand high temperature oxidation chiefly to the development of adherent chromia based oxide scales, but these become rapidly less effective beyond 1100 the tendency to form volatile species such as CrO3 [3]. In Fe-Ni-Cr-Al alloys, which contain chromium and aluminum, continuous Cr2O3 or Al2O3 layer is formed. These oxides constitute efficient barriers to corrosion in oxygen atmospheres [4]. It is well known that alumina scales provide much greater protection than do Cr2O3 based oxides. Aluminum oxide is a non-spalling layer and is more protective than chromium oxide film [5]. Transport through -Al2O3 scales is extremely slow, relative to other oxides [6, 7]. These characteristics make these alloys one of the most suitable one at temperatures higher than 950 oC. Nickel content is sufficient to ensure that the alloy structure is either austenitic or austeno-ferritic and the creep resistance is good [4]. The aim of this study is to investigate the effect of nickel and aluminum content on the high temperature oxidation resistance of high aluminum Fe-Ni-Cr-Al alloys. to 1150oC, due to intrinsically higher ionic diffusion rates, together with
+
+2. Experimental Techniques
+Alloys composition of these alloys is shown in table 1. The dimensions of the test specimens were 15x10x5 mm. argon for 8 hours at 1250oC were prepared by induction melting method. Chemical
+
+The specimens were annealed in
+
+and then cooled in the air. At annealing
+
+2
+
+temperature only the major phases such as austenitic () and ferrite (), are stable and grains are relatively coarse. After annealing, the test specimens were mechanically polished up to 1200 grit paper. Before oxidation test, the specimens were cleaned ultrasonically in alcohol, weighed to within 0.01 mg and then were exposed to atmosphere at 1100oC. The specimens were hung freely in the furnace using a thin alumina rod inserted through a small hole in each specimen. To characterize the structure and composition of the corrosion products, a series of analytical techniques, including X-ray diffraction (XRD), scanning electron microscopy (SEM), energy dispersive X-ray spectrometry (EDAX) and optical microscopy were used. Table 1. Chemical composition of the alloys COMPOSITION (Wt . %) NO. 1 2 3 4 5 0.09 0.08 0.07 0.07 0.23 21.3 17.6 20.2 25.0 24.7 20.0 30.5 10 20.7 37.6 6.0 7.0 6.0 -7.0 0.59 0.68 0.49 0.68 0.62 0.62 1.8 0.75 0.24 0.30 0.18 0.78 0.18 0.18 Bal Bal Bal Bal Bal Bal 20.5 21.8 7.14 0.45 0.69 C Cr Ni Al Si Mn Mo Fe
+
+6
+
+0.07
+
+0.50 0.27
+
+3. Results
+The relationship between weight changes and exposure time shows in figure 1. All alloys exhibit rapid and slow weight gain rates during oxidation. After a transient rapid rate, the growth rate of the scales follows a parabolic law, with a lower rate. By increasing nickel content and addition of aluminum to the alloys, the oxidation resistance increases. (Fig. 1).
+
+3
+
+4
+
+3.5
+
+3
+
+m (m c -2 /S g m )
+
+2.5
+17.6 Ni 21.8 Ni 25 Ni 30 Ni
+
+2
+
+1.5
+
+w ithout Al 37 Ni
+
+1
+
+0.5
+
+0 0 50 t(hr) 100 150
+
+Figure1. Weight gain curves for oxidation of the alloys XRD analysis of alloy No. 5 shows that the chromia scale forms on the surface (Fig. 2). Fe3O4 forms on the surface of the alloy due to Fe ions diffusion through Cr2O3.
+
+Figure 2. XRD analysis of alloy No. 5 with 100 hr exposure time
+
+4
+
+The micrograph of the alloys No. 1 and 2 shows that nickel decrease internal oxidation of the alloys (Fig 3 and 4). Aluminum oxidized internally in the alloys.
+
+Fig. 3. Micrograph of Alloy No. 1 with 100 hr exposure time
+
+Fig.4. Microscopic micrograph of Alloy No. 2 with 100 hr exposure time XRD analysis of alloy No. 3 shows that Fe2O3 covers the surface. Also Cr2O3 forms on the surface but it doesn't form a continuous film on the surface so that spinels amount such as FeCr2O4 increases and Cr2O3 amount decreases (Fig. 5).
+
+5
+
+Fig. 5. XRD analysis of alloy No. 3 with 100 hr exposure time As it can be seen from optical microscopy of the alloy No. 4, internal oxidation occurs in the alloy.
+
+Fig. 6. Optical microscopy of alloy No. 4 after 75 hr exposure time According to XRD results Al2O3 formed on the surface of alloy No. 4 has impurities but it becomes more pure with increasing the time (Fig. 7).
+
+6
+
+Fig. 7. XRD analysis of alloy No. 4 with 100 hr exposure time The oxidation product on the surface of alloy 6 is Al2O3 according to XRD analysis as it can be seen in fig. 8.
+
+Fig. 8. XRD analysis of alloy No. 6 with 100 hr exposure time
+
+7
+
+4. Discussion
+In all curves, weight gains could be separated in two regions (Fig. 1). The first region is related to the nucleation and the formation of continuous scale, while the second region corresponds to the growth of protective layer. Oxidation test results have shown that heat resistant steels with higher nickel content have higher oxidation resistance in atmospheres. During first step, the reaction follows a linear rate law. The linear rate law observes if the reaction rate controls by gas phase transport or phase boundary reaction. By increasing time, the thickness rate determining. During this Stage, parabolic rate law is predominated. For good oxidation resistance in the heat resisting steels it is necessary that the chromia forms on the surface. In the oxidizing atmospheres chromium oxidized preferably and forms protective layers of Cr2O3 [8]. During oxidation, the layer depleted from chromium and riched in the less than the necessary amounts for chromia formation [9]. XRD analysis of alloy No. 5 shows that the chromia scale forms on the surface and provide the protection of the alloy (Fig. 2). This layer loses on the surface of the alloy due to Fe ions diffusion through Cr2O3. The protective layer is riched with iron. This causes wear and spallation in the alloy and is due to free routs for diffusing iron ions. As chromia grows with cations diffusion outward, the cationic defects moves inward and gathered at the interface to form pores and holes in this region and decreases the adherence of the layer [10, 11]. With increasing nickel content in alloy No. 2 the oxidation resistance increases (Fig 1, 3 and 4). Nickel has a good effect on the oxidation resistance. Although the affinity of nickel with oxygen is low, but it can inserts some effects on chemical composition, adherence and mechanical prosperities of the layer. It is suggested that with only small amount of nickel dissolved in the chromia scales, it decreases the its protective properties at temperatures more than 950oC. Fe3O4 forms metal/oxide interface. In this case the chromium should not be depleted of the scale increased and diffusion through corrosion products became
+
+8
+
+cationic diffusion and oxidation resistance of the alloys. It seems that nickel delays the transformation of chromia scale to spinels and ferric oxide. Nickel also decreases the difference between alloy and oxide thermal coefficient and the stresses at the alloy/oxide interface during cooling [9]. In the heat resisting alloys containing aluminum, chromium is of importance. As Petit showed if the chromium and aluminum content of the alloy is low, aluminum oxidizes internally under the protective layer [12]. In the first stage of oxidation, the chromium oxide formation provides time for aluminum to diffuse to the metal/oxide interface and reaches its concentration to the content to be able to form a continuous alumina on the surface. With increasing the time of exposure chromia layer volatiles and underlayer alumina protects the alloy. The alumina layer grows and as its growth rate is low, the producing stresses at the matrix/ oxide interface become lower, so it doesn't cause the crack at the interface. In the alloys No. 1 and 2, aluminum has been oxidized internally (Fig.3 and 4). This is due to aluminum ions don't have sufficient time for penetration and enrichment under the layer for alumina formation, so aluminum oxidizes internally and as the growth rate of the oxide is high after some times these oxides appears in the oxide layer and forms multilayer of aluminum, chromium, iron and nickel. The alloying elements such as chromium, silicon, aluminum etc. are more stable than iron, nickel and cobalt in the cast heat resisting steels. When the amount of these elements which is added to the iron is low, internal oxidation occurs. With increasing the amount of element, it changes to external oxidation and the protective layer protects the alloy form rapid oxidation. In alloy No. 3 the rate of oxidation decreases (Fig. 1). XRD analysis shows that Fe2O3 covers the surface and oxygen diffuses easily through it so that internal aluminum oxides form (Fig. 5). Also some Cr2O3 forms on the surface but it doesn't form a continuous layer of Cr2O3 on the
+
+9
+
+surface and the amount of spinels such as FeCr2O4 increases. The existence of some oxides increases the pores and causes oxidation and decreasing of oxide layer to the matrix. Optical microscopy shows that increasing the nickel content causes internal oxidation in alloy No. 4 (Fig. 6). XRD analysis shows that an Al2O3 layer forms on the surface has impurity but it becomes pure with time of exposure (Fig. 7). The oxidation product on the surface of alloy 6 is Al2O3, which protect the alloys from internal oxidation. The amount of aluminum is sufficient for the formation of a continuous alumina. The alumina layer is pure and this purity increases with increasing the time (Fig. 8).
+
+5. Conclusion
+1. Aluminum addition to the alloys increases the oxidation resistance of the alloys. 2. Alumina layer has better protection prosperities than chromia layer. 3. Increasing Nickel improves oxidation resistance of the alloys. 4. The formation of the spinels decreases the oxidation resistance of the alloys.
+
+References:
+1. M. Loudjani, J. C. Pivin, C. Roques-Camers, P. Lacombe and J. H. Davidson, Metallurgical Transactions, 13A, PP.1299-1311, 1982 2. ASM International, "Properties and Selection of Metals: Iron, Steels and High Performance Alloys", Metals Handbook, 1, PP. 920-930, 3. J. H. Davidson, P. Lacombe, A. M. Huntz, labratoire de Metallurgie Physique, PP. 209-217 4. J. C. Pivin, D. Delaunay, C. Roques, A. M. Huntz and P. Lacombe, Corrosion Science, 20, PP .351-373, 1980 1990-91
+
+10
+
+5. M. H. lagrange, A. M. Heniz and J. H. Davidson, Corrosion Science, 24, 1984, PP. 613-637 6. F. J. Perez, F. Pedraza, C. Sanz, and C. Gomez, Materials and Corrosion, 53, 231-238, PP. 2002 7. R. E. Lobnig and H. J Grabke, Corrosion Science, 30, 10, PP. 10451071, 1990 8. F. J. Perez, M. J. Cristobal and M. P. Hierro, Oxidation of Metals, 55, 2001 9. L. A. Morris, Handbook of Stainless Steels, 1977, PP. 17.4-17-32 10. D. Cismaru, Corrosion Science, 5, 1964, PP. 47-54 11. H. E. Evans, R.C. Lobb, Corrosion Science, 24, 3, PP. 209-222, 1984 12. D. L. Douglass, ASM Seminar, Cambridge, PP.207-232, 1970
+
+11
+

@@ -1,0 +1,319 @@
+Volume 6 Paper H001 FEG-SEM and STEM Investigation of High Temperature FeCrAl(RE) Alloys H.Al-Badairy+, A.J. Papworth+, G.J. Tatlock+, M. Bestmann++, G. Seward++ and D. Prior++ + Materials Science and Engineering, University of Liverpool, UK ++ Earth Science, University of Liverpool, UK Abstract Field emission gun scanning electron microscopy (FEGSEM) with electron backscattered diffraction (EBSD) and field emission gun scanning transmission electron microscopy (FEGSTEM) have been used to study the recrystallisation microstructure and the oxidation behaviour of ultra-high purity Fe-20Cr-5Al model alloys and commercial Fe-20Cr-5Al alloys. The model alloys contain controlled additions of impurities such as phosphorus and carbon and added levels of more beneficial elements such as zirconium and titanium. Samples were studied in the asreceived state and after oxidation at temperatures ranging from 900°C to 1300°C and for times up to 5h in air. Initial analysis showed that recrystallisation commenced after 1h of oxidation at 900°C. Complete recrystallisation was achieved after 1h of oxidation at 1000°C. FEGSEM-EBSD analysis did not reveal any crystallographic preferred orientation in the studied alloys. However, during in-situ annealing (at 600°C for 4h) of YHfAl, FEGSEM-EBSD showed the development of a strong texture with <111> normal to the plane of the sheet. Oxidation at a higher temperature (1300°C) revealed that the -alumina formed on the model alloy with a high level of phosphorus was much thicker than those observed on the rest of the investigated alloys. As a result this will shorten the lifetime of the alloy, leading to catastrophic failure. Chromium rich carbides and defective regions have been observed during plan view studies and in cross-sectional samples using the FEGSTEM. The chromium rich carbides were mainly found in the alloy substrates, whereas voids were largely observed at the grain boundaries of the -alumina scale. No Ti, Zr, Y or P segregation was detected at metal grain boundaries during this study. Evaluation of the alloys'
+
+microstructure and the effect of defective regions and void formation on the oxidation behaviour of Fe-20Cr-5Al alloys will be discussed in this paper.
+
+Keywords: FeCrAl(RE), microstructure, ultra-high purity, oxidation behaviour, recrystallisation
+
+Introduction Interest in the use of FeCrAlRE based alloys (where RE are reactive elements such as Yttrium, Zirconium and Hafnium etc.) for high temperature applications is increasing. During the last decade or so, numerous research and innovative industrial developments have emerged in order to improve the performance of these alloys in ultra-high temperature environments. FeCrAlRE alloys are candidates for use in such harsh environments, due to the formation of slow growing and compact -alumina scales when the alloys are oxidised above 1000°C. Different processes, such as mechanical alloying, conventional melting, etc. can be used to produce the Fe-Cr-Al based alloys. During mechanical alloying, oxide dispersions are often added for strengthening purposes, as well as for the enhancement of the protective alumina scale adhesion, Korb [1]. There large variety of domestic and industrial applications, examples for domestic use range from heating element foils and thin wires in cooking plates, toasters, heaters in boilers etc. In industrial environment the applications range from heating elements in furnaces for heat treatment and drying facilities, heat exchangers and their everincreasing use as a metal support for catalytic converters in the car industry, [2-5]. The protection that the alloys provide in high temperature applications can be maintained providing that the Al level in the alloy substrate does not drop below a critical level (<2wt%) [6 and 7]. This reduction in the Al level becomes significantly enhanced, if under thermal cycling conditions spallation of the alumina scale occurs, thus consuming the Al available for scale re-healing. After critical Al-depletion has occurred, rapid breakaway oxidation of Fe and Cr will commence which can be 2
+
+considered to mark the life limit of FeCrAl components [8]. The protective nature of the -alumina scale can be prolonged when scale to metal adhesion is enhanced and scale growth is reduced. This can be achieved the addition of reactive elements such as Y, Hf, Zr, Ti, etc. For example, a conclusive investigation regarding the effects of La, Ce, Y, Ti, V, Nb and Ta on the alumina scales formed on Fe-Cr-Al alloys oxidised at temperatures up to 1000ºC for 24h has been carried out by Sigler [9]. He concluded that elements such as Y, Ce, La and also Ti which form sulphides more stable than Al2S3 improved scale adhesion by preventing the segregation of S to the scale/metal interface, but elements such as V and Nb which form sulphides less stable than Al2S3 had no beneficial effects on scale adhesion. Biegun et al [10] have reported that incorporating Zr, Hf and also La into Fe-Cr-Al reduced the growth rate of the scale and enhanced its bonding with the substrate. The additional elements influence the way in which the -alumina scale grows. For example, Y has been reported to segregate to the grain boundaries of the -alumina scale formed on a FeCrAl alloy containing Y2O3instead of both outward diffusion of Al and inward diffusion of O as seen in the case of FeCrAl free of additives [11 and 12]. Pint reported that additive elements such as Y use the metal/scale interface and scale grain boundaries as pathways for diffusion from the metal substrate to the gas/scale interface. The oxygen potential gradient across the scale acts as the driving force for this outward diffusion. Pint concluded that doping of the scale grain boundaries results in scale growth primarily by inward diffusion of oxygen, while doping the metal/scale interface with the reactive element slows the growth of voids resulting in improving scale adhesion. Many authors have vigorously investigated the effects of the reactive elements of the scale growth and adhesion, for further reading see [13-20]. In this paper, a preliminary microstructural investigation has been carried out using FEGSEM-EBSD, XRD and STEM with the emphasis on understanding the influence of alloy microstructure and inhomogeneity on the distribution of added elements and on the oxidation behaviour of these alloys. The FEGSEM-EBSD was primarily used to determine texture in the alloy substrates. However, this powerful tool with automated electron backscattered diffraction (EBSD) can be used to quantitatively analyse grain and subgrain structure and also boundary misorientation more accurately than other methods [21].
+
+3
+
+Experimental Procedure Raw Materials and Sample Preparation Foils with dimensions 10mmx20mm and thickness from 0.07mm-2mm were provided by our European partners. Three specially made high-purity model alloys were supplied by Prof. Jean Le Coze, Ecole des Mines de Saint-Etienne, France and two commercial alloys were supplied by Dr. Heike Hattendorf, Krupp VDM GmbH, Germany. The alloys' chemical compositions are shown in Table 1. All the samples were chemically cleaned prior to oxidation to remove any contaminants. This involved ultrasonically cleaning for 20minutes in methanol followed by iso-propyl alcohol and using two cycles in a reflux condenser with analar iso-propyl alcohol. The as-received state for the alloys is as follows. The samples taken from the model alloys had been annealed at 1100°C for 1h and the samples from the commercial alloys had been cold-rolled down to 1mm during the final stage of production. Alloy Y Zr Mg M2 500 M5 500 M6 500 290 YHf 460 540 78 Wt% YHfAl Fe Cr Al P Y Zr Ti Hf Mg 70.8 20.4 6.05 <0.01 0.06 0.05 0.022 0.04 0.0075 Table1 Alloy compositions Oxidation Methods The oxidation temperature during this investigation ranged from 900 to 1300°C in laboratory air and oxidation times ranged from 40minutes to 5hours. All samples were air-cooled after oxidation. Sample Preparation Plan view and cross-sectional samples for optical metallography were prepared by mounting, grinding and polishing to a 1µm finish. A 78% distilled water, 18% Nitric acid and 4% hydrofluoric acid etchant was used after the polishing step in order to reveal the sample grains, especially during the FEGSEM-EBSD investigation. Also, plan view and cross-sectional samples were prepared for TEM/STEM investigations. Sample preparation involved grinding and polishing the samples to a thickness below wt% Fe Cr Al 76.6 19.9 4.96 77.1 19.7 4.91 77.0 19.7 4.86 75 19 5.3 P 236 78 78 130 ppm Ti Hf 220 98 310 O <10 <10 <10 <10 O C <100 <100 <100 240 C 0.027
+
+4
+
+30µm and then ion milling using a Gatan PIPS Model 691 at an operating voltage of 5kV and an incident ion angle of 6º. Sample Examination Initial optical observation of the microstructure of the alloys was made in the asreceived state and after isothermal oxidation at temperatures up to 1300ºC and oxidation times of up to 5 h. XRD was also used during this study to investigate alloy substrate texture and to measure the lattice parameter of the -alumina scale. The XRD parameters used are 30-90degrees 2 range, 0.04degrees step size, 5sec/step dwell time, a graphite monochromator was used to block K radiation and the radiation source was Cu K. One sample from the commercial alloy YHfAl was annealed inside the analysis chamber of the FEGSEM at a temperature of 600°C for 4h. SEM images and EBSD data were collected on a CamScan X500 crystal probe using an accelerating voltage of 20kV and a beam current of ~20nA. EBSD patterns were collected using a NORDLYS digital camera and were indexed using CHANNEL 5 software from hkl technology. In situ heating methodology is described by Seward et al [22]. The sample was placed on an Al2O3 substrate for heating, to avoid contamination from the C furnace. In this mode, the sample charges at room temperature. To dissipate charge EBSD maps before and after heating were made with furnace temperatures of 550°C, corresponding to sample temperatures of about 200250°C. Between these `before' and `after' maps the sample was heated to a furnace temperature of 950°C, corresponding to a sample temperature of ~600°C, for 4h with a heating period of 40 minutes and a cooling period of 10 minutes. STEM EDS was applied to study the oxide/metal interface, oxide and metal grain boundaries and the presence of impurities such as P, minor elements such as Ti, Y, Hf and other phases such as chromium-rich carbides. Results Initial Observations Preliminary optical and SEM observations revealed that, in one of the commercial alloys. recrystallisation was underway after oxidation at about 900°C for 1h and full recrystallisation was achieved after 1h at 1000°C. YHfAl 1mm thick cold-rolled sheets were used for this purpose. The observation revealed that in the case of the
+
+5
+
+model alloys M2, M5 and M6, pre-oxidation annealing the alloys after cold-rolling down to 1mm at 1100°C for 1h was sufficient for recrystallisation, as indicated in Figures [1 and 2], with an average grain size range of 90 to 200microns. Oxidising the samples at the higher temperature of 1300°C for 5h showed little further grain growth. There is a little difference in the grain size between the model alloy M5 which contains Ti and the Zr-containing model alloy M6, where it appeared that the Zr-containing alloy has a smaller grain size than that of Ti-containing alloy.
+
+400µm
+Figure 1 SEM plan view image of the model alloy M5 in the as-received state.
+
+400µm
+Figure 2 SEM plan view image of the model alloy M6 in the as-received state.
+
+Analysing the FEGSEM-EBSD data confirmed that full recrystallisation was achieved during oxidation at a higher temperature, 1300°C, for a relatively short oxidation time, 5h, as illustrated by the graphs of recrystallised fraction in Figure 3. 1mm thick 6
+
+sheets of the model alloy M2, were used for this analysis, in the as-received state (annealed at 1100°C for 1h) and oxidised (1300°C for 5h).
+
+As received
+
+Oxidised at 1300°C for 5h Figure 3 Recrystallised fraction in model alloy M2
+
+In-situ FEGSEM-EBSD Experiment A sample of the commercial alloy YHfAl (1mm thick) was selected for this experiment. The sample was placed in an electrically heated furnace inside the analysis chamber of the FEGSEM. Images and EBSD data were acquired prior to annealing the sample and then the sample was annealed up to 600ºC for 10h (at 2degrees/minutes, heating rate) while images and EBSD data were acquired. Analysis of the data revealed that annealing the alloy at a relatively low temperature, 600°C, and for a short time, 10h, was enough for recrystallisation of the metal substrate with the development of a strong texture with <111> normal to the plane of the sheet, see
+
+7
+
+Figures 4 and 5. The presence of additional elements and impurities appeared to have little influence on the substrate texture. Figure 4 represents digitally enhanced maps generated from the crystallographic orientation data that was collected both before and after annealing.
+
+500µm
+(A) Cold-rolled
+
+500µm
+(B) Annealed at 600°C for 4h Figure 4 SEM plan view image of YHfAl, (A) before annealing and (B) after annealing
+
+8
+
+9
+
+Figure 5
+
+Pole figures for Figure 3, showing the strong alignment of <110> along the rolling direction in the case of the cold rolled sample and the alignment of <111> in the case normal to the sheet after annealing.
+
+Figure 5 clearly indicates that the metal substrate texture has changed during annealing. Prior to annealing, there was a strong texture with <110> parallel to the rolling direction whereas, during annealing the texture changed and <111> was normal to the plane of the sheet. The change in the metal texture and its effect on the oxidation behaviour of the alloy will be discussed later in the paper. XRD and AFM XRD analyses from most of the alloys showed that in the case of as-received alloys the 200 and 211 reflections had higher intensities than the 110 reflections. However, when the alloys were oxidised, the {110} planes gave rise to the highest intensity. The lattice parameters, calculated for the -alumina were a=4.775Å and c=13.100Å. These values are slightly higher than standard values of a=4.759Å and c=12.993Å [POWDER DIFFRACTION FILE 1998, INTERNATIONAL CENTRE metal substrate was calculated to be 2.86 Å The XRD data were obtained from two samples of the model alloy YHfAl, one in the as-received state (cold-rolled) and the other annealed at 1100°C for 4h and with the oxide removed. The samples were then oxidised at 900°C for 5h and XRD spectra were collected. The XRD analyses showed that an -alumina scale formed predominantly on all the alloys, with the presence of some metastable phases such as  and -alumina in some cases, see Figure 6. There was also some evidence that annealing the sample prior to oxidation influenced the texture of the alumina scales subsequently formed, although the reannealing stage had little, if any, effect on the scale morphology with an average grain size of about 200-600nm as shown by the Atomic Force Microscopy (AFM) investigation, see Figure 7.
+OF
+
+DIFFRACTION DATA]
+
+indicating that the -alumina scale was not pure. The cubic lattice parameter for the
+
+10
+
+200 160 Counts 120 80 40 0
+
+{110}
+
+{200}
+
+{211}
+
+30
+
+40
+
+50
+
+60
+2
+
+70
+
+80
+
+90
+
+Cold-rolled, oxidised at 900°C for 5h
+200 160 Counts 120 80 40 0
+
+
+
+  Metal substrate  - Al2O3  Cr23C6  -Al2O3, -Al2O3 × -Al2O3, -Al2O3
+
+ ×
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+30
+
+40
+
+50
+
+60
+2
+
+70
+
+80
+
+90
+
+Annealed at 1100C for 1h (oxide removed), oxidised at 900°C for 5h. Figure 6 XRD spectra from YHfAl alloy, 1mm thick sample
+
+(A) Cold, rolled, oxidised at 1200ºC for 5h. 11
+
+(B) Annealed at 1100°C for 4h (oxide removed), oxidised at 1200°C for 5h. Figure 7 AFM images showing the morphologies of -alumina scale formed on samples of YHfAl alloy. SEM Observation Further SEM examination of samples of the model alloys M2, M5, M6 and the commercial alloy YHfAl which were oxidised at the higher temperature of 1300°C for 5h in laboratory air, revealed that the scale formed on the Zr-containing alloy (M6) was the thinnest, whereas the scale formed on the P-containing alloy (M2) was the thickest, see Table 2. Alloy M2 YHf M5 M6 Table 2 Scale thickness (microns) 5.5 4.5 3 2.5
+
+Scale thickness measurements (1300°C for 5h).
+
+The analysis also showed that the scales formed on the Zr and Ti-containing model alloys (M5 and M6) and the commercial alloy YHf were flat and well adhered, whereas in the case of the P-containing alloy M2 the scale formed was porous and less well adhered, with voids observed at the metal scale interface. Further analysis of cross-sectioned samples from the above alloys showed that in most cases the additional elements were found to be segregating to the outermost layer of the scale. An example of this is the scale formed on the commercial alloy YHf, where Mg-, Zr-
+
+12
+
+and Y-rich regions were found in the outermost layer of the scale, see Figure [8]. This revealed that, as expected, the -alumina scales formed on the alloys were not 100% pure.
+
+6 Average concentration (Wt%) 5 4 3 2 1 0 P M2 YHf Fe Hf Mg Elements
+A
+
+Outlayer
+
+Zr
+
+Cr
+
+Y
+
+1.2
+Average concentration (Wt%)
+
+Through oxide
+
+1 0.8 0.6 0.4 0.2 0 P Fe Hf Mg Elements
+B
+
+Zr
+
+Cr
+
+Y
+
+M2
+
+YHf
+
+Figure 8
+
+Microprobe point analyses of scales on M2 and YHf after oxidation at 1300°C for 5h in laboratory air.
+
+TEM and STEM
+
+13
+
+Most of the analyses were taken from plan views of samples in the as-received state to show that there was no impurity segregation at grain boundaries. bands along some alloy grain boundaries as shown in Figures [9]. However, an interesting feature of the model and commercial alloys was the presence of Cr-rich
+
+Cr-carbide rich band
+
+400
+
+Al Fe Zr
+
+Cr Y Hf
+
+300 Counts 200
+
+100 0 0 10 20 30 Distance (nm) 40 50 60
+
+Figure 9
+
+STEM bright field image and corresponding elemental line scans at the grain boundary of the metal substrate, YHf in as received status (cold-rolled).
+
+across Cr-rich band
+
+14
+
+Furthermore, analysis indicated that the Cr-rich carbides exist not only as bands but also as particles in the middle of the metal grains, as shown in the bright field image and the corresponding elemental (Fe, Cr, Al and C) maps from YHf in the as received state, see Figure [10].
+
+Cr-carbide rich particle
+
+Fe
+
+Cr
+
+Al
+
+C
+
+Figure 10
+
+STEM bright field image and the corresponding Fe,Cr, Al and C maps from Cr-rich carbide, YHfl as received (cold-rolled).
+
+Also, Zr-rich regions were found during the investigation of the Zr-containing alloy M6. This microstructural inhomogeneity was found to be likely to affect the oxidation behaviour of the alloys, since the inhomogeneous regions are found to be depleted in Al. During oxidation these regions are considered weak regions where breakaway oxidation, i.e. the formation of less protective Fe- and Cr-rich oxides, can commence, resulting in the reduction of the lifetime of the alloys. Analysis of cross-sectional samples prepared from oxidised alloys, mainly Ti-containing and Zr-containing alloys, showed no impurity segregation at the metal/oxide interface. However, in the case of the high P-containing alloy, P was detected at the metal/oxide interface. The TEM/STEM investigation on oxidised samples reveals the existence of voids at triple-points within the -alumina scale. See Figure [11], for example, where voids were detected in the -alumina scale on a cross-sectioned sample of YHfAl, which
+
+15
+
+was oxidised at 1300ºC for 40minutes. The scale formed has a columnar grain structure, as shown in Figure [11].
+
+Alumina scale Metal/Scale interface
+
+Metal A
+
+100nm
+
+Void Void
+
+200nm B Figure 11 (A) TEM bright field image showing the columnar grain structure of scale formed on YHfAl after 40minutes of oxidation at
+
+the -alumina
+
+16
+
+1300C in laboratory air. (B) TEM bright field images from the scale at higher magnification showing the existence of voids. Discussion There have been many studies of the influence of reactive element additions on the oxidation of FeCrAl based alloys, and the deleterious effects of impurity elements such as sulphur or phosphorus. It is also well known that cold rolled sheets of FeCrAlRE based alloys will recrystallise on heating to give a new grain structure in the substrate. However, there have been few systematic studies of how these changes in underlying alloy structure and the distribution of reactive elements and impurity elements affect the subsequent oxidation of the alloy. Hence in this work we have attempted to quantify these links.
+
+Recrystallisation In-situ FEGSEM-EBSD of samples of a rolled commercial alloy showed conclusively that the rolling texture changed dramatically on recrystallisation. In the YHfAl alloy, a strongly preferred <110> orientation along the rolling direction was replaced with a <110> pole perpendicular to the sheet with no strongly preferred orientation along the rolling direction, after a recrystallisation anneal at 600°C. Comparison of samples oxidised at 900°C for 5h, before and after recrystallisation, after removal of any prior scale, showed that -alumina was formed predominantly, although the transition aluminas such as  and  were more evident when the recrystallisation treatment was completed before the oxidation treatment than during it. This may be connected with the higher mobility of aluminium during the recrystallisation process itself, allowing -alumina to form more readily. The aluminium oxide formed in both cases had a similar equiaxed grain structure with sizes in the range 200-600nm, although there was some evidence that the textures of the two oxides were slightly different. However, it may be concluded that the recrystallisation of the alloy during oxidation had only a limited influence on the subsequent oxidation behaviour. Reactive element distribution
+
+17
+
+The reactive elements Hf, Mg, Zr and Y were all present, to varying degrees, in the alloys studied during this work. As shown in Figure 8, after oxidation, there were clear differences in the reactive element distribution. Mg segregated strongly to the surface of the oxide along with Zr, while Y and Hf were distributed more uniformly along the oxide grain boundaries. A STEM/TEM study of the distribution of second phase regions in the underlying alloys highlighted the presence of Cr-rich carbides as both grain boundary phases and discrete particles, within the grains. There was also some evidence that the -alumina scales contained regions of Cr-rich oxide within the scales. These are different from the Cr-rich regions, which have been reported [7] as forming as layers under the alumina when the level of aluminium in the alloy drops below the critical level for alumina formation. In the present case, the Cr-rich oxide may be formed as a result of the oxidation of the discrete particles or grain boundary carbides, and may have a detrimental effect on the subsequent behaviour of the oxide scale in this region. The is also evidence that second phase particles containing high levels of reactive elements can be incorporated into growing scales where they radically influence the local scale growth rates and grain morphologies. However these results are being reported elsewhere [23]. Role of phosphorus There have been many reports that high concentrations of sulphur at the metal/oxide interface strongly influence the oxide adhesion. However, there have been fewer reports of the role of phosphorus. In the present study, the deliberate addition of 230ppm of phosphorus (compared with base levels of less than 70ppm) led to the rapid growth of an oxide scale. For example, after 5h oxidation at 1300°C, there was a factor of two difference in the scale thickness (Table 2). The level of phosphorus is difficult to determine quantitatively by STEM analysis, since phosphorus may be removed preferentially under the electron beam. However, some phosphorus was detected in the high phosphorus alloy at the scale/metal interface during the present investigation and, perhaps more significantly, the adjacent scales contained a high concentration of voids. (Fig.11). This may explain the high growth rate of the scale on this particular alloy, since transport will be enhanced in these scales as discussed, for example, by Pint [24].
+
+18
+
+Conclusions Few systematic studies have been made of the links between alloy microstructure and oxide scale growth in FeCrAlRE alloys. Recrystallisation is often triggered after the cold rolling of these alloys, but apart from a small influence on the amount of transition aluminas which form as the scale starts to grow, and minor changes to the texture of the oxide, recrystallisation has little effect on the oxidation behaviour of these alloys. Second phase particles of Cr carbides or reactive element intermetallic particles present in the substrate are incorporated into the growing oxide scales. The Cr forms discrete regions of Cr-rich oxide within the alumina while the reactive element precipitates change the local scale morphology and growth. Impurities, such as phosphorus, segregate to the metal oxide interface and influence the number of voids found along the interface and along the oxide grain boundaries. Their presence may explain why the scales on high phosphorus content alloys grow more quickly than the equivalent, low phosphorus, alloys. Acknowledgments The authors would like to thank the European commission for financial support of the work, through the 5th Framework Programme -Competitive and Sustainable Growthunder the project SMILER, Contract No. G5RD-CT-2001-00530. We are also grateful to our partners in this project for the supply of the alloys tested and for useful discussions.
+
+Reference 1. G. Korb, `In New Materials by Mechanically Alloying Techniques', (Ed. Arzt and Schulz, DGM: Oberusel), p175, 1990. 19
+
+2.
+
+D. R. Sigler, `Oxidation Resistance of Alumina-Coated Fe-20Cr Alloys Containing Rare Earth or Yttrium', Oxidation of Metal 40, (3/4), pp295-312, 1993.
+
+3.
+
+Itoh I., Fukaya M., Hisatomi R., Morimoto H., Ohmura K., Tanaka H., Fudanki F. and Arakawa M., `Development of Ferritic Stainless Steel Foil as Metal Support for Automotive Catalytic Converter', Nippon Steel Technical Report 64, pp69-74, 1995.
+
+4.
+
+Ohashi T. and Harada T., `High-Temperature Oxidation of Fe-Cr-Al-Si Alloys Extruded into Honeycomb Structure', Oxidation of Metals 6 (3/4), pp235-255, 1996.
+
+5. 6. 7.
+
+Twelve-month report, No. G5RD-CT-2001-00530, SMILER project, EC funded project, 2001. H. Al-Badairy and G.J. Tatlock, `The Oxidation of Thin Foils of FeCrAl(RE) Alloys', Materials at High Temperatures, 18 (2), pp101-106, 2001. H. Al-Badairy, G. J. Tatlock and M. J. Bennett, `A comparison of breakaway oxidation in wedge-shaped and parallel sided coupons of FeCrAl alloys' Materials at High Temperatures, 18 (2), pp101-106, 2001.
+
+8.
+
+D. Naumenko, W. J. Quadakkers, V. Guttmann, P. Beaven, H. Al-Badairy, G. J. Tatlock, R. Newton, J. R. Nicholls, G. Strehl G. Borchardt, J. Le Coze, B. Jönsson, A. Westerlund, ` Critical role of minor elemental constituents on the life time oxidation behaviour of FeCrAl-RE Alloys', EFC Publications 34, Eds. M. Schütze, W.J. Quadakkers and J.R. Nicholls, (Maney Publishing,p 6682, 2001.
+
+9. 10.
+
+Sigler, David R., `Aluminum oxide adherence on Fe-Cr-Al alloys modified with groupIIIB, IVB, VB, and VIB elements', Oxidation of Metals, 32, (5-6), pp 337-355, 1989. T. Biegun, M. Danielewski and Z. Skrzypek, `The Reactive-Element Effect in the High-Temperature Oxidation of Fe-23Cr-5Al Commercial Alloys', Oxidation of Metals, 38, (3/4), pp207, 1992.
+
+11.
+
+Kazuhide Ishii, Masaaki Kohno, Shin Ishikawa and Susumu Satoh, ` Effect of Rare-Earth Elements on High-Temperature Oxidation Resistance of Fe-20Cr05Al Alloy Foils'Materials Transactions, JIM, 38,9, pp787-792, 1997.
+
+12.
+
+B. A. Pint, `Experimental Observation in support of the Dynamic-Segregation Theory to Explain the Reactive-Element Effect ', Oxidation of Metals, 45, (1/2), pp1-31, 1996. 20
+
+13. 14.
+
+John Stringer, ` The Reactive element Effect in High-temperature Corrosion', Materials Science and Engineering, A120, pp129-137, 1989. J. M. Francis and W. H Whitlow, `The Effect of Yttrium on the High Temperature Oxidation Resistance of Some Fe-Cr Based Alloys in Carbon Dioxide', Corrosion Science, 5, pp701-710, 1965.
+
+15.
+
+V. K. Tolpygo and D. R. Clarke, ` Spalling Failure of -alumina films grown by oxidation. II Decohesion nucleation and growth', Materials Science and Engineering, A2787, pp151-161, 2000.
+
+16.
+
+F. A. Golightly, F. H. Stott and G. C. Wood, ` The Influence of Yttrium on the Oxide-Scale Adhesion to an Iron-Chromium-Aluminium Alloy', Oxidation of Metals, 10, 3, pp163-187, 1976.
+
+17.
+
+S. Sarioglu, J. R. Blachere, F. S. Pettit, G.H. Meier, J. L. Smialek and C. Mennicke, ` The Effects of Reactive Element Additions, Sulfur Removal, and Specimen Thickness on the Oxidation Behaviour of Alumin-Forming Ni- and Fe-Based Alloys', Materials Science Forum, 251-254, pp405-412, 1997.
+
+18. 19.
+
+A. Ul-Hamid, ` TEM Study of the Effect of Y on the Scale Microstructures of Cr2O3 and Al2O3-Forming Alloys', Oxidation of Metals, , ,pp23-40. 2001. B.A. Pint, A. J. Garratt-Reed and L. W. Hobbs, ` The effect of Y and Ti on FeCrAl oxidation at 1400°C', Journal DE PHYSIQUE IV, Colloque C9, supplement au journal de physique III, 3, pp247-255, 1993.
+
+20.
+
+Shigeji Taniguchi, Toshio Shibata and Takashi Niida, `Effect of Preoxidation and Ti or Hf Additions on the Corrosion Beahvior of Fe-23Cr-5 Alloys in Ar10SO2 at 1200K', Oxidation of Metals, 34, (3/4), pp277-297.
+
+21. 22.
+
+J. Humphreys, ` Grain and subgrain characterisation by electron backscattered diffraction', Materials Science, 36,16,pp3833-3854, 2001. G.G.E. Seward, D.J.Prior, J.Wheeler, S. Celotto, D.J.M. Halliday, R.S. Paden, and M.R. Tye, `High-temperature electron backscatter diffraction and scanning electron microscopy imaging techniques', In-situ investigations of dynamic processes: Scanning, 24, pp232-240, 2002,
+
+23.
+
+B.A. Pint, ` On the Formation of Interfacial and Internal Voids in Al2O3',Oxidation of Metals, 48, (3/4), PP303-328,1997.
+
+21
+
+24.
+
+Hameed Al-Badairy, Jean Le Coze and Gordon J. Tatlock, `High temperature oxidation of ultra-high purity Fe-Cr-Al model alloys',UHPM conference, Sain-Etienne, France, June 2003. To be published.
+
+22
+

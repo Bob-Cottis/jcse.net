@@ -1,0 +1,214 @@
+ISSN 1466-8858
+
+Volume 5 Preprint 11 Cu redeposition and surface enrichment during the dissolution of Al-Cu alloy in 0.1 M HCl
+A. A. El Warraky , A. M. El-Aziz and Kh. A. Soliman Department of Electrochemistry and Corrosion, National Research Centre, Dokki, Cairo, Egypt.
+*
+
+Abstract
+The enrichment of Cu on the surface of Al-3.84%Cu alloy during the dissolution in 0.1 M HCl has been examined using open circuit potential (OCP) accompanied by scanning electron microscopy (SEM), Auger electron spectroscopy (AES) and x-ray photoelectron spectroscopy (XPS). Results obtained during this study show that there are two types of Cu enrichment, one of them is in the form of Cu clusters, which is formed due to the outer diffusion or segregation of Cu to the alloy surface. The second type is more uniform deposition as a result of copper redeposition from solution, this data is confirmed by the AES survey point analysis which show that the detection of Cu peak beside the disappearance of Al peak occurred at the whole surface. It is also indicated that the Cu released from the alloy surface is due to two different sources. The first occurred due to the severe galvanic attack, around the breifery of the clusters. This attack can be extended under the cluster and released. The other was attributed to the uniform redeposition of Cu on pure Al, where the disproportionation reaction of Cu+ ions takes place on the surface, which can produce Cu++ ions to the solution The higher resolution multiplex of Cu using XPS analysis shows that the appearance of three peaks corresponding to Cuo (metallic copper), CuCl, CuCl2 and devoid of any Al species. Accordingly the redeposit Cu on pure Al can behaves as Cu metal and dissolves also as dichlorocoprate (CuCl-2) soluble complex beside CuCl2 Keywords Aluminum, Al-Cu alloy, Copper enrichment, Copper release
+*
+
+Corresponding author. E-mail address: el_warraky@yahoo.com
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+1
+
+1. Introduction
+Aluminium and its alloys have attracted many authors due to its widespread industrial applications. Addition of copper as an alloying element in various aluminum alloys increases its strength and also plays an important role in their corrosion behaviour. Different treatment of the Al-Cu alloys such as chemical and electrochemical pretreatment [1-4], electrochemical and other properties in different media: salts, alkalis and acids [5-12], causes enrichment of the concentration of copper on the surface. The deleterious effect of the enrichment of copper on the Al alloys surface is appeared as a result of galvanic couples set up between copper-rich intermetallic particles  (Al2Cu) and the adjacent copper ­depleted matrix which induce localized corrosion [13-15]. Dealloying is an important feature of intermetallic compound, copper released and redistributed. Corrosion and aqueous surface finishing of Al-Cu alloys cause dissolution, redistribution and enrichment of Cu on the treated surface. [16]. Two different mechanism for copper surface enrichment have been proposed [17,18] as a result of the dissolution of the alloy matrix. The two mechanism did not consider Cu release from Cu-rich intermetallic compound particle dissolution as a main source of Cu surface enrichment. These mechanisms are differ in that one of them depends on classic dealloying [17], where Cu is simply left behind to accumulate on the surface. The second mechanism depends on homogeneous dissolution, where copper released from the matrix phase to the solution either by surface curvature or cluster formation. Buchheit et al [16] support both the classic dealloying and homogeneous dissolution mechanism while the intermetallic compound dissolution appears to have its main effect on Cu release and redistribution at short time and length scales. Recently the exact mechanism of copper enrichment was said to occur either by a dissolution and redeposition process or by some solid state enrichment followed by a nonfaradic transport process. The third mechanism of the selective dissolution of aluminum leading to the formation of copper particle [19-21] is however, a matter of some controversy.
+
+2
+
+The aim of the present work was to study the mechanism of enrichment of Cu on Al-3.84% Cu alloy surface as well as the Cu release from the surface to the solution in 0.1 M HCl.
+
+2. Experimental
+
+Experiments were conducted on pure Al (99.99%) and Al- Cu alloys as used previously [22]. The surfaces of samples were abraded with emery paper of increasing fineness up to 1200 grit. Prior to the experiment, the samples were washed with double distilled water, degreased with acetone and then washed with double distilled water. The potentials were measured relative to a saturated calomel electrode (SCE). Some of measurements were carried out when pure Al is immersed in 0.1 M HCl containing 0, 0.4, 1, 5, 20, 50, 100 and 200 ppm CuCl2. Other measurements were conducted where a Al-Cu alloy is immersed in 0.1 M HCl for different time of immersion and a new sample of pure Al was immersed in the same solution which contains dissolved product of the replaced Al-Cu alloy sample, where the change in potential is followed against time. Measurements were also carried out when two samples, one of them is Al pure and the second is Al3.84 % Cu alloy, are immersed in 0.1 M HCl separately and the potential of each of them is followed against time using two saturated calomel electrode. At the end of this experiment, the samples were cleaned using ultra sonic vibration for 30 min. and were investigated using a scanning electron microscopy (SEM) (JEOL, JSM T-20 Japan, accelerating voltage 19 KV), Auger electron spectroscopy (AES) and x-ray photoelectron spectroscopy (XPS). The spectrometer for AES and XPS surface analysis was a type 550 ESCA/ SAM (Physical Electronics, USA). The vacuum in the analytical chamber was better than 10-9. The adjustment of the XPS spectrometer, procedure for measurement and analysis conductions have been described elsewhere [23]. All experiments were carried out at room temperature of 25 oC.
+
+3
+
+3. Results
+3.1 Potential ­ Time behaviour The variation of the open circuit potential of Al pure metal, Al ­ Cu alloys and Cu pure metal with time in 0.1 M HCl are shown in Fig. (1). In all curves, the potential shifted to more negative values after the first instant of immersion. This behaviour is due to the dissolution of the pre immersion airformed oxide film carried out by the metal surface [24], which is not able to impart passivity. From these curves the following consideration can be predicted. (a) In case of Cu metal and Al-Cu alloys, the steady state potential of Cu electrode is attained after about 2 min. of immersion. (b) The Al electrode acquires its final steady state potential after 180-200 min. of immersion, where the potential is shifted to more negative value due to dissolution of the pre immersion oxide, which extended up to 20-30 min. After that the potential changes its direction more slowly to exhibit nearly the steady state potential, which acquires the same starting potential (-760 mV). This indicates that the steady state potential is achieved by the formation of Al oxide [22]. (c) The presence of Cu with Al in all Al-Cu alloys (3.84 to 11 %) moves the potentials towards less negative values (nearly 125 mV) with respect to pure Al. The steady state potential occurred at the first instant of immersion as represented in case of Cu metal. This behaviour is attributed to the enrichment of Cu on the alloy surface, as will be discussed briefly latter. In Fig. (2) curves are drawn representing the variation of the potential of pure Al with time in solution of 0.1 M HCl with increasing CuCl2 additions varying between 0.4 and 200 ppm. These curves show that as increasing the concentration of CuCl2 the negative shift in potential is decreased after few minutes of immersion (30 min.) and is nearly eliminated at 200 ppm CuCl2 addition. This behaviour can be regarded as a result of the competition between the dissolution of the pre immersion Al oxide and the deposition of Cu metal from the solution. On the other hand, the steady state potential depends on the concentration of CuCl2 additions, where a faster rate is obtained at 200 ppm of addition. At the steady state potential a slight oscillation in
+4
+
+the potential appeared and the recorded steady state values are nearly the same as that of Al-Cu alloys of Fig. (1). These oscillations were due to the change in homogeneity of the surface, which its produced as a result of the continuous deposition of Cu at the solid solution interface. Accordingly, the colour of metallic copper was detected by naked eye. The curves of Fig. (3) were obtained as a result of immersion of the Al-3.84% Cu alloy in 0.1 M HCl for different time intervals of 2, 4 and 8 hr. After each time of immersion only the sample of Al-Cu alloy was changed by a pure Al metal and its potential behaviour was followed against time. The curves exhibit similar features as that recorded in curves of Fig. (2) during addition of 0.4 - 5 ppm CuCl2, where the values of initial and final steady state potentials are approximately the same. These results confirm that the release of Cu from the Al-3.84% Cu alloy seems to be enough not only to cause enrichment on the alloy surface but also to dissolve and deposit on pure Al electrode. The above results can further be confirmed by immersing two specimens of Al-3.84% Cu alloy and pure Al metal separately in the same solution of 0.1M HCl. The variation of the potential against time of each one was followed as represented in Fig. (4). The curve of pure Al shows that after shifted to more negative potential with time, the potential change its direction and increases to less negative values with a smallar rate as a result of the deposition of Cu from solution. A higher rate of increasing in potential is recorded after around 65 days where the potential jumped to ­100mV, which represent nearly the same steady state potential of Cu metal of Fig. (1). This indicates that after around 65 days the surface becomes completely covered with Cu therefore, the Al electrode behaves as a Cu metal. The small degree of oscillation, which is recorded in case of pure Al, is due to the continuous deposition of Cu at the whole surface as shown from examination of the surface using SEM. Additionally, the behaviour of the Al-3.84% Cu alloy shows a higher degree of oscillation and no achievement the potential of Cu metal (Fig.4). This result is due to the localized attack, which is recorded by the SEM as to be discussed latter.
+
+5
+
+3.2 Scanning Electron Microscopy Examination At the end of the experiments of Fig. (4), the surface topography of pure Al and Al-3.84% Cu alloy was examined using SEM, the micrographs are given in Fig. (5). The scanning electron micrographs of Fig. (5) indicate that, in case of pure Al (Fig. 5a) a fine redeposition of Cu is extended to cover all the surface. In the case of Al-3.84% Cu (Fig. 5b) the surface became uneven where the Cu present on the surface is not due to the Cu redeposition only but it is occur as result of the outer diffusion or segregation of Cu to the surface. The alloy surface shows a severe attack besides the enrichment of Cu as Cu clusters (as represented by the white and gray regions on the photograph). On the other hand, the scanning micrograph at higher magnification (Fig. 5c) shows the appearance of metallic copper on pure Al, which cover all the surface with no local attack and no copper cluster on the surface. This observation confirms the result of the open circuit potential of Fig. (4), which shows a higher shift in the potential of pure Al to attain nearly the steady state potential of Cu metal. The higher magnification image of Al-3.84% Cu alloy (Fig. 5d) after immersion in 0.1 M HCl for 80 days displays the formation of a uneven distribution film besides the appearance of copper clusters which is grew to cover around 75% of the alloy surface. Additionally, a severe local attack also occurred around the clusters which represent the dark region around the white or gray regions (cluster). These results further support the result of Fig. (4), where a higher oscillation in the potential of Al-Cu alloy is observed.
+
+3.3 AES and XPS surface analysis measurements The resulting surface of pure Al and Al-Cu alloy at the end of the experiments of Fig. (4) also were examined using AES and XPS surface analysis techniques indicate that. (1) The picture of the surface topography on the spectrometer for pure Al sample after equilibration show nearly the same regular surface (its picture is not including in the present photograph).
+
+6
+
+(2) The AES survey analysis of pure Al of Fig. (7a), which is similar to many survey at different sites on the surface, show the appearance of a peaks corresponding to Cu and oxygen and a trace amount of C while Al peak is not recorded. This confirms that the surface of pure Al is nearly completely covered by the deposited copper. On the other hand the picture of the surface topography of Al-Cu alloy at the end of experiment of Fig. (4), which also is not including in the photograph, is characterized by. (1) The appearance of a white bright region which is surrounded by a dark regions (similar to that recorded in Fig. (5)). (2) The AES survey of the corresponding surface of Al-Cu alloy at the end of experiment of Fig. (4) show different species which differ from site to another depending on the bright and dark regions. Accordingly AES survey point analysis was made at the same time on the dark and bright region as shown in Fig. (7b, c). The spectrum of Fig. (7b) in dark region indicates that, the detection of Cu and O with small amount which associated with the presence of excess Al. In contrast Fig. (7c) in bright region (copper cluster) represent the appearance of Cu as major constituent beside a traces amount of Al and O. To throw more light on the surface composition XPS surface analysis Fig. (8) of pure Al at the end of experiments of Fig. (4) indicates that copper is detected on the surface mainly as copper metal (Cuo) and the 2P Cu of Fig. (8a) clear prominent contribution to the 2P3/2 and 2P1/2 also the shack up satellite has occurred as a result of the presence of Cu++. A strong support of the previously recorded divalent copper came from Cu (LMM) spectra in Fig. (8b) which shows the appearance of CuCl and CuCl2 beside the metallic copper (Cuo).
+
+4-Discussion
+The enrichment of Cu in Al-Cu alloys has been extensively studied by several authors [8, 16, 19, 25-28]. Such enrichments can occure when amorphous Al oxides grow on the alloy surface [10,29,30] to form the enriched layer, which contains copper clusters. The mechanism of the enrichment shows
+7
+
+some controversy [12,20,31], where it occurs either by a dissolution and redeposition process or by the solid state enrichment followed by a non-faradic transport process. Recently, Afseth et al [19] concluded that the enrichment of copper in solid solution is attributed to the selective dissolution of Al to lead the formation of copper particles. In the present study, the potential-time measurements carried out in 0.1 M HCl containing different addition of CuCl2, Fig. (2), show that the OCP drifted to less negative values in comparison with pure Al. This shift is due to the accumulation of Cu metal on the pure Al surface in accordance with mixed-potential theory. Further confirmation on the accumulation of Cu metal on the Al surface at two different OCP value (E = -860, -680 mV) are shown in Fig. (6). Both these values show a significant change of the surface oxide film. The addition of 200 ppm CuCl2 at these two values caused abrupt attendant positive shift in the OCP to the same value. This indicates that the driving force for deposition of copper is the same at these two values and the deposition of copper occurs from the first instant of immersion. Previous result [32], concluded that the driving force for copper deposition is increased as the negativity of the corrosion potential increases. This occurred when Al was immersed in a solution of 0.1 M Na2SO4 in the presence of 10-3 M CuSO4. On the other hand, our results of Figs. (3,4) provide an evidence to support the simple homogeneous dissolution mechanism, where the surface of pure Al shows a higher accumulation of Cu on the surface. The deposition of Cu on the surface of pure Al occurred where the colour of metallic copper clearly detected by naked eye. This is agreement with a previous published data [32], which concluded that copper can deposited at all sites even over the primary deposited Cu locations. This was behind the positive shift in the OCP of pure Al to reach relatively the OCP of pure Cu metal (Fig. 4). This conclusion is supported by AES survey analysis on the test coupons at the end of experiment of Fig. (4) to allow quantitative identification of elements present at particular point on the surface to a depth of 5 um. The AES survey analysis is presented in Fig. (7a) which indicate that the peak related to Cu at 920 had increased in length to become maximum while Al peak at 1396 eV was not detected at that stage.
+
+8
+
+The selection of Al peak at 1396 eV for this study is occur because it is difficult to separate the Al and Cu peaks either by XPS or AES owing to the overlapping of the minor peak of Cu with the main peak of Al. On the other hand the Al-Cu alloy in the same solution at the end of of Fig. (4) and the photograph of Fig. (5) show different features. The final OCP shows higher oscillation rate at more negative OCP and the surface at the end of the experiment show a severe attack around the Cu-clusters as represented in the dark regions of photograph of Fig. (5d). To confirm these results and to identify the constituent elements, it is possible through this versatility of the AES spectrometer to direct the electron beam to specific points of the film, survey analysis was performed both in dark and white regions. The spectra shown in Fig. (7b) in dark region show a very weak Cu signal beside Al and O shows enhanced signal and the presence of C peak as a result of the adsorbed hydrocarbon formed from air atmosphere. On the other hand the spectra in white region (inside the cluster) of Fig. (7c) shows that the Cu peaks become maximum and also the presence of a weak peaks of Al and O. The presence of Al and O in the white region (inside the cluster) are due to the thin nature of Cu cluster, which allow the electron beam to detect Al and O from the Al2O3 underneath the Cu cluster. According to the results obtained from the OCP, SEM and AES survey point analysis it can be concluded that a sever galvanic attack around the cluster is occurred. The galvanic dissolution at the breifery of the Cu cluster can be extended to dissolve the Al beneath the Cu cluster and caused detachment of some of these clusters from the alloy substrate to solution as shown in photograph of Fig. (5d) at the right upper part. Missert et al [33] found that the Al beneath the Cu rich island dissolves with crevice geometry. Once these clusters are detached from the alloy surface it can be oxidized in the freely aerated HCl solution and finally deposited as Cu metal on the alloy surface. The deposition of Cu metal on the pure Al surface shows fine deposits, which will occur in the same manner on the alloy surface. This is in agreement with the published data [14], which showed that the presence of Cl- ion promotes more uniform deposition of Cu on Al-Cu alloy surface. At the locations of these uniform depositions of Cu and under the influence of acidity, the deposited Cu at
+
+9
+
+the outer most surface can be oxidized to Cu+ ions. This simple cuprous (Cu+) can not exist in aqueous solution since it oxidizes and reduces itself through the reaction known as disproportionation [34-35]. 2Cu+ = Cu2+ + Cu (1)
+
+This disproportionation reaction which takes place, for example, when Cu2O is placed in a solution of sulfuric acid can be hindered when Cu+ is stabilized by the formation of insoluble substances or complex ions. For instance, in the presence of chloride ion Cl- is stabilized through formation of CuCl and CuCl2- [34]. Under the present condition the medium has a high chloride content and any produced Cu+ would be stabilized through formation of CuCl precipitate and CuCl2- solution complex and the disproportionation reaction appears unlikely to occur as represented in equation (1). Thus Cu+ and Clions can come indirect contact only at the outer most surface where the surface of Al become completely covered with Cu deposited, at the end of experiment of Fig. (4), as followed by the reactions described bellow [35, 36]. Cu = Cu+ + e Cu+ + Cl- = CuCl CuCl + Cl- = CuCl-2 (2) (3) (4)
+
+A feature support to the above was gained from XPS multiplex of the pure Al sample after treated in 0.1M HCl for 85 days at the end of experiment of Fig. (4) as represented In Fig. (8 ). The higher resolution multiplex show that Cu++ was detect in the Fig. (8a ), it is clear that the predominant contribution to the 2P3/2 and 2P1/2 peaks and also the shack up satellite peaks at about 943 and 963 eV occurred as a result of the presence of Cu++. The detection of Cu++ at the outer most surface facilitate the second oxidation state of the Cu deposited. This conclusion is supported by the XPS composite of Cu LMM spectra of Fig. (8b) for the same sample at the end of experiment of Fig. (4). The Cu LMM peak indicate that the appearance of metallic copper (Cuo) at 334.8 and CuCl at 336.3 and CuCl2 at 338.4 which are in agreement previously [37]. The detection of metallic copper besides the first and oxidation state on the surface satisfied the occurrence of the disproportionation reaction as shown in equation (1). Finally, from the above studies it is concluded that the copper can be release to the solution through the
+
+10
+
+formation of dichloro coprate complex CuCl-2 of equation (4) and the disproportionation reaction as shown in equation (1).
+
+5. Conclusions
+Two different types of Cu are detected; one of them is accumulated on the surface in the form of clusters, which is responsible of the local attack. This was attributed to the AES survey point analysis at two different point which indicate that Cu is accumulated in the bright white region (cluster) while in dark region Al was present with higher ratio and traces Cu amount. The second is enriched on the surface with a fine uniform redeposition. The redeposition of Cu on the pure Al surface represent an increase in the potential of Al to less negative values to show the potential of pure Cu after about 65 days of immersion. This was supported by the detection of Cu peak and the disappearance of Al peak at all sites on the surface using AES survey point analysis. On the other hand XPS analysis confirm the detection of Cu species in the form of Cuo, CuCl and CuCl2 and the peaks corresponding to Al species was not detected at the whole surface. The detection of Cu++ ion supports the occurrence of the disproportionation reaction of Cu+because Cu++ is one of its reaction products. The dissolution of the redeposit Cu at this stage behaves as Cu metal and can suggest that it occur both through the disproportionation reaction of Cu+ and the solution of CuCl-2 soluble complex at the outer surface
+
+Reference
+[1] H. Habzaki, K. Shimizu, M. A. Paez, P. Skeldon, G. E. Thompson, G. C. Wood, X. Zhou, Surf. Interface Anal. 23 (1995) 892. [2] X. Zhou, H. Habzaki, K. Shimizu, P. Skeldon, G. E. Thompson , G. C. Wood, Thin Solid Films 293 (1997) 327.
+
+11
+
+[3] I. Pires,L. Quintino. C. M. Rangel, G. E. Thompson, P. Skeldon, X. Zhou, Trans. Inst. Met. finish. 78 (2000) 179. [4] H. Habzaki, K. Shimizu, P. Skeldon, G. E. Thompson, G. C. Wood, X. Zhou, Trans. Inst. Met. finish. 75 (1997) 18. [5] M. Seruga, D. Hasenay, J. appl. Electrochem. 31 (2001) 961 [6] B. Mazurkiewicz and A. Piotrowski, Corros. Sci. 23 (7) (1983) 697. [7] C. A. Drewien, R. G. Buchheit, Issues for Conversion Coating of Al Alloys with Hydrotalcite, Corrosion / 94, paper n.622, NACE International, Houston, TX (1994). [8] Y. Liu, F.Colin, P. Skeldon, G. E. Thompson, H. Habzaki, K. Shimizu, Corros. Sci. 45 (2003) 1539. [9] A. J. Smith, T. Tran , M. S. Wainwright, J. Appl. Electrochem. 29 (1999) 1085. [10] S. Garcia-Vergara, P. Skeldon, G. E. Thompson, P. Bailey. T.C.Q. Noakes, H. Habzaki, K. Shimizu, Appl. Surf. Sci. 205 (2003) 121. [11] R. G. Buchheit, J. Electrochem. Soc. 142 (1995) 3994. [12] R. G. Buchheit, M. A. Martinez , L. P. Montes, J. Electrochem. Soc. 147 (1) (2000) 119. [13] J. R. Scully, R. R. Frankenthal, K. J. Hanson, D. F. Siconolfi, J. D. Sinclair, J. Electrochem. Soc. 137 (1990) 1373. [14] J. R. Gavele and S.M. de DeMicheli, Corros. Sci. 17 (1970) 795. [15] I. L. Muller, J. R. Galvele, Corros. Sci. 17 (1977) 179. [16] R. G. Buchheit, R. K. Boger, Localized Corrosion Proceeding of the Research Topical Symposium, Corrosion 2001 NACE, Houston TX (2001) P 265 [17] R. Newman, T. Leclere, Dealloying of Copper Redistribution During Corrosion of Aluminum Alloy 2024, Abstract H 1.2. M RS Spring 2000 Meeting abstract, San Francisco, CA. Warrendale, PA: Materials Research Society, 2000. [18] M. B. Vukmirovic, N. V. Dimitrov, K. Sieradzki, Experimental Models and Analogues of the Corrosion Behavior of Al 2024 ­T3, Abstract 273, Meeting Abstracts; 198th Meeting
+
+12
+
+of the Electrochemical Society, Phoenix, AZ, Pennington, NJ; The Electrochemical Society, 2000. [19] A. Afseth, J. H. Nordlein, G. M. Scamans , K. Nisancioglu, Corros. Sci. 44 (2002) 2529. [20] R. G. Buchheit, R. P. Grant, P. F. Hlava, B. Mckenzie , G. L. Zender, J. Electrochem. Soc. 144 (8) (1997) 2621. [21] N. Dimitrov, J. A. Mann. , K. Sieradzki, J. Electrochem. Soc. 146 (1) (1999) 98. [22] H. A. El Shayeb, F.M. Abd El Wahab , S. Zein El Abedin, Br. Corros. J. 34 (1) (1999) 37 [23] T. M. Saber, A. A. El-Warraky, Br. Corros. J. 26 (1991) 279. [24] U. R. Evans, An Introduction to metallic corrosion, Ed. Amold (1963) London P. 6s. [25] R. G. Buchheit, R. K. Boger and M. W. Donohue, Electrochemical Society Proceeding of the Symposium on seawater Corrosion, PV 99-26, the Electrochemical Society. INC., Pennington, NJ. P. 205 (2000). [26] R. G. Buchheit, L. P. Montes, M. A. Martinez, J. Micheal , P. F. Hlava, J. (12) (1999) 4424. [27] C. Witt, C. A. Volkert , E. Arzt, Act Materialia 51 (2003) 49 [28] Y. Liu, E. A. Sultan, E. V. Koroleva, P. Skeldon, G. E. Thompson, X. Zhou, K. Shimizu, H. Habazaki , Corros. Sci. 45 (2003) 789. [29] C. E. Caicedo-Martinez, E. v. Koroleva, G. E. Thompson, P. Skeldon, K. Shimizu, G. Hoellrigl, C. Campbell , E. Mc Alpine, Corros. Sci. 44 (2002) 2611. [30] K. Shimizu, K. Kobayashi, G. E. Thompson, P. Skeldon , G. C. Wood, Corros. Sci. 39 (2) (1997) 281. [31] N. Dimitrov, J. A. Mann. A, K. Sieradzki, J. .Electrochem. Soc. 132 (1985) 2308. [32] D. J. Blackwood , A. S. L. Chong, Br. Corros. J. 33 (3) (1998) 225 [33] N. Missert, K. A. Son, F. D. Wall, J. C. Barbour, J. P. Sullivan, K. R. Zavadil, R. G. Copeland, M. A. Martinez, R. G. Buchheit, C. S. Jeffcoate, H.S. Isaacs, Electrochemical Society, Proceedings volume, 99-29, 1999 Pennington.. Electrochem. Soc. 146
+
+13
+
+[34] M. J. Sienke and R. A. Plane " chemical Principles and properties" 2nd Ed, MC GrawHill, London (1974) P; 540. [35] A. A. El Warraky, J. Mater Sci. 31 (1996) 119 [36] A. A. El Warraky, Anti-Corros. Met. Mat. 50 (1) (2003) 40. [37] A. A. El Warraky, A. E. El Melegy, Br. Corros. J. 37 (4) (2002) 305.
+
+Figures
+-100 -200 -300 -400 blank Al Al 3.84Cu alloy Al 5.22Cu alloy Al 11Cu alloy blank Cu
+
+E / mVSCE
+
+-500 -600 -700 -800 -900
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+200
+
+220
+
+240
+
+Time / min Fig. 1
+Fig. (1) Variation of the open- circuit potential of pure Al, Al-Cu alloys and pure Cu in 0.1 M HCl solution of pH 1.
+
+14
+
+-700
+
+-750
+
+E / mVSCE
+
+-800
+
+-850
+
+blank Al 0.4 ppm 1 ppm 5 ppm 20 ppm 50 ppm 100 ppm 200 ppm 0 20 40 60 80 100 120 140 160 180 200 220 240
+
+-900
+
+Time / min Fig. 2
+Fig. (2) Variation of the open- circuit potential of pure Al in 0.1 M HCl of pH 1 in absence and presence of different additives of CuCl2.
+
+15
+
+-650
+
+-700
+
+E / mVSCE
+
+-750
+
+-800
+
+-850
+
+blank Al Al after 2 hr. Al after 4 hr. Al after 8 hr. 0 20 40 60 80 100 120 140 160 180 200 220 240
+
+-900
+
+Time / min Fig. 3
+Fig. (3) Variation of the open- circuit potential of pure Al in 0.1 M HCl pH 1 Free from and contains dissolved product of Al-3.84 % Cu alloy after immersion in 0.1 M HCl for different times.
+
+16
+
+-100 -200 -300
+
+E / mVSCE
+
+-400 -500 -600 -700 -800 -900
+
+Al Al-Cu
+0 10 20 30 40 50 60 70 80
+
+Time / day Fig. 4
+Fig. (4) Variation of the open- circuit potential of pure Al and Al-3.84 % Cu alloy separately in the same corrosion cell containing 0.1 M HCl of pH 1 for 80 days.
+
+17
+
+18
+
+-650
+
+-700
+
+-750
+
+E / mVSCE
+
+Cu addition
+-800
+
+-850
+
+Cu addition
+-900 0 20 40 60 80
+
+blank Al after add. 200 ppm CuCl2 at 140 min after add. 200 ppm CuCl2 at 13 min
+
+100 120 140 160 180 200 220 240
+
+Time / min Fig. 6
+Fig. (6) Variation of the open- circuit potential of pure Al in 0.1 M HCl where CuCl2 are added at two different values of potential.
+
+19
+
+Fig. (7) AES survey analysis of films formed on test coupon after immersion in 0.1 M HCl for 80 days, at the end of experiment of Fig. (4). (a) Pure Al (b) Al-3.84 % Cu alloy in dark region
+
+(c) Al-3.84 % Cu alloy in bright white region (cluster)
+
+20
+
+Fig. (8) XPS spectra for Cu after immersion of pure Al in 0.1 M HCl for 80 days, at the end of XPS of Fig (4). (a) Cu2P (b) Cu LMM
+
+21
+

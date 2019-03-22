@@ -1,0 +1,165 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 9
+The Mechanism Studies of Carbon Dioxide Corrosion in Supercritical Fluid State in the Process of Oil and Natural Gas Exploitation#
+Li Chunfu1,2, Wang Bin2, Dai Jialin2, Zhang Ying 2, Luo Pingya1 1. State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation (Southwest Petroleum Institute), Chengdu, China 610500 2. Material Science and Engineering College, Southwest Petroleum Institute, Chengdu, China, 610500 #The Province Nature Science Project of Educational Committee, Sichuan, China. No. 902, , Corresponding Author, Li Chunfu, Professor, Material Science and Engineering College, Southwest Petroleum Institute, Chengdu, China, 610500. Phone: 86-28-8303-2852, Abstract: The state of CO2 and its effects on pipe string corrosion of the oil and gas well at high temperature and pressure are theoretically studied. The CO2 mole concentration, its distribution coefficient in the phases of oil and water and system pressure are proposed to describe CO2 corrosion in formations and pressure funnel at the supercritical state. The experiments of CO2 steel P110 corrosion in the medium of oil and water was conducted at CO2 mole concentration 4%, temperature 120 0C, system pressure 35 MPa for 144 hours. The weight loss of steel corrosion occurs only in the initial 24 hours and the accumulated corrosion rate is smaller than 0.5mm/year, significantly lower than 11mm/year at CO2 partial pressure 1.5MPa. Analyses of corrosion films by SEM, EDS and XRD indicates that the corrosion film is composed of CaCO3 grains with a compact structure and can protect steel from further corrosion. Key words: CO2 corrosion, high temperature and pressure, supercritical fluids, corrosion film The CO2 steel corrosion has be a great concern in petroleum and natural gas industry world-widely. The CO2 concentrations can be as high as 1.5% to 30% in many well cases and strong corrode the pipe string in oil and gas wells where it exists with water. Researches of CO2 steel corrosion in the field of oil and natural gas exploitation are currently based on the conception of CO2 partial pressure which is the product of saturation pressure at well bottom hole and the CO2 mole fraction of associated gas measured at wellhead and usually falls into the range of 1MPa to2 MPa. CO2 partial pressure has bee defined to represent the CO2concentration in whole formation and pipe string in pressure funnel of wellbore to simulate the CO2 corrosion state.[1-7] As a results, the researches, included corrosion mechanism, the corrosion macro-behavior, corrosion thermodynamics and dynamics, the composition and structure of corrosion film and the factors which influence the corrosion behaviors, have been conducted subjecting to the condition of CO2 pressure fraction 1MPa to 2MPa. There is a few available research reports related the CO2 existing state, the effects of its solubility change in water and the interaction between CO2, hydrocarbon and water on the steel corrosion at the condition of high temperature and pressure. A conception of supercritical CO2 corrosion based on the theoretic analyses have been proposed to investigate CO2 steel corrosion in high temperature and pressure in this study. The steel corrosion experiments, including corrosion rate in a simulating medium of oil well produce water at high temperature and pressure, structure analyses of corrosion films, are designed and conducted. It is the subject of this paper to afford a scientific awareness about CO2 steel corrosion in the supercritical state during the process of oil and natural gas exploitation.
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+1. The CO2 phase in formations and pressure funnel of wellbore 1.1. The characteristics of supercritical CO2 It is a common knowledge that CO2 is a colorless, odorless and noncombustible gas with relative density 1.5192 and molecular weigh 44.01 on the standard state and may exist in the form of gas, liquid or solid according to the condition of temperature and pressure. CO2 can be dissolved in polar and non-polar solvents, such as water p or etroleum. It is well known that CO2 critical temperature (Tc) and pressure (Pc) are very important parameters, over which CO2 is in the supercritical fluid state and its physical properties will be total different. The interface between the liquid and gas phases will disappear. The density of supercritical CO2 is the function of temperature and pressure, at the range of 0.448 to 900g/L, approaching the density of a liquid in whole supercritical region,. A slight change of temperature and pressure near-by the supercritical points will make its density significantly changed, as shown in Figure 1.. Its diffusion coefficient is several hundred times larger than liquid. Therefore, supercritical CO2 has a high solubility for compounds, performing like a liquid, but also easy to diffuse and move like a gas. Its mass transfer rate is much high than liquid. The solubility of CO2 in water generally increase with increase of pressure and decrease with the increase of temperature. A sharp change of its solubility occurs at the region near-by the supercritical points as shown in Figure 2.. 1.2. The CO2 State in reservoirs and pressure funnel of wellbore It is known that the petroleum and natural gas in reservoirs are mainly composed of hydrocarbon compounds, a certain amount of CO2 and other gases. Natural gas and petroleum associated gas are mainly composed of low molecular weight hydrocarbons in which methane concentration is larger than 70% and a small amount of other non-hydrocarbons (generally 1-20 mole percent, varied with reservoirs), such as N2, He, CO2 and H2S, etc.. The composition is varied with reservoirs. The temperature and pressure of reservoirs increase with the increase of formation depth. Theoretically, CO2 (Tc=304.21K and Pc=7.39 MPa) and methane (Tc=190.15 and Pc=4.6 MPa) [3] in the reservoirs will exist in supercritical state if the temperature and pressure are over their supercritical points when the depth of wells is over than 3000m. The low molecular weigh hydrocarbons will also be in the supercritical state if the formation is deep enough. Therefore, Methane, CO2, low molecular weigh hydrocarbons and other non-hydrocarbons will exist in a form of supercritical fluids and mix with the liquid of water and high molecular weight hydrocarbon to form a mixture of corrosion medium. The temperature and pressure in the pressure funnel of wellbore from formation to wellhead are in the process of decrease. The density of supercritical fluids has been changed continually above the supercritical points. The supercritical fluids will transfer to gases respectively when temperature and pressure are lower than their Tc and Pc and the comprehensive density of oil and gas flowing are in the sharp change process. The CO2 solubility in water and the mutual soluble state of CO2 and hydrocarbons are also in the sharp change process. Therefore, the wellbore is in the corrosion medium with varied acidity corresponding to the formation depth and therefore, the corrosion state in different parts will be significantly different. 2. The Steel Corrosion in the Medium of oil, water and Supercritical CO2 2.1. The description of steel corrosion in the medium of oil, water and supercritical CO2 The steel corrosion state in the supercritical fluid mixture is determined by CO2 concentration, temperature and pressure according to the mechanism of CO2 steel corrosion. CO2 partial pressure can not accurately describe CO2 concentration in the cases that some of the components in system, such as methane, are in compressive gas or supercritical fluid state at high temperature and pressure since the Dalton partial pressure law is built up on the definition of idea gases. CO2 concentration can only be accurately described by CO2 mole fraction in system. However, the solubility of CO2 in water phase is determined not only by CO2 mole fraction, but also system total pressure and it distribution coefficient in the phases of oil and water if considering the interaction between supercritical CO2 and hydrocarbon fluids. Therefore, the medium PH value of oil and water mixture is determined by solubility of CO2 under the function of system pressure and the distribution
+2
+
+coefficient. If system components, degree of mineralization, and the medium of oil and water mixture are same, the larger the CO2 concentration and its distribution coefficient in water, the more amount of CO2 dissolved in water, and therefore the lower the PH value. As a result, the actual CO2 steel corrosion will be significant departure from the results from simulation environment of the CO2 partial pressure 1MPa to 2 MPa. 2.2. Thermodynamics of Steel Corrosion in the medium of oil, water and supercritical CO2 When PH value of aqueous solution is in the range of 4 to 6, the anode reaction of CO2 steel corrosion can be expressed as: FeFe2++2e Anode potential can be expressed as: Eea=Eao+
+RT ln a Fe 2 + nF (2)
+
+(1)
+
+Where n is electron transfer number in cell reaction, F is Faraday constant; aFe2+ is activity of Fe2+. Assume that no Fe2+ ions exist in system before the reaction and consider that Fe2+ activity is not the function of pressure because of non-compressible property of water. Fe2+ concentration produced by the reaction can be taken the value of 10-6 mol/L, suggested by M. Pourbaix. Eao is ­0.44v and calculated Eea is -0.618v at temperature 298.150K and Eea is -0.69v at temperature 393.150K according to Eq. (5). When reaction is determined by hydrogen depolarization under the condition that no oxygen exists, the cathode reaction can be written as: H2CO3+e  [H]ad Cathode potential can be expressed::
+0 E e ,c = E c +
+
++
+
+HCO3 ­
+
+(3)
+
+RT ln a H + + ln a HCO - - ln a H 2CO3 3 F
+
+[
+
+]
+
+(4)
+
+Where Ec0 is cathode potential on the standard condition;H+, is the hydrogen activity absorbed on the steel surface, HCO3 ­ andH2CO3 are the activity of HCO3 ­ and H2CO3, respectively. Most CO2 molecules exist in a form of hydration with water molecules when CO2 are dissolved in water. Only small amount of CO2 molecules reacts with water and form H2CO3. It is well known that the binary week acid H2CO3 is dissociated in water in two steps; H2CO3 H++HCO3HCO3-H++CO32(5) (6)
+
+The dissociation constant K1 and K2 are 4.30×10-7 and 5.61×10-11, respectively. It can be calculated that CO32- concentration [CO32 ]  K2=5.61 × 10-11 according . CO2 solubility in water at the pressure 1.5MPa and 35 MPa can be obtained from Figure 2, which is 0.6g/dm3 and 6g/dm3, or 0.0136mol/dm3 and 0.136mol/dm3 respectively The ionization degree of H2CO3 can be calculated:
+a = K1 & C
+
+(7)
+
+The calculated ionization degree are 0.00581 at pressure 1.5MPa and 0.00147 at pressure 35 MPa respectively if assume that all CO2 molecules dissolved in water are converted to H2CO3. The electrode potential differences between 1.5 MPa and 35 MPa at temperature 418.15 0K can be expressed:
+3
+
+15 35 E e,.c MPa - E e,cMPa
+
+=
+
+RT RT 35 35 35 ln a 1.5+ + ln a 1.5 - - ln a 1.5CO3 ln a H + + ln a HCO - - ln a H 2CO3 H2 H HCO3 3 F F
+
+[
+
+]
+
+[
+
+]
+
+(8)
+
+and the value calculated is 2.6803v if activities in Eq. 12 are substituted by their concentrations The estimate value indicates that the effects of pressure on the cathode potential is significant during process. 2.3. Dynamics of Steel Corrosion in the medium of oil, water and supercritical CO2 Generally, the reaction rate of nonreversible electrode is the function of the surface state of electrode and its absorption characteristics (some inter reactions steps occur and their reaction products are adsorbed on the surface of electrode or the reactants are the molecules adsorbed on the surface of electrode), and determined by the rate determined step (RDS). If the mass transfer rate is fast enough and polarization effects of concentration differential on the surface are neglected, the exchange current density of anode and cathode for CO2 steel corrosion can be expressed:
+r1 0 I o, a = 2 F  k a  a Fe 2 + exp(
+
+E e, a
+
+a
+
+)
+
+(9)
+
+where Kao is the rate constant of anode, 1 is reaction order of Fe2+, a is the Tafel slope of anode reaction E e,c ' r1/ r2/ 0 (10) ) I oc = F  k c  a H 2CO 3  a H + . 3 HCO - exp(-
+3
+
+c
+
+where 1',2' and3' are reaction orders of H2CO3, H+ and HCO3-; Kco are the rate constant of cathode reaction; c are the Tafel slope of cathode reactions. The current density in electrode reaction can also be expressed: Ia = I0a exp
+
+E - E e,a
+
+a
+
+=I0aexp
+
+a  a
+- c
+
+
+(11)
+
+Ic = -I0,c exp
+
+E e ,c - E
+
+c
+
+=-I0c exp
+
+c
+
+(12)
+
+Where c = (Eec-E) and a = (E-Eea) are the excess potential of cathode and anode, respectively.
+The exchange current density of anode and cathode reaction I0a and I0c in CO2 steel corrosion are the function of the reactant activities of [H], HCO3 ­ andH2CO3, The activities of reactants are determined by the solubility of CO2 and their ionization degree in water, which affected by their pressure. Therefore, the supercritical CO2 fluid in the medium of water and oil will significantly affect the CO2 corrosion dynamics process. Unfortunately, there are no related data and measure technique available. It is necessary to develop new technique of PH value and electrochemical measurement in the system of high temperature and pressure to investigate thermodynamics and dynamics of CO2 corrosion in the medium of oil and water at supercritical state[6]
+
+3. The experiments of steel corrosion in the medium of oil, water and supercritical CO2 3.1 The corrosion rate The corrosion experiments of steel P110 were conducted in the medium of simulated oil well produced water at CO2 pressure 1.5MPa, and CO2 mole percentage 4%, system pressure 35 MPa, temperature 1200C in a dynamic high temperature and pressure autoclave set up in the laboratory. The total corrosion time was 144 hours. The results are shown in Figure 3. It can be known that the accumulated steel corrosion rate in the corrosion medium at CO2 pressure 1.5 MPa increase with increase of corrosion time and finally reaches 11mm/year while the accumulated steel
+4
+
+corrosion rate at CO2 mole percentage 4%, system total pressure 35MPa decrease with the increase of corrosion time and smaller than 0.5mm/year at the end of experiment. It is noticed that the weight loss of steel in the corrosion medium of supercritical CO2 is actually not changed after first 24 hours, which indicate that the formed corrosion film has a function to protect steel from further corrosion. 3.2. The corrosion films The morphology, composition and structure of corrosion films analyzed by SEM, EDS and XRD are shown in Figure 4, Figure 5 and Figure 6. The corrosion film formed at the condition of CO2 partial pressure 1.5MPa is composed of crystals of (Fe, Ca)CO3 complex (Figure 5 and Figure 6) and there are pores or hollows existed in the film, through which the corrosion medium can be transferred (Figure 4).. The corrosion film produced at system pressure 35 MPa is composed of FeCO3 in initial 24 hours and converted to CaCO3 after 48 hours. It is believed that the steel surface is rapidly covered by at high pressure in the initial stage and the FeCO3 is dissolved in CO2 solution with the development of corrosion since CO2 solution have a high solubility for FeCO3 according to Eq. (13) FeCO3 +HCO3-Fe(CO3)22-+H+ Ca2++CO32-CaCO3 (13) (14)
+
+Meanwhile, CaCO3 have been formed according to Eq.(14) and deposit on the surface of steel during the corrosion process and finally a compact corrosion film composed of CaCO3 are created and protect steel from further corrosion after FeCO3 has been completely dissolved.
+
+4. Prospect The CO2 steel corrosion in supercritical state during the process of oil and natural gas exploitation is related to researches in areas of corrosion mechanism, composition and structure analyses corrosion film, and specially rely on the development of electrochemical measure technique at high temperature and pressure. We strongly believe that the corrosion state and corrosion protection of oil and gas well will benefit from the development of researches in this field and we hope our primary work in this field will make a contribution for its developments. References: (1). The Research Development of CO2 Corrosion in Petroleum and Natural Gas Industry (J), Corrosion and Protection, 199(19)4:51-54 (2). Lhodny-sarc O., Corrosion in Oil and Gas Drilling and Production Operation (A). A Working Party Report on Corrosion Inhibition (C), Houston, USA, 1994 (3). The Corrosion and Protection of CO2 (M), Press of Chemical Industry, Beijing, China, 2000 (4). Supercritical Fluid (M) Press of Chemical Industry, Beijing, China, 2000 (5). The Handbook of Applied Surfactants (M), Press of Chemical Industry, Beijing, China, 1992 (6). The Research Development of Ag/AgCL Reference Electrode in Aqueous Solution at High Temperature and Pressure. (7). Palacios C.A., Shadley T.C., Characteristics of Corrosion Scales on Steel in CO2 Saturated NaCL Brine, Corrosion,1991, (47)2:122-127 (8). The Studies of CO2 Corrosion Film of Steel N80 (J), China Corrosion and Protection , 2002, (22)3, 142-147 (9). The Mechanical Properties of CO2 Corrosion Film of Steel N80 (J), Metal , 2003, (39)2:175-181
+
+5
+
+7 6 5 4 3 2 1 0 0 2 4 
+
+mm/a)
+
+1.5MPa 35MPa
+
+6
+
+8
+
+Figures:
+
+Figure 1. The Relationship of Pressure, Temperature and Density of CO2
+
+6
+
+Figure 2. CO2 Solubility in Water
+
+Accumulated orrion Rate mm/a)
+
+8 6 4 2 0 0 2 4
+
+1.5MPa 35MPa
+
+6
+
+8
+
+Corrosion Time(day)
+
+Figure 3. Steel accumulated corrosion rate at CO2 pressure1.5MPa and CO2mole percentage 4%, system pressure 35 MPa
+
+(a)
+
+b
+7
+
+Figure 4.. SEM image (2000×) of morphology of corrosion film obtained at (a) CO2 mole percentage 4%, system pressure 35MPa, temperature 1200C (b)CO2 partial pressure 1.5MPa, temperature 1200C
+
+(a) 35Mpa120 b 1.5Mpa120 Figure 5. EDS analyses of corrosion film obtained at (a) CO2 mole percentage 4%, system pressure 35MPa, temperature 1200C (b) CO2 partial pressure 1.5MPa, temperature 1200C
+
+(a)
+
+8
+
+(b)
+
+(c) Figure 6.XRD analyses of corrosion films obtained at (a) CO2 partial pressure 1.5MPa, temperature 1200C, 144 hours (b) CO2 mole percentage 4%, system pressure 35MPa, temperature 1200C, 24 hours and (c) CO2 mole percentage 4%, system pressure 35MPa, temperature 1200C, 144 hours
+
+9
+

@@ -1,0 +1,54 @@
+ISSN 1466-8858
+
+Volume 7 Paper 32
+
+Analysis of the Corrosion Damage Configuration and Its Effect to Fracture Behaviour of Pre-Corroded Aluminium Alloy
+Y. H. ZHANG and G. Z. LV School of Aeronautics, Northwest Polytechnical University, Xi'an
+
+710072, China, zyhnpu@hotmail.com
+
+Abstract
+The corrosion damage of laboratory coupons of LY12-CZ aluminium alloy subjected to constant amplitude loading was investigated. Under the conditions of several temperatures and durations of corroding, specimens were exposed to EXCO solutions and then the pre-corroded specimens were fatigue tested. The SEM and optical microscope analyses indicated that the two key parameters (surface corrosion damage ratio and the average depth of corrosion pits) were the metric for evaluating the effect of corrosion damage to fracture behaviour of aged aluminium alloy structure. Corrosion damage decreased the fatigue lives by a factor of about 1.25 to 2.38, and then the residual strength curve of a corroded specimen was presented. Keywords: aluminium alloy, corrosion, fatigue, damage tolerance
+
+1.Introduction
+As aircraft aged and were kept in service, service lives of many aircraft fleets were beyond their original design lives. The incidence of
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+corrosion tended to increase with aircraft aging. Corrosion can create a modified damage state that may promote fatigue crack formation and growth during flight [1]. There is a synergistic interaction between pitting and the early stage of corrosion fatigue crack growth [2]. Many uncertainties hinder accurate rate and life prediction of operating aircraft and there is still no generally applicable model available to predict the service life of corroded aluminium structures [3]. LY 12-CZ aluminium alloy frequently have been used in the manufacture of aircraft, however, in the inshore circumstance, LY 12-CZ is susceptible to corrosion damage. Understanding the effect of corrosion damage to fracture behaviour is helpful to life prediction, and subsequently life extension for aging aircraft.
+
+2.Pre-Corrosion and Fatigue Experiment
+The LY 12-CZ aluminium alloy dog-bone type specimens were machined in the T-L orientation. Specimens were exposed to EXCO solution [4] for 10, 20 and 31days at 20, 40 and 60(Fig.1). After the pre-corrosion procedure, excess corrosion products were removed by cleaning them first with a water rinse, then submerging in 68% HNO 3 for 5 min, rinsing again in pure water, and air dried. The corroded specimens were then fatigue tested under constant amplitude loading in the laboratory environment. The fatigue testing parameters were, maximum stress: 256.4MPa, R: 0.02, and f: 10Hz.
+
+Fig.1 Equipments for producing corrosion damage
+
+3. Corrosion Damage Configurations and the Effect on the Fatigue Life
+2
+
+3.1 Discussion on corrosion damage configuration Using SEM, the dominant pit can be identified by the cracking pattern surrounding the nucleating pits (the blackest semi-elliptic parts shown in Fig. 2). It can be found that most of the corrosion pits present semiellipse shape. There were multiple fatigue crack for almost every specimen, but most crack nucleation and growth were governed by a dominant pit.
+
+Fig.2 Fatigue fracture surface showing crack growth from corrosion pits Using the UNION DZ3 Electronical Video Microscope, the surface corrosion damage configuration of specimens can be observed. The surface corrosion damage ratio (ratio of sum planar area of corrosion pits to area of surface corrosion part) was used to reflect the roughness of corroded surface. At 40, when the corrosion days were 10 days, 20days, 31days, the average corrosion damage ratio were separately 11.25%, 13.91%, 17.37%. When the corrosion days were 20days, at 20, 40, 60, the average corrosion damage ratio were separately 8.42%, 13.91%, 23.30%. 3.2 Discussion on the metric for evaluating corrosion damage The metric for evaluating corrosion damage based on an "effect of defects" [5] study was proposed. The damage induced by precorrosion was corrosion pits, so the average depth of corrosion pits which revealed the damage degree in the direction of cross section and the surface corrosion damage ratio that revealed the damage severities in the direction of surface were two key parameters charactering corrosion damage. These two parameters entirely describe the corrosion pits from the view of 3-D. The two parameters 3
+
+can character the configuration of corrosion pit also the distribution of corrosion pits and they could be used the metric for evaluating the effect of corrosion damage to fracture behaviour of aged aluminium alloy structure. 3.3 The effect of corrosion damage to fatigue lives Comparing with the un-corroded specimens, the fatigue lives of precorroded specimens descended dramatically, the extent of descending was up to the initial corrosion damage configuration. Corrosion damage decreased the fatigue lives by a factor of about 1.25 to 2.38. With rise of the temperature, the dimension of corrosion pits enlarged and the average values of corrosion damage ratio of specimens became larger (from table1). Table 1: The fatigue lives and the corresponding corrosion damage Corrosion time: 20days Average fatigue lives cycles 170790 105629 77427 Standard deviation Average corrosion damage ratio   8.41615 13.91231 23.30375 Average depth µm 20.20 280.86 670.00
+
+20 40 60
+
+16426 15489 12028
+
+3.4 The damage tolerance analysis of pre-corroded specimens The residual strength of the specimen, which was pre-corroded at 40 for 20 days, was investigated as an example. Based on the LEFM model of corrosion pit (Fig.3), the AFGROW code was used to carry out the analysis of crack growth. In the AFGROW parameter settings [6], the crack shape of planar center semi-elliptic (a=0.02886mm, c=0.03mm) model and the constant amplitude loading (R=0.02) were used. The resulting residual strength curve of this specimen is shown in Fig.4.
+
+4
+
+Fig.3 LEFM model of the corrosion pit.
+
+Fig.4 Residual strength of a specimen (40, 20days).
+
+4. Conclusions
+1. Rise of temperature and prolonging of corrosion time, the dimension of corrosion pits enlarge and the values of surface corrosion damage ratio of specimens become larger. Corrosion damage decrease the fatigue lives by a factor of about 1.25 to 2.38. 2. The two key parameters (surface corrosion damage ratio and the average depth of corrosion pits) were proposed as the metric for evaluating the effect of corrosion damage. The residual strength curve of a specimen is presented.
+
+5.References
+5
+
+1. C. L. Brooks, Corrosion is a Structural and Economic Problem: Transforming Metrics to a Life Prediction Method, NATO RTO's Workshop 2 on Fatigue in the Presence of Corrosion, Corfu, Greece, October 1998. 2. P. N. Clark, The transition of corrosion pitting to surface fatigue cracks in 2024-T3 aluminium alloy, AAI9998833, the University of Utah, may 2001. 3. J. J. Medved, M. Breton, P. E. Irving, Corrosion pit size distribution and fatigue lives-a study of the EIFS technique for fatigue design in the presence of corrosion, International journal of fatigue 23 (2004) 71-80. 4. D.L. DuQuesnay, P.R. Underhill and H.J. Britt, Fatigue crack growth from corrosion damage in 7075-T6511 aluminium alloy under aircraft loading, International Journal of Fatigue 25 (2003) 371­377. 5. P. C. Miedlar, A. P. Berens, A. Gunderson, Analysis and support initiative for structural technology (ASIST) delivery order 0016: USAF damage tolerant design handbook: guidelines for the analysis and design of damage tolerant aircraft structures, AFRL-VA-WP-TR2003-3002. 6. J. A. Harter, AFGROW users guide and technical manual, AFRL-VAWP-TR-2002, September 2002.
+
+6
+

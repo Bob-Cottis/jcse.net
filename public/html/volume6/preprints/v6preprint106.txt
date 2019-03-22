@@ -1,0 +1,187 @@
+Volume 6 Paper C157
+
+Potentiodynamic polarization studies of elements
+
+aluminium alloys with enriching alloying
+S. Garcia-Vergara1, M. A. Arenas1, P. Skeldon1*, G. E. Thompson1, K. Shimizu2 and H. Habazaki3
+1Corrosion
+
+and Protection Centre, UMIST, P.O. Box 88, Manchester M60 1QD, UK University Chemical Laboratory, Keio University, 4-1-1 Hiyoshi, Yokohama 223, Japan Graduate Engineering School, Hokkaido University, N13 W8, Kita-ku, Sapporo 060-8628, Japan * Corresponding author: p.skeldon@umist.ac.uk
+
+2
+
+3
+
+Abstract
+The present work uses potentiodynamic polarization in naturally aerated 0.1 M ammonium pentaborate electrolyte to explore the effects of enrichment of alloying elements on corrosion potentials of aluminium alloys. The selected alloys were Al-1.1at.%Au and Al0.95at.%Cu alloys deposited by magnetron sputtering, with enriching of the alloying element being achieved by controlled anodic etching in sodium hydroxide solution. Such etching results in large positive shifts, of several hundred millivolts, in the corrosion potential in ammonium pentaborate electrolyte, while the alloying element remains in the enriching alloy layer, of thickness about 2 nm, just beneath the
+
+surface oxide film. The results provide evidence of effects of
+
+enrichment on the anodic reaction, i.e. oxidation of aluminium, and on the cathodic reaction, i.e. reduction of oxygen. The former may arise due to the relatively high concentrations of alloying elements in the enriched alloy layer, while that later may relate to increased electron tunnelling through the oxide film. However, there may also be effects of flaws, which cannot be eliminated in the present experiments, although there was no direct evidence of their role.
+
+Keywords: aluminium, alloys, copper, gold corrosion potentials, MEIS, RBS, TEM
+
+Introduction
+The corrosion potentials of matrix and second phase regions of aluminium alloys are important in determining the corrosion behaviour of the alloy. Galvanic coupling and alkaline corrosion around cathodes gives rise to localized corrosion processes [#ref1]. Various authors have therefore determined the corrosion potentials of second phase materials in particular environments in order to assess their function in alloy corrosion [#ref1-4]. Copper-containing second phases are often considered to function as cathodes, due to their relatively high potentials, with nanoparticles of copper, formed by relocation of copper species released by prior corrosion of the particle or by dealloying, assisting the cathodic reaction [#ref5]. Further, the addition of copper to aluminium is known to increase the corrosion potential significantly [#ref6]. Recently the present authors have examined a possible mechanism for achieving large rises in potential for relatively modest additions of copper to the alloy [#ref7-9]. The explanation rests on the established mechanism for anodic oxidation of solidsolution aluminium alloys, which involves initial oxidation of only aluminium atoms, while copper atoms accumulate in a thin layer of alloy immediately beneath the oxide film [#ref10]. The oxidation can take place by various processes that occur in the presence of an amorphous, alumina-based film, such as in electropolishing, chemical polishing, acid pickling, alkaline etching, conversion coating and anodizing. With continued oxidation, the copper concentration builds up in an alloy layer of thickness about 2 nm [#ref10]. Eventually, the 2
+
+copper is sufficiently enriched for its oxidation to commence and,
+
+thereafter, the oxide film contains aluminium and copper species while the enriched alloy layer is maintained at the critical level of copper enrichment [#ref10-11]. The level corresponds to an average concentration of about 40 at.% Cu for an Al-1at.%Cu alloy. The enrichment increases slightly for higher concentration of copper in the bulk alloy, and falls off more steeply for reduced copper contents. for surface preparation, pre-condition the alloy with a high, nearsurface concentration of copper, both prior to and following the commencement of oxidation of the copper. During the enriching stage, it has been shown that large positive shifts in the corrosion 1at.%Cu alloy moves the corrosion potential by about 400 mV in a naturally aerated borate buffer solution. Enrichment is also expected for other alloying elements for which the Gibbs free energy per equivalent for formation of the alloying element oxide is more positive than that of alumina [#ref12]. Thus, gold enriches similarly to copper, and results in broadly similar shifts in the corrosion potential [#ref9]. In the present work, enrichments and corrosion potentials of Al-Au and Al-Cu alloys are compared, with further electrochemical experiments carried out to determine the influence of the enrichments on the anodic and cathodic processes. potential take place [#ref7-9]. For example, enrichment of an AlThus, for relatively dilute alloys, the pre-treatments commonly used
+
+Experimental
+Al-1.1at.%Au and Al-0.95at.%Cu alloys were deposited by magnetron sputtering in an Atom Tech system on to electropolished high purity aluminium substrates. The alloys were then etched at 5 mA cm-2 in 0.1 M sodium hydroxide solution at 293 K. The etching time was selected to generate the required level of enrichment of either copper or gold in the alloy. After etching, specimens were immersed for 30 s in 15% nitric acid. Corrosion potential was measured in naturally aerated 0.1 M ammonium pentaborate solution (pH 8.3) at 293 K for times up to 12 ks. Further, potentiodynamic polarization curves were recorded in the same electrolyte at a scan rate of 1 mV s-1. A three-electrode cell
+
+3
+
+was employed with a platinum counter electrode and a calomel reference electrode (SCE).
+
+Enrichments of alloying elements were then determined by either Rutherford backscattering spectroscopy (RBS) or medium energy ion scattering (MEIS). The former used 2.0 MeV He+ ions supplied by the Van de Graaff accelerator of the University of Paris. The latter used MEIS were interpreted using RUMP [#ref13] and SIMNRA [#ref14] programs; respectively. Transmission electron microscopy (TEM) was employed to determine the rate of alkaline etching and to examine the morphologies of specimens at various stages of treatment. Electron transparent specimens were first prepared by ultramicrotomy, then examined in a JEOL FX 20000 II instrument. 100 keV He+ ions supplied by the Daresbury facility. Data of RBS and
+
+Results
+The deposited alloys were columnar-grained, with thickness about 500 nm. Alkaline etching reduced the thickness of the alloy to an extent proportional to the time of treatment. Subsequent potential measurements in naturally aerated 0.1 M ammonium pentaborate had no measurable effect on the alloy thickness, to an accuracy of about 20 nm. Representative micrographs, using the example of the Al0.95at.%Cu alloy, are shown in Figure 1.
+
+4
+
+Fig. 1 Transmission electron micrographs of sputtering-deposited Al0.95at.%Cu alloy. (a) Following deposition. (b) Following alkaline etching for 75 s at 5 mA cm-2 in 0.1 M sodium hydroxide electrolyte at 293 K. (c) Following the previous alkaline etching and subsequent measurement of the corrosion potential in naturally-aerated 0.1 M ammonium pentaborate electrolyte for 10000 s at 293 K. Enrichments of copper and of gold were detected readily by either RBS or MEIS respectively (Figure 2). The enrichments increased with time of etching as expected, with the residual oxide films remaining from the etching treatment being free of copper species and gold nanoparticles, and 5.7 × 1015 Au atoms cm-2. These enrichments are achieved after etching for 43 and 23 s respectively. as confirmed by MEIS, until enrichment to 4.5 × 1015 Cu atoms cm-2
+
+350 300 250
+
+Gold in the enriched layer Gold in the alloy
+
+Counts
+
+200 150 100
+
+(a)
+
+50 0 50
+
+(b)
+55 60 65 70 75 80 85 90 95 100 105
+
+Energy (keV)
+
+5
+
+Fig. 2 Representative (a) RBS spectrum for the Al-0.95at.%Cu alloy and (b) MEIS spectra for the Al-1.1at.%Au alloy; following etching for 43 and 15 s respectively, in 0.1 M NaOH at 293 K. Following immersion in ammonium pentaborate electrolyte, the potential underwent a period of transient behaviour, probably due to initial modifications of the surface oxide formed in alkaline etching, and then approached a steady value. The latter values were dependent upon the level of enrichment of the alloy, with the potential of copper oxide films remained free of alloying element species (Figure 3). and gold alloys increasing by 363 and 520 mV in the period where the
+
+-0.3
+
+Corrosion potential (V ) SCE
+
+-0.4 -0.5 -0.6 -0.7 -0.8 -0.9 -1.0 0 1 2 3 4 5 6 7
+
+Al-1.1at.%Au
+
+Al-0.95at.%Cu
+
+Alloy enrichment (10 atoms cm )
+Fig. 3 Dependence of the corrosion potential on copper and gold enrichment in the alloys for Al-0.95at.%Cu and Al-1.1at.%Au alloys in naturally-aerated 0.1 M ammonium pentaborate electrolyte at 293 K. The alloys were first etched for up to 83 s at 5 mA cm-2 in 0.1 M sodium hydroxide solution at 293 K.
+
+15
+
+-2
+
+Potentiodynamic polarization measurements of the Al-1.1at.%Au alloy in de-aerated 0.1 M ammonium pentaborate electrolyte were started 10800 s, in the electrolyte. The potential was scanned firstly in the cathodic direction, then swept from the cathodic direction to the net positive range of currents. The initial cathodic sweep was halted just as hydrogen evolution was beginning, as indicated by a slight increase 6 at the steady corrosion potential, attained by initial immersion for
+
+in the current. The findings for specimens in the as-deposited and alkaline-etched conditions disclose net cathodic currents due to µA cm-2 following polarization by about 300 mV from the initial reduction of dissolved oxygen, with magnitudes in the range 0.1 to 1 corrosion potential (Figure 4). Reversal of the sweep direction led to an increase of the net cathodic current by a factor of about 2, with the potential at zero net current then shifting by up to 100 mV in the positive direction relative to the initial corrosion potential, which may be due to the increased cathodic activity. In the initial potential region of net anodic behaviour, the current increased rapidly, in a roughly exponential manner, which was terminated by a small peak, beyond which the current was constant. The final plateau region corresponded to a current density of about 5 µA cm-2. The approach to the plateau with the prior peak being broadened compared with that of the asdeposited alloy.
+0.80 0.60 0.40
+
+currents was delayed for the enriched alloys by about 400 - 500 mV,
+
+Potential (VSCE )
+
+0.20 0.00 -0.20 -0.40 -0.60 -0.80 -1.00 -1.20 -1.40 1.0E-10
+
+As deposited 15 s 23 s
+
+1.0E-09
+
+1.0E-08
+
+1.0E-07
+-2
+
+1.0E-06
+
+1.0E-05
+
+Current density (A cm )
+Fig. 4 Potentiodynamic polarization curves, measured at a scan rate of pentaborate electrolyte at 293 K. The curves were measured for the as-deposited alloy, and following etching of the alloy for 15 and 23 s at 5 mA cm-2 in 0.1 M sodium hydroxide electrolyte at 293 K. 1 mV s-1, for Al-1.1at.%Au alloy in aerated 0.1 M ammonium
+
+7
+
+Similar trends were also observed in potentiodynamic polarization
+
+curves for the Al-0.95at.%Cu alloy (Figure 5). The net cathodic current was increased for the enriched alloy, with the plateau behaviour in the anodic region, corresponding to a current density of about 5 µA cm-2 being preceded by a small anodic peak. Plateau currents for the enriched copper-containing alloy were achieved by about -200 mV, but by about + 300 mV for the enriched gold-containing alloy.
+-0.10 -0.20
+
+Potential (VSCE )
+
+-0.30 -0.40 -0.50 -0.60 -0.70 -0.80 -0.90 -1.00 1.0E-11
+
+Al As deposited 12 s 22 s
+
+1.0E-10
+
+1.0E-09
+
+1.0E-08
+
+1.0E-07
+-2
+
+1.0E-06
+
+1.0E-05
+
+Current density (A cm )
+Fig. 5 Potentiodynamic polarization curves, measured at a scan rate of 1 mV s-1, for Al-0.95at.%Au alloy in aerated 0.1 M ammonium pentaborate electrolyte at 293 K. The curves were measured for the as-deposited alloy, and following etching of the alloy for 12 and 22 s at 5 mA cm-2 in 0.1 M sodium hydroxide electrolyte at 293 K.
+
+Discussion
+The increased corrosion potential of the Al-1.1at.%Au and Al0.95at.%Cu alloys following enrichment of the alloying element by alkaline etching can be explained by increase in the cathodic reaction, reduction in the anodic reaction, or a combination of these effects. Considering firstly the anodic reaction, polarization curves disclose significant dependence on the level of enrichment. There is also a common anodic peak, which represents a charge density of about 200 8 plateau current densities of about 5 µA cm-2 for both alloys, with no
+
+µC cm-2. The peak can be ascribed to the transient response of the oxide layer at the start of oxide growth. Such transient peaks are wellknown in anodizing, when the current density changes increases from although they have been attributed to effects of adjustment of the one value to another [#ref15, 16]. Their precise origin is uncertain,
+
+number of charge carriers in the film, current-driven polarization and structural changes in the film. Thus, in the present case, the oxide growth at the corrosion potential was relatively negligible, and increased significantly following sufficient polarization. The growth which drives the ionic current through the oxide film. A current density of about 3 µA cm-2 is expected for growth of anodic alumina at 100 % efficiency at a sweep rate of 1 mV s-1. The higher value of the measured current density indicates a reduced efficiency of film growth, to about 50-60%, considering that there may be a contribution of about up to 1 µA cm-2 from the cathodic current density due to oxygen reduction. Thus, the results for the region of net anodic currents following the transient peak are consistent with growth of the oxide film at reduced efficiency. The lowered efficiency is most probably due to loss of Al3+ ions to the electrolyte. During oxide growth, only 1-2 nm of alloy are oxidized, which contains no more than about 1.2 x 1014 alloying element atoms cm-2, which will have minor effect on the total levels of enrichment that are greater than 1 x 1015 atoms cm-2. Thus, the enrichments have negligible influence in the growth of the alumina-based films developed in the element species. The increased potential required for growth of the oxides on the enriched alloys, compared with that for growth of the oxide on the as-deposited alloy, may indicate a thicker oxide, by about 0.5 nm, on the former, although there is no supporting evidence, for instance from MEIS of a thicker oxide. Alternatively, the increased potential may relate to the reduced availability of aluminium atoms for oxidation at the alloy/oxide interface due to influences of the enriching alloying element. At potentials below the transient anodic peak, the passive oxide can only grow at low rates. The pre-existing film developed during alkaline 9
+
+rate of the oxide is determined by the electric field across the oxide
+
+ammonium pentaborate electrolyte while the films are free-of alloying
+
+etching and modified during the initial stage of immersion in
+
+ammonium pentaborate electrolyte is of thickness about 3 nm, as determined by MEIS. The electric field necessary to form anodic alumina at 100 % efficiency at a constant rate corresponding to the sweep rate is about 6.25 x 106 V cm-1. Thus, a potential drop of about 1.87 V is required across the oxide film. The equilibrium potential for oxidation of aluminium to form alumina at pH 8.3 is ­2.32 V (SCE). Accordingly thickening of the oxide is not anticipated until a potential of about ­ 450 mV, which is reasonably close to the values at which net anodic activity commences. Low anodic currents due to oxidation to 1 µA cm-2, can occur in the vicinity of the corrosion potential and thinning of the alumina, or its transformation to non-protective hydroxide may have a significant role in determining the magnitude of the currents. The increased time of alkaline etching, and hence enriching of the alloying element, clearly influences the cathodic reaction. Thick films of anodic alumina are insulating over the macroscopic surface, but local electron conductivity can occur at flaw sites. Thus, increase of flaws through etching could explain the enhancement of cathodic activity. However, the time of etching does not appear to increase the thickness of the film significantly. Further, the film is thinned at a similar rate to which it is growing, such that flaws may be removed at a similar rate to which they are formed, particularly if they are of the residual rather than mechanical type. Regarding the latter, roughening of the surfaces during etching may increase the flaw population, examining of surface by atomic force microscopy. If the cathodic reaction is not dominated by flaws, the increased current with increased time of etching can be ascribed to facilitation of electron tunnelling [#ref17]. The tunnelling current should increase if the alumina thickness reduces with increased time of etching, which is not evident form MEIS data, or if the height of the energy barrier for electron transfer from the metal to adsorbed oxygen at the oxide surface is reduced. The latter can be achieved by the altered 10 although there is no evidence for a major range in roughness from of aluminium and growth of alumina, at rates in the range 1 nA cm-2
+
+the potential range just above the corrosion potential. In this range,
+
+composition of the alloy in the enriching alloy layer. It is notable that the reduction current densities for oxygen are about an order of ready electron transfer. Assuming that the altered corrosion potential is due to macroscopic effects of enriching of the alloying elements, the present results are the anodic reaction combined with increased electron tunnelling through the oxide film. Alternatively, or in association with the previous, the enriching of the alloying elements during alkaline etching may be accompanied increased activity due to flaws, although there is no firm evidence from the results of increased flaw populations. consistent with the behaviour resulting from an increased potential of magnitude lower than measured on metals such as platinum that allow
+
+Conclusions
+1. Alkaline etching of metastable, solid-solution Al-1.1at.%Au and Al-0.95at.%Cu alloys is accompanied by enriching of the alloying element in an alloy layer of thickness a few nanometres located just beneath the alumina-based films formed during the etching process. The enriching of the alloying elements correlates with an increase of the corrosion potentials of the alloys in naturallyaerated ammonium pentaborate electrolyte at 293 K. 2. At comparatively high potentials, potentiodynamic polarization
+
+measurements for the alloys at various stages of enriching, measured in de-aerated ammonium pentaborate electrolyte, reveal dependence upon the level of enrichment of the alloy, which correspond to the growth of the oxide film at a constant rate related to the potential sweep rate. This region is preceded by which is a transient response of the film prior to achieving the steady-state conditions for growth. The magnitude of the current density indicates that the oxide grows at an efficiency of 50-60%. The potential at which steady-state growth of the oxide an anodic peak, corresponding to a charge of 200 µC cm-2, constant net anodic currents, with no significant
+
+11
+
+commences increases with increased enrichment of the alloying element.
+
+3. At regions of net negative current, corresponding to domination of the oxygen reduction reaction, currents increase with increased time of etching, and hence enriching of the alloying element. A possible explanation of the behaviour is related to enhanced tunnelling of electron through the oxide film.
+
+4. In the vicinity of the corrosion potential, the anodic current may be due to slow growth of the film, supported by electron tunnelling, with the enhanced cathodic kinetics and increased anodic potential of the anodic reaction due to enriching leading to enhanced corrosion potentials. However, it is not possibly to eliminate some contributions from reactions from flaws, which could not be isolated in the present experiments.
+
+References
+!ref1 R. G. Buchheit, R. P Grant, P. F. Hlava, B. Mckenzie, G. L. Zender, J. Electrochem. Soc., 144, pp2621-2628, 1997. !ref2 R. G. Buchheit, J. Electrochem. Soc., 142, pp3994-3996, 1995. !ref3 P. Schmutz, G. S. Frankel, J. Electrochem. Soc., 145, pp22852294, 1998. !ref4 V. Guillaumin, G. Mankowski, Corros. Sci., 41 pp421-438, 1999. !ref5 M. B. Vukmirovic, N. Dimitrov, K. Sieradzki, J. Electrochem. Soc., 149, ppB428-B439, 2002.
+
+!ref6 I. L. Mulleer, J. R. Galvele, Corros. Sci.,17 pp179-193, 1977. !ref7 S. Garcia-Vergara, F. Colin, P. Skeldon, G. E. Thompson, P. Bailey, T.C.Q. Noakes, H. Habazaki, K. Shimizu J. Electrochem. Soc. in press. !ref8 S. Garcia-Vergara, M. A. Arenas. P. Skeldon, G. E. Thompson "Proc. of the II Congreso Internacional de Materiales ­ VII Congreso Nacional de Corrosion y Proteccion", Bucaramanga, Colombia, 2003. 12
+
+!ref9 S. Garcia-Vergara, F. Colin, Y. Liu, M. A. Arenas, P. Skeldon, G. E. Thompson, P. Bailey, H. Habazaki, K. Shimizu., " Proc. of Aluminium Surface Science and Technology", Bonn, Germany, 2003. !ref10 H. Habazaki, M.A. Paez, K. Shimizu, P. Skeldon, G.E. Thompson, G.C. Wood and X. Zhou, Corros. Sci., 38, pp1033-1042, 1996.
+
+!ref11 X. Zhou, H. Habazaki, K. Shimizu, P. Skeldon, G.E. Thompson and G.C. Wood, Thin Solid Films, 293, pp327-332, 1997.
+
+!ref12 H. Habazaki, K. Shimizu, P. Skeldon, G.E. Thompson, G.C. Wood and X. Zhou,. Trans. Inst. Met. Finishing, 75 pp18-23, 1997. !ref13 L. R. Doolittle, Nucl. Instr. and Meth. B9, pp344-351, 1985. !ref14 M. Mayer, SIMNRA program. http://www.rzg.mpg.de/~mam/ !ref15 D. G. W. Goad, M. J. Digman, Can. J. Chem. 50, pp3259-3266 1972. !ref16 D. G. W. Goad, M. J. Digman, Can. J. Chem. 50, pp3267-3271 1972. !ref17 J. W. Schulze, in Passivity of Metals (cd. R. P. Frankenthal and J.
+
+Kruger), p. 83. The Electrochemical Society, Pennington, New Jersey, 1978.
+
+13
+

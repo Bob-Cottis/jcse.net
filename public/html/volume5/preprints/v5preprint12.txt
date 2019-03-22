@@ -1,0 +1,102 @@
+ISSN 1466-8858
+
+Volume 5 Preprint 12
+
+The Local Corrosion of Ni, Fe, Cr, AISI Stainless Steel and Mumetal in Sub- and Supercritical Aqueous Solutions
+V. Atanasova1, J. P. Petitet2
+1 2
+
+University of Chemical Technology and Metallurgy, 8,Blv. Kliment Ohridzidski, 1756 Sofia, Bulgaria.
+
+Laboratoire d'Ingénierie des Matériaux et des Hautes Pressions ­ CNRS, Institut Galilée, Av. JB Clement, 93430 Villetaneuse, FRANCE petitet@limhp.univ-paris13.fr
+
+Abstract Ni, Fe, Cr and two Ni-Fe alloys thin foils have been exposed to high pressure-high temperature aqueous oxidizing solutions in order to characterize the difference of behaviour of Ni-base alloys between sub- and supercritical thermodynamic conditions of aqueous solutions. The SEM microstructures of the formed Ni, Fe and Cr oxides show that the Ni oxide would promote the pitting corrosion more than Fe and Cr oxides. Keywords: corrosion, high pressure, high temperature, Ni alloys, aqueous solutions. Introduction The development of crack corrosion in Fe-Ni-Me (Me=Cr, Mo, Ti, V...) alloys in high pressure-high temperature aqueous solutions with low concentrations of oxygen or chlorine is a serious concern of industrial processes and particularly the emerging waste treatment process by supercritical water oxidation (SCWO). This corrosion phenomenon involves gaseous species and deposits with possible contribution from oxides, sulphides and chlorides. The corrosion of such as alloys in pure water in sub- and supercritical conditions has been reported in several reports [ref1-ref4] but it is still necessary to improve research methods and develop new knowledge on the action of the high pressure and high temperature aqueous solutions in industrial situation. For instance only few corrosion kinetics studies have been performed so far to prove the stability of the cracks and to measure the corresponding corrosion rate of nickel-base alloys which is of relevance for industrial applications [ref5-ref7]. Many chemical reactions can occur with different types of corrosive species. Although these reactions are generally well known, the transition between
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+the wet corrosion in sub- critical condition and the dry corrosion in supercritical condition modifies the local thermo-physical properties in the fluid-solid interface and the mechanisms of dissolution-precipitation causing strong damages in materials in a short domain of temperature and pressure around the critical conditions (T~374°C; P~22,1MPa). This note reports on post mortem characterization of the products of local corrosion of metals and alloys at high temperature and pressure using different compositions of water solutions of hydrogen peroxide H2O2 as an oxidiser (between 3 and 20 wt%). The duration of the experiments is between 8 and 10 hours. Materials and experimental procedure Oxidation tests were performed at sub critical (T = 350 °C; P = 25 MPa) and supercritical (T = 390 °C; P = 25 MPa) conditions. This domain of pressure and temperature is convenient to overcome salt precipitation and corrosion effect. The figure 1. shows the high pressure (40 MPa) high temperature (700 K) cell made of XN26TW. This cell, prior built for X-ray absorption experiments, allows to avoid the contact of the sample with the wall of the cell. A ballast (100 cm3) at room temperature and high pressure in contact with the experimental chamber allows to keep constant the concentration of H2O2 during the experiments. The metallic samples were pure Fe, Cr and Ni , AISI 304 stainless steel and Mumetal (both from Goodfellow Co.). The two alloys have been chosen on account of the large differences in concentration in Fe and Ni (table 1). These materials are also still often used in reactors build-up for sub- and supercritical water oxidation (SCWO) of wastes. They can indeed give rise to useful indications according to the oxidative context of the media of SCWO process. Foils % Ni, % Fe, % Cr, % Other, %
+
+Ni pure Fe pure Cr pure AISI 10 72 18 Mumetal 77 14 Cu14; Mo4 Table 1. Chemical composition of the starting materials (Goodfellow Co.)
+
+2
+
+4 1 - sample location 2 ­ heater location 3 ­ windows support 4 ­ fluids pipes 5 ­ O-rings 6 ­ cooling jackets
+
+3
+
+4
+
+6 2 1 5 cm
+
+5
+Diamond window
+
+Figure 1. experimental cell devoted to corrosion studies X ray absorption and used here for corrosion and passivity studies. The samples were 4 µm metal foils set between two windows of diamond ( Ø 4 mm and 0.5 mm thick). The aqueous solutions were prepared from distilled water H2O and commercial hydrogen peroxide H2O2 ( 35 wt% corresponding to 110 l of oxygen). The pressure was measured in situ. It was necessary to made a calibration of the temperature before the experiments between an external regulation thermocouple (K) and a thermocouple (K) set between the two windows of diamond. Around a half an hour is necessary to reach the stability of the temperature and pressure to begin an experiment.
+
+3
+
+a) pure Ni (
+
+5 µm)
+
+b) sub-critical conditions 5 µm) H2O2 3 w % (
+
+c) sub-critical conditions, H2O2 5w% ( 5 µm)
+
+d) supercritical conditions, H2O2 5w% ( 5 µm)
+
+e) sub-critical conditions, H2O210w%t ( 10 µm)
+
+f) supercritical conditions, H2O210w% ( 1 µm)
+
+Figure 4. SEM microstructures of oxidised foils of Ni.
+
+4
+
+a) sub-critical conditions, H2O2 5w% b) supercritical conditions, H2O2 5w% ( 2 µm) ( 1 µm)
+
+c) sub-critical conditions, H2O2 10w% ( 2 µm) (
+
+d) supercritical conditions, H2O2 10w%. 5 µm)
+
+Figure 5. SEM microstructure of oxidized foils of Fe
+
+5
+
+a) sub-critical conditions, H2O2 5w%( 5µm)
+
+b) supercritical conditions, H2O2 5w%( 2µm)
+
+c) sub-critical conditions, H2O2 10w% ( 1µm)
+
+d) supercritical conditions H2O210w%. ( 2µm)
+
+Figure 6. SEM-microstructure of oxidized Cr foils
+
+6
+
+a) sub-critical conditions, H2O2 5w%. ( 500 nm)
+
+b) supercritical conditions, H2O2 5w%. ( 5µm)
+
+c) sub-critical conditions, H2O2 10w%. ( 500 nm)
+
+d) supercritical conditions, H2O2 10w% ( 500 nm)
+
+Figure 7. SEM-microstructure AISI 304 stainless steel
+
+a) sub-critical conditions, H2O2 5w%) ( 5 µm)
+
+b) supercritical conditions, H2O2 5w% ( 2µm)
+
+Figure 8. SEM microstructure of Mumetal
+
+7
+
+Discussion and concluding remarks The experimental conditions have been chosen to be sure to cross the critical point between the two sets of experiments. After experiments the samples were examined using scanningelectron microscopy (SEM). The surface of each material with the corresponding microstructure are shown in figure 4 to 8 . These pictures show that the behaviour of metallic materials is different in sub- and supercritical conditions aqueous solutions. The concentration in oxidizing agent increases this behaviour without strong modification of the microstructure. This feature is an interesting conclusion in the aim to extrapolate the results to e pure water. The difference of behaviour has been discussed in a previous communication in terms of solubility involving different mechanisms of dissolution-precipitation [7] of each part of the critical point. Especially the change in the thermo-physical properties around the critical point (the superficial energy and the viscosity are very weak in the vicinity of the critical point) favours the crack corrosion. The pictures show the variety of the local behaviour of the selected metals. The figure 4. shows the formation, in the case of Ni, of particular sun-shape microstructures, moreover decorative, but favourable to the formation of pitting corrosion. Because of the periodic and complicate mechanism of dissolution-precipitation around the critical point, this pitting corrosion could initiate and develop fast cracks. The figure 5. shows less pronounced local microstructures on Fe foils in the same conditions. The figure 6. shows the formation of a homogenous coating on Cr foils. Then Cr seems to be a good alloys element to hinder the initiation of pitting effects in sub- and supercritical aqueous conditions. The two last pictures, figure 7. and 8. show the formation of Ni pitting on AISI foils (10m% Ni) and mostly on Mumetal foils (77m% Ni) with the typical form of nickel oxide microstructures favourable to the crack initiation. This note allows to confirm, by a simple observation of samples treated in sub- and supercritical aqueous solutions, that the behaviour of dissolution-precipitation were different on each part of the critical point of the solution. The main conclusion is the formation of particular microstructures with Nil favourable to the initiation of cracks. This feature is less evident with Fe and practically absent with Cr. The presence of nickel would then be to avoid in the choice of metallic materials for the building of devices in contact with aqueous solutions near their critical thermodynamic conditions. References 1. C. Aymonier, M. Bottrean, B. Bereu and F. Cansells, Ind. Eng. Chem. Res. 2000, 39, 4734-4740. 2. P. Kritzer, N. Boukis, E. Dinjus; J. Marer. Sci. Lett., 1999, 18, 1845-1847.
+
+8
+
+3. S. Huang, K. Daehling, T.E. Carleson, P. Taylor, C. Wal, A. Propp, Supercritical Science and Technology ( Washington, DC) ACS, 1989, p. 276. 4. R. M. Latinson, R.W. Shaw, Corrosion in Supercriitcal Water Systems, M.T. The Energy Laboratory, Work Shop Summarry, Massachusets Institute of Thechnology, Boston, M A 1993 5. A.J. Davenport, In situ corrosion studies, in situ techniques to understand passivation and corrosion, The Electrochemical Soc. Interface, Spring 1998, 28-29. 6. A.J. Davenport., M.P. Ryan, M.C ,. Simmonds, P. Ernst, R.C. Newman, S.R. Sutton, J.S. Colligon, In situ synchrotron X-ray microprobe studies of passivation threshold in Fe-Cr alloys, J. of the Electrochemical Society, 148(6), 2001, B217-B221. 7. J.P. Petitet, F. Baudelet, P. Carlès, M. Beauverger, Study of the oxidation of nickel in sub- and supercritical aqueous solutions by x-ray absorption near-edge structure, Proceeding of the 6th ISASF meeting, Versailles April 4-6, 2003. . .
+
+9
+

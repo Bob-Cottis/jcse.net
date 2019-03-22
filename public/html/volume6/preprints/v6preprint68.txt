@@ -1,0 +1,496 @@
+Volume 6 Paper H011 Delamination Processes in Thermal Barrier Coating Systems
+H.E. Evans and M.P.Taylor
+
+Metallurgy and Materials, University of Birmingham, Edgbaston, Birmingham, B15 2TT, UK, H.E.Evans@bham.ac.uk and M.P.Taylor@bham.ac.uk
+
+Abstract
+Thermal barrier coatings are used widely in both aeroengines and land-based gas turbines but realisation of their full potential remains hampered by incomplete understanding of the processes leading to delamination and the spallation of the ceramic top coat. determining stage of this failure process is the The life progressive
+
+development of cracks either at the interface of the thermally grown oxide (TGO) with the bond coat or within the top coat close to or at its interface with the TGO. Mechanisms that could result in such cracks are considered in this paper. Particular attention is paid to the consequences of the growth of the TGO on the bond coat surface since this takes place in a constrained environment and the associated volume changes must be accommodated within the TBC system. An important aspect is the topology of the bond coat surface. It is shown how out-of-plane continuity strains favouring delamination can develop isothermally at the oxidation temperature on non-planar surfaces even when the oxide layer remains -alumina and protective. The situation will be exacerbated if aluminium depletion is sufficient locally to trigger chemical failure and the formation of faster-growing Cr,Ni-rich oxides. Further propagation of continuity cracks will be
+
+favoured during cooling as a consequence of out-of-plane tensile Finally, finite-element results are provided of the growth kinetics of a
+
+stresses resulting from differential thermal contraction strains.
+
+wedge crack along the TGO/bond coat interface and the sources of stored energy that drive the crack are discussed. Keywords: TBC lifing, oxidation, chemical failure.
+
+1.
+
+Introduction
+
+Thermal Barrier Coatings (TBC) systems have the potential of offering
+
+an improvement in gas turbine efficiency by increasing the inlet temperature and reducing the amount of cooling air required in hightemperature components [1,2]. TBC systems are designed to confer oxidation resistance through the formation in service of a protective thermally grown oxide (TGO), usually alumina. This forms on a bond both), an intermediate layer between the superalloy substrate and an coat, typically PtAl or MCrAlY (where M is Ni or Co or a combination of
+
+outer thermal barrier. The outer layer is usually a ceramic, generally ZrO2/8%Y2O3 having low thermal conductivity. In a heat-flux situation, e.g. with internal cooling, a component can then operate at temperatures substantially less, e.g. 100-200oC, than that of the outer surface of the ceramic coating. In highly-rated situations, these outer temperatures would lead to rapid oxidation of the bond coat and failure of the coating system. The mechanical integrity of the outer ceramic coating is then, clearly, an important issue. understanding of the mechanisms of the delamination processes, has meant, however, that TBCs tend to be used in a conservative manner. This approach ensures that the component will have an adequate life even in the absence of the coating system; the purpose of the TBC is then simply to extend service lifetimes [1-3]. TBCs have been used for some years on turbine combustors and after burners. these areas to apply TBC systems routinely to nozzle guide vanes and aerofoils is necessary to realise their full economic potential. This is hampered by limited understanding of the failure mechanisms and the consequent inability to predict coating lifetime reliably (lifing). This paper considers possible delamination processes in TBC systems. It is recognised that the final catastrophic spallation of the ceramic top coat will occur during the last fatal cooling transient, possibly by 2 Extension of Limited
+
+buckling.
+
+Classic elastic theory [4] can be used to show that an This zone will develop progressively during
+
+extensive zone of decohesion must exist at the start of cooling for buckling to occur.
+
+exposure and the rate of its development will determine the life of the coating. Indeed, it may be possible to use luminescence techniques [5] to estimate TBC residual lifetime through monitoring the rate of be paid in this paper to possible mechanisms that could lead to the development of fracture damage. Accordingly, particular attention will nucleation and slow growth of sub-critical delamination cracks. It will be argued that the surface topology of the bond coat can be a critical factor and that cracks can arise isothermally as a result of the growth
+
+of the TGO in a mechanically-constrained situation. Crack growth by wedging along flat TGO/bond coat interfaces will also be considered as will the consequences of locally enhanced aluminium depletion.
+
+2.
+
+TBC Characteristics
+
+The tendency over the last decade or so has been for TBCs with
+
+MCrAlY bond coats to be used in industrial turbines. These coats are
+
+usually deposited by plasma spraying, initially by air plasma spraying (APS) or with an argon gas shroud (ASPS) but later using high velocity oxy-fuel (HVOF), low pressure plasma spraying (LPPS) or by electroplating. The early APS or ASPS coatings were of relatively low density and permitted ingress of the oxidant along the boundaries between the splat particles. formation of diffusion cells [6]. resulted in the diffusional isolation of some splat particles and the within these led to rapid failure, termed chemical failure, through the formation of non-protective, Ni-rich oxides. High density coatings, e.g. those manufactured by LPPS, have been found [7] to exhibit substantially reduced diffusion cell formation. In all these cases, the outer ceramic coating is usually deposited by APS for which a relatively rough bond coat surface is required to aid mechanical keying between the two layers. An example of a TBC system consisting of a NiCrAlY bond coat, an APS top coat and a Nimonic 80A alloy substrate is shown in Figure 1 [8]. The horizontally layered structure of the splat boundaries formed by plasma spraying is particularly obvious in the top coat. 3 The rapid depletion of aluminium The consequent internal oxidation
+
+Figure 1: SEM of an as-sprayed TBC system.
+
+TBCs with PtAl bond coats, produced by diffusional aluminising, tend to be used in aeroengine applications with a top coat deposited by electron beam vapour deposition (EBPVD). An example is given in Figure 2. In this case, the deposition process results in a columnar structure to the top coat in which the bonding between the vertical columns is relatively poor. The bond coat tends to be oxidised prior to top coat deposition to aid adherence and to obviate the need for as rough a bond coat surface. In practice, though, there can be a large batch-to-batch variation in the bond coat surface topology. Another feature of this processing route, as can be seen in Figure 2, is the presence of an extensive interdiffusion zone between bond coat and alloy substrate. This indicates that there is no significant barrier to solid state diffusion across the interface with the alloy substrate and implies temperature exposure. In principle, this chemical contamination could affect the adherence of the thermally grown oxide (TGO) layer or of the top coat [9, 10]. By contrast, plasma-sprayed MCrAlY coatings show much less interdiffusion (Figure 1) indicating that some barrier to 4 that continued interdiffusion will occur during high
+
+diffusion does form between the bond coat and the alloy substrate. Even so, diffusion of elements, particularly titanium, can still occur during high temperature exposure and have been identified [11] at oxide spallation sites of overlay coatings in the absence of a top coat.
+
+Top TGO Pt aluminide bond coat Interdiffusion
+
+Substrat
+
+Figure 2: Back scattered image of a section through a platinum aluminide bond coat with a EBPVD YSZ topcoat which has been held at 1100°C for 1h.
+
+3.
+
+A Simple Lifing Model Based on TGO Thickness
+
+Figure 3 provides a compilation of literature data [8, 10, 12-21] of times to failure as a function of temperature of both main types of TBC systems. This plot includes results from tests cycled with frequencies ranging from isothermal exposure to those using less than hourly cycles for which the accumulated time at peak temperature is used. A distinction has been made on the diagram between these various types of specimens and test procedures.
+
+5
+
+600 Time to Spallation
+
+400
+
+200
+
+0 950 1000 1050 1100 1150 1200 1250
+
+Temperature/°C
+
+MCrAlY bond coat with APS topcoat[15] MCrAlY bond coat with APS topcoat[16] MCrAlY bond coat with APS topcoat[17] MCrAlY bond coat with EBPVD topcoat[18] MCrAlY bond coat with APS topcoat[8] MCrAlY bond coat with APS topcoat[19] MCrAlY bond coat with EBPVD topcoat[20] MCrAlY bond coat with APS topcoat[21] Pt-aluminide bond coat with EBPVD topcoat[12] Pt-aluminide bond coat with EBPVD topcoat[13] Pt-aluminide bond coat with EBPVD topcoat[10] Pt-aluminide bond coat with EBPVD topcoat[14] Isothermal data  = 8µm  = 5µm  = 3µm
+
+Figure 3: A compilation of literature data [8, 10, 12-21] showing the dependence of TBC lifetimes on oxidation temperature. Both of the main types of TBC systems are included together with test conditions ranging from isothermal to frequent thermal cycling. 6 The lines
+
+represent the time at temperature required to produce a TGO of the thicknesses shown.
+
+This figure shows that not only is there an obvious reduction in life with increasing temperature but that there does not appear to be a systematic trend with specimen type or test procedure. surprising result but one that must be viewed with caution because of the large scatter between different sets of data and the limited number of results in any one set. It should also be noted that the data shown are for current production quality specimens, as described in the preceding section, and exclude those modified to increase life. It is known, for example, that Pt additions can effect such an improvement [9,18,22] as can aluminising [1] and pre-oxidation of bond coats [12,21]. The trend of decreasing TBC lifetime with increasing temperature, shown in Figure 3, is reasonably similar to that expected if failure occurred at a critical thickness of the TGO layer, independent of test temperature. correspond to a mid-range critical TGO (alumina) thickness, , of 5 µm with approximate lower and upper bounding values of 3 µm and 8 µm, respectively. m2.s-1, by: parabolic growth of the alumina layer with a rate constant, kp, given, in
+ - 275000  2 = 2.0 × 10 - 6 exp  kp =  t  8.314 T 
+
+This is a
+
+This is indicated in the figure by the lines which
+
+These values were calculated assuming pseudo-
+
+(1)
+
+where t is the oxidation time in seconds and T the temperature in K. This equation derives from the compilation of Hindum and Whittle [23] and corresponds to their more oxidation-resistant alumina-forming alloys over the temperature range 1000-1200oC. These well-behaving alloys tend, in fact, to be bond coat materials, either MCrAlY [24] or few measurements of oxide thickness obtainable from the data sources used to produce Figure 3.
+
+PtAl [25]. The predictions of equation (1) agree well enough with the
+
+7
+
+This simple lifing model of failure at a critical TGO thickness correctly emphasises the importance of the formation of this on TBC endurance. It is a concept that has been recognised, in principle, for many years oxide growth promotes delamination remains elusive. appreciated from Figure 4, which shows but, nevertheless, understanding of the detailed mechanisms by which As can be crack sub-critical
+
+development prior to gross spallation of the top coat, cracking in the
+
+top coat (marked A) or where local non-protective oxides (chemical top coat. The TGO can then, in no sense, be said to have "weakened" the bond coat/top coat interface nor will its stored energy, resulting from growth and thermal stresses, contribute to the top coat cracking. However, it is also clear from Figure 4 that cracking can occur at the TGO/bond coat interface (marked C). In this case, a contribution to the driving force for cracking will derive from the release of oxide strain energy. The importance of bond coat surface roughness, produced as-manufactured [11, 26-29], resulting from local chemical failure [6,27] or caused by thermal cycling [30] is now recognised. It is likely to be a significant, and largely uncontrolled, factor contributing to the factor 10 spread in TBC lifetimes evident in Figure 3. Various aspects of the influence of bond coat surface roughness will be addressed in the remainder of this paper.
+
+failure) have formed (marked B) tends to be above the TGO within the
+
+A
+
+B
+
+top coat TGO bond substrat
+
+C
+
+CoNiCrAlY bond coat and an APS YSZ topcoat held isothermally at 1100°C for 600h showing cracking within the top coat (marked A),
+
+Figure 4: Micrograph of a section through a TBC with an electroplated
+
+8
+
+local chemical failure (marked B) and cracking at the TGO/bond coat interface (marked C).
+
+4.
+
+Constrained Oxide Growth on a Rough Bond Coat Surface
+
+The key to understanding the important influence of the topology of the bond coat interface is the recognition that the TGO grows in a mechanically constrained environment. This is determined largely by the elastic properties of the top coat but modified by the creep sense within the top coat whenever there is a variation of upward displacement rates along the bond coat surface. These may arise from differences in oxidation growth rates, as discussed previously [6], but can also arise simply from geometrical effects even when the intrinsic oxidation rates are everywhere constant. recognise that this process may lead to cracking (termed continuity testing conditions. It is also important to properties of the bond coat. Stresses will develop in an out-of-plane
+
+cracking in this paper) at the oxidation temperature under isothermal
+
+The importance of the constraint offered by the top coat has been recognised for some time, albeit implicitly, in finite element codes that model the growth of the oxide layer on a rough bond coat surface at temperature [31-34]. In all these cases, though, temperature cycles were also imposed and these, together with the considerable complexity within the code, makes it difficulty to appreciate the physical significance of the processes that would have occurred during isothermal exposure at the oxidation temperature. profile as shown schematically in Figure 5. To aid in this visualisation, consider oxidation of a bond coat having a sinusoidal growth is perpendicular to the localised bond coat surface so that at peaks and troughs or on a planar surface the direction of growth is wholly vertical. direction will have a vertical and horizontal component and the former will have a magnitude less than that at the peaks and troughs. This will produce a variation in the upward displacement rates along the bond coat surface, Figure 5. The imposed displacements produce 9 However, at any point away from these the growth The direction of TGO
+
+continuity strains and associated tensile stresses within the top coat, as shown schematically in Figure 6. The term "tensile wings" has been these situations.
+locations of maximum oxide displacements
+
+coined to describe the pattern of stresses developing at temperature in
+
+CERAMIC imposed compatibility strains
+
+BOND COAT
+
+TGO
+
+Figure 5: Oxidation of a rough bond coat produces a variation in upward displacement rates along the surface. Modelling estimates of the magnitude of these stresses will not be reliable unless creep in the bond coat is allowed for. This is a crucially important factor in the modelling process but because creep rates will be non-linear in both stress and temperature, numerical (finite element) procedures rather than analytical need to be used. tensile stresses prove to be sufficiently high, then cracks would be expected to form on the flanks of the hills of the bond coat surface and some evidence for this is given in Figure 7. Even though no If the
+
+reliable estimates of the magnitude of these stresses have yet been produced, it is intuitively reasonable to expect them to increase with the roughness ratio /, where  is the amplitude of the sine wave corresponding wavelength. representing the surface topology of the bond coat and  is the
+
+10
+
+top coat
+
+tensile
+
+TG bond
+
+Figure 6: The imposed displacements produce continuity strains and associated tensile stresses within the top coat. In the simplest case of a very rough interface these could manifest as "tensile wings" along the flanks of the bond coat protuberances, as shown schematically. At the oxidation temperature, the top coat above the regions of maximum upward displacement, in particular above the peaks in the bond coat, experience out-of-plane compressive stresses. However, during cooling these can become tensile due to the differential thermal contraction strains and can then aid the lateral growth of the continuity cracks produced at the oxidation temperature. It is by this means that a large delamination crack can develop within the top coat exposure.
+
+during repeated thermal cycles and periods of high temperature
+
+11
+
+Figure 7: Back scatter SEM image of section through a TBC consisting held at 1200°C for 3h, showing cracking (arrowed) in the top coat associated with the tensile wings.
+
+of a Pt aluminide bond coat with an EBPVD YSZ top coat that has been
+
+5.
+
+Chemical Failure
+
+Chemical failure arises when insufficient aluminium remains in the bond coat to maintain a protective alumina layer. A framework theory for the initiation of chemical failure has been developed elsewhere [35] and applied both to overlay [36] and to TBC systems with APS bond coats [6]. stage in the life of the coating are non-protective, grow quickly and cause rapid deterioration of the coating. Another major factor is that chemical failure is likely to occur initially in discrete localised regions 12 As a result of chemical failure, the TGOs formed at this
+
+and, so, will result in an extreme variation in oxide growth rates across the bond coat surface. This process has been studied in some depth by Evans and Taylor [6] for the case of an APS bond coat. Here, discrete volumes of the coating were found to become diffusionally
+
+isolated (diffusion cells) and to suffer rapid aluminium depletion and from which it can be appreciated that the spatial variation in upward displacement rates along the bond coat surface will lead to out-ofplane tensile stress development within the top coat but located over regions which are still oxidising at low rates. In practice, relatively
+
+early chemical failure. The process is shown schematically in Figure 8
+
+within the bond coat, is unlikely to be an important issue with modern, dense bond coats.
+
+failure, associated with the extensive formation of diffusion cells
+
+low-density APS bond coats are now seldom used and this type of
+
+Out of plane tensile stresses
+
+Topcoat Break away oxidation Protective oxide Diffusion cell Bond coat
+
+Figure 8: Spatial variations in the thickness of oxides across the surface of the bond coat leads to out of plane stresses developing between such areas and the possible formation of delamination cracks in these regions.
+
+More generally though, and of application to dense MCrAlY or PtAl bond coats, any spatial variation of TGO growth rates, whether protective or breakaway, will lead to out-of-plane stresses at the 13
+
+oxidation temperature. Their magnitude will, amongst other things, depend on the spread of oxide growth rates and, obviously, it will be of benefit to have a narrow distribution of these.
+
+Localised chemical failure can also arise in regions where, due to the local geometry, aluminium depletion by alumina formation is greater that the rate of aluminium replenishment. regions with large ratios of surface area to volume, for example at This tends to occur in
+
+peaks in the bond coat surface, as shown schematically in Figure 9. Analytical calculations of this balance of fluxes for the realistic case of concurrent oxidation cannot be made. However, by envisaging the
+
+protuberance to be approximated by a sphere, it is expected, for this purpose of illustration, that the time to aluminium depletion and chemical failure at the protuberance tip will scale roughly inversely with the roughness parameter, i.e.  /.
+
+CERAMIC local Chemical Failure leads to faster-growing Ni/Cr-rich oxides
+
+Jox
+
+BOND COAT
+
+JAl
+TGO
+
+Figure 9: Enhanced local Al depletion arises when Jox > JAl and may bond coat protuberances. lead to Chemical Failure and the formation of Cr/Ni-rich oxides at
+
+14
+
+A consequence of chemical failure in these regions is that fastgrowing, non-alumina oxides will develop at the protuberance tips, as shown schematically in Figure 9. As a result, a spatial variation of upward displacement rates will extend across the bond coat surface in an analogous manner to that described above for chemical failure of flat APS bond coats. Unlike that case, however, this damaging process does not arise from the deposition of a low-quality porous coating but from the roughness applied to the surface of even a dense coating
+
+during manufacture of the TBC system. Out-of-plane tensile stresses expected that these will peak above the troughs in the roughness
+
+will again develop isothermally at the oxidation temperature and it is profile, i.e. between the bond coat protuberances. Estimates of the magnitude of these stresses cannot be made reliably without the use of finite element procedures that fully account for relaxation effects due to bond coat creep but it can be appreciated from Figure 10 [37] that they can be sufficient to nucleate delamination cracking. Extension of such cracks through the non-protective oxides overlying the bond coats peaks can again occur during cooling when these become the sites of out-of-plane tensile stresses. The process will be helped by the presence of porosity in these non-protective oxides [36].
+
+15
+
+Figure 10: Crack nucleation within the top coat between bond coat protuberances undergoing chemical failure [37].
+
+6. Failure of TBCs with Flat Bond Coats
+The micrographs shown in this paper and the results contained in Figure 3 have been from samples with bond coat topographies representative of current commercial TBC systems. relatively rough surfaces have existed and the tendency has been for delamination cracking to develop in the top coat by one or other of the mechanisms described above. For APS top coats, it has been found necessary for the bond coat surface to be rough to aid mechanical keying but this is not a pre-requisite with EBPVD top coats. For flat surfaces and in the absence of edge effects, it is not clear how delamination cracking can develop. One possibility, of course, is that localised chemical failure will lead to the development of out-of-plane stresses at the exposure temperature, as described above. It is known [7], though, that good quality dense bond coats with a flat surface do not readily enter chemical failure. above, is that non-uniform growth rates of the protective alumina layer over the bond coat surface will also lead to out-of-plane stresses 16 A related process, as indicated In all cases,
+
+at the oxidation temperature. This, undoubtedly, will be a factor but it is, as yet, unclear whether significant stresses will develop. Similarly, during cooling, flat interfaces will not experience out-ofdisplacement of the surface layer [38]. As has already been indicated, buckling will not occur until an extensive delamination zone has can progressively develop zones of decohesion. An example of wedge cracking is shown at C in Figure 4 to demonstrate that the process can not geometrically flat. Significantly, the crack path in this case lies It has been noted previously also occur on interfaces which, whilst not particularly convoluted, are along the TGO/bond coat interface. formed. Wedge cracking can occur, however, on planar interfaces and
+
+plane tensile stresses unless there is some outward but localised
+
+[9,29] that the crack path tends to be along the TGO/bond coat interface for flat surfaces, in contrast to more convoluted surfaces where, as discussed above, the fracture path tends to lie within the top coat. The mechanism of wedge cracking has been discussed elsewhere in detail and applied to the conventional spallation of protective oxide layers [39-43]. It envisages that the compressive inplane stresses developed in the TGO during cooling result initially in shear failure of the oxide layer. Subsequent cooling permits sliding across the interface, i.e. a wedging process, the development of outof-plane tensile stresses across the TGO/bond coat interface and the growth of a delamination crack. These crack features can be seen at C in Figure 4.
+
+Compressive stresses due to shear di Top TGO Bond Tensile stresses ahead 17 of tip of wedge crack l t f TGO
+
+Figure
+
+axisymmetric finite element model showing the locations of tensile and compressive stresses.
+
+11:
+
+An
+
+enlarged
+
+section
+
+through
+
+the
+
+multi-layered
+
+Extensive finite element (FE) modelling of the wedge cracking process in conventional alloys has now been performed [e.g. 40-42] but has not previously been undertaken for a TBC system. The geometry of the FE model used here is shown in Figure 11. It shows the central part of an axisymmetric, multi-layered TBC system consisting of a thick TGO/bond coat interfacial zone with the properties of alumina, a Haynes 230 base alloy, a 100µm thick MCrAlY bondcoat, a 0.1-µm
+
+2.5-µm thick alumina TGO layer and, finally, a 250µm thick partiallystabilised zirconia top coat. Further details of the FE approach have been given elsewhere [40]. Interfacial finite elements are used to model a pre-existing, 45o-inclined shear crack within the TGO and the TGO/bond coat interfacial zone. The wedge crack is confined to this latter zone and propagates when the out-of-plane tensile stress ahead of the crack exceeds a critical value of 1700 MPa. The interfacial zone is considered to behave elastically and, so, this critical stress corresponds to a critical elastic fracture strain of approximately 0.4%, consistent with literature values [43]. This type of fracture criterion rather than an energy balance is preferred in this context since much of the stored energy is dissipated into bond coat creep rather than in extending the crack. The creep rate of the bond coat and the substrate alloy were expressed as:
+
+ = A n exp -
+
+.
+
+ Q ,  T
+
+s -1
+
+(2)
+
+and A=5.915x102, n=6.885, Q= -410013 for the Haynes 230 alloy.  18
+
+where A=3.237x107, n=3.0, Q= -298000 for the MCrAlY coating [44]
+
+is the stress in Pa and T is absolute temperature. parameters are given in Table 1. Table 1: Materials Parameters used in the FE Modelling Material Young's Modulus, GPa Poisson' s Ratio CTE, x 106 K1
+
+Other materials
+
+Fracture Stress, MPa
+
+Haynes 230
+
+151
+
+0.30
+
+20
+
+applicable NiCrAlY Bond Coat TGO/Bond Coat Interfacial Zone Alumina TGO 387 0.27 7.9 not applicable Zirconia Top Coat 1 - 90 0.30 13.0 not applicable 387 0.27 7.9 167 0.30 17.2 not applicable 1700
+
+not
+
+The predicted kinetics of wedge crack growth during cooling from 1100oC at a constant rate of 40x103 oC h-1 are shown in Figure 12 for three values of the Young's modulus of the top coat. This approach was used to establish the importance of the physical constraint of the top coat on the wedging process and of its elastic stored energy on propagation of the wedge crack.
+
+19
+
+10 8 6 4 2 0
+
+Length of interfacial crack/µm
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+Temperature drop from 1100°C / °C
+
+Young's modulus of top coat 90GPa Young's modulus of top coat 10GPa Young's modulus of top coat 1GPa
+
+Figure 12: The kinetics of wedge crack growth during cooling the TBC system from 1100oC at a constant rate of 40x103 oC h-1. The different curves correspond to different assumed values of the Young's modulus of the top coat.
+
+The first important point to note from these results is that wedge cooling from 1100oC. The crack lengths considered in the
+
+cracking will be expected, at this TGO thickness of 2.5 µm, during axisymmetric model used are relatively short (8 µm) radius, however and it is unclear whether much longer cracks could develop from a single wedging location. Nevertheless, some delamination cracking is certainly expected, even though top coat spallation may not occur, and 20
+
+this is consistent with the lower bound behaviour shown in Figure 3. A second point to note is that the constraint of the top coat, as reflected in its Young's modulus, does affect the ease of nucleation of the wedge crack. It can be seen that a temperature drop of around 250oC is required with a (realistic) top coat modulus of 90 GPa but that this drops to under 100oC when the modulus is reduced to 10 GPa. This crack within the oxide layer is generally < 0.1 µm. constraint arises even though the shear displacement on the shear
+
+After nucleation, further growth of the wedge crack is inhibited by stress relaxation at its tip by bond coat creep during cooling. This result has been previously found with similar computations on conventional alloys [40-42] and is another illustration of the importance of incorporating creep relaxation processes in such models. Propagation of the wedge crack continues (Figure 12) at temperatures where creep relaxation becomes slow but it is of particular interest to note that the rate of growth of the crack at these lower temperatures is not sensitive to the Young's modulus of the top coat. This means that the elastic stored energy within the top coat does not make a significant contribution to the driving force for wedge crack growth along the TGO/bond coat interface in this system. This is obtained from release of the stored energy within the TGO.
+
+7.
+
+Concluding Summary
+
+The lifetime of TBC systems of commercial quality reduces drastically with increasing temperature with a dependence which is broadly that for the growth of an alumina TGO between the bond coat and the partially-stabilised zirconia top coat. At any given temperature, there is a large scatter in the results, typically a factor 10 in lifetime, but there does not appear to be a significant difference between isothermal and thermally-cycled specimens. The inference is that time at temperature, and the growth of a bond coat TGO, is the dominant parameter that results in TBC degradation. The alumina thicknesses at failure that reasonably bound the experimental data are 3 µm and 8
+
+µm with a median value of 5 µm.
+
+21
+
+An important factor contributing to the large spread in TBC lifetimes is thought to be variations in the roughness of the bond coat surface and delamination cracks have been considered in this paper. ratio of amplitude, , to wavelength, . various possible mechanisms that lead to the nucleation and growth of These are summarised in Figure 13 where the roughness parameter used is the
+
+Wedge Failure Chemical Failure wedge cracking along BC interface
+
+Time to Failure
+
+Continuity Cracking
+
+cracking in topcoat due to continuity strains continuity cracking in TC enhanced by chemical failure of BC
+
+Increasing Roughness, /
+
+Figure 13: Schematic TBC Delamination Map relating lifetimes to bond coat surface roughness.
+
+The presence of bond coat surface roughness leads to a spatial variation in continuity strains which will result in out-of-plane tensile stresses at the exposure temperature. This will be made worse by the development of fast-growing non-protective oxides due to aluminium depletion (chemical failure) at the tips of bond coat protuberances as 22
+
+roughness increases. Modelling of these delamination processes must incorporate creep relaxation processes within the bond coat in order made using finite element approaches and with to produce reliable estimates of stress. Progress in this area is being particularly For such sophisticated codes that permit concurrent oxide growth. within the ceramic top coat.
+
+rough interfaces, it is expected that delamination cracks will develop
+
+With flatter interfaces, delamination can proceed by the growth of wedge cracks which develop along the TGO/bond coat interface during cooling. Finite element computations of this process are presented in this paper. It is shown that the mechanical constraint of the top coat can inhibit, but not prevent, crack nucleation for realistic values of the Young's modulus of the top coat. Creep relaxation within the bond coat will then inhibit further growth until low temperatures are achieved. It is found that the driving force for growth in this stage is the release of energy stored within the TGO and that that within the top coat does not contribute significantly.
+
+8.
+
+Acknowledgements
+
+We are grateful to the Engineering and Physical Sciences Research Council for contributing funding to this work.
+
+9.
+
+References
+
+1. `Thermal Barrier Coatings for Gas Turbine Use', D.J. Wortman, B.A. Nagaraj and E.C. Dunderstadt, Mater. Sci. Eng., A121 (1989) 433-440. 2. `Thermal barrier Coatings for Turbine Applications in Aero Engines', T.N. Rhys-Jones and F.C. Toriz, High Temp. Technology, 7 (1989) 73-81.
+
+23
+
+3. `Progress toward Life Modeling of Thermal barrier Coatings for 448-451.
+
+Aircraft Gas Turbine Engines', R.A. Miller, Trans, ASME, 109 (1987) pp
+
+4. `Theory of Elastic Stability', S. Timoshenko, (1936), McGraw-Hill, New York, p 367. 5. `Piezospectroscopic Analysis of Interface Debonding in Thermal (2000) pp 1165-1170. barrier Coatings', Xiao Peng and D.R. Clarke, J. Am. Ceram. Soc., 83
+
+6. `Diffusion Cells and Chemical Failure of MCrAlY Bond Coats in
+
+Thermal Barrier Coating Systems', H.E. Evans and M.P. Taylor, Ox.
+
+Metals. 55 (2001) pp 17-34.
+
+7. `Formation of Diffusion Cells in LPPS MCrAlY Coatings', M.P. Taylor and H.E. Evans, Materials at High Temperatures, to be published. 8. `Oxidation Behaviour and Failure Mechanisms of NiCrAlY Overlay Coating and ZrO2-8wt% Y2O3/NiCrAlY Thermal Barrier Coating', P. Niranatlumpong, Thesis, The University of Birmingham, UK, (1999). 9. `Substrate and Bond Coat Compositions: Factors affecting Alumina Scale Adhesion'. B.A. Pint, I.G. Wright, W.Y. Lee, Y. Zhang. K. Prüßner and K.B. Alexander, Mater. Sci. Eng., 245 (1998) 201-211.
+
+10. `Cyclic Oxidation of Two Bond Coats in Thermal Barrier Coating Systems on CMSX-4 Substrates', O.A. Adesanya, K. Bouhanek, F.H. Vols. 369-372 (2001) pp 639-646. Stott, P. Skeldon, D.G. Lees and G.C. Wood, Materials Science Forum
+
+11. `Modes of Oxide Spallation from MCrAlY Overlay Coatings', A. Strawbridge, H.E. Evans and C.B. Ponton, in `Microscopy of Oxidation 3', Eds. Newcomb and Little, Publishers Institute of Materials, 1997, pp 320-329. 12. `Effects of Bond Coat Pre-oxidation and Surface Finish on Isothermal and Cyclic Oxidation High Temperature Corrosion and Thermal Shock Resistance of TBC Systems', D. Monceau, F. Crabos, A. Malie and B. Pieraggi, Materials Science Forum Vols. 369-372 (2001) pp607-614. 24
+
+13. `High Temperature Oxidation of TBC Systems on RR3000 Substrates: Pt Aluminide Bond Coats', K. Bouhanek, O.A. Adesanya, F.H. Stott, P. Skeldon, D.G. Lees and G.C. Wood, Materials Science
+
+Forum Vols. 369-372 (2001) pp 615-622.
+
+14. M.P. Taylor, unpublished work. 15. S.R.J. Saunders, unpublished work. 16. `The Spalling Modes and Degradation Mechanism of YSZ/Al2O3CVD/NiCrAlY TBC' J.H. Sun, E. Chang, C.H. Chaer and M.J Cheng. Ox. Metals. 40 (1993) pp 465-481.
+
+17. `Bond Coat Development for Thermal Barrier Coatings', D.J.
+
+Wortman, E.C. Duderstadt and W.A. Nelson, Journal of Engineering for
+
+Gas Turbine and Power, 112 (1990), pp 527-529.
+
+18. `The Influence of Platinum on the Failure of EBPVD YSZ TBC's on
+
+NiCoCrAlY Bond Coats', N.M. Yanar, G.H.Meier and F.S. Pettit, Scripta
+
+Materialia, 46 (2002) pp 325-330.
+
+19. `Failure Modes in Plasma-Sprayed Thermal Barrier Coatings', K.W.
+
+Schlichting, N.P. Padture, E.H. Jordon and M.Gell, Materials Science and
+
+Engineering, A342 (2003) pp 120-130.
+
+20. `Thermal Cycling of EB-PVD/MCrAlY Thermal Barrier Coatings: II. Evolution of Photo-Stimulated Luminescence', Y.H. Sohn, K. Vaidyanathan, M. Ronski, E.H. Jordon and M.Gell, Surface and Coatings
+
+Technology, 146-147 (2001) pp102-109.
+
+21. `Effects of Bond Coat Preoxidation on the Properties of ZrO2Chang, B.C. Wu and C.H. Chao, Ox. Metals, 36 (1991) pp 221-238. 22. `Article including Thermal Barrier Coated Superalloy Substrate', D.S. Rickerby, S.R. Bell and R.G. Wrug, US Patent 5,981,091, Nov.9, (1999). 23. `Microstructure, Adhesion and Growth Kinetics of Protective Scales (1982) pp 245-284. on Metals and Alloys', H. Hindum and D.P. Whittle, Ox. Metals, 18 8wt.%Y2O3/Ni-22Cr-10Al-1Y Thermal barrier Coatings', W. Lih, E.
+
+25
+
+24. C.S. Giggins and F. Pettit, Report ARL 75-0234, Pratt and Whitney Aircraft, Connecticut, USA, (1975). 25. J.S. Sheasby and D.B. Jory, Ox. Metals, 12 (1978) 527. 26. `Oxidation and Degradation of a Plasma-Sprayed Thermal barrier Coating System', J.A. Haynes, E.D Rigney, M.K. Ferber and W.D. Porter,
+
+Surface and Coatings Technology, 86-87 (1996) pp 102-108.
+
+27. `The Influence of Bond Coat Surface Roughness and Strucure on the Oxidation of a Thermal Barrier Coating System', M.P. Taylor and H.E. Evans, Mater. Sci. Forum, 369-372 (2001) pp 711-717. 28. `Mechanisms controlling the Durability of
+
+Thermal
+
+Barrier
+
+Coatings', A.G. Evans, D.R. Mumm, J.W. Hutchinson, G.H. Meier and F.S. Pettit, Prog. Mater. Science, 46 (2001) pp505-553.
+
+29. `Thermal Cycling Testing of Thermal Barrier Coatings', R. Anton, S.K. Jha, D. Clemens, W. Mallener, L. Singheiser and W.J. Quadakkers, in Cyclic Oxidation of High Temperature Materials, Eds. M. Schütze and W.J. Quadakkers, IOM Communications, London, (1999) pp 339356. 30. `Characterization of a Cyclic Displacement Instability for a Thermally Grown Oxide in a Thermal Barrier System', D.R. Mumm, A.G. Evans and I.T. Spitsberg, Acta Mater., 49 (2001) pp 2329-2340.l
+
+31. `Bond Coat Considerations for Thermal Barrier Coatings', A.M. A245 (1998) pp182-190.
+
+Freborg, B.L. Ferguson, W.J. Brindley and G.J. Petrus, Mater. Sci. Eng.,
+
+Barrier Coatings on Cylindrical Substrates', G. Kerkhoff, R. Vaßen and Schütze and W.J. Quadakkers, IOM Communications, London, (1999) pp 373-382.
+
+32. `Numerically Calculated Oxidation Induced Stresses in Thermal D. Stöver, in Cyclic Oxidation of High Temperature Materials, Eds. M.
+
+33. `A Mechanistic Study of Oxidation-Induced Degradation in a Plasma-Sprayed Thermal Barrier Coating System. Part I: Model Formulation', E.P. Busso, J. Lin, S. Sakurai and M. Nakayama, Acta
+
+Mater., 49 (2001) pp 1515-1528.
+
+26
+
+34. `A Mechanistic Study of Oxidation-Induced Degradation in a Plasma-Sprayed Thermal Barrier Coating System. (2001) pp 1529-1536. Prediction Model', E.P. Busso, J. Lin and S. Sakurai, Acta Mater., 49 Part II: Life
+
+35. `Mechanisms of Breakaway Oxidation and application to a Chromia-Forming Steel', H.E. Evans, A.T. Donaldson and T.C. Gilmour,
+
+Ox. Metals, 52, (1999) pp 379-402.
+
+Overlay Coatings' P. Niranatlumpong, C.B. Ponton and H.E. Evans, Ox.
+
+36. `The Failure of Protective Oxides on Plasma-Sprayed NiCrAlY
+
+Metals, 53 (2000) pp 241-258.
+
+Barrier Coatings', C-H. Hsueh, J.A. Haynes, M.J. Lance, P.F. Becher,
+
+37. `Effects of Interface Roughness on Residual Stresses in Thermal M.K. Ferber, E.R. Fuller Jr., S.A. Langer, W.C. Carter and W.R. Cannon, J.
+
+Am. Ceram. Soc., 82 (1999) pp 1073-1075.
+
+38. `Stress Effects in High Temperature Oxidation of Metals', H.E. Evans, International Mater. Reviews, 40 (1995) pp 1-40.
+
+222.
+
+Spallation', H.E. Evans and R.C. Lobb, Corros. Sci., 24 (1984) pp 209-
+
+39. `Conditions for the Initiation of Oxide Scale Cracking and
+
+40. `A Numerical Analysis of Oxide Spallation', H.E. Evans, G.P. 1-22.
+
+Mitchell, R.C. Lobb and D.R.J. Owen, Proc. R. Soc. Lond. A., 440 (1993)
+
+41. `Creep Effects on the Spallation of an Alumina Layer from a NiCrAlY Coating', H.E. Evans, A. Strawbridge, R.A. Carolan and C.B. Ponton, Mater. Sci. Eng., A225 (1997) pp 1-8.
+
+42. `Prediction of Oxide Spallation from an Alumina-Forming Ferritic
+
+Steel', H.E. Evans and J.R. Nicholls, in Lifetime Modelling of High Nicholls, IOM Communications, London, (1999) pp 37-49.
+
+Temperature Corrosion Processes, Eds.Schutze, Quadakkers and
+
+43. `Coatings and Surface Treatments for High Temperature Oxidation (1989) pp 780-798.
+
+Resistance', S.R.J. Saunders and J.R. Nicholls, Mater. Sci. Tech., 5 27
+
+44. `Stress Relaxation of Low Pressure Plasma-Sprayed NiCrAlY Alloys', 33-41. W.J. Brindley and J.D. Whittenberger, Mater. Sci. Eng., A163, (1993) pp
+
+28
+

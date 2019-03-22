@@ -1,0 +1,129 @@
+Volume 6 Paper H004 Alumina Scale Formation During Oxidation of HVOF Sprayed MCrAlY Coatings
+G. Marginean, W. Brandl, D. Maghet, D. Utu University of Applied Sciences Gelsenkirchen; Department of Materials Science; Neidenburger Straße 10, 45877 Gelsenkirchen, Germany gabriela.marginean@fh-gelsenkirchen.de
+
+Abstract
+The gas turbines provide one of the hardest environments challenging materials systems today. Turbine components are subjected to rigorous mechanical loading conditions, high temperature oxidation, and corrosive media. Protective coatings can be applied to increase the durability and field performance especially of turbine blades. In this study the isothermal oxidation behaviour of High Velocity Oxigen Fuel (HVOF) sprayed MCrAlY (M = Co, Ni, Fe) coatings having different aluminium contents: 8, 12 and 15 wt.% has been investigated. The effect of high-energy electron beam (EB) remelting on the surface and the microstructural modifications of MCrAlY coatings has also been investigated. This surface treatment is made to modify the morphologies and phases of the coated layer in order to improve the corrosion resistance. The MCrAlY specimens were oxidized at 950 and 1050°C in synthetic air, for different periods of time. Oxidation studies include thermogravimetric weight gain measurements under ishotermal conditions in order to quantify the parabolic oxidation rate constant. The microstructure and morphology of the as-sprayed and of the EB-remelted coatings as well as of the oxidized coatings were characterised by SEM and XRD. These studies were done in order to characterise the appearance and the composition of the oxide scales and the phase transformations in the MCrAlY coatings. Keywords: alumina scales, MCrAlY coatings, HVOF spraying system, electron beam
+
+1. Introduction
+In order to increase the life of turbine engines, coatings are used to protect components against oxidation and corrosion, erosion by particulate debris, and other potential risks. The need for coatings was evolved since they were first applied to high-pressure turbine airfoils (in the early 1960`s) [1]. Traditionally, coatings and substrates have been developed independently. The majority of hot-section coatings are applied to protect superalloy components from degradation caused by the turbine engine environment [1]. Since current
+
+hot- section structures are produced from nickel- and cobalt- base superalloys, substrate coatings in current engine have been optimised for superalloys. High- temperature resistant coating systems has been developed in order to protect bulk materials against high temperature oxidation and hot corrosion [1,2]. MCrAlYs have been around for a long time and are a family of materials which have a base metal (M) of cobalt, nickel, and/or iron, plus chromium, aluminium, yttrium and sometimes other alloying elements. The first was a iron-based FeCrAlY formulated in the mid 1960`s. A cobalt-based CoCrAlY and nickel-based NiCoCrAlY have been patented soon after. MCrAlYs work because they are thermally and chemically compatible with their substrates and have minimal effect on base- metal properties [1]. Performance is attributed to the alloys` ability to form a tenacious, protective scale that inhibits any interactions between the host surface and the outside corrosive environment. Alloys or coatings designed to resist oxidising environments at high temperatures should be capable to develope a surface oxide layer which is thermodynamically stable, slow growing and adherent [1­4]. During oxidation in the temperature range 850÷1300°C, MCrAlY coatings form Al2O3-rich scales, which are reasonably effective for long term applications involved under either isothermal or thermalcycling oxidation. The presence of yttrium in the coatings improves the adherence of the oxide scales, irrespective of alloy composition or nature of the oxide scale (i.e. Al2O3 or Cr2O3) [3­6]. In the last few years, a new thermal spraying process, High Velocity Oxygen Fuel (HVOF), was developed and used to produce MCrAlY coatings [3,4]. The application of HVOF has three drawbacks when they are used to prevent corrosion. A very important goal is the prevention of the internal oxide formation during the spaying processes, the second drawbacks are open pores and crevices between thermally sprayed lamellae, through which corrosive environments [8] can penetrate to the substrate, third is the degradation of the material during spraying. A convenient process to reduce the above mentioned disadvantages is the electron beam remelting [9].
+
+2. Experimental
+Three MCrAlY powders with 8, 12 and 15 wt. % aluminium (Al) were sprayed by High Velocity Oxygen Fuel on a steel substrate. The HVOF-spraying conditions are summarized elsewhere [10]. For oxidation measurements after spraying, the substrate was removed completely to avoid the interdiffusion between coating and substrate during the following heat treatment. After removing from the steel substrate by milling off and grinding, the layers have been cut, metallographically polished with diamond paste to achieve a mirror-like finish, and ultrasonically cleaned in water and ethanol. The approximate size of the sample was 5.54.50.9 mm3. The samples were then vacuum heat treated and aged according to the requirements of Ni superalloy. Heat treatment involving heating to a temperature high enough to take harmful phases into solution, followed by maintaining and cooling at a rate fast enough to hold such phases in solution. The samples were heat treated for 2 h at 1120°C in a vacuum furnace, cooled down to room temperature and finally heat treated for 24 h at 845°C [7]. This heat treatment is similar to that applied on the turbine blades as a final manufacturing step. Oxidation behaviour and oxidation reaction kinetics have been determined thermogravimetrically. It has been used a high temperature thermobalance Perkin-Elmer (Type TGA 7). The samples were isothermally oxidized at 950 and 1050°C in synthetic air (gas flow of 100 ml/ min) for 3000, 6000 and 9000 minutes. 2
+
+The oxidation kinetics was determined thermogravimetrically. For evolution, it was assumed that the oxidation follows a parabolic law:  m A  = kp t     where: m= mass gain in g; A= total surface area of the sample in cm2; kp= rate constant in g2/ cm4s-1; t= time in s. For electron beam remelting were used MCrAlY coatings (0,7-1 mm) with 8 wt.% Al content, which were HVOF-sprayed on a copper substrate (5 mm thick). The electron beam system used was ESW 700/3-60. The detailed EB-remelting conditions are shown in table I. The CoNiCrAlY coatings have been studied before and after electron beam remelting for phase analysis by X-ray diffraction. The corrosion tests were carried out in 0,001 M sulphuric acid solution. Table I: Experimental conditions for EB remelting:
+Input power - voltage - current Speed Work distance 0,5-1,5 kW 30 KV 10-40 mA 3-17 mm/s 240 mm Oscillation (deflection) - width - frequency - wave shape - direction 12 (mm) 1000 Hz Triangle, sin X only, X+Y
+2
+
+The morphology and the phase analysis of MCrAlY-powders and -coatings before and after high temperature oxidation and EB-remelting were examined by scanning electron microscopy (SEM) and X-ray diffraction measurements (XRD) to study the appearance and the composition of the oxide scales and phase transformations. The SEM examination were done for the oxidised surfaces as well as for the cross-section of the oxidised samples.
+
+3. Results and discussion
+3.1 Powder and coatings morphologies Fig. 1(a) shows SEM micrograph of the used powder. The particle morphology appears to be mostly spherical with some irregularly shaped particles. The MCrAlY powders with different wt.% Al have a similar structure. The powder with 8 wt.% Al, consists of /' AlNi3 and AlCo. For the powder with 12 wt.% Al, the XRD patterns show a three-phase mixture: AlCo, /' AlNi3 and AlCr2. The powder with 15 wt.% Al consists of the three-phase mixture, too: AlCo, AlNi3 and AlCr2, with a higher peak intesity. The as-sprayed MCrAlY coatings displayed a globular structure containing a certain amount of porosity and oxide particles (Fig. 1b).
+
+3
+
+(a)
+
+(b) Fig.1: SEM micrographs of the MCrAlY powder (a) and of the as-sprayed MCrAlY coating (b- cross- section)
+
+The as- sprayed coating with 8 wt.% Al contains /' AlNi3 and -Al2O3, the coatings with 12 and 15 wt.% Al have a similar structure: containing /' AlNi3, - CrCo, AlCo, -Al2O3, nickel chromium oxide, NiCr2O4, and very small particles of -AlNi. After homogenization and precipitation annealing, the coating with 8 wt.% Al consists of /' AlNi3, AlCo and Al2O3. The coatings with 12 and 15 wt.% Al present a similar phase compositions like in the as-sprayed status with the difference that the signal for spinel oxide NiCr2O4 is higher. For all the coatings, the peaks of -Al2O3 were very small. After the electron beam treatment, the MCrAlY coating presents a rapidly solidified surface. Fig. 2 shows SEM micrographs of the cross section of MCrAlY-coatings before an after the EB-treatment. In figure 2(a) the presence of pores and oxides and also a strongly rough surface can be observed. After the remelting, fig. 2(b), the amount of pores is reduced significantly and the structure is refined. Also, a smooth surface is achieved.
+
+(a) (b) Fig.2: Comparison between MCrAlY coatings before and after EB-remelting (a) untreated and (b) treated The XRD patterns of the MCrAlY-coatings before and after remelting are presented in figure 3. After EB-remelting of the material new phases like AlCo, Al2O3 and AlYO3 appeared. The aluminium oxide was present also in the untreated coating but it could not be detected by X-ray diffraction technique because during the HVOF spraying process the quenching velocity of the melted particles is very high and the structure of the oxides remains quite amorphous.
+
+4
+
+AlNi3 AlCo AlYO3  ­Al2O3
+
+a
+
+b
+
+Fig. 3: X-ray diffraction patterns of the coatings before (a) and after the remelting (b)
+
+3.2 Oxidation experiments in synthetic air Oxidation studies included thermogravimetric weight gain measurements under isothermal conditions. The oxidation kinetics of HVOF sprayed MCrAlY coatings was determined for different periods of time (3000, 6000 and 9000 minutes) at 950 and 1050°C in synthetic air working with a gas flow of 100 ml / min. 3.2.1 Oxidation behaviour of the coating with 8 wt.% Al The parabolic rate constants for the coating with 8 wt.% Al, after isothermal oxidation at 950 and 1050°C are shown in the Table II. Table II: Values of the oxidation rate constant for the CoNiCrAlY coating (8 wt.% Al)
+8% Al 950°C 1050°C 3000 minutes 3,959*10-14 3,282*10-14 kp [g2 / cm4s-]1 6000 minutes 0,572*10-14 1,5006*10-14 9000 minutes 0,299*10-14 0,365*10-14
+
+For this coating oxidized at 950°C, the X-ray measurements show no significant changes in the microstructure of the coating. After 3000 minutes oxidation, the coating consists of /' AlNi3, - CrCo, AlCo, and -Al2O3, after 6000 minutes: /' AlNi3, - Al2O3, and also spinel oxide NiCr2O4 and CoAl2O4 are identified. After 9000 minutes oxidation, the same phases were identified without the detection of CoAl2O4. At this temperature, after 3000 minutes oxidation, the oxidation rate constant kp is high and this sample is the only sample without spinel oxide. It is supposed that the formation of the spinel oxide will reduce the oxidation rate constant.
+
+5
+
+After isothermal oxidation at 1050°C, the X-ray diffraction patterns show: /' AlNi3, Al2O3, and spinel oxide NiCr2O4. For the coating oxidized for 3000 and 6000 minutes also spinel oxide AlYO3 was identified. Differences in the surface morphology of the oxidised CoNiCrAlY-coating (8 wt. % Al) at different temperature for the same treatment time were documented by SEM (Fig. 3a and b). In both cases, no continuos scale was observed on the sample surface.
+
+(a)
+
+(b) Fig 3: SEM micrographs of surface of the coating with 8 wt.% Al oxidised at 950 (a) and 1050°C (b) for 3000 minutes
+
+3.2.2 Oxidation behaviour of the coating with 12 wt.% Al The parabolic rate constants for the coating with 12 wt.% Al, after isothermal oxidation at 950 and 1050°C, are shown in Table III: Table III: Values of the oxidation rate constant for the CoNiCrAlY coating (12 wt.% Al)
+12% Al 3000 minutes 950°C 1050°C 0,811*10 1,084*10-14
+-14
+
+kp [g2 / cm4s-]1 6000 minutes 0,824*10 1,325*10-14
+-14
+
+9000 minutes 0,407*10-14 0,1809*10-14
+
+The X- ray diffraction patterns for the oxidised samples at 950°C show the same phase formation like in the case of the 8 wt.% Al coating oxidation under the same conditions, with the difference that the spinel oxide NiCr2O4 appeared already after 3000 minutes oxidation time. Comparing the kp of the 8 and 12 wt.% Al there is provided once again that the formation of the spinel oxides will reduce the oxidation rate constant. The appearance of the AlYO3 during the oxidation at 950°C for 6000 and 9000 minutes is another difference in the oxidation behaviour of the MCrAlY coating with 12 wt.% Al, when compared with the 8 wt. % Al coating. In the latter case, such phase identification was made only at 1050°C oxidation temperature. The same phases were identified after oxidation at 1050°C for the same periods of time but in this case, the spinel oxide AlYO3 appeared already after 3000 minutes oxidation time. In both cases, at 950 and 1050°C, the peaks of -Al2O3 and also of NiCr2O4 were more intensive and increase comparing with the coating with 8 wt.% Al under the same oxidation conditions. A comparison between the morphologies of the formed oxide layer at 1050° C for 9000 minutes for all three coatings, was made by SEM of the samples cross-section. The SEM micrograph from Fig. 4b shows an uniform and dense oxide layer, present on the sample with 12 wt.% Al. Inside the oxide layer, the presence of the spinel oxides is indicated by arrows (light grey tone). 6
+
+(a)
+
+(b)
+
+(c) Fig. 4: SEM micrographs of the coatings with 8 (a), 12 (b) and 15 wt. % Al (c) oxidized at 1050° for 9000 minutes The same phenomenon is marked also in the case of the material with 15% Al, where a high level of porosity is also observed (Fig. 4a and c).
+3.2.3 Oxidation behaviour of the coating with 15 wt.% Al
+
+The parabolic rate constants for the coating with 15 wt.% Al, after isothermal oxidation at 950 and 1050°C are shown in Table IV:
+Table IV: Values of the oxidation rate constant for the CoNiCrAlY coating (15 wt.% Al)
+15% Al 950°C 1050°C 3000 minutes 1,6506*10-14 2,138*10-14 kp [g2 / cm4s-]1 6000 minutes 1,083*10-14 1,349*10-14 9000 minutes 0,661*10-14 0,692*10-14
+
+After oxidation at 950 and 1050°C, the coatings present the same phase composition like the coating with 12 wt.% Al under the same oxidation conditions with the specification that the signals for NiCr2O4 and -CrCo present a considerable peak increasing (fig. 5). The alumina scale presents a similar morphology with the difference that in the case of the MCrAlY-coating with 15 wt. % Al, the oxide scale is not continuously distributed all over the material surface.(fig. 6). Due to this discontinuity of the oxide layer (islands showed by arrows, where no oxide formation is observed on the surface), a complete protection of the base material will not be assured.
+
+7
+
+AlYO3 AlNi3 -Al2O3 NiCr2O4
+
+(c)
+
+CoAl2O4 - CoCr
+
+(b)
+
+(a)
+
+Fig. 5: Diffraction patterns of MCrAlY-coatings with 8 (a), 12 (b) and 15 wt.% Al (c) oxidized at 1050°C for 9000 minutes
+
+(a)
+
+(b)
+
+Fig. 6: SEM micrographs of the coatings surface with 12 (a) and 15 wt.% Al (b) oxidized at 1050°C for 9000 minutes 3.3 Corrosion tests
+
+The corrosion behaviour of the CoNiCrAlY coating before and after EB remelting was measured by electrochemical methods. From the current-density potential curves, Fig.7, the corrosion currents (icorr) and corrosion potential (Ucorr) were determined. Figure 7 displays a comparison between polarisation curves 8
+
+for the CoNiCrAlY-coating before (1) and after the treatment (2). The parameters for the remelting process in the case of the displayed curves are as follow (table V).
+TableV: Values of the measured corrosion potential and current density as a function of the remelting parameters Remelting parameters Electrochemical data Sample I(mA) v(mm/s) icorr(µA/cm2) Ecorr(mV) as sprayed(1) 29.027 -362.3 remelted (2) 12.5 4.2 0.5665 -425.5
+
+CoNiCrAlY ­ 8%
+(1)
+
+(2)
+
+Fig 7: Polarisation curves of the tested materials in 10-3 M H2SO4
+
+As it can be observed the corrosion current values were shifted to lower values from 29 µA/cm2 to 0,52 µA/cm2 and the potential from ­362 mV to ­425 mV when the coatings are remelted.
+
+4. Conclusions
+The oxidation behaviour of three HVOF sprayed MCrAlY coatings with 8, 12 and 15 wt.% Al were examined. During the spraying process (atmospheric conditions) an oxidation of the material with -Al2O3 and spinel oxide NiCr2O4 (only for the coatings with 12 and 15 wt.% Al) formation was observed. The oxidation behaviour of the coatings was examined at 950 and 1050°C in synthetic air for different periods of time and the parabolic rate constants were determined. At 950°C, an increased Al content leads to an increase of the oxidation rate constant and will favorise the appearance of the spinel oxide already after 3000 minutes oxidation time. At 1050°C oxidation temperature, no important modifications were observed, independent of the Al content. The spinel oxides were identified all three coatings and an enhancement of the peaks intensity was very well correlated with prolonging the treatment periods.
+
+9
+
+Beside the characterisation of the oxidation behaviour of the MCrAlY coatings regarding the values of the oxidation rate constants, as well as the phase characterisation, the morphology of the formed oxide scales was also investigated. The coating with 12 wt.% Al is the only one which presents a continous oxide scale on the surface, free from cracks and spallations. The lowest value of the kp was calculated for this material oxidised for 9000 min at 1050° C The morphology of the alumina scale for 15 wt. % Al coatings was not improved as expected. A lot of cracks and higher porosity were detected. Comparing the values of kp for this coating with the coating containing 12 wt. % Al, in almost all conditions, they are higher. There is well known, that a higher value of the the kp will not conduct to a dense (free from pores and cracks) oxide scale. There has to be noted that the spraying of this type of coating has to be done with a change in spraying parameters or modifications regarding the ratio between the elements Cr and Al in the spraying powder. The results obtained through electron beam remelting are promising for the application of this technique for surface modification. EB-treatment provides a smooth surface, low porosity level and structure refinement as well as the improvement of the corrosion resistance in acidic medium.
+
+Acknowledgments
+This work is part of the project on thermal sprayed coatings used for protection against high temperature corrosion of the coating systems used for different turbine components supported by the Minister of Science and Research, Germany, under the contract number 800 804 01. The authors wish to thank Fa. Thermico GmbH for the manufacture of the coatings.
+
+References
+[1] [2] [3] [4] [5] [6] [7] [8] [9] [10] Commission on Engineering and Technical System, "Coatings for High-Temperature Structural Materials: Trend and Opportunities", Nat'l Academy Press, 1996; Per Kofstad, " High Temperature Corrosion", Elsevier Applied Science, London and New York, 1988; W. Brandl, A. Toma, H.J. Grabke," The Characteristics of Alumina Scales Formed on HVOF- sprayed MCrAlY coatings", Surface and Coatings Technology 108-109 (1998) 10-15; W. Brandl, H.J Grabke, D. Toma, J. Krüger, " The Oxidation Behaviour of Sprayed MCrAlY Coatings", Surface and Coatings Technology 86-87 (1996) 41-47; J.G. Smeggil, Mater. Sci. Eng. 87 (1987) 261; D.P. Moon, Mater. Sci. Tech. 5 (1989) 754; D. Toma, Oxidationsverhalten thermisch gespritzter MCrAlY-Schichten, VDI Verlag, Düsseldorf (1999); G. Müller, et.al, International Conference on Pulsed Power Applications, (2001), E.20/1-6; H. Hamatani, Y. Miyazyki, Surface and Coatings Technology 154 (2002) 176-181; W. Brandl, D. Toma, J. Krüger, H.J Grabke, G. Matthäus, "The Oxidation Behaviour of HVOF Thermal Sprayed MCrAlY Coatings", Surface and Coatings Technology 9495 (1997) 21-26.
+
+10
+

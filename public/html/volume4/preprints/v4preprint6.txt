@@ -1,0 +1,220 @@
+Offshore Cathodic Protection. What We Have Learnt?
+
+Dr.D.Fairhurst Sen.Materials & Corrosion Engineer BP Exploration & Operating Company
+
+1
+
+Offshore Cathodic Protection. What We Have Learnt?
+Introduction This paper looks back over the last 10 to 15 years at various aspects of offshore cathodic protection system design. It covers the development of CP design guidelines for offshore structures and pipelines in seawater, including the influence of water depth. It also looks at the risk to high strength steels and corrosion resistant alloys from hydrogen embrittlement, when cathodically protected in seawater. The last item discussed concerns safety aspects of cathodic protection and is not so much about what we have learnt, but more about what we should never forget, when considering using this method of corrosion mitigation in confined spaces. Cathodic Protection Design For Offshore Structures and Pipelines Key factors, which are influential in determining what is required for fully effective cathodic protection in seawater, are: · · · · · Seawater salinity and resistivity-these have a strong influence upon the required current density at the protected surface and the current available from the specific anode geometry and anode distribution. Dissolved oxygen-with the corrosion of steel under cathodic control, the required current density is directly proportional to the product of the oxygen concentration and the oxygen diffusion coefficient in sea water. Temperature-this affects many things; electrochemical charge transfer & diffusion kinetics, the solubility of the calcareous deposits and the electrochemical capacity of sacrificial anode materials. Water depth and hydrostatic pressure-the main influence is upon the chemistry of calcareous deposits and a reduction in their protective quality. The formation of calcareous deposits-these reduce the current demand in the long term and improve the spread of protection.
+
+Experience gained over the past 20 years has led to the development of a CP design philosophy for offshore structures and pipelines, which identifies three different current density requirements as needing to be satisfied: o High Initial Current Density-to rapidly generate highly alkaline conditions at the protected metal surface and thereby promote the formation of calcareous deposits over a period of several months (say). This reduces the long-term current density requirements. o Mean Current Density Requirements-which satisfy the long-term current demand under stable conditions (up to 40 years). o Final current density- This requirement recognises that the calcareous deposits can suffer damage during storms and the structure become depolarised. The cathodic protection system design must be capable of re-polarising the structure even at the end of life, when sacrificial anodes are almost completely wasted.Figure 1 shows a schematic of the time dependant nature of the electrochemical polarisation curve for steel in seawater.
+
+2
+
+Potential (mV v Ag/AgCl/Seawater)
+
+Fe E Corr
+
+Fe2+/Fe3+
+
+-900 Time O2 OH-
+
+Log [Current Density]
+
+Figure 1. Schematic of the Time Dependant Polarization Curve For Carbon Steel
+
+Regarding the cathodic section of the curve, the curve to the extreme right represents polarisation of the initial clean bare steel surface, where a high current density is required to polarise the steel to potentials at which corrosion of the steel becomes negligible. With the passage of time, the formation and thickening of calcareous deposits results in the cathodic curve becoming modified as the deposits form and the current density required to maintain adequate cathodic protection levels significantly reduced. Potentials more negative than ­900 mV are required in order to encourage the formation of the most effective calcareous deposits. This "three stage" CP design philosophy is reflected in the approaches to CP design for offshore platforms and pipelines covered by the numerous national international and company standards, which exist today. These include: DNV RPB 4011 NACE RP 0176 (recently withdrawn)2 Norsok M-CR-503 3 CEN 4 ISO 15589 (Draft Form) 5 Company (eg. Shell DEP) It is generally acknowledged that the above documents are applicable to structures located in water depths down to 300 metres. In more recent years there has been a rapid expansion of the development of offshore oil and gas reserves in waters, which are significantly deeper than this limit. Figure 2 illustrates how exploration has progressively moved into water depths of greater than 2000 metres in the Gulf of Mexico. While the seawater conditions are known to change with water depth, no definitive guidelines currently exist for the design of cathodic protection systems in waters beyond the 300 metre limit. The extent of existing knowledge regarding seawater properties at greater depths than 300 metres is quite extensive. It is known that with increasing water depth: v Salinity may increase or decrease depending upon geographical location. v Oxygen concentration decreases with depth, but remains significant. 3
+
+v Seawater temperatures become lower.. v Calcareous deposits become increasingly more soluble and less persistent.
+What is "Deep" Water?
+1980 N.Sea 200m 1990 1995 2000 2005
+
+Foinaven Schiehallion FPSO
+
+Ram/Powell Ursa Holstein Girassol Hoover Thunder TLP Horse TLP FPSO SPAR
+
+Atlantis Nakika
+
+Metres
+
+0 300 600 900 1200 1500 1800 2100 2400 Producing Current Developments King's Peak SS TB Pompano Subsea TB Mars TLP
+
+Marlin TLP
+
+Figure 2. Schematic of How Offshore Oil and Gas Developments have Moved into Progressively Greater Water Depths
+
+Figure 3 shows a contour plot of the variation in oxygen levels in the seawater in the Gulf of Mexico with specific geographical location at a depth of 1000 metres. Such data can be used to gather the seawater properties through the water column at a specific development site. For some developments this data has been supplemented by analysing actual water samples recovered from various depths at the site.
+
+Figure 3. Contours of Oxygen Levels at 1000m Water Depth in the Gulf of Mexico
+
+Typical trends in oxygen concentration, temperature and resistivity with water depth from 500 to 2000 metres in the Gulf of Mexico are shown in Table 1.
+
+4
+
+Water Depth (metres) 500 1000 2000 3000
+
+Oxygen Conc. (ppm) 2.6-3.0 3.9-4.2 4.8-5.2 4.4-5.0
+
+Temp (oC) 8-12 4.8-5.0 4.1-4.2 3.9-4.2
+
+Resistivity (ohm.cm) * 0.26 0.30 0.31 0.32
+
+* Interpolated from oceanographic salinity data and Table 6.8 of DnV RPB401
+Table 1. Variation in Sea Water Properties With Depth in the Gulf of Mexico.
+
+Perhaps the most surprising trend is the increase in oxygen concentration by a factor approaching 2 over the 500 to 3000-metre water depth interval. By contrast the largest changes in temperature and resistivity with depth occur above 1000 metres. While the former shows a progressive but small change from 100 to 2000 metres the latter shows a marginal increase over the same depth range. The absence of documented CP design data for deeper waters has driven many studies to investigate the effect of water depth upon calcareous deposit formation in an attempt to understand how CP design requirements might change with water depth. The principle constituent of calcareous deposits is calcium carbonate (as Aragonite & Calcite) with small concentrations of magnesium hydroxide (Brucite). The pH required for calcium carbonate precipitation is much lower than for magnesium hydroxide (8.7 versus 9.7) and calcite formation occurs more readily as alkali is generated at the cathodically protected steel surface, despite the concentration of magnesium in sea water being significantly higher than calcium under normal circumstances. The extensive studies that have been carried out into calcareous deposit formation in seawater have established that:6 The degree of supersaturation of seawater with CaCO3 decreases with water depth, such that in some oceans of the world under saturation is evident below a certain depth. CaCO3 solubility increases with decreasing temperature. Deposits formed at high hydrostatic pressures tend to be magnesium rich and less persistent than in shallower waters. The presence of magnesium inhibits the growth of calcite crystals. The most stable calcareous deposits contain between 2 and 7% magnesium.
+
+-
+
+The overall conclusion from these studies is that the chemistry of calcareous deposit formation in seawater is extremely complex and a deeper understanding will provide little quantitative guidance on the most appropriate design current densities to be used at a specific geographical location and water depth below 300 metres. Inevitably, the above conclusion has led a number of oil companies and research organisation to attempt to determine the actual current density-polarised potential relationship for carbon and low alloy steel, and some corrosion resistant alloys at prospective development sites, using small scale cathodic protection test assemblies.
+
+5
+
+These test assemblies are normally deployed at the specific site of interest using a mooring string. Figure 4 shows a schematic of a typical mooring string composition. The essential components, apart from the mooring rope itself, are; the clump weight (very bottom), which keeps the string on station, the buoyancy elements (top end of the string), which ensure the string remains vertical and in tension, and the acoustic release (just above the clump weight). The latter enables the string and the CP assemblies to be recovered from a surface vessel using sonar, following the exposure period.
+
+Figure 4. A Typical Mooring String Design for the Deployment of Small Scale Test Assemblies
+
+A number of CP test assemblies are clamped to the mooring string at the required depths. Figure 5 shows one type of individual CP sensor comprising a large cathode of carbon steel, a smaller anode of aluminium-zinc indium and an even smaller reference electrode of high purity zinc, all mounted within a non metallic support plate. A data logger connected to the assembly enables anode and cathode potentials and the galvanic current to be monitored continuously throughout the exposure period. Figure 6 shows an alternative sensor construction in which the material being cathodically polarised is in the form of a tube and the sacrificial anode a solid disc fitted to the end of the tube, but isolated from it. In the arrangement shown in Figure 6(a), the reference electrode (zinc) is the small rod protruding through the upper end of the assembly, In Figure 6(b) the reference electrode is at the bottom end and a
+
+6
+
+Figure 5. Typical ""Flat" Small Scale CP Test Sensor
+
+transparent plastic cover used to prevent contamination, protects the surfaces of the sensors and is removed prior to deployment. The datalogging device is located within the tube. Figure 7 shows six of the tubular type sensors mounted within a "cable reel" support structure. With this arrangement, the mooring cable passes through the hub of the "reel". With both types of sensor described, the tests are designed to be free running, to closely simulate what happens in practice. To investigate the polarisation characteristics thoroughly, several sensors are usually deployed at the same depth,
+
+(a)
+
+(b)
+
+Figure 6. Tubular Cathodic Protection Sensor
+
+each with a resistor of a different magnitude in the external circuit. The sensors can be designed so that they activate immediately on contact with water to simplify the installation procedure.
+
+7
+
+Figure 7. Six Tubular CP Sensors Mounted on a "Cable Reel" Assembly
+
+Figure 8 shows a typical example of the data obtained from CP sensors located in deep water. The potentials have been converted from values recorded with respect to a zinc reference electrode to values on the Ag/AgCl/Sea Water electrode scale. In this particular case the carbon steel had become polarised to potentials more negative than ­900mV within 40 days. Initial current densities in this configuration were in excess of 300mA/m2, but fell to around 150 mA/m2 after 80 days.
+
+Figure 8. Typical Data Logging Record From a CP Sensor
+
+There are always concerns that the results from small-scale tests do not simulate the true polarisation conditions with sufficient accuracy, even when deployed at the same location. In a few very limited cases CP design data has been obtained under real conditions using instrumented small subsection mock-ups and/or, verified from instrumented offshore structures7. However, due to the instrumentation required this type of CP monitoring under real conditions of scale is only really feasible on fixed offshore platforms. In so far as offshore developments of hydrocarbon reserves are concerned 400 metres appears to be the practical and economic water depth limit for fixed offshore platform structures. Beyond this depth various alternative offshore development designs, such as; Tension Leg Platforms (TLPs), Floating Production Storage and Offtake Systems (FPSOs), Spars etc, have become more practical and economical than fixed offshore platforms, see Figure 2.
+
+8
+
+Figure 9 shows a schematic of Shell's Bullwinkle platform, which was installed in a water depth of just less than 400metres (1350') in 1988. The platform structure was fitted with permanent reference cells, and instrumented anodes and steel wrapper plates. These devices enabled cathodic protection current densities, anode current outputs and protection potentials to be measured directly at several depths.
+
+Figure 9. Instrumented Cathodic Protection System on Bullwinkle Platform
+
+The results from investigations such as those described above and considerations of water chemistry have enabled CP designs to be developed for structures (mainly sea bed templates and pipelines) installed at increasingly greater water depths, well beyond those covered by national and international cathodic protection standards. Table 2 compares current density design figures used on a number of progressively deeper water projects in the Gulf of Mexico with those recommended in NACE and DnV standards for shallower waters. It also includes actual current density data Source/Field Depth Initial CD (m) (mA/m2) DnV <30 150(15) DnV >30 130(120 NACE <300 110(10) MC109 1991 316 123(11.5) Cognac 1977 320 116(11) Bullwinkle 1988 357 194(18) Bullwinkle * 1988 357 226(21) Thunderh. 2003 >462 193(18) Pompano 1994 572 127(11.5) Troika 1997 880 250(23.2) * Data from Bullwinkle's monitoring system Year Mean CD (mA/m2) 70(6.5) 60(5.6) 55(5) 91(8.5) 32.3(3) 97(9) 94(8.5) 114(10.5) Final CD (mA/m2) 90(8.4) 80(7.40 75(7.7) 108(9) 129(12) 99(9) 135(12.5)
+
+Table 2. Summary of Offshore Structure Cathodic Protection Design Data Versus Water Depth
+
+9
+
+derived from the first 7 years of cathodic protection monitoring on the Bullwinkle platform. There would appear to be a good agreement between the initial design current density and that derived from the monitoring results. Overall, CP system designers have assumed a progressive increase in initial, mean and final design current densities with increasing water depth. Regarding the final current density requirement, it is becoming acknowledged that the likelihood of depolarisation of deepwater facilities due to storms is extremely remote and the need to consider this unnecessary. Hydrogen Embrittlement. Progressive developments in the offshore oil and gas industry have seen the installation of increasingly more complex equipment on the seabed and have inevitably led to a wider range of metallic materials being subjected to cathodic protection in sea water than ever before. While hydrogen embrittlement susceptibility is not a new phenomena-it is mentioned in BS CP1021 (1973)8-the ongoing search for more economic materials of construction and the increasing use of newer materials, with limited track records of performance in sea water when cathodically protected have raised significantly the profile of this degradation mechanism in recent times. In simple terms, hydrogen embrittlement of the the more commonly used structural materials is a reduction in the original ductility of the material resulting from hydrogen atoms diffusing into it and combining within the metal lattice to form hydrogen gas. The material becomes brittle and the component fails, sometimes catastrophically as it can no longer withstand the applied and/or residual stress. When a metal is cathodically protected in seawater at ambient temperature, hydrogen will be generated at the metal surface whenever the potential becomes more negative than the equilibrium potential for hydrogen evolution, that is, circa ­800mV v Ag/Ag/AgCl/Seawater. The more negative the potential becomes beyond ­800mV, the higher the risk of a susceptible material suffering embrittlement and the specific component failing. The susceptibility to a loss of ductility in seawater and embrittlement failure as a consequence of hydrogen absorption is a complex function of: · · · · The residual and/or applied stress. The metallurgical condition of the material Material hardness & strength The applied (cathodic) potential.
+
+Hydrogen embrittlement failures of high strength CRA subsea equipment components arising from external cathodic protection have long been associated with the offshore industry. The earliest failures, in North Sea fixed platform designs (circa 1982), were mainly associated with fasteners, e.g. K-Monel 500 riser clamp stud bolts. More recently, hydrogen embrittlement failures have become more common as a much wider range of CRA's have found there way into the sea in conjunction with the move to subsea completions technologies either as tie-backs to fixed platforms or connected to floating production systems, which are particularly favoured in deep water-see earlier. Subsea components that have suffered failures to date include; flowlines, manifold hub connectors, instrumentation fittings and circlip fasteners.9 Whilst some of these failures could have been predicted and therefore prevented by more careful
+
+10
+
+materials selection / specification, others could not have been predicted from the knowledge that existed at the time. The avoidable and readily explainable failures were again those involving high strength fastener alloys, well beyond the hardness limits recommended by NACE MR 01-75. Far more difficult to understand and therefore avoid have been failures in weldable 13Cr and duplex stainless steels: research is continuing to better define the mechanisms of crack initiation and propagation, as well as safe design parameters, for these classes of alloy. Examples of HE failures with CRA's within the past 6 years include: o A duplex stainless steel flowline at a location immediately adjacent to an aluminium anode attachment pad due to high-applied stresses arising from intermittent operation of the line and thermal cycling. o A duplex stainless steel flowline adjacent to a subsea manifold due to high applied stresses imposed due to differential settlement into the seabed o Several superduplex stainless steel manifold connector hubs. In this case high applied stresses associated with original fabrication were suspected as being mainly responsible, but the situation was compounded by undesirable microstructural features in the component, a stress concentration at the failure location and the failure of a poorly applied paint system exposing the susceptible area to very negative cathodic protection levels o A superduplex stainless steel instrument fitting of welded construction. The autogenous welding procedure had resulted in excessive ferrite in the weld metal. o Supermartensitic13Cr flowlines immediately adjacent to anode attachment pads. The failure of the protective coating in the area had allowed seawater to contact the high hardness heat affected zone (HAZ) of the pad. Plastic strain from reeling of the flowline during installation is also thought to have contributed. o Precipitation hardened nickel-base alloy circlips, heat treated to a hardness level at which fracture in the presence of atomic hydrogen could occur without any significant applied stress. The electrochemical reduction of hydrogen ions to hydrogen gas at a metal surface in seawater takes place through two distinct stages. The first of these is charge transfer with the positively charged hydrogen ions being converted to atomic hydrogen. The atomic hydrogen is adsorbed onto the metal surface, where it can either combine to form hydrogen gas and leave the metal surface, or diffuse in to the metal lattice. It is well established that in kinetic terms the combination of hydrogen atoms to form hydrogen gas is an extremely slow process compared to the initial charge transfer stage. It is not unreasonable to expect, from basic physical chemistry considerations, that with increasing pressure, i.e. increasing water depth, the rate of combination of hydrogen atoms to hydrogen gas is retarded further. Such considerations as this, have led to a number of investigations into the influence of water depth, or water pressure on the hydrogen embrittlement susceptibility of a range of structural materials. One in particular has involved the deployment of test samples of API 5L grade X70 steel to hydrogen embrittlement under cathodic protection at water depths of 1083 and 1945 metres in the Gulf of Mexico. The testing involved both four-point bend and double cantilever beam tests at cathodic protection potentials of ­800 and ­1000mV v Ag/AgCl/Sea Water for a duration of 272 days. Figure 10 shows a close up view of a
+
+11
+
+single four-point bend test assembly and also the deployment frame, inside which the test assemblies were mounted.
+
+Figure 10. Four Point Bend Test Assembly And Test Frame.
+
+There was no evidence of cracking in any of the specimens following recovery from the two test locations. Tests have also been carried to examine the susceptibility to hydrogen embrittlement of a range of materials under deep-water conditions simulated in the laboratory. 10 In these laboratory tests the test materials included various grades of carbon and low alloy steel, a number of "13%" chrome steels and 25 chrome super duplex stainless steel. All of the materials were tested in their standard conditions. In addition several "experimental" "AISI 4130 steels" were produced by heat treatment. For these steels the yield strengths and hardness's varied from 425 to 1068 MPa and 220-350 Vickers Hardness, respectively. The test pressure was 300bar, simulating a water depth of 3000 metres. For comparative purposes, several of the materials were also tested at 1 bar pressure. All of the test samples were polarised to ­1050mV v Ag/AgCl/Sea Water. The only CRA material to suffer cracking in any of the tests was one of 5 samples of 12% Cr 4.5% Ni. exposed to a pressure of 300 bar. When this sample was subjected to a detailed examination it was found to have a non-homogeneous microstructure not typical of this type of material. The modified AISI 4130 steels with yield strengths below 1000MPa showed no evidence of cracking. However, evidence of cracking was found in samples of modified AISI 4130 steels with yield strengths in excess of 1000 MPa at both 1 bar and 300 bar test pressures. The general conclusion that may be drawn from this work is, that materials which are not susceptible to hydrogen embrittlement at atmospheric pressures, do not become susceptible at greater water depths. Safe Cathodic Protection Potential Limits. Reference was made earlier to importance of the equilibrium potential for hydrogen evolution to the risk of hydrogen embrittlement of susceptible materials in seawater. With CRAs the main objective with applying cathodic protection is to prevent localised corrosion. The polarised potential does not have to be as negative as that required to prevent significant corrosion of carbon and low alloy steels. Figure11 shows a schematic of the variation in pitting potential for "13 Cr steels" with respect to both chloride ion concentration and temperature. 11,12 From Figure 11, it is evident
+
+12
+
+Potential (mV v Ag/AgCl/Seawater)
+
+0 - 400
+No HE Risk 0.05% NaCl 3% NaCl/Seawater Hydrogen Equilibrium Potential
+
+- 800
+Increasing HE Risk
+
+20
+
+40
+
+60
+
+80
+
+100
+
+Temperature oC
+
+Figure 11. Schematic of the Variation in Pitting Potential With Temperature and Chloride Concentration for 13Cr Type Steels
+
+that potentials of around ­600 mV v Ag/AgCl/Seawater are sufficiently negative to prevent localised corrosion of the "13 Cr" type steels. Polarisation to potentials more negative than the standard criterion for carbon and low alloy steels- -800mV, where there is an increasing risk of hydrogen embrittlment is unnecessary. However, in practical terms, this creates something of a dilemma as standard sacrificial anode materials, such as zinc and aluminium-zinc-indium alloys have open circuit potentials well below the threshold at which hydrogen embrittlement becomes a risk Where a material is considered to be at risk from hydrogen embrittlement in seawater, it is still possible to prevent localised corrosion yet minimise the risk of hydrogen embrittlement by using sacrificial anode materials based upon zinc and alloys of aluminium. This can be achieved in one of two ways: The first method involves the use of sacrificial anodes of standard composition, but which, instead of being welded directly onto the structure are connected via diodes. The diodes introduce an electrical resistance between the anode and the structure, whose magnitude increases as the potential difference between the anode and the structure decreases. As the potential of the structure approaches the negative limit (below which hydrogen embrittlement is possible), the circuit resistance becomes so high, that there is negligible current flow between the anode and the structure and further polarisation is not possible. The second method uses low voltage sacrificial anode compositions such as those aluminium anodes with gallium as a principle alloying element. Aluminium-gallium anodes have an open circuit voltage of circa ­800mV v Ag/AgCl/Sea Water compared to typically ­1000 to -1050 mV for zinc or aluminium-zinc indium anodes and are therefore not capable of polarising the structure to potentials at which hydrogen embrittlement would be a significant risk. Table 3 compares a typical aluminiumzinc-indium alloy composition to that of a low voltage aluminium-gallium anode.13
+
+13
+
+Element
+Al-Zn-In Al-Ga
+
+Zn
+3.5-6.5 -
+
+In
+0.01-0.03 -
+
+Mn
+0.01 -
+
+Fe
+0.13 0.13
+
+Si
+0.10 0.03
+
+Cu
+0.006 0.001
+
+Ga
+0.098
+
+Al
+Bal. Bal
+
+Table 3.Comparison of a Typical Aluminium-Gallium anode composition with that for Aluminium-Zinc-Indium.
+
+A Principle Safety Hazard Associated With Cathodic Protection Much has already been written about the possible detrimental effects of hydrogen generated at the cathodically protected surface of a metal. We should also remember that gaseous hydrogen is an extremely dangerous material. Figure 12 compares the upper and lower fuel to air mixture limits for hydrogen with methane, propane and ethylene. A premixed fuel-air mixture will only burn as long as the fuel concentration is between the upper and lower flammability limits, i.e. between the UFL and the LFL. From Figure 12, it is apparent that hydrogen has a very wide flammability range of between 4 ­and 75% by volume when mixed with air. Therefore, it is far easier to get a flammable cloud of hydrogen in air than methane, propane or ethylene.
+
+Figure 12. A Comparison Of The Upper and Lower Fuel Composition Limits for the Ignition Of Hydrogen With Those for Methane Propane and Ethylene. A short time ago the writer took part in an incident investigation involving an explosion inside the leg of an offshore platform. The leg was flooded with seawater, and the inside of the leg was protected from corrosion with aluminium-zinc indium anodes, which had been installed 14 months previously. Figure 13 shows a schematic of the leg arrangement. It transpired that, prior to the explosion, the leg and an adjoining caisson were interconnected, but completely sealed from the outside atmosphere. During welding operations on the outside of the adjoining caisson, an explosion occurred inside the leg, blowing off the leg cover plate and causing a number of fatalities amongst other workers in the vicinity.
+
+14
+
+Leg Cover Plate
+Welding Activities
+Hydrogen
+
+Deck Caisson
+
+Leg
+
+Sea Water Flooded
+
+Sacrificial Anodes
+
+Figure13. Schematic of Internal Compartment Where Cathodic Protection was Being Applied. Analysis of the gas evolving from the water revealed it to be predominantly hydrogen and from calculations it was possible to show that over the preceding 14 month period sufficient hydrogen had been evolved to put the composition of the vapour within the leg and caisson well within the flammability limits for hydrogen-air mixtures. It was also possible to show that the ignition of such an hydrogen-air mixture was capable of producing an explosion strong enough to remove the leg cover and generate a strong blast wave on the platform deck. In conclusion , the following should never be forgotten when considering installing cathodic protection systems in confined spaces: ·Hydrogen is generated at cathodically protected steel surfaces at potentials more negative than ­800mV v Ag/AgCl/Seawater ·Hydrogen has a very wide flamability range when mixed with air ·Adequate ventilation should always be provided where cathodic protection is employed to protect steel or other metallic materials in confined areas. . Summary One of the biggest challenges in the offshore cathodic protection industry over the past 10 to 15 years has been the progressive move of hydrocarbon developments into waters far deeper than ever before. It has been widely recognised that established cathodic protection designs parameters used in waters less than 300 metres deep are insufficiently conservative to be used at water depths up to 2000 metres. This is due predominantly to the effect of changes in the various seawater properties upon the composition, rate of formation and persistency of calcareous deposits. While no formal guidelines exist for cathodic protection designs for water depths below 300
+
+15
+
+metres, the general approach has been to assume that current density requirements progressively increase with water depth. A further progressive trend over the last 10 years has been to increase the amount and complexity of equipment being placed on the seabed. This has been accompanied by a rash of failures, principally of corrosion resistant alloys, either with a limited track record of exposure to cathodic protection in seawater, or without sufficient consideration of the likely consequences. In conjunction, a number of innovative CP designs have emerged, which may be used to mitigate embrittlement failures where a significant risk is thought to exist. We should never forget that at protection potentials levels normally applied to protect carbon and low alloy steels, hydrogen will be generated at the protected surface. Hydrogen has a very wide flammable concentration range in air and measures should always be taken to ensure that adequate ventilation is provided in confined spaces, when cathodic protection is being applied.
+
+16
+
+References
+1 2
+
+DnV RPB401 "Cathodic Protection Design" NACE RP0176 "Corrosion Control of Steel Fixed Offshore Platforms Associated With Petroleum Production" 3 NORSOK M-CR-503 "Cathodic Protection" 4 Comité Européen de Normalisation (European Committee for Standardisation) 5 ISO 15589 "Pipeline Cathodic Protection" 6 K.P.Fischer, W.H Thomason & Svein Eliassen "The Importance of Calcareous Deposits and the Environmental Conditions", Paper No 548, NACE Corrosion96 7 S.L.Wolfson & J.J.Kenney-Cathodic Protection Monitoring-Bullwinkle OTC 6053, 21st Annual OTC Conference, Houston, Texas, 1989 8 British Standards Institute CP1021 "Code of Practice For Cathodic Protection" 1973. 9 D.Fairhurst, W.Murphy &C.Amon UK Corrosion 98 "The Failure of Minor Components With Disproportionate Consequences." 10 D.Festy, NACE Corrosion 2001 Paper No 01011 "Cathodic Protection of Steel in Deep Sea:Hydrogen Embrittlement Risk and Cathodic Protection." 11 A.Pourbaix Supermartensitic Steels '99, S99-33 Page 283 "Cathodic Protection of Supermartensitic 13 Cr Stainless Steels Withour Hydrogen Damage" 12 R.Lye. Materials Performance P 24, October 1988, "Current Drain to Cathodically Protected Stainless Steels in Seawater" 13 West Africa Joint Industry Project. Private Communication.
+
+17
+

@@ -1,0 +1,190 @@
+ISSN 1466-8858
+
+Volume 10, Preprint 47 Control of corrosion in reinforced concrete structure throughsubmitted 22 August 2007 polyurethane
+
+coatings
+
+Shailja Awasthi*, Devendra Agarwal** Department of Oil & Paint Technology, Harcourt Butler Technological Institute (HBTI)
+
+Nawabganj, Kanpur 208002
+Tel.: +91- 0512-2533502, Fax :+91- 0512-2533812 Mail address- *shailja_2005@rediffmail.com, **dahbti@rediffmail.com
+
+Abstract: Various coatings and paints are most commonly used for the protection of reinforced concrete structures. Polyurethane and acrylic paints are widely used in the protection of corrosion in reinforced concrete. The main cause of corrosion is chloride ion ingress and carbonation of cover concrete. In this paper for the purpose of protection of corrosion, both the acrylic and polyurethane paints with the same pigment have been used. Polyurethane paints have shown the advantages of low permeability of carbon dioxide, sulphur dioxide and water. From this research it is confirmed that polyurethane dispersion paints provide better protection to reinforcing steel in concrete than the acrylic paints. Polyurethane dispersion paints are expanding for environmental reasons and also because they can be applied for the rehabilitation of old structures. The blend of PU-Acrylic provides best protection among the applied formulations.
+
+Keywords: Polyurethane dispersion paints, Reinforced concrete, corrosion, Anticorrosive coating
+
+1
+
+Introduction: Concrete structures in environment with adverse geographic and climatic conditions such
+
+as severe ground and ambient salinity and high temperature-humidity regimes are prone to early deterioration. Such aggressive environments induce several deterioration problems, and
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 the most frequent
+
+submitted 22 early and damaging one Volumecorrosion of47 is the 10, Preprint reinforcing steel, which causesAugust 2007
+
+deterioration of concrete structures. Several measures have been tried to combat this problem and extend the service life of concrete structure.[1] One such measure is the application of a coating on the external surface of concrete structure. The main function of this coating system is to prohibit water and any soluble salts from penetrating the concrete to cause corrosion, leaking, and other problems. In addition, The coating materials can be very effective in minimizing the rate of corrosion once it has initiated by preventing access of moisture and oxygen to the steel surfaces. There are several generic types of coating materials, which are commonly used for protecting concrete structure, such as cement- based, epoxy resin, polyurethane resin, acrylic resin, and silane/siloxane.These generic types have considerable variations in terms of the price, durability performance, and method of application.[2] The reduction in the useful service life of reinforced concrete structure is of major concern to the construction industry worldwide . The major form of concrete
+
+deterioration is due to chloride induced reinforcement corrosion. The ingress of chloride ions from the service environment can only be avoided by coating it with impermeable
+
+membrane. The different types surface coatings that can be used for the protection of reinforced concrete .There is a need to assess the effectiveness of these surface coating materials in reducing reinforcement corrosion in concrete structures. corrosion of concrete reinforcement can threaten the integrity & safety of a concrete structure and is a wide spread problem particularly in coastal regions. Corrosion of reinforcement can be caused by carbonation of cover concrete and chloride ion ingress. Inadequate quality, insufficient thickness of cover concrete and aggressive exposure environments can accelerate deterioration. Damage caused by corrosion of reinforcement in concrete results from oxidation due to an electrochemical process. The process occurs between the surface of metal and the material in which it is in contact. The process is made possible because metals tend to dissolve in electrolyte solutions and to be oxidized by oxygen. Therefore, the corrosion process requires a metal in contact with water and oxygen
+[3]
+
+In this process water is the solvent medium,
+
+which allows transportation of ions. Oxygen is the reactant, which takes electrons from iron atoms causing iron to go into solution. In reinforced concrete, a catalyst like chloride ion from that has diffused into concrete is the critical component in the corrosion process. This accelerates the deterioration and keeps it going.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 The chloride
+
+Volume weaken the thin film of iron oxide, covering the 2007 submitted 22 August ion is able to penetrate and 10, Preprint 47
+
+reinforcing steel. The role of paints and coatings is to protect metal substrates from corrosion, and concrete from chemical attack and deterioration. Solvent based scoatings can be used in the protection of corrosion but there are several generic types of environmentally friendly water based coatings which are commonly used for protecting concrete structures, based on polyurethane & acrylic resins. These generic types have considerable variations in terms of the price, durability performance and method of application . The action of coatings provide a satisfactory level of protection. Corrosion occurs when this protective film is impaired and oxygen is present. Coatings are used to improve the durability of the whole structure other than for cosmetic reasons.They are beneficial to seal the surface against penetration of harmful species such as oxygen,CO2 , chloride ions, sulphate ions, and water into concrete for many years .At the same time, it is very essential that the coating should enable concrete the concrete to' breathe" and allow water vapor to escape for preventing formation of blisters
+.[4,5]
+
+These days waterborne polyurethane coatings are abrasion, chemical and moisture resistant at price competitive with conventional coatings . Much of the appeal of waterborne coatings are related to the significant application benefits they offer. These include low odor enabling application without affecting other trades and allowing accelerated construction schedules. The VOC emission during the application stage of solvent borne coatings leads to atmospheric pollution, causing ozone depletion, acid rain & possibly a chemical imbalance of the Earth's ecosphere
+[6]
+
+. in this regard, waterborne polyurethane offer multi-fold advantages
+
+in one shot like control on VOC, minimal fire risk, non-toxicity and resource conservation (by possibly eliminating or cartailing the use of solvents which are obtained from petroleum crude) Thereby making the system eco-friendly and at the same time user-friendly.. Polyurethane dispersion along with acrylate emulsion are widely used in coatings. Because of isocyanate compound used in it, it has slightly higher cost. Acrylate emulsions generally have only moderate property profile but are economical. PUDs on the other hand have excellent performance in combination with significant higher cost. Simple blends of PU & AC dispersions are therefore frequently used as price/ performance compromise. Polyurethane (PU) coatings in particular have been suggested for use in arduous conditions of severe corrosion and abrasion
+.[7]
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 2. Experimental:
+
+Volume 10, Preprint 47
+
+submitted 22 August 2007
+
+2.1 General Information: Trimethylamine LR (99%) was procured from S.D.Fine chemicals, India. Dimethylol propionic acid (99%) was purchased from Aldrich ,USA,Neopentyl glycol (98%) obtained from SRL Ltd.India was dried under vaccum at 1 mmof Hg and 85°C for 5 hto drive off moisture, if any. Triethylamine and N-methyl -2- Pyrrolidine (S.D. Fine- Chem,India) was dried over 3A° molecular sieves for 7 days.All the other chemicals as adipic acid & ethylene glycol were obtained from SD Fine chemicals. The cross-linker IPDI was procured from Bayer corporation (Desmodur ­H284.00) These chemicals were used as such without any further purification.
+
+2.2 Synthesis of polyurethane Dispersion: A four necked round bottom flask equipped with mechanical stirrer, Dean-Stark assembaly, thermometer and nitrogen gas inlet, a predetermined quantity of ethylene glycol and adipic acid were changed as per formulaion.The temperature was initially raised to 180°C and thereafter increased with small increments of 100 C per hour until the temperature finally setteled at 2300C Where the reaction was continued till the desired acid value (3) and hydroxyl value (4) was obtained . Finally the polyester diol was discharged into glass stoppered bottle and was placed in vaccum descicator before the on set of further reaction .A given amount of Poly(ethylene adipate) glycol was put into a three necked flask, turned on stir, then IPDI and DMPA was incorporated into the flask stirring. The reaction system was heated to 850C and was kept for 2h.N-methyl-2- pyrrolidone was added in the flask, reaction temp. was heated at 750C within 10 min., when the remaining water was compensated and diethanediamine was added. The reaction mixture was kept warm and stirring for 1h,then cooled down and discharged .The solid content of dispersion were adjusted to 30 % by weight. Table 1 displays the general characterstics of the waterborne polyurethane dispersion thus synthesize. Acrylic emulsion was purchased from market (Pidilite) India.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 47
+
+submitted 22 August 2007
+
+Fig. Synthesis of polyurethane dispersion
+
+Table [1] Characteristics of polyurethane dispersion Properties Polyol backbone Charge Isocyanate Used Isocyanate type Chain Extender Appearance Viscosity (cps) @300 pH Solid (wt%) Polyurethane dispersion polyester Anionic IPDI Cyclo-aliphatic Ethylenediamine Milky white 41 8.2 30
+
+2.3 Coating formulation and film application: To examine the effect of coatings in reinforced concrete structure, three different paints were being used with same pigment. The composition of paints used in experiment is given in [table-2] · · · Emulsion paint (PU dispersion) pigmented with pigment TiO2 Emulsion paints (acrylic dispersion) with pigment TiO2 Blend of PU & Acrylic emulsion pigmented TiO2
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 All the
+
+Volume 10, Preprint surface of the concrete specimen in 2007 submitted 22 August paints were applied by brush on the dried 47
+
+double coat with a drying period of 8 hrs between them . Specimens without paint is referred as EW .and those with emulsion paints PU dispersion, aq. Acrylic dispersion and blend of PU & Acrylic dispersions are EP,EA & EB respectively.[Table-2] Finally all specimens were partially immersed in 3.5% w/w NaCl solutions up to 20 mm from their bottom .After 7 days of curing time, in order simulate aggressive condition corrosion. Table [2]. Composition of paint system: Serial no. 1 2 3 Product code EP EA EB Coating system Polyurethane dispersion Acrylic emulsion Blend of pu and acrylic emulsion 4 EW Blank & impose an accelerate rate of
+
+The following methods were employed in this work for the evaluation of the protective action of coatings against corrosion.
+
+2.3.1 Half cell potential: During the exposure of the specimen in the corrosion environment the half-cell potential measured with the help of half-cell potentiometer (Controls,58-E0065), ASTM C876-80 of steel bars was periodically measured versus a saturated calomel electrode.
+
+2.3.2 Mass loss of bars: The corrosion rate was determined by measuring the mass loss of steel bars The steel bars were cleaned from any corrosion product & were weighted .The average mass loss was calculated from the difference between the initial & the final weight of each bar.
+
+2.3.3 Chloride diffusion rate: The rate of chloride diffusion rate through the cement was measured using a special
+
+device, in which a cylindrical concrete slice was placed in contact with a glass tube filled with a 3.5% w/w NaCl solution at one end and a glass tube filled with distilled water at the other end and specimen without paint was prepared for reference along with a series of
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 concrete slices
+
+Volume categories of submitted 22 August which were coated with the10, Preprint 47 paints. The amount of chlorides 2007
+
+diffused through the mortars was calculated by titration.
+
+Table [3]. Performance properties of coating samples
+S No. 1. 2. 3. 4 Sample Code EP EA EB EW Mass Loss (mg.) 200 260 190 475 Half Cell Potential (M v) -460 -510 -445 -585 Chloride Diffusion % 0.4 0.6 0.4 1.7
+
+3. Result and discussion: 3.1 Preparation of polyurethane dispersion: Aqueous PUD consist of polyurethane polymers or polyurethane-polyurea polymers which contain both urethane groups and urea groups and are obtainable by polyaddition reaction of polyols, polyisocyanates & polyamines. Polyurethane pre polymers are first prepared from the polyols and polyisocyanates and are then dispersed in the aqueous phase and are subjected to chain extension with polyamines with synthesis of the polyurethane ­ polyurea polymers
+[8]
+
+.
+
+3.2 Half cell potential: Half cell potential of the painted concrete specimens after 8 months exposure in the corrosive environment are shown in fig.1 in comparison with the blank one (B) it is obvious that there is a tendency for the decreasing of potential from values of ­100 to ­200 mv to values ­500 to ­600mv for all specimens. The change of potential to more negative values occurs at different times for each category of specimens. From this point of view the specimen coated with polyurethane emulsion paint containing TiO2 (PU) exhibit a better behavior with respect to corrosion resistance as compared to the others.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 47
+
+submitted 22 August 2007
+
+Half cell potential (mv)
+600 Half cell potential 500 400 EP 300 EA 200 100 0 1 2 3 4 5 6 7 8 Time (months) EB EW
+
+Figure 1: Half cell Potentials of specimens EA,EP,EB and EW
+
+3.2 Mass loss of rebars: The mass loss of rebar vs. time for all specimen categories is shown in Fig.2 The specimen without paint exhibits a comparatively greater mass loss. Indeed, it can be
+
+observed that all the paints provided sufficient & effective protection of concrete against aggressive corrosive exposure as compared to the reference without paint. The PU dispersion with pigment TiO2 presents the better protective effect. while, the PU-Ac blend has shown best protective action among the three coatings.
+
+Mass Loss (mg)
+500 450 400 350 300 250 200 150 100 50 0 1 2 3 4 5 6 7 8 Time (months)
+
+Mass loss(mg)
+
+EP EA EB EW
+
+Figure 2: Mass loss of specimens EA,EP,EB and EW
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 3.3 Chloride diffusion
+
+rate:
+
+Volume 10, Preprint 47
+
+submitted 22 August 2007
+
+The chloride diffusion of all categories of specimen is shown in Fig.3 It should be noted that all the paints inhibit the intrusion of chloride ions through the concrete. The stability of the film depends on the maintenance of a certain minimum pH value, above which access of oxygen will not cause corrosion. However if the access of carbon dioxide reduces the pH to a value 10 or lower, the film is impaired, the natural passivity of concrete is thus reduced and under such conditions any access of oxygen will cause corrosion. The presence of chloride ions stimulates corrosion by raising the pH required to stabiles the passive film to a value, which may exceed that of a saturated calcium hydroxide solution. The intrusion of chloride ions depends on the porosity and permeability of the concrete material.
+Chloride Diffusion(%)
+1.8 1.6 1.4 1.2 1 0.8 0.6 0.4 0.2 0 1 2 3 4 5 6 7 8 Time (months)
+
+Chloride diffusion (%)
+
+EP EA EB EW
+
+Figure 3: Chloride diffusion rates of the specimens EA,EP,EB and EW
+
+Polyurethane dispersion shows better performance properties because of the presence of ­ NCO group in it.The reaction between the hydroxyl groups of the polyol and the isocyanate gps of the polyisocyanate predominant in the formation of network of PU films. But
+
+secondary reaction also occur in the system especially the reaction between the isocyanate group and water .PUDs has good performance properties like water resistant, chemical resistance and excellent mechanical properties along with good exterior durability .The presence of rigid cycloaliphatic ring speeds up surface coating in PUD. Moreover the cycloaliphatic structure of IPDI monomer is not affected by UV light and thus its derivative produces better protection in corrosion with excellent durability.
+[9]
+
+From the above results it is observed that two-component waterborne polyurethane coatings are valued for a variety of uses because of their excellent performance properties.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Polyurethane
+
+submitted dioxide, emulsion paints have Volume 10, Preprint 47 permeability of carbon 22 August 2007 the advantage of low
+
+sulphur dioxide and water .From this research it is confirmed that polyurethane paints provide better protection of reinforcing steel in concrete than the acrylic paints. The coatings applied on concrete surface offer an effective and reliable solution for the protection of concrete material and the embedded reinforcing steel, either for a new construction or for rehabilitation of deteriorated concrete .
+
+Conclusion: Based on the measurements and the test results obtained in this study, the polyurethane dispersion paint provided satisfactory protection of reinforced concrete under aggressive corrosive exposure. Acrylate emulsions generally have shown only moderate property profile while; the Polyurethane-Acrylic blends are better than that of the single monomer coatings.
+
+References: [1] Saricimen H.Durable concrete research for aggressive environment.In:Creating with Concrete, Proceedings An International Congress, Dundee, Scotland, 1999 September. pp. 103-13. [2] M.M. Al-Zahrani,S.U.Al-Dulaijan,M. Ibrahim,H.Saricimen,F.M. Sharif " Effect of waterproofing coatings on steel reinforcement corrosion and physical properties of concrete" Cement &Concrete Composites 24 (2002) pp.127-137 [3] H.F.Payne, Organic coating Technology ,Vol.II, Pigments & Pigmented coatings, Hand book John Wiley ,New York (1961) Chapter-27 ISBN:0471 673536 [4] Pfeiffer DW, Scali MJ.,Concrete sealing for protection of bridge structures. National Cooperative Highway Research Program (NCHRP 244),Transportation Research board,Washington DC,December 1981. [5] McCurrich LH,Cheriton LW, little DR. Repair systems for preventing further corrosion in damaged reinforced concrete. In: det.and Repair of reinf.Concrete in the Arabian Gulf, Proc.1st Int. Conf.,Bahrain,1985 October. p.151 [6] Szycher, M., Szycher's Handbook of polyurethanes, CRC press, Washington, D.C., 1999 [7] Y. Puget , K. Trethewey, R.J.K. Wood, Electrochemical noise analysis of polyurethanecoated steel subjected to erosion­corrosion, Wear, 233­235( 1999) 552­567
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN[8] Patel 1466-8858
+
+Volume 10, Preprint 47 submitted 22 August A., Dighe A.K., Patel C., Patel K., Polyurethane-Acrylic (Pu-Ac)hybrid dispersion 2007
+
+: The mechanism, processing and an overview, Paint India 11.Nov.2006 pp 63-67 [9] Thomas P. (Edi.) waterborne and solvent based surface coating resins and solvent based surface coating resins and their applications, Hand Book, vol 3 John Wiley, New york (1998) amrita
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

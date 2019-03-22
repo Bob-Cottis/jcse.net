@@ -1,0 +1,192 @@
+Volume 6 Paper H005 Internal Oxidation of an Aluminum Coated Steel Under Oxidant Atmosphere in a Fluid Catalytic Cracking Regenerator
+
+I.Caminha1, C.Zeng2, M.Piza Paes3, M.Monteiro4, F.Rizzo4
+1
+
+Instituto Nacional de Tecnologia, Laboratório de Metalografia e de Dureza, Av. Venezuela, 82, Cep 20081-310, Rio de Janeiro, Brazil, iedamari@int.gov.br
+
+State Key Laboratory Of Corrosion, Institute Of Corrosion & Protection Of Metals, Academia Sinica, Wenciu Road 62, Shenyang 110015, China, chaoliu@mail.sy.ln.cn
+2 3
+
+Petrobras/Cenpes/Supep/Diplot/Semec, Cidade Universitária, Quadra 7, Ilha Do Fundão, Cep 21949-900, Rio de Janeiro, Brazil, mtpp@cenpes.petrobras.com.br Pontifícia Universidade Católica do Rio de Janeiro, Departamento de Ciência dos Materiais e Metalurgia, Caixa Postal 38008, Cep 22453900, Rio De Janeiro, Brazil, rizzo@dcmm.puc-rio.br, mauricio@dcmm.puc-rio.br
+
+4
+
+Abstract
+The effectiveness of aluminum thermal spray coating in the corrosion resistance of a low alloy steel was evaluated under two conditions: an oxidant atmosphere in a fluid catalytic cracking regenerator of a petroleum processing unit and a simulating atmosphere in the laboratory, in the temperatures of 650ºC and 700ºC. The high porosity presented in the aluminum coated steel samples, in both real and simulated conditions, inherent to the thermal spray
+
+technique, allowed the penetration of gaseous species from the atmosphere into the substrate, leading to the formation of nonprotective iron oxides, as well as internal oxidation of the iron and the chromium. A significant aluminum internal nitridation and oxidation was also observed. Characterization of the phases present in the oxidized layer was carried out by X-Ray diffraction (XRD), optical microscopy (OM) and scanning electron microscopy (SEM) with X-Ray energy dispersive analysis (EDS). Keywords: Internal Oxidation, Thermal Spray, Aluminum Coating.
+
+Introduction
+Corrosion may represent a heavy burden for industry in general, specially for the petrochemical industry where the oil and gas composition may contribute for reducing the service life of materials or equipments due to severe corrosion attack and, consequently, for the considerable expenses related to the maintenance and replacement of parts in a processing unit [1-4]. In recent years, several studies have been done in the field of coating protection, aiming to minimize or eliminate the corrosion on the metallic structure of critical parts of an oil refinery. The thermal spray technique received great attention due to its wide range of application and portability [5-7]. In the present study, the effectiveness of aluminum thermal spray coating in the corrosion resistance of a low alloy steel was evaluated under two conditions: an oxidant atmosphere in a fluid catalytic cracking regenerator of a petroleum processing unit and a simulating atmosphere in the laboratory, in the temperatures of 650ºC and 700ºC. This study is relevant not only for the petrochemical industry but also for those involving high temperature corrosion, such as energygenerating plants, because the understanding of the protection mechanism conferred by a coating at elevated temperature may allow the optimization of the coating composition, as well as of the thermalspray techniques, with consequent reduction of expenses.
+
+2
+
+EXPERIMENTAL
+Two experimental procedures were used: degradation of specimens in service and degradation of specimens in laboratory, simulating the real conditions of service. In both cases, samples of an ASTM A 387 G11 (1,25% Cr and 0,5%Mo) low alloy steel, aluminum coated by flame spray were used, with mean thickness between 250 and 300µm. In order to evaluate the influence of different thermal spray techniques on the corrosion resistance of the steel, samples were aluminum coated by electric arc and submitted to the simulation in laboratory. The first procedure consisted on the degradation of the specimen in service, designated "real condition". In this procedure, the sample was fixed inside the regenerator of a fluid catalytic cracking unit (FCCU), more specifically in the stand pipe region, under an oxidant atmosphere provided by the burning of the coke adhered to the catalyst. The sample was submitted to a temperature around 650°C during two and a half years, which is the usual campaign time of such petroleum processing unit. In the second procedure the atmosphere of service was simulated in laboratory and was designated "simulated condition". A gas mixture with the composition: O2 = 2%; SO2 = 3%; CO2 = 10% and N2 = 85% (vol%.) was used to simulate the atmosphere inside the regenerator. The resulting atmosphere was oxidizing and the oxygen potential calculated was 1,42 x 10-2 atm, the sulfur potential 6,79 x 10-34 atm and the carbon activity zero. In this condition, the samples were hanged up in a quatz tube inside a vertical furnace, with a temperature controller (PID) coupled, in order to maintain the variation of temperature smaller than 0.5°C. The flux of gas mixture was introduced in the quartz tube minutes before the furnace started heating. The samples were placed inside the furnace after the temperature of interest was reached. The cooling occurred inside the furnace after it had been turned off. The samples were submitted to 200 hours. The simulation in laboratory aimed to confirm the results obtained in the real condition, as well as to best explain the corrosion test temperatures of 650°C and 700°C and the time of treatment was
+
+3
+
+mechanisms, once the temperature and time during the corrosion tests in the simulated condition could be controlled. After removing the samples from the regenerator (real condition) and the furnace (simulated condition), cross sections were cutted and cold mounted for conventional metallographic preparation. The corroded surfaces were analyzed by X-ray diffraction (XRD), optical microscopy (OM) and scanning electronic microscopy (SEM) with X-ray energy dispersive analysis (EDS).
+
+RESULTS AND DISCUSSION
+The aluminum coated G11 steel samples, treated at 650°C in both real and simulated conditions, presented similar corrosion behavior. An external layer (dark gray) containing aluminum oxides and an internal complex layer (light gray) containing iron oxides and Fe-Al intermetallic phases, as shown in figures 1 and 2. It was also evident the presence of non-reacted aluminum from the original coating on top of the external layer of the simulated sample. The X-ray diffraction analysis confirmed the corrosion products observed by optical and electron microscopy. Internal oxidation of iron and chromium next to the corroded layer/substrate interface were also observed, and this phenomenon occurred preferentially at the grain boundaries. A significant aluminum internal precipitation next to the intermetallic Fe-Al/substrate interface was observed too. Two internal precipitation fronts coexist, one formed by aluminum oxides precipitates (Al2O3) near the intermetallic phase-substrate interface with spherical morphology and a second one located deeper in the alloy, formed by acicular aluminum nitride precipitates (AlN), as shown in figure 3.
+
+Aluminum Coating
+
+External Layer
+
+External Layer
+Intermetallic FeAl
+
+Substrate
+
+Fe oxide
+
+a)
+
+100 µm
+
+Substrate
+
+Substrate
+
+b) 4
+
+50 µm
+
+c)
+
+20 µm
+
+Figure 1 ­ SEM cross-section of the aluminum coated G11 steel corroded at 6500C: a) original specimen of the flame spray aluminum coated G11 steel, before degradation; b) flame spray aluminum coated G11 steel, subjected to the real condition for 2 ½ years; c) flame spray aluminum coated G11 steel, subjected to the simulated laboratory condition for 200 h.
+
+Aluminum Coating Aluminum Coating External Layer Int. FeAl
+
+Substrate
+
+50 µm
+
+100 µm
+
+Figure 2 ­ SEM cross-section of the aluminum coated G11 steel corroded at 6500C: a) original specimen of the electric arc aluminum coated G11 steel, before degradation; b) electric arc aluminum coated G11 steel, subjected to the simulated laboratory condition for 200 h.
+FeAl
+Al2O3 +
+
+a)
+
+b)
+
+Intermetallic FeAl Al2O3 Al2O3
+
+FeAl
+
+AlN
+
+Subs
+
+AlN
+
+AlN
+Fe
+5 µm
+
+Fe oxide
+20 µm
+
+10 µm
+
+oxide
+
+a)
+
+b)
+
+c)
+
+Figure 3 ­ General view of the intermetallic phase-substrate interface and the internal precipitation zone of the aluminum coated G11 steel corroded at 6500C: 5
+
+a) flame spray aluminum coated G11 steel, subjected to the real condition for 2 ½ years; a) flame spray aluminum coated G11 steel, subjected to the simulated laboratory condition for 200 h; c) electric arc aluminum coated G11 steel subjected to the simulated laboratory condition for 200 h. In the initial stage of the reaction, aluminum oxides were formed in the external layer due the relatively high oxygen partial pressure in the gas/coating interface, while Fe-Al intermetallic phases started to form in the coating/substrate interface in those regions where the continuous oxide film that involves the aluminum particles was broken, allowing its reaction with iron [8-9]. The porosity present in the coating, inherent to the thermal spray technique, allowed for rapid oxygen diffusion into the alloy, promoting the formation of iron and chromium oxides in the alloy beneath the coating. The aluminum that diffused inward, reacted with the nitrogen already dissolved in the alloy, leading to the formation of an internal nitridation zone (AlN) with an acicular morphology. As the oxygen dissolved in the matrix diffuses into the alloy, it starts the decomposition of the aluminum nitride (AlN) into aluminum oxide (Al2O3). Based on the EDS line profile for the region containing the aluminum internal precipitation zone (figure 4), is evident that two gradients exist, one of aluminum that decreases in the intermetallic­ substrate direction and the other of iron that increases in the same direction, indicating counter flow diffusion [10-12]. The formation of a protective iron aluminide layer in the interface aluminum coating-substrate was not observed. However, in those regions where the Fe-Al intermetallic phases were formed, no penetration of oxygen and sulfur occurred, suggesting that a continuous iron alumined layer could act as an effective solid-state diffusion barrier between the gaseous reactants present in the surrounding atmosphere and the base alloy [13]. The nonformation of a protective alumina layer may be related to the relatively low temperature used during real and simulated tests (650°C) [14]. As one can notice, the different thermal spray techniques 6
+
+employed in the present study (flame spray and electric arc), did not play an important role in the corrosion mechanism. The general corrosion behavior of the aluminum coated G11 steel, subjected to the simulated condition in laboratory at 7000C, was similar to that one observed at 6500C, as shown in figures 5 and 6, suggesting that no significant change occurred in the corrosion mechanism for the temperature variation studied. Similarly to the samples treated at 6500C, the formation of a continuous iron aluminide layer was not observed as well as the alumina protective layer did not form.
+
+10 µm
+
+10 µm
+
+a) internal precipitation zone at 6500C:
+
+b)
+
+Figure 4 ­ EDS line profile for the region containing the aluminum a) flame spray aluminum coated G11 steel, subjected to the simulated laboratory condition for 200 h; b) electric arc aluminum coated G11 steel, subjected to the simulated laboratory condition for 200 h.
+
+7
+
+External Layer External Layer
+
+FeAl
+
+FeAl
+
+FeAl
+
+Fe Oxide
+
+Int. FeAl Int. FeAl
+
+Fe Substrate
+50 µm
+
+a)
+
+b)
+
+50 µm
+
+Figure 5 ­ SEM cross-section of the aluminum coated G11 steel corroded at 7000C: a) flame spray aluminum coated G11 steel, subjected to the simulated laboratory condition for 200 h; b) electric arc aluminum coated G11 steel, subjected to the simulated laboratory condition for 200 h.
+
+Intermetallic FeAl Al2O3 AlN
+
+Intermetallic FeAl Al2O3 AlN
+
+10 µm
+
+5 µm
+
+a)
+
+b)
+
+Figure 6 ­ General view of the intermetallic phase-substrate interface and the internal precipitation zone of the aluminum coated G11 steel corroded at 7000C: a) flame spray aluminum coated G11 steel, subjected to the simulated laboratory condition for 200 h; b) electric arc aluminum coated G11 steel, subjected to the simulated laboratory condition for 200 h. 8
+
+The model proposed in the present work, to explain the aluminum internal precipitation, is based on the supposition that initial dissolution of the nitrogen in the matrix occurs in the first stage, since the nitrogen diffuses faster than aluminum (DN=2,24 x 10-7 cm2/s and the ferrite at 650°C (1335,8 ppm), calculated according to Leslie's equation [15-17]. Figure 7 illustrates, in a schematic way, the mechanism proposed for the aluminum internal precipitation observed in the samples of aluminum coated G11 steel studied, subjected to both real and simulated conditions, in the temperatures of 6500C and 7000C. The first stage described above is presented in figure 7a (time t1). Next, aluminum dissolves in the matrix and diffuses into the substrate, reacting with the nitrogen. When the critical solubility product for the temperatures studied (10-9) is exceeded, obtained through calculation using the software Thermo-Calc, the internal precipitation of the aluminum nitride (AlN) occurs, as shown in figure 7b. This reaction front moves into the substrate, increasing the depth of the aluminum internal precipitation zone, as illustrated in figure 7c. On the other hand, a second front precipitation is produced when oxygen penetrates into the substrate. Oxygen, besides having a diffusion coefficient lower than the nitrogen (Do = 2,70 x 10
+­8
+
+DAl was estimated as 1,25 x 10-12 cm2/s), besides its high solubility in
+
+cm2/s)
+
+has its dissolution into the alloy delayed by the formation of oxides in the external layer, when it reacts with the aluminum from the original coating. As the oxygen dissolved in the matrix moves into the alloy, it starts the decomposition of the aluminum nitride (AlN) into aluminum oxide (Al2O3), when its activity exceeds the thermodynamic stability line of the Al-O-N phase diagram. At the end of the reaction, two internal precipitation fronts coexist, one formed by aluminum oxide precipitated near the intermetallic substrate interface with spherical morphology and the other located deeper in the alloy, formed by aluminum nitride precipitates with acicular morphology [18]. The behavior of the aluminum coated G11 steel samples, treated at 6500C and 7000C, concerning the aluminum internal precipitation, presents different characteristics from those described in Wagner's theory. In the present case, aluminum diffuses inward into the substrate, reacting with the nitrogen already dissolved in the alloy, 9
+
+forming the aluminum nitride (AlN). Taking into account that both species diffuses, the situation should be described by the second case of Wagner's theory, which in this case should correspond to (NN/NAl << DAl/DN << 1 ).
+
+Figure 7 ­ Schematic drawing of the model proposed for the aluminum internal precipitation mechanism observed in the samples of aluminum coated G11 steel studied, subjected to both real and simulated conditions , in the temperatures of 6500C and 7000C: a) initial dissolution of the nitrogen in the matrix; b) reaction of the aluminum with the nitrogen, initiating the aluminum internal nitridation process; c) advance of the aluminum internal precipitation front and initiation of the conversion of the nitride into oxide; d) coexistence of two aluminum internal precipitation fronts (Al2O3 and AlN). 10
+
+Conclusions
+· The high porosity present in both aluminum coatings studied in the present work, inherent to the thermal-spray technique, allowed the penetration of oxygen and nitrogen into the substrate, leading to the formation of nonprotective iron oxides, as well as internal oxidation of the iron and the chromium. · A significant aluminum internal precipitation zone was observed, in both real and simulated condition. Two internal precipitation fronts coexist, one formed by aluminum oxides precipitates (Al2O3) near other located deeper in the alloy, formed by acicular aluminum nitride precipitates (AlN). · The mechanism proposed to explain the aluminum internal precipitation observed in all samples studied, suggests the diffusion of the aluminum dissolved in the matrix into the substrate, reacting with the nitrogen previously dissolved in the alloy, forming the aluminum nitride (AlN). As the oxygen moves into the alloy, it starts the decomposition of the nitride, since the aluminum oxide (Al2O3) become more stable than the aluminum nitride (AlN). · No significant change in the corrosion behaviour of the coatings was observed due to the different thermal-spray techniques employed (flame spray and electric arc). · the intermettalic substrate interface with spherical morphology and
+
+The formation of a continuous intermetallic layer was not observed in both real and simulated conditions, probably due to the relatively low temperatures studied (6500C and 7000C). The same reasoning could be applied concerning the nonformation of an external alumina protective layer.
+
+Acknowledgments
+The authors thank the Science and Technology Ministry of Brazil and FINEP for the financial support through ÔMEGA project, USIMINAS for 11
+
+supplying the steel and CASCADURA for the coating of the samples. C. Zeng thanks a grant from FAPERJ.
+
+REFERENCES
+
+1. Charles J., Bonnefois B. and Dupoiron f., Materials Science and Engineering, 87, pp. 151-159, 1987 2. May V.E., Materials Performance, Dec., pp.18-22, l985 3. Walker H.B., The Woodlands Hydrocarbon Processing, Jan., pp. 80-84, 1984 4. Otero, E. et alli., Materials Science Forum, France, 1997, Vol. 251-254, pp. 615-624, 1997 86-91, 1991 6. Setterlung R. B. and Prescott G. R., Corrosion 17, 6, pp. 277-282 , 1961 7. Agarwal D.C., Brill U. and Heubner U., Proceedings of the NACE Annual Conference and Corrosion Show, Paper no 451, 1992 8. Wood, G. C , Oxid. Met. 2, pp. 11-56, 1970 & New York , 1988 9. Kofstad P., "High Temperature Corrosion", Elsevier Apllied Science, London 10. Thorpe M. L., Advanced Materials & Processes , 5 , pp. 50-61, 1993 11. Giggins C.S. and Petit F.S., Oxid, Met. 14 , pp. 363-413 , 1980 13. ASMHandbook, Vol. 5, Surfacing Treatments, 9th edition, pp. 333-347, 1982 14. Stott, F.H., Materials Science Forum, France, Vol. 251-254, pp. 19-32, 1997 15. Swalin and Martin, Trans. AIME, 206, pp.567, 1956 16. Besters, D., Diffusion, American Society Metals, Metals Park, OH., pp.209-240, 1973 pp. 112, 1981 12 17. Leslie, W., Physical Metallurgy of Steels, Mc Graw-Hill, New York, 12. Young D.J. and Watson S., Oxid. Met. 44 , pp. 239-263, 1995 5. Strong R. C., Majestic V. K. and Wilhelm S. M., Oil & Gas Journal, 7, pp.
+
+18. Caminha, I.M.V., Study of the Corrosion in Elevated Temperature of a Thermal Spray Aluminum Coated Steel, Doctoral Thesis, DCMM/Pontifícia Universidade Católica do Rio de Janeiro, Brasil, 2000.
+
+13
+

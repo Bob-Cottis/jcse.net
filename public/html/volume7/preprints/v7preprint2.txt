@@ -1,0 +1,191 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 2
+STUDIES ON THE INHIBITION OF MILD STEEL CORROSION BY 1-PHENYL-3-METHYLPYRAZOL-5-ONE IN HYDROCHLORIC ACID (HCI) SOLUTION Olusegun K, Abiola*, N.C. Oforka Department of Pure and Industrial Chemistry, University of Port Harcourt, P.M.B. 5323, Port Harcourt, Rivers State, Nigeria.
+
+ABSTRACT The effect of 1-phenyl-3-methylpyrazol-5-one (HPMP) on the corrosion of mild steel in hydrochloric acid (HCl) solution was studied using chemical (weight loss) technique. HPMP acts as an inhibitor in the acid environment and inhibition was found to increase with increase in HPMP concentration and decrease in the material loss of mild steel specimen but decreases with an increase in temperature. Values of the Arrhenius activation energies indicate agreement with those obtained for an activation-controlled process. Flory-Huggins adsorption isotherm and El Awady thermodynamic-kinetic model fit the experimental data of this compound. The thermodynamic parameters of adsorption obtained reveal a strong interaction of HPMP on mild steel surface. Key words: Corrosion inhibition; Mild steel; 1-phenyl-3-methylpyrazol-5-one; Adsorption isotherm; Activation energy; Surface.
+
+INTRODUCTION Metals are exposed to the action of acids in many different ways and for many reasons. The exposures can be most severe but in many cases, the corrosion can controlled by means of inhibitors [1]. Processes in which acids play a very important part are: industrial acid cleaning, oil well acidizing, acid pickling, manufacturing process and vapour-liquid system.
+*Corresponding author Name: Olusegun K. Abiola Post address: Department of Pure and Industrial Chemistry, University of Port Harcourt, Port Harcourt, Rivers State. Tel: +2348033360504. E-mail address: abiolaolusegun @yahoo.com This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Several nitrogen- containing organic compounds have been used as corrosion inhibitor for metal in acid environment [1,2,3,4,5]. It has been shown that organic compound containing multiple bonds, or those with heteroatoms with high electron density such as nitrogen, oxygen and sulfur, are effective inhibitors in acid environment [6,7]. The corrosion inhibition is a surface process, which involves adsorption of the organic compounds on metal surface. The adsorption depends mainly on the electronic structure of the molecule [7]. The inhibition efficiency of organic compounds depends on mode of interaction with the metal surface and molecular structure. 1-phenyl ­ 3-methylpyrazol­ one (HPMP) and its derivatives have received a lot 5of interest from researchers, due to their commercial importance as analgestic, antihistaminic, antifungal and photochemical agents [8,9,]. These groups of compounds have continued to be the subject of extensive investigation as extraction and chelating agents of metal ions in aqueous solution [10,11,12,13,14,15]. However studies on the corrosion properties of HPMP are scarce in the literature. The use of HPMP in protecting mild steel from corrosion in hydrochloric acid solution (HCl) has not been explored. HPMP [16] contains sites of high electron density such as the nitrogen and oxygen atoms that can be used to isolate the metal surfaces from acid environment through adsorption using these sites. Therefore, this work deals with the study of the corrosion inhibition properties of this compound. The aim of this study was to determine the inhibition efficiency of HPMP as an inhibitor for the corrosion of mild steel in 0.5M HCl solutions. Chemical (weight loss) technique was employed to carry out the measurement. MATERIALS PREPARATION The flat sheet of mild steel 0.04 cm in thickness obtained from World Bank Engineering Workshop, University of Port Harcourt, Port Harcourt, Nigeria was used for the present investigation. The chemical composition of the mild steel sheet used is: C = 0.13%; Si = 0.18%; Mn = 0.39%; P = 0.40%; S = 0.04%; Cu = 0.025% and the balance Fe. The mild steel sheet was mechanically press-cut into coupons of dimension 5 x 4cm (surface area = 20cm2). The test coupons were prepared by degreasing with absolute ethanol, dried in acetone and stored in a moisture-free dessiccator before their use for the corrosion studies [5]. The compound HPMP used as inhibitor was synthesized as described elsewhere [16,17]. The structure of the compound is given in Fig. 1a.
+
+Figure 1a: 1-Phenyl-3-Methylpyrazol-5-one (HPMP)
+
+IMMERSION SOLUTIONS Test solutions were prepared from analytical grade reagents and double-distilled water. The inhibitor was prepared as a stock by dissolving it in small amount of absolute
+1
+
+ethanol and the required concentrations (0.0002M, 0.0005M, 0.001M, 0.002M, 0.003M, 0.004M and 0.005M) of inhibitor were prepared by diluting with 0.5MHCI solution (corrodent). In all experiments, the temperature of solutions was controlled using a water thermostat. EXPERIMENTAL TECHNIQUE Rectangular (4 x 5 cm) mild steel coupons were used for the determination of the corrosion rate. Previously weighed specimens were immersed in eight 250ml open beakers containing 200ml of 0.5MHCI solution containing 0M (blank), 0.0002M, 0.0005M, 0.001M, 0.002M, 0.003M, 0.004M and 0.005M HPMP at 30oC. The test coupons were each suspended in a beaker with the help of glass hooks and glass rods. The variation of weight loss was followed at 8 hours interval progressively for 56 hours. The coupons were then chemically cleaned in 20% sodium hydroxide containing 200gl-l of zinc dust to remove the corrosion products. After rinsing in distilled water and absolute ethanol, the coupons were dried and reweighed [5]. The weight loss was calculated in grams as the difference between the initial weight prior to immersion, and weight after the removal of corrosion product. Each reading reported is an average of three experimental readings recorded to the nearest 0.0001g on a mettler AE 166 (Delta range) digital analytical balance. In the second segment, experiments were repeated with same concentrations at higher temperatures of 40, 50 and 60 oC. Previously weighed coupons were then placed in the 0.5MHCI (blank) and 0.5MHCI-HPMP solutions at 40, 50 and 60°C. As before, each coupon was retrieved from the solution after 8 hours immersion period. The difference in weight of the coupons was again taken as the weight loss. The inhibition efficiency (%) was calculated using the formula % Inhibition =
+
+aw  pw x 100 aw
+
+(1)
+
+Where aw and pw are the weight loss in the absence and presence of the inhibitor (HPMP) at the same temperature. RESULTS AND DISCUSSION To assess its protective value, HPMP was added in 0.0002, 0.0005, 0.001, 0.002, 0.003, 0.004 and 0.005M concentration in corrodent (0.5M HCl) at 30, 40, 50 and 600C. Fig. 1 shows plot of material loss in mg cm-2day-1 of the mild steel specimens as a function of HPMP concentration. At the exposure period (56 hours) reported, it is evident from the results (Table 1, Figs. 1 and 2), that HPMP is a corrosion inhibitor for mild steel in HCl and the efficacy is a concentration dependent. Fig. 1 shows that the total corrosion as measured by weight loss decreases with increasing concentration of HPMP at all the studied temperatures of 30, 40, 50 and 600C.
+
+2
+
+Figure 1: Variation of the corrosion rate with the concentration of HPMP for the mild steel in 0.5M HCl at different temperature; (a) 30 oC, (b) 40oC, (c) 50oC and (d) 60 oC.
+
+3
+
+Figure 2: Inhibition efficiency against concentration of HPMP for the mild steel in 0.5M HCl at different temperature; (a) 30oC, (b) 40oC, (c) 50 oC and (d) 60oC. Fig. 2 illustrates the variation of the inhibition efficiency (%) versus the concentration of HPMP at different temperatures. It was observed (Fig. 2) that inhibition efficiency increases with increased inhibitor concentration with the maximum inhibition for each temperature at HPMP concentration of 0.005M. The inhibition of the corrosion process by HPMP can be attributed to adsorption of its molecules at the steel acid solution interface. This is usually observed by the decrease in corrosion loss as measured by weight loss (mgcm-2day-1), which depends on the concentration of inhibitor [1,4]. Increase in temperature was observed to lower the inhibition efficiency of HPMP and this behaviour can be explained on the basis that an increase in temperature resulted in the desorption of some adsorbed HPMP molecules from the steel surface. This makes us predict the mechanism of physiosorption of HPMP on the metal surface. This is in agreement with our earlier report [1] on inhibition of corrosion of mild steel by thio
+
+4
+
+compounds. Since physical adsorption is proposed, we expect to have the formation of a multi-layer protective coverage on the surface of the mild steel by the inhibitor. The inhibiting action of HPMP in HCl solutions can be explained as follows: The adsorption is assumed to be a quasi-substitution process between the water molecules on the surface and the organic molecules [18,19]. The interaction of HPMP with the metal surface may occur either through any of the two N atoms in positions 1 and 2 or the __ CO group in position 5. But the electronegativity of nitrogen and oxygen atoms favours nitrogen atom as the anchoring site in HPMP. This is because the electronegativity of these atoms decreases in the order O > N [20]. Therefore, when the adsorption of HPMP occurs, it takes place through the lone pairs of electrons in nitrogen atoms. HPMP and its derivatives interact strongly with metal ions in acidic solutions [8,10,11,12,13,14,15]. On this basis it may be suggested that, HPMP may be able to enforce protection on the mild steel surface in an acid environment; through the formation of donor-acceptor surface complexes between the lone pair of electrons on heteroatoms or pi-electron of HPMP and vacant d-orbital of iron (Fe).
+
+Figure 3: Plot of log (rate) against 1/T of HPMP for the mild steel in 0.5M HCl at different concentrations: (a) 0.00, (b) 2x10 -4M, (c) 5x10-4M, (D) 1x10-3M, (e) 2x10 -3M, (f) 3x10 -3M, (g) 4x10-3M, and (h) 5x10 -3M.
+
+Table 1:
+
+Kinetic data for mild steel in 0.5M HCl in the absence and presence of different concentrations of HPMP. (HPMP/ (M) Concentration 0.000 0.0002 0.0005 % Inhibition at 30°C 0.00 36.47 48.13 E°(kJmol-l) 43.66 55.91 70.84 Average Eo for HCl ­ HPMP kJmol-1 systems
+
+5
+
+0.001 0.002 0.003 0.004 0.005
+
+66.41 71.00 73.60 80.32 86.20
+
+71.99 73.33 74.29 79.08 86.16
+
+73.09
+
+KINETIC CONSIDERATION The corrosion reactions obeyed the Arrhenius type equation for the corrodent and corrodent ­ inhibitor systems as seen in Fig. 3. The values of apparent activation energy, o E , obtained from the lines are given in Table 1 with the help of Arrhenius type equation [4].
+
+where E0 is the apparent activation energy, A is Arrhenius factor, R is the universal gas constant and rate is the corrosion loss as measured by weight loss. From the plot (Fig. 3), E0 values in Table 1 were evaluated from the slopes. The inspection of data in Table 1 reveal that the apparent activation energy, E0, is higher in the presence of inhibitor than in its absence. The experimental result indicates that the energy barrier of corrosion reaction increase as the concentration of HPMP is increased, since the values of E0 increase with an increase in the concentration of HPMP. The values of apparent activation energy, E0 increase with increasing inhibition efficiency of the HPMP (Table 1). This suggests that the process is activation controlled. The average activation energy value of 73.09kJmol-1 (Table 1) for HCl ­ inhibitor systems support the fact that the inhibitor is physically adsorbed on the mild steel surface. It follows that the increase in inhibition efficiency is probably due to the increase in the protective multilayer coverage on the entire mild steel surface. This is in agreement with [1] and reports of Ebenso et. al. [21], Ebenso [23] and Barrow [24]. According to these reports, the activation energy due to chemical adsorption (>80kJmol-1) is considerably larger than due to physical adsorption (<80kJmol-1). The order of magnitude of the value of average E0 (Table 1) indicates a physical mechanism for the adsorption of HPMP on to mild steel surface. APPLICATION OF ADSORPTION ISOTHERM During corrosion inhibition of metals and alloys, the nature of inhibitor on the corroding surface has been deduced in terms of adsorption characteristics of the inhibitor [2,4]. The surface coverage  data of inhibitor are very useful while discussing , adsorption characteristics of inhibitor [4,7, 27]. In the present study, values of surface coverage were evaluated according to Damaskin [24] with the formula:  1=
+
+Eo log (rate) = A 2.303RT
+
+(2)
+
+pw aw
+
+(3)
+
+where pw and aw are the weight loss of mild steel in the presence and absence respectively of the inhibitor in HCl solution at the same temperature.
+
+6
+
+To explain the nature of the adsorption of HPMP on the mild steel surface, two absorption isotherm models of Flory-Huggins and El Awady et al. thermodynatic-kinetic were employed. The Flory-Huggins adsorption isotherm is given by [25]:   log   logK + xlog (1- = ) [4] C  And El Awady et al. thermodynamic-kinetic model is given by [25,26]:   1 log  = [5]  logK + ylog C 1   Where is the degree of surface coverage, evaluated from Equation (3), x is the number of inhibitor molecules occupying one active site (or the number of water molecules replaced by one molecules of HPMP), (1/y = x), K is the equilibrium constant of
+ versus log (1- for Flory-Huggins adsorption reaction and K=K1(1/y). The plot of log   )  C 
+
+isotherm at 30, 40, 50 and 60 0C gave straight lines (Fig.4), with the values of x and K from the slope and intercept respectively (Table2).   The plot of log  versus log C for El Awady et al thermodynamic ­kinetic model  1   at 30, 40, 50 and 600C gave straight lines (Fig. 5), with the values of y and K1 from the slope and intercept respectively (Table 3). The results obtained as depicted in Figs. 4 and 5 show that both isotherm models are fairly good linear fits to the data.
+
+Figure 4: Curve fitting of the corrosion data of mild steel in 0.5M HCl in the presence of HPMP to Flory-Huggins Isotherm at different temperatures: (a) 30 oC, (b) 40 oC, (c) 50 oC and (d) 60oC.
+
+7
+
+Figure 5: Curve fitting of the corrosion data of mild steel in 0.5M HCl in the presence of HPMP to the kinetic model at different temperatures: (a) 30oC, (b) 40 oC, (c) 50oC and (d) 60oC
+
+Ga The constant K is connected to the standard free energy adsorption,  o by equation [27]:
+o Ga logK = -log 55.5 2.303RT
+The value of 55.5 is the concentration of water in solution expressed in mol. The calculated values of  o , K, x and 1/y are given in Tables 2 and 3. Ga The values of the Flory-Huggins constant, K, ranged from 138.3 to 3002 with a decrease in temperature from 60 to 30 0C; the corresponding values of the El Awady et al. constant, K ranged from 28.2 to 187. The value of the equilibrium constant K, decreases with temperature suggesting that this inhibitor is physically adsorbed on the metal surface. And this is in agreement with our assertion on the basis of activation energy value (Table 1) that the inhibition is by physiosorption mechanism confirming our earlier observation. Thermodynamic parameters, such as adsorption enthalpy,  o and adsorption Ha entropy,  o were determined using the relationships: Sa
+
+ o = - 2.303RT log K Ga
+log K =
+
+[6] [7]
+
+o Sa o Ha  2.303 R 2.303 RT
+
+where K is the equilibrium constant in Tables 2 and 3.
+
+8
+
+The values of  o and  o were obtained from the slope and intercept of the Ha S Vant Hoff plots of log K versus 1/T, shown in Figs. 6 and 7 for Flory-Huggins isotherm and thermodynamic ­kinetic models, respectively. The calculated values for  o is ­ Ha 93.44kJmol-1 and
+
+ o is ­ Sa 240.2JK-1 for Flory-Huggins isotherm while from
+
+thermodynamic-kinetic model the values, for  o is ­ Ha 50.17kJmol-1 and  o is ­ Sa 124.4JK-1. The negative values of  o suggest that the adsorption of inhibitor molecules Ha
+
+Ga is an exothermic process. The negative values of  o as recorded in Tables 2 and 3 indicate the spontaneous nature of adsorption of HPMP molecules by the substrate. The Ga large negative values of  o indicate the spontaneous adsorption of HPMP molecules with strong interaction with the mild steel surface.
+
+9
+
+Figure 6: Plot of the logarithmic value of the inhibitor binding constant Log K against 1/T for Flory-Huggins isotherm.
+
+10
+
+Figure 7: Plot of the logarithmic value of the inhibitor binding constant Log K against 1/T for the Thermodynamic-kinetic model.
+
+Table 2:
+
+Inhibitor (HPMP) binding constant (K), free energy of adsorption (  o ), Ga number of active sites (x) for HPMP in 0.5MHCl at different temperatures from Flory-Huggins isotherm. Flory-Huggins Isotherm Temperature/K 303 313 X 1.6 3.4 K 3002 1855
+
+o Ga
+kJmol-1 -30.3 -30.0
+
+11
+
+323 333 Table 3:
+
+2.0 2.7
+
+255.3 138.3
+
+-25.7 -24.8
+
+Inhibitor (HPMP) binding constant (K), free energy of adsorption (  o ), Ga number of active sites (x) for HPMP in 0.5M HCl at different temperatures from Kinetic-thermodynamic model. Kinetic-thermodynamic model Temperature/K 303 313 323 333 1/y 1.5 2.0 1.3 1.2 K 187 53.4 37.2 28.2
+
+o Ga
+kJmol-1 -23.3 -20.8 -20.5 -20.4
+
+CONCLUSION 1-Phenyl 1-3-methylpyrazol-5-one (HPMP) was found to be an inhibitor for mild steel in hydrochloric acid solution (HCl). Inhibition efficiency increases with increasing concentration of inhibitor. The negative values of  o indicate the spontaneous Ga adsorption of the inhibitor on the surface of mild steel. Inhibition of mild steel in hydrochloric acid (HCl) solution is attributed to adsorption of the inhibitor onto steel surface. The adsorption of HPMP is found to obey Flory-Huggins adsorption isotherm and EIAwady thermodynamic ­ kinetic model.
+
+REFERENCES
+
+1.
+
+O. K. Abiiola, N.C. Oforka, Corrosion science and engineering, 3 (2002) 21. http://www2.umist.ac.uk/corrosion/JCSE/volume/paper21/v3p21.htm T. Horvath, E. Kalman, in: Progress in understanding and prevention of corrosion, ed. J.M. Costa, A.D. Mercer, Institute of Materials, 1 (1993) 923. A. S. Babagi, M.S. El-Basiounyi, R. M. Abdulla, Bull. Soc. Chim. France 3 (1989) 297. H.M. Bhajiwala, R.T. Vashi, Bull. Electrochem. 10 (2001) 444. U.J. Ekpe. U. J. Ibok, B. I. Offiong, E.E. Ebenso, Mater. Chem. Phys., 40 (1995) 87.
+
+2.
+
+3.
+
+4. 5.
+
+12
+
+6.
+
+I. L. Rozenfeld, Corrosion inhibitors (McGraw-Hill, New York, N. Y. 1981) p. 182. B. G. Ateya, B. E. El-Anadouli, F. M. A. El-Nizamy, Bull. Chem. Soc. Jpn., 54 (1981) 3157. B. A. Uzoukwu, Inorg. Met. Org. Chem., 23 (1993). 1087. Karl-Heinz Schündehütte, in: The chemistry of synthetic dyes, volume VI ed. K. Venkataraman (Academic press, London, 1977) p. 213. E. C. Okafor, B. A. Uzoukwu, Radiochimica Acta 51 (1990) 167. M.O.C. Ogwuegbu, N. C. Oforka. Hydrometallurgy 34 (1994) 359. M. O. C. Ogwuegbu, N. C. Oforka, A. I. Spiff. Journal of Nat. Science, Srilanka 20 (2) (1992) 221. M. O. C. Ogwuegbu, N. C. Oforka, A. I. Spiff, Indian Journal of Chemistry 31A (1992) 981. M. O. C. Ogwuegbu, N.C. Oforka, A. I. Spiff, S. A. Journal of Chemistry 49 (2) (1995) 3. M. O. C. Ogwuegbu, N.C. Oforka, A. I. Spiff, African journal of science and technology 8 (1) (1996) 28. I. L. Finar, Organic Chemistry, Volume 2 (Longman, Essex, U.K., 1979) p. 611. A. I. Vogel, Textbook of practical organic chemistry (Longman, London, 1978) p.882. B. B. Damaskin, A.N. Frumkin, in: Reactions of molecules at electrodes, ed. N.S. Hush (Wiley-interscience, London, 1971) p.17. A. S. Fouda, L. H. Madkour, A. A. El-Shafel, S. A. Abd El Maksoud, Bull. Korean Chem. Soc. 16 (1995) 454. Chemistry data book, ed. J. G. Stark, H. G. Wallace (John Murray, London, 1971) p. 24. E. E. Ebenso, U.J. Ekpe, B. I. Ita, O. E. Offiong, U. J. Ibok, Mater. Chem. Phys. 60 (1999) 79. G. M. Barrow, Physical Chemistry (McGraw-Hill, New York, 1983) pg. 739.
+
+7.
+
+8. 9.
+
+10. 11. 12.
+
+13.
+
+14.
+
+15.
+
+16. 17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+13
+
+23. 24.
+
+E. E. Ebenso, Nig. Corrosion J. I. (1) (1998) 29. B. B. Damaskin, Adsorption of Organic Compounds on Electrodes (Plenum Press, New York, 1971) p. 221. E. E. Ebenso, Mater. Chem. Phys. 79 (2003) 58. A. El-Awady, A. Abd El-Naby, S. Aziz, J. Electrochem. Soc. 139 (1992) 214. S. Bilgic, M. Sahin, Mater. Chem. Phys. 70 (2001) 290.
+
+25. 26. 27.
+
+14
+
+x
+
+15
+

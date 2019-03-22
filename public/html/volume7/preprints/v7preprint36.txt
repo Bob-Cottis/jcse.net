@@ -1,0 +1,334 @@
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+Inhibiting Corrosion
+
+with Green Tea
+
+Sheyreese M. Vincent et Cyril B. Okhio, Department of Engineering, Clark Atlanta University, Atlanta, GA 30314 cokhio@cau.edu
+
+Abstract
+Corrosion is more than just an inevitable natural process; it is also one of the most serious engineering problems in a modern society. Losses incurred as a result of corrosion total in the billions each year. In an effort to combat these losses, technological options have to be exercised in order to provide protection against corrosion. Several successful efforts have been made using preventive strategies such as corrosion inhibitors. These are substances used to stop or slow-down the corrosion process. The effectiveness of an inhibitor depends on its ability to react with the surface of a metal to form a protective film; thereby reducing or providing protection against corrosion. The problem that exists with current inhibitors is that they are toxic and expensive; therefore a new less toxic and inexpensive material or method to reduce corrosion is needed, necessary and proposed. This research seeks to investigate effective and environmentally safe inhibitors such as Green Tea. Green Tea extracts contain significant amount of water-soluble electrochemically active compounds, as well as high concentrations of alkaloids, fatty acids and nitrogen- and oxygen- containing compounds. Here, we investigate Green Tea for its abilities to inhibit corrosion. Any positive observation here would suggest and support the notion that Green Tea extracts should represent a major new initiative in the corrosion inhibitor materials market. Such an initiative would significantly reduce the already exorbitant economic cost of corrosion protection as well as increase environmental safety and health in the foreseeable future because it is non-toxic and does not pollute.
+
+Figure 1.
+
+Corrosion In Pipelines
+
+Keywords ­ Corrosion, Inhibition, Non-Toxic, Pollution, Green Tea Extract, Inhibitor Effectiveness, Environment, Carcinogen, Electrochemically Active Compounds, Galvanic Cell
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+Introduction
+Iron and Steel became an industrial material only after efficient metal-working technologies were developed in Armenia by about 1500 B.C. It is also well known that the Chinese were casting iron as early as 300B.C. and that the discovery of iron had spread around the globe by about 500 B.C. Unfortunately too, with these developments came the problems of Corrosion which began with the advent of the iron/steel age and has continued ever since. Corrosion is the atmospheric oxidation/degradation of metals. It is an electrochemical process by which a metallic surface reacts with its environment causing the metal to lose its material properties due to surface deterioration. As a result of such deterioration, corrosion poses a huge problem for applications in which metals are used. Applications most impacted by this problem include sewer and drinking water systems, eating utensils, motor vehicle parts and components and defense applications. The most commonly used metals in the industry because of its high strength material properties, ease of availability and fabrication, as well as their low cost are iron and steel. Industries which use metallic applications include utilities, transportation, manufacturing, and government agencies. Thus corrosion contributes to many negative economic, health, and safety consequences in our modern society. It is a problem that poses a threat by affecting the safety of structures, which can result in severe injuries or even loss of life. A lot of fatalities are caused by corrosioncontributed failures such as in bridges, aircrafts, automobiles and pipelines. Cost-of-corrosion studies have been undertaken by several countries including 2
+
+the United States, the United Kingdom, Japan, Germany, India and China. The common findings of these studies were that the annual cost of corrosion ranged from approximately 1 to 5 percent of the Gross National Product (GNP) of each nation. The United States Federal Highway Administration (FHWA) released a twoyear study conducted in 1999 and ending in 2001, on the direct costs associated with metallic corrosion. It was titled "Corrosion Costs and Preventive Strategies in the United States". The study included results for virtually every U.S. industry subdivision, including transportation, production, and manufacturing for example. The focal points of the study included determining the fiscal impact of corrosion as well as corrosion control methods. The total annual estimated direct cost of corrosion in the U.S, as found by the study totaled around $276 billion, a figure corresponding to nearly 3.1 percent of the nation's Gross Domestic Product (GDP). The study demonstrated that although corrosion management has improved, inexpensive, non-toxic other methods must be studied in order to implement optimal corrosion control practices. That is the motivation of this research study.
+
+Corrosion Inhibitors
+It has been known for years that certain substances can reduce and sometimes stop attack by acids on metals, an effect known as inhibition. Many compounds are able to inhibit corrosion in metals, but they vary in their mode of action and in their effectiveness in different media. According to von Fraunhofer 2000, it is the nature of the chemisorbed layer on the metal formed by the different inhibitors, rather than its thickness that determines
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+inhibitor effectiveness. Non-specific adsorption of ions, or molecules that can form ions, depend upon the surface charge of the metal. At the point of zero charge (ZPC), both ions and molecules can be adsorbed. When they are adsorbed, the ZPC shifts to slightly more negative values. For inhibition by anions, the metal must be held positive to its ZPC, and the metal positively charged. Such a positive charge generally prevents corrosion of metals in acid solution. In neutral and basic media, an additional agent such as oxygen is generally required to maintain the metal corrosion potential, Ecorr , positive to the ZPC, i.e. E corr>ZPC.
+
+Type IA:- Reduce corrosion rate but do not
+completely prevent corrosion
+
+a Type A inhibitor is in its use in antifreeze to coat a car's cooling system. In addition to preventing freezing, antifreeze is able to inhibit corrosion as a result of the borates, phosphates and silicates contained in its chemical makeup. The effectiveness of Type B inhibitors is apparent because they reduce the corrosion aggressiveness of the environment such as on the steel haul of a ship. Many Type IIA inhibitors prevent corrosion by forming chelate-type reaction products with the metal. Corrosion is inhibited as long as the chelate is present on the surface, but it resumes if the chelate is decomposed or displaced by another surface film. It is the nature of the chemisorbed layer on the metal formed by Type IA and IIA inhibitors, rather than its thickness that determines inhibitor effectiveness. As important as it may be, and because the literature abounds for this information, the detailed chemistry of inhibitor action need not be discussed here, but of central importance is the fact that inhibitor must be present in the medium to which the metal is exposed, or it must be capable of being leached from a suitable carrier. Thus, for example, if the inhibitor is required to reduce or prevent corrosion in say an automotive cooling system, it is dissolved in the antifreeze solution so that it continuously circulates through the system and can deposit on exposed or vulnerable metal parts. In contrast, protective primer paints contain watersoluble inhibitors that are leached out by rainwater or chemicals as they penetrate the paint film. These inhibitors are transported to the metal surface by the liquid and, when they arrive at the metal surface, react with it to protect it against corrosion. Unfortunately, many effective corrosion inhibitors have been developed, the vast majority are either toxic or they 3
+
+Type IIA:-
+
+Provide temporary immunity by delaying the onset of corrosion
+
+Type IIA:- Form passive film (oxide or insoluble
+salts) on metal surface
+
+Type IB:Type IIB:-
+
+Retard corrosion process and are consumed during protective action Provide temporary immunity by reacting with corrosives Are usually organic
+
+Types IA, IIA, and IIB:compounds
+
+Types IIIA and IB:compounds
+
+Are usually inorganic
+
+Table1 -Types A & B Corrosion Inhibitors There are two basic types of inhibitors, viz, Type A and Type B and some are listed in Table 1 above. Type A inhibitors, the focus of this work, are effective by reacting with the metal to form a protective layer. A common application of
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+pollute the environment (such as lead compounds, mercury chromates, benzoates, and nitrites). Further more, the legislative drive to eliminate volatile solvent-based paints (the so-called "oil paint") in favor of water-based (or "latex") paint introduces other problems, typically those associated with dispersing poorly soluble pigments in water-based paint. Therefore, considerable efforts are being made across the industry to develop improved corrosion inhibitors. Because the Green Tea plant is said to contain significant amounts of water-soluble electrochemically active compounds, it was logical to investigate whether green tea extracts could also indeed inhibit corrosion.
+
+tea is helpful in preventing free radical damage in the human body and will hence similarly prevent corrosion damage in metals. The literature and our tests show that green tea contains high concentrations of electrochemically active compounds. The average concentrations of compounds found in dry green tea leaves can be seen in table 2.
+
+Green Tea Extract
+Green Tea plant or the camellia sinesis, was discovered in China around 4,0005,000 years ago. Green tea is known for its ability to prevent illnesses such as cancer due to its concentration of antioxidants. An antioxidant is a molecule that safely interacts with molecular species which contains one or more unpaired electrons. These molecular species are also known as free radicals. In the human anatomy, oxidized free radicals, which are ordinary to the body's metabolism, are believed to cause damage to our DNA, mitochondria, and cell membrane. This damage can result in aging, cancer, and heart disease. One antioxidant found in green tea, epigalloctechin 3- gallate (EGCG) is 100 percent more effective in comparison to another antioxidant vitamin C and 25 percent more effective in comparison to vitamin E. Unlike the other two types of tea plants, oolong and black tea, green tea undergoes minimal oxidation level, which means that it is not fermented, hence allowing the antioxidants to be preserved. This study is using the premise that green 4
+
+Compound % Dried Leaf Carbohydrates 25 Polyphenols 37 Caffeine 3.5 Protein 15 Amino-acids 4 Lignin 6.5 Organic acids 1.5 Lipids 2 Chlorophyll 0.5 Table 2. Composition of Green tea
+
+Experimental Apparatus
+The primary apparatus employed for this work is the galvanic cell. A galvanic cell shown in Figure 1, is an electric cell that generates an electromotive force by an irreversible conversion of chemical to electrical energy. The Galvanic cell consists of two dissimilar metals connected by an electrolyte. For this study, a tin/steel anode and a copper cathode are being used. We are investigating a sodium chloride NaCl and NaCl solution containing green tea extracts as an electrolyte. For comparison purposes, we will also be investigating a solution composed of only NaCl, a NaCl solution containing tobacco extracts, and a NaCl solution containing a known inhibitor, potassium chromate.
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+Corrosion damage can be assessed by weight loss, measurement of pit depth, localized metallic damage, through visible evidence such as discoloration and tarnishing, and probably also by measuring galvanic corrosion using a Zero Resistance Ammeter (ZRA). As aforementioned, the experimental apparatus for this work is a galvanic cell. The ZRA was used to couple the two electrodes in addition to monitoring the electron movement in the galvanic cell.
+
+Experimental Procedures
+Figure 2. The Galvanic Cell Prior to testing, each electrode was prepared by using an Emory cloth to wear away any protective coating that may have been applied during their manufacture. The electrodes were also cleansed with alcohol to ensure that all residue was removed. In addition to specimen preparation, procedures were carried out to prepare the experimental apparatus. As aforementioned, a different electrolyte was used for each experiment. A green tea extract test medium was prepared by digesting five grams of commercial green tea in about 500 mL of 1% saline solution, and the residue was filtered off. Tin/Mild steel and copper rods were coupled together via zero resistance ammeter and immersed in the extract solution while the galvanic current was continuously recorded. For comparison, the same galvanic couple of tin/steel and copper was also immersed in 1% saline solution containing 1% of the known inhibitor, potassium chromate. Those electrolytes which were composed of an extract in a solution, tobacco extract as well as a green tea extract, were prepared by steeping either leaves in the 5
+
+Experimental Approach
+The Galvanic cell's dissimilar electrodes, copper and tin/steel, are dissolved in the electrolyte at different rates. The different dissolving rate of the copper and tin electrodes causes the creation of an unequal number of electrons. This results in an electric potential between the two metals. If an electrical connection, such as a wire or direct contact is formed between the two electrodes, an electric current would flow. At the same time, ions of the more active metal, tin, are transferred through the electrolyte to the less active metal, copper, and deposited there as a plating. In this way the tin is consumed or corroded. The oxidation-reduction equations for the activity taking place in the cells are as follows: Sn (s)  Sn+2(aq)+2e- (oxidation) Cu+2(aq)+2e-  Cu(s) (reduction) Net: Sn(s)+Cu+2(aq) Cu(s)+Sn+2(aq)
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+saline solution. After which, the electrolyte was drained, removing all leaf particles from the solution, and placed into the galvanic cell. Following this, the electrodes were placed in the cell and coupled by way of a zero resistance ammeter, from which several measurements were recorded over time.
+
+2 50
+
+2 00
+
+Crre D siy( m/c 2) u nt en t Am
+
+1 50
+
+1 00
+
+1 % N aC l + Tobacco Extract
+
+50
+
+1 % NaCl + G reen Tea Extract
+
+0 0 5 10 15 20 25
+
+Im ersion tim (m m e in)
+
+Results and Discussion
+Green Tea contains high concentrations of alkaloids, fatty acids and nitrogencontaining compounds. Despite the obvious and widespread interest and research into the pharmacological characteristics of Green Tea, a literature search found no reference to their electrochemical behavior despite similarities to known organic inhibitors. Accordingly, preliminary studies were carried out by the rapid and convenient Zero Resistance Ammeter (ZRA) technique. Two similar tests were carried out using Tobacco extract to calibrate the instrumentation and Green Tea extract for our interests. A tobacco extract test medium was prepared by digesting five grams of commercial chewing tobacco (Red Man chewing tobacco, Pinkerton Tobacco Co, Owensboro, Ky) in 500 mL of 1% saline solution, and the residue was filtered off. Mild tin/steel and copper rods were coupled together via zero resistance ammeter, and immersed in the extract solution while the galvanic current was continuously recorded. 1% saline solution containing 1% of Green Tea extract. This initial work clearly showed that a simple aqueous extract of green tea leached out a powerful corrosion inhibitor, one that appeared to be more effective and more rapid in its action than the well-established anodic passivating 6
+
+Figure 3.
+
+Galvanic Corrosion in a Mild Steel Copper Couple. The Test Medium was a 1% Salt Solution at 22oC. Tobacco Extract was added in one Test and Green Tea Extract was added in the second test.
+
+Current density, mA/cm2
+
+80 60 40 20 0 0 10 20 30 Im m e r s io n tim e , m in u te s
+1 % N a C l+ c h ro m a te 1% N aC l 1 % N a C l+ to b a c c o
+
+Figure 4.Galvanic corrosion in Steel-Copper Couple
+
+Cu rren t Densi ty, mA/ cm2
+
+250 200 150 100
+
+NaC l
+50 0 0 10
+
+N aCl + burley
+20 30 40 50 Im m ersion Tim e, M inutes 60 70
+
+Figure 5.
+25
+
+Aluminum Steel Couple in Salt Solution
+
+Ginseng + 1% NaCl
+20
+
+Chro mate + 1% NaCl
+
+E ct rode Pot ential (mV le )
+
+Hibiscus + 1% NaC l
+15
+
+Green Tea + 1 % NaCl
+
+10
+
+Chromate, Hibiscus, Green Tea Mixture + 1% NaCl
+
+5
+
+0 0 2 4 6 8 10 12 14 16
+
+Current Density (m A/cm 2)
+
+Figure 6. Current Density vs. Electrode Potential
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+For comparison, the same galvanic couple of steel and copper was also immersed in inhibitor, potassium chromate as observed by von Fraunhofer 2000. Although green tea leaf is relatively cheap raw material, it has great economic significance for the growers and the green tea industry. Therefore, studies were initiated on the waste twigs and stems from green tea plants as an extract source. The results of our investigations are displayed in Figures 3, 4, 5 and 6. From these graphs we can see that during testing, prior to about five minutes of immersion time, the system is settling down. After about five minutes of immersion time, we see that the system settles indicating minimal or no electron exchange. We can also note from this graph a trend from the initial drop in current. After the initial drop in current, no ion exchange took place. Green Tea is a relatively cheap extract source, and both leaf as well as plant waste (stems, dust, twigs, and stalks) are excellent sources of corrosion inhibitors that have the great advantages of being environmentally friendly and renewable. Further, they are readily available, widely grown in Asia and can replace a wide variety of current toxic and/or polluting industrial inhibitors including Tobacco.
+
+3. `Galvanic Corrosion, Prediction and Experiments assisted by Numerical Analysis', Hack, Harvey. Philadelphia: ASTM, 1988. 4. `Tannins and other non-corrosive substances', Jacobsen, M, NY: Amsterdam Press, 1992 5. `Corrosion Inhibitors Principles and Applications', V.S. Sastri. New York: Wiley, 1998)
+
+Acknowledgements:
+
+This research was supported by a Grant from the Program for Undergraduate Research Experience (PURE) at Clark Atlanta University which is sponsored by the National Science Foundation NSF.
+
+References
+1. `Galvanic Cell's, Erb, David, Philadelphia: Gaston, 1976 2. `Inhibiting Corrosion with Tobacco', Von Fraunhofer, J. Anthony, Advanced Materials and Processes. 56: 33-36, Aug 2000.
+
+7
+
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+250
+
+Figure 2. Galvanic Corrosion in a Mild-Steel Copper Couple. The test medium was a 1% Salt Solution at 22 o C. Tobacco extract was added in one test and Green Tea Extract was added in the second test.
+
+200
+
+C urrent D ensity (mA cm2) /
+
+150
+
+100
+
+1 % NaCl + Tobacco Extract
+
+50
+
+1 % NaCl + Green Tea Extract
+
+0 0 5 10 15 20 25
+
+Immersion time (min)
+
+Figure 3: Galvanic Corrosion in a Steel Copper couple
+
+Current density, mA/cm2
+
+80 60 40 20 0 0 10 20 30 Immersion time, minutes
+1%NaCl+chromate 1% NaCl 1%NaCl+tobacco
+
+Figure 4. Galvanic Corrosion in a steel copper couple
+Current density, mA/cm2
+
+80 60 40 20 0 0
+
+1%NaCl+chromate 1% NaCl 1%NaCl+tobacco
+
+10
+
+20
+
+30
+
+Immersion time, minutes
+
+8
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+250
+Current Density, mA/cm2
+
+Figure 5. Aluminum Steel Couple immersed
+in salt solution
+
+200 150 100
+
+NaCl
+50 0 0 10 20 30 40 50 Immersion Time, Minutes
+
+NaCl +burley
+60 70
+
+Figure 6. Current Density vs. Electrode Potential
+25
+
+Ginseng + 1% NaCl
+20
+
+Chromate + 1% NaCl
+
+Elect ro d e Pot en tial ( mV)
+
+Hibiscus + 1% NaCl
+15
+
+Green Tea + 1 % NaCl
+
+10
+
+Chromate, Hibiscus, Green Tea Mixture + 1% NaCl
+
+5
+
+0 0 2 4 6 8 10 12 14 16
+
+Current Density (m A/cm 2)
+
+Figure 7. Galvanic Cell Arrangement 9
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 7 Preprint 36
+
+31 January 2005
+
+Table 2. Type A & B Table 1. Composition of
+Green Tea Leaf.
+
+Inhibitor Properties
+
+Compound Polyphenols Carboxylic Acids Terpenes and Alcohols Alkaloids Ni-Compounds
+
+Concentration (mg/kg) 30 2100 350 5 - 50 240
+
+Type IA:- Reduce corrosion rate but do not completely prevent corrosion Type IIA:- Provide temporary immunity by delaying the onset of corrosion Type IIA:- Form passive film (oxide or insoluble salts) on metal surface Type IB:- Retard corrosion process and are consumed during protective action Type IIB:- Provide temporary immunity by reacting with corrosives Types IA, IIA, and IIB:- Are usually organic compounds Types IIIA and IB:- Are usually inorganic compounds
+
+10
+© University of Manchester and the authors 2005. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www. corrosion.jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

@@ -1,0 +1,139 @@
+Volume 6 Paper H022 Degradation performance of Al-containing alloys and intermetallics by molten ZnCl2/KCl
+Y.S. Li, M. Spiegel Max-Planck-Institut für Eisenforschung GmbH. Max-Planck-Straße 1,40237 Düsseldorf, Germany)
+
+Spiegel@mpie.de ; li@mpie.de
+
+Abstract
+The hot corrosion behaviour of Fe-Al and NiAl alloys was studied in comparison with Fe-Cr alloys beneath ZnCl2-KCl melt in air atmosphere. All the materials experienced enhanced corrosion and particularly, Cr exhibited a detrimental effect on the corrosion resistance of Fe-Cr alloys. However, the corrosion resistance of both Fe-Al and NiAl was significantly improved with higher Al concentration. The degradation mechanism of these materials was discussed and the different microstructure evolution properties between FeAl and NiAl systems were compared. Keywords: hot corrosion; molten chloride salt; Fe-Al; Fe-Cr; NiAl
+
+1. Introduction
+Rapid corrosion of the thermal components has been frequently encountered in waste incinerators or other advanced biomass-fired plants when the metal temperature is higher than 300 °C. Such kind of corrosion is usually caused by the complicated chemical reactions between tube materials with gaseous species and especially with low Spiegel [#ref2]. Conventional carbon steels, low alloy steels and stainless steels normally exhibit enhanced degradation and there are examples of superheater tubes operating at 484-538 °C in MSW applications which had to be replaced every few months. In order to reduce the amount of superheater materials consumption, it is melting point eutectic salts of chlorides and sulfates, Grabke [#ref1],
+
+necessary to develop more cost-efficient protective coatings for such components in the hostile combustion environments. Al-bearing alloys exhibit candidate coating materials for such
+
+applications considering the reduced cost and other useful properties, such as low density, high strength and good wear resistance. In hostile environment for their excellent corrsion resistance by particular, iron and nickel aluminides have considerable potentials in developing a protective alumina scale, Tortorelli [#ref3]. For example, these alloys are more likely to make an impact as a corrosion resistant cladding, through the processes such as high velocity oxy-fuel (HVOF) spraying, friction surfacing with powders and plasma transferred arc cladding. However, it is of great importance to evaluate the feasibility of applying such materials as a surfacing medium in corresponding hostile environment. ZnCl2-KCl eutectic salt is identified to be one of the major corrosive species in the ash deposits from waste incinerators and plays a detrimental role on the rapid tube thinning. Recently, the corrosion behaviour of some Fe-base and Ni-base alloys has been examined by Spiegel [#ref2] and Li [#ref4] in presence of molten ZnCl2-KCl salt. In this project, the aggressiveness of such chloride melt on the Alalloyed materials will be further investigated. Some Fe-Cr alloys are also included for comparison purpose.
+
+2. Experimental
+The materials used in this study contain one NiAl intermetallics, three Fe-Al alloys and four Fe-Cr based alloys. The nominal chemical composition of the above materials is listed in table 1. All the materials were machined into specimens with dimensions of about 10 x 15 x 1.5 mm, then ground to 600# SiC paper and subsequently cleaned in a supersonic bath of acetone. After drying the samples were coated with a ZnCl2-KCl mixture (48: 52, weight ratio) of 60mg/cm2 on the surfaces. Exposure experiments were performed in static air at 400°C for 340 h and also at 450 °C for 96 h, using a horizontal furnace equipped with a quartz working tube.
+
+2
+
+After corrosion, metallographical cross-sections were prepared by dry grinding of the samples in order to prevent the dissolution of the chloride products from the scale. The morphological and composition analysis were carried out using Scanning Electron Microscopy (SEM) with Energy-dispersive analysis (EDX), X-Ray Diffraction (XRD) and before the tests and after removal of the corrosion products by
+
+Electron Probe Microanalysis (EPMA). The mass change of the samples chemical etching in an alkaline KMnO4 solution at 80 °C and inhibited HCl solution, was measured to determine the corrosion resistance. Table 1. Nominal chemical composition of the materials tested in at.% except Fe-Cr alloys in wt.%. Fe NiAl Fe-10Al Fe-20Al Fe-45Al Fe-15Cr-5Al Fe-15Cr Fe-27Cr Fe-35Cr 90 80 55 bulk bulk bulk bulk Al 50 10 20 45 5 Ni 50 Cr 15 27 35 15
+
+3. Corrosion loss and scale structure
+Figure 1 shows the mass loss of the materials after exposure beneath the molten ZnCl2-KCl deposit at 450 °C for 96 h. NiAl suffers from the least metal loss of all the materials, while an increased Al content in the Fe-Al alloys normally results in a smaller metal loss. In contrast, an inverse effect of Cr is observed since the corrosion resistance of Fe-Cr alloys becomes much worse with increased Cr addition. The two low Al-content Fe-Al alloys, Fe-10Al and Fe-20Al, exhibit similar corrosion products, mainly a very thick and porous mixture of oxides, chlorides (Fig.2). The external scales consist of Fe2O3 and some KCl, while those light particles in this region correspond to metallic zinc. A continuous grey layer rich in Al, Cl, O and some K, is present as an intermediate layer. Finally, a multi-layered iron oxide
+
+3
+
+forms as the innermost region of the scale in contact with the alloy substrate. The general corrosion products present on Fe-45Al are almost the same as the two low-Al alloys. However, no obvious alternating scale of iron oxide is formed at the innermost zone (Fig.3a). Instead, a boundary layer very rich in chlorine while somewhat depleted in aluminium, is detected near the alloy/scale interfaces.
+60
+2
+
+40
+
+20
+
+0
+NiAl Fe10AlFe20AlFe45Al Fe15CrFe27CrFe35Cr Fe15Cr5A
+
+Fig. 1. Mass loss of the materials exposed beneath ZnCl2-KCl in air for 96 h at 450 °C. The corrosion products formed on NiAl are quite different from those Fe-Al alloys. The outermost layer from NiAl is mainly composed of metallic zinc particles, KCl and a complex mixture of oxides and chlorides of aluminium, yet no nickel oxide is detected. In addition, an internal formation of alumina precipitates inside a layer of metallic nickel has formed in contact with the alloy matrix (Fig.4).
+KCl Zn Fe2O3
+
+Al-rich mixtures Fe2O3
+
+h at 450 °C. 4
+
+Fig. 2. Micrograph of Fe-10Al corroded beneath ZnCl2-KCl in air for 96
+
+Zn KCl Al-rich mixture
+
+Al-depleted layer
+
+Fig. 3. Micrograph of Fe-45Al corroded beneath ZnCl2-KCl in air for 340 h at 400 °C.
+(a) (b) NiAl Zn KCl Ni+ Al2O3 2·m Ni
+
+at 450°C. (a): General view; (b): expanded view of the corrosion frontier.
+
+Fig. 4. Micrograph of NiAl corroded beneath ZnCl2-KCl in air for 96 h
+
+In agreement with the results reported before on Fe-base alloys by Spiegel [#ref3], ZnO or zinc-rich spinel oxide in combination with iron oxide, is largely developed on the surface scales of Fe-Cr alloys, then followed by a mixture layer of the oxides of iron and chrominum (Fig.5a). However, the microstructure changes after aluminium alloying. For example, in the case of Fe-15Cr-5Al, metallic zinc, rather than oxidized zinc, is formed at the outermost layer, which is quite similar with those Fe-Al alloys (Fig.5b).
+
+5
+
+(a)
+
+Fe/Zn oxides
+
+(b) Zn Mixture region
+
+Mixture of oxide/chloride
+
+Fig. 5. Micrographs of Fe-27Cr (a) and Fe-15Cr-5Al (b) corroded beneath ZnCl2-KCl melt for 96 h at 450oC.
+
+4. Discussion
+4.1 General remark On consideration that the ZnCl2-KCl salt used in this study exhibits a molten state at reaction temperatures, the attack occurs actually by the chloride melt. As discussed above, Al and Cr exhibit quite different effects on the corrosion behaviours of the examined materials, where Al seems to be beneficial to improve the corrosion resistance whereas Cr shows a detrimental behaviour. In addition, the microstructural properties between NiAl, Fe-Al and Fe-Cr systems also differ a lot after corrosion. Generally, fine-grained Zn oxide or spinel particles were largely precipitated at the scale/gas interface on Fe-Cr alloys, while it is quite not the same case for the Al-containing materials. Instead, a large number of metallic zinc particles were detected on the surface of the oxide scale after Al addition. The chemical state changes of zinc from ZnCl2 before and after corrosion should approximately correspond to the different consumption process of ZnCl2, which actually acts as an important clue to clarify the dominant degradation process of these materials. 4.2 Fe-Cr The enhanced corrosion of Fe-Cr alloys beneath ZnCl2-KCl melt produced rather porous surface layer of oxide particles composed of iron and zinc or their spinel, which implies that a fluxing mechanism 5
+
+could be responsible for the accelerated corrosion rate of these alloys, Rapp [#ref5]. The most possible degradation model has been recently Normally, an oxidation reaction between the ZnCl2 melt with the gas phase occurs: ZnCl2 (l) + ½ O2 = ZnO + Cl2(diss.) (1) proposed by Spiegel [#ref3] to describe the corrosion process.
+
+or the reaction between oxides in the scale and the ZnCl2 in the melt: 2 ZnCl2 (l) + 2 Fe2O3 + O2 = 2 ZnFe2O4 + 2 Cl2(diss.) (2) Through the above reactions, ZnCl2 is consumed and free chlorine is
+
+released, acting as an oxidant for iron (eqn. (3)). Due to the low
+
+oxygen partial pressure at the salt/matrix interface, iron from the alloy is dissolved in the chloride melt by forming soluble FeCl3, according to the reaction equation: Fe + 3 Cl2(diss.) = 2 FeCl3 (diss.) salt/gas interface, where Fe2O3 will precipitate again: 2 FeCl3(diss.) + 3/2 O2 = Fe2O3 +3Cl2 (4) As the oxide scale formed in this way is rather porous and less adherent, it can hardly provide any effective protection and enhanced materials degradation occurs. It has been reported and discussed recently that the higher Cr content on Fe-Cr alloys usually leads to an adverse effect on the corrosion protection property beneath chloride melt, or even in the presence of HCl gases, Zahs [#ref6]. An important factor of such phenomena is thus Cr2O3 films dissolve easily in the molten chlorides by forming hexavalent Cr ions according to the reaction: 2Cr2O3 + 3 O2 + 4 O2- = 4 CrO42(5) that Cr2O3 exhibits a high solubility in chloride melt, Ishitsuka [#ref7], (3)
+
+The dissolved FeCl3 diffuses outwards through the molten salt to the
+
+which has been confirmed by chemical analysis of the corroded melts. In addition, the formation of highly volatile species CrO2Cl2 may also explain the occurrence of a self-sustaining, accelerated hot corrosion for Cr2O3-forming steels in such environment. 4.3 M-Al Since metallic zinc particles are present on the surface of these Albearing materials after corrosion, it is presumed that at the very
+
+5
+
+beginning of corrosion, a displacement reaction takes place between ZnCl2 in the melt and aluminium from the alloys: 2 Al (matrix) + 3 ZnCl2(l) = 3 Zn(l) + 2 AlCl3(l) more reactive than that of Zn, as seen from Fig. 6. From electrochemical point of view, Zn2+ (from ZnCl2) is the oxidant for the dissolved gas (O2 or Cl2) is the oxidising agent. metallic Al. This is in contrast to those other metals like iron, where a (6)
+
+This is thermodynamically favoured since the chloride of Al is much
+
+Fig. 6. Phase stability diagram of Zn-Al-O-Cl system at 450oC (unit: Bar). Subsequent to reaction (6), the AlCl3 can be oxidised to Al2O3 according to: 2AlCl3 (l,g) + 3/2O2 = Al2O3 + 3Cl2 (7)
+
+volatility (melting point at 178 °C). In fact, this will be a reasonable explanation for the presence of only a small amount of aluminium in the mixed region after corrosion. However, part of aluminium is still kept beneath the oxide layer, in form of oxide and/or chloride. This reaction model is supported further by immersion test of pure Al in a ZnCl2-KCl melt under the same experimental environment, Li [#ref8]. Al shows a rapid dissolution and after corrosion, there existed a rather thick periphery rich in zinc on the surface of the residual Al substrate, corresponding to an Al-Zn eutectic layer.
+
+Most of the AlCl3 may escape into the gas atmosphere due to its high
+
+5
+
+The replaced zinc by the above materials of pure Al and M-Al, mostly remains metal state and is scarcely oxidized to form single oxide or spinel. 4.4 Comparison between FeAl and NiAl It is also observed that iron experienced alternative re-oxidation in the corrosion frontier of Fe-Al alloys while nickel remained stable in NiAl. As discussed above, aluminium can be preferentially removed by the displacement reaction at the initial stage of corrosion. Thus, a base metal-rich subsurface zone is developed in the alloy surface. The free chlorine liberated for example, by reaction (1), may penetrate inwards as dissolved or gaseous species, readily through the pores and concentrate near the scale/matrix interface. Due to the increased iron activity and relatively high chlorine partial pressure in local regions, iron is no longer stable and its reaction with chlorine is favored: Fe + Cl2 = FeCl2(s) 2 FeCl2 (g, s) + 3/2 O2 = Fe2O3 + 2 Cl2 (8) (9)
+
+The decomposition of FeCl2 will leave a microporous alloy surface layer allowing further deep penetration of oxidants. As a combined consequence, a multi-layered iron oxide scale is gradually established. The overall corrosion mechanism is described by the three key stages: (1) aluminum depletion by the displacement reaction with ZnCl2. (2) increased iron activity in the subsurface zone favors the formation of dissolved FeCl3. (3) oxidation of iron-chlorides leads to the porous iron oxide scale. The early stage corrosion of NiAl is very similar to that of the FeAl alloys. However, in comparison with iron and aluminum, nickel is more resistant to oxygen and chlorine attack. Thus, it stays in the metal state in contact with the matrix. As a direct consequence, aluminium is selectively removed from the alloy as chlorides by inward diffusion of chlorine, for example in reaction (10). 2 Al (matrix) + 3 Cl2 = 2 AlCl3(g) The AlCl3 will be transferred into aluminum oxides afterwards during its outward diffusion. As this oxidation reaction occurs at relatively low oxygen pressures, alumina can form within the pores of the metallic nickel. From this point of view, the presence of a continuous aluminum (10)
+
+5
+
+oxide precipitation zone in NiAl would be able to slow down the corrosion rate.
+
+5. Conclusions
+This paper compared the hot corrosion behaviour of FeAl, NiAl alloys with Fe-Cr alloys under ZnCl2-KCl melt at 400-450 °C. The corrosion resistance of the materials could be improved by high Al addition while Cr shows an inverse effect. The enhanced corrosion of Fe-Cr was described by a fluxing mechanism. However, a displacement reaction became dominant in those Al-containing materials, which leads to the preferential removal of aluminium by ZnCl2. Due to the different thermodynamic stability of Fe and Ni, various microstructure evolution properties were also observed in the corrosion frontier between the two systems.
+
+Acknowledgement:
+The authors would like to thank Mrs. M. Nellessen, Mrs E. Strauch and I. Parezanovic for preparing the metallographical cross-sections and SEM analysis. Thanks are also given to A. Ruh for his assistance in drawing the phase stability diagram.
+
+References
+!ref1 `The effects of chlorides, hydrogen chloride, and sulfur dioxide in ti h e o x ib d a n f s l e o w d p t ' Spiegel, Corrosion Science, 37, 7, pp1023-1043, 1995. ,n H .M J. G r a b k e E R s d
+
+!ref2 `Salt melt induced corrosion of metallic materials in waste 1999. !ref3 `Critical factors affecting the high-temperature corrosion is n c e r a t o p l '
+
+,n M .d S p iC e g lo a t r s i , 5 0 3 7
+
+Materials Science and Engineering A, 258, 31, pp115-125, 1998.
+!ref4 `Accelerated corrosion of pure Fe, Ni, Cr and several Fe-based a lC o y s i n d u c e b Z ­ 2
+
+p e r f o m a n c i l u d e s '
+
+,N P .s F T o r t e l, i a n d K .
+
+K C ld a tY 4 5 0 °e im n o x z g v r n t ' , . S
+
+5
+
+Li, Y. Niu and W. T. Wu,
+
+5
+

@@ -1,0 +1,295 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+Fatty acid thiosemicarbazides as corrosion inhibitors for Mild steel in Hydrochloric acid solution
+M.A.Quraishi*,M.Z.A. Rafiquee, Nidhi Saxena, Sadaf Khan Department of Applied Chemistry, Corrosion Research Laboratory, Faculty of Engineering & Technology, Aligarh Muslim University, Aligarh-202 002, India.  Corresponding: E-mail: maquraishi@rediffmail.com; Fax No. 0091+571+2700528
+
+Abstract
+Fattyacid thiosemicarbazides namely 2-Undecane-4-Phenylthiosemicarbazide(UPTS), 2Pentadecane-4Phenylthiosemicarbazide(PPTS),2-Heptadecane-4Phenylthiosemicarbazide (HPTS), 2-Nonane-4 Phenylthiosemicarbazide (NPTS) were synthesized in the laboratory and their influence on the inhibition of corrosion of mild steel (MS) in aqueous solution containing 1N HCl was investigated by weight loss and potentiodynamic polarization techniques. The inhibition efficiency (IE) of these compounds was found to vary with concentration, temperature and immersion time. Good inhibition efficiencies (IE) were evidenced in the hydrochloric acid solution. The adsorption of these compounds was found to obey Langmuir adsorption isotherm. Scanning electron microscopy(SEM) of mild steels samples is performed to showed adsorption of inhibitors on metal surface. Various thermodynamic parameters were also calculated to investigate the mechanism of corrosion inhibition. Potentiodynamic polarization data showed that the compounds studied are mixed type inhibitors in the acid solution.
+
+Keywords: Corrosion inhibitors; Potentiodynamic polarization ; SEM
+
+Thiosemicarbazide;
+
+Mild
+
+steel;
+
+Adsorbtion;
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+Introduction
+Corrosion of metals is major problems which causes heavy economic losses. Corrosion commonly occurs at metal surfaces in the presence of oxygen and moisture and involves electrochemical reactions. In acidic medium hydrogen evolution reactions predominates while in neutral medium reduction of oxygen takes places. Corrosion inhibitors reduce and prevent these reactions by adsorbtion on the metal surface and act by forming a barrier to oxygen and moisture, by complexing with metals ions or by removing corrodents from the environment,some of the inhibitors facilitate formation of passivating film on the metal surface. Many organic compounds are used as corrosion inhibitors in acidic environments in various industries [1-2]. Acid inhibitors has wide applications in the industrial field as a component in pretreatment composition, in cleaning solution for industrial equipments and in acidization of oil wells and in petrochemical plants [3]. Most of the effective organic inhibitors used in industry have heteroatoms such as O, N, S containing multiple bonds in their molecules through which they can adsorb on the metal surface [4-7]. The corrosion inhibiting property of these compounds is attributed to their molecular structure. The planarity () and lone pair of electrons present on heteroatom are the important structural features that determine the adsorption of these molecules on the metal surface. In continuation of earlier work on the development of acid corrosion inhibitors| [8-15], the present work includes the inhibiting behaviour of fatty acid thiosemicarbazides namely 2Undecane-4-Phenylthiosemicarbazide(UPTS), 2- Nonane-4- Phenylthiosemicarbazi -de, 2-Heptadecane-4-Phenylthiosemicarbazide, 2- Heptadecane-4-Phenylthiosemicarbazide.
+
+Experimental
+Material Preparation Experiments were performed with cold rolled mild steel strips of size 2.0cm x 2.5cm x 0.2cm having composition, (wt%): 0.14%C, 0.35% Mn, 0.17%Si, 0.025%S, 0.03%P and remaining iron Fe as per standard methods [16]. The inhibitors were synthesized in the laboratory following the procedure described earlier [17]. Name, structural formules, melting points and molecular weight of the condensation products are given in Table 1.These inhibitors were characterized through their IR and NMR spectral data and their purity was confirmed by thin layer chromatography (TLC) .IR and NMR spectral data of most effective compound UPTS is mentioned in Table 1.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+Weight Loss Determination Mild steel coupons of size 2.0cm x 2.5cm x 0.2cm were used. The specimens were degreased using acetone and finally dried. The cleaned specimens were weighed before and after the experiments. Weight loss studies were carried out at various temperatures ranging from 30 to 600C and for various immersion times from 3 to 24 hours. The aggressive solutions used were made of AR grade 35% HCl appropriate concentrations of acid were prepared using double distilled water. The concentration range of inhibitor employed was 100 to 500 ppm in the hydrochloric acid. The inhibition efficiency (%) of the inhibitors was calculated by using the following equation: IE= CR0-CRi x 100
+
+CR0 Where CR0 = Corrosion rate of blank hydrochloric acid. CRi = Corrosion rate after adding inhibitors. Potentiodynamic polarization studies Potentiodynamic polarization studies were carried out using an EG & G Princeton Applied research (PAR) potentiostat / galvanostat (model 173), a universal programmer (model 175) and a X-Y recorder (model RE0089). A platinum foil was used as auxiliary electrode and a saturated calomel electrode (SCE) was used as reference electrode and mild steel was used as working electrode. All the experiments were carried out at temperature (30 ± 1 oC). Equilibrium time leading to steady state of the specimens was 30 minutes. Sweep rate in potentiodynamic experiment was 1mV/sec. Scanning Electron Microscopy Scanning electron microscope (SEM) Model No 435 VP LEO, was used to study the morphology of corroded surface in presence and absence of inhibitors. The specimens were thoroughly washed with double distilled water before putting on the slide. The photographs have been taken from that portion of specimen from where better information was obtained. They were photographed at 3000 magnification. To understand the morphology of the steel surface in absence and presence of inhibitors, the following cases have been examined. (i) Polished mild steel specimen (ii) Mild steel specimen dipped in 1N HCl (iii) Mild steel specimens dipped in 1N HCl containing 500 ppm concentration.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+Results and Discussion
+Weight loss studies Effect of Concentration on inhibition efficiency The values of percentage inhibition efficiency (%IE) and corrosion rate (CR) obtained from weight loss method at different concentrations at 30oC are summarized in Table 2. It has been found that all of these compounds inhibit the corrosion of mild steel in HCl solution, at all concentrations used in this study i.e., 100 ppm ­500 ppm. It has also been observed that the inhibition efficiency of these compounds increases with the increase in concentration of inhibitor variation as shown in Fig.1. Effect of Temperature on inhibition efficiency The variation of IE with solution temperature is shown in Fig. 2. It can be seen that IE for all inhibitors did not cause a significant change with an increase in temperature from 30oC to 60oC indicating that the inhibitive film formed on the metal surface is protective in nature at higher temperatures. Effect of immersion time on inhibition efficiency The variation of Inhibition efficiency in all four fatty acids thiosemicarbazides with immersion time is shown in Fig. 3. It is observed that no significant change in IE occurred with the increase in immersion time from 3h to 24h. This shows the persistency of the adsorbed fatty acid thiosemicarbazides over a longer test period. Application of the principles of chemical kinetics to the results Adsorption Isotherm studies The degree of surface coverage () for different concentration of inhibitors in 1N HCl at 30oC for 3 hour of immersion time has been evaluated from weight loss values. The datas were tested graphically by fitting to various isotherms. A straight line was obtained on plotting log ( /1-) versus log C asshown in Fig.4, suggesting that the adsorption of these compounds in HCl on mild steel surface follows Langmuir's adsorption isotherm. A plot of log  /1- versus 1/T is given in Fig.5, the plot gives the values for calculating heat of adsorption (Q) with a slope (-Q/2.303R). The values for the heat of adsorption are depicted in Table 3. The lower values of heat of adsorption for these inhibitors shows physical nature of adsorption [18]. It has been reported by a number of authors [19-21] that in acid solution, the logarithm of the corrosion rate is a linear function with 1/T (Arrhenius equation):
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+Log (Rate) =
+
+- Eoa 2.303 RT
+
++A
+
+where, Eoa is apparent effective activation energy , R is general gas constant and A is Arrhenius pre exponential factor. A plot of log of corrosion rate obtained by weight loss measurement versus 1/T gave straight line as shown in Fig.6 The values of activation energy (Eoa) obtained from the slope of the lines are given in Table 3 .An alternative formula of the Arrhenius equation is the transition state equation: Rate = RT exp( So) exp(- Ho ) Nh (R) ( RT) where, h is the plank' s constant , N the Avogadro' s number , So the entropy of activation, and Ho the enthalpy of activation. A plot of log (rate/T) versus 1/T give a straight line (Fig.7) with a slope of (- Ho /2.303 R) and an intercept of [(log( R/ Nh) +( So/ 2.303 R)], from which the values of So and Ho were calculated and are listed in Table 3. The data shows that the thermodynamic activation function (Eoa ) for inhibited system are higher than those in the free acid solution except HPTS indicating that all inhibitors except HPTS are more effective at room temperature .The Eoa value for HPTS is less than those in free acid indicating that inhibitor exhibit high efficiency at elevated temperature [22].The value of Ho is more for all the inhibitors except HPTS indicating more energy barrier for the reaction in presence of inhibitor is attained [23].The lower value of Ho for HPTS indicates less energy barrier for the reaction in presence of the inhibitor is attained. The entropy of activation So in the absence and presence of the inhibitors are large and negative. This indicates that the activated complex in the rate determining step represents an association rather than a dissociation step, meaning that a decrease in disordering takes place on going from reactants to the activated complex [24]. Free energy of adsorption (Gads) was calculated using the following equations [25] are given in Table 3. Gads = - RT ln (55.5 K) and K is given by: K =  /C (1 - ) where  is degree of coverage on the metal surface, C is concentration of inhibitor in mole /l, K is equilibrium constant. It has been found that the values of Gads value is less than -40 k J/mol (-9.56 k Cal/mol) indicating that the thiosemicarbazides are physically adsorbed on the metal surface [26]. The negative value of Gads indicates the spontaneous adsorption of inhibitor on the surface of mild steel [27] .It was also found that the value of activation energy of the inhibited systems were lower than that of uninhibited system. Putilova [22] has reported that this type of inhibitor is effective at higher temperatures.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+Potentiodynamic Polarization Studies The corrosion parameters such as Ecorr , Icorr , IE and CR obtained from Fig. 8 are given in Table 4. It is observed that the presence of the thiosemicarbazides decreases Icorr, values. Maximum decrease in Icorr, was observed in case of UPTS. The trend of the IE was founds to be same as that of weight loss study. Ecorr values do not show any significant change in presence of all the thiosemicarbazides in the acid solution suggesting that all these compounds are mixed type inhibitors (i.e., they retard the corrosion reaction by blocking both anodic and cathodic sites of the metal). Scanning electron microscopy It is seen in Fig 9 that the surface of mild steel immersed in inhibited solution is smoother than that in 1N HCl alone. These observations suggest that inhibitors form protective layer on the metal surface, which prevent attack of acid on metal surface. Mechanism of corrosion inhibition Inhibition of corrosion of mild steel in the acidic solutions by the fatty acid thiosemicarbazides can be explained on the basis of molecular adsorption. It is apparent from the molecular structures that these compounds are able to get adsorbed on the metal surface through -electrons of aromatic ring and lone pair of electrons of N, O and S atoms, planarity - electrons of a benzene ring and as a protonated species [28]. The presence of long hydrophobic chain also plays a role in IE by preventing acid solution away from metal surface. Among the compounds investigated in the present study, the order of IE has been found as follows:UPTS > NPTS > PPTS > HPTS (C11) (C9) (C15) (C17) It has been observed that IE of the tested thiosemicarbazides increased with the increase in chain length up to C11. A further increase in chain length up to C17 has been found to decrease the IE.
+
+Conclusions
+The fatty acid thiosemicarbazides shows good performance as corrosion inhibitors in hydrochloric acid media. The order of inhibition efficiency (%) of thiosemicarbazides is UPTS > NPTS > PPTS > HPTS. All of the fatty acid thiosemicarbazides inhibit corrosion by adsorption mechanism and the adsorption of these compounds from acid solution follow Langmuir's adsorption isotherm.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+The Inhibition effiency increases with increasing inhibitor concentration, Inhibition effiency however did not change significantly with an increase in temperature and immersion time. The lower values of Heat of adsorption (Q) for these inhibitors shows physical nature of adsorption and lower values of Gads indicates that the inhibitors are physically adsorbed on the metal surface and negative value of Gads indicates the spontaneous adsorption of inhibitor on the surface of mild steel. Higher values of thermodynamic activation function (Eoa ) for inhibited system than those in the free acid solution except HPTS indicating that all inhibitors except HPTS are more effective at room temperature .The Eoa value for HPTS is less than those in free acid indicating that inhibitor exhibit high efficiency at elevated temperature . The value of Ho is more for all the inhibitors except HPTS indicating more energy barrier for the reaction in presence of inhibitor is attained .The lower value of Ho for HPTS indicates less energy barrier for the reaction in presence of the inhibitor is attained. The entropy of activation So in the absence and presence of the inhibitors are large and negative. This indicates that the activated complex in the rate determining step represents an association rather than a dissociation step. All the compounds examined acted as mixed inhibitors in HCl. Scanning electron microscopy studies shows that inhibitors prevent corrosion by adsorption on the metal surface.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+References: 1. Abd-El-Nabey, B. A.; Khamis, E.; Ramadan, M. S.; El-Gindy, A.; Corrosion , 52, 671 (1996) 2. Raman, A.; Labine, P.; Reviews on corros Inhib Sci Tech NACE International Houston, 2, 1 (1996) 3. Schmitt, G.; Br. Corros. J., 19, 165 (1984) 4. Quraishi, M. A.; Khan, M. A. W.; Ajmal, M.; Anti-Corros.Methods Mater, 43, 5 (1996) 5. Muralidharan, S.; Iyer, S. V.; Anti-Corros.Methods Mater, 44, 100 (1997) 6. Al-Andis, N.; Khamis, E.; Al-Mayouf, A.; AboulEnicm, H.; Corros. Prev Control, 42, 13 (1995) 7. Hammouti, B.; Aouniti, A.; Taleb, M.; Brighli, M.; Kertit, S.; Corrosion, 51, 441 (1995) 8. Quraishi, M. A.; Jamal, D.; Anti-Corros.Methods Mater, 47, 233 (2000) 9. Quraishi, M. A.; Jamal, D.; and Singh, R.; Corrosion, 58, 201 (2002) 10.Quraishi, M. A.; Ansari, F.; J.Am.Oil.Chem.Soc, 80, 7 (2003) 11. Quraishi, M. A.; Jamal, D.; Corrosion, 56, 156 (2000) 12. Quraishi, M. A.; Jamal, D.; Corrosion, 56, 983 (2000) 13. Quraishi, M. A.; Jamal, D.; Saeed, M. T.; J. Am. Oil. Chem.Soc, 77, 265 (2000) 14. Quraishi, M. A.; Jamal, D.; J.Am.Oil.Chem.Soc, 77,1107 (2000) 15 Quraishi, M. A.; Jamal, D.; Anti-Corros.Methods Mater, 47, 77 (2000) 16. ASTM, `Metal Corrosion, Erosion and Wear' Annual Book of ASTM Standards, 0.3.02 G1-72 (1987) 17. ASTM, Standard Practice for Laboratory Immersion Corrosion Testing of Metals, Annual Book of Standards, G 31-72, 3.02 (1990) 18. Jha, L. J.; Ph.D Thesis "Studies of the Adsorption of amide derivative during acid during acid corrosion of pure iron & its characterization" 1990 111 19. Christopher, M. A. B.; Isabel, A. R. G.; and Jenny, P. S. M.; Corros.Sci, 36, 15 (1994)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+20. Breslin, C. B.; Carrol, W. M.; Corros. Sci, 34, 327 (1993) 21. Khedr, M. G. A.; Lashien, M. S.; Corros. Sci, 33, 137 (1992) 22. Puilova, I. N.; Balzin, S.A.; and Branik, U. P; "Mettalic corrosion inhibitors" Pergamon Press New york, 1960, 31. 23. Abd El Rehim, S. S.; Hassan, H. H.; and Amin, M. A.; Mat. Chem .Phys. 70, 64 (2001) 24. Gomma, M. K.; Wahdan, M. H., Mater. Chem. Phys., 39, 209 (1995) 25. Schorr, M.; Yahalom, J.; Corros. Sci, 12, 867 (1972) 26. Brinic, S.; Grubac, Z.; Babic, R.; and Metikos-Hukovic, M.; 8th Eur Sump Corros Inhib, Ferrara 27. Gomma, G. K.; Wahdan, M. H.; Ind. J. Chem. Technol, 2, 107 (1995) 28. Quraishi, M. A.; Khan, , M. A. W.; Ajmal, M.; Muralidharan, S.; and Iyer, S.V.; Br. Corros. J, 32, 72 (1997)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+Table 1 Name and molecular structures of the compounds used
+
+O
+
+S
+
+R-C-NH-NH-C-NH
+
+S. No
+
+Structure
+
+Designation & Abbreviation
+
+1.
+
+R = CH3 (CH2 )10
+
+2-Undecane-4-Phenyl thiosemicarbazide
+
+(UPTS)
+2-Pentadecane-4-Phenyl thiosemicarbazide
+
+2.
+
+R = CH3 (CH2 )14
+
+(PPTS)
+2-Heptatadecane-4-Phenyl
+
+3.
+
+R = CH3 (CH2 )16
+
+thiosemicarbazide (HPTS)
+2- Nonane -4-Phenyl thiosemicarbazide
+
+4.
+
+R = CH3 (CH2 )8
+
+(NPTS)
+
+IR Spectral data (significant bands max in cm-1 (KBr))
+UPTS = 3280 (N - N), 2875 (CH3), 2820 (CH2 chain), 1618 (C = O), 1450 (C6H5), 1290 (Ar C - N), 1152 (C - N), 1020 (C - S).
+
+NMR spectral data ( CDCl3)
+UPTS = 1.38 (12 H, (CH2)6), 2.12 (2H, = CH - CH2), 2.38 (2H, COCH2), 4.92 (1H, N H), 5.19 (2H, CH2 = CH -), 5.97 (1 H, CH2 - CH - ), 7.59 (5 H, C6H5), 9.18 (2H, NH NH), 9.52 (1 H, HN - C6H5).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+Table 2 Corrosion parameters for mild steel in 1N HCl in absence and presence of different concentrations of various inhibitors from weight loss measurement at 30 oC for 3 h.
+
+Inhibitor conc
+
+Weight loss
+
+(ppm) HCl UPTS 100 200 300 400 500 NPTS 100 200 300 400 500 PPTS 100 200 300 400 500 HPTS 100 200 300 400 500
+
+(mg)
+
+IE (%)
+
+CR
+
+(mmpy)
+
+63.57
+
+-
+
+23.62
+
+21.5 13.7 7.9 4.3 0.2
+
+66.11 78.35 87.44 93.12 96.65
+
+8.00 5.11 2.96 1.62 0.75
+
+23.5 17.0 9.2 4.8 3.0
+
+62.99 73.12 85.36 92.07 95.15
+
+8.74 6.34 3.45 1.82 1.14
+
+24.9 18.3 10.2 6.2 3.7
+
+60.67 71.12 83.85 90.12 94.02
+
+9.28 6.82 3.81 2.33 1.41
+
+26.6 19.2 12.5 6.8 4.4
+
+58.31 69.72 80.21 89.23 92.99
+
+9.84 7.15 4.67 2.54 1.65
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+Table 3 Thermodynamic activation parameters for mild steel in 1 HCl in absence and presence of inhibitors of 500 ppm concentration.
+Inhibitors (500ppm) Ea (KJ mol-1) H (KJ mol-1) -S (J mol/K-1) -Gad (KJ mol-1) -Q (KJ mol-1)
+
+Blank UPTS NPTS PPTS HPTS
+
+49.15 75.23 68.10 58.32 42.00
+
+51.79 77.88 70.72 60.95 44.65
+
+159.31 198.56 196.07 195.31 192.43
+
+-
+
+-
+
+39.75 39.47 38.88 36.93
+
+28.72 26.48 19.78 14.87
+
+Table 4 Electrochemical polarization parameters for the corrosion of mild steel in 1N HCl containing 500 ppm inhibitors at 30 oC.
+
+Inhibitor conc (ppm) HCl UPTS NPTS PPTS HPTS
+
+Ecorr (mV) -495 -497 -508 -493 -495
+
+Icorr (mAcm-2) 0.360 0.025 0.072 0.082 0.100
+
+IE (%) 94.44 80.12 77.07 72.05
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+CAPTION FOR FIGURES
+
+Fig 1- Variation of inhibition efficiency with inhibitor concentration for 10-100 ppm concentration of inhibitors (,UPTS; , NPTS ; , PPTS; ,HPTS). Fig 2- Variation of inhibition efficiency with solution temperature in 1N hydrochloric acid for 100 ppm concentration of inhibitors (,UPTS; , NPTS ; , PPTS; ,HPTS ). Fig 3- Variation of inhibition efficiency with immersion time in 1N hydrochloric acid for 100 ppm concentration of inhibitors (,UPTS; , NPTS ; , PPTS; ,HPTS). Fig 4- Langmuir s adsorption isotherm plots for the adsorption of various inhibitors in 1N hydrochloric acid on the surface of mild steel (,UPTS; , NPTS ; , PPTS; ,HPTS). Fig 5- Adsorption isotherm plot for log ( /1- ) versus 1/T(,UPTS; ,NPTS ; , PPTS; ,HPTS). Fig 6- Adsorption isotherm plot for log (CR) versus 1/T(,UPTS; , NPTS ; , PPTS; ,HPTS). Fig 7- Adsorption isotherm plot for log (CR/T) versus 1/T(,UPTS; , NPTS ; , PPTS; ,HPTS). Fig 8- Potentiodynamic polarization curves of mild steel in 1N hydrochloric acid containing 100 ppm concentrations of various thiosemicarbazides (1) Blank (2)HPTS (3) PPTS (4) NPTS (5) UPTS.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 3
+
+4 July 2006
+
+(a)
+
+(b)
+
+(c)
+Fig 9 Scanning electron micrographs for mild steel surface in absence and presence of inhibitors (a) mild steel in 1N HCl (b) polished mild steel and (c) mild steel in presence of MBCT.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

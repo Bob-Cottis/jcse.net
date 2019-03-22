@@ -1,0 +1,114 @@
+Volume 6 Paper H025 BORO-ALUMINIDE COATINGS FOR PROTECTION AGAINST HIGH TEMPERATURE STEAM OXIDATION
+
+N. E. MARAGOUDAKIS1, S. D. TSIPA1, G.STERGIOUDIS2, H.OMAR 1, D. N. TSIPAS1* 1 Laboratory of Physical Metallurgy, Mechanical Engineering Department, Aristotle University of Thessaloniki, 54006- Thessaloniki, Greece 2 Applied Physics Laboratory, Physics Department, Aristotle University of Thessaloniki, 54006- Thessaloniki, Greece *Corresponding author: Prof. D.N. Tsipas, Tel. 2310-996013, Fax: 2310- 996069, email : tsipas@eng.auth.gr Abstract A low carbon and a low-alloy steel, were borided and boro-aluminized by a pack cementation method, and subjected to steam oxidation testing at 650 oC for 168hrs. Boriding did not significantly affect the oxidation properties of the two types of steel substrates studied, as they behaved in a similar way with the uncoated materials. On the other hand boro-aluminizing treatment, which was applied on the same substrates, results in the formation of a thermodynamically stable oxide, which protects the specimens, increasing their resistance to steam oxidation. SEM ­ analysis and X-ray measurements revealed that the protective oxide-scale consisted of Al2O3, resting on an Fe2B layer. Keywords: Pack Cementation Boriding, Boro-aluminizing Corrosion and Steam Oxidation Resistance. Introduction Materials operating at high temperatures and aggressive environments in applications, such as boilers, fuel cell etc., undergo degradation due to oxidation and corrosion. Surface engineering plays an important role in the protection of materials operating in such conditions. To improve oxidation resistance, alloys are coated and thin protective scales are formed during exposure to an oxidizing atmosphere [1,2]. The primary aim of the surface treatment is to produce a stable surface oxide, which acts as a barrier between the alloy and the environment. In an oxidizing environment a coating containing Al produces a thin protective layer of ­ Al2O3 scale [3-5]. This layer of Al2O3 is supposed to block the rapid oxygen ingress, which would otherwise cause the oxidation of the substrate [7]. It is known that borides do not exhibit protective scale formation in pure oxygen or air at high temperatures, while they show an excellent behaviour at reduced oxygen
+
+2 partial pressures [6, 8-12]; in this paper we applied a boro­aluminizing treatment in an effort to achieve improvement of oxidation behaviour in a steam environment. The coatings we aim at have to exhibit good adherence, stable microstructure compatible thermal expansion coefficient between the substrate and the coating and they must exhibit improved behaviour to steam oxidation for long periods of time, at temperatures 650oC. Experimental procedure The base materials used in all the experiments were the following: Low Carbon Steel (LCS) with US37-1 nomination, coated with B or B-Al Low Alloy Steel 2.25Cr-Mo (LAS), coated with B or B-Al INOX 304 Steel used as a reference material The chemical compositions of the steel substrates that were used in Steam oxidation are listed in Table 1. Table 1. Chemical composition of the steel substrates, which were, used in steam oxidation experiments.
+Chemical Composition (wt%) of tested alloys LCS Low Carbon Steel US 37-1
+C Cr Mn Mo Si N P S Ni Cu Al W V Pb 0.02 0.008 0.10 0.02 0.11 0.3 0.07 0.06 0.05 0.2 0.2 0.15 2.25 0.43 1.0 0.4 0.15 0.035 0.03 9.0 0.08 19.0 2.0
+
+LAS 2.25Cr-Mo INOX 304
+
+Boriding and aluminizing processes were performed by means of Pack Cementation
+
+2
+
+3
+
+Figure 1. Schematic diagram of the apparatus used in the steam oxidation test. 1) Entry of deionised water, 2) Evaporator, 3) Control Systmes, 4) Heated Line, 5) Test Furnace, 6) Specimen, 7) Thermocouples, 8) Gas Exit. method at 9500C. Details of the coating procedure and the morphology of obtained coatings have been reported elsewhere [13,14]. The boro-aluminized low alloy steel surface consisted of a layer of about 80µm thickness. Three distinct regions were identified on cross-sections of boro-aluminized steel. These are (a) a surface layer consisting mainly of an Al rich compound, (b) a transition region that contains Al and Fe and (c) the inner Fe2B region. Coatings were characterized by very good adherence. From X-ray analysis it was concluded that the three distinct regions of the coating were and Fe2B phase layer internally, an almost pure layer that was mostly Al2O3 on the outside and a mixed (Al2O3+FexAly+Fe2B) transition zone. The oxidation of diffused Al to form Al2O3 is due to the presence of O2 in the furnace atmosphere. In some regions, small amounts of carbon were also observed in the layer due to decarburisation of the substrate material. These observations were confirmed by the EDS analysis and it was clearly shown that aluminum mainly occupied the upper region of the sample to an average depth of about 20µm. A small amount of aluminum had diffused to the transition zone and no traces of it were detected in the inner region where the Fe2B phase dominated. Cr was observed to be as a solid solution to the iron structure. The steam oxidation testing was carried out in a three-zone furnace (Fig.1), under a 50% argon/steam atmosphere details of which have been described previously [15] and lasted for a total of 168 hours. During testing the temperature was kept constant at 6500C. The samples were inserted into the furnace at ambient temperature. Then the temperature was slowly raised at approximately 50C/min. Until the desired temperature for the test was reached, argon was introduced directly to the furnace. The steam was preheated before being introduced into the furnace. The temperature of the test furnace was controlled and accurately measured by thermocouples that were placed inside the furnace. At planned regular intervals the steam flow was cut and the samples were cooled down slowly to ambient temperature again in the presence of argon. The specimens were then taken out of the furnace and weighted. Some of them were removed in order to perform metallographic evaluation, while the rest were reintroduced into the furnace for another oxidation cycle. Results and discussion Figures 2a and 2b show the steam oxidation of uncoated, borided and boro-aluminized LCS and LAS samples correspondingly, as a function of the oxidation time. The weight changes of the borided samples are significant and comparable to those of the
+
+3
+
+4 uncoated materials, while boro-aluminized specimens in all cases, exhibited better oxidationbehaviour. INOX specimens were included to the experiments for comparison purposes.
+
+STEAM OXIDATION
+weight change (mg/cm2) 5 4 3 2 1 0 0 50 100 Hours 150 200
+unc M(B) M(B-Al) Inox 304
+
+Figure 2a. Weight changes of various coated and uncoated Low Carbon Steel during exposure to a steam oxidation process. Uncoated materials are indicated in this figure as (Munc), borided as (MB) and boro-aluminized as (MB-Al).
+STEAM OXIDATION
+weight change (mg/cm2) 3 2.5 2 1.5 1 0.5 0 0 50 100 Hours 150 200
+2.25CrMo(unc ) 2.25CrMo(B) 2.25CrMo(BAl) Inox 304
+
+Figure 2b. Weight changes of various coated and uncoated Low Alloy Steels during exposure to a steam oxidation process. Uncoated materials are indicated as (2.25 Cr-Mounc), borided as (2.25 Cr-MoB) and boro-aluminized as (2.25 CrMoB-Al). A comparison of the weight changes of the coated Low Alloy Steel and Low Carbon Steel reveals that LAS specimens (Figure 2c) showed a better resistance to steam oxidation than those of LCS. Experiments proved that the boro-aluminized LAS behaved in a similar way to INOX 304.
+
+4
+
+5
+
+STEAM OXIDATION 4 3.5 3 2.5 2 1.5 1 0.5 0 0 50 100 Hours 150 200
+weight change (mg/cm2)
+
+M(B) 2.25Cr-Mo(B) M(B-Al) 2.25Cr-Mo(B-Al) Inox 304
+
+Figure 2c. Comparison of the weight changes of the coated Low Alloy Steel (LAS) Low Carbon Steel (LCS). It shows that LAS had a better resistance to steam oxidation than that of LCS. The boro-aluminized LAS coatings behaved in a similar way with the INOX 304. After expoxure to steam for 168 hrs X-rays (Fig. 3a) revealed the existence of Al2O3 on the surface of a boro-aluminized 2,25Cr-1Mo-Steel. This Al2O3 layer limits the growth of the undesirable iron oxides. Both X-rays measurements and SEM ­ analysis have shown that Al2O3 was the protective oxide in all the materials, which were boroaluminized. Qualitatively almost the same pattern appeared when the substrate was Low Carbon Steel. From Fig. 3b it was deduced that in the case of LCS substrate the protective scale was thinner than that of a LAS substrate thus reflections, which belong to the inner Fe2B phase, appeared. For the uncoated materials Fe2O3 was the predominant oxide scale detected together with some magnetite. It is obvious that the protective Al2O3 layer diminishes the weight changes of the materials during the steam oxidation experiments, indicating that boro-aluminizing treatment gives efficient protection to steels during steam oxidation. Regarding the role of iron boride layer, it seems that this layer, which is formed between substrate and Al2O3, is behaving as an oxygen barrier, promoting the growth of the thermodynamically stable Al2O3oxide-scale. SEM-analysis (Fig. 4) shows that oxygen did not diffuse in the bulk material. This observation confirms the assumption that the degree of the continuity of the protective oxide is very high and together with the presence of inner Fe2B layer e ffectively protect the substrate against steam oxidation at 650oC. It was shown that a boro-aluminizing coating improved the resistance to high temperature steam oxidation of LCS and LAS. Conclusions It was shown that a boro-aluminizing coating improved the resistance to high temperature steam oxidation of LCS and LAS. On the contrary simple boride coating did not prove as efficient in protecting the same steel for high temperature steam oxidation. This improvement is attributed to both the formation of Al2O3 layer and the existence at the substrate/Al2O3 interface of a Fe2B layer.
+
+5
+
+6
+
+3 3 2
+
+5 0 5 0 5 0 5
+
+0 0 0 0 0 0 0
+
+0 0 0 0 0 0 o 0 0 3 0 4 0 5 0 o
+
+o
+
+o
+
+o
+
++
+
+b
+o
+
+Y Axis Title
+
+2 1 1
+
+o
+
++
+
+b o
+b
+
+o
+
+o b o
+
+6
+
+0
+
+7
+
+0
+
+8
+
+0
+
+X
+
+a
+
+x
+
+is
+
+title
+
+Figure 3. X-ray Diffraction pattern taken from: a) A B-Al coated 2,25Cr-1Mo-Steel, after 168 h of steam oxidation (upper pattern). b) A B-Al coated Low Carbon Steel, after 168 h of steam oxidation (lower pattern). * Al2O3 phase is marked as o, and Fe2B phase is marked as b.
+
+Figure 4. SEM- dot mapping, of coated LAS showing that oxygen is limited in depth to about 10 µm, after a 168 h steam oxidation process. Acknowledgement The authors are greatfull to the E.U. for financial support to this work. 6
+
+7
+
+References 1. M. Brady, B. Gleeson, and J. Wright in "Oxidation, Hot Corrosion and Protection of Metallic Materials." Physical Metallurgy: fourth Edition, chapter 14. (R.W. Cahn and P. Hassen. Netherlands Elsevier Science 1996 ) 2. J. Smialek and J. Glenn in "Oxidation, Hot Corrosion and Protection of Metallic Materials." Physical Metallurgy: fourth Edition, chapter 14. (R.W. Cahn and P. Hassen. Netherlands Elsevier Science 1996). 3. P. Tamaszewiez, and G.R. Wallwork, Oxid. Metals, 20 (3/4) (1983) 75-109 4. J. K. Tien and F.S. Pettit, Metallic. Trans. 3(6) (1972) 1587-1599 5. F.A. Golighely, G.G. Wood and F. H. Scoce, Oxid. Metals, 14(3) (1980) 217235. 6. M. Brady, B. Gleeson, and J. Wright. Oxidation Resistance, January (2000) 16-21 7. E. A. Gulbransen and K. F. Andrew, Trans. Met. Soc. AIME, 221(12) (1961) 1247-1252. 8. A.K. Sinha, in "Boriding (Boronizing)", (ASM Hanbook Heat Treating ASM International, Materials Park, Ohio, Vol.4, 1991) p. 437-447 9. Alfred Grafvon Matuschka, in "Boronizing", Ed. Hanser-Heyden, Munich, 1980. 10. S.C. Singhal. Thin Solid films,41(1977) 321-329. 11. M. Carbucicchio, G. Meazz, and G. Palombarini. J. of Mat. Sci., 17 (1982). p. 3123-3128. 12. G. Palombarini., M. Carbucicchio. J. of Mat. Sci. Let., 3(1984)791-794. 13. N. Maragoudakis, G. Stergioudis,. H. Omar, E. Paulidou, and D. Tsipas. Materials letters 53 (2002) 406-410 14. D. Tsipas and J. Rus. J. of Mat. Sci. Let. 6(1987)118-120. 15. S. D. Tsipa, in "Evaluation of coatings against steam oxidation", Internal Report, Imperial College 1999
+
+7
+

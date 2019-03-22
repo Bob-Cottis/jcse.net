@@ -1,0 +1,291 @@
+Volume 6 Paper H014 Development of new corrosion resistant coatings based on chemical nanotechnology
+W. Fuerbeth, H.-Q. Nguyen, M. Schuetze
+
+Karl-Winnacker-Institut der DECHEMA e. V., Theodor-Heuss-Allee 25, D60486 Frankfurt am Main, Germany, fuerbeth@dechema.de
+
+Abstract
+Nanoparticles and nanostructured films have gained an increasing interest for industrial application in the last years. Based on chemical nanotechnology glass-like protective coatings thermally processed at comparatively lower temperatures around 500 °C were developed for metal substrates by two different ways. Starting from polymeric sols (suspension consisting of branched macromolecules) containing multicomponent oxide of the SiO2-B2O3-P2O5Na2O system produced by hydrolysis and polycondensation of an alkoxide mixture under acidic condition, thin, hard, transparent, crack-free and corrosion resistant coatings could be applied to aluminium and steel. Coatings from particulate sols (suspension consisting of solid particles) containing multicomponent oxide synthesized under basic condition by electrophoretic deposition (EPD) proved to be a promising method when very thick coatings are required. Both routes offer the potential of a new type of purely inorganic coatings for corrosion and abrasion protection. Keywords: coating, nanotechnology, sol-gel, corrosion protection
+
+1. Introduction
+Nanostructured silicon dioxide based ceramic coatings could offer high corrosion resistance as well as high abrasion resistance. However, a defectfree, transparent, inorganic glass-like protective coating for metals is not easy to achieve due to its poor fracture-mechanical properties and its high melting temperature, which may exceed the thermal stability of the metals. The last aspect is a particular issue for the light metals with a low melting point, e. g.
+
+-2aluminium alloys. Nanostructured ceramics have been establishing themselves as a modern generation of high performance materials in many areas. Their applicability ranges from optic, electronic, chemical and automotive engineering etc. to bioengineering owing to a vast array of unique properties. Among the properties of ceramic nano-powders the extremely high sintering activity and the significant improvement of ductility of bodies or coatings sintered from these powders are of great interest, so that based on the application of nano-scaled ceramic particles, there is a potential for a new class of protective coatings for metals. The tiny size of the nanoparticles produces an extraordinary high surface energy, an increased number of surface atoms and hence a short diffusion path way for atoms during thermal treatment. As a result the sinterability of nano-particles is kinetically enhanced compared to common micro-particles. minimum sintering temperature by investigating different sizes from submicron- to nano-sized powder particles [#ref1]. This property of nanoparticles allows coating procedures using thermal processing of nanoparticles in a lower temperature range, which is tolerable also for metal substrates of comparatively low melting temperature to be coated. Furthermore, based on new phenomena including effects on the deformation behaviour (grain boundary sliding and grain rotation) [#ref2], a tendency has been observed that compared to conventional coarse-grained relatives, materials in the nanocrystalline state show better mechanical and fracture mechanical characteristics, e. g. hardness, strength, plasticity and ductility [#ref3­16]. Several previous studies have also shown that the formation of a nanostructured surface layer significantly enhances corrosion resistance [#ref17­29]. By using silicon dioxide based hybrid organic-inorganic coatings, named
+
+Liu has found a logarithmic dependence between the particle size and the
+
+ORMOCER (organically modified ceramic) or ORMOSIL (organically modified silicate), already good corrosion resistance can be achieved. Such surface
+layers still have a certain organic character, however, the organic part of the matrix limits the thermal and mechanical stability in comparison to inorganic systems. Moreover, better barrier properties can be obtained by dense, purely inorganic layers. Starting from nanoparticles on the basis of silicon dioxide
+
+2
+
+-3doped with additives such as sodium oxide, boron oxide and phosphorus pentoxide the work presented here will show a new way to produce a protective coating for light metals and steels with high corrosion resistance and high thermal stability, as well as durably scratch resistant, transparent, decorative surface. The new coatings should be of great value for such industrial sectors as automotive industry, building industry etc., where the surface treatment will have to fulfil a protective as well as a decorative function. The effect of a low sintering temperature, caused by employing nano-sized particles, is reinforced by the addition of additives to obtain a low value for the softening temperature. Adding phosphorous atoms into the ­O-Si-O-network leads to an increased chemical resistance [#ref30]. The presence of sodium ions induces a change in the coordination number [BO3]  [BO4], which results an improved strength of the coating. The sodium oxide component in the silica matrix also increases concurrently the thermal expansion coefficient of the glass layer. An adaptation of the thermal expansion of the layer to the one of the substrate, in order to relieve stresses in the layer/substrate-interface, in addition to the formation of strong Si-O-Me-bonds should provide good coating adhesion. To accomplish the aim of a corrosion and abrasion resistant, dense and fully inorganic SiO2-based protective coating, two different methods have been developed. On the one hand a polymeric suspension consisting of
+
+multicomponent branched macromolecules on silica basis (polymeric sol) is used for the coating, on the other hand a colloidal suspension containing spherical solid oxide particles (particulate sol) is applied as a coating material. These precursor coatings are compacted and converted into a fully inorganic coating by a thermal treatment. Due to its inorganic character this kind of layer can be called a nano-enamel.
+
+2. Coatings from polymeric sols
+The first way we followed was the formation of coatings from polymeric sols obtained via sol-gel technology. This well known technology is based on the hydrolysis and polycondensation of alkoxides. It starts with a solution of the alkoxide in ethanole, which is prehydrolysed by the addition of a stoichiomet-
+
+3
+
+-4ric amount of water with an acid as a catalyst. In our investigations different silicon alkoxides (tetraethoxysilane TEOS, triethoxysilane TES, methyltriethoxysilane MTES and phenyl-triethoxysilane PTES) have been used separately or in combination. The molar ratio between water and alkoxide used was 1.5:1. The acidic catalyst used was hydrochloric acid, so that a pH of 2 could be adjusted. After some minutes of prehydrolysation of the silanes the additives (triethylborate TEB, sodium ethoxide SE and triethyl phosphate TEP as precursors for boron oxide, sodium oxide and phosphorus pentoxide, respectively), were added to the solution so that further hydrolysis and polycondensation took place. The resulting sol, which is a suspension of polymeric nanoparticles with a size below 10 nm, can be applied to the substrate surface by dipping, spraying or spin-coating. This step has to be carried out in an inert atmosphere (nitrogen) as boric acid may be formed by hydrolysis in humid air leading to some cloudiness of the coating. The resulting ,,green layer" is dried at 100°C for 8 hours forming a gel layer and can afterwards be condensed to a coating by a heat treatment at 200 to 600°C for several hours. By varying the temperature of the final heat treatment the character of the resulting coating may be adjusted between a hybrid organic-inorganic coating (at lower temperatures) or a purely inorganic coating (after treatment at higher temperatures).
+
+Figure 1:
+
+ferent substrates after heat treatment at 400 °C for 4 h Coatings were prepared from mixtures of tetraethoxysilane and additives. The resulting coatings are very transparent as shown in Fig. 1 which are coatings
+
+Transparent, inorganic multicomponent sol-gel coatings on dif-
+
+4
+
+-5made from TEOS + additives (10 mol-% boron oxide) on aluminum alloy (AlMg 5), carbon steel (QSt 36-3) and glass substrate, respectively. Due to the low viscosity of the sols coatings can be obtained with a thickness in the submicron range. The dried sol layers obviously have very low porosity as no oxidation of a steel substrate can be observed during the heat treatment at 400°C for 4 hours. The coatings are free of microcracks if they are kept below a certain critical thickness, which depends on the substrate. As the thermal expansion of aluminum is twice as high as that of steel, the critical coating thickness for aluminum is much lower than that for steel. Moreover it depends on the modification of the silane that is used as a precursor. If only TEOS, TEB, SE and TEP are used for the sol-gel procedure the resulting coating will be formed by a purely inorganic network with oxygen-bridges. Therefore the flexibility of such network is rather low, leading to a high crack sensitivity. The consequence is that the critical thickness that can be adjusted without cracking is only about 1 µm. In order to improve the critical thickness some modified trifunctional silanes, like triethoxysilane, methyltriethoxysilane or phenyl-triethoxysilane, have been used in mixture with the tetrafunctional silane. The non-hydrolisable groups in these molecules become part of the gel network and should therefore make it strain tolerant. By this modification of the process the critical coating thickness was improved. By using methyltriethoxysilane instead of tetraethoxysilane, for example, the critical film thickness for aluminum increases from 0.4 to 2 µm. It could be shown that the non-hydrolisable groups are stable up to a temperature of about 400°C. However, at higher temperatures during the heat treatment the carbon based ligands may decompose leading to some coking of the layer. This may be avoided by using hydrogen atoms as non-hydrolisable groups.
+
+Microhardness measurements were carried out with free-standing plates of the coating materials of 1 mm thickness produced from the sols as described above. Figure 2 exhibits the microhardness as a function of temperature of the heat-treatment for two different coatings, one based on tetraethoxysilane, the other one based on a triethoxysilane/tetraethoxysilane mixture. The hardness increases with increasing densification temperature. While the maximum hardness is higher for the tetrafunctional silane, densification is starting earlier for
+
+5
+
+-6the modified coating. At 500°C the hardness of the coating based on the mixture is much higher than the one of the steel substrate itself.
+
+Figure 2:
+
+Micro-hardness of the free-standing coating material as a func-
+
+tion of sintering temperature and type of precursor (4 h heat-treatment) a. Pure Tetraethoxysilane (TEOS) b. 90 vol.% TEOS + 10 vol.% Triethoxysilane (TES ) Corrosion stability of the coatings has been tested by delamination experiments starting from an artificial defect with 0.5 M sodium chloride as an electrolyte. Corrosion potentials have been measured by using a Scanning Kelvinprobe. The delamination front can be observed as a very sharp potential gradient (Fig. 3). Delamination kinetics of a sol-gel coating have been compared with a commercial organic primer typically used for rubber lining systems as shown in Fig. 4. Delamination of the new sol-gel coatings occurs more slowly than the commercial primer. Obviously the adhesion to the substrate is quite good and corrosion protection is achieved. Evaluation of electrochemical impedance spectroscopy of the intact sol-gel-coating leads to a dielectric constant of 5.6, which is similar to technical glasses.
+
+6
+
+-7-
+
+400
+
+0
+
+5 4 3 2 1 0 -2 0 2 4 6 8
+
+-200
+
+-400
+
+x / mm
+
+400
+
+0
+
+5 4 3 2 1 0 -2 0 2 4 6 8
+
+-200
+
+-400
+
+x / mm
+
+400
+
+200
+
+0
+
+5 4 3 2 1 0 -2 0 2 4 6 8
+
+-200
+
+-400
+
+x / mm
+
+7
+
+U / mV(SHE)
+
+311 h
+
+U / mV(SHE)
+
+69 h
+
+200
+
+U / mV(SHE)
+
+1h
+
+200
+
+-8Figure 3: Delamination experiments of sol-gel coating by using a Scanning
+
+Kelvinprobe: sharp potential gradients reflect the delamination front of 0.5 M sodium chloride
+
+8 7 6 5
+
+SiO2-Sol Primer
+
+x/mm
+
+4 3 2 1 0 0 50 100 150 200 250 300 350
+
+Time/h
+
+Figure 4:
+
+Comparison of delamination kinetics of a sol-gel coating and a
+
+commercial organic primer on steel (Scanning Kelvinprobe measurements starting from an artificial defect in 0,5 M NaCl)
+
+3. Coatings from particulate sols
+In the first method which was described above the protective layer is obtained by cross-linking of branched oxide macromolecules forming a threedimensional network of a solid oxide phase and nanopores containing fluid phase. The resulting high capillarity induced by the solvent removal in the densification stage limits the maximum crack-free thickness of inorganic coatings. In contrast to polymeric sols the particulate sols consist of dense oxide particles, which may be alternatively employed to produce thicker coatings. First of all, to verify the feasibility of the coating process, several series of commercially available nanosilica products with the brandnames Aerosil,
+
+Carbosil, Insusil, Ludox, Levasil provided by different suppliers were
+
+8
+
+-9investigated. These products are nearly pure silicon dioxide with different particle sizes. However, only a wet-chemical shaping method can supply a homogeneous distribution of additives if they are separately doped to the pure silica particles. In this case, solutions of dissolvable compounds of boron, sodium and phosphorus (boric acid, sodium tetraborate, sodium metaphosphate) were used as additives to a nanosilica suspension. Afterwards, the obtained suspension was electrostatically stabilized and then stirred with a high speed dispergator (U-Turrax T50, IKA). After a further homogenizing process in an ultrasonic disintegrator (Sonorex RK 103 H, Bandelin) airbubbles can be eliminated via an evacuation box (Epovac, Struers). The final dispersion is ready for coating onto the substrate by dipping or spinning, or also for the formation of shaped bodies, which were used to examine the sintering kinetics by a dilatometer (L75/1550, Linseis). Specimens for dilatometric measurements were fabricated following the gelcasting process, in which a soluble monomer (acrylamide) is added to the nano-silica suspension [#ref31].
+
+a. Pure Aerosil of different particle sizes
+
+9
+
+- 10 -
+
+b. Sodium oxide doped Aerosil 300 ( 7 nm) Figure 5: Sintering behaviour of Aerosil SiO2 nanopowders
+
+Representatively, the sintering behavior of the Aerosil particle series sized from 20 nm down to 12 nm is documented in figure 5. With decreasing particle size, the softening point moves to lower temperatures. Accordingly, Further reduction of the sintering temperature can be achieved already by
+
+from Aerosil 90 to Aerosil 200 the sintering curves move to the left in Fig. 5a. dosing small quantities of a sintering additive, e.g. sodium oxide (Fig. 5b).
+
+Sintering starts at about 1000 °C if pure Aerosil 300 sized 7 nm is applied, at about 850 °C if only 0,8 wt% sodium oxide is added, and a content of 10 wt% leads to an even earlier beginning of sintering at about 550 °C. Coating thickness produced by dipping is controlled by the withdrawal rate of the specimen from the solution. A hydraulic apparatus built at our institute allows exact adjustment of the withdrawal speed up to 1 cm/min. Considering also 5 and 25 microns. The nanostructure of the surface layer can be maintained after thermal processing, as the surface profile recorded via AFM (atomic force microscopy) shows (Fig. 6). Mechanical coating methods like spin- or dipcoating need highly concentrated suspensions, which should at the same time have a low viscosity. This condition is required to guarantee a high density of the "green" layers, which are the layers before densification. Affinity to hydrogen bridging) between particles is a great problem for colloidal agglomerate or to gelate because of strong interactions (Van der Waals forces, the suspension viscosity, the total coating thickness can be adjusted between
+
+processing. The solid particle content in the suspension is limited due to its
+
+10
+
+- 11 increasing viscosity. Therefore, obtaining dense coatings after heat-treatment (without cracks and interagglomerate pores) is difficult.
+
+Figure 6:
+
+Surface structure of a sintered layer of Aerosil + additives (10
+
+mol% B2O3 + 5 mol% Na2O) after densification at 550 °C for 4 h in air In order to bypass the required high content of solid phase in the suspension, spherical multicomponent oxide particles produced by the sol-gel technique were electrophoretically deposited onto the metal substrates. Depending on the pH of the suspension the particles carry surface charges (formation of double layer), characterized by their Zeta potential. Under the influence of an electric field the charged particles migrate through the stable colloid suspension towards the substrate (oppositely charged electrode) and coagulate on the substrate surface forming a dense layer (Fig. 7). The concentration of particles in the suspension here may be as low as 1- 5 wt% still obtaining a dense coating.
+
+11
+
+- 12 -
+
+Figure 7:
+
+Principle of electrophoretic deposition (EPD) of nano-scaled silica
+
+The multicomponent oxide particles applied by electrophoretic deposition (EPD) were synthesized from alkoxides similarly to the formation of polymeric sols described above. Tetraethoxysilane TEOS, triethyl borate TEB, sodium ethoxide SE and triethyl phosphate TEP were used as precursors for silicon dioxide, boron oxide, sodium oxide and phosphorus pentoxide, respectively. Instead of an acidic catalysis used for the synthesis of polymeric sols the formation of particulate sols took place under basic conditions. Additives were directly doped to the silica matrix by hydrolysis and polycondensation reactions. A mixture of about 17 vol.-% alkoxides and 83 vol.-% ethanol was homogenized by 15 minutes of ultrasonic treatment and filled afterwards into a dropping funnel as illustrated in figure 8, which is connected to a four-necks flask containing ethanol, water and 25% ammonium hydroxide solution in a volume ratio of 100 : 20 : 5.
+
+12
+
+- 13 -
+
+Figure 8:
+
+Schematic of the set-up for the synthesis of nanoparticles
+
+The flow-control valve controls the dosing rate of the precursor mixture into the ethanol/water/ammonia solution which is continuously stirred during the whole course of the synthesis. The reactions proceed under ambient nitrogen atmosphere to avoid inhomogeneous deposition of a boric acid phase. The resulting sol has an oxide content of about 22 g/l and can be separated from the fluid phase and repeatedly washed with distilled water by high speed centrifugation. After drying the contamination free powder is stored at 40 °C for later investigations and EPD application. The monomodal, spherical agglomerate. particles shown in figure 9 are monodispersed and have a very low tendency to
+
+13
+
+- 14 -
+
+a. about 12 nm
+
+b. about 50 nm
+
+c. about 145 nm
+
+d. commercialized silica (Aerosil OX 50)
+
+Figure 9:
+
+Morphology of multicomponent oxide particles produced by sol-
+
+gel processing Defined particle sizes can be controlled by variation of the precursor dosing rate. Up to a limit of 15 sec./drop the dosing rate/particle size dependence becomes less. In the progress of this research a digital dosing system which allows automatic regulation of the precursor adding rate in defined unit (ml/sec.) will be used in place of the dropping funnel. Cooling of the ethanol/water/ammonia mixture also leads to a smaller particle size. The FTIR-spectra of the dried powder (ternary Si/B/P-oxide system) in the
+
+14
+
+- 15 examined wavemumbers range between 400 ­ 2000 cm-1 by the KBr-disk standard method are reported in Fig. 10. Assignments of the main absorption band characteristics are compared to results of earlier investigations [#ref32 ­ 35]. The most intensive band observed around 1100 cm-1 belongs to a stretching vibration combination of the P-O-P and P-O-Si bridging units, the band at 1325 cm-1 is caused by a stretching vibration of P=O groups [#ref32], the shoulder situated around 1200 cm-1 exhibits the asymmetric stretching of Si-O bonds [#ref35], deformation vibration of O-Si-O bonds appears at 460 deformation vibration, a clearly noticeable band at 1400 cm-1 exhibits the BO stretching, the peak at 950 cm-1 is related to the Si-OH stretching and a indicates the presence of water still remaining in the KBr-sample. It is interesting to find a peak at 780 cm-1 which does not occur in the case of binary systems (e.g. SiO2-P2O5 or SiO2-B2O3 only). This band may be caused by the B-O-P bond. However, it has been shown that the particles from the ternary system tested above consist of a mixed matrix, the network of which is built by [SiO4]-, [PO4]-tetrahedrons and [BO3]-trihedrons. The [PO4]tetrahedron is characterized by three single oxygen bridging bonds and a double bond to the phosphorous atom. With the further addition of sodium ions into the network (planned for experiments in the near future) the appearance of [BO4]-tetrahedrons is to be expected. band at 1630 cm-1 corresponding to the H-O-H deformation vibration cm-1, a less intensive band observed at 670 cm-1 is assigned to the Si-O-B
+
+15
+
+- 16 -
+
+Transmittance
+
+Si-O-B H-O-H P=O Si-OH B-O P-O-P P-O-Si Si-O O-Si-O P-O-B
+
+2000
+
+1800
+
+1600
+
+1400
+
+1200
+
+1000
+-1
+
+800
+
+600
+
+400
+
+Wavenumber [cm ]
+Figure 10: FTIR-spectra of multicomponent oxide synthesized by sol-gel processing In contrast to the tests with the commercially available nano oxides, all specimens for dilatometric experiments of the multicomponent oxide particles were shaped by EPD to guarantee the reproducibility of measuring results, which actually should reflect the sintering behaviour of the coatings (also the coatings were produced by EPD). Therefore a double cell was constructed for EPD on a membrane similar to what has been described in [#ref36 ­ 38]. The separate sections connected by a dialysis membrane, which is a cellulose based sheet and has selective porosity. The very small pore size of 30 ­ 35 Angstrom prevents particle movement from the suspension compartment to the electrolyte compartment, but it does not block the ion migration. Therefore due to the application of a dc voltage solid particles move towards the membrane and are deposited on it, provided, the electrode in the electrolyte section is reversely poled against the particle charge. Preparation of an aqueous suspension of multicomponent oxide particles is carefully performed in the same manner as described already for commercially available nano silica. Ammonia solution is added to the suspension to provide a final pH of 10 ­ 11. At this pH the suspension is stable, its solid content is about 10 cell used for the formation of a free standing, planar green body is built of two
+
+16
+
+- 17 wt% and the nanoparticles are negatively charged. Equal pH is applied for the electrolyte. CrNi-steel sheets of 40 × 40 mm have been used as electrodes. The distance between the electrode in the suspension section and the membrane was 40 mm, the electrode in the electrolyte section was placed 10 mm away from the membrane. The shaping process started under a constant voltage of 40 V. After a deposition time of 10 min and removement of the fluid phase in the cell, the deposited compact can be memoved from the membrane, then dried at 150 °C and used for the dilatometry experiment. By this way the softening point of the nanoparticles could be measured as being at a temperature of 700 °C (Fig. 11) and the samples were sintered to transparent plates.
+
+Figure 11: Sintering behaviour of spherical multicomponent nanoparticles For direct deposition onto metal substrates instead of the "double" cell a "single" cell is positioned. Considering this situation, an aqueous medium is not suitable for direct EPD, as decomposition of water by hydrolysis and the involving gas formation in front of the electrode surface disturb the continuous deposition process and lead to some inhomogeneity in the layer. As a consequence an ethanol/water mixture (10 ml water in 100 ml sol) is needed as a dispersing agent. Then in combination with EPD under lower voltage the formation of gas bubbles can be avoided. A suspension of 2 wt% of oxide parti-
+
+17
+
+- 18 cles with a pH of 10, corresponding to a Zeta potential of ­ 30 mV, is prepared for anodic deposition (also cathodic deposition will be performed in the progress of this project). A little amount of polydiethoxysiloxane (PDES) is added to improve the interparticulate adhesion in order to decrease cracking sensibility. 15 × 20 mm steel substrates (X5CrNi18 9) act as an anode, a platinum net (30 × 30 mm) is connected as a counter-electrode. A coating thickness up to 40 µm can easily be adjusted by varying the applied voltage (4 ­ 20 V) or deposition time (1 ­ 10 min.). When the dc voltage is kept constant a reciprocally logarithmic current density/time relation is observed which describes the deposition kinetics of the oxide particles. This phenomenon may be explained by a potential drop at the substrate surface/electrolyte interface due to the deposited layer. On the one hand, the potential drop indicates that the deposition rate slows down steadily with time, on the other hand, it reveals a high density of the deposited layer. In any case, AFM-scans show, that the particles are located side by side in a dense packing after EPD (Fig. 12).
+
+Figure 12: Dense particle packing after drying at 150 °C of a 30 µm thick coating of multicomponent nanparticles applied by EPD on CrNi-steel Crack-free coatings up to a critical thickness of 30 µm after heat treatment up to 400 °C can be obtained by particle surface modification with polydiethoxysilane PDES (Fig. 13). The effect obtained by adding PDES has been investigated by TEM (transmission electron microscopy). A thin cloud with a
+
+18
+
+- 19 polymeric structure surrounds the particle surface. This polymeric cloud may consist of a branched silica network formed by splitting-off of the ethoxy groups from PDES in the presence of water. However, fully sintered coatings (700 °C, 4 h) still have some micro-cracks as a result of shrinkage and substrate expansion. Further optimization as mentioned already above (sodium doping, particle surface modification etc.) will be performed to suppress crack formation totally. In spite of the cracking an excellent wear resistance in abrasion tests by grinding with 14 µm silicon carbide grain paper was observed.
+
+a. without PDES
+
+b. with PDES
+
+Figure 13: Effect of surface modification with polydiethoxysiloxane (PDES): the modified coating with a thickness of 30 µm is crack free after heat treatment at 400 °C for 4 h
+
+Summary and outlook
+Novel coatings based on submicron-scaled multicomponent oxides were developed and tested on different substrates. Purely inorganic, transparent protective coatings may be obtained in a thermal densification process at rather lower temperatures using polymeric sols as well as particulate sols. In any case a good adherence is observed. Flexibility of the oxide network and hardness of the coatings produced by mechanical dipping from polymeric sols have to be controlled by using
+
+19
+
+- 20 adequate precursors in order to avoid cracking of the coating during heattreatment. Addition of triethoxysilane to the tetraethoxysilane/ethanol mixture increases the critical coating thickness without leading to a carbon residue after treatment at higher temperatures. This is an improvement to the silica based hybrid organic-inorganic sol-gel coatings used so far. The resulting coatings are quite hard, transparent, crack-free and have a good resistance towards delamination. Coating formation from particulate sols by electrophoretic deposition is a promising method if rather thick coatings are required. Coating properties can well be adjusted by the synthesis and modification of nanoparticles. Moreover commercially available silicon dioxide nanoparticles could be covered with a thin hull of multicomponent oxides. Further development and optimization should provide a significantly lower softening point of spherical particles around 500 °C and suppress crack formation totally.
+
+Acknowledgements
+The financial support of this study by the Bundesministerium für Wirtschaft und Technologie (BMWi) via the Arbeitsgemeinschaft industrieller Forschungsvereinigungen e.V. (AiF) under contract no. 5 ZN ZUTECH is gratefully acknowledged by the authors. Thanks are also due to Degussa AG
+
+and FEW Chemicals GmbH for their technical support of these investigations. The authors would like to thank Bayer AG, Vinings Industries, CABOT GmbH,
+
+providing their nano-products.
+
+Nyacol Nano Technologies, Inc., Grace Davison and FUSO Chemical Co.,Ltd. for
+
+References
+#ref1 D. M. Liu: J. Mater. Sci. Letters , 17 (1998), 467. #ref2 R. W. Siegel: Mater. Sci. Forum 235-238 (1997), 851. #ref3 J. R. Weertman, D. Farkas: MRS Bulletin 24 (1999), 44. #ref4 H. Kung, T. Foecke: MRS Bulletin 24 (1999), 14. #ref5 C. C. Koch, D. G. Morris, K. Lu and A. Inoue: MRS Bulletin 24 (1999), 54. #ref6 A. J. A. Winnubst, M. M. R. Boutz: Ceram. Inter. 23 (1997), 215. #ref7 P. M. Anderson, T. Foecke and P. M. Hazzledine: MRS Bulletin 24(1999), 27.
+
+20
+
+- 21 #ref8 B. M. Clemens, H. Kung, S. A. Barnett : MRS Bulletin 24 (1999), 20. #ref9 R. C. Cammarata, J. C. Bilello, A. L. Greer, K. Sieradzki and S. M. Yalisove: MRS Bulletin 24 (1999), 34. #ref10 D. Josell and F. Spaepen: MRS Bulletin 24 (1999), 39. #ref11 Z. Zhang and H. Liming: Brit. Ceram. Trans., 95 (1996), 205. #ref12 H. Mavoori, S. Sin: J. Elec. Mat. 27 (1998), 1216. #ref13 H. Hahn, J. C. Logas, H. J. Höfler, R. S. Averback: MRS Symp. Proc. 206 (1991), 569. #ref14 M. Jain, T. Christman: Acta Metall. Mater. 42 (1994), 1901. #ref15 K. Niihara: J. Ceram. Japan 99 (1991), 974. #ref16 J. Karch, R. Birringer, H. Gleiter: Nature 330 (1987), 556. #ref17 El Kedim O, Gaffet E, EFC Publications No. 20, The Institute of Materials, London (1997), p.267 #ref18 C. A. C. Sousa, C. S. Kiminami: J. Non-Cryst. Solids, 219 (1997), 155. #ref19 O. C. Brandt, S. Sigmann and H.-P. Isch: In: Thermal spray: A united forum for scientific and technological advances (Eds C. C. Berndt), ASM Intern., Materials Park, Ohio, USA, 1997. #ref20 H. Dent, A. J. Horlock, S. J. Harris, D. G. McCartney: Proceedings of the 15th Intern. Thermal Spray Conference, 25-29.05.98, Nice, France. #ref21 M. Schneider, W. Zeiger, D. Scharnweber and H. Worch: Mater. Sci. Forum 225-227 (1996), 819. #ref22 F. F. Marzo, A. R. Pierna, A. Lorenzo, A. Altube: Mater. Sci. Forum 289292 (1998), 1047. #ref23 L. Roue, M. Blouin and D. Guay: J. Electrochem. Soc., 145 (1998), 1624. #ref24 F. S. Shieu, M. J. Deng and S. H. Lin: Corr. Sci. 40 (1998), 1267. #ref25 H. Leth-Olsen, N. J. Halvor and K. Nisancioglu: Electrochem. Soc. Proc. 97-26 (1998), 584. #ref26 M. Schneider, W. Zeiger, U. Birth, K. Pischang, O. El Kedim and E. Gaffet: Mater. Sci. Forum 235-238 (1997), 931. #ref27 J. Bhattarai, E. Akiyama, H. Habazaki, A. Kawashima: Corr. Sci. 40 (1998), 757. #ref28 D. Clark, D. Wood and U. Erb: Nanostr. Mater. 9 (1997), 755. #ref29 R. B. Inturi, Z. Szklarska-Smialowska: Corrosion 48 (1992), 398. #ref30 T. K. Pavlushkina, O. A. Gladushko: Glass and Ceramics 57 (2000), 310
+
+21
+
+- 22 #ref31 A. C. Young, O. O. Omatete, M. A. Janney, P. A. Menchhofer: J. Am. Ceram. Soc. 74 (1991), 612. 17 (2000), 247. #ref32 M. D´ Apuzzo, A. Aronne, S. Esposito, P. Pernice: J. Sol-Gel Sci. Tech. #ref33 J. D. Soraru, F. Babonneau, C. Gervais, N. Dallabona : J. Sol-Gel Sci. Tech. 18 (2000), 11. #ref34 M. Prassas a. L. L. Hench: In ultrastructure processing of ceramics, glasses & composites (Eds. L. L. Hench, D. R. Ulrich), Wiley, New York, 1984. 100. #ref35 M. A. Villegas, J. M. Fernandes Navarro: J. Mater. Sci., 23 (1988), 2464. #ref36 R. Clasen, S. Janes, C. Oswald, D. Ranker: In: Ceram. Trans., vol. 51, Ceram. Proc. Sci. Tech. (Eds. H. Hausner, G. L. Messing, S. Hirano), Am. Ceram. Soc., Westerville, 1995, 481. #ref37 R. Clasen: In: Ceram. Trans., vol. 54, Sci., Tech. and App. of Colloid. Sus. (Eds. J. H. Adair, J. A. Casey, C. A. Randall, S. Venigalla), Am. Ceram. Soc., Westerville, 1995, 169. #ref38 K. Moritz, R. Thauer, E. Müller: Cfi/Ber. DKG 77 (2000), E8.
+
+22
+

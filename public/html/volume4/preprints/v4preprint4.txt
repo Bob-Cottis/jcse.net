@@ -1,0 +1,215 @@
+CORROSION BEHAVIOUR OF MAGNESIUM SACRIFICIAL ANODES IN TAP WATER
+F. Di Gabriele and J. D. Scantlebury Corrosion and Protection Centre, UMIST, PO Box 88, Manchester, M60 1QD, UK
+
+ABSTRACT
+
+Cathodic protection of potable water storage containers, with magnesium sacrificial anodes, is commonly used. Magnesium alloys are usually preferred to aluminium- and zincbased alloys in high-resistivity environments, because they have a lower operating potential. To evaluate the corrosion properties of the anodes, galvanostatic and potentiodynamic polarisation tests were carried out to determine anode efficiency and corrosion rate. The effects of applied current, testing time and microstructure on the electrochemical properties of sacrificial anodes of alloy AZ63, in potable water, were evaluated. Optical and electron microscopy (SEM) techniques were used to examine and analyse the microstructure of the specimens and, correlate it with their corrosion behaviour. The contribution of phenomena such as mechanical material loss and hydrogen evolution on the current wastage was investigated. The effect of a different microstructure, after heat treatment, to reduce the intermetallic phase, was also tested and the main differences highlighted.
+
+KEY WORDS Sacrificial anodes, AZ63 magnesium alloy, cathodic protection, anode efficiency, current capacity, hydrogen evolution, negative difference effect.
+
+1
+
+INTRODUCTION
+
+Alloys of aluminium, magnesium and zinc are used as sacrificial anodes for metal protection in aqueous and soil environments. Aluminium and zinc-based alloys are widely used for CP of steel in marine environments, while magnesium-based alloys are more appropriate in high resistivity environments, because of their theoretical low half-cell potential, as well as the possibility of high current capacity. The present study has focused on the use of magnesium alloys for the protection of tap water storage systems. One of the most used magnesium alloy is the cast AZ63, with a sufficient amount of aluminium to give rise to the secondary  phase, Mg17Al12 [1]. The anodes were tested with galvanostatic and potentiodynamic methods, in order to establish their efficiency and their corrosion behaviour in the conditions imposed. The actual limit in the use of magnesium-based sacrificial anodes is their relatively low efficiency, giving rise to the loss of a substantial part of the required current capacity. Phenomena affecting the magnesium anodes efficiency, such as local cell action (LCA) [2], chunck effect (CE) [3], film breakdown [4] and uncommon ion valence [4], were considered. Another characteristic of magnesium alloys, the Negative Difference Effect [5], was verified during the experiments carried out. Moreover, a simple relationship was established attempting to quantify the amount of charge lost on non-electrochemical phenomena like LCA and CE. Correlation between alloys' microstructure and corrosion behaviour of anodes was characterised. The presence of aluminium, in the magnesium alloys, leads to precipitation of an intermetallic phase, Mg17Al12. This secondary phase has an important role in galvanic corrosion of magnesium alloys, since the -phase seems to be more resistant than the surrounding matrix alloy [6]. A heat treatment was employed to modify the microstructure of the alloy. The -phase was partially dissolved; in consequence, the corrosion behaviour of the anodes was modified. Anode efficiency, current capacity and corrosion parameters were also calculated for the heat-treated alloy.
+
+EXPERIMENTAL PROCEDURE
+
+AZ63 ingots were melted in a steel crucible at a temperature of 690°±10°C. The chemical composition of the alloy, as provided by the manufacturer, is listed in Table 1.
+
+2
+
+The anodes were provided in form of bars, diameter 22 mm, length 220 mm. They were cut in cylinders, 70 mm long. The cross section of each specimen was covered with beeswax, in order to expose to the electrolyte only the lateral surface of the anodes. In the galvanostatic tests, the counter electrode was a mesh of galvanised steel. The mesh was adjusted around the anode to keep the active metal in the centre of the cell. Attention was paid on maintaining the same distance from each point between anode and electrode, in order to avoid non-uniform current distribution. The reference electrode used for the galvanostatic tests was a SCE, with a Luggin capillary to minimise the iR drop. The galvanostatic tests and the weight loss measurements were performed according to the ASTM G97 standard [8]. The standard suggests a current of 0.39 A/m2; as well two other impressed current densities (0.05 and 1 A/m2) were chosen. The samples were exposed to the galvanostatic test for three different times: 1, 2 and 4 weeks. The experimental equipment consisted of a galvanostat, a voltmeter and a coulometer. The coulometer was built according to ASTM G97 [8]. For the weight loss tests, the samples were connected in series as shown in Fig. 1. The first anode of the sequence was connected to the plating copper wire in the coulometer, while the last steel mesh was linked to the galvanostat. The copper sheets in the coulometer were finally connected to the anode pole of the current supply. The electrochemical potential of the anodes was measured during the testing time. The potential was measured at the moment the system was switched on and also during the first hours of polarisation. After that, there was a reading every 24 hours. For the long term tests the potential was read every week. At the end of the galvanostatic tests a potential measurement was taken before and one hour after the system was switched off (potential on open circuit, OC). At the end of the weight loss tests the anodes samples were cleaned of the corrosion products in their surface, by immersing them in a 250g/l CrO3 post-cleaning bath solution, for 30 minutes. After that, the magnesium anodes were rinsed, dried and weighed. At the same time the copper wires of the coulometer, weighed before the test, were extracted, rinsed, dried and weighed. Evaluation of the mass loss for the anodes and weight gain for the copper wires allowed determining the efficiency of the anodes and their current capacity. The NACE TM0190-90 [9] standard was adopted to conduct the hydrogen evolution tests. The volume of evolved hydrogen collected from the surface of the anodes during these tests allowed the calculation of charge lost because of hydrogen reduction reaction.
+
+3
+
+The potentiodynamic tests were carried out to evaluate the corrosion behaviour of magnesium anodes. The working electrode was constructed by mounting a small specimen (10x10x8mm) in cold-setting resin. The metal surface was polished till 1200 paper grid. A Pt electrode was used as a counter electrode and a calomel electrode, as reference electrode. The potentiodynamic curves were obtained using a PAR 273 potentiostat, with a voltage scan rate of 0.2 mV/s. All the electrochemical tests were performed in artificial tap water prepared in order to simulate the actual tap water, with medium value of hardness, neutral pH, and relatively high resistivity (low conductivity). The chemical composition and the electrochemical properties of the artificial tap water are given in Table 2. A heat treatment was imposed in order to change the microstructure of the alloy. The samples were heated in a furnace to 385°C, maintained at temperature for 10 hours, then quenched in water at 20°C. Temper designations were in accordance with ASTM B 296 [7]. Samples examined in the optical and electron microscopes were metallographically finished. The etching solution used to highlight the general microstructure was a nital 3% solution.
+
+RESULTS AND DISCUSSION
+
+The galvanostatic tests are designed to simulate the service operating conditions of sacrificial magnesium anodes. The fundamental properties obtained by these tests are anode potential, current capacity and anode efficiency. The values of the potential, monitored during the galvanostatic test, showed that at the very beginning of the experiment, the potential of the anodes was approximately -1.50 ± 0.05 V vs. SCE. The value increased in the first few hours until it reached a relatively stable level of circa -1.33 V for all the remaining exposure time, for all the specimens. The tests were performed at several exposure times (7, 14 and 28 days respectively). The potential values differed slightly, but only at the beginning of the tests. Moreover, the anodes working at low current density reached a stable level quite soon, while the others needed a longer time to achieve a steady state. At the end of each experiment, the potential at open circuit (one hour after switching off the system) was Voc = ­1.35 ± 0.03V vs. SCE. This value, nobler than the ones measured at the beginning, is due to the white layer of the corrosion product built-up on the anode surface. However, the differences on potential values, at different impressed anodic currents and different testing time, were quite small. 4
+
+Then, it could be assumed that the magnitude of the working current and the length of the tests (4 weeks the longest exposure) did not affect the anode potential. The current capacity assessed by weight loss during the galvanostatic test was evaluated as established by the ASTM G97 standard [8]. Thus, the actual current capacity of the anodes, CC, is obtained according to the following formula:
+CC = Ah Ah = × 1000 kg ( M Mg1 - M Mg 2 )
+
+where M Mg1 is the initial mass of Magnesium anode and M Mg 2 is the final mass (mass in grams). The theoretical current capacity, evaluated for this alloy, is CCTh = 2204Ah/kg. The anode efficiency is defined as the ratio between actual and theoretical values of current capacity, and it is evaluated by the following expression:
+E% = CC CC × 100 = × 100 CC Th 2204
+
+where 2204 [Ah/kg] is the theoretical equivalent weight for pure Magnesium. The current capacities (CC) measured for the anodes allowed to gain the values of efficiency listed in Table 3. The values of CC were found to be very low, but they increased with current density and time. The values of anode efficiencies indicated that the anodes are able to supply only a partial amount of current for protection. The missing percentage represents the amount of charge lost, which is no longer useful for CP. The current delivered for CP is very low (the anode efficiencies being very small) and acceptable values are obtained only at high impressed current densities. This condition does not imply a better performance for anodes working at elevated current densities, since they dissolve much faster than the ones operating at low current densities. The principal factors affecting anode wastage are the hydrogen evolution, mainly due to
+
+local cell action (LCA), and the mechanical loss of metal pieces from the anode surface. The
+latter phenomenon is known as chunk effect (CE). The presence of impurities in the alloy, usually heavy metals particles (Fe, Ni, Cu) and second phases, leads to the formation of micro-cells on the anode surface [10, 6]. Fagbagyi [11] asserted that at increasing anodic polarisation of metals, the effect of cathodic current due to micro-cells should be reduced. Instead of that, with Mg anodes, at increasing impressed current, the hydrogen evolution increased, as it will be shown later.
+
+5
+
+Chunk effect (CE) can be defined as the complete physical detachment of metal portions from the bulk alloy, during the period of anodic polarisation [2]. CE is a damaging mechanical process giving rise to a mass loss, then, the missing metal is no longer useful for CP [12] and the efficiency is lowered. In case of pure magnesium, Hoey et al [4] measured the particles of metal detached from the bulk and found that they are particles of approximately 6×10-5mm. They are held together by Mg(OH)2. In the case of magnesium alloys, the particles falling down from anodes are mainly magnesium, together with the impurities (e. g. iron) on the anode surface and, in time, the internal particles of the secondary phase. During anodic polarisation, the metal reacts preferentially along grain boundaries, slip planes, dislocation lines and/or along concentrations of vacancies and impurities. In this way, when the anodic current is concentrated along the grain boundaries, the metal particles are detached because of partial undermining. The microstructure of AZ63 alloy (fig. 2a) shows an equiaxed arrangement, with eutectic precipitation of -phase (fig.2b) located homogeneously along the grain boundary as well as inside the grains. SEM examination on -phase particles indicates the presence of nuclei of Mg17Al12 surrounded by the eutectic lamellae of the same hard phase. The average size of  particles was around 15µm. Dimensions of grains were very large and not uniform, in a range of values between 100 and 350 µm. The large grains were principally located in the core of the anode bar, while in the external surface there were the small ones. This distribution was mainly due to the process of production of the anodes. Figure 3 represents cross sections of the anodes, before (fig.3A) and after (fig.3B) exposure to the galvanostatic test. Optical examination, after each test, showed that they had common features independently from impressed current and exposure time. The corrosion process seemed to occur, preferentially, in the magnesium-base matrix, while the -phase was standing, unreacted. Figure 3B shows that the metal surrounding the second phase particles was dissolved in the galvanic test. Eventually, the -phase particles fell off when all the adjacent metal was corroded. The most probable explanation to this phenomenon is in the fact that the -phase played the role of cathodic site, while the -phase (metal matrix) is anodic to the former one and consequently corroded. The corrosive attack acts preferentially on the matrix, where metallic magnesium drops in the form of chunks, detached from the matrix in those points where the metallic bonding is weakened (defects, grain boundaries,...). The second phase in the magnesium cast alloys is generally more noble than the surrounding matrix alloy [6]. Then, the eutectic Mg17Al12 particles represented the cathodic
+
+6
+
+sites for the micro-cells formed on the anode surface (LCA). Hydrogen reduction took place on the cathodic sites and it is believed that the gas evolved was probably able to impress a mechanical stress to undermine pieces of metal from the bulk. At the time the chunks left the bulk, a more extended area is exposed to the electrolytic solution which was then able to give rise to new cathodic reactions.
+
+Anode efficiency could be evaluated measuring the hydrogen volume evolved during the galvanostatic tests. In accordance to the NACE TM0190 standard [8], the following expression was used to evaluate the efficiency, E%, of the anode:
+
+E% =
+
+I × 100  132 V  I +  t
+
+(1)
+
+where I is the impressed current, V is the volume of hydrogen and t is the elapsed time. The values of anode efficiency obtained by hydrogen evolution tests are listed in Table 4. The efficiency of the anodes is higher when evaluated with hydrogen evolution tests, compared to the weight loss ones. The main reason for those results is in the fact that Weight
+
+loss tests take into account the total loss of material (there are no distinctions between
+electrochemical and mechanical effects); while, Hydrogen evolution tests evaluate the anode efficiencies in function only of the electrochemical behaviour of the anode. The difference between the values obtained with the two measurements decreased at higher current densities. This may suggest that at high current density the mechanical loss is less important and/or the electrochemical effect, giving rise to hydrogen evolution, is predominant. In accordance to equation (1), the anode efficiency should decrease at increasing values of volumes of hydrogen. However, the efficiency increased, suggesting that the LCA effect was stronger at the beginning of the tests and diminished with time. The rate of hydrogen evolution, I H 2 , is defined as the charge elapsed due to hydrogen formation (and then useless for CP).It can be determined by Faraday's law, Q = nFm , and gases law, PV = mRT , obtaining the following expression:
+
+7
+
+IH2 =
+
+Q nPVF = t RTt
+
+= 132
+
+V t
+
+[mA ]
+
+If Y= I H 2 , hydrogen evolution rate, and if Y=mX+c [14], the efficiency can be defined by the following equation:
+
+E% =
+
+I × 100 I + (mI + c )
+
+By plotting the Y value versus the impressed current, I, the rate of hydrogen evolution can be consequently expressed:
+
+I H [mA ] =
+2
+
+I × 100 - I = mI + c E
+
+(current density being actually used, i = I/S). In the range of analyses carried out, the linear relationship established by Faraday's law was found to be consistent with the experimental data (Fig.4). Theoretically, the law establishes that at zero current impressed, there is no hydrogen evolved. The experimental data, actually, showed that the straight lines, if ideally prolonged to the y axes, would intercept the axes at positive values. This result may suggest that the anodes would react spontaneously in the electrolyte without any current applied. This phenomenon is due to the presence of the micro-galvanic couples on the surface of the alloy (LCA).
+
+It was noticed that, at increasing current density the rate of evolved hydrogen increased too. The phenomenon is defined as NDE (Negative Difference Effect). The Positive
+
+Difference Effect is the most common/opposite observable event for most metals. Hoey et al.
+[3] explained this anomalous behaviour as the result of film surface disruption. Where, by film is defined the corrosion products layer built up on the anode reacting surface, in this case a layer of magnesium hydroxide. The theory proposed asserts that pieces of corrosion products break away, due to mechanical effects. The underlying bare metal is, then, directly exposed to the electrolyte. This implies that a larger area for reduction reactions is available.
+
+Heat treatment was carried out on a second set of specimens. The anodes were exposed at 385°C for 10h and then quenched in water. The -phase precipitate, after
+
+8
+
+treatment, to particles of circa 3µm (fig.5). surface of the specimens was expected to change the electrochemical properties, due to the change in the ratio between anodic and cathodic areas. Galvanostatic and hydrogen evolution tests were repeated with the heat-treated anodes. Representative results for 2 week tests at 0.39 A/cm2 are here discussed. Weight loss tests showed a reduction of the anode efficiency compared to the untreated anodes (table 5). The difference in the values before and after the treatment is lower at increasing current applied; the difference between the values varies between 28 and 7%. The decrease was higher in case of efficiency calculated by hydrogen evolution (table 6), since the amount of gas evolved was higher than in the untreated specimens. The difference between the values varies between 30 and 11%. However, changing the alloy microstructure by dispersing the eutectic particles with a heat treatment did not improve the anode performances. The results indicate that the intermetallic phase, Mg17Al12, plays an important role on the corrosion behaviour of the AZ63 alloy. The function of -phase has already been reported for other Mg-Al-Zn alloys [6].
+
+CONCLUSIONS
+
+An AZ63 alloy was used for the magnesium sacrificial anodes tested in potable water. The anodes were tested in order to evaluate main properties such as efficiency, current capacity and charge loss by hydrogen evolution. The results showed relatively low efficiency and current capacity, especially at low current densities and short testing time. The processes that contribute to the reduction of the anode efficiency are believed to be LCA and CE. Linearity of Faraday's law was verified in each case, but changes in slopes and zerocurrent output were modified because of the phenomenon mentioned above. A heat treatment was carried out were the size of the secondary phase particles was reduced. Results showed that the performances of these anodes were lower compared to the original cast alloy, indicating that the -phase, even if cathodic to the base alloy, played an important role in the protection of magnesium alloys, as cast.
+
+9
+
+ACKNOWLEDGMENTS
+
+The authors wish to acknowledge PROCAT Bolzano for providing the anodes and sharing the information on anodes production, ERASMUS project officers for allowing the partnership between University of Trento and UMIST Manchester. We thank Dr R. K. Fagbagyi and L. Benedetti for the essential support during the experimental work.
+
+REFERENCES [1] Metals Handbook, 9th ed, vol. 9, 1985, pp. 425-434. [2] J. I. Skar, Materials and Corrosion, vol. 50, (1999) pp. 2-6. [3] G. A. Marsh, E. Schaschl, J. of the Electrochem. Soc., vol. 107, n. 12 (1960) 960. [4] G. R. Hoey, M. Cohen, J. of the Electrochem. Soc, vol. 105, n. 5, (1958) . 245. [5] M. E. Straumanis, B. K. Bhatia, J. of the Electrochem. Soc., vol. 110, n. 5, (1963) 357. [6] O. Lunder, J. E. Lein, T. Kr. Aune, K. Nisancioglu, Corrosion 45 (1989) 741. [7] ASTM B 296, Annual Book of ASTM, B 296, vol. 2.02, 1990 [8] ASTM G 97, Annual Book of ASTM, G 97, vol. 3.02, 1997 [9] NACE Standard TM0190-90, item No. 53076 [10] Metals Handbook, 9th ed, vol. 13, 1985, pp. 740-754. [11] R. K. Fagbagyi, PhD thesis, UMIST ("Electrochemical Performance of Al-Zn-In Anodes in Marine Environments at Low Current Densities") 2000. [12] V. Kaese, M. Niemeyer, P.-T. Tai, J. Roettger, Eurocorr '99, pp. 1-8. [13] J. Norris, PhD thesis, UMIST ("Electrochemical Performance of Al-Zn-In Anodes in Marine Environment") 1997.
+
+10
+
+11
+
+12
+
+13
+
+Al 5.5-6.5
+
+Mg 89-92
+
+Mn <0.15
+
+Zn 2.4-3.5
+
+Si <0.05
+
+Fe ppm <50
+
+Cu ppm <60
+
+Ni ppm <10
+
+Be ppm 5-15
+
+Table 1 - Chemical composition, wt.%, of AZ63 alloy.
+
+Components NaHCO3 MgCl 2 CaCl 2
+
+Composition 170mg/l 50mg/l 210mg/l
+
+Electrochemical Parameters
+
+pH Hardness Conductivity
+
+7.4 20°F 590µS/cm
+
+Table 2 - Composition and electrochemical properties of the artificial water
+
+Impressed Current [A/m2] 0.05 0.39 1
+
+Anode efficiency %
+
+1 week
+11.67 41.73 50.39
+
+2 weeks
+14.69 48.71 56.83
+
+4 weeks
+15.84 49.23 58.28
+
+Table 3 - Anode efficiency evaluated with weight loss tests as a function of the applied currents and exposure times
+
+Impressed Current [A/m2] 0.05 0.39 1
+
+Anode efficiency %
+
+1 week
+37.92 70.37 72.63
+
+2 weeks
+40.42 70.37 72.63
+
+4 weeks
+47.19 72.93 76.53
+
+Table 4 - Anode efficiency evaluated with hydrogen evolution tests as a function of the applied current and exposure time
+
+14
+
+Impressed Current [A/m2] 0.05 0.39 1
+
+E % after heat treatment E % before heat treatment
+
+2 weeks
+10.47 40.00 52.60
+
+2 weeks
+14.69
+
+48.71 56.83
+
+Table 5: Efficiency of anodes before and after heat treatment evaluated by weight loss tests
+
+E % after heat treatment Impressed Current [A/m2] 0.05 0.39 1
+
+E % before heat treatment
+
+2 weeks
+28.29 52.42 64.37
+
+2 weeks
+40.42
+
+70.37 72.63
+
+Table 6: Efficiency of anodes before and after heat treatment evaluated by hydrogen evolution tests.
+
+15
+

@@ -1,0 +1,94 @@
+ISSNINFFLUENCE 1466-8858
+
+submitted 22 August OF COLD WORKVolume 10, Preprint 49 THE RESISTANCE OF 304L 2007 BY TRACTION ON
+
+STAINLESS STEEL TO PITTING CORROSION
+
+YAHIA L., KHIREDDINE M.H Laboratory of transformations of phases, Dept. of Physique, Faculty of sciences University of Mentouri ­ Constantine 25000, ALGERIA E-mail: canmali2000@yahoo.fr
+
+ABSTRACT The progressive deterioration of the mechanical characteristics generally frequents in the steel structures that work in present aggressive environment present a big worry for the researchers, especially in presence of mechanic solicitations, because the probability of failing that increases as the strain increases 1,2. The aim of the present work was to clarify the effect of the cold work by traction on the pitting corrosion, of steel 304 L, in 30 g/l of NaCl environment. This study consists in submitting some specimens, gotten from the test-tubes of traction normalized and deformed to the different elongation rates: 2.18%, 3.63%, 10.90% and 16.36%, to the corrosion tests. The experimental results of the different potentials of: corrosion, pitting and repassivation, have been compared and discussed according to the elongation rate. It was observed that all potential increases according to the increasing of elongation rate with the exception of the pitting potential or it has been decreased to the last elongation rate 16.36%. KEY WORDS: 304L stainless steels, strain, traction, inclusion, pitting corrosion, potential.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 1 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 INTRODUCTION
+
+Volume 10, Preprint 49
+
+submitted 22 August 2007
+
+Stainless steels are used largely to reason of their very good resistance to the uniform corrosion, due to the presence of a passive film in the surface, very thin and very protective. Among these steels, the austenitic alloys constitute a good compromise between good mechanical properties and an excellent resistance to the corrosion. The understanding of the phenomenon of pitting corrosion is of as much more complex what requires multidisciplinary knowledges: mechanical, metallurgical and electrochemical 3,4,5. The electrochemical behavior of 304L stainless steel in 30g/l of NaCl have been studied by many authors
+6,7,8
+
+, but little that took in consideration the effect of cold working
+
+by traction to pitting corrosion 9,10,11.
+
+EXPERIMENTAL
+
+Specimen The material used, in this work, was 304L stainless steel. Its chemical composition is represented in the table 1: Cr 18.78 TABLE 1 - Chemical composition of AISI 304L (Wt %) Ni Si Mn Mo C 8.80 0.45 1.34 0,27 0.06 S 0.008 P 0.01
+
+The specimen first was machined into a tensile specimen (Fig.1) and then given predetermined strains of: 2.18%, 3.63%, 10.90% and 16.36% as shown in figure 2. The work was performed on 304L stainless steel plate, machined into 14 mm diam rod specimens.
+
+FIGURE 1. Tensile specimen dimensions.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 2 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 49
+
+submitted 22 August 2007
+
+FIGURE 2. Conventional curve of steel 304L tensile Corrosion test The NaCl concentration of the test solution was 30 g/l. Before test corrosion the specimen were polished to a 1200 grit with emery papers and were degreased with acetone in an ultrasonic cleaner and washed with double distilled water. The potentiocinetic method is used to determine the electrochemical characterization of stainless steels (304L), as corrosion potential, pitting potential and repassivation potential, in the aggressive environment 9,8.
+
+RESULTS AND DISCUSSION Hardness measure The figure 2 represents the variation of the hardness according to the strain. The hardness increases with the strain increasing.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 3 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 49
+
+submitted 22 August 2007
+
+FIGURE 3. Hardness measure Microstructure In complement of the strain mechanisms described previously, we note that a cold work modifies the texture of 304L stainless steel; it provoked a change in the shape of the grains. During the tensile test and in the zone of plasticity, the grains s'allonge in the direction of tensile. We note that fragmentation in strips and in cells of dislocation has the effect of to modify the crystalline orientation and makes disappear progressively the individual character of the grains (Fig. 4).
+
+FIGURE 4- microstructure of 304L stainless steel: (a) 2.18%, (b) 3.63%, (c) 10.90%, (d)- 16.36%
+
+Polarization curves Résults
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 4 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Polarization
+
+Volume 10, Preprint at curves were obtained in 30g/l NaCl 49 temperature 24°Csubmitted A sweep 2007 (±3°C). 22 August
+
+rate of 90 mV.mn-1 was used between -0.45 V and 0.9 V. In this work, corrosion potential, pitting potential and repassivation potential were principal parameters to study the effect of cold work on the resistance of 304L stainless steel to pitting corrosion.
+
+FIGURE 5. Polarization curves of 304L stainless steel in 30g/l NaCl The pitting corrosion of 304L stainless steel is bound to the stability of the passive film. This stability takes in consideration the potential between metal and the solution. The figure 5 shows the variation of current intensity according to the potential. To the first contact with the solution, the specimen knew a fast dissolution, and then it knew a light variation of the current according to the time. The pitting corrosion occurs beyond 0.34 V, when the passive film pricked. The formation of a hysteresis buckle that means the formation of pit (Figure 6), with a positive potential that shows that the formed film is stable.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 5 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10, Preprint 49
+
+submitted 22 August 2007
+
+Figure 6- MEB image showing a pit on surface of 304L stainless steel. Figure 7 shows an inclusion of MnS. To its neighbourhood, the passive layer is modified. This defect can play the role of a site of beginning of the pit on the passive film of 304L stainless steel 10.
+
+Figure 7- MEB image showing an inclusion of MnS
+
+CONCLUSION This study has been led in the aim to analyze the effect of cold work by traction, on the behavior of 304L stainless steel in 30 g/l of NaCl. Results gotten permit us to deduct the following conclusions: - The progressive disappearance of the individual character of the grains when the rate of elongation reached 10.9%. - The hardness of the 304L steel increased with the increasing of the elongation rate - The presence of inclusion of MnS is a site favourable to a pit. - The noblest corrosion potential corresponds to the weakest elongation rate. - More the hardness increases the corrosion potential corrosion increases in absolute value.
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 6 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 - The
+
+Volume 10, steel has submitted the last pitting potential of 304L stainlessPreprint 49 been decreased slightly to22 August 2007
+
+rate of elongation (Ep = 430.45 mV). - The repassivation potential depends directly on the elongation rate. More the strain increases this potential more increases.
+
+BIBLIOGRAPHIC REFERENCES [1] P. Combrad, "Corrosion sous Contrainte et Fatigue Corrosion", Les Editions de Physique, 1990. [2] G.T. Burstein, C. Liu, R. M. Souto, S.T. Vines, "Origins of Pitting Corrosion", Corrosion Engineering Science and Technology, 39, 25, 2004 [3] H. J. Towie, S. Krutz, R. Bauer, W. Schaarwachter, Int.Cong. Met. Corros. 8th, 92, 1981 [4] B. BAROUX and al., "Pitting Corrosion of Stainless Steels: The Important of Being a Metallurgist", LTPCM, INP Grenoble, France. [5] K. Darowicki, S. Krakowiak, P. Slepski, Electrochim. Acta 49, 2004 [6] G.T. Burstein, C. Liu, R. M. Souto, S.T. Vines, "Origins of Pitting Corrosion", Corrosion Engineering Science and Technology, 39, 25, 2004 [7] U. Kamachi Mudali, P. Shankar, S. Ningshen, R. K. Dayal, H.S. Khatak, B. Raj, Corrosion Science, 44, 2183, 2002 [8] V.A.C. Haanapel, M. F. Stroosnijder, Corrosion, 57, 557 (2001) [9] B. Mazza, P. Pedeferri, D. Sinigaglia, A. Cigada, G. A. Mondora, G. Re, G. Taccani, D. Wenger, Journal of the Electrochemical Society, 126 (12) [10] C. Garcia, F. Martin, P. De Tiera, J. A. Heredero, M. L. Aparicio, Corr. Sc., 43, 1519, 2001.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at 7 http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

@@ -1,0 +1,489 @@
+ISSN 1466-8858
+
+Volume 5 Preprint 7
+Substiuted ferrocenes: Synthesis and correlation of their electronic spectra with structure (LFER) E. A. Kassab, M. I. Marzouk and M. El-Hashash
+Faculty of Science, Ain Shams University, Cairo, Egypt. and Industrial Education College, Ammeria, Cairo, Egypt
+
+Three series of diacylferrocences (I) and ferrocenylidene acetophenones (II) and monoalkyl ferrocences (III) were synthesised and their electronic spectra in the visible region were studied. The bands exhibited by compounds (II) show a good correlation between their wave numbers and the Hammett  constants. Keywords: substituted ferrocences, synthesis of, electronic spectra of diacylferrocences, ferrocenylidene acetophenones, monoand disubstituted ferrocenes.
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+Introduction The electronic spectra of ferrocene and its simple alkyl derivatives contain two weak bands ({} < 100 dm3 mol-1 cm-1) at 325 nm and 440 nm that have been assigned (1) to symmetry forbidden electronic transitions of the type NQ that derive their intensity from vibrational distortion in the molecule. Although both bands contain a great deal of dorbital character, some involvement of ring molecular orbital in the "325 nm" transition is indicated by the particular sensitivity of this absorption to substitution in the rings. There is general agreement, however, that the band at "440 nm" represents a relatively pure (3d-3d) transitions involving energy levels that are highly localized on the metal atom1-3. Also, the electronic spectra of benzoylferrocene and p-cyanobenzoylferrocene4 exhibit two bands at 365 nm ({}, 1350 dm3 mol-1 cm-1) and 470 nm ({}, 860 dm3 mol-1 cm-1). Their origin is forbidden electronic transitions of the type NQ. The purpose of the present article is to report and comment upon the results obtained by measurements of the electronic spectra of 1,1`diacylated ferrocenes and ferrocenylidene acetophenones. These two series of substituted ferrocene are appropriate for this study since the substituent groups: (1) ensure that the pertinent electronic spectra will appear in the visible region; (2) in diacylated series, the substituted groups are enough from the ferrocenoyl moiety to ensure that no steric interaction occurs. RESULTS AND DISCUSSION The absorption spectra of a series of diacylated ferrocenes were measured in hexane and the results are shown in Table I.
+Fe COAr COAr
+
+(I)
+
+2
+
+TABLE 1. Spectral data for diacylferrocenes
+Compd. Ia Ib Ic Id Ar CH3 (CH2) 9C6H5CH2p-Cl-C6H4p-C2H5CH (CH3)-C6H41/nm ({}) 315(2450) 305(2320) 355(4600) 350(3660) ~  1 (cm-1) 31750 32790 28170 28570 2/nm ({}) 455(582) 461(470) 472(2020) 470(950) ~  2 (cm-1) 21980 21690 21190 21280
+
+The absorption intensity of the shorter wavelength band of the diacylferrocenes is increased and the half-width of the absorption band is reduced in Ic and Id. According to the Franck-Condon principle, the latter is a reliable indication of diminishing vibrational coupling between the electron system and the residual molecular frame5. On the other hand, this band, origination from a (N-V) transition from a bonding orbital to an antibonding orbital is a particularly sensitivity to substitution in the rings cf. Ia and Ic. The red shift and rise of intensity of absorption for the longest wavelength absorption band of the diacylferrocences are strong indication of increasing polarization of the molecule. The -electronic spectra of a series of ferrocenylidene
+
+acetophenones (II) and monosubstituted ferrocenes 1[(-cyanophenylmethyl--4-methylbenzoyl) ethyl] ferrocene, 1[(-cyanophenylmethyl-4-bromobenzoyl) ethyl] ferrocene and 1[(-benzoylphenylmethyl--4bromobenzoyl) ethyl] ferrocene (III a-c) were measured in hexane and the results are listed in Table II.
+O HC CH C Fe R Fe (II) CHCH2 CO R` R
+
+(III)
+
+3
+
+Table II. The spectral data of ferrocenylidene acetophenones (II) and mono-substituted ferrocene (III) in n-hexane solution.
+Compd. IIa IIb IIc IId IIe IIf IIg IIh IIIa IIIb IIIc R H p-CH3 p-OCH3 p-Cl p-Br p-CN m-OCH3 p-NH2 R = p-CH3 R` = PhCHCN R = p-Br R` = PhCHCN R = p-Br R` = PhCHCOPh 325(350) 327(340) 445(280) 439(250) 1/nm ({}) 381(3800) 381(4320) 378(3990) 388(4250) 387(4560) 399(4300) 381(5170) 339(64214) 322(330) ~  1 (cm-1) 36250 26250 26450 25770 25830 25060 26250 29500 2/nm ({}) 467(2920) 475(3000) 468(2490) 484(3520) 483(3800) 502(5000) 477(3720) 489(4950) 430(265) ~  2 (cm-1) 21000 21050 21360 20660 20700 19920 20960 20450  0 -0.17 -0.27 0.23 0.23 0.63 0.12 -0.66
+
+For a closely related series of compounds the extinction coefficient acts as a measure of the transition probability and, to some extent, of the polarization of the molecule6. The extinction coefficients for compounds (II) were all found to be of the same order of magnitude, thus indicating that identical transitions are occurring throughout the series. Comparing the extinction coefficients of compounds II and III show that the extinction coefficients of compounds III are 10 to 15 times less than compounds II. This can be explaining as follows: A substitution on one ring of the metallocene nucleus may alter the electron density on that ring through its inductive field or resonance interaction with the ring. This change in electron density may be relayed through the ring-metal bonds
+
+4
+
+to substitutents on the metal itself or on the second ring. Such transmission of effects will reflect the nature and polarizability of the ring-metal bonds. In compounds II a resonance interaction between heteroannular groups might be transmitted by the ring-metal bonds quite efficiently leads to high extinction coefficients. It is tentatively suggested that the high extinction coefficient attributed to a strong contribution from the polar structure IV for a series of compounds II. It is tentatively suggested that the high extinction coefficient attributed to a strong contribution from the polar structure IV.
+
+O HC CH C Fe (IV) O HC CH C Fe (VI) (R = Cl or Br, NH2) R
++
+
+R
+
++
+
+O HC CH C Fe (V)
+
+R
++
+
+Scheme 1 Resonance structures for ferrocenylidene acetophenone IId, IIe and IIh
+
+Structures (IV) to (VI) probably contribute more to the excited state than to the ground state due to through conjugation can be transmitted right through the substitutuent group R to the  electron of the phenyl group (V and VI) or to the oxygen of carbonyl group (IV) producing anionic resonance hybrids in which the formal charge can occupy a number of positions. The resonance structures involving the vinylferrocene moiety
+
+5
+
+and carbonyl group alone are omitted, since they are common throughout the series. In the ground state the electrons are displaced toward the substituent through an electron-attracting inductive effect, while in the excited state the substituent experiences a migration of electrons towards the ring through its resonance electron-donating property. Therefore the excitation energy should be lowered. In the case of the electron-attracting substituent (R = CN), the resonance structures (VII to IX) can be constructed.
+O HC CH C Fe (VII) O HC CH C
++ +
+
+O R Fe (VIII) HC CH C
++
+
+R
+
+R
+
+Fe (IX)
+
+Scheme 2 Resonance structures for ferrocenylidene acetophenone IIf
+
+Here the substituent has only electron-withdrawing properties, and, consequently, the slight polarization in the ground state becomes considerably enhanced in the excited state leading to cationic resonance hybrids of canonical forms (VII-IX) in which the formal charge can occupy a number of positions, this would be expected to result a high extinction coefficient for compound IIf (R = CN). The Hammett equation has been found to correlate oxidation potentials of substituted ferrocences7-10.
+6
+
+More recently, the Mossbauer parameters11 of dibromoboryl ferrocenes and dichloroboryl ferrocenes with Hammett substitute constants were reported. Also E1/2, E1/2 (FeIII / FeII) of complexes12 containing ferrocenylpyridine change sharply and clearly with Hammett substitute constants ().
+~ ~ In the present investigation, the correlation between  1 and  2 of
+
+ferrocenylidene acetophenones with the Hammett substitute constant  is produced.
+~ A plot of  1 against the Hammett substitutent constant  is shown
+
+~ in Fig. 1a while in Fig. 1b a plot of  1 against the substitutent constant 
+
+is given. The correlation is quite good with linearity R (0.885), with the exception of ferrocenylidene p-aminoacetophenone. This may be due to the electron donating nature of the p-amino group, which interacts with the developing positive charge created in the excited state.
+~ ~ Plots of  1 and  1 against the Hammett substitutent constant ,
+
+after omitting the value of NH2 are shown in Figs. 1c and 1d respectively. Now the correlation seems to be typically linear, with linearity (R =
+~ ~ 0.944). Also in Figs. 2a and 2b are shown plots of  2 and  2 against the
+
+Hammett substitute constant . The correlation shows linearity (R = 0.459) if the value of NH2 is taken into consideration. In Figs. 2c and 2d
+~ ~ are shown plot of  2 and  2 against the Hammett substitute constant 
+
+after omitting the value of NH2. Now the correlation is fair good with linearity (R = 0.968)
+
+7
+
+O HC CH C Fe (IV, R = NH2)
+
+NH2
+
++
+
+Negative slopes (The second parameter ) explain the probability of electronic transition is more difficulty by electron withdrawal. EXPERIMENTAL All the melting points are uncorrected. The IR spectra were recorded on a Unicam SP-1200 spectrophotometer using the KBr Wafer technique;
+1
+
+H-NMR spectra were run on a JEOL-JNM-FX-200
+
+spectrometer. Elemental analysis was carried out in the microanalytical laboratory of the University of Texas at Dallas using a Richardson TX 75080 instrument. The electronic absorption spectra were measured using a Varian No. 952019-04 spectrophotometer. TLC checked the purity of all the synthesized compounds. Diacylferrocenes (Ia-d) were prepared by a method previously reported in the literature4. Compounds IIa, IIc and IIe were prepared as previously described according to ref. 13, and IIb, IId and IIg were prepared according to ref. 14. They were identified via melting point and mixed melting point measurement. Compounds IIf and IIh were prepared according to the following procedure: A mixture of p-cyanoacetophenone and/or p-amino-acetophenone (0.01 mol) and ferrocenaldehyde (Aldrich) (0.01 mol) in absolute ethanol (50 cm3) was treated with aqueous sodium hydroxide (10 %, 20 cm3) under vigorous stirring and cooling. The solid product that separated was filtered off and recrystallized from hexane in case of
+
+8
+
+IIf and from benzene in case of IIh. The structures of compounds II, structures of compounds IIf and IIh were inferred from their IR and
+1
+
+H-NMR spectra. IR spectra showed strong absorption bands in the region 1100-1120
+
+cm-1 (unsubstituted ferrocene ring), 1610-1625 cm-1 (C=C), 1665-1670 cm-1 (C=O), 2200 cm-1 (C=N) for IIf and 3220 cm-1 for IIh. The 1H-NMR spectrum of IIf in CDCl3 showed the following signals:  4.25 (5H, m, unsubtituted cyclopentadienyl ring),  4.45 (2H, t, J = 1.4 Hz, H3 and H4 of substituted cyclopentadienyl ring),  4.55 (2H, t, J = 1.4 Hz, H2 and H5 of substituted cyclopentadienyl ring), two doublet at  6.7 and  6.9 (AB system of olefinic protons), two doublet at  7.5 and  7.7 (A2B2 system of phenyl moiety). A mixture (0.01 mol) of the desired ferrocenylidene acetophenone (0.01 mol) and of the active methylene compound (benzyl cyanide or desoxybenzoin) (0.01 mol) in ethanol (50 cm3) was treated with aqueous NaOH (20 %, 5 cm3) and the mixture was left for four days at room temperature. The solvent was then evaporated under reduced pressure. The residue was cooled and was triturated with a few drops of dilute hydrochloric acid. The solid that separated was filtered off and crystallized from hexane. The structures of compounds IIIa and IIIb were inferred from their following IR and 1H-NMR spectra. The IR spectra of compounds IIIa and IIIb exhibited absorptions in the regions 1115-1130 cm-1 (unsubstituted ferrocene rings), 1670-1680 cm-1 ((C=O)), and 2200-2215 cm-1 ((C=N)). The 1H-NMR spectrum of IIIa in CDCl3 showed the following signals:  2.4 (3H, s, Ar-CH3),  2.7 (2H, m, non equivalent methylene protons),  2.9 (1H, m, methine proton), 4.45 (5H, m, unsubstituted cyclopentadienyl ring);  4.52 (2H, m, H3, H4 of substituted
+
+9
+
+cyclopentadienyl ring);  4.60 (2H, m, H2, H5 of substituted cyclopentadienyl ring),  7.4-7.9 (9H, m, ArH protons). IR spectrum of compound IIIc showed absorption bands at 1125 cm-1 (unsubstituted ferrocene ring), 1670 cm-1, 1680 cm-1 attributable to
+~  max of two carbonyl groups. The characterization data of IIf, IIh and
+
+IIIa-c are presented in Table III. TABLE III. Physical constants data of the ferrocene derivatives (II) and (III). Compd. IIf IIh IIIa IIIb IIIc M.p. ºC 171 226 192 182 195 Yield/% 75 62 55 57 52 Mol. Formula wi(calc.)/% wi(found)/% (M. Wt.) C20H15NOFe 70.38 4.39 (341) 70.16 4.65 C19H17NOFe 68.88 5.13 (331) 68.77 5.52 C28H25NOFe 75.16 5.59 (447) 75.21 5.64 C27H22NOBrFe 63.28 4.29 (512) 63.27 4.44 C33H27O2BrFe 67.00 4.56 (591) 67.47 4.89
+
+10
+
+REFERENCES 1- D.R. Scott and R.S. Becker; J. Chem. Phys. 35, 516 (1961); Ibid. 35, 2246 (1961). 2- K.I. Grand Berg, S.P. Gubin and E.G. Perevalova Isvest; Akad. Nauk S.S.S.R., Ser Khim. 549 (1966) K.I. Grand Berg and S.P. Gubin; Ibid. 551 (1966), H. Hennig and O. Gurtter; J. Organometal. Chem. 11, 307 (1968). 3- A.T. Armstrong, F. Smith, E-Elder and S.P. McGlym; J. Chem. Phys. 46, 4321 (1967). 4- M.A. El-Hashash, S. El-Nagdy and R. Saleh; Indian J. of Chem. 22A 605 (1983). 5- C.K. Hancock, A. Derek and H. Clague; J. Am. Chem. Soc., 86, 4942 (1964). 6- E.A. Braude, "The Determination of Organic Structures by Physical Methods"; E.A. Braude and F.C. Nachod; Ed., Academic Press, Inc., New York, N.Y., p. 135, (1955). 7- J.G. Mason and M. Rosenllum; J. Am. Chem. Soc. 82, 4206 (1960). 8- G.L.K. Hoh, W. Mcewen and J. Kleinberg; J. Am. Chem. Soc. 83, 3949 (1961). 9- W.F. Little, C.N. Reilley, J.O. Johnson, K.N. Lynn and A.P. Sanders; J. Am. Chem. Soc. 85, 1376 (1963). 10- W. E. Britton; K. Kashyap; M. El-Hashash; and M. El-Kady; M. Herberhold Organometallics 5, 1029 (1986). 11- Silver,J.;Davies,D.A.;Roberts,R.M.G.;Herberhold,M.;Dorfler,U.; Wrackmeyer,B.;J.organomet.Chem.590(1)71(1999).C.A.132(6)643 64y(2002).
+
+11
+
+12- Chem Jang ; Kao, Ching ­ Hong; Lin, SheJing ; Tai , Chih ­ Cheng ; Kwan; Shin ; Inorg ­ Chem. 39 (2) 189 (2000) C.A. 132 (6) 1188855d (2000) 13-T. Ogata, K. Oikawa; T. Fujisawa, S. Motoyama ; T. Izumi; A. Kasahra and N. Yonaka; Bull. Chem. Soc., Japan , 54 , 3723 (1981) 14- k.M. Hassan, M.M. Aly and G.M. El ­Nager; J. Chem. Technol. Biotechnol29, 515 (1979).
+
+12
+
+Figure captions: Figure 1:
+~ a)  1 of substituted ferrocenylidene vs. the Hammett constant  with
+
+the NH2 value
+~ b)  1 of substituted ferrocenylidene vs. the Hammett constant  with
+
+the NH2 value
+~ c)  1 of substituted ferrocenylidene vs. the Hammett constant 
+
+without the NH2 value
+~ d)  1 of substituted ferrocenylidene vs. the Hammett constant 
+
+without the NH2 value Figure 2:
+~ a)  2 of substituted ferrocenylidene vs. the Hammett constant  with
+
+the NH2 value
+~ b)  2 of substituted ferrocenylidene vs. the Hammett constant  with
+
+the NH2 value
+~ c)  2 of substituted ferrocenylidene vs. the Hammett constant 
+
+without the NH2 value
+~ d)  2 of substituted ferrocenylidene vs. the Hammett constant 
+
+without the NH2 value
+
+13
+
+
+
+{  1}
+
+~
+
+-0.66 2.95 -1.947 0.4356 8.7025 -0.66 2.845113 -0.27 2.645 -0.71415 0.0729 6.996025 -0.27 2.727541 -0.17 2.625 -0.44625 0.0289 6.890625 -0.17 2.697394 0 2.625 0 0 6.890625 0 2.646145 0.12 2.625 0.315 0.0144 6.890625 0.12 2.609969 0.23 2.577 0.59271 0.0529 6.640929 0.23 2.576808 0.23 2.583 0.59409 0.0529 6.671889 0.23 2.576808 0.63 2.506 1.57878 0.3969 6.280036 0.63 2.456222 {} 2 () 2 {2} ({}) 2   0.11 21.136 -0.02682 1.0545 0.0121 55.96325 446.7305 {} = -0.30147 {o} = 2.646145 n {} - ()({}}= -2.53952 n 2 ­ () 2 = 8.4239 (n 2 ­ () 2) 5 = 2.902396 {1} = {o} + {}  n {} 2 - {} 2 = 0.975536 (n {} 2 - {} 2) 0.5 0.987692 R = -0.88588
+3 2.95 2.9 2.85 2.8 2.75 2.7 2.65 2.6 2.55 2.5 2.45 -0.8 -0.6 -0.4 -0.2 0 0.2 0.4 0.6 0.8
+
+ {} 1
+
+~
+
+2
+
+~ {  12}
+
+
+
+~ {  1}
+
+R2 = 0.784777913
+
+1 x 10-4/cm-1
+
+ Figure 1a
+2.9 2.85 2.8 2.75 2.7 2.65 2.6 2.55 2.5 2.45 2.4
+
+1 x 10-4/cm-1
+
+-1
+
+-0.8
+
+-0.6
+
+-0.4
+
+-0.2
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+ ~ ~ Figs. 1a and b. Wave numbers  1 and  1 of ferrocenylidene vs. the Hammett constant  with the NH2 value. 14
+
+
+
+{  1}
+
+~
+
+-0.27000 2.64500 -0.71415 0.0729 6.996025 -0.17000 2.62500 -0.44625 0.0289 6.890625 0.000000 2.62500 0 0 6.890625 0.120000 2.62500 0.315 0.0144 6.890825 0.230000 2.57700 0.59271 0.0529 6.640929 0.230000 2.58300 0.59409 0.0529 6.671889 0.630000 250600 1.57878 0.3969 6.280036 {} 2 () 2   0.77000 18.18600 1.92018 0.6189 0.5929 {} = -0.15028 {o} = 2.614531 n {} - ()({}}= -0.56196 (n 2 ­ () 2) 5 = 1.933753 0.307704 {1} = {o} + {}  R = -0.94443
+2.66
+
+ {} 1
+
+~
+
+2
+
+~ {  12}
+
+
+
+~ {  1}
+
+-0.27000 2.655107 -0.17000 2.640079 0.000000 2.614531 0.120000 2.596497 0.23000 2.579966 0.23000 2.579966 0.63000 2.519854 {2} ({}) 2 47.26075 330.7306 n 2 ­ () 2 = 3.7394 (n {}
+2
+
+n {} 2 - {} 2 = 0.094682
+
+- {} 2)
+
+0.5
+
+=
+
+R2 = 0.891951953
+
+1 x 10-4/cm-1
+
+2.64
+
+2.62
+
+2.6
+
+2.58
+
+2.56
+
+2.54
+
+2.52
+
+2.5
+
+2.48 -0.4 -0.3 -0.2 -0.1
+
+ Figure 1c
+2.68 2.66
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+1 x 10-4/cm-1
+
+2.64
+
+2.62
+
+2.6
+
+2.58
+
+2.56
+
+2.54
+
+2.52
+
+2.5 -0.4 -0.3 -0.2 -0.1
+
+
+
+0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+~ ~ Figs. 1c and d. Wave numbers  1 and  1 of ferrocenylidene vs. the Hammett constant  without the NH2 value. 15
+
+
+
+{ 2}
+
+~
+
+-0.66 2.045 -1.3497 0.4356 4.182025 -0.66 2.111376 -0.27 2.136 -0.57672 0.0729 4.562496 -0.27 2.091043 -0.17 2.105 -0.35785 0.0289 4.431025 -0.17 2.08583 0 2.1 0 0 4.41 0 2.076967 0.12 2.096 0.25152 0.0144 4.393218 0.12 2.070711 0.23 2.066 0.47518 0.0529 4.268356 0.23 2.064976 0.23 2.07 0.4761 0.0529 4.2849 0.23 2.064976 0.63 1.992 1.25496 0.3969 3.968064 0.63 2.044122 {} 2 () 2 {2} ({}) 2   0.11 16.61 017349 1.0545 0.0121 34.50008 275.8921 2 2 {} = -0.05213 {o} = 2.076967 n {} - ()({}}= -0.43918 n  ­ () = 8.4239 (n 2 ­ () 2) 5 = 2.902396 0.329478 {1} = {o} + {}  R = -0.45926 R2 = 0.210920151
+2.16
+
+ {} 2
+
+~
+
+2
+
+~2 { 2 }
+
+
+
+~ { 2}
+
+n {} 2 - {} 2 = 0.108556
+
+(n {}
+
+2
+
+-
+
+{} 2)
+
+0.5
+
+=
+
+2 x 10-4/cm-1
+
+2.14
+
+2.12
+
+2.1
+
+2.08
+
+2.06
+
+2.04
+
+2.02
+
+2
+
+1.98 -0.8 -0.6 -0.4 -0.2
+
+ Figure 2a
+0
+2.12 2.11
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+2 x 10-4/cm-1
+
+2.1
+
+2.09
+
+2.08
+
+2.07
+
+2.06
+
+2.05
+
+2.04 -0.8 -0.6 -0.4 -0.2 0 0.2 0.4 0.6 0.8
+
+~ ~ Figs. 2a and b. Wave numbers  2 and  2 of ferrocenylidene vs. the Hammett constant  with the NH2 value.
+
+16
+
+
+
+{ 2}
+
+~
+
+-0.27000 2.13600 -0.57672 0.0729 4.562496 -0.27000 2.136882 -0.17000 2.10500 -0.35785 0.0289 4.431025 -0.17000 2.122101 0.000000 2.10000 0 0 4.41 0.000000 2.096973 0.120000 2.09600 0.25152 0.0144 4.393216 0.120000 2.079236 0.230000 2.06600 0.47518 0.0529 4.268356 0.23000 2.062977 0.230000 2.07000 0.4761 0.0529 4.2849 0.23000 2.062977 0.630000 1.99200 1.25496 0.3969 3.968064 0.63000 2.003853 {} 2 () 2 {2} ({}) 2   0.77000 14.56500 1.52319 0.6189 0.5929 30.31806 212.1392 2 2 {} = -0.14781 {o} = 2.096973 n {} + ()({}}= -0.55272 n  ­ () = 3.7394 (n 2 ­ () 2) 5 = 1.933753 0.295252 {1} = {o} + {}  R = -0.96808 R2 = 0.937176654 n {} 2 - {} 2 = 0.087174 (n {}
+2
+
+ {} 2
+
+~
+
+2
+
+~2 { 2 }
+
+
+
+~ { 2}
+
+- {} 2)
+
+0.5
+
+=
+
+2.16
+
+2.14
+
+2 x 10-4/cm-1
+
+2.12
+
+2.1
+
+2.08
+
+2.06
+
+2.04
+
+2.02
+
+2
+
+1.98 -0.4 -0.3 -0.2 -0.1 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+
+2.16
+
+ Figure 2c 2 x 10-4/cm-1
+
+2.14
+
+2.12
+
+2.1
+
+2.08
+
+2.06
+
+2.04
+
+2.02
+
+2
+
+1.98 -0.4 -0.3 -0.2 -0.1 0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+
+~ ~ Figs. 2c and d. Wave numbers  2 and  2 of ferrocenylidene vs. the Hammett constant  without the NH2 value.
+
+17
+

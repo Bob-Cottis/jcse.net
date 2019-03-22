@@ -1,0 +1,104 @@
+Volume 6 Paper C124 Investigating Potential Corrosion Associated with Newly Developed Fuels
+Harovel G. Wheat and Mirage Thakar, Mechanical Engineering Department, University of Texas at Austin, 1 University Station, C2200, Austin, TX 78712-0292, USA hwheat@mail.utexas.edu
+Abstract As the search for fuels with reduced emissions continues, there is a need to understand the corrosion behavior of newly developed fuels and modified fuels when they are in contact with fuel tanks and storage tanks. Traditionally these tanks have been made of steel or coated steel. These fuels are usually not very conductive, so special procedures are often required. Nevertheless, test procedures for the study of fuels in steel containers currently exist. Recent legislation, however, will require that the containers have increased life and perhaps even lower weight. Therefore, new materials, which may be nonferrous or even nonmetallic, may be required. This means that in the future there may be new tanks and new fuels. It is therefore even more important to develop a clearer understanding of the potential interactions between the new tanks and the new fuels. In this paper, a test procedure will be described for the study of the corrosion behavior of new fuels in contact with new materials. Results based on this methodology and newly developed fuels will be discussed. These fuels provide emissions benefits in terms of the oxides of nitrogen and particulate matter when tested over any cycle. This paper will address the concern as to whether additives necessary to cause the emissions reductions result in an increased corrosion risk. Keywords: fuels, emulsified diesel fuel, corrosion, compatibility Introduction Air pollution has become a cause of major concern in the last few decades. In addition to techniques such as using catalytic converters, efforts are being made to develop new fuels that will cause a reduction in polluting emissions from vehicles. Emissions from diesel fuels seem to be of particular concern. Several emulsified diesel fuels have been
+
+developed in an effort to reduce NOx emissions and particulates. These fuels are based on diesel fuels and thus would be expected to behave in a similar manner to diesel fuels. However, there is some vehicle systems because of the additives that have been included; concern about the compatibility of the new fuels with the existing additives that result in lower NOx emissions and particulates. fuel tanks and storage tanks needs to be demonstrated.
+
+Therefore, the compatibility of these new fuels with containers such as The research described in this paper is part of a much larger project in with these new fuels are being examined. In this paper, the research was aimed at identifying the corrosion behavior of some of these new fuels and their compatibility with existing fuel tank materials. Several known tests are available for studying the corrosion behavior of fuels and/or petroleum products. Two tests in particular are SAE J1747 DEC94, Recommended Methods for Conducting Corrosion Tests in Gasoline/Methanol Fuel Mixtures and ASTM D130-94 Standard Test Method for Detection of Copper Corrosion from Petroleum Products by the Copper Strip Test. Both tests require elevated temperatures and the latter one even requires a corrosion test bomb. Since very little is known about the corrosion behavior of these new emulsified fuels, it was decided to gain initial information by using a simplified approach; essentially a planned interval test in which steel strips were immersed in test tubes containing the fuel at room temperature as well as immersion tests involving steel springs at elevated temperatures. Experimental Procedure Prior to conducting the planned interval test, specimens made from 1018 steel and having dimensions 2.75 x 0.325 x 0.25 inch (69.85 x information as to how the test procedure would be carried out. This steel is a plain carbon steel containing 0.18 weight percent carbon and the balance iron. Steels like this can be used in the construction of automobile fuel tanks. The specimens were polished to a surface finish of 600 grit using SiC paper. Three sets of specimens (each containing 7 steel strips) which had previously been weighed were completely immersed in individual test tubes containing one of three fuels; a 8.25 x 6.35 mm) were immersed in the selected fuels to gain
+
+which performance, thermal properties, and other issues associated
+
+2
+
+typical diesel fuel which will be referred to as Fuel D, an emulsified diesel fuel which will be referred to as Fuel S, and another emulsified diesel fuel which will be referred to as Fuel W. In all there were 21 specimens. A cork was placed on each test tube and the test tubes were kept in an upright position. They were not agitated during exposure. Specimens were removed after one day, two days, etc up to five days. The specimens were removed from the fuels and placed in another clean, dry test tube so that the viscous fuel adhering to the stored in a dry container for examination at a later time. specimens could drip off. The next day, they were dried, weighed, and In typical tests where metallic materials are exposed to salt water or acids, the metallic materials are removed after some time and any corrosion products are removed by a metal-specific cleaning procedure and cleaning solution according to certain ASTM or other standard guidelines. This is done prior to weighing the specimens to observe the weight change (usually a weight loss), from which a corrosion rate can be determined. However, in this case the fuel, which is more viscous than most electrolytes, was allowed to dry before the specimens were re-weighed. No solvent was used to remove the fuels. The next set of experiments involved a planned interval test. The idea use that information to determine if the corrodibility of the metal with time. specimens. was to determine the corrosion rate based on weight change and to changes with time and if the corrosiveness of the electrolyte changes The interval of time was taken to be one week and the duration of the test was four weeks. Each test involved triplicate placed in Fuel S and 9 were placed in Fuel W. After 7 days, 3
+
+In this test 9 specimens were placed in Fuel D, 9 were
+
+specimens were removed from each fuel; after 14 days 3 more specimens were removed from each fuel.
+
+specimens were removed from each fuel; and after 21 days the final 3
+
+In the fourth week, three
+
+new specimens were placed in the used fuel from which three specimens of the second set had been removed. They were removed after 21 days of immersion. The third set of experiments involved immersion of steel springs in the fuels at 50 degrees C. components that have undergone deformation prior to use. These springs are representative of vehicle It is
+
+3
+
+known that certain types of springs are subjected to high temperatures during vehicle operation and may experience failure due to corrosion. Results and Discussion
+
+The emulsified fuels, Fuel S and Fuel W, started showing signs of separation after about 3 days and this separation progressed with emulsified fuel settles to the bottom and the lighter portion rises to time. Separation is the process by which the white, denser part of the the surface. Figures 1 and 2 show the early fuel separation and the progressive separation after about 40 days, respectively. In their corrosion tests of stainless steels in methanol-based fuels, Lall and Svilar (1) also found that test fuels containing 15% aggressive methanol separated into two immiscible liquids. In addition, the liquid on top tended to evaporate away very quickly.
+
+Figure 1. Strips of 1018 steel completely immersed in the emulsified fuels.
+
+4
+
+Figure 2. Fuel separation after 40 days.
+
+Even though the emulsified fuels experienced separation, there was no visible evidence of corrosion in the specimens that were exposed to Fuels S, W, and D for up to 5 days. In addition, the weight change was initially weighed about 16 grams. In fact, in most cases, there was a
+
+negligible; on the order of micrograms or less for specimens which slight increase in weight, on the order of micrograms or less. This is exposure and the fuels were allowed to drip off the specimens. No evidence of corrosion was observed until at least three weeks of exposure. Figure 3 shows evidence of corrosion extending upwards from the separation interface after more than 30 days of exposure. This finding is similar to observations noted by Lall and Svilar (1) except that in their case, corrosion was observed only on the area of the test samples that was immersed in the denser liquid.
+
+probably because no solvent was used to clean the specimens after
+
+Fuel S for 31 days. Specimen No. 35 was immersed in Fuel W for 42 days.
+
+exposure for more than 30 days. Specimen No. 7 was immersed in
+
+Figure 3. Evidence of corrosion above the separation interface after
+
+5
+
+Specimens, which were removed from Fuels S and W, showed evidence of corrosion at the bottom where the fuel accumulated as it dripped off. portion. Specimens that were exposed to Fuel D, the diesel fuel, Figure 4 shows a specimen with corrosion only on the bottom
+
+showed no evidence of corrosion after periods of exposure similar to D.
+
+those for Fuels S and W. Figure 5 shows specimens removed from Fuel
+
+Figure 4. Specimen showing accumulation of fuel after removal from exposure.
+
+6
+
+Figure 5. Specimens after exposure to Fuel D for 42 days. The results of the planned interval test after 14 days, 21 days, and 21 days (in used fuel), are shown in Figures 6, 7 and 8, respectively. The time dependence is observable in the fact that there is essentially no evidence of corrosion on specimens in any of the fuels after 14 days (Figure 6). A period of about 21days was necessary to initiate the corrosion process. In addition, the corrosion process in the used fuel (the fuel that had separated) progressed at a faster rate. A comparison of Figure 7 (21 days in new fuel) and Figure 8 (21 days in used fuel) clearly demonstrates this.
+
+7
+
+Figure 6: Specimens 4, 5 and 6 after 14 days of exposure to Fuel S, Fuel W, and Fuel D, respectively. (Note corrosion only at lower end due to fuel accumulation after removal from exposure).
+
+Figure 7: Specimens 7, 8 and 9 after 21 days of exposure to Fuel S, Fuel W, and Fuel D, respectively.
+
+Figure 8: Specimens 10, 11 and 12 after 21 days of exposure to used Fuel S, W, and D, respectively. The results of immersion tests of the steel springs were similar to those observed in the planned interval test. However, with the higher temperature, the corrosion process was accelerated. Figure 9 shows a 8
+
+photograph of one of the springs before exposure. Because of their larger size, they had to be placed in beakers rather than test tubes. Figure 10 shows the separation in Fuels S and W. As observed before, corrosion generally takes place above the separation interface. In this above the interface and consequently undergoes corrosion. case, due to more rapid separation, almost the entire spring is left Photographs taken of the springs after 15 days of immersion in Fuels S, W, and D are shown in Figures 11, 12, and 13, respectively. It is interesting to note that at room temperature, about 21 days were is starting about a week earlier. required to initiate corrosion, but at the higher temperature, corrosion
+
+Figure 9. Photograph of the steel springs before immersion
+
+9
+
+Figure 10. Photograph of beakers containing the springs in Fuel S and Fuel W at 50ºC. (Note the fuel separation)
+
+10
+
+Figure 11. Springs removed from Fuel S after15 days at 50ºC.
+
+Figure 12. Springs removed from Fuel W after 15 days at 50ºC
+
+Figure 13. Specimens removed from Fuel D after15 days at 50ºC.
+
+11
+
+In the case of the particular steels and emulsified fuels used in this investigation, the corrosion behavior seemed to be directly related to fuel separation as evidenced by corrosion above the separation interface. This suggests that differential aeration cells may play a
+
+major role in the corrosion process. With respect to fuel/fuel tank compatibility, this could mean that long periods of exposure accompanied by fuel separation could be a problem. pointed out that relatively long periods seem to be required at room temperature, as no evidence of corrosion was obvious until about three weeks. With respect to fuel/storage tank compatibility, there is in storage tanks generally corrosion (MIC). It should be noted that the corrosion behavior is very dependent on the fuel/metal combination. Similar tests conducted on a plated steel in Fuels S and W at 50 degrees C for 15 days showed no visible evidence of corrosion. Lall and Svilar ( 1) also found that two of their steels exhibited corrosion in 24 hours while certain austenitic stainless steels showed less than 2% of the surface was covered in rust after 1500 hours. Conclusions undergo periodic agitation. indication that the problem has already been addressed since the fuels biocides are often used to mitigate microbiologically influenced In addition, It should be
+
+Based on this investigation, the results of the exposure of 1018 steel (and presumably other similar steels) to two emulsified fuels, Fuel S and W, at room temperature indicate that prolonged exposure could be a potential problem. Relatively long periods seem to be required at room temperature, as no evidence of corrosion was obvious until about three weeks. The problem seems to accompany fuel separation, since the corroded surface seems to coincide with the extent of separation and the corroded area is the area above the separation interface. Corrosion rates based on weight changes after allowing the fuel to drip off were very negligible. When specimens were immersed in used emulsified fuels (fuel which had been allowed to separate), the corrosion progressed at a faster rate.
+
+12
+
+Corrosion required some time to initiate; in this case about 21 days. The higher temperature of 50ºC resulted in faster separation of the emulsified fuels and enhanced corrosion of springs after 15 days in Fuels S and W.
+
+Acknowledgments
+
+The authors are very grateful to Dr. Ronald Matthews of the Mechanical Engineering Department at the University of Texas at Austin and Mr. Don Lewis of the Texas Department of Transportation. References 1. Lall, C. and M. Svilar, "The corrosion resistance of p/m stainless steels and selected alloys in methanol-based fuels," Proceedings of the 1992 Powder Metallurgy Inst, San Francisco, June 21-26, 1992, Publ by Metal Powder Industries Federation, Princeton, NJ, USA.
+
+13
+

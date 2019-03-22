@@ -1,0 +1,398 @@
+ISSN 1466-8858
+
+Failure of Thin Films of Organic Coatings by Shearography: Novel Approach-I
+K. Habib Materials Science Laboratory Department of Advanced systems, (KISR) P. O. Box 24885 SAFAT, 13109 Kuwait Tel:965-543-0348, Fax:965-543-0239,E-Mail:khaledhabib@usa.net ABSTRACT
+
+Volume 10, Preprint 34
+
+submitted 31 October 2007
+
+In the present work, the temperature versus thermal deformation (strain) with respect to time, of different coating films were studied by a non-destructive technique (NDT) known as shearography. An organic coating, i.e., ACE Premium Enamel, on a metallic alloy, i.e., a carbon steel, was investigated at a temperature range simulating the severe weather temperatures in Kuwait especially between the daylight and the night time temperatures, 20-60 0C. The investigation focused on determining the in-plane displacement of the coating,
+
+which amounts to the thermal deformation (strain) with respect to the applied temperature range. Furthermore, the investigation focused on determining the thermal expansion coefficients of coatings, the slope of the plot of the thermal deformation (strain) versus the applied temperature range. In other words, one could determine,
+
+from the decreasing value of the thermal expansion coefficients of coatings, a critical (steady state) value of the thermal expansion coefficients of coatings, in which the integrity of the coatings can be assessed with respect to time. In fact, determination of critical (steady state) value of the thermal expansion coefficients of coatings
+
+could be accomplished independent of parameters, i.e., UV exposure, Humidity, exposure to chemical species, and so on, normally are considered in conventional methods of the assessment of the integrity of coatings. In
+
+other words, with the technique of shearography, one would need only to determine the critical (steady state) value of the thermal expansion coefficients of coatings, regardless of the history of the coating, in order to assess the integrity of coatings. Furthermore, results of shearography indicate that the technique is very useful NDT method not only for determining the critical value of the thermal expansion coefficients of different coatings, but also the technique can be used as a 2D- microscope for monitoring the deformation of the coatings in real-time at a submicroscopic scale
+
+KEYWORD: Shearography, Optical Interferometry, Thermal Expansion Coefficient, In-Plan Displacement, High Temperatures, Carbon Steel, Organic Coating, ACE Premium Enamel.
+
+INTRODUCTION
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+1
+
+ISSN 1466-8858 It is well
+
+Volume 10, methods submitted 31 October 2007 established that metrological Preprint 34 of coherent lights such as speckle
+
+interferometry are found very useful in measuring deformation at surfaces of different objects in various conditions [1]. However, few works of the coherent light techniques have been utilized for
+
+determining the thermo-mechanical behavior of different coatings on metallic samples thus far. In fact, the author [2-3] was first to apply the technique of speckle shearing interferometry, shearography, for measuring of the thermal expansion coefficients of different coatings on metallic samples, in a temperature range between 20-60 0C. The technique of the author is dependent on determining the inplane displacement of the coating, which amounts to the thermal deformation (strain) with respect to the applied temperature range. Furthermore, the technique focused on determining the slope of the plot of the thermal
+
+deformation (strain) versus the applied temperature range, the thermal expansion coefficients of coatings.
+
+As a consequence, one may speculate the possibility of applying the technique of shearography for
+determining a critical (steady state) value of the thermal expansion coefficients of coatings in which the integrity of the coatings can be assessed with respect to time.
+
+This is very significant step, because the
+
+thermal expansion coefficient represents a visco-elastic property, ability of elastic-flow, of solid films on solid substrates, which is normally difficult to obtain by conventional methods, i.e., dial-metric methods or strain gages [6-7]. This is because the necessary contact procedures, with the solid films,
+
+of the conventional methods as compared to the non-contact procedures of the technique of shearography. In other words, a successful attempt to obtain the thermal expansion coefficients of thin films on substrates, for the first time, by the technique of shearography would lead to the exclusion of independent variables such as exposure to different chemical species (gases or liquids), humidity, and exposure to ultra violet (UV) radiation, of the study of coating behavior in the surrounding environment. As a result, the only independent variable of the study of coating deterioration by the surrounding environment becomes the aging of the coating (time). By determining the thermal
+
+expansion coefficients of coatings, ability of elastic-flow, by the technique of shearography, at a temperature range from 20-60 oC, with respect to the aging of the coatings, it is expected that the thermal expansion coefficients of coatings eventually will attain a steady state (critical) value. The
+
+critical value of the thermal expansion coefficients will become even more important with time, as the mechanical properties of coatings change, leading to the brittleness of the coatings [6-7]. Consequently, it is expected that the coatings will fail by crazing either in the film matrix or at the interface between the film and the substrate.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+2
+
+ISSN 1466-8858 investigation, In this
+
+Volume 10, Preprint 34 submitted of the thermal procedures of determination the critical (steady state) value 31 October 2007
+
+expansion coefficients of different organic coatings, i.e., ACE Premium Enamels, are described.
+
+In
+
+other words, one could determine, from the decreasing value of the thermal expansion coefficients of coatings, a critical (steady state) value of the thermal expansion coefficients of coatings, in which the integrity of the coatings can be assessed with respect to time, at a ranged of temperature, from 20 to 60 C.
+0
+
+THEORETICAL ANALYSIS
+
+In speckle metrology, it is well known that an interferogram of an object normally results from two speckle wave fronts nearly superimposed but having slightly phased shift because of the deformation which usually takes place at the object surface between the first and second exposure. In the case of measuring surface relief of a coating, which associated with localized heat impingement, the following procedures are applied [2-3]: 1. Introducing localized heat impingement, of a heat source such as a hot air blower, with known diameter, d, to the coating surface of metallic samples. 2. Subsequently, a surface relief, d, is expected to occur around the area of the localized heat
+
+impingement because of the heat induction to the coating, see Fig. 1. 3. The strain relief,  = d/d, is measured by the technique of shearography according to the
+
+Following relationship [4] :
+
+ = N1 (1 + Cos2) ­ N2 (1 + Cos1) 2S Sin1(1+ Cos2) ­Sin2 (1 + Cos1)
+
+Equ.(1)
+
+Where, N1, N2 are the fringe orders, corresponding to illumination angles 1, 2, respectively in which 1, 2 are obtained from the experimental set up.  is the wavelength of the laser light used, ( = 0.6238 µm of a He-Ne laser light). S is the constant related to the shearing camera, (S=10 mm). For more details on the derivation of Equ. 1, the reader is encouraged to refer to the literature elsewhere [4]. 4. A relationship between strain relief, , and the temperature range, T ( T =20-60 0C), induced by the localized heat impingement is defined as follows [5]:  =  ( T) Equ.(2)
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+3
+
+ISSN 1466-8858 Volume 10, T is the submitted the localized Where,  is the thermal expansion of the coating, Preprint 34 temperature range around 31 October 2007
+
+heat impingement.
+
+As a result, one can determine from Equs. (1) and (2), the thermal expansion
+
+coefficient of coatings by shearography , by obtaining the slope of the plot of the temperature versus the strain of the coated samples. 5.A critical value of the thermal expansion coefficient of coatings can be determined from the following proposed failure criterion of a thin coating film on a solid substrate: lim (c/s)=1 c--s where c is the thermal expansion coefficient of a thin coating film, assuming that c is decreasing with time according to the literature [6-7]. s is the thermal expansion coefficient of a solid substrate, assuming that s is a constant.
+Equ.3 represents the failure criterion of a thin coating film on a solid substrate. The relationship of Equ.3 states that as the value of the thermal expansion coefficient of the thin coating film (c ) decreases compared to the value of the thermal expansion coefficients of the solid substrate (s ) with respect to time,
+
+Equ. (3)
+
+it is expected that the coating will fail by
+
+crazing either in the film matrix or at the interface between the film and the substrate.
+EXPERIMANTAL WORKS
+
+Uncoated and coated metallic samples of a carbon steel, UNS No. 1020, were used in this investigation. The chemical composition of the carbon steel is 0.18-0.23%C, 0.3-0.6% Mn, and
+
+Balanced Fe. The carbon steel samples were fabricated in a rectangular form with dimensions of 5cm X 10cm X 0.15cm. Then, some samples were covered by different coatings. The coatings were
+
+gray, white, and beige ACE Premium Enamels (spray coatings).
+
+All samples were covered by the
+
+different coatings except one side of the samples. The reason behind leaving one side of the samples uncovered is because to heat the uncovered side in a furnace, while testing the painted side of the samples against high temperature. In addition to the above coated samples, uncoated samples of the carbon steel were used in this investigation, as reference samples, for a comparison sake with the coated samples. The temperature of the furnace was monitored by a digitized thermocouple and a temperature controller. The source of the heat was a hot air blower. The hot air blower was
+
+fabricated in a way to be synchronized, to reach a desired temperature in a certain time and shut down.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+4
+
+ISSN desired Volume C, Preprint 34 submitted 31 October 2007 At the1466-8858 temperature, i.e., 20,30,40,50,60 010, a shearograph of the sample was recorded using a
+
+shearographic Camera.
+
+In this study, a shearographic camera with a T.V Monitoring system were
+
+used to facilitate recordings of the real time-shearographs of the samples during the high temperature test. The optical set up for the shearographic system was based on a typical Michelon interferometry set up [2] for recordings shearographs, in which one mirror was used to introduce the shearing element (S=10 mm) to the original image of the sample and the other mirror was used to introduce the phase shift to the subsequent images of the sample, see Figure 2 for more detail on the set the experimental up of the shearograhic system. An He-Ne laser light was used as a coherent light in this
+
+investigation. The size of the recorded shearograph was 10cm X 3.3cm. The shearographic camera is made by Steinbichler Optotechnik GmbH, in Germany. Finally, the obtained shearographs of the
+
+samples were interpreted to thermal deformations (strain) by using a special software package. Then
+the thermal expansion coefficients of the different coating were determined from the slope of the plot of the thermal deformation (strain) versus the applied temperature range. In addition, the relationship of Equ.3, of the ratio of c/s versus time, were plotted for different coatings, in order to show the safe and unsafe
+
+regions of the failure criterion of a thin coating film on a solid substrate.
+
+RESULTS AND DISCUSSION
+
+Figures 3,4,5,6,and 7 illustrate examples of shearographs of uncoated carbon steel sample at 20,30,40,50,60 0C, respectively. It is obvious from the shearographs that the magnitude of the strain
+
+bar is ranged from 0-2.66 X100 µm/mm (0.0-0.266% strain), from the black color (at zero strain) to the white color (at 2.66 X100 µm/mm). Each color on the strain bar represents an increment of a
+
+strain magnitude equivalent to 0.33 X100 µm/mm (0.033% strain),. Fig. 3 represents a shearograph of the uncovered carbon steel at 20 0C, at room temperature, without any thermal deformation, at the beginning of the test. It is clear from Fig.3 that the sample of the uncoated carbon steel has not been subjected to any thermal deformation, because there is no color contrast existed in the shearograph, due to a thermal deformation. In contrast, Fig.4 shows the uncovered sample of the carbon steel at 30 0C, in which the pink-red color is uniformly dominating the shearograph. In other words, Fig.4 has been subjected to a thermal deformation ranged from 1.0- 1.33 X100 µm/mm (0.1-0.133% strain). Furthermore, Figs.5 shows the uncovered sample of the carbon steel at 40 0C in which the light bluepink color is uniformly dominating the shearograph with some spots of red color. This means, Figs.5
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+5
+
+ISSN 1466-8858 Volume 10, Preprint 0.33- 1.33 X100 µm/mm (0.033-0.133% submitted 31 October 2007 has been subjected to a thermal deformation ranged from 34
+
+strain). Also, Figs.6 shows the uncovered sample of the carbon steel at 50 0C in which the pink-red color is uniformly dominating the shearograph with some spots of green color. This means, Figs.6
+
+has been subjected to a thermal deformation ranged from 1.00- 1.66 X100 µm/mm (0.1-0.166% strain). In addition, Fig.7 shows the uncovered sample of the carbon steel at 60 0C, in which redIn other words, Fig.7 has been subjected to a thermal
+
+green color is dominating the shearograph.
+
+deformation ranged from 1.33- 1.66 X100 µm/mm (0.133-0.166% strain), in a homogeneous manner. In general, From shearograhs in Figs.3,4,5,6,7 one can conclude that the uncovered sample of the carbon steel has gone through a thermal deformation ranged from 0-1.66 X100 µm/mm, with an
+average thermal expansion coefficient equivalent to; Ave.cs= 0.025 X100 µm/mm 0C, in a temperature ranged from 20-60 0C, see Figure 8, for the plot of the temperature versus the strain of the carbon steel sample.
+
+Figures 9,10,11,12,and 13 illustrate examples of shearographs of the covered sample of the carbon steel by gray ACE Premium Enamel, at 20,30,40,50,60 0C, respectively.
+Enamel has not been subjected to any thermal deformation, at 20 0C.
+
+Fig.9 represents a
+
+similar shearograph to Fig.3, because the sample of the coated carbon steel by the gray ACE Premium From Figs.10 and 11, colorful
+
+fringes, black-light blue-dark-blue fringes, were observed to gradually appear in the shearographs, indicating a localized thermal deformation, from 0-1 X100 µm/mm(0.0-0.1% strain). This
+
+phenomenon of the appearance of colorful fringes in the covered carbon steel by the gray ACE
+Premium Enamel was due to the higher thermal expansion coefficient of the covered carbon steel by the
+
+gray ACE Premium Enamel than the thermal expansion coefficients of the uncovered carbon steel.
+
+On
+
+the contrary, Figs 12 and 13 exhibit uniform fringes of different colors (from light blue to white spectra) in the shearographs, indicating a steady thermal deformation, from 0.33-2.66 X100 µm/mm, has been developed in the shearographs at 50 and 60 0C, respectively. In general, From shearograhs
+
+in Figs.9,10,11,12, 13 one can conclude that the coated sample of the carbon steel has gone through a thermal deformation ranged from 0-2.66 X100 µm/mm, with an average thermal expansion coefficient equivalent to; Ave.gc=0.0467X100 µm/mm 0C, in a temperature ranged from 20-60 0C, see Figure
+14, for the plot of the temperature versus the strain of the carbon steel sample covered by the gray ACE Premium Enamel.
+
+.
+
+In general, the colorful bar at Figs.3-7 and Figs. 9- 13 indicates the strain scale distribution at
+
+the sample from 20-60 0C. It is obvious from the shearographs that the black areas have suffered no
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+6
+
+ISSN 1466-8858 submitted 31 October 2007 deformation. In contrast the white areasVolume 10, Preprint 34 have suffered expansion (deformation), of the shearograph
+
+except in Figs.3, and 9. In fact the temperature range of the black areas and the white areas of the shearographs is between 20 0C and 60 0C, between the room temperature and the highest temperature used in the experiment on the uncoated and coated samples. Furthermore, a relationship of the ratio of gc/cs versus time, using Equ.3, was plotted ,see Fig.15, in order to show the safe (above the line)and unsafe (below the line) regions of the failure criterion of the gray ACE premium Enamel on the carbon steel substrate.
+Fig.15 was plotted based on
+
+gc/cs=1.84, at (time) T=0month and gc/cs=1.00, at T =24months, assuming that the failure of the coating will occur within 24 months of the coating exposure to the surrounding environment. In a similar fashion to the above, the average thermal expansion coefficients of carbon steel samples covered by the white and beige ACE Premium Enamels were determined, see Figures 16 and 18,
+for the plots of the temperature versus the strain of the carbon steel covered by the white and gray ACE Premium Enamels, respectively. The average thermal expansion coefficients of the white and the beige
+
+ACE premium Enamels were found equivalent to Ave. wc =0.05X100 µm/mm Ave. bc =0.035X100 µm/mm 0C, respectively, in a temperature ranged from 20-60 0C.
+
+0
+
+C,and
+
+Eventually, in similar manner to Fig.15, relationships of the ratio of wc/cs and bc/cs versus time were plotted, see Figs.17and 19, respectively, in order to show the safe and unsafe regions of the failure criterion of the white and beige ACE premium Enamel on the carbon steel substrate. Figs.17
+and 19 were plotted based on wc/cs=2.0 and bc/cs=1.4
+
+at (time) T=0month and wc/cs=1.00
+
+and bc/cs=1.00, at T =24months, assuming that the failure of the coatings will occur within 24 months of the coating exposure to the surrounding environment.
+
+CONCLUSIONS The following conclusions have been drawn from the above investigation: 1-The results of the present investigation indicate that the technique of shearography is very useful NDT method not only for determining the critical values of the thermal expansion coefficients of different coatings, but also the technique can be used as a 2D- microscope for monitoring the deformation of different coatings in real-time at a submicroscopic scale. 2-The average thermal expansion coefficient of the uncovered carbon steel sample was determined to be equivalent to Ave.cs= 0.025 X100 µm/mm 0C, in a temperature ranged from 20-60 0C.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+7
+
+ISSN 1466-8858 Volume the carbon steel samples covered by the gray, white submitted 31 October 2007 3- The average thermal expansion coefficients of10, Preprint 34
+
+and beige ACE premium Enamels were determined to be Ave.gc=0.0467X100 µm/mm 0C, Ave. wc =0.05X100 µm/mm
+0
+
+C,and Ave. bc =0.035X100 µm/mm
+
+0
+
+C, respectively, in a
+
+temperature ranged from 20-60 0C, see Figs 14, 16, and 18 for the plot of the temperature versus the strain of
+the carbon steel sample covered by the gray, white, and beige ACE Premium Enamels.
+
+4-For the first time, the ratio of gc/cs, wc/cs, and bc/cs versus time were plotted ,see Figs.15,17,and 19, respectively, in order to show the safe (above the line) and unsafe(below the line) regions of the failure criterion of the gary, white, and beige ACE premium Enamels on the carbon steel
+substrate. Figs.15,17, and 19 were plotted based on gc/cs=1.84, wc/cs=2.0, and bc/cs=1.4
+
+at
+
+(time) T=0month and gc/cs =, wc/cs=1.00 and bc/cs=1.00, at T =24months' 5- It is worth mentioning that the plots of Figs.15,17,and 19 are based on a conservative approach. Plots such as those of Figs.15,17,and 19 based on a practical (less conservative) approach can be obtained by determining the ratio of c/s of a coated carbon steel, once a month during the 24 months period of the exposure to the surrounding environment. This will be the next task (second part) of the present investigation. 6- For a comparison sake, plots such as those of Figs.15,17,and 19 will be obtained by determining the ratio of a.c. impedance of the coatings to the a.c. impedance of the carbon steel( c/s) in 3% NaCl solution, once a month during the 24 months period of the exposure to the surrounding environment. This also, will be the next task (second part)of the present investigation.
+
+REFERENCES
+
+[1]-K. Robert, ERF, "Speckle Metrology", Academic Press, New York (1978), P. 2. [2] Habib, k.,: Thermally induced deformations measured by shearography", Optics and Laser Technology. Vol.37, pp. 509-512 (2005). [3]-K.Habib," Measurement of Thermal Expansion Coefficients of Thin Film of Different Organic Coatings by Shearography ",Key Engineering Materials,Vol.321-323,PP.67-70 ( 2006). [4]-H.Zhang and J.Ke,"Determination of Residual Stress by Laser Speckle Shearing Interformetry and Hole Drilling Method" Journal of Experimental Mechanics(1986),Vol. 1, pp.181-188. [5]-J.Shigley, "Mechanical Engineering Design", McGraw-Hill 3rd Edition, New York (1978),pp.67-69.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+8
+
+ISSN 1466-8858 Volume 10, Preprint 34 submitted [6]-R.Lambourne, "Paint and Surface Coatings: Theory and Practice", John Wiley& Sons (1987).31 October 2007
+
+[7]-P.Schweitzer, "Mechanical and Corrosion Resistance Properties of Plastics and Elastomers", Marcel Dekker Inc., New York. (2000).
+
+d d A
+
+Fig.1 Localized heat impingement ,d , and the surface relief, d, which associated with the heat induction to the surface area of the coating, A.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+9
+
+ISSN 1466-8858
+
+Volume 10, Preprint 34
+
+submitted 31 October 2007
+
+TV Monitor (CCD)
+
+Image processing System
+
+Phase-shifter Shearographic Camera
+
+B1/B2
+
+b
+Coated sample (object) Objective lens 2 Objective lens 1
+
+O1
+
+Mirror
+
+Micrometer for adjusting the shearing ­ distance and direction
+
+O2
+
+Piezo-electric Mirror
+
+Laser Light
+
+Fig. 2. Optical set up of shearographic system.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+10
+
+ISSN 1466-8858
+
+Volume 10, Preprint 34
+
+submitted 31 October 2007
+
+3
+
+4
+
+5
+
+6
+
+7
+
+Figs.3,4,5,6,7 Show 2D-shearographs of the uncoated carbon steel sample at a temperature around 20 0C,30 0C,40 0C, 50 0C,and 60 0C, respectively.
+
+1.6 1.4 1.2 1 0.8 0.6 0.4 0.2 0 0
+
+Strain(x100um/mm)
+
+y = 0.025x - 0.133
+
+20
+
+40
+
+60
+
+80
+
+Temperature(0C)
+Fig 8 shows a plot of the temperature versus the strain of the carbon steel sample.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+11
+
+ISSN 1466-8858
+
+Volume 10, Preprint 34
+
+submitted 31 October 2007
+
+9
+
+10
+
+11
+
+12
+
+13
+
+Figs,9,10,11,12,13 Show 2D-shearographs of the carbon steel sample covered by the gray ACE Premium Enamel at a temperature around 20 0C, 30 0C, 40 0C, 50 0C, and 60 0C, respectively.
+Strain(x100um/mm)
+
+3 y = 0.0467x - 0.3 2 1 0 0 10 20 30 40 50 60 70 Tem perature (0C)
+
+Fig.14 shows a plot of the temperature versus the strain of the carbon steel sample covered by the gray ACE Premium Enamel.
+Ratio of  gc/ cs
+
+2 1.5 1 0.5 0 0 5 10 15 Time(Months) 20 25 30
+
+Fig.15 shows a relationship of the ratio of gc/cs versus time, using Equ.3, of the failure criterion of the ACE premium Enamel ,Gray coating, on the carbon steel substrate.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+12
+
+ISSN 1466-8858
+Strain(x100um/mm) 2.5 2 1.5 1 0.5 0 0 10 20 30
+
+Volume 10, Preprint 34
+y = 0.05x - 0.767
+
+submitted 31 October 2007
+
+40
+
+50
+
+60
+
+70
+
+Tem perature(0C)
+
+Fig.16 shows a plot of the temperature versus the strain of the carbon steel sample covered by the white ACE Premium Enamel.
+Ratio of  wc/  cs 2.5 2 1.5 1 0.5 0 0 5 10 15 Tim e (Months) 20 25 30
+
+Fig.17 shows a relationship of the ratio of gc/cs versus time, using Equ.3, of the failure criterion of the white ACE premium Enamel on the carbon steel substrate.
+Strain (x100um/mm)
+
+2 1.5 1 0.5 0 0 10 20 30 40 50 60 70 Tem perature(0C) y = 0.035x - 0.667
+
+Fig.18 shows a plot of the temperature versus the strain of the carbon steel sample covered by the beige ACE Premium Enamel.
+
+Ratio of  bc/ cs
+
+1.6 1.4 1.2 1 0.8 0.6 0.4 0.2 0 0 5 10 15 20 25 30
+
+Tim e(Months)
+
+Fig.19 shows a relationship of the ratio of bc/cs versus time, using Equ.3, of the failure criterion of the beige ACE premium Enamel on the carbon steel substrate.
+
+© 2007 University of Manchester and the authors. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+13
+

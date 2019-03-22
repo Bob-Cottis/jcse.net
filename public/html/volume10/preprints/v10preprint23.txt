@@ -1,0 +1,713 @@
+ISSN 1466-8858
+
+Volume 10 Paper 23
+
+Well-Casing Conventional and Pulse CathodicProtection Systems: A Comparative Investigation
+
+I.A. Metwally and A. Al-Badi
+
+Dept. of Electrical & Computer Engineering, College of Engineering, Sultan Qaboos University, Muscat-123, Sultanate of Oman metwally@squ.edu.om, albadi@squ.edu.om
+
+Abstract
+This paper introduces a comparative theoretical investigation of the conventional protection (PCP) systems to show how both of them behave under different operating conditions. The effectiveness of the PCP system has been analyzed in the light of getting better protection-current distribution along the protected well casing at reduced anode current together with reducing the stray current (corrosion) at any nearby unprotected structure(s). Many factors have been investigated to show their effects on the performance of the CP system, namely, soil resistivity, voltage pulse waveform and frequency, and multi-layer soil. In addition, the performance of both the conventional CP and the PCP systems has been compared to that when utilizing unused/abandoned well casing as anode energized by the conventional CP system. The
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at referenced in published work. © University of Manchester 2007. http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be
+
+cathodic
+
+protection
+
+(CP)
+
+and
+
+the
+
+pulse
+
+cathodic
+
+PCP system shows better performance than that of the conventional CP, and a similar performance at high soil resistivity to that when using unused/abandoned well casing. On the other hand, the performance, especially at low soil resistivities, where the protectiondecay sharply.
+
+utilization of the unused/abandoned well casing gives superior current profiles of both the conventional CP and the PCP systems
+
+Keywords: Oil Well Casing, Pulse Rectifier, Cathodic Protection, Stray Current, Interference, Simulation.
+
+1. INTRODUCTION
+Pulse Cathodic-Protection (PCP) systems were developed in response to a need for protecting closely spaced well casings [1-3]. Interference is an undesirable side effect of conventional CP system and it can be found in two forms, namely, stray current and mutual [35]. Interference is mainly governed by the soil resistivity and CP current level [4]. In the case of closely spaced well casings, the straycurrent interference occurs for unprotected structures or when their rectifiers fail. While the mutual interference occurs when two or more well casings are protected at different levels and/or have the same level but with different lengths. Interference adversely affects the distribution of CP along the well-casing axial length [5]. This may lead to a change in the slope of the potential profile to be opposite of that for the case without interference. As a result, this allows an increase in local cell action, i.e. accelerated corrosion rate. PCP is a unique CP device designed to provide protection from external corrosion of buried metal structures such as well casings and pipelines. The shape of the PCP current waveform has been described as "saw tooth". The output is given by discharging capacitors. The capacitors are charged up to 320V and the capacitance is variable from 0.15F to 5F. The rectifier can be adjusted from a frequency of 1000 to 5000 pulses per second, i.e. with a frequency range of 1-5kHz [1, 6-18]. 2
+
+less than 50s. The current rise and fall times are controlled by the
+
+The voltage rise time is less than 5s and the fall time is typically
+
+electrical properties of the anode, cathode (well casing) and electrolyte as well as the capacitance and frequency settings [1, 6-18]. The pulse the limits described above. There are different hypotheses about PCP interference [15-18]. The width is controlled by adjusting the capacitance and frequency within
+
+most two famous hypotheses that explain why PCP systems reduce interference are as the following. (a) Kinetic theory: the pulse duration is less than the time required for an oxidation reaction to occur. Consequently, a potential shift (interference) can be observed on neighboring structures, but this does not result in corrosion. (b) Skin effect theory: Because of the high frequency, the pulse currents travel along the outside surface of the conductors only and therefore have no effect on other structures in the electrolyte. Although, there exist other hypothetical explanations but unfortunately none of them has been clearly proven (or the proof has not been well documented). Some test results indicate that PCP systems do not reduce interference [15-18]. The CP current (DC) mitigates corrosion by electrochemically reducing any corrosive oxygen molecules and hydrogen ions that may be adsorbed on the surface of the structure in contact with the soil. As additional molecules and ions diffuse from the soil and become adsorbed onto the steel surface, they are also reduced by the continuously flowing direct current. There are certain drawbacks to conventional cathodic protection, however. Current flows in the ground continuously in a relatively large three dimensional envelope. If there are other foreign metallic structures buried in the soil within the current envelope, damage in terms of metal loss will very likely occur to the foreign structures. Also, the "throw", or distance down the pipeline or well casing that can be protected, is limited by the magnitude of the current reaching the more distant corroding surfaces. Test results of PCP to date have been conflicting and are subject to interpretation [1, 6-18]. The advantages of the pulse system have not 3
+
+been clearly proven or unproven and more information is needed [1, 6-18].
+
+conventional CP and PCP systems to show how both of them behave under different operating conditions.
+
+This paper introduces a comparative theoretical investigation of the
+
+2. SOIL STRUCTURE ANALYSIS AND THE COMPUTATIONAL APPROACH
+art The investigation reported in this paper is based on a state-of-thecommercial computer aided-design tool, CDEGS (Current Distribution, Electromagnetic Fields, Grounding and Soil Structure Analysis), which accommodates both the field and circuit-based model [19]. The CDEGS software package is a powerful set of integrated engineering software tools designed to accurately analyze problems involving grounding/earthing, electromagnetic fields, electromagnetic interference including AC/DC interference mitigation studies and various aspects of cathodic protection and anode bed analysis with a global perspective, starting literally from the ground up. It computes conductor currents and electromagnetic fields generated by an arbitrary network of energized conductors anywhere above or below ground for normal, fault, lightning and transient conditions. The interference levels can generally be calculated by using either a circuit approach or a field approach. The circuit approach usually offers more flexibility for long right-of-way shared by overhead transmission lines and pipelines. Thus in order to build a circuit model, a large number of line parameter calculations needs to be performed, which is a time consuming process. However, the predictions from the circuit approach are always conservative [20]. The filed approach, on the other hand, is based on numerical solution of all Maxwell's equations [21, 22]. Numerical evaluation (Gaussian integration method) of Sommerfeld integrals is used instead of an analytical approximation in order to get highly accurate results. This approach models the complete conductor network under consideration, in three-dimensional space and accommodates angled 4
+
+conductors without making any approximations. The inductive,
+
+conductive and capacitive coupling effects between all the elements in the network are simultaneously computed in one single step. The software utilized in our study is presented in references [21, 22]. detailed discussion of the computation methods employed by the
+
+using the MALZ program (frequency domain grounding analysis), which is subpackage of CDEGS. MALZ analyzes the frequency domain performance of buried conductor networks in the range from 0 to 1MHz and calculates the following quantities: earth and conductor potentials, longitudinal and leakage current distribution in the conductors, as well as magnetic fields in the air. This powerful grounding package is the ideal tool whenever coated conductors such no longer be approximated in a as equipotential horizontally, structures. spherically The or as pipelines need to be modeled and/or if the metallic conductors can conductors can be solid or hollow, coated or uncoated, and can be arbitrarily directed vertically,
+
+In particular, the analysis of cathodic protection has been carried
+
+cylindrically layered soils and soils with finite volumes of different resistivities. In addition, MALZ can calculate the longitudinal (axial) and earth leakage (transversal) currents and potentials at each location in the grounding network (including return electrodes and metallic structures) [19].
+
+3. STUDY CASE
+combined and induced interference. Cathodic interference is more serious than its anodic fellow, since the current leaving the pipe/well casing close to the protected structure has a high current density, due to the localized anodic zone on the foreign structure. This foreign body only needs to be within the area of negative potential over a relatively short distance, for a severe concentrated corrosion to occur. In this paper, a study case has been investigated for the cathodic interference situation. Fig. 1 shows two parallel and equal-length vertical well casings spaced at 250m, where one is protected by a 5-m anode at 250m and the other is left unprotected. 5 There are four types of CP interferences, namely, anodic, cathodic,
+
+z
+
++
+
+-
+
+0
+Stray current
+
+0
+
++
+
+Ground bed (Anode), 5m 250 m 250 m Unprotected well casing, 1 km
+
+Protected well casing, 1 km
+
+Stray current
+
+-
+
+x
+Fig. 1 Schematic representation of the simulated cathodic interference situation on an unprotected well casing from a nearby protected one.
+
+4. 4.1
+
+RESULTS AND DISCUSSION Soil Resistivity
+
+The distribution of CP on a well casing is affected by many factors as [4, 5]: (1) the geometry of the cathodic protection systems, (2) proximity of other conductors, (3) variations of soil resistivity, (4) the presence or absence of insulation on the casing, and (5) polarization of the casing surface. Figs. 2(a) and 2(b) illustrate the waveforms of the total anode current and the well-casing segment current at 4m from the top of the well for different soil resistivities () due to square voltage wave pulse
+
+with a frequency f = 3kHz, a pulse width W = 100s and an amplitude
+
+Vmax = 100V, respectively. The field measurements [23] have shown
+are DC with superimposed ripples having the same frequency of the 6
+
+that all the recorded PCP currents through well casings and anodebeds
+
+voltage pulses (3kHz). This is attributed to the inductive effect of the PCP current path which includes the feeding cables and the well casing itself. MATLAB simulation has shown a similar trend of the abovementioned current waveforms, where both the well casing and the connecting cables are simulated by a series resistance and inductance in the order of few ohms and few mH, respectively. These two values
+
+highly depend on the well-casing length (few km) and the soil resistivity. In Fig. 2, it can be seen that there is a nonlinear decrease in with soil resistivity. Both the soil resistivity and polarization of the steel of well casings limit the magnitude of current produced by the PCP system and hence the stray current along the unprotected structure. For local-action cell on the surface of a metal, structures are in close proximity to each other; consequently, the soil resistivity is usually a secondary factor compared to the more important factor of polarization [24]. When the polarization occurs at the anode or at the cathode, it is said that the corrosion reaction is anodically or cathodically controlled, respectively. Therefore, the trend of the results in Fig. 2(a) is mainly attributed to the effect of steel polarization. The protection current at well-casing segment shown in Fig. 2(b) indicates that as the soil resistivity decreases the current pulses increase without swinging to positive values. This can be interpreted in terms of the time constant, where decreasing the soil resistivity gives lower resistance for the same inductance value, i.e. larger time constant. with depth (d) using PCP with square voltage wave pulse having f = that close to the rectifier/anode (top segments, e.g. at d = 4m and 28m) the current should appear as a series of pulses with the same frequency as the voltage pulse. As the distance from the 3kHz, W = 100s and Vmax = 100V and at  = 1  m. It can be noticed Fig. 3 shows the variation of the well-casing current waveforms the anode total current and the well-casing segment current at 4m
+
+rectifier/anode increases, the pulse attenuates, the pulse width increases and the amplitude decreases (but the frequency remains constant). At some distance this attenuation will cause the pulsed 504m. Once the current becomes constant DC, it is not different than that from the conventional rectifiers. 7 current to become constant DC, e.g. those at e.g. at d = 204m and
+
+160
+
+120 Total current, A
+=1m =5m  = 20  m  = 100  m
+
+80
+
+40
+
+0
+
+0
+
+200
+
+400 600 Time, s
+
+800
+
+1000
+
+(a) Total anode current.
+
+2 0 Current at 4m, A -2 -4 -6 -8 0
+ =1  m  =5  m  =20  m  =100 m
+
+200
+
+400 600 Time, s
+
+800
+
+1000
+
+(b) Well-casing current at 4m from top. square wave at Vmax = 100V and f = 3kHz. Fig. 2 Variation of the current waveforms with soil resistivity () for
+
+8
+
+0
+
+-2 Current, A
+
+-4
+
+-6
+
+d=4m d = 28 m d = 204 m d = 504 m
+
+-8 0
+
+200
+
+400 600 Time, s
+
+800
+
+1000
+
+ = 1  m, for square wave at Vmax = 100V and f = 3kHz.
+
+Fig. 3 Variation of the well-casing current waveforms with depth (d) at
+
+4.2
+
+Voltage Pulse Waveform
+
+3kHz, pulse width W = 60s and  = 20  m. It can be seen from Figs. falling, the higher are the current amplitude of the anode and the wellcasing segment at 4m, respectively. In Fig. 4(b), the inductive effect gives swinging of this negative protection current to be positive because the resistance is high and the hence the time constant is relatively low.
+
+current waveform for voltage pulse waveform having Vmax = 100V, f =
+
+Fig. 4 depicts the effect of the rise and fall times (tr and tf) on the
+
+4(a) and 4(b) that the slower the voltage pulse waveform on rising and
+
+4.3
+
+Voltage Pulse Frequency
+
+Figs. 5(a), 5(b) and 5(c) respectively show the dependence of the total anode current, and the well-casing current at 4m and 108m from the top of the well on the voltage-pulse frequency at Vmax = 25V, tr/tf voltage-pulse frequency, the higher is the average total anode current
+
+= 3/30s and W = 100 s and using  =5  m. The higher the as can be seen in Fig. 5(a). This is attributed to the fact that for a given voltage pulse amplitude, the higher the frequency, the higher is the number of pulses appearing in the same snapshot. Therefore, there is 9
+
+a direct proportionality between the total anode average current and
+
+the voltage-pulse frequency. From the comparison between Figs. 5(b) and 5(c) for the well-casing current at 4m and 108m from top, it can be concluded that the current density at the top of the well is much the current is lost to the top of the well, where pulses can be observed elsewhere but with significantly reduced magnitudes.
+12
+1/10 s 3/30 s 5/50 s
+
+greater than the current density in other areas. Consequently, most of on the top part, while a completely smoothed current can be found
+
+9 Total current, A
+
+6
+
+3
+
+0
+
+0
+
+50
+
+100
+
+150 Time, s
+
+200
+
+250
+
+300
+
+(a) Total anode current.
+300 0 Current at 4m, mA -300 -600 -900 -1200 0
+1/10 s 3/30 s 5/50 s
+
+50
+
+100
+
+150 Time, s
+
+200
+
+250
+
+300
+
+(b) Well-casing current at 4m from top. current waveform at  = 20  m, Vmax = 100V, f = 3kHz and W = 60s. 10 Fig. 4 Effect of the rise and fall times of voltage pulse waveform on the
+
+30 25 Total current, A 20 15 10 5 0
+
+f = 1 kHZ f = 3 kHZ f = 5 kHZ
+
+0
+
+200
+
+400 600 Time, s
+
+800
+
+1000
+
+(a) Total anode current.
+400
+
+Current at 4m, mA
+
+0
+
+-400
+
+-800
+f = 1 kHZ f = 3 kHZ f = 5 kHZ
+
+-1200
+
+0
+
+200
+
+400 600 Time, s
+
+800
+
+1000
+
+(b) Well-casing current at 4m from top.
+0
+
+Current at 108m, mA
+
+-50
+
+-100
+f = 1 kHZ f = 3 kHZ f = 5 kHZ
+
+-150
+
+-200
+
+0
+
+200
+
+400 600 Time, s
+
+800
+
+1000
+
+(c) Well-casing current at 108m from top. Fig. 5 Dependence of the current waveforms on the voltage-pulse frequency at  =5  m, Vmax = 25V, tr/tf = 3/30s and W = 100 s. 11
+
+0 -10 -20
+
+Protection current, mA
+
+-30 -40 -50
+(100, 20, 5) Ohm m (100, 5, 20) Ohm m (20, 5, 100) Ohm m (20, 5, 1) Ohm m
+
+0
+
+200
+
+400 600 Axial length, m
+
+800
+
+1000
+
+(a) Profiles of the protection current.
+0.8
+(100, 20, 5) Ohm m (100, 5, 20) Ohm m (20, 5, 100) Ohm m (20, 5, 1) Ohm m
+
+Stray current, mA
+
+0.4
+
+0
+
+-0.4
+
+-0.8
+
+0
+
+200
+
+400 600 Axial length, m
+
+800
+
+1000
+
+(b) Profiles of the stray current Fig. 6 Influence of the three-layer soil with different resistivities for conventional CP with total anode current of 15A on the profiles of the protection and stray currents.
+
+4.4
+
+Single- and Multi-layer Soils
+
+conventional CP system rated 15A in Fig. 6 for three layers, and then it is compared at the same conditioned to that for a single-layer soil in Fig. 7. For the multi-layer soil, it is assumed that the soil consists of three layers having the same thickness, i.e. 333m each. Figs. 6(a) and 12
+
+The effect of multi-layer soil is also investigated for the
+
+6(b)
+
+resistivities on the protection- and the stray-current profiles,
+
+illustrate
+
+the
+
+influence
+
+of
+
+multi-layer
+
+soil
+
+with
+
+different
+
+respectively. Both currents generally decay along the depth of each
+
+layer. At the interface between any two layers when moving from high to low resistivities, the protection current increases, contrary to the stray current. The trend of these results is in accordance with the reasoning given in Fig. 2.
+
+In Fig. 7(a) for multi-layer soil, moving longitudinally along the protected well-casing surface shows an increase in the protection current as a result of the decrease in the soil resistivity. On the contrary for single-layer low-resistivity soil (for  = 20 m), more even distribution of the protection current. In fact, the impressed current of the anode is the sum of the protection and the stray currents. As the soil resistivity decreases, higher protection current flows to the protected structure in the expense of decreasing the stray current. Consequently, more interference (stray current) can be expected in soil having high resistivity, see Fig. 7(b).
+
+4.5
+
+Comparison between Conventional and Pulse CP Systems
+
+conventional CP and PCP systems for the average protection current at
+
+Figs. 8(a), 8(b) and 8(c) show a comparison of the profiles of the
+
+ = 5  m and 100 m, and the profiles of the average stray current,
+
+respectively. For the conventional CP system, the anode current is set to be 15A, while for the PCP system has the following parameters Vmax = 25Vpeak, tr/tf = 3/30s, W = 100 s. On most wells, the current
+
+in other areas, see Figs. 8(a) and 8(b). Consequently, most of the current is lost to the top of the well. If pulsing the current can reduce the current density at the top of the well (compared to conventional current), a larger fraction of the total current would be available for areas on the well at greater depths. In this way, the pulsed current could be more effective than conventional CP current at depth, even though the current waveforms are similar at depth. In Fig. 8(a), it can 13
+
+density at the top of the well is much greater than the current density
+
+be seen that the PCP system roughly gives the same protectioncurrent profile at f = 1kHz and anode current of 5A as that for the conventional CP system at 15A. From Figs. 8(a) and 8(b), it can be current profile but at reduced average current down to 33% and 23% at
+
+noticed that the PCP system gives roughly gives the same protection-
+
+ = 5 and 100 m, respectively. Unused "abandoned" well casings
+commonly exist in oil fields. Fig. 8(b) shows how the use of such unused well casing can improve the distribution of the CP current along the well casing and reduce the stray current on the unprotected m), in addition, the decay of these profiles becomes smoother than one as can be seen in Fig. 8(c). In Fig. 8(b) at high soil resistivity (100 those at  = 5 m. Therefore, the idea of utilizing unused well casings as anodes is very useful especially at low resistivities not only to get quasi-uniform distribution of the protection current but also to reduce the stray current interference with any nearby unprotected structure(s). The corrosive oxygen molecules and hydrogen ions, adsorbed on the surface of the buried structure, are electrochemically reduced within microseconds after the application of cathodic current. Before the corrosion reactions can begin again, additional molecules and ions must diffuse to the surface of the structure from the surrounding soil and become adsorbed. The diffusion and adsorption processes are orders of magnitude slower than the reduction process, particularly when the ions are not being driven by a continuously applied cathodic protection voltage. With PCP the corrosive molecules and ions are electrochemically reduced with very short duration but very high current pulses. Since throw is a function of current magnitude, the very high pulsed currents result in greatly improved throw down the length of the structure. Because of the natural electrical characteristics of the structure/anode system, the greatly improved high current throw is further enhanced by the inductive and capacitive redistribution of that current. Also, the very short duration pulses are separated by relatively long "off" intervals. The pulse voltage is applied for less than 20% of the total time [13]. Thus, the continuous current envelope and the resulting interference on foreign structures are greatly reduced. Consequently, it can be concluded that the use of PCP system roughly gives the same protection-current distribution but at reduced average current, where the latter depends on the soil 14
+
+resistivity. On the other hand, at low soil resistivities, the use of
+
+unused/abandoned well casing as an anode energized by the conventional CP system is a cost-effective method and gives quasiuniform distribution of the protection-current profiles with reducing structure(s). the average stray current interference along any nearby unprotected
+
+0 -10 -20 -30 -40 -50
+(100, 20, 5) Ohm m Sigle layer, 20 Ohm m Sigle layer, 100 Ohm m
+
+Protection current, mA
+
+0
+
+200
+
+400 600 Axial length, m
+
+800
+
+1000
+
+(a) Profiles of the protection current.
+0.8
+(100, 20, 5) Ohm m Single layer, 20 Ohm m Single layer, 100 Ohm m
+
+Stray current, mA
+
+0.4
+
+0
+
+-0.4
+
+-0.8
+
+0
+
+200
+
+400 600 Axial length, m
+
+800
+
+1000
+
+(b) Profiles of the stray current Fig. 7 Comparison between single- and three-layer soils for conventional CP with total anode current of 15A. 15
+
+0 Average protection current, mA -50 -100 -150 -200 -250
+Conventional CP (5m anode, 15A) PCP, f = 1 kHZ (5m anode, 5A) PCP, f = 3 kHZ (5m anode, 15A) PCP, f = 5 kHZ (5m anode, 25A)
+
+0
+
+200
+
+400 600 Axial length, m
+
+800
+
+1000
+
+(a) Protection-current profile at  = 5 m.
+0 Average protection current, mA -30 -60 -90 -120 -150
+Conventional CP (5m anode, 60A) Conventional CP (unused casing, 60A) PCP, f = 1 kHZ (5m anode, 4.7A) PCP, f = 3 kHZ (5m anode, 14.1A) PCP, f = 5 kHZ (5m anode, 23.5A)
+
+0
+
+200
+
+400 600 Axial length, m
+
+800
+
+1000
+
+(b) Protection-current profile at  = 100 m.
+4
+Conventional CP (5m anode, 60A) Conventional CP (unused casing, 60A) PCP, f = 1 kHZ (5m anode, 4.7A) PCP, f = 3 kHZ (5m anode, 14.1A) PCP, f = 5 kHZ (5m anode, 23.5A)
+
+Average stray current, mA
+
+2
+
+0
+
+-2
+
+-4
+
+0
+
+200
+
+400 600 Axial length, m
+
+800
+
+1000
+
+(c) Stray-current profile at  = 100 m. Fig. 8 Profiles of the protection current for single-layer soil for 100 s) systems at different frequencies. 16 conventional CP and PCP (Vmax = 25Vpeak, tr/tf = 3/30s and W =
+
+5. CONCLUSIONS
+been theoretically investigated by using a 3D field approach software The factors affecting the cathodic protection of well casings have
+
+package (CDEGS). Cathodic interference with nearby well casings has been thoroughly investigated because the corrosion of this kind is more serious than its anodic fellow.
+
+well-casing segment currents with the increase in the soil resistivity. Both the soil resistivity and polarization of the steel of well casings limit the magnitude of current produced by the CP system and hence the stray current along the unprotected structure. The soil resistivity is usually a secondary factor compared to the more important factor of polarization. The slower the voltage pulse waveform on rising and falling, the higher are the current amplitude of the anode and the wellcasing. In addition for a given peak value of the voltage pulses, there is a direct proportionality between the total anode average current and the voltage-pulse frequency For multi-layer soil, both the stray and the protection currents generally decay along the depth of each layer. At the interface between any two layers when moving from high to low resistivities, the protection current increases, contrary to the stray current. On most wells protected either by conventional CP or by the PCP systems, the current density at the top of the well is much greater than the current density in other areas. For the PCP, the current pulses can be observed on the top part of the well, while a completely smoothed current can be found elsewhere but with significantly reduced magnitudes. Utilizing unused well casings as anodes for nearby well casings together with the use of the conventional impressed pure DC CP gives a promising means for having a quasi-uniform distribution of length with low current-density requirement of the anode. the current-density profile along the protected well-casing axial
+
+There is a nonlinear decrease in the anode total current and the
+
+17
+
+6. REFERENCES
+
+[1] T.M.
+
+Doniguan,
+
+H.J.
+
+Kipps,
+
+"Pulsed
+
+Cathodic
+
+Protection
+
+Apparatus and Method", U.S. Patent 3612898, 1971. [2] H.J. Kipps, "Cathodic protection system", United States
+
+Patent No. 3692650, Sept. 19, 1972. [3] T.M. Doniguan, "Pulse rectifier improves cathodic
+
+protection", Oil & Gas Journal, Vol. 80, No. 26, pp. 221229, 1982. [4] G.R. Roberson, cathodic "Effects of mutual interference Journal ­ of oil well
+
+casing
+
+protection
+
+systems",
+
+Materials
+
+Protection, pp. 36-40, March 1967. [5] F.W. Schremp, on "Distribution oil well of protective NACE and interference States
+
+currents
+
+casings",
+
+Western
+
+Corrosion Seminar, pp. 171-173, 1969. [6] T.M. Doniguian, "Pulse Rectifier Improves Cathodic
+
+Protection", Oil & Gas Journal, pp. 224-229, July, 1992. [7] N.N. Bich and J. Bauman, "Pulsed Current Cathodic
+
+Protection of Well Casings", Materials Performance, Vol. 34, No. 4, pp. 17-21, April, 1995. [8] D.A. Diakow, G.J. Varr, M. Bovenand, J. Wilrno, "Polarization beneath conventional disbonded and pulsed coatings: cathodic A protection", comparison Corrosion, between
+
+Paper # 566, 1997. [9] T.M. Doniguian,
+
+techniques 215, 1999.
+
+effectiveness for buried steel pipeline", Corrosion, Paper #
+
+confirm
+
+R.C.
+
+of
+
+Robinson, pulse
+
+"Corrosion cathodic
+
+measuring protection
+
+18
+
+[10] N.N.
+
+protection of well casings", MP Magazine, pp. 17-21, April
+
+Bich
+
+and
+
+J.
+
+Bauman,
+
+"Pulsed
+
+current
+
+cathodic
+
+1995. [11] C. Brelsford, C.A. Kuiper and C. Rounding, in "Well casing
+
+cathodic
+
+protection
+
+evaluation
+
+program
+
+the
+
+Spraberry
+
+(trend area) field", Corrosion, Paper # 03201, 2003. [12] J. Bauman, "Well casing cathodic protection utilizing pulse current technology", Corrosion, Paper # 04049, 2004. Doniguian, with "Protecting multi-module Control semi-close Company, pulse
+
+[13] T.
+
+casings Farwest
+
+Corrosion
+
+cathodic 1480
+
+spaced W.
+
+protection", Artesia
+
+oil
+
+well
+
+Boulevard Gardena, California, U.S.A. [14] J. Bauman, "Well casing cathodic protection utilizing pulse current technology", Corrosion, Paper 04049, 2004. [15] E.W. 1973. [16] N. Bich, J. Bauman, "Protection of well casings by pulsed cathodic currents", Proceedings, NACE CRWC, Saskatoon, Feb. 19-21, 1991. [17] N.N. Bich, J. Bauman, "Cathodic protection of well casings by MD, February 28 - March 4, 1994. [18] J. Dabkowski, "Pulsed rectifier Materials limitations for well casing No. pulsed current", Corrosion, Paper No. 566, Baltimore, Haycock, D.M. Seid, "Cathodic protection by
+
+intermittent and pulsed currents", Corrosion, Anaheim CA,
+
+cathodic
+
+10, pp. 25-28, Oct. 1995. [19] CDEGS Software Package, Safe Engineering Quebec, Services &
+
+protection",
+
+Performance,
+
+Vol.
+
+34,
+
+Technologies
+
+Available on: www.sestech.com [20] Y. Li, Analysis F.P. Dawalibi, J. Ma and Software for 19 R. D. Southey, "Integrated Interference between
+
+Ltd.,
+
+Montreal,
+
+Canada,
+
+2000.
+
+Electromagnetic
+
+Power
+
+International
+
+lines
+
+and
+
+Conference
+
+Neighboring on
+
+Electrical
+
+Utilities",
+
+Proceeding
+
+Engineering
+
+of
+
+(ICEE,
+
+the
+
+2001), Xian, China, July 22-26, 2001. [21] F.P. Dawalibi and A. Selby, IEEE "Electromagnetic Transactions fields of
+
+Energized
+
+Conductors",
+
+on
+
+Power
+
+Delivery, Vol. 8, No. 3, pp. 1275-1284, July 1993. [22] A. of Selby and in F.P. Dawalibi, "Determination for the Transactions of Current Power
+
+Distribution
+
+Energized
+
+Conductors IEEE
+
+Computation on
+
+Delivery, Vol. 9, No. 2, pp. 1069-1078, April 1994. [23] I.A. Metwally, of H. M. Al-Mandheri, Analysis A. Gastli and A. Al-
+
+Electromagnetic
+
+Fields",
+
+Bimani, "Stray current of ESP well casings", Submitted to Journal (JEABE), Oct. 2006. [24] H.H. Uhlig and R. Winston Revie, Corrosion and Corrosion Control: An Introduction to Corrosion Science and Engineering. John Wily & Sons, 3rd Ed., Chapter 4, 1985. Engineering with Boundary Elements
+
+20
+

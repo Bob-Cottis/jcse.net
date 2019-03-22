@@ -1,0 +1,314 @@
+1 
+ 
+Corrosion Inhibition of Mild Steel by using Banana Peel Extract 
+C. Bala Manikandana, S.Balamuruganb, P.Balamuruganc, C.Thanga Priyad 
+ 
+a ² Department of Mechanical Engineering, Mepco Schlenk Engineering College, Sivakasi. 
+email: balamani1991@gmail.com 
+ b ² Department of Mechanical Engineering, AAA College of Engineering & Technology, 
+Sivakasi. email: kkrbala@gmail.com 
+ c ² Department of Mechanical Engineering, Mepco Schlenk Engineering College, Sivakasi. 
+email: mechbala2009@gmail.com 
+d    - Department of Chemistry, Sri Kaliswari College, Sivakasi. email: prichem1986@gmail.com 
+ 
+  Abstract 
+  Corrosion  is  the  deterioration  of  metal  by  chemical  attack  or  reaction  with  its 
+environment.  It  is  a continuous  problem, diƥcult  to  eliminate  completely.  The  cost  of 
+metallic  corrosion  to  the  total  economy  is  in  billions  of  rupees  per  year. The inhibiting 
+action of the banana peel extract as a corrosion inhibitor in controlling corrosion of mild 
+steel in 0.1M HCl solution was studied. Corrosion inhibition was identified by employing 
+weight  loss  measurements  and  electrochemical  techniques.  Five  samples  of  mild  steel 
+specimen were  taken  and  they  are  subjected  to  varying  concentration  of  banana peel 
+extract  solution  for  analyzing  the  inhibitory properties.  The  protective  film  has  been 
+analyzed using FTIR spectroscopic techniques. The results indicated that the corrosion rate 
+is decreasing as the concentration of banana peel increases and simultaneously it enhances 
+the inhibition efficiency of the mild steel. 
+Key words: Mild steel, Banana peel extract, Corrosion inhibition, Corrosion rate, Weight loss 
+measurements, Electrochemical techniques. 
+1. Introduction 
+         Mild  steel founds  its  applications  in  the  field  of  construction  in  wide  range  of 
+industries due to its high strength and availability at low cost. The main setback for mild 
+steel is its tendency to corrode easily in an acidic environment. Inorganic acids like HCl and 
+ଶ3Cସ are  used  for  drilling,  fracturing  and  acid  stimulations  at  various  stages  in  oil 
+exploration, production and/or descaling operations, which leads to a significant amount of 
+corrosion. Several protective measures are to be taken. One of them is being the use of 
+corrosion inhibitors. Corrosion inhibitors are surface active compounds that are added in 
+small quantities to stop metal dissolution by a corrosive environment. Corrosion inhibitions 
+2 
+ 
+by  organic  compounds  are  widely  used  in  industries.  Most  organic  inhibitors  control 
+corrosion by adsorption of inhibitor molecules on the metal surface forming thin films. The 
+use of inhibitors is one the most practical methods for the protection of metals in acidic 
+media. However, most of organic inhibitors are harmful and toxic to the environment. This 
+has led to  the  need  for  natural  products  which  are  eco-friendly  and  harmless.  Several 
+investigators have reported the use of natural inhibitors, which were extracted from plant 
+leaves or seeds. [1]. Taleb H. Ibrahim et al.  investigated about the corrosion of mild steel 
+using Potato Peel Extract in 2M HCl by weight loss and electrochemical techniques. It was 
+observed that the increase in the inhibition efficiency with increasing potato peels extract 
+concentration. A reasonable corrosion inhibition level was obtained at a concentration of 50 
+ppm at higher temperatures (>70% inhibition efficiency) [2]. S.A.Umoren et al. found that 
+corrosion of mild steel using leaf and stem extracts in 1 M H2SO4, there is a significant 
+corrosion inhibition and the inhibition increases with increase in concentration of leaf and 
+stem  extracts [3]. Deepa  Rani.P  et  al. identified  corrosion  inhibitor  and  reported  its 
+inhibiting properties by weight loss measurements at various times and temperature. The 
+inhibition efficiency is markedly higher in a Natural sea water environment with the addition 
+of Emblica officinalis leaves extract compared with those in the inhibitor free solution. The 
+inhibition efficiency increased with increase of inhibitor concentration [4]. M.S.Al-Otaibi et 
+al. tested the Corrosion inhibitory action of some plant extracts on the corrosion of mild 
+steel  in  acidic  media.  Using  polarization  studies,  it  was  found  that  the  extracts  of  A. 
+Sieberi, T. Auriculatum, C. Tinctorius, L. Shawii and O. Baccatus plants serves as an effective 
+green corrosion inhibitors for mild steel in 0.5M HCl media [5]. A.Anejjar et al. found the 
+Inhibition of  carbon  steel  corrosion  in  1M  HCl  medium  by  potassium  thiocyanate.  The 
+inhibition  efficiency  of  potassium  thiocyanate  (KSCN)  depends  on  temperature  and 
+increases with increasing of the KSCN concentration[6]. Aprael S. Yaro et al. demonstrated 
+the  Apricot  juice  as  green  corrosion  inhibitor  of  mild  steel  in  phosphoric  acid.  The 
+maximum corrosion inhibition efficiency of apricot juice on mild steel is 75% at 30°C. From 
+Statistical  analysis,  it was identified  that  the  corrosion  rate  depends  on  temperature, 
+inhibitor concentration and the combined effect of these two parameters [7]. DeepaPrabhu 
+et  al. studied  about  the  Corrosion behavior  of  6063  Aluminium  alloy  in  acidic  and  in 
+alkaline media. The corrosion rate was increased by the following factors: Increase in the 
+temperature,  Increase  in  concentration  of  sodium  hydroxide  medium  and  phosphoric 
+medium. Sodium hydroxide medium induces more corrosion on 6063 Aluminium alloy than 
+the  phosphoric  acid  medium [8]. Mahmoud  N.  EL-Haddad  et  al. tested the  use of 
+Hydroxyethylcellulose as an eco-friendly inhibitor for 1018 c-steel corrosion in 3.5% NaCl 
+solution. Corrosion inhibition decreases when the temperature increases for 1018 c-steel in 
+3.5% sodium chloride solution by hydroxyethylcellulose [9]. E.UwahI et al. found out the 
+3 
+ 
+Inhibitive action of ethanol extracts from Nauclealatifolia on the corrosion of mild steel in 
+H2SO4 solutions and their adsorption characteristics. The inhibition efficiency was directly 
+proportional to the concentration and inversely proportional to the temperature [10]. K. K. 
+Alaneme  et  al. analyzed the  Corrosion  inhibition  and  adsorption  mechanism  studies  of 
+Hunteria  umbellata  seed  husk  extracts  on  mild  steel  immersed  in  acidic  solutions.  The 
+effect of corrosion inhibition of mild steel increases with increase in extract concentration 
+of  H.umbellata  seed  husk  in  1M  HCl  and  1M  H2SO4 and  reduces  with  increase  in 
+temperature [11]. I. Adejoro et al. evaluated the Corrosion inhibition potentials of ampicillin 
+for mild steel in hydrochloric acid solution. It is noted that an antibiotic drug Ampicillin 
+behaves  as  a  good  inhibitor  for  mild  steel  in  acid  medium.  The  inhibition  efficiency  is 
+directly proportional to the concentration of ampicillin and indirectly proportional to the 
+temperature. This gives the highest inhibition efficiency 0f 75.85% in the concentration of 
+5×10ì3M at 30°C [12]. 
+ 
+In the present study, the inhibition of corrosion of mild steel in 0.1M HCl aqueous 
+solution  by  banana  peel  extract  was  investigated  using  weight  loss  method  and 
+electrochemical  measurements  such  as  linear  polarization  resistance  (LPR).  The  inhibitor 
+active components within the banana peel extract were investigated using FTIR. 
+ 
+2. Experimentation 
+2.1. Preparation of Banana Peel Powder 
+Banana peel was cut into small sizes of 2 ² 3 cm and cleaned with water. To remove 
+the moisture content, the banana peel was exposed to sunlight for 7 days and dried in hot 
+air oven for 2 hours at 100°C. Finally it was heated to 300°C in the furnace for 30 minutes. 
+Then the heated peel was grinded to fine powder.  
+2.2. Preparation of Extract Solution: 
+ 10g of banana peel powder was taken and mixed with 170 ml of distilled water. The 
+banana peel powder was refluxed to make the extract solution for coating. The powdered 
+sample was refluxed in distilled water at 80°C, until 70 ml of extract solution was obtained. 
+The extract solution was poured in Petri Disc. The function of Petri Disc is to transfer the 
+solution  from  liquid  to  solid  state.  The  obtained  powder  was  taken  and  kept  open  in 
+atmospheric conditions for three days.  
+ 
+4 
+ 
+ 
+2.3. Specimen Preparation: 
+Mild steel C1018 has the  composition of  (0.20% of  Mn;  0.9% of  Ni;  0.022% of  P; 
+0.004% of S; 0.05% of Si and the balance is iron) was chosen for the study. The specimen 
+size for the corrosion inhibition coating was 1.0 cm * 4.0 cm * 0.2 cm and a surface area of 
+15.9 cm2. The specimen surface was cleaned and polished with different grades of emery 
+paper. The specimens were degreased using ethanol, followed by immersion in nitric acid 
+solution for two minutes to activate the surface. Afterwards, the surface was washed using 
+doubled-distilled water, followed by rinsing with acetone. Acetone is a polar substance that 
+dissolves almost all organic compounds. Finally specimens were dried and weighed.  
+ 
+2.4. Corrosion Inhibition Process: 
+               20 ml of distilled water was mixed with 2 mg of extract powder to get 200 ppm of 
+extract solution. Similarly the various concentrations of extract solution ranging between         
+100 - 500  ppm  were  prepared. The  corrosion  inhibited  specimen  was  prepared  by dip 
+coating method. The mild steel specimen was dipped into the extract solutions in a beaker 
+and covered with aluminium foil for seven days at atmospheric conditions. After the seven 
+days, the inhibited specimen was taken out and gently rinsed with distilled water. Finally, it 
+was  dried  and  weighed.  The  weight  of  the  specimen  increases  due  to  the  coating  of 
+concentration solution. 
+ 
+2.5 Testing Methods: 
+2.5.1 Weight Loss Method: 
+  Pre-weighed mild steel specimens were immersed in 250 ml of 0.1M HCl solution. 
+The specimens were left immersed for 24 hours in a temperature of 25°C. Before taking 
+weight-loss measurements, the metal specimens were washed with doubled-distilled water, 
+immersed in 20% ଶ3Cସ for 1 minute, washed thoroughly with water and ethanol, and then 
+dried before reading their weights. Inhibition efficiency was calculated using the following 
+relationship, 
+Inhibition Efficiency (%)  =  ൌ ୛బି[భ
+୛బ ×100  
+Where,  7଴ - Weight of the mild steel specimen without banana peel coating, 7ଵ - Weight of 
+the mild steel specimen with banana peel coating. 
+ 
+5 
+ 
+ 
+2.5.2 Corrosion Rate 
+Corrosion rate (CR) was calculated by assuming uniform corrosion over the entire 
+surface of the specimens. Corrosion rate determination (the rate at which a given metal 
+&/or  alloy) in  a  specific  environment  is  of  fundamental  importance  in  corrosion 
+Engineering. The  corrosion rate  in  millimetre  per  year  (mm/y)  was  calculated  from  the 
+weight loss method, using this formula, 
+                                             CR = ௐ
+:HHEHr;ൈ  
+Where, W - weight  loss  in  grams, K - constant  (87.6), D - metal  density  in  (g/cm3),               
+A - Specimen area (inch2), T - time (hrs). 
+2.5.3 Electrochemical Corrosion Test 
+Electrochemical corrosion testing measures and/or controls the potential and current 
+of oxidation/reduction reactions. The cell was filled with 600 ml of 2M HCl. The Gill AC 
+Potentiostat supplied by ACM Instruments was used for the electrochemical measurement 
+test. The electrochemical test was performed on inhibited specimens of banana peel extract 
+concentrations ranging from 100 to 500 ppm. For the linear polarization resistance (LPR) 
+test, the start potential was 10 mV, and the finish potential was -10 mV with respect to the 
+open circuit potential. In actual practice, the polarization curve becomes linear on a semi 
+logarithmic plot, at approximately 50 mV more active than the corrosion potential. This 
+region of linearity is referred to as the Tafel region. To determine the corrosion rate from 
+such polarization measurements, the Tafel region is extrapolated to the corrosion potential. 
+At the corrosion potential, the anodic and cathodic reaction rate is equal and this point 
+corresponds to the corrosion rate of the system expressed in terms of current density. 
+ 
+2.5.4 FTIR Spectroscopy 
+  A Small portion of Banana peel extract was left to air dry overnight followed by 
+complete  drying  in  a  vacuum  oven.  A  KBr pellet  was  made  from  the  dry  extract  and 
+characterized by a Bomem MB-3000 FT-IR equipped with ZnSe optics and a DTGS detector. 
+Spectrum  was  obtained  at  4  cm-1 resolution  and  200  scans. The  FTIR  spectrum  of  the 
+natural  banana  peel  sample  was  determined  to identify  carboxyl  and  hydroxyl  groups 
+present in it. 
+ 
+ 
+6 
+ 
+3. Results and Discussion 
+3.1 Characterization of Banana Peel Powder: 
+FTIR  spectroscopy  of  banana  peel  powder  was  obtained  by  using  (Perkin  Elmer 
+System 2000) spectrometer under ambient conditions. The C=C stretching frequency has 
+decreased from 1638 cm-1 to 1626 cm-1  ULQJ ´2µ VPUHPŃOLQJ IUHTXHQŃ\ OMV VOLIPHG IURP   
+1051 cm-1  to 1105 cm-1 , NH stretching frequency has decreased from 3435 cm-1  to 3412  
+cm-1 .  
+ 
+Figure. 1 FTIR image of Banana Peel Powder 
+Figure. 1 indicates that the Nitrogen atom of NH group has coordinated with 	ଶ> 
+formed on the metal surface resulting in the formation of 	ଶ? BPE complex on the metal 
+surface. 
+ The adsorption characteristics of these materials are mainly due to the presence of 
+hydroxyl groups and carboxyl functions present on pectin substances. The characterization 
+results showed that banana peel act as a bio-sorbent having very high specific surface area, 
+potential binding sites and functional groups. 
+ 
+3.2. SEM Image of Banana Peel Powder: 
+The banana peel powder structure was observed using scanning electron microscopy 
+as shown in Figure. 2. The peel has an irregular and porous surface. The many pores on its 
+surface support the adsorption process. 
+
+7 
+ 
+ 
+Figure. 2 SEM image of Banana Peel Powder 
+3.3 Weight Loss Measurements: 
+In the specimens, the banana peel extract concentration was varied from 100 ppm 
+up to 500 ppm. Graph for the Inhibition efficiency of mild steel versus the concentration of 
+extraction solution was plotted, as shown in Figure. 3. The inhibition efficiency of mild steel 
+increases with the increase in extract solution concentrations. 
+ 
+Figure. 3 Inhibition Efficiency Vs Extract Solution Concentrations 
+ 
+3.4 Corrosion Rate: 
+The Corrosion rate was calculated using weight loss method. Relationship between 
+Corrosion rate and the concentration of extract solutions was plotted as shown in Figure. 4. 
+It infers that the corrosion rate of mild steel decreases as the banana peel concentration 
+goes on increasing from 100 ² 500 ppm. 
+ 
+
+
+8 
+ 
+ 
+Figure. 4 Concentration of Extract solution Vs Corrosion rate 
+ 
+3.5 Comparison of Inhibition Efficiency and Corrosion Rate 
+Figure. 5 Concentration of Extract solution Vs Corrosion rate and Inhibition Efficiency 
+The inhibition efficiencies were calculated. Plot of Concentration of Extract Solution 
+versus the Corrosion Rate and Inhibition Efficiency was created as shown in Figure. 5. The 
+plot infers that the corrosion rate reduces as the concentration of extract solution increases 
+from  100 ² 500  ppm  and  the  Inhibition efficiency  increases with  the  concentration  of 
+extract solution increases from 100 ² 500 ppm. Concentration of extract solution is directly 
+
+
+9 
+ 
+proportional to the Inhibition efficiency and inversely proportional to the Corrosion rate, up 
+to 500 ppm.  
+3. 6 TAFEL Potential Graph: 
+Corrosion  inhibition  property  of  the  uncoated  and  coated  mild  steel  was  studied 
+from  the  electrochemical  polarization  studies.  The  electrochemical  polarization studies 
+were  tested  by  measuring  the  electrode  potential  of  un-coated  and  coated  mild  steel 
+specimen by immersing in 3.5% NaCl solution for about one hour.  
+Uncoated  mild  steel  specimen  exhibits  Ecorr value  at -0.6741V  versus  Ag/AgCl.  It 
+shows that the mild steel corrosion potential is higher negative potential. For the coated 
+steel specimens, the corrosion potential shifts (Ecorr value at -0.5852V versus Ag/Agcl) to 
+positive side. Tafel potential graph was plotted for the un-coated mild steel and coated 
+mild steel specimens of extract solution concentrations varying from 100 ² 500 ppm as 
+shown in Figure. 6.  
+The shifting of magnitudes in Tafel plot describes about the substantiate corrosion 
+protecting ability of  the  coated  specimen, when  compared  with  the  uncoated  specimen. 
+These results clearly infer the fact that the banana peel extract possess excellent corrosion 
+protecting ability. 
+ 
+Figure. 6 Tafel Potential Graph for uncoated and coated specimens 
+ 
+
+10 
+ 
+4. Conclusions  
+Mild steel was coated with banana peel extract powder for corrosion inhibition. The 
+inhibition efficiency of mild steel in 0.1M HCL increases with the increasing in concentration 
+of banana peel inhibitor. Inhibition efficiency up to 87% was achieved. Comparison of the 
+analysis  of  corrosion  inhibition  has  been  carried  out  by  using  both  weight  loss  and 
+electrochemical  method.  The  results  indicated  that  the  corrosion  rate  decreases, as  the 
+concentration  of  banana  peel inhibitor increases  and  simultaneously  it enhances  the 
+inhibition efficiency of the mild steel. 
+Acknowledgement 
+        The  authors  would  like  to  gratefully  acknowledge  the  technical  support  from  the 
+Mepco Schlenk Engineering College, Sivakasi. 
+References 
+L1@ ¶Recent Natural Corrosion Inhibitors for Mild Steel: An Overview· Marko Chigondo and 
+Fidelis Chigondo, Journal of Chemistry, 2016. 
+[2] ¶Corrosion Inhibition of Mild Steel using Potato Peel Extract in 2M HCl Solution· Taleb H. 
+Ibrahim,  Youssef Chehade1  and  Mohamed  AbouZour, International  journal  of 
+electrochemical science, 6, pp6542 ² 6556, 2011. 
+L3@ ¶Corrosion inhibition of leaf and stem extracts of Sida acuta for mild steel in 1M H2SO4 
+solutions investigated by chemical and spectroscopic techniques· Umoren.S.A, Eduok.U.M 
+and Solomon.A.P., Arabian Journal of Chemistry, 9, 1, ppS209 ² S224, 2016. 
+L4@ ¶Emblica Officinalis (AMLA) leaves extract as corrosion inhibitor for copper and its alloy 
+(CU-27ZN) in natural sea water·, Deepa Rani.P and Selvaraj.S, Archives of Applied Science 
+Research, 2, 6, pp140-150, 2010. 
+LD@ ¶Corrosion inhibitory action of some plant extracts on the corrosion of mild steel in 
+acidic  media·, Al-Otaibi.M.S,  Al-Mayouf.A.M,  Khan.M,  Mousa.A.A,  Al-Mazroa.S.A  and 
+Alkhathlan.H.Z, Arabian Journal of Chemistry, 7, 3, pp340 ² 346, 2014. 
+L6@  ¶Inhibition  of  carbon  steel  corrosion  in  1M  HCl  medium  by  potassium  thiocyanate·, 
+Anejjar.A, Salghi.R, Zarrouk.A, Benali.O, Zarrok.H, Hammouti.B and Ebenso.E.E, Journal of 
+the Association of Arab Universities for Basic and Applied Sciences, 15, pp21 ² 27, 2014. 
+L7@  ¶Apricot  juice  as  green  corrosion  inhibitor  of  mild  steel  in  phosphoric  acid·, 
+Aprael.S.Yaro, Anees.A. Khadom and Rafal.K.Wael, Alexandria Engineering Journal, 52, 1, 
+pp129-135, 2013. 
+11 
+ 
+L8@  ¶Corrosion  behaviour  of  6063  aluminium  alloy  in  acidic  and  in  alkaline  media·, 
+DeepaPrabhu and Padmalatha Rao, Arabian Journal of Chemistry, 10, 2, ppS2234-S2244, 
+2017. 
+LE@ ¶Hydroxyethylcellulose used as an eco-friendly inhibitor for 1018 c-steel corrosion in 
+3.5% NaCl solution·, Mahmoud.N and EL-Haddad, Carbohydrate Polymers, 112, pp595-602, 
+2014. 
+L10@  ¶Inhibitive  action  of  ethanol  extracts  from  Nauclealatifolia  on  the  corrosion  of  mild 
+steel  in  H2SO4 solutions  and  their  adsorption  characteristics·, Uwah.I.E,  Okafor.P.C  and 
+Ebiekpe.V.E,  Arabian Journal of Chemistry, 6, 3, pp285-293, 2013. 
+L11@ ¶Corrosion inhibition and adsorption mechanism studies of Hunteria umbellata seed 
+husk extracts on mild steel immersed in acidic solutions·, Alaneme.K.K, Olusegun.S.J and 
+Adelowo.O.T, Alexandria Engineering Journal, 55, 1, pp673-681, 2016. 
+L12@  ¶Corrosion  inhibition  potentials  of  ampicillin  for  mild  steel  in  hydrochloric  acid 
+solution·, Adejoro.I,  Ojo.F  and  Obafemi.S, Journal of  Taibah  University  for Science, 9, 2, 
+pp196-202, 2015. 

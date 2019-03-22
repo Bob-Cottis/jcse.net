@@ -1,0 +1,448 @@
+Volume 6 Paper C121 Microstructure and Corrosion Resistance of Laser Clad Ferrite-based Coatings with Rare Earth La2O3
+G.M. Zhao, K.L. Wang
+Department of Mechanical Engineering, Tsinghua University, Beijing, 100084, P. R. China
+
+Abstract
+The Ferrite-based alloy powders with different contents of La2O3 were laser-clad onto steel substrate. The microstructural features and phase structure of these coatings were studied by scanning electron microscope (SEM) and X-ray diffraction (XRD), respectively. The results showed that the microstructure of the coatings with La2O3 was refined and purified and the main phase of the coatings was (Fe,Ni). Moreover, the electrochemical properties of the coatings were investigated by anodic polarization curves and electrochemical impedance spectroscopy (EIS). Anodic polarization results indicated that both polarization potential and polarization current density were reduced with the addition of La2O3. EIS results showed that, with the increasing of La2O3, the inductive arcs shrunk and capacitive arcs expanded. The inductive arc at low frequency was disappeared and fully changed to capacitive arc when the La2O3 addition reached 1.2wt%. The corrosion weight loss experimental results showed that the corrosion rate was lower and the corrosion attack was lighter in the coatings with La2O3 than that without La2O3, resulting in a substantial improvement of the corrosion resistance. Key words: Laser Clad Coating; Rare Earth La2O3; Corrosion Resistance; Electrochemical impedance spectroscopy.
+
+1. Introduction
+Ferrite-based alloy was widely used in industry for its high performance-to-price ratio compared with other alloys. It has been well known that ferrite-based alloy has perfect properties of wear resistance, but its corrosion resistance is not very satisfied. How to improve its corrosion resistance is a key to expend the application of ferrite-based alloy. In order to improve the corrosion resistance of ferrite-based alloy, adding some rare earth oxide to alloy powder through laser cladding has been widely studied [1-5]. However, there is still very little published on the research of corrosion resistance by testing the electrochemical properties, especially through EIS method. In this paper, the effect of La2O3 on polarization properties and impedance spectroscopy characters of ferrite-based alloy coatings were studied through anodic polarization curves and EIS spectra. The process of polarization was analyzed and the effect of RE on the electrochemical impedance was also discussed. .
+
+2. Experimental procedure
+2.1 Experimental materials The substrate material used was low alloy steel(AISI1115), which was cut to yield 100mm× 20mm×10mm specimens. The chemical composition in wt.% was 0.12~0.20%C, 1.2~1.6% Mn, 0.2~0.6%Si and the rest Fe. Ferrite-based self-fluxing alloy powder of size 60+160 mesh was chosen as laser cladding material. The chemical composition of the powder in wt.% was 0.21%C, 1.18%B, 3.25%Si, 19.92%Cr, 12.6%Ni and the rest Fe. La2O3 was added into the ferrite-based alloy powder in different ratios in wt.% were 0%0.4%0.8%1.2% and 2.0%, which were marked as 0#, 1#, 2#, 3# and 4# specimens, respectively. Alloy powder and La2O3 powder were mixed uniformly. After those procedures, the mixture was dried in a desiccator and preserved in a seal container. 2.2 Laser cladding parameters Laser cladding was achieved by continuous wave CO2 laser remelting flame sprayed coatings. The laser was operated at 1.5kw, and the laser beam was defocused to 3mm in diameter. The laser traverse speed was 5mm/s and the power density was 1.19×104w/cm2. Nitrogen gas was used to minimize oxidation. In order to get continuous coatings, the cladding was overlapped with ratio of 30%. 2.3 Instruments and corrosion test methods Scanning electron microscope with energy-dispersive analysis of X-rays (EDAX) was used to observe the microstructure of coatings. A D/max-RB model X-ray diffractometer was used to determine the phase structure of the coatings. The experimental condition were CuKa radiation; tube voltage 40Kv; tube current 100mA. Corrosion experiments were performed in three ways: anodic polarizationelectrochemical impedance spectroscopy and weight loss. By means of a potentiostat, the anodic polarization curves of laser clad coating specimens with different addition of La2O3 were measured in different solutions: 1mol/L H2SO41mol/L HNO3, 1mol/L H3BO3 and 3% NaCl. A saturated calomel electrode was used as reference, and Pt was employed as the auxiliary electrode. The EIS experiments were operated in 3% NaCl solution. The measurements were made using a lock-in amplifier coupled to a Potentiostat-Galvanostat system (Model M128), which was connected to a three-electrode electrochemical cell. A Pt foil was used as counter electrode and a saturated calomel electrode (SCE) was used as a reference electrode. The treated laser clad specimens were used as the working electrodes. The exposure area of laser clad coatings was 1cm2 and the test was processed in room temperature. EIS spectra were obtained at open-circuit potential of the specimens, with amplitude of 5mV. The frequency span was from 10KHz down to 0.01Hz. Data registration and analysis were performed on an interfaced computer. The spectra were then interpreted using the nonlinear fitting procedure by Zplot software. The weight loss was tested in 2mol/L H2SO4 and 1mol/L HCl1mol/L HNO3 solutions, respectively. The corrosion morphologies were observed by SEM.
+
+3. Results and discussion
+
+3.1. Microstructure observation
+The microstructure of clad coatings with different La2O3 addition was observed by SEM and presented in Fig.1, Fig.2 and Fig.3. Fig.1 was the morphology near the interface between coating and substrate. Fig.2 and Fig.3 were the morphologies of middle zone and near-surface zone, respectively. It can be seen that the structure was far from uniform because of the different solidification speed. Fig.1 included three kinds of structures: one was planar band. It was the interface of solid and liquid at the beginning of the solidification. The other two kinds were cellular grains and dendrites. Fig.2 were a mixed structure of needle-like grains and dendrites. The most were needle-like grains and radiately distributed. In Fig.3, there are big dendrites with little needle-like grains and the latter distributed at the boundary of big dendrites.
+
+a
+
+(b)
+
+Fig.1. SEM morphologies of microstructure of the laser clad coatings (near the interface): (a) without La2O3 and (b) with 0.4% La2O3.
+
+a
+
+(b)
+
+Fig.2. SEM morphologies of microstructure of the laser clad coatings (from interface 100~120um): (a) without La2O3 and (b) with 1.2% La2O3.
+
+3
+
+a
+
+(b)
+
+Fig.3. SEM morphologies of microstructure of the laser clad coatings (near the surface): (a) without La2O3 and (b) with 1.2% La2O3. It can be seen that all parts of structure were refined in some degree with La2O3 compared with those without La2O3. In Fig.1, with the addition of La2O3, the width of planar band was reduced from 5 m to 3m, the secondary dendrite spacing was decreased from 10m to 5m and the transition zone between the planar band and cellular grains was expended. This indicated that the fluidity of the alloy liquid was increased [6], the over cooling induced by composition was decreased and the element segregation was reduced. In Fig.2, with the addition of RE, the direction of dendrites was weakened and the amount of the needle-like structure was increased. Moreover, when the addition of rare earth reaches 2.0(wt)%, the needle-like structures were interlaced, which decreased the distance between needle-like grains and restrained the growth of dendrites, resulting in the refinement of structure. In Fig.3, the distance between the big dendrites was decreased, making the boundaries of dendrites more compact. In this area, the growth of dendrites had the same direction in these zones because of the unilateral thermal transition. 3.2 Phase structure of laser clad coatings
+a b c d
+ (Fe,Ni)
+
+Cr1.65Fe0.35B0.96 Ni-Cr-Co-Mo Fe3B
+
+0# 1# 3#
+
+0% RE 0.4(wt)% RE 1.2(wt)% RE
+
+Intensity
+
+d c a d b
+3#
+
+c a b d
+
+c a b
+
+c a ca
+
+1# 0#
+20 40 60 80 100
+O
+
+2 ( )
+
+Fig.4. X-ray diffractograms of laser cladding with different addition of La2O3. From XRD diagram (Fig.4), the main phase of the coatings was(Fe,Ni). There also included some others such as Cr1.65Fe0.35B0.96 and Ni-Cr-Co-Mo et al. With the addition of La2O3, the phase composition was not remarkably changed except the formation of FeB2.
+
+4
+
+3.3 Electrochemical properties of coatings 3.3.1 Electrochemical impedance spectroscopy Fig.5 was the result of EIS experiment. The a,c,e figures were the curves of nyquist and their fitted results. Zi was imaginary part of impedance and Zr was real part. The b, d, f figures were the curves of bode and their fitted results. Based on reference [7], the EIS spectra were the type of anode Farady impedance.
+mesurement fitted
+120 10000
+
+1200
+
+mesurement fitted
+
+100
+
+1000
+
+80
+
+800
+
+-Zim, ()
+
+|Z| ()
+
+100
+
+60
+
+40 10 20
+
+400
+
+0 0 400
+
+Zre , ()
+800 1200 1600
+
+1 0
+
+0.01
+
+0.1
+
+1
+
+10
+
+100
+
+1000
+
+10000
+
+Freqence (Hz)
+
+(a)
+1600
+
+(b)
+mesurement fitted
+10000 100
+
+mesurement fitted
+
+90 80 70
+
+1200
+1000
+
+60 50
+
+-Zim, ()
+
+40 100 30 20
+
+400
+
+10
+
+Zre , ()
+0 0 400 800 1200 1600 2000
+
+10
+
+0 -10 1 10 100 1000 10000
+
+Freqence (Hz)
+
+(c)
+3000
+
+(d)
+110
+
+2500
+
+mesurement fitted
+
+10000
+
+mesurement fitted
+
+2000
+
+1000
+
+-Zim , ()
+
+|Z| ()
+
+
+100 90 80 70 60 50 40 30 20 10 0
+
+800
+
+|Z| ()
+
+
+100 10 0.1 1 10 100 1000 10000
+
+1500
+
+1000
+
+500
+
+0 0 500 1000 1500 2000 2500 3000
+
+Zre , ()
+
+Freqence (Hz)
+
+(e)
+
+(f)
+
+Fig.5. Plots of nyquist and bode of laser clad coatings: (a-b) without La2O3, (c-d) with 0.8% La2O3 and (e-f) with 1.2% La2O3. Fig.5 showed that the three cases of impedance spectra had tow time loops. The EIS spectra of the
+
+5
+
+
+
+coating without La2O3 were mainly composed of an inductive arc at low frequency and a capacitive arc at high frequency. The capacitive arc at high frequency reflected the electrochemical reaction process on the surface of electrode [8]. In this case, the protective oxide film couldn't easily form on surface for the surface was in active status [9]. When La2O3 addition reached 0.8wt%, the impedance spectra were not clearly changed, but the capacitive arc in the low frequency was shrunk in some degree, indicating that the corrosion resistance was improved. When La2O3 addition reached 1.2%, there are still capacitive arc in high frequency, but the inductive arc in low frequency was changed to large capacitive arc. Based on reference [8], the capacitive arc at low frequency reflected the formation of passive film on surface during the process of metal's dissolution and this film can act as a protective barrier. In NaCl solution, oxygen's deoxidation was the main reaction at cathode. The OH- ions were formed there and the PH value was increased. On the other hand, metal was dissolved and cations were formed at anode. The combination of anions and cations formed the passive film, covered on the surface of alloy and act as a protective layer. Fig.5 (e) showed the characters discussed above, indicating that the surface of electrode has produced thick passive film and the active pits on the surface decreased greatly. Based on the characters of Fig.5, Fig. 6 was the equivalent circuit. After simulated and fitted by Zplot software, the values of different components were listed in Table 1.
+
+,
+Fig.6. Equivalent circuit of coatings in NaCl solution: (a) with 0% La2O3, (b) with 0.8% La2O3 and 2.0% La2O3. Table 1. The fitted results for EIS of coatings with different contents of La2O3 Equivalent RS Cdl RL L Rt Rc Circuit () (×10-5F) (×103) (×102H) (×103) () Fig.6 (a) Fig.6 (b) Fig.6 (b) / 5.829 6.370 1.458 1.915 1.410 3.653 4.128 6.431 145.3 8.327 8.431 1.708 2.130 2.312 1.079 59.76 502100
+
+La2O3 addition (wt.%) 0 0.4 1.2
+
+C (×10-5F) 5.332 1.224 142.250
+
+It can be seen that the difference between original results and fitted results was small. The departure was in the range of 10-20%. From reference [10-11], the results can be processed by semi-quantitative analysis, indicting that different coatings corresponded with different spectra. Generally speaking, the lower impedance at low frequency and the higher capacivity at high frequency, the severer corrosion of the coating. In this experiment, the capacity at high frequency was similar in value, but the impedance values in low frequency were 3.653×1034.128×103,6.431×103, respectively. The values were in accession, indicating the descendant corrosion attack of these coatings. The effect of La2O3 on electrochemical properties of laser clad coatings can be explain by the follow two aspects: 1. La2O3 can refine the structure of coatings and make the surface of the coatings possess an impact microstructure. Therefore, the number of micro-cells was decreased and the trend of electrochemical reaction was weakened. 2. For the active properties of RE, the formation free energy of oxide compound with RE was decreased. The coating can form a full passive film in low polarization potential. Thus, the corrosion rate was decreased, which can be seen by the change of Rt: the value of Rt was increased with the increase of RE. 3.3.2 Anodic polarization curves The results of anodic polarization experiment were showed in Fig.7, where i and E represented
+
+6
+
+the polarization current density and polarization potential, respectively.
+1200 1000 800 600
+
+E (mv)
+
+400
+
+0# 1# 3# 1# 3# 0#
+
+La2O3 La2O3 La2O3
+
+0 (wt)% 0.4 (wt)% 1.2 (wt)%
+
+200 0 -200 -400 0.01 0.1 1
+
+log i (mA/cm )
+
+2
+
+1200
+
+1000
+
+800
+
+0# 1# 3#
+
+600
+
+La2O3 La2O3 La2O3
+
+0 (wt)% 0.4 (wt)% 1.2 (wt)%
+
+E (mv)
+
+400
+
+200
+
+3#
+0
+
+0#
+
+1#
+
+-200 1E-3 0.01 0.1
+2
+
+1
+
+log i (mA/cm )
+
+(a)
+2000
+
+(b)
+0# 1# 3# La2O3 La2O3 La2O3 0 (wt)% 0.4 (wt)% 1.2 (wt)%
+
+1500
+
+E (mv)
+
+1000
+
+500
+
+3#
+
+1#
+
+0#
+
+0
+
+1E-3
+
+0.01
+
+0.1
+
+1
+2
+
+10
+
+log i (mA/cm )
+
+7
+
+600
+
+400
+
+0# 1# 3#
+
+La2O3 La2O3 La2O3
+
+0 (wt)% 0.4 (wt)% 1.2 (wt)%
+
+200
+
+E (mv)
+
+0
+
+1#
+
+3#
+
+0#
+
+-200
+
+-400
+
+1E-3
+
+0.01
+
+0.1
+
+1
+2
+
+10
+
+100
+
+log i (mA/cm )
+
+(c) (d) Fig.7. Anodic polarization curves of laser clad coatings: (a) 1mol/L H2SO4, (b) 1mol/L HNO3(c) 1mol/L H3BO3 and (d) 5%NaCl. The corrosion current density, which was represented by the polarization current density in curves, was proportioned to the corrosion rate [12]. Thus, the corrosion rate could be compared by the polarization current density at the same potential. Fig.7 shows that the polarization current density of coatings with La2O3 was lower than that without La2O3 in both salt and acidic solutions except the 1# sample in HNO3 solution. This indicated that the coatings with La2O3 were polarized in lower current density and the rate of corrosive dissolution was decreased [13]. The corrosion reaction of ferrite-based alloy was hydrogen depolarization in acid environment. Fe was oxidized to Fe2 at anode, whereas H+ was deoxidized to H2 at cathode. RE can act as a barrier in permeation of H2 [8], which inhibited the infiltration of hydrogen in ferrite and restrained the freedom of hydrogen. Thus, the activation coefficient of hydrogen was reduced and the reaction of cathode was slowed. On the other hand, the surface structure was unified with the addition of La2O3, the refinement of structure and the purification of the grain boundaries eliminate the defects and make corrosion reaction happening on these areas more impossible. 3.4 Weight loss experiment Fig.8 was the curves of weight loss vs. La2O3 addition in different immersion time in 1mol/L H2SO4 and 1mol/L HNO3 solutions, respectively. It showed that the corrosion rate was decreased after the addition of La2O3. This phenomenon became more obvious with the increase of immersion time. Fig.9 was the surface morphologies of coatings with and without La2O3 after immerged in 1 mol/L H2SO4 solution for 5 days and Fig.10 was in 1 mol/L HNO3+1 mol/L HCl solution for the same time. They showed that the corrosion attack was not so severe in H2SO4 solution, where only the grain boundaries were eroded, due to the formation of passive film on the surface. Compared with the morphologies in Fig.9, there were many corrosion pits on the surface of the coating without La2O3, whereas that was hardly founded on the surface with RE. This indicated that the passive film could be more easily formed and the film was denser with RE, which decreased the defective pits on surface.
+
+8
+
+5
+
+4
+
+5h 20h 60h
+
+Weight loss (mg/cm )
+
+2
+
+3
+
+2
+
+1
+
+0
+
+0.0
+
+0.4
+
+0.8
+
+1.2
+
+1.6
+
+2.0
+
+RE addition (wt%)
+
+1.0
+
+5h 20h 60h
+
+Weight loss (mg/cm )
+
+0.8
+
+2
+
+0.6
+
+0.4
+
+0.2
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+RE addition (wt%)
+
+(a) (b) Fig.8. Weight loss vs. La2O3 addition of laser clad coatings: (a) 1mol/L H2SO4 and (b) 1mol/L HNO3. Compared with Fig.9, the corrosion attack in Fig.10 was obviously deteriorated. In Fig.10 (a), there were many cracked, dispersive oxide scales and many deep grooves between the scales on the surface of coating without RE. The scales were warped, indicating the weak adherence and easily scaling off. Fig.10 (b) was the morphologies of coatings with 1.2% La2O3 after immerged in the same solutions for the same time. There wasn't any large area groove and large-scale spallation on the surface except some small pits.
+
+9
+
+(a) (b) Fig.9. Corrosion morphologies of laser clad coatings with in 1mol/L H2SO4 solution: (a) without La2O3 and (b) with 1.2% La2O3.
+
+(a) (b) Fig.10. Corrosion morphologies of laser clad coatings in 1mol/L HCL+1 mol/LHNO3 solution: (a) without La2O3 and (b) with 1.2% La2O3. Fig.11 was the corrosion morphologies of transition zone and near transition zone of overlapping. It can be seen that the former had better corrosion resistance than other parts of surface. In the transition zone, blurry grain boundaries and many erosion grooves was founded in the specimen without La2O3 (Fig11 (c, e)), indicating that there happened some spallation. But in Fig11 (d, f), the surface was unified and the corrosion only happened at inter-dendrite. Near the transition zone, many warped scales were observed on the surface of the specimen without La2O3 (Fig.11 (a, c)), indicating severe corrosion happened there with severe spallation. In contrast, the specimen with La2O3 had a smooth, unified and compact corrosion morphologies on the surface, where the needle-like structures were connected each other to form a network, greatly decreased the spallation of corrosion resultant.
+
+10
+
+(a)
+
+(b)
+
+11
+
+(c)
+
+(d)
+
+(e) (f) Fig.11. Corrosion morphologies of transition zone and near transition zone of overlapping: (a,c,e) without La2O3 and (b,d,f) with 0.4% La2O3. ((a),(b) near the transition of overlapping (c),(d) the interface of transition and near transition (e)(f) the transition of overlapping) The refinement and purification effect of the RE makes the microstructure more compact and unified, which was the main benefit in corrosion resistance. In addition, as active elements, RE can easily exist on the surface and reduce the oxidation potential of Cr, Ni elements. Thus, Cr, Ni ions can easily combine with acid radical to form steady compound. For the passivation character of those compounds, they can act as a barrier to hamper the processing of deep erosion, resulting in the low corrosion rate.
+
+4. Conclusion
+
+12
+
+Addition of rare earth oxide La2O3 to laser clad ferrous-based alloy coatings results in the following: 1. 2. Addition of La2O3 can effectively refine the microstructure, and make it become more unified and compact. There are two or three loops in the EIS curves of all coatings. The curve without La2O3 mainly consisted inductive arc at low frequency and capacitive arc at high frequency. With the increasing addition of La2O3, inductive arc was shrunken and changed to a capacitive arc. Moreover, the impedance was increased with the addition of La2O3 and the electrochemical properties were improved at the same time. With the addition of La2O3, the cathode reaction was slowed and the polarization current density was decreased in both salt and acidic solutions. With the addition of La2O3, the active properties of surface make the protective film easily formed and hence facilitate the surface passivation. Thus, the corrosion rate was decreased.
+
+3. 4.
+
+References
+[1] Fan P., Yi W. and Zheng C.Q., J. of the Chinese Rare Earth Soc., 4 (1999) 46 [2] Wang K.L, Zhang Q.B. and Sun M.L., Corrosion Soc., 43 (2001) 255 [3] Wang K.L., Zhang Q.B. and Wei X.G., Tsinghua University Transaction, 39 (1999) 5 [4] Xu Y., Ji H. and Wei Y.D., Chinese Rare Earth, 22 (2001) 51 [5] Li A.M and Xu B.F., Chinese Surf. Tech., 31(2002) 40 [6] Zhang L.Q. and Chen G.N., Metal Heat Treatment, 27 (2002) 10 [7] Cao C.N. and Zhan J.Q., An Introduction to Electrochemical Impedance Spectroscopy, China Science Press, Beijing, 2002, p.145 [8] Wang C., Zhang Q.S. and Jiang F., Acta Metall. Sinica., 38 (2002) 765 [9] Chen C.F., Lu M.X. and Zhao G.X., Acta Metall. Sinica., 38(2002) 770 [10] Hu Y.L., Li D. and Guo B.L., J. of the Chinese Society for Corrosion and Protection, 22 (2002) 8 [11] C.X.Wang and M.Wang. Materials Letters, 54 (2002) 30 [12] N.Eliaz, D.B.Mitton and N.J.cantini, Mat.Tech. & Adv.Perf.Mat., 16 (2000) 90 [13] Xu Y., Ji H. and Chen X., J of the Chinese Rare Earth Soc., 19 (2001) 346
+
+13
+

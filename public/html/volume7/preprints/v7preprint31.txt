@@ -1,0 +1,203 @@
+ISSN 1466-8858
+
+Volume 7 Paper 31
+INFLUENCE OF PROTECTIVE COATINGS AND THE SERVICE TEMPERATURE ON MODE ­ I FRACTURE OF EN8 STEEL
+ARUN K.V.
+Research scholar, Department of Mechanical Engg, University.B.D.T College of Engg. Davangere-577004, Karnataka, INDIA, arun_research@indiatimes.com.
+
+Dr.C.S.VENKATESHA
+Assistant Professor, Department of Mechanical Engg, University.B.D.T College of Engg. Davangere-577004, Karnataka, INDIA.
+
+ABSTRACT This paper is devoted to the analysis of the influence of the corrosive resistant coatings and the service temperature on the fracture toughness behaviour of EN8 steel. This investigation concentrates on the Zinc, Nickel and powder coatings, which are widely used in the industrial applications. Experimentations have been carried out on CVN impact testing machine. The CVN specimens were tested under different temperatures and coating thickness. The plane strain fracture toughness and the transition temperature for each coating of the material is identified. The micro mechanism of fracture is also identified with the aid of fractography. The test results showed the existence of a clear correlation between CVN impact energy and the fracture toughness and also the transition behaviour of EN8 with respect to the temperature. The specimen preparation and
+
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+experimentations were carried out according to the ASTM E23 standards.
+
+Key Words: Corrosive resistant coatings, CVN impact test, Fracture Toughness, Transition temperature, Coating thickness, Micro mechanism.
+
+1. Introduction Metals are seldom found in their pure state. They are usually found in chemical combination with one or more non-metallic elements. Metal corrosion is generally defined as "the undesirable deterioration of a metal or alloy; an interaction of the metal with the environment that adversely affects the properties of the metal". Evidence [1] is available to show that the majority of metal failures due to corrosion occur through general, or uniform, modes. The next most common cause is stress corrosion cracking, followed by pitting corrosion and intergranular corrosion. These four modes account for about 80% of the failures examined. The main techniques available for reducing corrosion are, drying out the environment, e.g., reduce the humidity to well below 60% such as at a desert destination, use more corrosion resistant materials such as Monel rather than brass for components rotating in seawater, alter design to optimise geometry, use organic coatings such as paints or powder coatings, use metallic coatings, such as Zinc, Nickel, Hard Chrome, etc. Altering the environment can retard corrosion, but this is not possible to use these techniques in all the applications [2]. Industrial finishing is an integral and important part of most manufacturing processes. Protective treatments and coatings are used to enhance resistance to corrosion and abrasion, modify physical or mechanical properties of the surface material, or enhance the surface finish to improve artistic appearance and sales appeal. Coating or paint layers are often applied to the surfaces of metallic, polymeric, or composite structures[3-4]. 2
+
+The problems of forming protective coatings, study of their properties, and investigations of complex physico-chemical processes, occurring under a variety of interactions between the substance and the surrounding medium are attracting the attention of a wide range of specialists. During the fabrication or the service life of a metallic structures, there are many circumstances capable of giving rise to the appearance of defects (cracking related to welding, corrosion, coating, fatigue, etc.). If the size of these defects reaches a critical value, an unstable fracture of the structure may occur at a nominal stress lower than the yield stress of the material [5]. Unstable crack propagation is the final stage in the useful life of the structural component. This stage is governed by, the material toughness, crack size and shape, and the stress level. Consequently, unstable crack propagation cannot be attributed only to material toughness, or only to high stress level caused by inadequate design, or only to poor fabrication, but rather to a particular combination of the above factors[6-8]. This study concentrates on the effect of coating thickness on the energy absorbed and in turn the fracture toughness of the material. In general, the fracture toughness of structural materials, particularly steels, increases with increased temperature and decreased load rate. Each material will have a particular transition temperature where the fracture behaviour changes from brittle to ductile. This behaviour of fracture, which depends on the service temperature of the coated structures, has been investigated. Experimental analysis has been made on the Zinc, Nickel and powder coated specimens with varied coating thickness and service temperatures. Since the CVN impact test is the widely used test method for the analysis of fracture toughness of steel [9-10], the specimens have been impact tested in a pendulum type impact testing machine. 2. Materials And Methods 2.1 Coatings In the present investigation three types of coatings have been considered. 3
+
+ Zinc plating of steel components has been considered the most economical and viable industrial finishing process for steel, where sacrificial type corrosion resistance is required. Plating includes zinc bath in which the cleaned specimen are tied to a thin wire and immersed fully in to a tank containing the chemicals which is used to coat or plate the specimen. Here zinc (anode) is used as a coating material, the composition of chemicals which are used in the tank are, zinc oxide 60% to 70%, sodium cyanide 80 gm, caustic soda 50 gm. To form the final solution all these are mixed with 1000Lt of water. The specimens are immersed in the solution they act as cathode (positively charged) and the anode is zinc plate which is negatively charged, is placed at the two ends of the tank. Then electrical charge is supplied for 20 minutes for 6 to 8 microns thickness and the current is varied for different coating thickness. The thickness of plating is maintained in the range 05 to 25 microns, in steps of 05 microns.  Electroless Nickel plating has been done on the specimen. Electroless nickel coatings are extensively used in the metal plating industry, as the physical properties of the coatings (uniformity, corrosion resistance and lubricity) are better than electroplated nickel. In electroless plating, metal ions are reduced to metal by the action of chemical reducing agents, which are simply electron donors. Electroless nickel plating is a process whereby a nickel coating is deposited on a surface in a controlled chemical reduction; the process is termed "electroless" because the electrons are supplied by a chemical reducing agent and not electrically. The catalyst is the substance which accelerates the electroless chemical reaction, allowing oxidation of the reducing agent [11]. The metal ion and reducer concentration must be monitored and controlled closely in order to maintain proper ratios and to maintain the overall chemical balance of the plating bath. The thickness of coating is maintained in the range of 5-20 microns in steps of 5 microns.  Powder coating produces a high specification coating which is relatively hard, abrasion resistant, corrosion resistant and tough. 4
+
+The powder coating process used is seven tank process and the powder used is the matt finish epoxy powder. After applying the powder in the form of coating, the specimen is taken to the oven for baking. The temperature of backing is about 4000 C and the time of backing was 30 ­ 45 minutes[12]. After backing the powder gets converted into paste or gel and becomes a coat on the specimen. The thickness of the powder coating is maintained at different range, and it depends on the spray quantity of the powder. The thickness of coating is maintained in the range 30 to 70 microns, in steps of 10 microns. 2.2 Substrate Experimentation is carried out on the En8 material which is the widely used structural material in automobiles, aerospace, ship building, nuclear power plants, machine tools and general engineering applications [12]. The chemical composition and the mechanical properties of the substrate material are given in the Table 1. Table 1. Chemical composition and Physical Properties of En8
+Carbon Ferrous Molybdenum Manganese Phosphor Sulphur Silicon
+
+Composition (in %)
+
+0.360.44
+
+97.91
+
+0.6-1
+
+0.15
+
+0.05
+
+0.05
+
+0.10.4
+
+Yield strength = 580 Mpa
+
+Ultimate strength = 653 Mpa
+
+Young's Modulus = 205 GPa
+
+2.3 Specimen Preparation The test piece is a square bar of material, 10mm x 10mm x 55mm, containing a notch cut in the middle of one face. CVN specimen having notch angle of 45 o , 2mm depth and with a root radius of 0.25mm are prepared by an EN8 rolled bar stock. The desired number of specimen were coated with Zinc, Nickel and Powder coatings. The thickness is maintained uniformly through out the specimen surface. Along with the coated specimen, the normal specimen were also prepared for the comparison of the results. The CVN specimen were prepared according to ASTM E23 type A standard. 5
+
+2.4 Experimentation and Data Analysis A triaxial state of stress is developed at the root of a notch and hence notched specimens are used in these tests. The impact test is widely employed for the testing of ferrous metals and plastics, for the reason that both are prone to change in their fracture behaviour with changes in temperature. The specimen used and the testing procedures are as ASTM E23 standards. The testing is carried out at varied temperatures starting from 0°C to 225°C in steps of 25°C. The 0°C temperature is maintained with the aid of ice and refrigerator, the temperatures from 25°C to 225°C in steps of 25°C are maintained by using furnace. The plain strain fracture toughness for the EN8 steel has been determined from the CVN impact energy obtained from the experimentation. The fracture toughness values have been found out for all temperature and material conditions. The plots of impact energy Vs temperature, Fracture Toughness Vs temperature have been drawn. 3. Results And Discussions Past investigations have shown that there will be a change in impact energy and also in fracture toughness with respect to the service temperatures [5-9]. In this study fracture toughness is determined by varying the coating thickness and temperature. Also the micro mechanism of fracture behavior is identified through SEM fractographs. The results of which have been discussed below. 3.1 Effect Of Toughness Service Temperature On The MODE-I Fracture
+
+There is an increment in both impact energy and fracture toughness (K1C ) as the temperature increases, as shown in Figure.1. The strength of the material will increase up to a certain temperature range only, beyond which it will decrease drastically. The transition temperature, where fracture behavior changes from brittle to ductile can also be seen in the Fig.1.The typical transition temperatures for the tested material under normal condition are, for En8 = 100O C. The same behavior has been observed in zinc plated, nickel plated and powder coated specimen.
+
+6
+
+Impact Energy / Temperature (normal)
+1.6
+Im pact Energy (J/mm )
+2
+
+1.4 1.2 1 0.8 0.6 0.4 0.2 0 0 25 50 75 100 125 150
+o
+
+175
+
+200
+
+225
+
+250
+
+Temperature (in c)
+
+(a)
+K1C / Temperature (normal)
+140
+K1C (in Mpa (m)1 /2 )
+
+120 100 80 60 40 20 0 0 25 50 75 100 125 150
+O
+
+175
+
+200
+
+225
+
+250
+
+Temperature (in C)
+
+(b) Figure.1. Variation in impact energy and fracture toughness with respect to the service temperature
+
+7
+
+(a)
+
+(b)
+
+Figure.2. Fractured surface of En8 tested at room temperature
+
+Figure.3. Fractured surfaces of En8 tested at 125O C Fractographic examinations ere carried out to investigate the damage processes in the brittle and ductile regimes. The fractured surfaces of all the Charpy specimens that have fractured during the testing were examined in detail using a scanning electron microscope (SEM), to identify the type of fracture and the precise brittle to ductile transition temperature (DBTT). The fractured facets of the specimen fractured under normal temperature, has shown a brittle fracture (Figure.2. a&b). As highlighted in the figure.3.2.b, the nature of fracture is transgranular. It is very clear that (figure.3. a &b) there is a formation of number of cleavage steps, which have joined and formed a river pattern. Precise analyses of these river patterns will give the direction of crack growth. The same material under elevated temperature (125OC) has shown a ductile fractured facets (Figure.3), which is fibrous in nature. From this fractographic analysis it is very clear that, as the service temperature reduces the type of fracture will be brittle in nature and as the service temperature increases the nature of fracture will be ductile. But, if the service temperature is very low ( Nil Ductility Temperature NDT) or, if it is more than the BDTT, the performance of the material will be very poor. From such fractographic analysis the DBTT of the EN8 steel has been found out as 100OC. 3.2 Effect of Coating Thickness MODE-I Fracture Toughness
+
+8
+
+With regards to the coating thickness it has been found that as the coating thickness increases the impact energy and the fracture toughness of the material will increase, but after a particular level of coating thickness it will decrease. Coating thickness of each type of coating selected for the experimentation are based on the practical applications in the fields of Aerospace engineering, Automobile engineering, Ocean engineering and Machine tools.
+K1C \ Temperature ( Zinc Coated )
+150
+K 1C (Mpa(m m) )
+
+125 100 75 50 25 0 0 25 50 75 100 125 150
+O
+
+1/2
+
+175
+
+200
+
+225
+
+250
+
+Temperature( in C)
+
+10 microns
+
+15 microns
+
+20 microns
+
+25 microns
+
+Figure.4. Variation of fracture toughness with reference to the Zinc coating thickness and the service temperature.
+K1C /Temperature EN8 (Nickel Coated)
+140 120
+1/2
+
+) K1C(in Mpa(m)
+
+100 80 60 40 20 0 0 25 50 75 100 125 150
+O
+
+175
+
+200
+
+225
+
+250
+
+Temperature(in C)
+
+5 microns
+
+10 microns
+
+15 microns
+
+20 microns
+
+9
+
+Figure.5. Variation of fracture toughness with reference to the Nickel coating thickness and the service temperature.
+K 1C/Temperature EN8 (Powder Coated)
+140 120
+K 1C(in Mpa(m) )
+1/2
+
+100 80 60 40 20 0 0 25 50 75 100 125 150 175 200 225 250 30 microns 40 microns 50 Temperature(in C) micronsO 60 microns 70 microns
+
+Figure.6. Variation of fracture toughness with reference to the Powder coating thickness and the service temperature. From the experimental investigations it is very clear that the coating thickness has a great impact on the fracture toughness of the materials. In case of coated specimens also the effect of temperature on the fracture toughness of the material remains the same. Maximum fracture toughness of Zinc coated specimens is obtained with a coating thickness of 20 microns (Figure.4). The increment or decrement in the fracture toughness of the material with respect to the coating thickness depends on the time duration at which the material is held in the coating bath. Typically, this duration of time will increase as the thickness of coating increases. Also one more significant factor is the temperature of the coating bath and its chemical concentration. In this experimentation, the results have been derived by considering both, coating thickness and the service temperature. With respect to the Nickel coating the maximum fracture toughness is obtained by a coating thickness of 15 microns (Figure.5). The maximum fracture toughness of the EN8 is achieved with a powder coating of 60 microns (Figure.6).
+
+10
+
+From the experimental it is found that the maximum fracture toughness obtained with the Zinc (120 Mpa.mm 1/2) and Powder coating (118 Mpa.mm1/2) is less than that of the maximum fracture toughness of normal material (122 Mpa.mm1/2 ). This is mainly because of the too ductile nature of the coating layer. Also because of the embitterment of the material by the chemicals and the temperature of the coating bath in case of Zinc coating. This is because of the backing temperature in case of the powder coating. But in case of the Nickel coating the fracture toughness (123 Mpa.mm 1/2) is higher than that of the normal material, because of the toughness of the Nickel deposit itself. 3.4 Micromechanism of Fracture Bonding of coatings with metals is a fundamental theoretical and practical problem in the protective coatings. In this investigation to analyse the bonding between the coating and the substrate materials, a microscopic study has been made with the aid of SEM scans. Microscopic observations of the scans were made to identify quantitatively the type of fracture as a function of temperature. Also by observing the fractographs the transition temperature, where the mode of fracture changes from brittle to ductile can be verified precisely. Figure.7. Shows the nature of fracture in En8 steel under varied temperature. It is also clear from the figure that at low temperature (0 OC to 25OC), the nature of fracture is brittle. The fracture observed was intergranular. Scan(a) shows clearly, a perfect grain boundary separation and sharp edges which is a clear indication of intergranular brittle fracture. In the normal service temperature (25OC to 50OC), as shown in the scan (b) the fracture is again brittle in nature. In higher temperatures (50O C to 75O C), as shown in scan (c) the fracture is brittle in nature. But it is clear from the fractograph that the type of fracture is transgranular. In the temperature between (75O C to 100OC) as shown in the scan (d) the type of fracture is a combination of bath ductile and brittle fracture. This indicates that there is a slight transition in the material behaviour. The majorities of grain boundary facets are showing dimples and are fibrous in nature (e). This is a clear 11
+
+indication of ductile fracture. The scan(f) clearly shows that the nature of fracture is ductile. Compared to scan(e) it can be seen that the concentration of dimple areas has been increased drastically. Further if the temp is increased, the fracture where it can not sustain more load. will be more ductile in nature
+
+Figure.7. Micromechanism Of Facture Under Varied Temperature 4. Conclusions The results of the investigation have shown that, as the coating thickness and service temperature increases, the impact energy and the fracture toughness (K1C) will also increase. But the increment in fracture toughness is achieved only up to certain level of coating thickness and service temperature, beyond which it will decrease. For each condition of the material the transition temperature will vary slightly. The increase or decrease in the fracture toughness of the coated materials depends mainly on the type of coating, coating thickness, the environment in which coating is done, the temperature at which coating process is carried out and the time for which the material is kept under these conditions during coating. Service 12
+
+temperature has got a maximum influence on the nature of fracture and also on the strength of material, which is clearly revealed through the fractographic examinations in this investigation. If corrosion protection or decorative items are required one can go for these coatings with the suitable thickness. This selection of material condition will also depend on the service temperatures. 5. References 1. `Fastener Corrosion', Techincal Note on Cold-Formed Steel Construction,pp 1-4, 1999. 2. `Ductile To Brittle Transition Of A508 Steel Characterized By
+
+Charpy Impact Test', B.Tanguy, J.Besson, R. Piques, A. Pineau, Engineering Fracture Mechanics.72, pp49-72,2005. 3. `Fracture Mechanics Analysis of Coating/Substrate Systems', Sung-Ryong Kim, John A Nairn, Engineering Fracture Mechanics. pp 124, Accepted 7 Dec 1999. 4. `Fatigue Properties of a SAE 4340 Steel Coated With a Nimet HP Autocatalytic Nickel Deposite', C.Guzman, N. Diaz, J.A. Berrios, Surface and Coatings Technology, 133,134,pp 561-171. 5. `Evaluation of the toughness of thick medium strength steels by
+
+using LEFM and its correlation', B. Marandant and G.Sanz, ASTM STP 631,pp 72- 95,1977. 6. `Development Of The AASHTO Fracture Toughness Requirements For Bridge Steels', John M Barsom, Engineering Fracture Mechanics, 7, pp 605-618,1975. 7. `A Frcature Toughness Correlation Based on Charpy Initiation Energy', D.M. Norris, J.E.Reaugh and W.L. Server, ASTM STP 743, pp 207-217, 1981. 8. `Correlations Between KIC Charpy Notch Test Results In
+
+Transition Temperature Range', J.M. Barsom and S.T. Rolfe, ASTM STP 466,pp 281-302, 1970.
+
+13
+
+9.
+
+`History and Importance of Impact Testing', Siewert. T.A., M.P.
+
+Manahan, J.M. Holt, ASTM STP 1380, 1999. 10. `Application of Coupled Brittle- Ductile Modes to Study Correlation between Charpy Energy and Fracture Toughness Values', Folch L.C.A. And F. M. Burdekin, Engineering Fracture Mechanics 63,pp 57-80, 1999. 11. `Fatigue Properties of Electroless Deposited Steel', Y.Z. Zhang, Y.Y. Wu, M. Yao,Journal Of Material Science Letters,15, pp 1364-136, 1996. 12. `High Temperature Protective Coatings', Boresenko, Proceedings of the fifth all union conference on Heat resistance Coatings, KHAR'KOV, May 1970. 13. `Effects Of Temparature On The Fracture Toughness Of
+
+Carburising Steels For High Temparature Applications', Cutler R.A And Lesile W.C, Journal Of Testing And Evaluation, 11, pp 3 ­ 15, Jan 1983. 14. `Influence Of Some Test Parameters On Specimen Loading Determination Methods In Instrumented Charpy Impact Tests', P.Landrein,T.Lorriot,L.Guillaumat, Engineering Fracture Mechanics,l 68, pp 1631-1645, 2001. 15. ` A Fracture Mechanics Analysis of Multiple Cracking in Coatings', Engineering Fracture Mechanics. 42, pp 195-208,1992.
+
+14
+

@@ -1,0 +1,178 @@
+ISSN 1466-8858
+
+Volume 7 Paper 3
+Cu-Ni-Zn-Mn Alloys for Sulphide Polluted Seawater Applications
+A.P.Patil* and Dr. R.H. Tupkary Department of Metallurgical and Materials Engineering, Visvesvaraya National Institute of Technology, Nagpur ­ 440 011 (India), Email: appatil14@yahoo.co.uk
+
+Abstract
+Cu-10Ni alloy suffer from accelerated corrosion in sulphide polluted seawater. New copper base alloy containing 10% Ni, 29% Zn and, 3% and 5% Mn have been developed and tested vis-a vis Cu-10Ni alloy in synthetic seawater both clean and polluted with sulphide ions. It is found that Cu-10Ni-29Zn-5Mn and Cu-10Ni-29Zn-3Mn alloys have better corrosion resistance in both the test solutions. Observed behaviour in synthetic seawater is attributed to modification of defective structure of Cu2O by trivalent cations of Mn. Observed behaviour in sulphide polluted synthetic seawater is attributed to formation of ZnS containing multiphased film and incorporation of Mn3+ in Cu2S lattice Key words: Copper alloys, Corrosion, Seawater, Sulphide and Film
+
+Introduction
+As a result of excellent corrosion resistance in seawater, 90-10 Cu-Ni has become standard condenser / heat exchanger tube material for seawater applications. However, this alloy suffers from accelerated corrosion in seawater polluted with sulphide. Its poor corrosion resistance in sulphide
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at not normally be referenced in published work. © UMIST 2004. http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should
+
+polluted seawater is a cause of concern. Like other copper alloys the 9010 Cu-Ni develops a film of Cu2O, which accords the alloy excellent Cu2S forms in the film [2]. Like the Cu2O the Cu2S is a p-type corrosion resistance in seawater [1]. If seawater is polluted with sulphide, semiconductor but possesses more defective structure than the Cu2O and thereby causes accelerated corrosion. The accelerated corrosion in sulphide polluted seawater can be mitigated in two ways viz. (i) by modifying defective structure of the Cu2S and the Cu2O and (ii) by
+
+modifying composition of the film altogether. The defective structure of the Cu2O is modified when multi-valent cations originating from the alloy get incorporated in its lattice [3]. This improves ionic and electronic resistance of the film and consequently improves corrosion resistance of the alloy. This is achieved by alloying Cu-Ni alloys with Fe, Mn, Al and Cr. These alloying additions produce bi-valent or tri-valent cations like Ni2+, Fe2+, Fe3+, Mn2+, Mn3+, Al3+ and Cr3+. Examples of these are, (i) additions of 1-1.8% Fe and 0.5-1% Mn in alloy C70600, (ii) additions of 2% each of Fe and Mn in alloy C71640, (iii) additions of 0.5% Fe, 0.2-1% Mn and 2-3% Cr in alloy C71900, (iv) additions of 0.7-1.2% Fe, 3.5-5.5% Mn, 1-2% Al and 0.5% Cr in alloy C72420 and, (v) additions of 1-2% Fe, 4.5% Mn, 0.5% Cr and 1.9% Al in MARINEL. However structure of Cu2S seems to be too defective to be modified effectively with these alloying additions. Certain alloying additions modify the composition of the film and instead phased film of some other compound is formed. Examples of such Aluminium brass-C86700 and Aluminium bronze-C95800) and (ii) Sn addition which produces a film of SnO2 (as in AP bronze). Films of Al2O3 and SnO2 accord better corrosion resistance than film of Cu2O and thereby improve corrosion resistance of the alloys. It is known that addition of Zn improves resistance to sulphide attack as in case of singlephase Cu-Zn alloy but data is scanty. The formation of ZnS, which is a bad conductor, probably accords better resistance to sulphide attack. However, role of Zn addition to Cu-Ni alloy remains to be investigated. Role of Mn in Cu-Ni system is found to be secondary to that of Fe [4] but its role in Cu-Ni-Zn system remains to be investigated. The present work is an attempt in that direction. Accordingly, it is aimed at developing a 2 additions are (i) Al addition which produces a film of Al2O3 (as in of a single-phased film of Cu2O, either a multi-phased film or a single-
+
+series of single-phased Cu-Ni-Zn-Mn alloys by modifying 90-10 Cu10Ni with additions of 29% zinc and, 3% and 5% manganese and, testing these alloys vis-à-vis Cu-10Ni alloys for corrosion resistance in synthetic seawater, both clean and polluted with sulphide ions.
+
+Experimental
+The test alloys were prepared in the laboratory. These were melted in graphite crucible, then cast in steel mould (10 x 20 x 300 mm), then annealed (for solutionising) at 900°C for three hours, then cold rolled from 10 mm to 1.2 mm thickness, then annealed at 800°C for 2 hours and finally quenched in water. Actual chemical composition of the test alloys and other relevant information are presented in Table 1. Table 1: Actual chemical composition of the test alloys
+Alloy Designation Cu Ni Zn Mn Fe Theoretical density g/cc Cu-10Ni Cu-10Ni-29Zn Cu-10Ni-29Zn 3Mn Cu-10Ni-29Zn 5Mn 54.0 11.0 29.2 4.8 0.95 8.319759 31.46466 89.1 58.5 55.1 9.9 11.5 11.5 29.0 29.2 3.0 0.95 0.97 1.18 8.916960 8.394599 8.343905 31.4725 31.68541 31.55677 Equivalent weight
+
+The alloys possess single-phase microstructure as presented in Fig. 1. Testing for corrosion involved weight loss, cathodic and anodic polarisation methods. Test solutions used in these studies were clean synthetic seawater (SSW) and sulphide polluted SSW. Nominal composition of clean SSW used in this investigation is as per ASTM standard D114-75 (reproved 1980) for synthetic seawater but without heavy metal ions. For preparing sulphide-polluted seawater LR grade Na2S was added to SSW. In general 0.1 g Na2S was added to 1 litre SSW. The pH was then adjusted to 8.2 by addition of 0.05N H2SO4. It was 3 The nominal pH of SSW was 8.2, but changed to 9.2 on addition of Na2S.
+
+found, that almost whole of sulphide ions were oxidised to sulphate in one day. This required the test solution to be replenished daily with sulphide ions. Hence, a fresh solution of Na2S in SSW was added to the 0.05N H2SO4. test solution daily and resultant rise in pH was neutralised by addition of
+
+grains (A: Cu-10Ni, B: Cu-10Ni-29Zn, C: Cu-10Ni-29Zn-3Mn and D: Cu10Ni-29Zn-5Mn). Weight Loss Specimens (10 x 25 x 1.2 mm) were cut and prepared by abrading on a series of emery paper (1/0, 2/0, 3/0 and 4/0) for the weight loss tests. Specimens were degreased in 5% NaOH solution and then washed with water just before testing. The pH of SSW was 8.2 and temperature was 27°C. Test duration was 15 days, but to study effect of exposure duration the specimens were taken out at planned intervals of 0-3, 0-6, 0-9, 0-12 and 0-15 days. The corroded specimens were then subjected to cleaning by scrubbing with bristle brush using scourer powder and distilled water. The samples were then washed in distilled water, then rinsed in methanol 4
+
+Fig.1: Microstructure of test alloys; showing well developed single-phased
+
+and then air dried before weighing for weight loss. One set of Cu-10Ni29Zn-5Mn specimens was prepared in the same way, then exposed to respective test solutions for 15 days and then subjected to scanning (JEOL 840A) and also by XRD (Philips PW1017 based). Polarisation The specimens for polarisation studies were prepared by soldering a piece of insulated copper wire at one flat surface of specimen (10 x10 x1.8 mm). These were then mounted in cold setting resin in such a way that the soldered joint was completely embedded and the other flat surface was open. The open surface was prepared by abrading on series of emery papers (1/0, 2/0, 3/0, 4/0 and 5/0). Polished specimens were then washed with soap and distilled water just before setting up cell. These specimens were allowed to reach a stable open circuit potential (OCP) for almost 30-35 minutes, before carrying out the polarisation test. The OCP of the test alloys was found to be in the range of ­50 mV (SHE) to +30 mV (SHE) except that of Cu-10Ni in sulphide polluted SSW being ­ 600 mV (SHE). Anodic and cathodic polarisation studies were carried out with a threeelectrode system using a computer-controlled potentiostat (Sycopel AUTOSTAT 253). Platinum electrode (cylindrical mesh) was used as counter electrode and saturated calomel electrode was used as reference electrode however, all potentials are referenced to Saturated Hydrogen Electrode (SHE). The cathodic polarisation was started from -560 mV electron microscopy. The films were analysed using EDX attached to SEM
+
+(SHE), increased towards OCP and stopped when current became positive. The solution was stirred with a magnetic stirrer to minimise effects of (SHE) and stopped after +500 mV (SHE). The solution was stagnant in anodic polarisation studies. The scan rate in cathodic polarisation was 0.166 mV/s and that in anodic polarisation was 0.08 mV/s. concentration polarisation. The anodic polarisation was started at ­60 mV
+
+Results and Analysis
+Figures 2 and 3 present results of weight loss studies in clean and sulphide polluted SSW, respectively and shows the effect of exposure 5
+
+duration on weight loss and corrosion rate of the test alloys. It is evident that manganese-containing alloys have better corrosion resistance than other two alloys. It is evident that rate of corrosion is high initially and rate of change of weight loss is high initially and then tapers down. then decreases with increasing exposure duration. It is also evident that However, the plots have not reached to a plateau, it means that the rate 15 days.
+
+of corrosion will fall further if the exposure duration is extended beyond
+
+6
+
+Figure 4 presents SEM photomicrographs of the film formed on Cu-10Ni29Zn-5Mn exposed to clean SSW. It shows that the film covers entire surface and is compact. It also shows that the film is made up of two layers. The inner layer is crystalline and forms the bulk of the film and, the outer layer is powdery. Figure 5 presents SEM photomicrographs of the film formed on Cu-10Ni-29Zn-5Mn in sulphide polluted SSW. It shows that the film covers entire surface but is defective and has many clusters of globular substance.
+
+7
+
+Fig. 4: SEM photomicrograph of the alloy in clean synthetic seawater.
+
+film formed on Cu-10Ni-29Zn-5Mn film formed on Cu-10Ni-29Zn-5Mn alloy in sulphide polluted synthetic seawater.
+
+Fig. 5: SEM photomicrograph of the
+
+Figure 6 presents EDX spectrums of polished Cu-10Ni-29Zn-5Mn alloy. Various peaks in this figure in general represent composition of the Cu10Ni-29Zn-5Mn alloy. Whereas, Fig. 7 presents EDX spectrums of the film formed on Cu-10Ni-29Zn-5Mn in clean SSW and Fig. 8 shows EDX spectrums of the base film formed on Cu-10Ni-29Zn-5Mn in sulphide polluted SSW. Comparison of Figs. 6 and 7 indicates that the film formed in clean SSW has alloying elements almost in the same ratio as that in substrate and, has substantial oxygen, sulphur and chlorine. Comparison of Figs. 7 and 8 indicates that the film has large quantity of Zn and small quantities of Cu and Ni and, large quantity of O, S and Cl.
+
+8
+
+Figure 9 presents XRD spectrum of the polished Cu-10Ni-29Zn-5Mn alloy. The positions of all the peaks match with those of copper, indicating thereby that the alloy is single-phased. These peaks are slightly shifted to left of copper positions, suggesting thereby some strain in the lattice. This lattice strain is attributed to formation of solid solution of alloying elements in the copper. Figure 10 shows XRD spectrum of the alloy corroded in SSW for 15 days. Like Fig. 9, in this figure also the positions of all the peaks match with the copper position. This indicates that the film is coherent with the substrate matrix and is single-phased. The Cu2O is formed epitaxially and is coherent with the substrate matrix [3]. It therefore suggests that the film formed on Cu-10Ni-29Zn-5Mn in SSW is made of Cu2O. Figure 11 presents XRD spectrum of the film formed on Cu-10Ni-29Zn-5Mn alloy in sulphide polluted SSW. There are many peaks in this figure and therefore it indicates that the film is multiphased. Out of these peaks, four peaks match with the copper positions 9
+
+and indicate presence of Cu2O. The remaining peaks indicate presence of oxides and sulphides, although exact identification is not possible owing to non-stoichiometric composition of these oxides and sulfides [5]. It is likely that oxides like Cu2O, CuO, ZnO, NiO and, sulfides like Cu2S, CuS, ZnS and NiS are formed in this film
+
+Fig. 9: XRD spectrum of polished specimen of Cu-10Ni-29Zn-5Mn alloy
+
+Fig. 10: XRD analysis of film developed on Cu-10Ni-29Zn -5Mn alloy exposed to SSW for 15 days
+
+10
+
+Fig. 11: XRD spectrum of film developed on Cu-10Ni-29Zn -5Mn alloy exposed to sulfide polluted SSW for 15 days
+
+Figure 12 presents cathodic polarisation plots of the test alloys in clean SSW. It is seen that Ecorr of all the test alloys is almost in the range of 0 to 50 mV (SHE) although Ecorr of Cu-10Ni alloy is relatively nobler. It is evident that at potential lower than ­400 mV (SHE) the cathodic c.d. reaches a limiting value. This indicates that the cathodic reaction is under diffusion control. At potentials higher than ­400 mV (SHE) the cathodic plot is near linear. This indicates that the cathodic reaction in this potential range is under activation control. This linear region is extrapolated to obtain icorr. The icorr of Cu-10Ni alloy is higher than other test alloys. The data obtained from these plots is presented in Table 2. Table 2: Data obtained from cathodic polarisation vis-à-vis immersion test
+SSW icorr Alloy Cu-10Ni Cu-10Ni-29ZN µA/ cm2 19 12 CRT mdd 5.35 3.37 Tafel slope c mV 230 275 CRW mdd 5.09 6.46 icorr µA/ cm2 50 40 SSW+Na2S CRT mdd 14 11.2 Tafel slope c mV 375 650 CRW mdd 8.94 8.11
+
+11
+
+Cu-10Ni-29Zn-3Mn Cu-10Ni-29Zn-5Mn
+
+10 9
+
+2.8 2.53
+
+350 280
+
+4.46 3.83
+
+18 15
+
+5.05 4.2
+
+400 375
+
+5.12 4.49
+
+Where, CRT = Corrosion rate from Tafel extrapolation and, CRW = Corrosion rate from weight loss in immersion test.
+
+Figure 13 presents cathodic polarisation plots of the test alloys in
+
+10Ni is ­600 mV (SHE) and those of other alloys are in the range of ­80 to ­120 mV (SHE). It is evident that the Cu-Ni-Zn-Mn alloys have relatively much nobler Ecorr than Cu-10Ni in sulphide polluted SSW. It was noticed that specimens of Cu-10Ni had developed a violet tinge in 30 minutes exposure before the cathodic polarisation test and that the specimen had lost the tinge completely at the end of cathodic polarisation tests. It means that the film that was developed in the initial exposure was reduced in cathodic polarisation. Whereas, the specimens of Cu-Ni-ZnMn alloys developed a light golden tinge during initial exposure of 30 minutes and that the specimens retained the tinge even after cathodic polarisation tests. It means that the components of the film were stable in the range of potential in which the polarisation test was conducted. This suggests that the film formed on Cu-10Ni in sulphide polluted SSW was different from that formed on Cu-10Ni-29Zn-5Mn alloy. The data obtained from these plots is also presented in Table 2. In general there 12
+
+sulphide polluted SSW. From this figure it is evident that the Ecorr of Cu-
+
+seems to be reasonably good agreement between corrosion rate obtained in weight loss and that from cathodic polarisation.
+
+Figure 14 presents anodic polarisation plots of the test alloys in clean SSW. It is evident that the test alloys undergo rapid active dissolution up to 180-200 mV (SHE) and give a peak c.d. of 10-20 mA/cm2 at this potential. The active dissolution region does not show a well- defined Tafel region and consists of two or more linear regions with different slopes. Milosev and Metikos-Hukovic [6] obtained almost similar active dissolution region in anodic polarisation plots of 90-10 Cu-Ni in borate buffer containing different NaCl concentrations and termed it as `the apparent Tafel region'. On increasing the potential further the anodic c.d. decreases to approximately 1 mA/cm2. In this region the c.d. is rather limited and increases slowly with increasing potential up to 450 mV (SHE), after which film breaks down. Anodic polarisation plots of commercial Cu-9.4Ni-1.7Fe alloy in air-saturated 3.4 wt% NaCl solution obtained by Kato and coworkers [7] had similar features. Their plots had limiting mA/cm2. They termed the observed limiting current region as almost equal peak c.d. (2 mA/cm2) it was appropriate for them to `brightening region'. In view of relatively higher c.d. of 1-2 mA/cm2 and mention this region as `brightening region'. But in present study, the c.d. drops noticeably from a peak value of 10-20 mA/cm2 to 0.8-1 mA/cm2 for Cu-10Ni-29Zn-5Mn in SSW. The drop in c.d. is too substantial to be 13 current region with c.d. of 1-2 mA/cm2 following a peak c.d. of 2
+
+termed as `brightening' region. Secondly metal is supposed to exhibit passivity when passivation c.d. (ip) is lower than corrosion c.d. (icorr) obtained from cathodic polarisation (Tafel extrapolation). The icorr for Cu-10Ni-29Zn-5Mn in SSW is 9 µA/cm2. Considering this icorr value, c.d. a way this situation lies in between `passivity' and `brightening'. Therefore, this passivity is termed as `pseudo-passivity'.
+
+of 1 mA/cm2 is too high for this region to be termed as passive region. In
+
+Figure 15 presents anodic polarisation plots of the test alloys in sulphide polluted SSW. Anodic polarisation plots of test alloys in SSW+Na2S exhibit two pseudo-passive regions. For example in plot of Cu-10Ni-29-5Mn first region starts at ­37 mV (SHE) and second region starts at 181 mV (SHE). The c.d. in first region is 70 µA/cm2 and that in second region is 16 mA/cm2 whereas, icorr is 15 µA/cm2. Considering the icorr of 15 µA/cm2, the c.d. in first region is too high for this feature to be termed as passivity. Therefore, this feature is termed as primary pseudo-passivity. Accordingly, these anodic polarisation plots can be divided in three main regions: (i) the apparent Tafel region or free corrosion region, (ii) the primary pseudo-passive region and (iii) the pseudo-passive region. The slope of apparent Tafel region is denoted by dE/dlog(i). Anodic polarisation plots obtained in present investigation for Cu-10Ni is similar 14
+
+to the plots obtained by Alhaji and Reda [8] for 90-10 Cu-Ni alloy in natural seawater. Table 3: Data obtained from anodic polarisation plots Ecorr Alloy and solution mV (SHE) Cu-10Ni in clean SSW Cu-10Ni-29Zn in clean SSW Cu-10Ni-29Zn-3Mn in clean SSW CU-10Ni-29Zn-5Mn in clean SSW Cu-10Ni in sulphide polluted SSW Cu-10Ni-29Zn in sulphide polluted SSW Cu-10Ni-29Zn-3Mn in sulphide polluted SSW Cu-10Ni-29Zn-5Mn in sulphide polluted SSW -134 40 33 10 10 9 -534 -130 -128 75 50 30 18 700 100 100 AnodicTafel Slope a (mV)
+
+The data (Ecorr and Tafel slope) obtained from anodic polarisation plots is presented in Table 3. Comparison of cathodic and anodic Tafel slopes control. It also indicates that corrosion of zinc containing alloys in sulphide polluted seawater is also under cathodic control but that of Cu10Ni alloy in sulphide polluted seawater is under anodic control. indicate that corrosion of the test alloys in clean SSW is under cathodic
+
+Discussions
+The pH of the test solutions was 8.2 therefore hydrogen reduction reaction would require operating potential lower than ­484 mV (SHE). 15
+
+While, oxygen reduction reaction would require operating potential lower than +0.743 mV (SHE). The open circuit potentials (OCP) of the test alloys were in the range of ­50 to +32 mV (SHE). Therefore oxygen reduction reaction will certainly occur, but hydrogen reduction reaction will not occur during free corrosion of these alloys. In SSW+Na2S solution, OCP of Cu-10Ni was ­500 mV (SHE), i.e. lower than ­484 mV (SHE). But even in this case hydrogen reduction should not occur at OCP because of lack of reduction reaction was the only possible cathodic reaction in the system under study. Formation of Cu2O by direct anodic reaction and cations by oxidation reactions is possible 2Cu + 2OH¯ Cu Cu2O + H2O + 2e (1) (2)
+
+overvoltage required for this reaction to occur. Hence, in general oxygen
+
+Cu+ + e
+
+Out of the alloying elements added to the test alloys, Ni and Zn produce bivalent cations and, Fe and Mn produce bivalent and trivalent cations. Table 4 shows the redox potentials for the formation of various cations and the ionisation potentials of these cations. Table 4: Redox potentials and ionisation potentials of ions of alloying elements Cation Ionisation reaction Ni2+ Zn2+ Mn2+ Mn3+ Fe2+ Fe3+ Ni2++ 2e-  Ni Zn2++ 2e-  Zn Mn2++ 2e-  Mn Mn3++ 2e-  Mn Fe2++ 2e-  Fe Fe3++ 2e-  Fe Redox potential V (SHE)# -0.423 -0.9397 -1.356 -0.401 -0.617 -0.1545 16 Ionisation potential eV 35.19 39.72 33.66 51.2 30.65 54.8
+
+# Estimated value assuming cation concentration to be 10-6 g-ion/litre. Open circuit potentials of the test alloys were found to be ranging from Mn2+ cations are stable species. It is reported that Ni is present as Ni2+ 50 to 32 mV (SHE) in SSW. Therefore, Mn3+, Fe3+, Ni2+, Zn2+, Fe2+ and
+
+and Fe is present as Fe3+ ion in the film of Cu2O formed on 90-10 Cu-Ni ionisation potential (51.2eV) and redox potential (-0.401 V (SHE)) of Mn3+ Therefore Mn3+ will certainly form. North and Pryor [3] found the Cu2O and Cu2(OH)3Cl to be forming on Cu, Cu-10Ni-1Fe-0.5Mn and Cu-30Ni-0.4Fe in boiling NaCl solution. Kato and coworkers [7] studied the mechanism of corrosion of Cu-9.4Ni-1.7Fe alloy in air saturated NaCl solution. They found by XRD analysis that the corrosion product developed on the surface of Cu-Ni alloy had Cu2O and Cu2(OH)3Cl. In both the cases the inner layer formed by direct anodic reaction and outer layer by precipitation. The inner layer was Cu2O and outer layer was Cu2(OH)3Cl. The film formed on Cu-10Ni-29Zn-5Mn shown in Fig. 4 too has two layers, crystalline inner layer and powdery outer layer. XRD analysis has indicated that this film is made of singlefilm would depend upon resistivities of these individual layers. The Cu2O is a metal-deficient p-type semiconductor [3]. Various anions and cations entering the film affect ionic and electronic resistivities of Cu2O. Incorporation of cations having valency more than one increases ionic and electronic resistivities of Cu2O. Whereas, incorporation of anions like Cl¯ and OH¯ decreases the ionic and electronic resistivities of Cu2O. The cations enlisted in Table 4 originating from substrate can modify the defect structure and therefore improve corrosion resistance accorded by the Cu2O film. The incorporation of Ni2+ ions in the Cu2O film has been reported to 10 and 70-30 Cu-Ni alloys [3]. In the similar manner incorporation of Ni2+ ions in the Cu2O film forming on test alloys should improve ionic and electronic resistivities of the film. Since, nickel is added to all the test 17 increase ionic and electronic resistivities of the Cu2O film forming on 90phased Cu2O. The ionic and electronic resistivities of such a composite alloy [3]. The stability of Mn3+ ion is more than that of Fe3+ ion, owing to
+
+being lower than those of Fe3+ (54.8eV and -0.1545 V (SHE), respectively).
+
+alloys in equal quantities hence, no specific relative effect of nickel can be highlighted for these alloys. But, it is natural that nickel would contribute to ionic and the electronic resistance of the film. Trivalent cations of Fe are going to be more effective than bivalent ions in increasing ionic and ion in the Cu2O lattice, it increases two positive charges. This rise in positive charges requires incorporation of two electrons to maintain charge neutrality. Incorporation of two electrons in the Cu2O lattice
+
+electronic resistivities. This is so because, when one Fe3+ ion replaces Cu+
+
+annihilates two positive holes and consequently shall increase electronic resistivities. If trivalent cation of Fe occupies a vacant position in the lattice then it would be even more effective. This is as per findings of entering the Cu+ vacancy is 2.2x108 ohm.cm and that for Ni2+ ions replacing Cu+ is 1.1x108. Considering the fact that diffusion of Cu+ ions in the Cu2O lattice takes place via vacancy-assisted mechanism, in which vacancies move inward and Cu+ ions move outward. Drop in number of vacant sites due to placement of Fe3+ ion in place of Cu+ ion in the lattice makes cationic movement that more difficult and consequently increases ionic resistivity. The test alloys have varying quantity of Mn therefore it is expected that proportional quantity of Mn3+ be incorporated in the film. It is expected incorporation of Fe3+ is. In that event it should increase ionic and the electronic resistance of the film with increasing manganese content and this effect should manifest itself in polarisation plots. It has been found to be so in cathodic and anodic polarisation studies of test alloys. Cathodic polarisation plots of the filmed specimens have been found to shift to lower current density with increasing manganese content. Similarly, icrit have been found to decrease with increasing manganese content in anodic polarisation plots of polished specimens. The effect of manganese is more pronounced in cathodic polarisation than in anodic polarisation. This is consistent with the findings of North and Pryor [3], who found the ionic resistivity of the Cu2O film to increase by 4.5 times and the electronic resistivity by 6.5 times on three fold increase in nickel content of Cu-Ni alloys (from 10wt% to 30wt%). Therefore, corrosion resistance of Cu-10Ni-29Zn-3Mn and Cu-10Ni-29Zn-5Mn alloys being 18 that incorporation of Mn3+ in Cu2O lattice is as effective as the North and Pryor [3] that the rise in the electronic resistivity for Ni2+ ions
+
+better than Cu-10Ni is attributed to single-phased Cu2O film and incorporation of bi-valent and trivalent ions of Mn.
+
+Traverso et al.[9] found MxSy type sulfide of alloying elements when Cu30Ni-2Fe-2Mn allot was exposed to natural seawater containing 8 ppm sulphide. In the similar way the film formed in SSW+Na2S solution is likely to contain sulphides of alloying elements. The estimated redox potential respectively (considering 1 gl¯ Na2S = 41 ppm S2¯). The OCP of zinc for the formation of Cu2S, ZnS and MnS are ­0.88 V, -1.46 V and ­1.52 V, containing alloys was ­50 mV (SHE) or higher thus, it is natural that these sulphides would form. Secondly solubility product of Cu2S (1.9x10-48) is relatively lower than those of ZnS (3.2x10-25) and MnS (5x10-14). Therefore, Cu2S should always be the first compound to form. However, more negative redox potential (-1.46 V) than Cu2S (-0.88 V), electronic resistivities of the overall film depend upon its structure and phases. The ZnS is a bad conductor and when it forms as a separate phase in any part of film, it will not allow electronic and ionic conduction. If few grains of ZnS are formed then it will reduce the area of the film through which ionic and cationic conduction can take place. In that event the corrosion rate of the test alloys should be lower. This is what has been found out in the present studies in case of zinc-containing alloys. Besides, incorporation of various ions in the lattices of different phases and its lattice is more metal-deficient than that of Cu2O [8]. Therefore, cations are incorporated in similar quantities. In this way the corrosion resistance of Cu-10Ni alloy should be relatively lower in sulphide polluted SSW than other alloys. This has been found in the present investigation. However, incorporation of Mn3+ ions in the Cu2S lattice would improve its ionic and electronic resistance. Therefore, Mn containing alloys should show better corrosion resistance than Cu-10Ni. This has been found to be so in the present investigation. may also affect resistivity of the film. The Cu2S is p-type semiconductor the resistivity of the Cu2S shall always be less than that of Cu2O if similar simultaneous formation of ZnS and Cu2S is possible. The ionic and considering the fact that Zn is surface-active element and that ZnS has
+
+19
+
+Conclusions
+The Cu-10Ni-29Zn-5Mn and Cu-10Ni-29Zn-3Mn alloys exhibit better corrosion resistance than Cu-10Ni alloy in clean synthetic seawater. Their relatively better corrosion resistance is attributed to formation of singleMn. These alloys are more corrosion resistant than Cu-10Ni alloy in phased Cu2O film and incorporation of bi-valent and tri-valent cations of sulphide polluted synthetic seawater. Their relatively better corrosion resistance is attributed to the formation of multi-phased film containing ZnS, which is a bad conductor. This reduces the area of the film through which ionic and electronic conduction can take place. Incorporation of improving corrosion resistance of manganese containing test alloys in sulphide polluted synthetic seawater. Mn3+ cations in Cu2O and Cu2S lattice too has some role to play in
+
+References
+1. `The corrosion of copper-nickel alloys 706 and 715 in flowing weawater I-effect of oxygen', D.D. Macdonald, B.C. Syrett and S.S. wing, Corrosion, 34, 9, pp289-301, 1978. 2. `A study of de-alloying of 70Cu-30Ni commercial alloy in sulfide polluted and unpolluted seawater', A.M. Beccara et al., Corrosion Science, 32, 11, pp1263-1275, 1991. 3. `The influence of corrosion product structure on the corrosion rate of Cu-Ni alloys', R.F. North and M.J. Pryor, Corrosion Science, 10, pp297-311, 1970. 4.
+
+`Copper-nickle-iron alloys resistant to seawater corrosion', G.L. Baily, J. Institution of Metals, 79, pp243-292, 1951.
+
+5.
+
+Mor and A.M. Beccaria, British Corrosion J., 10, 1, pp33-38, 1975. 6. `Passive film on 90Cu-10Ni alloy: The mechanism of breakdown in chloride containing solutions', I. Milasev and M. Meticos-Hukovic, J. Electrochemical Society, 1432, 1, pp61-67, 1991.
+
+`Behaviour of copper in artificial seawater containing sulfides', E.D.
+
+20
+
+7.
+
+`On mechanism of corrosion of Cu-9.4Ni-1.7Fe alloy in air saturated aqueous NaCl solution', Kato et al., J. Electrochemical Society, 127, 9, pp1890-1896, 1980.
+
+8.
+
+nickel alloy in sulfide polluted seawater', J.N. Alhajji and M.R. Reda, J. of Electrochem Society, 142, 9, pp2944-2953, 1995.
+
+`On the effect of common pollutants on the corrosion of copper-
+
+9.
+
+`Effects of sulfides on corrosion of Cu-Ni-Fe-Mn alloy in seawater', 2, p110-114, 1994.
+
+Traverso P., Baccaria A.M. and Poggi G., British Corrosion Journal, 29,
+
+21
+

@@ -1,0 +1,159 @@
+Volume 6 Paper H017
+
+Inter-Diffusion between NiO Coating and the Oxide Scale on Fe-22Cr Alloy
+Materials Research Department, Risø National Laboratory, 4000 Roskilde, Denmark aDepartment of Manufacturing Engineering and Management, Technical University of Denmark, 2800 Lyngby, Denmark anette.noergaard.hansson@risoe.dk
+A.N. Hansson, M. Mogensen, S. Linderoth and M.A.J. Somersa
+
+Abstract
+The effect of Ni and NiO coatings on Fe-22Cr during oxidation at for oxidation times between 0 and 504 hours. Upon oxidation of the as pre-treated Fe-22Cr, Cr2O3 and a spinel developed. Oxidation and inter-diffusion between the Ni coating and Fe-22Cr occurred simultaneously. The scale consisted of NiO, a Fe-Ni spinel and Cr2O3. For the NiO coated alloy, a thin spinel layer developed between the NiO coating and the Cr2O3 scale. The microstructures of the scales are discussed with respect to calculated isotherms in the Fe-Cr-O, Cr-NiO and Ni-Fe-O phase diagrams and inter-diffusion profiles between Ni and Fe-22Cr. Keywords: Oxidation, microstructure, Cr-Ni-Fe-O isotherms, interdiffusion 1173K in 1% H2O was examined with respect to scale microstructure
+
+Introduction
+In Solid Oxide Fuel Cell (SOFC) stacks the interconnect separates the fuel on the anode side from the oxidant at the cathode side and it serves to transport the electrical current between the individual cells and to the external circuit. High-temperature oxidation resistant Fe-Cr
+
+alloys are candidates for interconnect materials, due to the combination of a slow oxide layer growth rate and a reasonable (but still low) conductivity of the Cr2O3 scale [#ref1]. However, the contribution of the growing chromia scale to the total resistance of the SOFC stack gets significant during the operation time of the stack. Therefore, the growth rate of the scale has to be reduced by coating and, simultaneously the conductivity of the scale has to be enhanced.
+
+The conductivity of Cr2O3 can be enhanced by doping it with a divalent cation, e.g. Ni2+, because this increases the hole-concentration of the intrinsic conductor, cf. equation 1. The effect is most pronounced in oxidizing atmospheres [#ref2]. Equation 1:
+' ½O2 + 2 NiO  2 NiCr + 3OO + 2h · Cr2 O3
+
+Huang et al. [#ref3] found that hot-dipping Ebrite steel (~ Fe-26.3 wt% Cr) in Ni2+- and Ni+2/Y3+ nitrate solutions before oxidation reduces the contact resistance of pre-oxidized samples against platinum as compared to a non-coated or Y3+ coated steel. They also observed that the oxidation rate was slightly reduced by the presence of a "Ni2+ coating". However, adherence of Cr2O3 and the alloy was poor and oxide spallation was visible. Under the working condition of the cathode (typically 1123 K and air with about 3% H2O) Cr2O3 disintegrates by evaporation of CrO3 and CrO2(OH)2 [#ref4]. Such evaporation is detrimental for the electrical reduce/ prevent this evaporation. performance of the SOFC [#ref4] and a suitable coating is sought to In the present paper, the oxidation of Fe-22Cr at 1173K is investigated for as pre-treated, Ni- and NiO coated conditions. The results are discussed in relation to the Ni-Cr-O, the Cr-Fe-O and the Fe-Ni-O phase diagrams. The isotherms at 1173K (figure 1) and 1323K were calculated with Thermo-Calc [#ref5], using the assessments in [#ref6], [#ref7] and [#ref8]. Thermodynamics predicts that a multiphase scale, represented by the dashed line in the Cr-Fe-O isotherm forms during oxidation of Fe-22Cr. Thermodynamics also predicts that the NiO coating reacts with the Cr2O3 scale to form the conductor ( = 2.70 S cm-1 at 1273K, porosity = 38%, doped with 0.66 at% Ce [#ref9]). spinel NiCr2O4, which has been reported to be a good electrical
+
+2
+
+Figure 1: The Ni-Cr-O, the Cr-Fe-O and the Fe-Ni-O phase diagrams (cation ratio versus p(O2)) calculated at 1173K with Thermo-Calc [#ref5] using the assessment in [#ref6], [#ref7] and [#ref8]. The indexes refer to the crystal lattices.
+
+Experimental
+Reaction between NiO and Cr2O3 powder mixtures of Cr2O3 and NiO powders were prepared with the following Ni: Cr cation ratios: 5:1, 2:1, 1:1, 1:2, 1:5 (the crosses in the Ni-Cr-O isotherm represents these mixtures). They were heat-treated twice at 1173 or 1323K in air (heating rate 100 K/h) for 60 hours followed by quenching in air. The second heat-treatment was performed in order to ensure that equilibrium was reached. After each heat-treatment, all mixtures were characterised with XRD using Si as a reference. High-temperature XRD was preformed on the mixture with the cation ratio Ni:Cr 1:2. In order to investigate the possible reaction between NiO and Cr2O3,
+
+3
+
+Pre-treatment of Fe-22Cr A 0.2 mm thick Fe-22Cr foil, containing 21.63 wt% Cr, 0.31 wt% Si, 0.27 wt% Mn, 0.19 wt% Ni and 0.011wt% Ce as main alloying elements was used in the present work. The Fe-22Cr foil was etched in an aqueous solution (75 ml H2O) of conc. HF (5 ml) and conc. HNO3 (15 ml) in an ultrasonic bath in order to remove the native oxide layer. Deposition of the Ni-coating The Ni-coating was electrodeposited by a commercial process yielding a thickness of approximately 5µm. Deposition of the NiO-coating NiO coatings were deposited by spray-painting and plasma spraying. In the case of spray-painting, an ethanol-based slurry of NiO particles (particle size: 0.1-20 µm, average 5.35 µm) was sprayed onto pretreated Fe-22Cr samples at room temperature, using air as the carrier gas. The thickness of the as-sprayed layer was about 15 µm. The samples were annealed for 2 hours in air at 1123, 1223, 1323 and 1423K; the heating- and cooling rates were 100K/h. Samples annealed at 1323K were used in the oxidation measurements. Prior to plasma spraying the etched Fe-22Cr samples were sandblasted with Al2O3 in order to ensure good adherence of the coating to the substrate. The NiO powder was mixed with 2 wt% SiO2 to improve the flow-ability of the powder during spraying. Oxygen was used as carrier gas. The thickness of the coating was 15-20 µm and it contained some porosity. High temperature oxidation High temperature oxidation experiments were performed on as pretreated, NiO-coated and Ni-coated samples at 1173K (±7K) in air containing 1 % H2O. The heating time was ca. 2 hours and the cooling time was ca. 6 hours. The oxidation time (not including the heatingand cooling time) was varied between 0 and 504 hours. Microstructure characterization For phase identification X-ray diffractograms were measured for selected samples using a STOE diffractometer equipped with Cu-K radiation (XRD). On the spray-painted samples, diffractograms were 4
+
+also recorded after removing the upper part of the NiO particle layer by grinding. Samples for cross-sectional investigation were mounted in resin, ground and polished (last step 1 µm diamond). Microstructure investigations were performed using a JEOL JSM-840 scanning electron microscope (SEM) in back-scatter electron (BSE) mode. Local chemical analysis was performed using Noran energy dispersive X-ray spectroscopy (EDS).
+
+RESULTS
+Reaction between NiO and Cr2O3 powder Upon reaction between NiO and Cr2O3 powders a tetragonal distorted spinel with the lattice parameters a = 0.584 nm and c = 0.843 nm developed. It has the cation ratio Ni:Cr = 1:2, i.e. would be consistent with NiCr2O4. With respect to this stoichiometry, the Ni-rich mixtures consisted of NiO and NiCr2O4, whilst the Cr-rich mixture consisted of Cr2O3 and NiCr2O4. High temperature XRD showed, that the tetragonally distorted spinel transformed instantaneously to a cubic spinel with a = 0.831 nm at ca. 315K. The structure of the spray-painted NiO coating Cross-sections of NiO coated samples annealed at 1323 and 1423K are shown in figure 2. At the temperatures investigated, a Cr2O3 layer developed at the metal surface; the thickness of the layer increased with increasing annealing temperature. The NiO powder sintered during the 2 hours annealing; the NiO particle-layer became denser the higher the temperature. Dark regions consisting of silica (determinated by EDS-analyses) appeared in the substrate below the coating of the samples baked at 1323K (in some areas) and 1423K. Atomic Force Microscopy on similarly treated samples showed an increase in height across the dark regions. This strongly indicates that the dark regions consist entirely of silica, as silica has a higher hardness than the matrix. In the samples annealed at 1223, 1323 and 1423K a spinel phase with a lattice parameter between 0.83518 (±0.00025) and 0.83558 (±0.00020) nm was identified by XRD. EDS-line scans across the NiO -
+
+5
+
+Cr2O3 interface gave no indication of the presence of a mixed oxide phase in any of the samples.
+
+Figure 2: Cross-section SEM micrographs (BSE) of the spray-painted NiO coatings after annealing for 2 hours 1323K (left) and 1423K (right) High-temperature oxidation Cross-section BSE micrographs and EDS-linescans across the scales of the as pre-treated, the Ni-coated and NiO-coated samples oxidized for one week at 1173K are shown in figure 3, 4, 6 and 7. On the as pre-treated sample, Cr2O3 and a spinel phase with a lattice parameter between 0.84425 (±0.00032) and 0.84649 (±0.00025) nm Cr and possibly Mn (note the slight increase in the Mn signal at the oxide surface and the decrease in the Cr-signal). The presence of Mn cations in chromia scales is difficult to investigate with EDS, because analysis. The interface between Cr2O3 and the alloy appears dark, which is likely associated with the development of silica at this location (note the enhanced Si content as revealed by EDS). the characteristic energies of Cr-K and Mn-K overlap on dispersive developed during oxidation. EDS-line scans across the scale identified
+
+Figure 3: Cross-section SEM micrographs (BSE) and EDS-linescan of the as-etched sample oxidized one week at 1173 in air with 1% H2O 6
+
+The scale on the Ni-coated sample can be sub-divided in three zones (cf. figure 4). The top, light grey layer consist mainly of NiO with 1-2 wt% Fe. The layer was only found locally on the samples oxidized for 2 or more weeks due to spallation (cf. figure 5). A darker shade of grey is observed as an intermediate layer between NiO and the dark grey layer immediately adjacent to the substrate. of Cr2O3 and the intermediate layer of Ni-Fe oxide with possibly a the observation of a spinel, a = 0.838 nm, phase in X-ray small gradient of Cr close to the Cr2O3. This could be consistent with According to the EDS line profiles the substrate adjacent layer consists
+
+diffractograms. Close to the surface a similar shade of grey as for the intermediate layer appears locally, possibly associated with grain boundaries in the NiO layer. This shade of grey is also observed close to pores in the lower part of the NiO layer. On both locations enhanced Fe contents are observed in the EDS line profiles (and EDS-single spot analyses), strongly suggesting the presence of NiFe2O4.
+
+Figure 4: Cross-section SEM micrographs (BSE) and EDS-linescan of the Ni-coated sample oxidized one week at 1173 K in air with 1% H2O Ni was observed to have diffused into the substrate (cf. EDS-line scan) resulting in a Ni bulk content of approximately 2 wt % for oxidation times longer than 72 hours. Consequently, the composition of the outer part 30-40 µm of the alloy had changed drastically; at a depth of 10 µm, the steel contained ca. 20 wt % Ni and ca. 11 wt % Cr. Dark regions are observed in the substrate close to the scale, probably along substrate grain boundaries, due to the development of silica, cf. figure 4. On other locations (cf. figure 5), silica is present as particles in the substrate just below the Cr2O3 layer.
+
+7
+
+Figure 5: Cross-section SEM micrographs (BSE) of the Ni-coated where spallation has occurred
+
+sample oxidized for two weeks at 1173K in air with 1% H2O at a place The microstructure of the oxidized NiO spray-painted samples is similar to that of the as-baked microstructure (cf. figure 2 and 6), the main difference being a thicker Cr2O3 layer. The presence of a mixed oxide phase could not be confirmed with EDS.
+
+Figure 6: Cross-section SEM micrographs (BSE) and EDS-linescan of the NiO-coated (spray-painting) sample oxidized 2 hours at 1323K and one week at 1173K in air with 1% H2O the interface between the alloy and the NiO coating during oxidation, cf. Figure 7. The thickness of the layer increased with oxidation time. The coating became denser, probably due to sintering as no foreign cations were detected with EDS. Some EDS-line scans across the NiOCr2O3 interface indicate the presence of a small amount of iron located in the interface. On the samples coated by plasma spraying, a Cr2O3 layer developed at
+
+8
+
+Figure 7: Cross-section SEM micrographs (BSE) and EDS-linescans of the NiO-coated (plasma-spraying) sample oxidized one week at 1173K in air with 1% H2O
+
+Discussion
+The NiO and Cr2O3 powders spinel upon reaction of NiO and Cr2O3 at 1173 K (cf. figure 1) and 1323 K in air (at 1323 K the spinel forms at p(O2) = 10-12 bar). NiCr2O4 did indeed form by reaction between NiO and Cr2O3 powder at both temperatures. The self-diffusion coefficients of Ni2+ and Cr3+ [#ref10] in NiCr2O4 are of the same order of magnitude, whereas the oxygen self-diffusion coefficient is approximately one order of magnitude smaller [#ref11]. This indicates that NiCr2O4 forms by counterdiffusion of the relatively small cations over the interstices of the relatively rigid (fully occupied) O2- lattice. Oxidation of as pre-treated samples During oxidation of the as pre-treated samples, Cr2O3 and a spinel phase formed, as detected by XRD. The presence of FeCr2O4 could not be confirmed by EDS. According to the Cr- Fe-O phase diagram at 1173K, figure 1, only corundum is thermodynamically stable for an oxygen partial pressure corresponing to that of air. Following the vertical dashed line in the Cr- Fe-O in the direction of decreasing expected between the corundum layer and the substrate. Neither of these appeared in the cross-section (Figure 3). Selective oxidation of Cr is favoured at chromium contents above 14 wt %; selective p(O2), a multi-layered scale and several zones of internal oxidation are Thermodynamic calculations predict the development of the NiCr2O4
+
+9
+
+oxidation of Cr stabilizes the chromia-based scale at the expense of the faster growing spinel [#ref12]. During oxidation of FeCr alloys a layer containing a large proportion of iron oxides forms in the beginning of the oxidation process, because the iron oxides grow faster than Cr2O3 [#ref13]. The identified spinel might be a Fe-Cr spinel formed by reaction between initially form iron grown iron oxides are incorporated in Cr2O3, because Fe2O3 and Cr2O3 form a continuous series of solid solutions cf. figure 1. The alloy contains a small amount of Mn. The formation of MnCr2O4 spinel on the top of Cr2O3 has been observed during the oxidation of high-alloy steel with a low Mn content (0.56-1.58 wt %) [#ref14] (0.31 wt %) [#ref15] in air and has been explained by very fast diffusion of Mn cations through Cr2O3 [#ref16]. The lattice parameter of the nm is close to that of MnCr2O4 (0.8413 nm). Oxidation of the Ni-coated samples Upon the oxidation of the Ni-coated samples, two competing processes occur: Inter-diffusion between the Ni-coating and the Fe22Cr alloy and oxidation of the Ni-coating. Inter-diffusion between Fe-22Cr (bcc, 100 µm) and Ni (fcc, 5 µm) was investigated with DICTRA [#ref17] by calculation of the concentration profiles of Fe, Cr and Ni after diffusion at 1173K for 1 hour and 10 hours in an inert atmosphere (cf. figure 8). The calculation shows that the thickness of the fcc phase increases with annealing time. The Crconcentration drops sharply across the bcc ­ fcc interface, whilst the Ni and Fe concentration change more gradually. The porosities at and close to the NiO ­ spinel interface might have appeared as a consequence of the inter-diffusion between the Nicoating and the Fe-22Cr substrate. In the case, that the inward Ni-flux differs from the sum of the out-ward Fe and Cr fluxes, there will be a net flux of vacancies which might coalesce as Kirkendall porosities. This may have occurred close to the Ni/Fe-22Cr interface (alternatively or additionally, these voids could be the result of outward diffusion of Ni cations on oxidation, see below). identified spinel a = 0.84425 (±0.00032) and 0.84649 (±0.00025) nm oxides and Cr2O3. However, thermodynamics predicts that initially
+
+10
+
+Figure 8: Left: Concentration profiles across the Fe-22Cr (bcc, 100µm) ­ Ni (fcc, 5µm) interface after 1 hour and 10 hours at 1173K as calculated with DICTRA [#ref17]. The dashed lines indicate the position of the interface between bcc and fcc. Only Fe, Cr and Ni are included in the calculation. Right: The Fe-Ni-Cr phase diagram at 1173K as calculated using Thermo-Calc [#ref5] The experiments show that Ni has diffused throughout the Fe-22Cr foil for oxidation times longer than 72 hours, resulting in a Ni bulk content of about 2 wt %. According to the Fe-Cr-Ni phase diagram at 1173K, figure 8, the maximum solubility of Ni in Fe-21.63 wt % Cr is 2.13 wt %, indicating that the ferritic substrate has been saturated with Ni. At this stage, the Ni content in the alloy at a depth of 10 µm is so high (ca. 2O wt %) that the outer part of the alloy is austenitic. The fcc phase is expected to grow with oxidation time as Cr is consumed during the growth of Cr2O3 and less Fe and Ni are needed to stabilize the fcc phase. The concentration profiles in figure 8, left, also show that the coating is richer in Fe than in Cr. This result of the calculations would be consistent with the observation (from EDS-line scans) that the spinel formed in-between the NiO and the Cr2O3 layer and the spinel formed close to the surface is richer in Fe (and Ni) than in Cr. At temperatures below 1373K, NiO grows predominantly by outward Ni diffusion via short circuit paths, particularly grain boundaries [#ref18]. For Ni with a purity less than 99.99%, voids are formed at the
+
+11
+
+oxide-metal interface by accumulation of Ni vacancies. Compressive stresses in combination with the voids lead to local detachment of the scale and shear stresses in the detached parts initiate cracks through below the detached oxide and forms a fine-grained NiO. The cracks may heal as the outward Ni diffusion is not interrupted causing an internal volume increase and thereby growth stresses, which initiate new cracks. The resulting NiO scale has a duplex structure with an outer columnar and an inner equiaxed grained scale [#ref19][#20]. Ni-coated Fe-22Cr contains voids at and close to the NiO - spinel interface (alternatively or additionally, these voids could be associated with the diffusion of Ni into the substrate, see above). Furthermore the NiO grains appear columnar. Cracks may have formed during the NiO growth. As a consequence of inter-diffusion between the Ni-coating and the substrate, the O2 penetration may have resulted in the formation of the Fe-Ni rich spinel, instead of an inner equiaxed grained NiO layer. This is supported by thermodynamic calculations, which predict the formation of both the spinel and NiO for 0.23  n(Ni)/((n(Ni)+n(Fe))  0.85, cf. the Ni-Fe-O isotherm in figure 1. Furthermore, the appearance the Fe-Ni spinel along grain boundaries in NiO (cf. figure 4) indicates that also Fe diffuses along short circuits. Cr2O3 forms in-between the alloy and the spinel because it is thermodynamically the most stable oxide in the Fe-Cr-Ni-O system areas, where the NiO has spalled off. Spallation may have occurred during oxidation due to growth stresses or during cooling due to thermal stresses. In both cases, the cracks have most likely propagated along the NiO - spinel interface due to the presence of voids at this location. This is supported by the occurrence of thin light oxide layer on top of the Cr2O3 layer, where NiO is missing. The enhanced growth of chromia indicates that spallation has occurred during oxidation. After spallation, the newly created surface is exposed to the ambient atmosphere and thereby a higher chemical potential of oxygen. The increase in the chemical potential leads to a steeper gradient in the oxygen potential and thus faster growth. (cf. figure 1). The Cr2O3 layer appears thicker and more porous in the NiO layer [#re19]. O2 penetrates the cracks and reacts with Ni
+
+From figure 4 it is evident that the NiO formed upon oxidation of the
+
+12
+
+The NiO-coated samples The formation of the Cr2O3 layer below the NiO spray-painted/ plasma sprayed coating during annealing/ oxidation is in accordance with the Ni-Cr-O phase diagram (figure 1), which shows that Cr2O3 is thermodynamically more stable than NiO and NiCr2O4.
+
+The formation of NiCr2O4 by cation inter-diffusion between the formed Cr2O3 and the NiO coating (both spray-painted and plasma-sprayed) was expected during annealing/ oxidation. Although a spinel did form during annealing of the spray-painted samples, it was not NiCr2O4 as
+
+it would transforms instantaneously to a tetragonal phase during result in a spinel, which transforms to a distorted spinel at a temperature below room temperature. Fe may be present at this
+
+cooling. Substituting a small amount of the Cr or Ni with Fe might
+
+location as a large proportion of iron oxide forms in the initial stage of oxidation of FeCr alloys due to faster growth rate of iron oxides than of Cr2O3 [#ref13]. Alternatively, the spinel might be a Ni-Fe spinel formed by reaction between the initially formed iron oxides and the NiO coating. The lattice parameter, a = 0.83518 (±0.00025) and NiFe2O4 (a = 0.8339 nm). A similar spinel might have formed in-between the NiO plasma coating and the Cr2O3 layer as the EDS-line scans indicates the presence of Fe in this interface. The role of Si Silica develops below Cr2O3 because it is thermodynamically more stable than Cr2O3 (SiO2 is placed below Cr2O3 in a Ellingham/ Richardson diagram) [#ref13]. Silica can be present as a more or less (after oxidation of the as pre-treated Fe-22Cr, cf. figure 3), and as particles in the alloy (after oxidation of the Ni-coated sample and after annealing of the NiO spray-painted sample at 1423K, cf. figure 2). A combination of both appearances, i.e. silica films and silica particles, was observed in different areas of the NiO spray-painted sample after annealing at 1323K. The different appearances of silica could be explained as follows. The appearance of silica as a thin layer at the scale/substrate interface continuous thin layer in-between the Cr2O3 layer and the substrate 0.83558 (±0.00020) nm of the identified spinel is close to that of
+
+13
+
+reflects the higher thermodynamic stability of this oxide as compared to chromia. The nucleation of silica in the substrate is expected to occur at the location where vacancies, necessary to maintain the outward diffusive fluxes of Fe and Cr, are annihilated. For the case that Kirkendall porosity develops in the substrate, silicon is anticipated to segregate at the internal surfaces thus created and is later oxidised to silica. This occurs particularly when a high outward flux of Cr (and Fe) CrO2(OH)2 evaporate. is maintained, i.e. at a relatively high temperature where CrO3 and /or
+
+Conclusion
+Cr2O3 forms closest to the alloy upon oxidation of coated and as pretreated samples, as this is the thermodynamically most stable oxide in the Cr-Fe-Ni-O system. Silica forms as an interfacial film between the alloy and Cr2O3 or as particles in the alloy. The silica is situated below Cr2O3 because it is thermodynamically more stabile than Cr2O3. A spinel is formed upon oxidation of the as pre-treated Fe-22Cr. The spinel was proposed to be MnCr2O4 due to the fast diffusion of Mn Oxidation and inter-diffusion between the Ni-coating and Fe-22Cr occurred competitively. NiO, Fe-Ni-spinel and Cr2O3 develop during oxidation. The outer part of the alloy becomes austenitic due to the inter-diffusion, after ca. 72 hours of exposure the Fe-22Cr is saturated in Ni. Continued depletion of Cr due to oxidation most likely results in growth of the austenitic region. A thin spinel layer developed between the NiO coating and the Cr2O3 cations through Cr2O3.
+
+scale. It was proposed to be a Fe-Ni spinel (or a Fe-Ni-Cr spinel) NiO coating (and the chromia scale).
+
+formed by inter-diffusion between initially formed iron oxide and the At 1173K and 1323K, NiCr2O4 forms by inter-diffusion between NiO and Cr2O3 powder. NiCr2O4 is tetragonal a room temperature but transform instantaneously to a cubic spinel at about 315K.
+
+ACKNOWLEDGEMENTS
+
+14
+
+The authors are grateful to Dr. G. Schiller and Dr. M. Lang "Deutsches Zentrum für Luft- und Raumfahrt e.V.", Stuttgart, Germany, for assistance during plasma spraying.
+
+REFERENCES
+!ref1 'Application of Heat Resisting Alloys to the Separator of Planar Type Solid Oxide Fuel Cell' T. Kadowaki, T. Shiomitsu, E. Matsuda, H. 69, 1993 Nakagawa, H. Tsuneizumi, T. Maruyama, Solid State Ionics, 67, pp65-
+
+!ref2 `Electrical Conductivity of Cr2O3 Doped with La2O3, Y2O3 and NiO' H. Nagai, T. Fujikawa, K.-I. Shoji, Transaction of Japan Institute of !ref3 `Reduced Area Specific Resistance for Iron-based Metallic Interconnects by Surface Coatings' K. Huang, P.Y. Hou, J.B. Goodenough, Materials Research Bullitin, 36, pp81-95, 2001
+
+Metals, 24, 8, pp581-588, 1983
+
+!ref4 `Chromium Vapor Speices over Solid Oxide Fuel Cell Interconnect Materials and Their Potential for Degradation Processes' K. Hilpert, D. Das, M. Miller, D.H. Peck, R. Weiss, Journal of the Electrochemical
+
+!ref5 Thermo-Calc Software, SE
+
+Society, 143, 11, pp3642-3647, 1996
+
+!ref6 `A Thermodynamic Assessment of the Ni-O, Cr-O and Cr-Ni-O Systems Using the Ionic Liquid and Compound Energy Models' J. R. 1990 Taylor, A. T. Dinsdale, Zeitschrift für Metallkunde, 81, 5, pp354-366,
+
+!ref7 `A Thermodynamic Assessment of the Cr-Fe-O System' J. R. 1993
+
+Taylor, A. T. Dinsdale, Zeitschrift für Metallkunde, 84, 5, pp335-345, !ref8 `A Thermodynamic Analysis of the System Fe-Ni-O' R. Luoma,
+
+Calphad, 19, 3, pp279-295, 1995
+
+!ref9 `Fabrication and Characterization of NiCr2O4 Spinel' C.O.
+
+Augustion, D. Prabhakaran, L.K. Srinivasan, Journal of Materials
+
+!ref10 `Kinetics of NiCr2O4 Formation and Diffusion of Cr3+ Ions in NiO' 502, 1970 C. Greskovich, Journal of the American Ceramic Society, 53, 9, pp498-
+
+Science Letters, 12, pp383-386, 1993
+
+15
+
+!ref11 `Oxygen Mobility in Polycrystalline NiCr2O4 and -Fe2O3' W.D. Kingery, D.C. Hill and R.P. Nelson, Journal of the American Ceramic
+
+!ref12 `Healing Layer Formation in Fe-Cr-Si Ferritic Steels' J. Robertson and M.I. Manning, Materials Science and Technology, 5, pp741-753 !ref13 `High Temperature Corrosion' P. Kofstad, (Elsevier Applied Science, U.K.) 1988, figure 1.2, figure 12.8 and chapter 5 !ref14 `Oxidation und Aufkohlung hochlegierter Werstoffe für Cracjrohre, Teil 1: Das Oxidationsverhalten in Luft' K. Ledjeff, A. Rahmel and M. Schorr, Werkstoffe Korrosion, 30, pp767-784, 1979
+
+Society, 43, 9, pp472-476, 1960
+
+!ref15 `FTIR Study of the Influence of Minor Alloying Elements on the High Temperature Oxidation of Nickel Alloys' M. Lenglet, F. Delaunay and B. Lefez, Material Science Forum, 251-254, pp267-274, 1997 Alloy' R.E. Lobnig, H.P. Schmidth, K. Hennsen and H.J. Grabke, !ref16 `Diffusion of Cations in Chromia Layers Grown on Iron-Based
+
+Oxidation of Metals, 37, 1/2, pp81-93, 1992
+!ref17 DICTRA
+
+!ref18 `A Quantitative Demonstration of the Grain-Boundary Diffusion Mechanism for the Oxidation of Metals` A. Atkinson, R.I. Taylor, A.E. Hughes, Philosophical Magazine A, 45, pp823-833, 1982 !ref19 `Role of Growth Stresses on the Structure of Oxide Scales on 28, 1/2, pp103-144, 2002
+
+Nickel at 800 and 900°C' W. Przybilla, M. Schütze, Oxidation of Metals, !ref20 `Transport of Nickel and Oxygen during the Oxidation of Nickel
+
+and Dilute Nickel/ Chromium Alloy' A. Atkinson, D.W. Smart, Journal of
+
+the Electrochemical Society, 135, 11, pp2886-2893, 1988
+
+16
+

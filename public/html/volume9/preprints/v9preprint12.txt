@@ -1,0 +1,146 @@
+ISSN 1466-8858
+
+Volume 9 Preprint 12
+AC corrosion of mild steel in marine environments and the effects of cathodic protection Dae-Kyeong Kim1, J.D.Scantlebury2, Srinivasan Muralidharan 1*,3, TaeHyun Ha1, Jeong-Hyo Bae1, Yoon-Cheol Ha1 and Hyun-Goo Lee1
+1*
+
+Underground
+
+Systems
+
+Group,
+
+Korea
+
+Electrotechnology
+
+Research
+
+Institute, 28-1, Seongju-dong, Changwon, 641-120, Republic of Korea. (e-mai:dkkim@keri.re.kr)
+2
+
+Corrosion and Protection Centre, University of Manchester, M60 1QD,
+
+UK. (e-mail:David.Scantlebury@manchester.ac.uk)
+3
+
+Concrete Structures & Failure Analysis Group, Corrosion Protection
+
+Division, Central Electrochemical Research Institute, Karaikudi­ 630 006, Tamilnadu, India. (e-mail:corrmurali@yahoo.com)
+
+Abstract
+The influence of alternating current (AC) corrosion of mild steel in natural sea water was studied systematically under cathodic protection (CP) condition. Electrochemical studies were carried out at the CP protection potential namely -780 mVSCE. Corrosion rate determination at the different applied AC current densities was carried out by conventional weight loss method for the exposure period of 24 hrs. The pH of the test solutions for the exposure period of 24 hrs was noted. The amount of leaching of iron (Fe) into the solution at various AC current densities was done by using
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it should not normally be referenced in published work. © UMIST 2004.
+
+inductively coupled plasma spectrometry (ICP). Mild steel specimens were subjected to surface examinations after treatment with various AC current densities under CP condition. Optical electron microscopy was used for analysing the surface of the mild steel. All the studies revealed that mild steel tends to corrode when applying AC even though it is under CP conditions. The corrosion rates are increased with increasing AC current densities. Two to three fold increases in the corrosion rates was obtained at 100 A/m2 . Surface micrographs showed the spreading of red rust products on the mild steel surface after 10 A/m2 . The concentration of Fe was also found higher above 10 A/m 2. The electrochemical measurements couples with surface examination and solution analysis proved to be a very effective tool by means of characterizing the AC corrosion of mild steel in sea water medium. Keywords: AC corrosion, mild steel, cathodic protection, sea water 1.Introduction Corrosion caused by AC interference is of concern when high-voltage transmission lines run parallel to buried pipelines over a long distance, when catenary systems are close to concrete rebars in railway tunnels, when concentric neutral copper wires in electrical cables are used for urban distribution, in the presence of AC stray currents etc. In the last decade, some leaks on high pressure gas pipelines were attributed to the influence of induced AC, although the pipelines were properly cathodically protected [1]. Literature suggests that until the 1970's AC corrosion would have been only a fraction or a few percent of the amount of corrosion that would have been caused by direct current (DC) of the same value [2-4]. The influence of AC corrosion of Fe, Pb, Cu, Al and other metals are reported [5-7]. Most of the literatures concern the influence of AC in acidic and sulphate
+
+2
+
+solutions [8-14]. However, more researches are essentially needed for the influence of AC on chloride environments. This investigation emphasis studies on the influence of AC corrosion on cathodically protected mild steel in sea water medium. A simple electrochemical approach is adopted for the evaluation of AC corrosion of mild steel in natural sea water. 2. Experimental 2.1. Materials Mild steel obtained from Dongil Industries Co., Ltd., South Korea was used and the composition in wt% is follows: C (0.43), Si (0.22), Mn (0.72), P (0.013), S (0.015), Ni (0.05), Cr (0.10), Cu (0.12) and Fe balance. Mild steel specimen of size 2 cm (l) X 2 cm (b) x 0.5 cm (thickness) was used and the total exposed surface area was 11 cm2. They were given mechanical polishing and then successively with finer SiC papers (240, 400, 600, 800, 1200 grit). Before and after each immersion experiment, individual specimens were cleaned with 50% (v/v) hydrochloric acid, followed by a rinse with de-ionized water and acetone and dried under stream of hot air. Each specimen had one tapped end so that it could be mounted on a threaded specimen holder. Natural sea water (Jinhae Sea, South Korea) was used as aggressive solution and the composition is given in Table-1.
+
+3
+
+2.2. Methods 2.2.1.Weight loss experiments with and without AC under CP condition Immersion experiments were carried out to quantify the corrosion rate of mild steel in natural sea water under the influence of various AC current densities. The weight of the mild steel samples was taken before and after immersion using Ohaus Explorer 4-digit electronic balance for gravimetric weight loss measurements. The AC signal was applied between the working electrode (mild steel) and the counter electrode (platinum gauge). Solartron 1480 Multistat electrochemical measurement unit coupled with Solartron 1255-B Frequency Response Analyzer and multi media computer was used to supply the required AC waveform. An oscilloscope was used to adjust as well as to monitor the AC signal applied. Experiments are carried out on the basis of protection potential namely -780 mVSCE as follows: (i).to find out the actual CP current at the protection potential in natural sea water in the absence of AC sources and (ii). to find out the corrosion behaviour of mild steel in natural sea water under CP in the presence of various AC current densities. For the above, firstly experiments were carried out by applying constant protection potential namely -780 mV SCE on mild steel working electrode in natural sea water and the protection current (DC current) was monitored for an exposure period of 24 hrs using a computer controlled data logger. Actually, the current was monitored by using a Keithley 2701 Ethernet Multimeter data acquisition system controlled by computer. So the program was made to record one value at the end of one hour. Like that 24 readings are recorded for the total exposure period. The values obtained are 4
+
+reasonable and reproducible from the triplicate set of experiments. Secondly, CP condition was simulated in the electrochemical cell by maintaining the cathodic DC current constant and varied the AC amplitudes at various current densities at a fixed frequency of 60 Hz. Triplicate experiments were carried out for each AC current density and the average corrosion rate was made in mm/yr. Corrosion rate in mm/yr was made by using difference in weight losses between initial and final weight of the specimens for the exposure period of 24 hrs. 2.2.2.Visual Examinations At the end of weight loss measurements the mild steel specimens were taken out carefully and visually examined for any corrosion products like red rust observed on the surface aided with magnifying lens [15]. 2.2.3.pH measurements For pH measurements, AC sources were applied between mild steel working electrode and platinum counter electrode in natural sea water for the exposure period of 24 hrs. At the end of the experiment the pH of the solutions was determined. The pH for the blank system and at the various AC applied current densities was measured. At the end of the exposure period 50 cc of the solution was taken in a 100 ml beaker and the pH of the solution was measured using a standard calibrated pH meter. The pH was measured by using a portable ISTEK pH meter (Model 76P) with a relative accuracy of ±0.002. Triplicate measurements were made for each system and the average was plotted against the current density. 5
+
+2.2.4.Surface examination by optical microscopy Optical microscopy was used to examine the nature of corrosion on the mild steel surface before and after immersion in various test solutions. The mild steel specimens were immersed in test solutions for fixed duration of 24 hrs under the CP condition with and without AC. At the end of 24 hrs the specimens were taken out from the solution, thoroughly washed with distilled water, cleaned with acetone and dried. Micrographs were recorded for the blank and at the different applied AC current densities in natural sea water. The microscopic examination was carried out using Olympus-GX 71 make computer controlled microscope. 2.2.5.Solution analysis by inductively coupled plasma (ICP) spectrometry The solution analysis was carried out with an idea to quantify the leaching characteristics of mild steel. It is expected that during the immersion studies the metal dissolution expected releasing considerable amount of metal ions from the material due to the AC source. The concentration of Fe present in the test solution was determined under CP condition with and without AC. The solution analysis was carried out by an inductively coupled plasma-atomic emission spectrometry (ICP, Applied Research Laboratory, USA). Triplicate experiments were carried out for each system and the average values are noted.
+
+6
+
+3. Results and Discussion 3.1.Cathodic protection of mild steel in natural sea water without AC Mild steel was subjected to perfect CP i.e.-780 mVSCE in natural sea water and the respective cathodic DC current was measured for the exposure period of 24 hrs in sea water. The cathodic DC current was -0.1498 mA. As expected the system was in CP condition, no corrosion was noticed. Specimens were examined visually at the end of exposure period and it was found that no rust was formed on the mild steel surface. Its indicate that the system was perfectly cathodically protected. This cathodic DC current is utilized for the further studies with different AC current densities. 3.2.Determination of corrosion rate by weight loss measurements Fig.1. shows the corrosion rate of mild steel in natural sea water under CP with and without AC. It was observed that the corrosion rate for mild steel was increased with increasing various AC current densities. The corrosion rate at the perfect CP condition was almost negligible. On the other hand, the corrosion rate was gradually increased upto the AC current density namely 10 A/m 2. After that there was a drastic increase in the corrosion rate was noticed. Weight loss experiments reveals that cathodically protected specimen at -780 mVSCE with out AC showed no corrosion rate and the corrosion rate abruptly increased at the higher AC current densities. The later was due the anodic AC voltage peak go over the corrosion potential when the AC current density was applied. This could be interpreted that AC current flow causing charge transfer still being existed overwhelming 7
+
+cathodic protection current. The higher magnitude of corrosion rate for mild steel in sea water at the higher current densities may be due to the destabilization of the passive layer on the mild steel surface. The growth of the passive layer occurs as a result of electrochemical reaction and this passive layer is tends to depassivate at the higher current densities and accelerate the corrosion of mild steel. 3.3.Visual examination Visual observations showed that no corrosion product was obtained in the absence of AC sources under CP condition. More red rust products are seen on the mild steel surface in natural sea water at higher AC current densities even though under CP condition. Mostly, red rusts formed at the one place rather spread towards the entire surface. At higher AC source, more than 90% area showed red rust products. 3.4.pH measurements The pH of the sea water at the end of the exposure period of 24 hrs with respect to various AC current densities is given in Fig.2. The pH of the sea water used was 8.34. On the other hand there was a small increase in the pH values with increasing AC current densities. The pH at the 100 A/m2 was 9.0. It reveals that the degree of alkalization is increased in the solutions. The degree of alkalization of the solutions close to a metal is believed to be playing a major role in the corrosion process. The alkalization arises from influence of either the anodic or cathodic DC current along with AC sources which electrochemically reduces water into OH-. 8
+
+2H2 O + O2 + 4e- ----------> 4OH-
+
+or 2H2O + 2e- -----------> H2 + 2OH-
+
+The accumulation of OH- and consequent pH change would be the result if a mass balance for OH- in the solution. The combination of elevated pH and a vibration of the DC potential within this area caused by the AC may induce corrosion either by a destabilization of the passive layer or in the case of extreme alkalization by entering the general corrosion area (HFeO2 stabilization) at high pH. The AC also indirectly contributes to the alkalization process. When AC imposed on a coupon placed in a chloride solution will lead to a depolarization of the electrochemical kinetics and AC accelerates the DC current and consequently the rate by which OH - is produced under cathodic polarization. In general production of OH- ions would increase the conductivity of the solution adjacent to the metal. 3.5.Surface examination by optical microscopy The optical micrographs for mild steel in natural sea water at the protection potential -780 mV SCE with varied AC current densities are shown in Fig.3. Micrographs recorded at the CP condition without AC is shown in Fig.3(a). No rusts are seen from the micrograph. But the surface morphology was changed when the AC current density is increased from 1 A/m 2 to 100 A/m2 . Figs.3(b) and (c) showed the micrographs at the 20 and 100 A/m 2 AC current density respectively. Here due to higher acceleration of corrosion by the AC source the entire surface showed red rust products. The changes in the surface morphology of mild steel by the AC source is indicating that AC
+
+source have a strong influence on the corrosion kinetic parameter i.e. corrosion current density. This observation was agreed with literature 9
+
+which AC affects the kinetic parameters such as Tafel slopes and exchange current densities for carbon steel, copper and zinc in 1 M sulphate solutions [16]. The initiation of corrosion is due to the metal solution interface could be altered by the AC signal and thereby affecting the corrosion kinetics. In this case both reversibility and faradaic rectification aspects have to be considered to understand the AC induced corrosion. Here the irreversibility of the chemical reactions occurring at the interface causes a change in the double layer compositions and a modification of the metal surface. A definite trend was observed between AC corrosion immersion studies and surface morphology examinations. 3.6.Solution analysis by inductively coupled plasma spectrometry The concentration of iron in test solution at the -780 mVSCE CP with varied AC current densities is given in Fig.4. The concentration of iron is increased while increasing AC current densities. The concentration of Fe in test solutions upto 10 A/m 2 is comparatively smaller than higher AC current densities. The leaching of Fe was almost doubled at the higher current densities. For example the amount of iron in test solution at 10 A/m 2 was in the range from 10 ~12 ppm, but it showed 22~25 ppm at 100 A/m 2. The same observation was noticed in weight loss measurement also. So a definite correlation was observed between weight loss measurements and solution analysis studies. All these data's clearly indicated that AC sources having definite influence on the corrosion of mild steel in natural sea water under CP conditions. Most probably, both reversibility and faradaic rectification aspects have to be 10
+
+considered to understand the AC induced corrosion. The irreversibility of the chemical reactions occurring at the interface causes a change on the double layer composition and a modification of the metal surface. 4.Conclusions The following conclusions can be drawn from this investigation: 1. AC sources able to accelerate the corrosion of mild steel even though they are cathodically protected in natural sea water. 2. AC current density upto 10 A/m2 showed lesser corrosion rates. But two to three fold increases in the corrosion rate was obtained at the higher AC current densities. 3. Visual observations reveal that 90% area of the mild steel was affected by red rust products at the higher AC current density region. 4. The degree of alkalization was found increase with increase of AC current density. 5. Micrographs showed the spreading of red rust products on the mild steel surface. Red rusts are visually seen when the AC source was increased after 10 A/m2. The concentration of Fe in the solution also directly proportional to the AC current density. 6. A good agreement was observed between weight loss measurements coupled with surface morphological studies and solution analysis. Acknowledgements: One of the authors (S.M.) thanks CSIR and CECRI, India for the permission to pursue a PDF at KERI, South Korea. S.M. also thanks KOFST, South Korea for the financial assistance through Brain Pool Program.
+
+11
+
+References: 1. A.Pourbaix, P.Carpentiers and R.Gregoor, Detection and assessment of alternating current corrosion, Materials Performance, March (2000) 34. 2. J.Dabkowski and A.Taflove, Mutual design consideration for Overhead AC transmission lines and gas transmission lines, Vol.1: Engineering Analysis, EPRI report EL-904, RP 742-1, (Palo Alto, CA :EPRI, 1978) 3. L.V.Collings, The effect of alternating current on pipeline corrosion, coatings and cathodic protection, Corroison/1976, Paper No. 134, Houston, TX, NACE, 1976. 4. G.E.Galimberti, Corrosion, 20 (1964) 150. 5. S. Z. Fernandes, S.G. Mehendale and S.Venkatachalam, Influence of frequency of alternating current on the electrochemical dissolution of mild steel and nickel, J. Appl. Electrochem., 10 (1980) 649-654. 6. H.C.Koerts and J.M.Wetzer, Literature Survey on corrosion of
+
+underground metallic structures induced by alternating currents, Arnhem, October 2001, European Copper Institute. 7. R.A.Gummow, R.G.Wakelin and S.M.Segall, AC corrosion ­ a new threat to pipeline integrity? Proc. of the 1 st International Pipeline Conference (IPC), Calgary, Canada, 1996. 8. S.S.Abd El Rehim, AC corrosion of delta-52 steel in K 2SO4 solutions, Surface Technology, 25 (3) (1985) 223 ­ 228. 9. J.L.Wendt and D.T.Chin, The A.C. corrosion of stainless steel- II. The polarization of SS304 and SS316 in acid sulfate solutions, Corrosion Science, 25 (20) (1985) 901-915.
+
+12
+
+10.J.L.Wendt and D.T.Chin, The A.C. corrosion of stainless steel-II. The breakdown of passivity of SS304 in neutral aqueous solutions, Corrosion Science, 25 (10) (1985) 889-900. 11.D.S.Dunn, M.B.Bogart, C.S.Brossia and G.A.Cragnolino, Corrosion of iron under alternating wet and dry conditions, Corrosion, 56 (5) (2000) 470-481. 12.Y.Hosokawa, F.Kajiyama and T.Fukuoka, Alternating current corrosion risk arising from alternating current ­ powered rail transit systems on cathodically protected buried steel pipelines and its measures, Corrosion, 60 (4) (2004) 408 ­ 413. 13.F.Kajiyama and Y.Nakamura, Effect of alternating current voltage on cathodically protected pipelines paralleling electric power transmission lines, Corrosion, 55 (2) (1999) 200-205. 14.F.Bolzoni, S.Goidanich L.lazzari and M.Ormellese, Laboratory test results of AC interference on polarized steel, Corrosion 2003, Paper No.03704. 15.S.Muralidharan, V.Saraswathy, S. P. Merlin Nima and N. Palaniswamy, Evaluation of a composite corrosion inhibiting admixtures and its performance in Portland pozzolana cement, Materials Chemistry and Physics, 86 (2004) 298. 16.Sara Goidanich, Luciano Lazzari, Marco Ormellese and MariaPia Pedeferri, Influence of AC on corrosion kinetics for carbon steel, zinc and copper, Corrosion 2005, Paper No. 05189.
+
+13
+
+Table 1 : Chemical compositions of sea water Constituents Cl Na Mg SO4 Ca K Sr Bi carbonate (HCO 3) as CaCO 3 Total hardness (as CaCO3) ppm 18500 11900 1495 7.20 464 400 7.20 142 7310
+
+14
+
+1.2 1
+Corrosion rate (mm/yr)
+
+0.8 0.6 0.4 0.2 0 0 1 10 20
+2
+
+100
+
+AC current density (A/m )
+
+Fig.1. Corrosion rate for mild steel in sea water under CP with and without AC current densities
+
+15
+
+8.6
+
+8.5
+
+pH
+
+8.4
+
+8.3
+
+8.2 0 1 10 20
+2
+
+100
+
+AC current density (A/m )
+
+Fig.2. pH of sea water under CP with and without AC current densities
+
+16
+
+40X (a)
+
+40X (b)
+
+40X (c) Fig.3.Micrographs of mild steel in sea water under CP (a) blank (b) 20 A/m2 (c) 100 A/m2 17
+
+30 25
+Concentration of Fe (ppm)
+
+20 15 10 5
+
+0
+
+0
+
+1
+
+10
+
+20
+
+100
+
+AC current density (A/m2 )
+
+Fig.4.Concentration of Fe in sea water under CP with and without AC current densities
+
+18
+

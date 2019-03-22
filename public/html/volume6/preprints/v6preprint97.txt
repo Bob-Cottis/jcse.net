@@ -1,0 +1,535 @@
+Volume 6 Paper H054 The Surface Oxidation Kinetics of Cu(100) and
+J. C. Yang and G. W. Zhou
+
+(110) Thin Films Visualised by In situ UHV-TEM
+Materials Science & Eng., University of Pittsburgh, Pittsburgh, PA, 15261, USA, jyang@engr.pitt.edu
+
+Abstract
+In situ microscopy provides dynamic information about nucleation, ultra-high vacuum transmission electron microscopy to gain growth and coalescence of islands in real time. We utilised in situ
+
+fundamental insights into the oxidation of Cu films. A semiquantitative model, where oxygen surface diffusion is the dominant mechanism for transport, nucleation and growth of the copper oxide, describes both the Cu(100) and Cu(110) initial oxidation behaviour. Oxide island formation was observed even at atmospheric pressures, where we speculate that nucleation and coalescence of oxide islands explains the self-limiting behaviour of Cu passivation and apply this concept to explain the different passivation film thickness for Cu(100) and Cu(110). Keywords: Oxidation, oxygen, copper, Cu2O, in situ, TEM, UHV, kinetics, surface science.
+
+Introduction
+Environmental stability is one of the most important properties for materials exposed to air. As dimensions of materials systems approach nanoscale, it is critical to fundamental understanding of their interactions with oxygen at this length scale is essential for environmental stability [#ref1] as well as for processing thin films, where gas-surface reactions are utilised [#ref2]. processes play critical roles in Surface oxidation stability, high environmental
+
+temperature corrosion, electrochemistry, catalytic reactions, sensors, gate oxides, thin film growth and fuel reactions. The interaction of oxygen with surfaces ranges from single oxygen atom surface adsorption to bulk oxide growth. The improved experimental techniques in ultra-high vacuum (UHV) now make it feasible to investigate surfaces that are atomically clean. Many elegant experiments have been performed using UHV scanning-tunnellingmicroscopy (STM) to watch the interaction of gases, including oxygen, on bare metal surfaces.[#ref3], [#ref4], [#ref5], [#ref6] The STM studies oxygen adsorption but limited to a few monolayers. Hence, these surface techniques do not provide insights into the nucleation and initial growth to coalescence of the metal oxides. On the other hand, most high temperature oxidation investigations have been concerned with thicker, on the order of a few microns or greater, thermodynamically stable oxide films. A classic and standard method for measuring the rate of oxide growth is thermogravimetric analysis (TGA), which measures the weight gain due to oxygen consumption. The rate that the weight changes during oxidation provides information of reaction kinetics. Thermogravimetric analysis can provide important information about the dominant migrating defects, such as metal cations and/or oxygen anions vacancies and/or interstitials, the transport of the cations, anions, electrons and/or holes for charge balance, when the measurements are performed as a function of oxygen partial pressure. However, TGA does not provide a uniform growing film, where structural changes are not considered because of the lack of previous experimental methods to visualise this non-uniform growth in conditions that allowed for highly controlled surfaces and impurities. [#ref7], [#ref8], [#ref9] We are presently using a novel technique, in situ ultra-high vacuum
+
+can provide many elegant insights into the atomic mechanisms of
+
+any structural information. Hence, nearly all classical theories assume
+
+transmission electron microscopy (UHV-TEM), that combines the nucleation and initial growth of oxide as well as provides the UHV
+
+correct range in spatial resolution for bridging the gap between environment necessary for controlled surface conditions. Visualising 2
+
+the oxidation process at the nanometer scale with in situ experiments complex kinetics and energetics of nano-oxide formation. This experimental tool provides dynamic, unique and critical data of these gas surface reactions in a wide pressure and temperature range needed for a fundamental understanding of the oxidation
+
+under ultra high vacuum conditions provides essential insights into the
+
+mechanisms, which enables us to understand oxidation mechanisms in order to beneficially manipulate surface reactions. Furthermore, in the rapidly developing field of nanotechnology, the formation of ordered structures through surface processes has been intensively investigated because of potential applications and the intrinsic interest in structure with reduced dimension. Controlled nanoscale pattern formation on surfaces has become one of the most important and challenging areas of nanoscience. Currently, various techniques with controlled deposition, such as MBE, CVD, and PVD, are used to grow self-assembled epitaxial nanostructures, in which coherent island formation occurs during the growth of latticemismatched materials systems. Such self-assembled nano-structures have been realized in semiconductor systems of Ge/Si , GeSi/Si [#ref10], [#ref11], and InAs/GaAs.[#ref12] Nano-oxidation can be viewed as a processing tool for creating self-ordered oxide nanostructures. The controlled formation of the oxide nanostructures would be technologically important for their potentially novel optical, magnetic and sensor properties. [#ref13], [#ref14] Copper is considered to be a model system for the oxidation of metal for the fundamental understanding of oxidation mechanisms and has been studied extensively. [#ref15], [#ref16], [#ref17], [#ref18] Copper simple cubic lattice (space group PN-3M) with 4Cu and 2O atoms in its basis, and a lattice parameter of 4.22Å. The Cu atoms form a FCC lattice and the O atoms form a BCC lattice, where each O atom is surrounded by a tetrahedron of Cu atoms. CuO has a monoclinic structure. In this article, we will review the results regarding the nanooxidation of Cu(100) and (110) thin films. forms two thermodynamically stable oxides, Cu2O and CuO. Cu2O is
+
+Experimental
+3
+
+The microscope used in this work was a modified JEOL 200CX. [#ref19] A leak valve attached to the column of the microscope permits the introduction of gases directly into the microscope. In order to minimize the contamination, a UHV chamber was attached to the without the use of a cryoshroud. Under UHV conditions, the film
+
+middle of the column, where the base pressure was less than 10-8 torr surface is atomically clean at the start of the oxidation experiment, which is extremely important for quantitative understanding of growth kinetics. The microscope was operated at 100 KeV to minimise irradiation effects. Single crystal 99.999% pure 700Å Cu films were grown on single crystal (100) or (110) NaCl substrates in an UHV ebeam evaporation system, then removed from the substrate by dissolving the NaCl in de-ionized water. The native Cu oxide was removed inside the TEM by annealing the Cu films in methanol vapor oxides to copper .[#ref20] Scientific grade oxygen gas of 99.999% at a pressure of 5×10-5 torr and 350°C, which reduces the copper purity can be admitted into the column of the microscope through the specially designed sample holder permits resistive heating
+
+leak valve at a partial pressure between 5×10-5 torr and 760 torr. The temperatures between room temperature and 1000°C. After removal a Digital Instruments NanoScope IIIa scanning probe microscope. employed to assess the sample topography. from the in situ TEM investigation, the samples can be analysed using at
+
+Contacting-mode atomic force microscope (AFM) height images were
+
+Surface reconstruction
+Oxygen gas molecules impinge on the metal surface and dissociate. The chemisorbed oxygen creates a "missing-row" Cu-O surface reconstruction on both Cu(100) and Cu(110) surfaces.[#ref21], [#ref5] The role of surface reconstruction in the nucleation of metal oxides is important to study since previous workers have speculated that a surface saturated layer must form before the onset of oxidation of Cu.[#ref22] Figure 1 is the Cu (200) dark field image after Cu film was exposed to oxygen at 5x10-4 torr partial pressure and 4500C. It shows pronounced strain contrast due to the anisotropic 2 x 22 R45 surface reconstruction. [#ref21] The oxide nucleation occurs on the reconstructed Cu-O surface and hence the surface topology and 4
+
+factors that influence the surface, should significantly alter the initial stages of oxidation. We will speculate that the differences in surface reconstruction explains the quantitative differences between Cu(100) and Cu(110) oxidation behaviour.
+
+200
+
+Figure 1: Dark field image using the Cu(200) reflection, where the vertical and horizontal strain contrast due to the anisotropic 2 x 22 R45 is observed.
+In the following sections, the model of the oxide nucleation and growth, based on oxygen surface diffusion, will be presented first and then the comparison with in situ experimental data will be shown. Next, a novel view on metal passivation, based on nucleation to coalescence, will be described, and the implications of this model on the passivation behaviour of Cu(100) and (110) will be discussed.
+
+Oxygen Surface Diffusion Model
+1. Nucleation After surface reconstruction, further impinging oxygen molecules most likely dissociate into oxygen atoms, and then diffuse across the O-chemisorbed surface, where they may be lost to re-evaporation, form new oxide nuclei, or be captured by an existing nuclei. Assuming oxygen surface diffusion is the dominant transport mechanism for the nucleation of copper oxides, then the probability of an oxide nucleation event is proportional to the fraction of the available surface area outside these "zones of oxygen capture" and the oxide nucleus density can be determined to be 5
+
+N=
+
+1 L2 d
+
+(1 - e )
+- kL2 t d
+
+(1) where L2 is the area of the zone of oxygen capture, 1 / L2 is the d d
+
+k is the initial nucleation rate, which depends on the probability for Cu and O to form Cu2O, and t is the oxidation time.
+oxide island, Because of higher mobility of oxygen at higher temperatures, the attachment to existing island is more probable than the nucleation of new nuclei. Hence, it is reasonable to expect many small islands form at low temperatures, whereas for high temperatures less island density but larger average island size is observed. Therefore, the saturation island density dependence on temperature could follow an Arrhenius relationship,
+
+saturation island density, Ld is much larger than the diameter of the
+
+N s ~ e- Ea / kT
+
+(2)
+
+where k is Boltzmann constant, T is the oxidation temperature. This nucleation, absorption and/or desorption,[#ref23], [#ref24], [#ref25] and not necessarily on the oxygen surface diffusion energy only. By measuring the island density at different temperatures, then the determined. 2. Growth Orr, developed an oxidation model based on the assumption that oxygen surface diffusion should play a major role in the initial growth of the metal oxide. They assumed that the oxide islands grew on the metal surface, i.e. 2-dimensional (2D) and obtained a parabolic growth rate law if oxygen surface diffusion and impingement on the island's perimeter is the dominant transport mechanism. [#ref26] followed by Holloway and Hudson,[#ref27] have activation energy, Ea, for this surface-limited nucleation process can be activation energy, Ea, of the nucleation depends on the energies of
+
+dN = c s f s r 2 dt
+6
+
+(3)
+
+the sticking coefficient, fS is the diffusive flux of oxygen and r is the radius of the circular profile of an island.
+
+where N(t) is the number of oxygen atoms in Cu2O island at time t, cS is
+
+The formation of oxide is accompanied the conversion of copper atoms from the substrate to Cu2O islands, therefore, the oxide islands extended Orr's model to incorporate the 3-D growth. For 2-D lateral should grow 3-dimensionally (3-D) into the substrate. We have growth of a disk-shaped island, with thickness a, then by solving the parabolically with respect to time. oxide islands, is Following a similar analysis for 3-
+
+differential equation, eqn. (3), the cross-sectional area increases D growth of a spherical island, then the cross-sectional area, A, of the
+
+A( t ) = c s f s (t - t0 )
+
+(4)
+
+where  is the volume occupied by one O atom in Cu2O. The power law dependence, t2 for 2-D and t for 3-D, is independent of the shape growth, then other mechanisms, such as direct impingement, could also contribute to the growth of the oxide island. of the island. For growth rates faster than linear for 3-D or t2 for 2-D
+
+In situ UHV-TEM of Cu Oxidation
+1. Cu(100) Figure 2(a) is a dark field image taken from the Cu2O(110) reflection after the Cu film has been cleaned. No oxide islands are visible in this region. Figure 2(b-c) shows subsequent dark field images, taken from Figure2(a) of the Cu film, at successive 10 minute time increment after O2 was leaked into the column at a partial pressure of 5x10-4 torr and nucleation sample temperature at 3500C. After the exposure to O2, no oxide reconstruction. The oxide islands were then seen to nucleate rapidly followed by growth. These TEM images show the Cu2O islands that formed on both surfaces of Cu film. The SAD (selected area diffraction) pattern of the Cu film after oxidation can be indexed as (001) Cu2O, was initially observed, indicating at the surface the Cu2O(110) diffraction spot of the same area as shown in the
+
+7
+
+Cu//(001) Cu2O and [100]Cu//[100]Cu2O.
+
+where the relative orientation between the Cu2O and Cu film is (001)
+
+(a)
+
+(b)
+
+(c)
+
+Figure 2: Dark field images of Cu(100) oxidation at P(O2) ~ 5x10-4 torr and T= 350°C, for (a) 0 min, (b) 10 min and (c) 20 min.
+Figure 3 is the experimental data and theoretical fit to equation (1). A and Ld = 1.09 µm. Hence, the initial nucleation rate is 0.17µm-2 min-1 and the saturation island density, 1/Ld2 is 0.83µm-2 . [#ref28] Indentations in the Cu film were noted from the thickness fringes taken from the Cu (200) dark field images, which is sensitive to the morphology of the Cu film. This clearly demonstrated the 3 dimensional growth, where the Cu2O islands grow into the Cu film. [#ref28] good match is noted where the fit parameters, k = 0.17 µm-2 min-1
+
+The cross-sectional areas of several individual oxide islands were measured as a function of oxidation time. Figure 4 shows the crosssectional area of the oxide island versus time for oxidation at 350°C at This power law is slightly higher than t --the predicted power law dependence for 3-D growth by oxygen surface diffusion. To account for the slight deviation from a linear power law, other mechanisms besides oxygen surface diffusion were considered. islands is incorporated into the Cu2O. One likely possibility is that the oxygen that directly impinges onto the oxide 5x10-4 torr O2. The best power law fit to our data was 1.30 ± 0.04.
+
+8
+
+By an extension of our previous derivation, the combination of oxygen surface diffusion and direct impingement gives the following time dependence: kS  k A - 2 ln  1 + B k B k B  k S where:
+kS = c S fS  2 kB = c Bf B 2
+
+ A  = t - to 
+
+(5)
+
+and: cS is the sticking coefficient
+
+for oxygen surface diffusion
+
+mechanism, fS is the surface diffusive flux of oxygen, cB is the sticking coefficient for direct impingement, fB is the flux of oxygen for direct impingement mechanism and  is the atomic volume of O in Cu2O. We obtain an excellent fit to the combined surface diffusion and direct
+
+impingement model, as shown in figure 3; kS is 173±12 and kB is 3.2±0.2. Hence, the growth of the Cu2O islands is initially dominated by the surface diffusion of oxygen.[#ref29]
+
+9
+
+Figure 3: Cu2O island density as a function of oxidation time at constant oxygen partial pressure of 5×10-4 and temperature of 350°C.
+The effect of oxidation pressure and temperature were also investigated. Figure 5 shows the Arrhenius dependency of the saturation island density to temperature, where an activation energy of 1.1eV is noted. Altering oxidation pressure only changed the rate of the reaction, but dramatically different morphologies of oxide nanostructures on Cu(100) can be achieved by modifying the oxidation temperature. Figure 6 is a sequence of bright field images of Cu(100) oxidized at various temperatures at the same oxidation pressure, P(O2) ~ 5x10-5 torr.[#ref30] The oxidation temperature will affect diffusion, interfacial strain, surface and interfacial energies, and elastic properties, which all play a significant role in the development of the oxide morphology to pyramids, domes or terrace-layered structure. Of particular interest was the formation of elongated islands at 600°C , which bear a striking resemblance to the nanorod formations of Ge on Si. The in situ observation data on the elongation of Cu2O islands agree with the theoretical model proposed by Tersoff and Tromp,
+
+initially developed to explain nanorod formation of Ge on Si, thereby demonstrating the increased universality of the elastic strain relief model.[#ref31]
+
+10
+
+Figure 4: Cu2O island cross-sectional area as a function of oxidation time at constant oxygen partial pressure of 5×10-4 and temperature of 350°C.
+
+17
+
+16
+-2
+
+15
+
+-ln(density) nm
+
+14
+
+13
+
+12
+
+11
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+1/kT (eV)
+
+Figure 5: The saturation island density as function of temperature, where an activation energy of 1.4 eV is obtained.
+11
+
+Figure 6: The morphology of Cu2O islands formed during in situ oxidation of Cu(001) at an oxygen partial pressure of 5x10-4 torr and oxidation temperatures of (a) 350°C, (b) 500°C, (c) 600°C, (d) 750°C and (e) 1000°C.
+2. Cu(110) Figure 7 (a) is a dark field TEM image after the copper film has been cleaned with methanol. No oxide islands are visible in this region. Figure 7 (b-c) show the corresponding dark field images at the same area as shown in Figure 7(a) of the copper film at successive 10 minute time increments after oxygen was leaked into the column of the microscope. The partial pressure of oxygen was 5×10-4 torr and the temperature of the copper film was held at 350°C. After the introduction of oxygen gas, the nuclei appear after an incubation period of several minutes. After the oxidation of about 22 minute, no new islands formed. The selected area electron diffraction pattern of the Cu2O island and underlying Cu(110) substrate revealed that the oxide island is 110 Cu// 110 Cu2O
+
+()
+
+()
+
+epitaxial with the underlying Cu film, i.e. and (001)Cu//(001)Cu2O. A similar epitaxial
+
+12
+
+relationship was noted for Cu(100), where (001)Cu//(001)Cu2O and (010)Cu //(010)Cu2O.
+
+Figure 8 shows the experimental data and theoretical fit to equation (1), where the ranges of the error bars are based on the measured different regions on the Cu surface. A good match is noted where the oxide island density obtained from several experimental runs and fit parameters are: the initial nucleation rate, k, is 1.7432 µm-2 min-1, and the saturation island density, 1 / L2 , is 9.01159 µm-2.[#ref32] d
+
+Figure 7: In situ dark field TEM images taken as a function of oxidation time, (a) 0 min, (b) 10 min, (c) 20 min, (d) 30 min at constant oxygen partial pressure of 5×10-4 and temperature of 350°C.
+We measured the saturation density of the nuclei as a function of oxidation temperature, from 300°C to 450°C, at constant oxygen pressure of 5×10-4 torr. Figure 9 shows the saturation density of nuclei which is equal to the slope, was determined to be 1.1±0.2eV. 1.4±0.2 eV.[#ref28] versus inverse oxidation temperature, where the activation energy, Ea, In
+
+comparison, the activation energy, Ea, for Cu(100) was measured to be
+
+Figure 8: Cu2O island density as a function of oxidation time at constant oxygen partial pressure of 5×10-4 and temperature of 350°C.
+
+13
+
+Figure 9: Cu2O saturation island density versus inverse temperature. The absolute value of the slope is the Ea for the surface-limited process.
+where a sequence of images focusing on the growth of individual torr and 450°C. About a couple of minutes after the introduction of oxygen gas, Cu2O islands were observed to nucleate rapidly followed by growth of these islands. After the initial nucleation of the oxide islands, ~5 minutes, the saturation density of the island nuclei was reached and no new nucleation event was observed, which is much faster than the oxidation at 350°C, where the saturation is reached after 22 min oxidation. Figure 10 is the comparison of the experimental data of the crosssectional area of the oxide islands to this surface diffusion model by using 3-D growth of oxide island, Eqn. (4). The kinetic data on the evolution of cross section area of the islands agree well with the model of surface diffusion of oxygen. Therefore, the excellent agreement of evolution of cross section area of the islands with the kinetic model validates that the growth of the 3-dimensional Cu2O islands occurs by oxygen surface diffusion and impingement on the oxide perimeter. [#ref32] Since the initial oxidation stages are surface processes, it is reasonable to expect that the crystallographic orientation of the underlying metal 14 The evolution of cross section area of the islands is recorded in situ,
+
+islands was obtained, where the Cu(110) film was oxidised at 5×10-4
+
+will have a major effect on the nucleation behaviour, growth rate and the orientation of the oxide film, and this should significantly impact bulk oxidation behavior, such as passivation. Table 1 summarises the values of the fit parameters for Cu(100) and Cu(110) oxidation. Differences in the rate, oxide island shapes, and fit parameters to the surface models were noted between Cu(100) and Cu(110). Specifically, saturation density on Cu(110) surface is 11 times larger than that on Cu(100), although the oxide islands reached their saturation density
+
+The initial nucleation rate on Cu(110) is much faster than Cu(100). The
+
+after similar oxidation time for the two orientations. Hence, the active zone of oxygen capture around each island on Cu(110) is much smaller than that on Cu(100). The activation energy, Ea, for the is also smaller than that on Cu(100) surface, 1.4±0.2eV. nucleation process on Cu(110), was measured to be 1.1±0.2eV, which
+
+Figure 10: Comparison of the experimental data of the time evolution of the cross-sectional areas of six individual oxide islands and the theoretical function for the surface diffusion for the 3-D growth of Cu2O islands.
+
+15
+
+Table 1: Comparison of fit parameters of Cu (110) and (100) oxidation
+The observed different rates of oxidation between Cu(100) and Cu(110) should effect the passivation behaviour of these two orientations. Previous research by K.R. Lawless and A.T. Gwathmey [18] in the oxidation of a spherical single crystal of Cu with its multitude of surface orientation demonstrated the anisotropy of the oxidation rate on different faces. Figure 11is a reproduction of their experimental data on Cu(100) and Cu(110) in which Cu(100) forms a much thicker passive oxide than Cu(110).[#ref18]
+
+Figure 11: Oxidation kinetics of copper single crystals at 523K and 1 atm of oxygen from Gwathmey et al. [#ref18]
+We first describe the new model of passivation based on nucleation to coalescence and then discuss the implications of this model to the effect of crystallographic orientation effect on the passivation behaviour of Cu. 16
+
+The Self-Limiting Oxidation Behaviour of Metal Passivation
+Nearly all metals form a passivation film due to oxidation in air at the materials from further corrosion. The classical theory of CabreraMott [#ref7] describes the passivation film formation on metals, where they predict that this film grows as a uniform layer due to a field enhanced ionic transport mechanism. Cabrera-Mott model predicted an inverse logarithmic growth rate for metal oxides, which formed due to outward cation diffusion (eqn 6).
+1
+
+ambient temperature. This film acts as a diffusion barrier to protect
+
+x
+
+= A B ln t
+
+(6)
+
+where, x is the thickness of the oxide film, t is time and A and B are the fit parameters. Figure 11 is a reproduction of Young et al.'s experimental data for Cu combined with a fit to the above equation. [#ref18] We have shown that nucleation and growth of oxide islands occurs even at atmospheric pressure .[#ref33] Thus here the CabreraMott model, which assumes a uniformly growing film, can not be valid. We have proposed that the self-limiting oxidation of Cu is due to the coalescence of islands, which 'switches-off' the surface diffusion route and needs much slower bulk diffusion for further oxidation. Figure 12 (a-c) is a sequence of dark field images for which the Cu(100) film was oxidized at 0.1 torr and 3500C. Here the oxide island formation followed by coalescence is clearly evident at atmospheric pressure. One standard theory to describe coalescence of thin films is the Johnson-Mehl-Avrami-Kolmogorav (JMAK) theory, which assumes that the nucleation and coalescence of thin films is due to surface processes.[#ref34] It presumes that the coverage will follow an exponential dependency on time (eq.7): X(t) = 1-exp(-ktn) (7)
+
+where X is the coverage, t is time and k and n are fit parameters that depend on the surface mechanisms of transport, nucleation and growth. The parameter, n, is usually an integer or half-integer. For assuming constant nucleation and uniform radial growth rate. This 17 three-dimensional growth, the fit parameters are k= /3 and n=4 ,
+
+describes the coverage with respect to time. We have observed that the coverage does follow this exponential law where the fit parameters 0.99.[#ref35] Experimentally, we found the copper system to be more complex than the simplistic view proposed by JMAK yielding the above values for n and k. Cu(100) has been shown to have a radial growth rate of r t
+0.65
+
+are: k =1.9x10-4 and n = 2 ± 0.005, and the goodness of fit is R =
+
+that is slower than the linear growth rate. It was
+
+observed that nucleation of copper oxide islands occurs almost instantly and not linearly with time. Both of these factors will lead to a slower nucleation to coalescence as compared to the JMAK calculation for 3-D growth. Another possible reason for such a small k is that the growth rate is very slow for copper oxidation. It was noted that the sticking coefficient is extremely small indicating that only a few oxygen adatoms are contributing to the growth of the copper oxides.
+
+Figure 12 : Dark field images from the Cu2O reflection showing Cu2O island nucleation (a), growth (b) and then coalescence (c), when Cu(001) was oxidized at 0.1 torr at 350°C.
+Figure 13 is the plot of the fractional coverage of the copper oxide with respect of time. The circles are the experimental data. The solid line is the best fit to the JMAK formula (see eqn.7 above).
+
+Discussion
+The comparison of the nucleation and growth behaviour of Cu(110) with that of Cu(100) at the same oxidation temperature (350°C) and 18
+
+oxygen pressure (5×10-4 torr) revealed that the same surface diffusion models, originally developed to describe Cu(100) oxidation, explains the experimental data on Cu(110) quite well and demonstrates a greater generality of this oxygen surface diffusion model. The differences in the fit parameters (see table1) obtained from the oxygen surface diffusion models should be due to the crystallography effects. To explain these differences, we consider the effects of kinetics and energetics on both surfaces. The nucleation and growth of energetics, such as surface energies of the system, and the kinetics, in particular, on the diffusion process. oxide islands are nonequilibrium processes depending on both the
+
+19
+
+1
+
+Fractional Coverage
+
+0.8
+
+0.6
+
+0.4
+
+0.2
+
+0
+
+0
+
+500
+
+1000
+
+1500
+
+Time (Seconds)
+
+Figure 13: Experimental data of the Cu2O fractional area coverage, X(t), versus time, when Cu(001) was oxidized at 0.1 torr at 350°C, and the comparison to the JMAK formula, X(t) = 1-exp(-ktn) (dashed line), where k =1.98x10-4 sec-2 , n = 2.
+It should be noted that the diffusion of oxygen is on the reconstructured Cu surface. demonstrated that Cu(100) and (110) surfaces are unreconstructed, and then transform into "missing-row" or "adding-row" reconstruction when exposed to oxygen.[#ref36], [#ref37], [#ref38], [#ref39] Oxygen chemisorption on Cu surface is the first step for the oxidation. We speculate that the impinging oxygen molecules dissociate into oxygen atoms, and the dissociated oxygen is adsorbed at the Cu surface to form Cu-O bonds and create a surface reconstruction. After reconstruction, the oxygen atoms diffuse on this reconstructed surface, and nucleation occurs on the reconstructed Cu-O surface. Arriving oxygen adatoms will diffuse on the surface and can either nucleate new oxide islands by reacting with copper atoms or attach to an existing island, causing growth. Qualitatively a larger diffusion coefficient for oxygen should yield a lower number density of stable islands. Since the path length of oxygen surface diffusion depends on the atomic structure of the substrate plane, different nucleation 20 Previous investigators have elegantly
+
+behaviour of Cu2O islands is therefore expected for different orientations of the Cu. The reconstructed 2x2 2 R45º O-Cu(100)
+
+(
+
+)
+
+surface has a more compact surface structure than (2×1)O-Cu(110) reasonable to expect the activation barrier of surface diffusion of the dissociated oxygen will be higher on the Cu(110) surface, and thus have a shorter path length. The shorter diffusion path length will give rise to a smaller capture zone of oxygen and create a higher number density of oxide nuclei. This is confirmed by our results where the active zone of oxygen capture around each island on Cu(110) is 1.09µm. 0.3331µm, which is significantly smaller than that on Cu(100), surface which has a corrugated structure (Figure 14). Therefore, it is
+
+Figure 14: Schematic diagram of the reconstructed
+
+( 2x2 2 )R45º O-
+
+Cu(100) surface (a), and (2×1)O-Cu(110) surface (b) due to oxygen chemisorption. Filled circles: O atoms; open circles: top layer Cu atoms; shaded circles: second layer Cu atoms.
+The surface energy of Cu(100) is 1280mJ/m2, which is lower than the Cu(110), 1400mJ/m2.[#ref40] If all other interface and surface energies were equal, then, it would be expected that Cu(110) surface will be less stable under the oxidizing atmosphere and the nucleation of oxide islands will be facilitated, leading a higher nuclei density of oxide and smaller overall activation energy for the nucleation of the oxide islands as determined by our measurements. As yet, the surface energies of Cu2O and the interfacial energies between Cu2O/Cu(100) depend on orientation since it is a function of the Possion ratio () and 21 and Cu2O/Cu(110) are unreported. The interfacial strain energy could
+
+shear modulus (µ) of the substrate, as well as oxide island bulk stress
+
+(b), and is also not known in Cu2O/Cu system. Hence, determination
+
+of the surface energies and metal-oxide interfacial energies, such as understanding of oxidation.
+
+by theoretical modelling, are critical to fundamentally quantitative
+
+The oxygen surface model assumes homogeneous nucleation, not heterogeneous nucleation. One particularly interesting question is the role of defects, such as dislocation and steps in the initial oxide nucleation. In the oxidation of Cu(100), no preferential nucleation sites at dislocations or surface steps were observed. [#ref28], [#ref41] Similar as in the oxidation of Cu(110), repeated oxidation, reduction, followed by oxidation experiments were performed, but no nuclei appeared at the same positions. Furthermore, the oxide island density was observed to decrease with increasing temperature, following as Arrhenius dependence, indicates that nucleation was homogeneous. If the nucleation mechanism was heterogeneous, then it would be reasonable to expect similar island density at different temperatures, which was not observed. Since we are interested in the initial oxidation mechanisms, then it is essential to isolate the effect of the electron beam on the oxidation kinetics. In order to minimise the possible radiation damage, the TEM was operated only at 100KeV. Careful oxidation experiments with and without the electron beam irradiation were conducted. Qualitatively, the structural changes appeared similar as with the electron beam on. However, the effect of the electron beam was to reduce the reaction rate slightly, but the saturation density of the oxide islands was observed in both cases, indicative of a surface diffusion limited nucleation mechanism. This is again similar to the Cu(100) oxidation. [#ref28], [#ref41] As discussed previously, Cu(110) shows a faster nucleation rate of oxide than Cu(100) in the initial stage of oxidation, and the oxidation on Cu(110) surface results in a higher number density of oxide nuclei under the same oxidation conditions. Therefore, there is a faster coalescence of oxide islands on Cu(110) than that on Cu(100). In the oxidation of Cu(100), the oxidation time is longer for the coalescence 22
+
+of oxide islands due to smaller number density of oxide nuclei. As a result, Cu(100) develops a thicker passive oxide than Cu(110) at the later stage of oxidation as confirmed by Gwathmey's work.[#ref18] Surprisingly, orientations that form a higher density oxide nuclei and have a faster initial oxidation rate, may have a slower long-term growth rate due to the rapid coalescence of the oxide which switches the oxide growth mechanism from surface diffusion to the slower diffusion through an oxide scale. It is interesting to speculate on the poor oxidation characteristics of Cu and other metals which form crystalline epitaxial oxide passivation films. These films, when
+
+coalesced, may have a tendency to contain microcracks and pinholes, for reasons of mismatch strain relief, which provides improper passivation. In contrast, good passivation layers, such as those which form on Al and Si, are amorphous.
+
+Conclusion
+Surface diffusion of oxygen is the dominant transport mechanism for the oxide nucleation and growth on Cu(100) and Cu(110). Cu(110) surface shows a highly enhanced oxidation rate than Cu(100) in the initial stage of oxidation. We speculate that the faster oxidation rate is explained by the O-chemisorbed corrugated roughness of Cu(110) and larger surface energy of Cu(110). Detailed experimental data along with a sophisticated theoretical treatment of the initial stages of a chemical treatment on a metal surface is essential to a fundamental understanding of oxidation. The dynamic observation obtained from these in situ experiments enable us to gain basic insight into the kinetics/energetics in the initial stages of oxidation. understanding of the formation, distribution, and morphological evolution of oxide islands and demonstrate the possibility of controlled oxidation as a processing tool for creating specific nanostructures. Furthermore, nucleation and growth of islands occur even at atmospheric pressure conditions. Thus models of the self-limiting ("passivation") behaviour of oxidation for Cu, such as that of Cabrera and Mott, which assume a uniform growing film, cannot be valid. We 23 These observations provide fundamental
+
+suggest that a simple phenomenological explanation for the selflimiting oxidation is due to the coalescence of islands, which "switches-off" the surface diffusion route and requires much slower bulk diffusion for further oxidation. The microstructure of the scale at the onset of oxidation plays an influential role in the oxidation rate at later stages, including passivation. In light of this phenomenological model, the thinner passive oxide of Cu(110) is due to the increased nucleation rate and density of oxide islands on Cu(110) as compared to Cu(100). A complete understanding of oxidation properties must include the investigation of the initial stages of oxidation, i.e., the nucleation, growth to coalescence. Since oxidation is a surface process, then understanding and control of surface structure, conditions and reactions are essential in tailoring electron microscopy of the oxidation of Cu thin films, but we suspect that the results are more general. oxidation behaviour. Our results are based on in situ transmission
+
+Acknowledgements
+This research project is funded by the National Science Foundation (# 9902863), Department of Energy-Basic Energy Science and a National Association of Corrosion Engineers (NACE) seed grant. experiments were performed at the Materials Research Laboratory, University of Illinois at Urbana-Champaign, which is supported by the U.S. Department of Energy (#DEFG02-96-ER45439). Finnegan for their help. The authors kindly thank I. Petrov, R. Twesten, M. Marshall, K. Colravy, and N. The
+
+References
+!ref1. "The role of metal induced oxidation of copper deposition on silicon surface", J. S. Kim,H. Morita and J. D. Joo, Journal of
+
+Electrochem. Soc., 144(9), pp.3275, 1997.
+
+semiconductor field effect transistors", K. Ueno,R. Asai and T. Tsuji,
+
+!ref2. " H2 surface treatment for gate-oxidation of SiC metal-oxide-
+
+Materials Science and Engineering, B, Solid state materials for advanced technology, 61, pp.472, 1999.
+24
+
+!ref3. "In situ AFM observations of oxide film formation on Cu(111) and Cu(100) surfaces under alkaline solutions", N. Ikemiya,T. Kubo and S. Hara, Surface Science, 323, pp.81, 1995.
+
+!ref4. "Initial stages of water adsorption on Au surfaces", N. Ikemiya pp.9919, 1997.
+
+and A. A. Gewirth, Journal of the American Ceramic Society, 119(41),
+
+!ref5. "Oxygen Chemisorption on Metal surfaces: General Trends for
+
+Cu, Ni and Ag", F. Besenbacher and J. K. Norskov, Progress in Surface
+
+Science, 44, pp.5, 1993.
+
+!ref6. "Scanning tunnelling microscopy studies of metal surfaces", F. Besenbacher, Rep. Prog. Phys., 59, pp.1737, 1996.
+
+!ref7. "Theory of the Oxidation of Metals", N. Cabrera and N. F. Mott,
+
+Reports on Progress in Physics, 12, pp.163, 1948.
+
+!ref8. "Contributions to the Theory of Surface Colouring of Metals", C. Wagner, Z. Phys. Chem., 21, pp.25, 1933.
+
+!ref9. "Über den Mechanismus der Bildung von Ionenverbindungen höherer Ordnung (Doppelsalze, Spinelle, Silikate)", C. Wagner, Z.
+
+Physik. Chem. (B), 34, pp.309, 1936.
+
+!ref10.
+
+Mobility Regime", J. A. Floro,E. Chason,R. D. Twesten,R. Q. Hwang and L. B. Freund, Physical Review Letters, 79, pp.3946, 1997. !ref11.
+
+"SiGe Coherent Islanding and Stress Relaxation in the High
+
+(100)GaAs", R. Leon,T. J. Senden,Y. Kim,C. Jagadish and A. Clark,
+
+"Nucleation transitions for InGaAs islands on the vicinal
+
+Physical Review Letters, 78, pp.4942, 1999.
+
+!ref12.
+
+Si(100)", D. J. Eaglesham and M. Cerullo, Physical Review Letters, (64), pp.1943, 1990. !ref13.
+
+"Dislocation free Stranski-Krastonow growth of Ge on
+
+Aggarwal,A. P. Monga,S. R. Perusse,R. Ramesh,V. Ballarotto,E. D. Williams,B. R. Chalamala,Y. Wei and R. H. Reuss, Science, 287, pp.2235, 2000. 25
+
+"Spontaneous ordering of oxide nanostructures", S.
+
+!ref14.
+
+"Oxide nanostructures through self assembly", S.
+
+Aggarwal,S. B. Ogale,C. S. Ganpule,S. R. Shinde,V. A. Novikov,A. P.
+
+Monga,M. R. Burr,R. Ramesh,V. Ballarotto and E. D. Williams, Applied
+
+Physics Letters, 78, pp.1442, 2001.
+
+!ref15. 1961.
+
+Fischmeister, Journal of the Institute of Metals, 89, pp.65, 1960-
+
+"The oxidation of copper", A. Roennquist and H.
+
+!ref16. 1965.
+
+D. Mitchell, Memoires Scientifiques Rev. Metallurg., LXII, pp.17,
+
+"The oxidation of copper single crystals", K. Lawless and
+
+!ref17.
+
+37, pp.231, 1974. !ref18.
+
+"The oxidation of metals", K. R. Lawless, Rep. Prog. Phys.,
+
+"The Rates of Oxidation of Several Faces of a Single Crystal
+
+of Copper as Determined with Elliptically Polarized Light", F. Young,J. Cathcart and A. Gwathmey, Acta Metallurgica, 4, pp.145, 1956. !ref19.
+
+high-resolution transmission electron microscopy.", M. L. McDonald,J.
+
+"Design of an ultrahigh-vacuum specimen environment for
+
+M. Gibson and F. C. Unterwald, Rev. Sci. Instrum., 60, pp.700, 1989. !ref20. 1994. Leibsle,S. Haq,N. Xiang and M. Bowker, Surface Science, 315, pp.284, "Methanol oxidation on Cu(110)", S. M. Francis,F. M.
+
+!ref21.
+
+pp.L407, 1998. !ref22.
+
+surface", K.-I. Tanaka,T. Fujita and Y. Okawa, Surface Science, 401,
+
+"Oxygen Induced order-disorder restructuring of Cu(100)
+
+Oxidation in an Electron Microscope", K. Heinemann,D. B. Rao and D. L. Douglas, Oxidation of Metals, 9(4), pp.379, 1975. !ref23.
+
+"Oxide Nucleation on Thin Films of Copper During in situ
+
+kinetics", J. A. Venables, Phil. Mag., 27, pp.697, 1973. !ref24.
+
+"Rate equation approacheds to thin film nucleation
+
+T. Spiller and M. Hanbuecken, Rep. Prog. Phys., 47, pp.399, 1984. 26
+
+"Nucleation and growth of thin films", J. A. Venables,G. D.
+
+!ref25.
+
+Surface Science, 299/300, pp.798, 1994.
+!ref26. !ref27.
+
+"Atomic Processes in Crystal Growth", J. A. Venables,
+
+W. H. Orr, Ph.D. Thesis, Cornell University, 1962. "Kinetics of the reaction of oxygen with clean nickel single
+
+Surface Science, 43, pp.123, 1974.
+!ref28.
+
+crystal surfaces 1. Ni (100) surface", P. H. Holloway and J. B. Hudson,
+
+pp.1237, 1998. !ref29.
+
+Yang,M. Yeadon,B. Kolasa and J. M. Gibson, Scripta Materialia, 38(8),
+
+"Homogeneous Nucleation of Cu2O on (001)Cu", J. C.
+
+Thin Films", J. C. Yang,M. Yeadon,B. Kolasa and J. M. Gibson, Applied
+
+"Oxygen Surface Diffusion in 3-D Cu2O Growth on Cu(001)
+
+Physics Letters, 70(26), pp.3522, 1997.
+
+!ref30.
+
+"Temperature effect on the Cu2O morphology created by
+
+oxidation of Cu(001) as investigated by in situ UHV-TEM", G. W. Zhou and J. C. Yang, Applied Surface Science, 210(3-4), pp.165, 2003. in situ oxidation of Cu(001)", G. W. Zhou and J. C. Yang, Physical !ref31.
+
+"Formation of quasi one-dimensional Cu2O structures by
+
+Review Letters, 89, pp.106101, 2002.
+
+!ref32.
+
+situ UHV-TEM", G. W. Zhou and J. C. Yang, Surface Science, accepted, , 2003. !ref33.
+
+"The initial stages of Cu(110) oxidation investigated by in
+
+Kolasa and J. M. Gibson, Applied Physics Letters, 73, pp.2841, 1998. !ref34. ", W. A. Johnson and R. Mehl, Trans. AIME, (135),
+
+"Self limiting oxidation of copper", J. C. Yang,M. Yeadon,B.
+
+pp.415, 1939. !ref35.
+
+situ oxidation of Cu(001)", J. C. Yang,L. Tropia and D. Evan, Applied
+
+"From nucleation to coalescence of Cu2O islands during in
+
+Physics Letters, 81, pp.241, 2002.
+
+!ref36.
+
+surface-structural determination", J. G. Tobin,L. E. Klebanoff, D. H. 27
+
+"Normal photoelectron diffraction of O-Cu(001): A
+
+Rosenblatt, R. F. Davis, E. Umbach, A. G. Baca and D. A. Shirley,
+
+Physical Review B, 26(12), pp.7076, 1982.
+!ref37.
+
+Cu(100) Surfaces", K. W. Jacobson and J. K. Norskov, Physical Review
+
+"Theory of Oxygen-Induced Restructuring of Cu(110) and
+
+Letters, 65(14), pp.1788, 1990.
+
+studies by scanning tunneling microscopy", F. Jensen,F. Besenbacher,E. Laegsgaard and I. Stensgaard, Physical Review B, 42(14), pp.9206, 1990.
+
+!ref38.
+
+"Dynamics of oxygen-induced reconstruction of Cu(100)
+
+!ref39.
+
+and Cu(001)-vicinal surfaces", I. K. Robinson, E. Vlieg and S. Ferrer,
+
+"Oxygen-induced missing row reconstruction of Cu(001)
+
+Physical Review B, 42(11), pp.6954, 1990.
+!ref40.
+
+33, pp.7983, 1986. !ref41.
+
+Ag, Au, Ni, Pd, Pt", S. Foiles, M. Baskes and M. Daw, Physical Review B,
+
+"Embedded atom method functions for the FCC metals Cu,
+
+of Electrochemical Society, 146, pp.2103, 1999.
+
+Cu2O on Cu(001)", J. C. Yang,M. Yeadon, B. Kolasa and J. M. Gibson, J.
+
+"The limited role of surface defects as nucleation sites for
+
+28
+

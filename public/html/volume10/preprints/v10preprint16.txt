@@ -1,0 +1,170 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 16
+
+14 November 2006
+
+SYNERGISTIC EFFECT OF SODIUM BENZOATE AND SODIUM SULPHITE ON THE CORROSION BEHAVIOUR OF MILD STEEL IN HYDROGEN CYANIDE SOLUTION
+M. O. H. Amuda, 2O. O. Soremekun and 3G. I. Lawal Department of Metallurgical and Materials Engineering University of Lagos, Lagos, Nigeria Corresponding e-mail: mohrabiat2000@yahoo.com.
+1
+
+ABSTRACT Synergistic inhibitive strength of mixtures of sodium benzoate and sodium sulphite on the corrosion behaviour of mild steel in hydrogen cyanide environment was investigated using the fundamental weight loss measurement. 500 ppm concentration inhibitive mixtures of sodium benzoate and sodium sulphite in three different volume ratios (5/15, 10/10, 15/5) were formulated and studied for corrosion rate in 200ml hydrogen cyanide fluid. Result obtained indicates that the corrosion rate of mild steel in hydrogen cyanide in the presence of sodium benzoate/sodium sulphite inhibitive mixtures range 0.322mmpy to 1.1269mmpy across the three volumetric ratios considered. The 15ml\5ml sodium benzoate\sodium sulphite mixture had the best average corrosion rate of 0.5123mmpy. The corrosion rate followed reducing pattern after the first 200 hours of immersion. The average corrosion rate in the sodium benzoate / sodium sulphite mixture is less than the rate in sodium sulphite and the mixture is only effective after long time exposure. It is concluded that the mixtures of sodium benzoate and sodium sulphite in the volumetric ratio 15\5ml has a synergistic inhibitive strength on the reduction of corrosion of mild steel in hydrogen cyanide environment. Keywords: Synergistic Effect, Corrosion Behaviour, Hydrogen Cyanide Solution, Sodium Benzoate, and Sodium Sulphite.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 1 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 INTRODUCTION
+
+Volume 10 Preprint 16
+
+14 November 2006
+
+Metallic material constitutes a great part of material elements in construction industries, agricultural equipment, oil and gas and petrochemical, medical services, process and allied industries. In these industries, the metallic material as a result of interaction with its environment losses its integrity over a period of time [1]. As such, the material cannot perform the intended function effectively and reliably. Some of these environments are - atmosphere, aqueous solution, solids, acids and bases, inorganic solvents, molten salts, liquid metals, human body etcetera. At times, the effect of the loss in integrity may be very severe as to result in loss of valuable production time, accident and in the extreme death. The cost associated with the problem is enormous and its influence in the economy life of a nation is significant. It has been estimated that approximately 5% of industrialized nations' income is spent on corrosion incidental problems. For instance, the cost of the problem to the U.S. economy is put at $297 billion [2]. The cost to the Nigeria economy is not available. However, a guess could be haphazard; and this is in the corridor of $3.2 billion [3]. Thus, a great effort is devoted to combating corrosion and its associated problems. Problems of corrosion are more pronounced in processing industry. A typical reference is agro-processing industries. The generation of bio compatible and biodegradable industrial raw material from purely agricultural sources has increased in recent years. For instance, ethanol is being produced from cassava tubers through multi-stage processing techniques. The factory processing of cassava produces the toxic compound hydrogen cyanide. The cyanide is very corrosive and is responsible for the corrosion of agro-processing equipment, which is usually made of plain carbon steel. The corrosiveness of the cassava fluid is due to the cyanide ion in the cyanogenic glycosides whose concentrations vary widely as a result of genetic and environmental factors, location, season and soil types (Ermas, et al)[4] and (JECFA)[5]. Beside the loss in functionality of the agro processing equipment, the corrosion product may get into the final product. The quality of the end product is thus affected. In food and agricultural industries, product quality, health and sanitation issues are the major concerns. This is particularly true in the processing of cassava tuber which releases hydrogen cyanide to the environment. Hydrogen cyanide is a volatile liquid that is lethal. Its disposal is strictly based on health and safety regulations. Cassava tubers vary widely in their cyanogenic glucoside content. Most varieties contain 15400mg cyanide/kg fresh weight. Occasionally varieties of cassava tubers contain 13002000mg cyanide/kg fresh weight and cassava leaves contains 1000-2000mg cyanogenic glucosides/kg on a dry matter basis (Padmaja,)[6]. Fermentation of cassava pulp for 96 hours during baked cassava powder processing reduced the hydrogen cyanide content by 50%. Soaking of sliced cassava for 24 hours, 40%, and sun drying, 15% (Kendirim, et al)[7]. Effort had been made to study effect of cassava fluid on corrosion performance of mild steel. The work of Jekayinfa, et al [8], established that mild steel materials are unsuitable for use in cassava processing without some forms of corrosion protection options. Corrosion prevention options are many and have varied applications. Some of these methods include material selection, environmental alterations, design, coatings and cathodic protection. Perhaps, the most common and easiest way of preventing corrosion is through the judicious selection of material once the corrosion environment has been characterized. In real situations, however, it is not always sensible to employ the material that renders the optimum resistance, apparently because of the cost involved. Equally, changing the character of the
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 2 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 16 14 November 2006 environment hardly offers tremendous potential without affecting the optimal productivity of the process. Corrosion reduction in metallic materials has been effected greatly with the use of inhibitors[9]. These are substances, that when added in relatively low concentrations to the environment decreases its corrosiveness. The inhibitors are either organic or inorganic in nature. They may be applied singly or in combinations [10]. Abiola and Oforka [11] studied the inhibition of corrosion of mild steel in hydrochloric acid using synthetic organic compounds. Larabi and Harek [12] studied the inhibitive property of Oxalic N ­ Phentihydrazide N-phentylthlo - semicarbazide in the corrosion behavior of mild steel in 1M HCl. The work of Attar and Scantlebury [13] was the possible use of Polyaniline as inhibitor for the corrosion of mild steel. These works were further re-enforced by the works of Amuda, et al [14-15]. Amuda et al at different times studied the inhibitive effect of three organic inhibitors - diethylene amine, triethylene amine, and sodium benzoate, and two inorganic inhibitors - zinc oxide and sodium sulphite on the corrosion behavior of mild steel in cassava fluid. In these reported works [14-15], the corrosion rate of mild steel in hydrogen cyanide environment averaged 0.0598mmpy, 0.0909mmpy and 0.1605mmpy in the presence of diethylene amine, triethylene amine and sodium benzoate organic inhibitors respectively. The rate averaged 0.0799mmpy and 1.1841mmpy in the presence of zinc oxide and sodium sulphite inorganic inhibitors respectively. These works revealed that for the organic inhibitors, diethylene was the most active, while the other two were only effective in higher concentrations. In the inorganic family, zinc oxide was the most potent whilst the sodium sulphite was very weak in effect. In these reported works, sodium benzoate from the organic group and sodium sulphite from the inorganic group had the least corrosion mitigation effect. The poor effects, from both sodium benzoate and sodium sulphite, however, can be improved by formulating mixtures of these compounds. Fontana [16], submitted that inhibitive property of substance for inhibitor is improved when combined in mixes. Therefore, in this present work, synergistic inhibitive property of mixes of sodium benzoate and sodium sulphite in three volumetric ratios is presented.
+
+2.0 2.1
+
+METHODOLOGY Specimen Procurement and Preparation
+Mild steel plate whose spectrometric compositional analysis is given in Table 1 obtained from a Galvanizing Industry Limited, Ikeja, Lagos, Nigeria, was used for the study. The steel plate was prepared into coupon size of 2.5cm x 5.0cm. The specimen surface was machined and fine ground with emery paper in order of fineness to 120 grit finish. This was to prevent the setting up of local anodic/cathodic region which uneven specimen surface would have created. The surface was subsequently pickled and degreased using mild acid and acetone solvent. The specimen was thereafter dried in an oven, weighed on a sensitive balance and placed in a desiccator to prevent corrosion prior to experimentation.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 3 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 16
+
+14 November 2006
+
+2.2
+
+Corrodant and Inhibitor Mix Preparation
+Hydrogen cyanide fluid was extracted from freshly harvested cassava tuber from a local cassava-processing yard. The pH of the extracted fluid was measured to be 6.1. The fluid was kept in a refrigerator to maintain its pH. The sodium benzoate and sodium sulphite inhibitors were commercially procured in solid form. 500ppm solution of sodium benzoate was made and mixed with an equal concentration of sodium sulphite in volumetric ratios 15/5, 10/10, 5/15 C6H302Na/Na2S03 to give volumetric combination of 20ml for the various mixtures of the inhibitors.
+
+2.3
+
+Experimentation
+The initial weight of the prepared 2.5cm x 5.0cm test piece was taken before it was immersed in the cassava fluid containing different volumetric combination of sodium benzoate (C6H302 Na) and sodium sulphite (Na2S03). Specimens were immersed completely in the cassava/inhibitor mix solutions as shown in Figure 1. A ratio of 1-to 10 -inhibitor mix/corrodant was used for all the samples across the three volumetric combinations of inhibitors. A control set-up consisting of specimen immersed in 200ml uninhibited cassava fluid was prepared. Weighing was done every 72 hours for 480 hours. At the end of the immersion period, test coupons were removed and dipped in a diluted acid to dissolve all deposits and corrosion product. A blank sample was used to compensate for base metal dissolution in accordance with ASTM G1-81 standard[17]. Each specimen was subsequently weighed on a sensitive weighing balance to determine the weight loss. The corrosion rate is evaluated using the formula proposed by Krisher [18]. Corrosion rate in mmpy = 87.6W DAT Where W = Weight loss in milligrams D = Density of specimen in g/cm3 A = Total surface area in cm2 T = Exposure time in hours
+
+(1)
+
+The weight loss ratio which measures the efficiency of inhibition is expressed as W.L.R = Weight loss of specimen in inhibited solution Weight loss of specimen in uninhibited solution (2)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 4 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 16
+
+14 November 2006 Bottle
+
+Cassava fluid/Inhibitor mix Specimen
+
+Container
+
+Rack Fig. 1: Experimental Set-up
+
+Table 1: Spectrometric Compositional Analysis of Specimen Elements C Mn Si Ni Cr P S Cu Sn % composition (Wt) 0.0922 0.3022 0.0276 0.0194 0.0227 0.0101 0.0125 0.0717 0.0124
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 5 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 16 3.0 RESULTS AND DISCUSSION OF RESULTS 3.1 Results
+
+14 November 2006
+
+C orros ion R ate (m m py )
+
+0.14 0.12 0.1 0.08 0.06 0.04 0.02 0 0 96 168 240 312 408 480 Fig. 2: Corrosion Rate against exposure time for specimen immersed in uninhibited cassava fluid
+
+C orros ion R ate (m m py )
+
+0.1 0.08 0.06 0.04 0.02 0 0 96 168 240 312 408 480 Fig. 3:Corrosion Rate against exposure time for specimen immersed in 1M sodium benzoate[1]
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 6 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 16
+
+14 November 2006
+
+C orros ion R ate (m m py )
+
+3.5 3 2.5 2 1.5 1 0.5 0 0 96 168 240 312 408 480 Fig. 4:Corrosion Rate against exposure time for specimen immersed in 1M sodium sulphite[2]
+
+C o r ro s io n R a te ( m m p y )
+
+2.5 2 1.5 1 0.5 0 0 96 168 240 312 408 480
+Fig. 5: Corrosion Rate against exposure time for specimen immersed in different volumetric inhibitor sodium benzoate/sulphite inhibitor mixes
+
+5/15 Sodium Benzoate / Sodium Sulphite 10/10 Sodium Benzoate / Sodium Sulphite 15/5 Sodium Benzoate / Sodium Sulphite
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 7 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 16
+
+14 November 2006
+
+20 W e ig h t L o s s R a tio 15 10 5 0 0 96 168 240 312 408 480
+Fig. 6: Weight Loss Ratio against exposure time for specimen immersed in different volumetric inhibitor sodium benzoate/sulphite inhibitor mixes
+
+5/15 Sodium Benzoate / Sodium Sulphite 10/10 Sodium Benzoate / Sodium Sulphite 15/5 Sodium Benzoate / Sodium Sulphite
+
+3.2 Discussion of Result The spectrometric analysis of the specimen given in Table 1 revealed that the sample is a dead mild steel 0.0926Cwt percent hypo-eutectoid steel with other trace elements residued from metal extraction process. The levels of these elements are insignificance to influence the chemistry of the behaviour of the steel sample both in the corrodant and inhibitor / corrodant media. Figure 2 illustrates the corrosion rate of steel sample immersed in 200ml uninhibited hydrogen cyanide corrodant fluid. It is apparent from the figure that the corrosion rate increases in the first 168 hours, reaching a peak at 168 hours and subsequently reduces to a plateau. This behaviour is best explained in terms of the chemistry of the active glucoside cyanide ions. The cyanide ions in the initial days of immersion of the steel sample is very aggressive and readily combines with the dissolved iron ions to form iron cyanide (a thin brownish scale) thereby depleting the iron concentration in the neighborhood. This may be the major driving force for the corrosion in the first 168 hours of immersion. Subsequently, however, due to the dilution and reduction in concentration of the cyanide ions by being converted to a very weak hydrogen cyanic (Nartey, 1978)[19], the corrosion process is reduced and hence the observed pattern. Though, the corrosion process retards after 168 hours, the metal dissolution and loss was massive in the initial hours recording a total weight loss of 47mg for the 480 hours of immersion. Figures 3 and 4 are the corrosion curves obtained at 500ppm 20ml sodium benzoate and 500ppm 20ml sodium sulphite inhibitor in hydrogen cyanide extracted from [14] and [15] respectively. In comparison, Figure 3 had a better corrosion rate relative to Figure 4 at the same concentration. Whereas, in Figure 2 there was rapid increase in corrosion rate in the first 168 hours, in Figures 3 and 4, the rapid increase in corrosion rate was limited to the first 96 hours. This apparently shows that the inhibitive effect of sodium benzoate and sodium
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 8 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 16 14 November 2006 sulphite was noticeable. However, sodium benzoate was more effective. The inhibitive action of sodium benzoate was readily discernable averaging 0.1605mmpy while the rate averaged 1.1841mmpy in sodium sulphite. Sodium sulphite inhibitor is a cathodic inhibitor that acts by mopping up aerated oxygen in the environment and in the process converts the iron ions to ferric sulphate as illustrated in the half cell reaction Fe2+ + S032- + ½ 02  Fe S04(s)
+
+The thin film ferric sulphate formed interferes with the cathodic reaction and retards the progression of the corrosion process. The retardation of the corrosion process was effected by one or combination of any of these mechanisms: slowing down the electrode process, slowing down the reaction due to the electrical resistance of any film present on the cathodic surface and limitation of electrode current by slow diffusion of ions through the layer to the next electrode. This effect in sodium sulphite is rather very weak hence the high value of corrosion rate recorded. Figure 5 illustrates the corrosion rate against exposure time for specimens immersed in different volumetric ratios of sodium benzoate/sodium sulphite inhibitor mixes. The 5/15 V/V sodium benzoate/sodium sulphite mixture had a better corrosion rate compared to the 500ppm 20ml sodium sulphite inhibitor. The corrosion rate in this situation averaged 1.127mmpy. The rate at 10/10 V/V sodium benzoate/sodium sulphite inhibitor mixtures is 0.5123mmpy and at 15/5 V/V inhibitor mixture is 0.5123mmpy. The corrosion rate of the sample in 15/5 V/V sodium benzoate/sodium sulphite is marginal (Figure 5) indicating the superior inhibitive property of the 15/5 V/V inhibitive mixture. This observation is expected, because individually, the sodium benzoate [14] was a more effective inhibitor than the sodium sulphite [15]. The sodium benzoate actually beefed up the inhibitive capacity of the sulphite in volume proportion of its distribution. That is, as the volume abundance of sodium benzoate increases and sodium sulphite decreases to maintain the 20ml volume mixture, the corrosion rate of sodium benzoate/sodium sulphite inhibitor mixtures improves. Figure 6 is the weight loss ratio curve of the steel sample for the three volumetric ratios of sodium benzoate/sodium sulphite inhibitor mixes considered. The weight loss ratio describes the effectiveness of the inhibitor in retarding corrosion process [14]. The ratio for 5/15 sodium benzoate/sodium sulphite mixture was rather high. It averaged 14.27 for the 480 hours of immersion. The ratio improved to 10.45 at 10/10 V/V sodium benzoate/sodium sulphite mixture. The 15/5 V/V sodium benzoate/sodium sulphite inhibitor mixture had the least weight loss ratio of 5.43 among the three volumetric ratios studied. This apparently confirms the observation in Figure 5 in terms of the corrosion rate that sodium benzoate is very effective in improving the inhibitive action of sodium sulphite though at a higher volumetric ratio of the sodium benzoate.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 9 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 4.0 CONCLUSION
+
+Volume 10 Preprint 16
+
+14 November 2006
+
+Synergistic inhibitive effect of sodium benzoate and sodium sulphite in three volumetric ratios on the corrosion behaviour of mild steel in hydrogen cyanide agro-fluid had been studied. The corrosion rate in this study followed a reducing pattern after the first 200 hours of immersion in all the three volumetric ratios investigated. Though, the average corrosion rate in the sodium benzoate/sodium sulphite mixture is less than the rate in sodium sulphite inhibitor, the mixture is only effective after long time exposure. It is concluded that the mixtures of sodium benzoate and sodium sulphite in the volumetric ratio 15/5 V/V has the best synergistic inhibitive strength on the reduction of corrosion of mild steel in hydrogen cyanide (cassava) fluid and thus could be explored as inhibitor material in inorganic based coating for mild steel in agro-processing industries.
+
+5.0 REFERENCES 1. W.D. Callister: "Materials Science and Engineering". 4th ed. John ­ Willey, New York, 1997. www.nace.org CIA-TheWorldfactbook-Nigeria, www.cia.gov/cia/publications/factbook/geos/ni.html. July 2006 A. M. Ermans, M. N. Mbulamoko, F. Delange, R. Ahluwalia, eds. (1980): "Role of Cassava in the etiology of endemic goiter and cretinism", International Development Research Centre, Ottawa-Ontario, 182 pp. JECFA (1993): "Cyanogenic glycosides" in Toxicological Evaluation of Certain food Additives and Naturally Occuring Toxicants, 39th Meeting of the Joint FAO/WHO Expert Committee on Additives Geneva, Available at http: // www.inchem.org/documents/jecfa/jecmono/v30je18.htm. G. Padmaja (1995): "Cyanide Detoxification in Cassava for Food and Feed Use". Critical Reviews in Food Science and Nutrition, 35. pp. 259-339. O. C. Kendirim, O. A. Chukwu, S. C. Achinewhu (1995): "Effect of Traditional Processing of Cassava on Cyanide Content of Gari and Cassava Flour". Plant Food for Human Nutrition, 48, 335-339. S. O. Jekayinfa, M. A. Waheed, K. A. Adebiyi and F. T. Adebiyi (2005): "The effect of cassava fluid on corrosion performance of mild steel. Anti-corrosion methods and materials, vol. 52, Issue 5, pp. 286-292. www. Corrosion-doctors.org /inhibitors
+
+2. 3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 10 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858 Volume 10 Preprint 16 14 November 2006 10. V.Ashworth: "Corrosion Protection Techniques: Industrial Problems, Treatments and Control Techniques", Proceedings of the First Arabian Conference on Corrosion held in Kuwait between 4-8th February, 1984, Pergamon Press, 1987; Vol. 2, pp. 492 11. O. K. Abiola. and N. C. Oforka: "Inhibition of Corrosion of Mild steel in Hydrochloric Acid". Journal of Corrosion Science and Engineering. Vol. 3 Paper 21 (2002). L. Larabi and Y.Harek: "Corrosion Inhibition of Mild Steel in 1 moldm-3 HCl by Oxalic N ­ Phentihydrazide N ­ Phentylthlosemicarbazide". Journal of Corrosion Science & Engineering. Kem Ind. Vol.52 No 2 Pp 55-61 2003. M.M. Attar and T.D. Scantlebury: "Polyaniline as Possible Inhibitor for the Corrosion of Mild Steel". Journal of Corrosion Science and Engineering. Vol. 1 Paper 8 1997
+
+12.
+
+13.
+
+14.
+
+M. O. H Amuda, G. I Lawal and O. O. Soremekun: "Inhibitive Strength of Some Organic Inhibitors on the Corrosion Behaviour of Mild Steel in Cassava Fluid",(Paper sent for publication in the West Indian Journal Of Engineering, Trinidad and Tobago 2006. M.O.H Amuda, O.O. Soremekun, G.I. Lawal, T.A Fashanu, C.M. and Kamma: " Effects of Zinc Oxide and Sodium Sulphite on the Corrosion of Behaviour of Mild steel in Cassava Fluid" (Paper sent for publication in the Ife Journal of Technology)"2006 M. G. Fontana: "Corrosion Engineering" 3rd ed. McGraw-Hill, New York, 1986. ASTM G1-81: Preparing, Cleaning and Evaluating Corrosion Test Specimens. American Society of Testing and Materials, PA. A. S. Krisher: Technical Information Regarding Coupon Testing in Metal Samples Corrosion Monitoring Systems 2006, www.aispi.com/cpntst.htm. F. Nartey: "Manihot Escalenta (Cassava) Cyanogenesis, Ultra Structures and Seed Germination" Munksgard. 1978
+
+15.
+
+16. 17.
+
+18.
+
+19.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of 11 Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

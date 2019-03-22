@@ -1,0 +1,311 @@
+ISSN 1466-8858 Volume 10 Preprint 2
+
+Submitted 13 May 2006
+
+Inhibitive Effect of Thiourea on BSK46 Microalloyed Steel Y.S.S. AL-FAIYZ*, M. A. Al-Eaid, and F. N. Assubaie
+
+Department of Chemistry, King Faisl Univesity, P.O. Box 1758, AlHassa 31982, Saudi Arabia, yalfayz@kfu.edu.sa
+Abstract The efficiency of thiourea (TU) as corrosion inhibitors of BSK46 microalloy steel in H2SO4 solution has been studied. The effect of a variety of concentrations of this compound at different temperatures upon microstructure behavior of BSK46 microalloy steel has been recorded. Using polarization data has shown that both concentration and temperature have strong influence on efficiency of inhibitor. Thermodynamics studies confirm the inhibitor adsorption follow Langmuir Adsorption Isotherm. Keywords: Microalloyed steel; Repeated Quenching; Corrosion
+
+inhibition; Thiourea; Adsorption; Langmuir isotherm. Introduction Corrosion of steel is a major industrials problem that has attracted a lot of investigations [1-3]. One of the most effective solutions of this problem is the use of organic compounds as corrosion inhibitors especially in acidic environments [4-6]. Several groups of organic compounds have been reported to exert inhibitive effects upon this kind of corrosion in acidic media. Organic compounds that containing both nitrogen and sulphur are reported to have excellent inhibition compared with others compounds that containing only nitrogen or sulphur [7-12]. The uses of thiourea (TU) as inhibitor for corrosion of
+This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at should not normally be referenced in published work. © UMIST 2004. http://www.umist.ac.uk/corrosion/jcse in due course. Until such time as it has been fully published it
+
+mild steel in acidic solutions are documented [13-14]. However, less attention has been given to the effects of (TU) upon the corrosion behavior of steel and the effects of microstructure on such behavior. Therefore, we decided to investigate the effects of (TU) upon the corrosion resistance property of BSK46 microalloy steel and to correlate the metallurgical concept with the corrosion parameters. For this purpose, (TU) has been added in 1 (N) H2S04 in four concentrations ranging between I × 10-4 M/L to I ×10-2 M/L at three different temperatures. Analysis of experimental data showed that that both concentration and temperature have strong influence on inhibitor adsorption follow Langmuir Adsorption Isotherm. Experimental For polarization studies, AR grade H2SO4 (Merck) was used for preparing solutions. Double distilled water was use to solution of 1N H2SO4. Thiourea was purchased from Sigma-Aldrich and was added in a range of concentrations from I × 10-4 M to I × l0-2M. Sample preparation The experiments were carried out in 1N H2SO4 using the following as received sample: BSK46 grade microalloyed steel having composition: C = 0.12 %, Mn = 1.0%, S = 0.025%, P = 0.025%, Si = 10%, Al = 0.02%, Nb = 0.08%, the remainder Fe. efficiency of inhibitor. Thermodynamics studies confirm that the
+
+Electrochemical Techniques The following electrodes were used: a conventional threeelectrode assembly with microalloy steels strips as the working electrode (WE), a saturated calomel electrode (SCE) as the reference electrode (RE), and the graphite rod as the counter electrode (CE). The electrochemical cell was cleaned and then washed with distilled water. 500 ml of the electrolyte solution was used in the cell for each individual electrodes (specimens) were placed into the electrochemical cell and 2 run for polarization measurement. Freshly polished
+
+were pre-exposed to the test solution to attain steady state at zero current potential (zcp).
+
+vs. Cu/CuSO4 for various current values of current density in the
+
+Anodic and cathodic corrosion potentials were recorded in Volts
+
+absence and in the presence of various inhibitor concentrations at three different temperatures (20°C, 30°C and 40°C). For each individual run the specimens surface were ground and freshly polished, washed, digressed in ethanol, and dried in warm air.
+
+Polarization Curves: Polarization of working electrode, whether anode or cathode, is recorded in volts with reference to half-cell electrode Cu/CuSO4, for various values of current density, thus giving data for galvanostatic EI curve. Using Excel software a plot of over-voltage, E vs. applied current (anodic and cathodic), was drawn. The best straight line through the linear polarization points was drawn and its intersection with the zero current horizontal gives more accurate Ecorr values as shown in Figure.1 for a particular case (BSK46 as received sample at 20°C) and Figure 3 to Figure 14, represented for all the specimens without and with the addition of (TU) in three different temperatures.
+
+Figure 1. inhibitor
+
+Linear polarization of BSK46 as received sample without
+
+3
+
+Figure 3. Linear Polarization of BSK46 as received sample at 200C.
+
+Figure 4. Linear Polarization of BSK46 first quench sample at 200C.
+
+Figure 5. Linear Polarization of BSK46 second quench sample at 200C.
+
+4
+
+Figure 6. Linear Polarization of BSK46 third quench sample at 200C.
+
+Figure 7. Linear Polarization of BSK46 as received sample at 300C.
+
+Figure 8. Linear Polarization of BSK46 first quench sample at 300C.
+
+5
+
+Figure 9. Linear Polarization of BSK46 second quench sample at 300C.
+
+Figure 10. Linear Polarization of BSK46 third quench sample at 300C.
+
+Figure 11. Linear Polarization of BSK46 as received sample at 400C.
+
+6
+
+Figure 12. Linear Polarization of BSK46 first quench sample at 400C.
+
+Figure 13 Linear Polarization of BSK46 second quench sample at 400C.
+
+Figure 14. Linear Polarization of BSK46 third quench sample at 400C. From the current (imA) and potential (E volts) values derived from the polarization experiment the current density was calculated for all the specimens using area exposed to the electrolyte. Anodic and cathodic polarization (E vs. Log I curve) was drawn using computer and standard software. Using the same software best straight line through the Tafel region were drawn and extrapolated. Linear regression equations of the straight lines are obtained. Instead of visual 7
+
+identification of Tafel region from the polarization curves computer
+
+method was employed. While selecting the straight lines a few points close to each other except the sign, the interaction of these
+
+were kept in mind, viz., anodic (a) and cathodic (c) slopes should be extrapolations should be close to experimental Ecorr and the R2 value for the straight lines through the experimental data should be much closed to 1 as shown in Figure 2 for the case BSK46 as a received the addition of (TU) are represented in Figure 15 to 26. The calculated are given in Table 1 and Table 2. sample at 20°C. Polarization diagram of all specimens without and with Ecorr and Icorr values from the polarization diagram for all the specimens
+
+Figure 15. Polarization Diagram of BSK46 as received sample at 200C.
+
+Figure 16. Polarization Diagram of BSK46 first quench sample at 200C.
+
+8
+
+Figure 17. Polarization Diagram of BSK46 second quench sample at 200C.
+
+Figure 18. Polarization Diagram of BSK46 third quench sample at 200C
+
+Figure 19. Polarization Diagram of BSK46 as received sample at 300C.
+
+9
+
+Figure 20. Polarization Diagram of BSK46 first quench sample at 300C.
+
+Figure 21. Polarization Diagram of BSK46 second quench sample at 300C.
+
+Figure 22. Polarization Diagram of BSK46 third quench sample at 300C.
+
+Figure 23 Polarization Diagram of BSK46 as received sample at 400C
+
+10
+
+Figure 24 Polarization Diagram of BSK46 first quench sample at 400C.
+
+Figure 25 Polarization Diagram of BSK46 second quench sample at 400C.
+
+Figure 26 Polarization Diagram of BSK46 third quench sample at 400C.
+
+11
+
+Results Discussion Effect of (TU) on BSK46 as received Microalloyed Steel Polarization Behavior It can be observed from the polarization diagram that at every temperature, all the polarization curves shift towards lower values of in inhibited solution shift towards more noble values with increase in inhibitor concentration. It can be seen from the polarization diagram that with the addition of (TU), the cathodic tafel region which is supposed to be reduced as a result of the extrapolation of cathodic tafel concentrations of (TU) the limiting current density region is found to overshadow the tafel region. This thought to be because of adsorption increases of (TU) as a result of mobility of hydrogen ion to cathode decreases. Hence, cathodic reaction is highly retarded and the cathodic tafel slope would not be drawn. However, the anodic tafel slope is clear and nearly the same for all. The straight line in the anodic tafel region was drawn and its intersection with the horizontal line through The Ecorr values in Table 1 indicates that corrosion potential shift to more noble values due to the addition of (TU), process were effected by this addition. Table 1/ Ecorr values of BSK46 (With Thiourea) Conc. M/L 1x10-4 5x10-4 1x10-3 5x10-3 1x10-2 20oC -0.630 -0.603 -0.584 -0.552 -0.536 As Received 30oC -0.603 -0.600 -0.572 -0.555 -0.539 12 40oC -0.632 -0.624 -0.615 -0.584 -0.580 and only anodic Ecorr gives the Icorr for all. region is not possible. At high temperature and high Icorr in proportion to the inhibitor concentration added. Also Ecorr values
+
+First Quench 20oC 1x10-4 5x10-4 1x10-3 5x10-3 1x10-2 -0.628 -0.590 -0.569 -0.544 -0.540 30oC -0.615 -0.598 -0.594 -0.558 -0.540 40oC -0.643 -0.631 -0.598 -0.590 -0.587
+
+Second Quench 20oC 1x10-4 5x10-4 1x10-3 5x10-3 1x10-2 -0.618 -0.590 -0.552 -0.536 -0.534 30oC -0.648 -0.629 -0.618 -0.612 -0.610 40oC -0.654 -0.632 -0.592 -0.582 -0.576
+
+Third Quench 20oC 1x10-4 5x10-4 1x10-3 5x10-3 1x10-2 -0.604 -0.584 -0.558 -0.538 -0.535 30oC -0.638 -0.632 -0.592 -0.552 -0.548 40oC -0.649 -0.624 -0.605 -0.575 -0.573
+
+13
+
+On the other hand, results in Table 2 indicates hat
+
+(TU) concentrations, decrease the Icorr values at all the three temperatures for as received sample, which implies that corrosion rate decrease due to the addition. Inhibitor Efficiency Inhibitor Efficiency has been calculated using the expression: Inhibitor Efficiency (%) = 100 ×  where: , is the Surface Coverage expressed as  =(I0-1)/ I0 I0 = corrosion rate of the uninhibited system i.e. without inhibitor, and First,  values has been calculated from I0 and I values and then inhibitor efficiency % was calculated. The values of Inhibitor efficiency (%) are given in Table 3. l corrosion rate of the inhibited system i.e. with inhibitor [15-19].
+
+the increase in
+
+Table 3 Inhibitor Efficiency (%P) of BSK46 Microalloyed Steels. Conc. M/L 1x10-4 5x10-4 1x10-3 5x10-3 1x10-2 As Received 20oC 5.45 30oC 7.02 40oC 7.14 14.28 37.14 45.71 48.57
+
+12.72 14.03 34.54 35.08 40.00 42.10 41.82 43.86
+
+14
+
+First Quench 20oC 1x10-4 5x10-4 1x10-3 5x10-3 1x10-2 6.45 30oC 7.58 40oC 8.11 17.56 40.54 45.95 48.65
+
+16.13 16.67 29.03 30.30 41.93 43.94 43.55 45.45 Second Quench 20oC 30oC 7.32
+
+40oC 8.33 21.43 34.15 44.05 46.43
+
+1x10-4 5x10-4 1x10-3 5x10-3 1x10-2
+
+5.88
+
+16.17 20.73 29.41 35.36 38.23 43.9 39.71 45.12 Third Quench 20oC 30oC 7.32
+
+40oC 9.30 23.26 39.53 47.67 50.00
+
+1x10-4 5x10-4 1x10-3 5x10-3 1x10-2
+
+5.71
+
+20.00 21.95 37.14 39.02 41.42 46.34 42.86 47.56
+
+15
+
+At any given temperature it has been observed that corrosion rates (Icorr) decrease with increased of (TU). This can be correlated with the increasing degree of surface coverage. It can be noted that the
+
+inhibitor efficiency of BSK46 for as received samples increases as we go for higher concentrations of (TU) for all three temperatures. Hence, inhibitor efficiency values of as received BSK46 samples in I × 10-4 M/L, 5 × 10-4 M/L, I × 10-3 M/L, 5 × 10-3 M/L and I × 10-2 M/L at 20°C are 5.45, 12.72, 34.54, 40.00 and 41.82 at 30° C are 7.02, 14.03, 35.08, 42.10 and 43.86 and at 40°C are 7.14, 14.28, 37.14, 45.71 and 48.57 respectively. It is also found that the degree of surface coverage increases with the increase in temperature for as received microalloyed steel. ) and appreciable degree of protection even at very low concentration of inhibitor. This strongly support the fact that the inhibitors inhibit the corrosion process through surface adsorption. Effect of Thiourea on Grain Refined BSK4 6 Microalloyed Steel: Due to repeated quenching the grains of ferritic microalloyed steel were increased and also from Table 1, Table 2 and Table 3 it can be noted that the Ecorr, Icorr and Inhibitor efficiency values trends are the same for first, second and third quench samples for each cases but they reached maximum values for third quench samples. It is also noted that the inhibitor efficiency increases with an increase in (TU) concentration but it reached its maximum, at I × 10-2 M/L for all treatments. Polarization Behaviour The polarization properties of the repeated quenched samples are the same as that of as received samples of each grade. All the polarization curves shift towards lower values of Icorr in proportion to the inhibitor concentration added. Ecorr values in inhibited solution shift towards more noble values as the inhibitor concentration increases table 2. However, for the third quench samples and, it can to more noble values due to the repeated quenching indicating that the addition of the (TU) mainly affects the anodic process. The same results were also observed for the second quench samples. However, Table 2 have shown that Icorr values of the third quench samples in 16 be noted that the Ecorr, for all samples with and with out (TU) shift
+
+the uninhibited and with I × 10-2 M/L (TU) solution are 0.35 and
+
+0.20 at 20°C, 0.42 and 0.215 at 30 °C and 0.43 and 0.215 at 40° respectively. It can thus be observed that due to an increase in (TU) concentrations,. Icorr values corrosion rate decreases for quenched
+
+steel at all the three temperatures. The same results were also observed for the second quench samples.
+
+Inhibitor Efficiency The results in Table 3.1 indicates that inhibitor efficiency or the degree of surface coverage increases with the increase in temperature and concentrations of (TU) for repeatedly quenched microalloyed steel. It also shows that due to repeated quenching there is no change in the inhibitive efficiency of (TU). Its clear that the values of inhibitor efficiency at highest concentration of (TU) are nearly the same in as received and repeated quenched samples. So it can be concluded that the use of (TU) has no effect on grain refinement as a result of repeated quenching of BSK46 microalloyed steels.
+
+Adsorption Isotherm
+
+The Surface Coverage () values were tested graphically
+
+for fitting a suitable adsorption isotherm. The different types of adsorption isotherm equations that may govern the adsorption processes are: f() ={/(l-)}×{ + n (l-)n-1/nn} as per Bockris-Swinkel model [20] or f(9)=9/exp(n-l)(l-9)" as per Flory-Huggins model [20] or  = K.Cinh/(l+K. Cinh), or, Cinh/  = Cinh+l/K as per Langmuir model [22]. In the above equations (n) is an integer and (Cinh ) stands for inhibitor concentration. Systematically model after another were tested. The data failed to fit both Bockris-Swinkel isotherm and Flory-Huggins isotherm models. However, the plots of Cinh/ vs. Cinh yields a straight line as shown in Fig. 3.1 to Fig. 3.12 for as received and quenched samples in three different temperatures, which clearly prove that this adsorption 17
+
+process follow the Langmuir Adsorption Isotherm, which is line with mild steel obeys Langmuir Adsorption Isotherm [23]. Mechanism of inhibition
+
+other finding that reported the inhibition of thiourea derivatives on
+
+From the Langmuir adsorption isotherm cruve Cinh/ vs. Cinh, the
+
+free energy of adsorption (G°ads) at different temperature were calculated. The intercept (1/K) of the straight line, where K designates the and/related to Gibb's Free Energy (G°ads.) and hence to the Enthalpy change (H°ads.) of the process K = exp (G°ads/RT) and G°ads = H°ads -TS ads. Free energy of adsorption or AG°ads values at three different temperatures for BSK46 microalloyed steel are presented in Table 4 using these values, curves have been drawn (Fig. 39). adsorption coefficient which is temperature dependent
+
+Figure 39 Free Energy vs Temperature Diagram of BSK46 microalloyed Steel. From G°ads vs. curves the enthalpy change (H°ads.) and entropy change S° ads of the process were calculated. Table 4 shows that °ads G°ads values of as received BSK46 sample at 20°C, 30°C and 40°C are -15.535, -16.380 and -16.921 respectively; for the first quench its values are -15.839, -16.554 and -17.501; for the second quenchi the values are -16.007, -17.162 and -17.728, while quench, the values were -16.595, -17.402 and -18.250. The free energy of adsorption given negative values for all the as received and 18 the third
+
+quenched steels. It is also seen that due to the increase in
+
+temperature, the value of free energy change (-G°ads) increases. The low and negative values of G°ads indicate the spontaneous adsorption of inhibitors on the surface of metal as reported in the literature [19] in case of mild steel. The AH°ads and AS°ads of the
+
+process are given in Table 5 for BSK46 microalloyed steel. H°ads values for as received, first quench, second quench and third quench BSK46 microalloyed steels are -15.235, -14.035, -15 and -15 and AS ads values of those are 0.0696, 0.0805, 0.0672 and 0.0672 respectively. It can be noted that the enthalpy change of the exothermic reaction as reported by others for mild steel [20]. adsorption process is negative (H° ads< 0) i.e. adsorption is an
+
+At every temperature all the polarization curves shift towards lower values of Icorr in proportion to the inhibitor concentration added table 2. Ecorr values in inhibited solution shift towards more noble values with increase in inhibitor concentration table 1. The degree of surface coverage i.e. inhibitor efficiency increases with the increase in and Inhibitor efficiency values trend is same for the first, second and third quench samples for each case but the values are maximum for the third quench sample table 3. temperature for as received microalloyed steel table 3. The Ecorr, Icorr
+
+Table 2 Icorr values of BSK 46 (With Thiourea) Conc. M/L x10-4 5x10-4 1x10-3 5x10-3 1x10-2 As Received 20oC 26 0.24 0.18 0.165 0.16 30oC 265 0.245 0.185 0.165 0.16 40oC 325 0.30 0.22 0.19 0.18
+
+19
+
+First Quench 20oC 1x10-4 5x10-4 1x10-3 5x10-3 1x10-2 0.29 0.26 0.22 0.18 0.175 30oC 0.305 0.275 0.23 0.185 0.18 40oC 0.34 0.305 0.22 0.20 0.19
+
+Second Quench 20oC 1x10-4 5x10-4 1x10-3 5x10-3 1x10-2 0.32 0.285 0.24 0.21 0.205 30oC 0.38 0.325 0.265 0.23 0.225 40oC 0.385 0.33 0.27 0.235 0.225
+
+Third Quench 20oC 1x10-4 5x10-4 x10-3 x10-3 x10-2 0.33 0.28 22 205 20 30oC 0.38 0.32 25 22 215 26 225 215 40oC 0.39 0.33
+
+20
+
+in thiourea concentration. And the polarization properties of the
+
+It is noted that the inhibitor efficiency increases with the increase
+
+repeated quenched samples are same as that of as received samples of each grade. However, in the repeated quenching samples, corrosion potential shift to more noble values. This indicate, that the addition of thiourea inhibitor mainly affects anodic process.
+
+Therefore, increase in thiourea concentrations, decreases the Icorr values corrosion rate for quenched steel at all the three temperatures. Inhibitor efficiency or the degree of surface coverage increases with the increase in temperature and concentrations of thiourea for repeatedly quenched microalloyed steel. The adsorption process of thiourea in 1(N) H2SO4 solution on the microalloyed steel surface follow the Langmuir Adsorption Isotherm.
+
+Figure 27 Langmuir Isotherm plot of BSK46 as received sample at 200C
+
+Figure 28 Langmuir Isotherm plot of BSK46 as received sample at 300C 21
+
+Figure 29 Langmuir Isotherm plot of BSK46 as received sample at 400C.
+
+Figure 30 Langmuir Isotherm plot of BSK46 first quench sample at 200C.
+
+Figure 31 Langmuir Isotherm plot of BSK46 first quench sample at 300C.
+
+22
+
+Figure 32 Langmuir Isotherm plot of BSK46 first quench sample at 400C.
+
+Figure 33 Langmuir Isotherm plot of BSK46 second quench sample at 200C.
+
+Figure 34 Langmuir Isotherm plot of BSK46 second quench sample at 300C.
+
+23
+
+Figure 35 Langmuir Isotherm plot of BSK46 second quench sample at 400C.
+
+Figure 36 Langmuir Isotherm plot of BSK46 third quench sample at 200C.
+
+Figure 37 Langmuir Isotherm plot of BSK46 third quench sample at 300C
+
+24
+
+Figure 38 Langmuir Isotherm plot of BSK46 third quench sample at 400C. The free energy of adsorption shows negative values for all the as received and quenched steels. Table 4 Free Energy ( -Go KJ/Mole) Values of BSK46. Temp.oC 20 30 40 AR -15.535 -16.380 -16.921 Q1 -15.839 -16.554 -17.501 Q2 -16.007 -17.162 -17.728 Q3 -16.595 -17.402 -18.250
+
+It is also seen that due to increase in temperature the free energy change (-G°ads) increases.
+
+i.e.adsorption is an exothermic reaction.
+
+Enthalpy change of the adsorption process is negative (AH°ads< 0)
+
+25
+
+Table 5 Enthalpy and Entropy change of BSK46 Microalloyed Steel. ads -14.2 -14.138 -14.3 -14.933 S ads 0.0693 0.0831 0.0861 0.0828
+
+Conclusions: The addition of thiourea inhibitor mainly affects anodic process and, the efficiency of this compound as an inhibitor is increase with the increase in the concentration and temperature. For repeatedly quenched microalloyed steel, the increase in thiourea concentrations decrease the corrosion rate for quenched steel at all the three temperatures. Although, the efficiency values trend is same for the first, second and third quench samples for each case these values are maximum for the third quench sample. This inhibition process is an exothermic reaction and follow the Langmuir adsorption isotherm.
+
+26
+
+References: 1. Liu, G. Q., Zhu, Z.Y., Ke, W., Han, C.I., and Zeng, C.L., Corrosion, Nace., 57, 8. 730, 2001. 2. Collins, W.D., Weyers, R.E., and Al-Qadi, I.L., Corrosion Nace., 49,1.
+
+74, 1993.
+
+3. Ekpe, U.J., Ibok, U.J., Ita, B.I., Offiong, O.E., and Ebenso, E.E., Mater.
+
+Chem. Phys., 40, 87, 1995.
+
+4. Clubley, B. G., Chemical Inhibitors for Corrosion Control, The Royal Society of Chemistry, Cambridge, UK, 1990. 5. Cizek, A., Acidizing inhibitors, Mater. Perf. 33, 56, 1994. 6. Raman, A., Labine, Rev. Corros. Sci. Technol., 1, 20, 1989. 7. Quraishi, M.A., Ahmad, S., Ansari, M.Q,
+
+Journal, 32, 4, 297-300, 1997.
+
+British
+
+Corrosion
+
+3, 283-287, 2001.
+
+8. Quraishi, M.A., Jamal, D, Materials Chemistry and Physics, 68, 1-
+
+9. Bentiss, F., Lagrenee, M., Traisnel, M., Hornez, J.C., Corrosion
+
+Science, 41, 4, 789-803, 1999.
+
+Surface Science, 161 1, 194-202, 2000.
+11. El Hajjaji, S., Lgamri, M., Ben E.M., Akssira, Bachir,
+
+10. Bentiss, F., Traisnel, M., Gengembre, L., Lagrenée, M., Applied
+
+A., Aziane, A.,
+
+D., Guenbour,
+
+Coatings, 38, 3, 207-212, 2000.
+
+Progress
+
+in
+
+A., Essassi,
+
+Organic
+
+12. Bentiss, F., Traisnel, M., Gengembre, L., Lagrenée, M.,
+
+Surface Science, 152, 3, 237-249, 1999.
+
+Applied
+
+13. Sundrarajan, J., Rama, T. L.., J. Appl. Chem., 11, 277, 1961. 14. Ross, T. K., and Jones, D. H., J. Appl. Chem. 12, 314, 1962. 15. Antropov, L. I., Protection of Metals, 13, 323, 1977. 16. Fischer, H., Proc. 1st European Symp. On Corrosion Inhibitor, Ferrara, Italy, University of Ferrara, Suppl. No.3. 1960. 27
+
+17. Malysheva, T. V., Beilinova, L.A., and Burmistrova, A.N., Protection
+
+of Metals. 12, 3, 300-302, 1976.
+
+18. Altura, D., Nobe, K., Corrosion., 32, 2, 41-47, 1973. 19. Silvera, A. R. et..al., Bras. Eletroquim Electroanol, Brazil, 271, 1984. 20. Bockris, JO'M, D., Swinkel, A., J. Electrochem. Soc., 111, 736, 1964. 21. Dhar, H. P., B. E. Conway and K. M. Joshi. Electrochem. Acta, 18, 789, 1973. 22. Alberty, R. and R. Silbey.. Physical Chemistry, 2nd Ed. (New York, NY: Wiley & Sons), p845, 1997. 23. Sayed Azim S., 297-301, 1998. Muralidharan, S., Venkatakrishna Iyer, S.,
+
+Muralidharan, B., and Vasudevan, T., British Corrosion Journal, 33 (4):
+
+24. Stoyanova, A. E.,
+
+Science 39, (9), 1595-1604, 1997.
+
+Sokolova, E. I. and Raicheva. S. N., Corrosion
+
+28
+

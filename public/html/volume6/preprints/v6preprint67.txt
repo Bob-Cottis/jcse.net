@@ -1,0 +1,201 @@
+Volume 6 Paper H009 Characterisation of Several Nickel-Base Alloys in Metal Dusting Environments
+F. Di Gabriele, F.H. Stott, J.R. Bernstein and Z. Liu Corrosion and Protection Centre, UMIST, P.O. Box 88, Manchester, M60 1QD, UK, f.di-gabriele@postgrad.umist.ac.uk
+
+Abstract
+Metal dusting is defined as degradation of alloys at moderately high temperatures (400° to 800°C) in atmospheres of high carbon activity (ac>1) and low oxygen partial pressure. The alloys disintegrate into a dust containing carbon filaments and particles of metal and oxide. The phenomenon has been observed in many industrial plants, such as the production of syngas from hydrogenation of carbon monoxide. The initial stages of metal dusting of several nickel-base alloys have been investigated and the results are reported here. The alloys (601, 603XL, 617, 671, 690 and 890) were exposed to a gas mixture of 80%CO / 20%H2, at 650°C, for periods of 100h. Before exposure, the specimens were ground to 600 grit finish. They were placed in ceramic crucible containers, and exposed to the gas mixture. Examination of the specimens revealed that they reacted differently, depending on their compositions and microstructures. Although formation of a protective and self-healing surface oxide layer should give reasonable protection to the alloys, localised failure, leading to significant damage, was generally observed. Analyses of the reaction zones that develop on the specimen surfaces have been carried out by EDX and EPMA. The results of this study are presented and discussed, with emphasis on the effects of the experimental set-up on the alloy performance. Keywords: metal dusting, carburization, nickel-base alloy, experimental set-up.
+
+Introduction
+Metal dusting is known to be a catastrophic corrosion phenomenon, occurring in carbonaceous atmospheres, at relatively low temperatures (400°-800°C) [1, 2], leading to fragmentation of iron-, cobalt- and nickel-base alloys into fine particles embedded in a graphitic carbon deposit. The phenomenon is usually observed in plants for syngas production via steam reforming and, in general, in components in
+
+contact with carburizing and reducing gas mixtures [3] with carbon activities greater than one [4-7]. Considerable efforts have been placed on improvements to reforming technologies. Trends to higher efficiency result in increased aggressiveness of the working atmosphere [8]. This situation brings a need for alloys that are resistant to metal dusting and the main criterion is usually based on the effectiveness of the scaleforming elements. It is believed that chromia scales, in combination with alumina [9] and silica layers, can give reasonable protection for nickel-base alloys. Since it has been shown that the solubility of carbon in metal oxides is very low, 10ppb [10], the only way for carbon to diffuse through an oxide scale and attack the metal is through cracks or other defects in the scale. For this reason, defectfree protective and self- healing oxide layers are necessary for protection against the corrosion phenomenon, because of their potential barrier effect to carbon diffusion. In this study, the performance of a series of nickel-base alloys with various contents of scale-forming elements has been investigated. The effect of the experimental set-up is highlighted, since the tests were carried out in a ceramic crucible that strongly affected the reactivity of the alloys to the environment. Most of the alloys showed the onset of metal dusting and abundant coke deposits on their surfaces within a short exposure period. Alloy performance has been evaluated as a function of the catalytic effect that the crucible exerted on the dusting atmosphere. The reasons for the occurrence of simultaneous oxidation and carburization are discussed. Characterization of the reaction zones was carried out using SEM and EPMA techniques.
+
+Experimental
+The compositions of the alloys tested are given in Table1. Alloys 601 603 XL 617 671 690 Al C 0.01 0.05 0.05 Co Cr Fe Mn Mo Nb 3.1 0.5 9.0 0.5 Ni Si Ti
+
+1.2 0.03
+
+22.1 16.9 0.3 0.2 0.1 Bal. 0.2 0.4 22.1 0.1 48 30 10 Bal. 1.4 Bal. 0.5 0.3 Bal. Bal. 0.5
+
+1.2 0.07 12.5 22.0 1.5
+
+2
+
+890
+
+0.1 0.1
+
+25
+
+27.4
+
+1
+
+1.5 0.4 Bal. 1.8 0.2
+
+Table 1 - Alloy compositions, wt%
+
+Alloy 603 XL was provided by the manufacturer in the form of hot-rolled rods, 5.8mm diameter and 500mm long; cylindrical specimens, 10mm in length, were cut and ground to the required surface finish. Alloy 890 was provided in the form of a hot-finished ID-Fin tubing and the specimens, cut from the original format, had an irregular shape, with dimensions of approximately 10x10x10mm. All the other alloys were provided by the manufacturer in the form of plates that were cut into the required dimensions, approximately 10x8mm, while their thicknesses ranged, as a function of the thicknesses of the plates, from 3 to 8mm. A preliminary metallographic study of the alloys was carried out in order to determine their basic microstructural characteristics. Appropriate etching solutions were selected for the alloys, to highlight their general microstructures: electrolytic etching with oxalic acid was used for Alloy 603 XL, while the other alloys were etched with a solution of 40% HCl/40% H2O2/20% H2O. Prior to the dusting experiments, each specimen was ground to 600 grit finish using SiC paper and its dimensions were measured. In this way, all the surfaces were of standard finish and the effect of previous surface treatments should have been eliminated. Subsequently, each specimen was ultrasonically cleaned, first in water, then in ethanol and, finally, in acetone. The experiments consisted of exposing the specimens to a gas mixture of 20 vol.% H2 and
+
+Figure 1 - Schematic diagram of the double-walled reaction tube
+
+80% CO, at a temperature of 650°C, for an exposure time of 100 hours. The
+
+3
+
+specimens were placed in ceramic crucibles and, then, introduced into the reaction tube. Figure 1 shows a schematic drawing of the double-walled reaction tube where the previously-mixed gases were introduced into the external chamber. In this first stage, the gas homogeneously reached the reaction temperature and then, passing through the holes in the bottom part of the inner tube, reached the hot zone where the crucibles were positioned. The waste gas was discharged at the outlet and disposed in the fume cupboard. For the experiment, the system was sealed and flushed with argon; hydrogen was introduced and, afterwards, the system was heated to temperature, 650(±5)°C. Carbon monoxide was mixed with hydrogen in the required proportions and introduced into the system; after the required exposure period, the crucibles were furnace cooled in hydrogen. The specimens were removed and their surfaces were observed by optical and scanning electron microscopy. Some exposed specimens were mounted in cross section, sectioned and metallographically polished. The etching solutions used were the same as for the preliminary metallographic study. The morphologies of the deposits and the underlying damage to the metal surfaces were examined by optical and scanning electron microscopy (SEM). Moreover, an energy-dispersive X-ray (EDX) attachment on the SEM produced qualitative and semi-quantitative evaluations of the compositions of the surface reaction zones formed on some of the alloys. More quantitative analyses and X-ray mapping of some of the specimens were carried out by electron probe microanalysis (EPMA).
+
+Results
+All the samples exposed to the dusting gas showed a certain degree of reactivity to the environment during the 100 hours period, apart from Alloy 671 that did not undergo any apparent dusting. The effect of the ceramic sample holder has been described in a previous paper [11], highlighting the detrimental role of the holder on the alloy performance. In this paper, the main features of the damage, for the alloys, are reported and discussed in terms of the role of the ceramic crucible on catalysis of carbon deposition.
+
+4
+
+Preliminary study of the alloys showed that most of them consisted of equiaxed, single-phase grains. Figure 2 shows micrographs of Alloys 603 XL (a), 617 (b), 601 (b) and 671 (d) in the as-received condition. Alloy 671 was somewhat different from the other alloys because of the presence of lamellar precipitates of chromium (light/horizontal strips in Figure 2d), in a matrix of fine (<10µm), equiaxed grains.
+
+a
+
+b
+
+10µm
+
+c
+
+d
+
+50µm Figure 2 - Micrographs of the equiaxed grain microstructures of (a) Alloy 603XL, (b) Alloy 617, (c) Alloy 601 and (d) Alloy 671
+
+After 100 hours exposure to the dusting atmosphere, specimens of all the alloys, apart from Alloy 671, showed carbon deposition and significant damage to the metal beneath the deposit. Figure 3 shows plan views of the specimens after the experiment. Specimens of Alloys 601 (fig. 3a) and 690 (fig. 3c) were almost entirely covered by cone-shaped deposits while the underlying alloy surface was covered by shallow pits, corresponding to the base of the cones. The pits had often coalesced, giving the appearance of uniform damage to the surfaces of the specimens. The damage sustained by Alloy 603 XL (fig. 3b) was more homogeneous: the sample was covered by a thick and uniform carbon deposit and the surface was evenly attacked by the dusting reaction. Alloy 890 developed an abundant carbon deposit on one of the surfaces, while the others formed deposits in only a few, localised spots, generating cone-shaped morphologies. Alloy 617 (fig. 3e) showed small, localised carbon
+
+5
+
+deposits, distributed over all the surfaces, but more concentrated along the edges. Alloy 671 (fig. 3f) did not react to the dusting treatment and the surface was carbonfree. Examination of the specimens in cross section showed that, in most cases, the morphologies of the alloy substrates around the damaged surfaces were different from those of the bulk alloy. This area, termed the reaction zone, was observed for all the corroded alloys, apart from Alloy 603 XL. Observation and analyses of the reaction zones were carried out to characterize their morphologies and compositions.
+
+6
+
+a
+
+b
+
+c
+
+d
+
+e
+
+f
+
+Figure 3 - View of samples located in the crucible after 100h exposure to the 20H2/80CO gas mixture at 650°C. a) Alloy 601; b) Alloy 603 XL; c) Alloy 690; d) Alloy 890; e) Alloy 617; f) Alloy 671
+
+Alloy 601
+The specimen was almost completely covered by carbon deposit and embedded very fine metal particles. Examination in cross section (fig. 4a) indicated a continuous reaction zone layer, about 20µm thick, over all the specimen surfaces. Quantitative analyses with EPMA revealed no detectable changes in the alloy composition in the reaction zone. However, X-ray mapping showed the presence of 7
+
+carbon throughout the zone; this did not affect the relative concentrations of the metallic alloying elements. Traces of chromium oxide were observed at the metal/carbon deposit interface. Moreover, it was observed that, in the few areas where there was no carbon deposition or reaction layer, (fig. 4b), there were whisker-like precipitates in the alloy. They, apparently, nucleated at the grain boundaries and grew into the grains; however, their presence was restricted to these areas only.
+
+Alloy 603 XL
+The circular specimen profile for this alloy was observed to be uniformly attacked beneath the carbon deposit (fig. 4c). Pieces of metal, of various dimensions, appeared to have lifted from the alloy surface and been pushed into the carbon deposit
+
+a
+
+b
+
+c
+
+d
+
+10µm
+
+5µm
+
+Figure 4 - Micrographs of cross sections of samples exposed for 100h in a gas mixture of 20H2/80CO at 650°C. a) Alloy 601, continuous reaction zone at the specimen surface; b) Alloy 601, detail of a non-reacted/flat surface containing lamellar precipitates; c) Alloy 603 XL, view of the damaged surface; d) Alloy 603 XL, detail of the metal particles lifted from the surface
+
+(fig. 4d). Traces of chromium oxide were observed at the alloy/carbon deposit interface. The oxide was observed in isolated areas along the surface, suggesting a simultaneous
+
+8
+
+oxidation process occurring at the same time as the dusting reaction. This alloy did not show any characteristic reaction zone in the areas beneath the surface damage.
+
+Alloy 617
+The specimen of Alloy 617 showed significant numbers of discrete, localised pits beneath carbon deposits. However, along the edges, the carbon deposit was more uniform and continuous areas of damage were observed. Examinations of the specimen in cross section revealed the presence of shallow pits (fig.5), but the depths of metal loss were limited to 1µm, while the corresponding reaction zones were up to 20µm thick. EPMA quantitative analyses did not reveal any relative changes in the concentrations of alloying elements in these zones. The only difference, observed by X-ray mapping, between the reaction zones and the bulk alloy, was the presence of
+
+a
+
+b
+
+Figure 5 - Alloy 617 after exposure for 100h to the gas mixture 20H2/80CO at 650°C. a) Optical micrograph of pits in the surface of the specimen and b) SEM micrograph showing detail of one pit
+
+carbon in the former regions.
+
+Alloy 690
+This alloy was almost entirely covered by carbon deposit and the underlying surface was severely damaged. Examination of the specimen in cross section showed a continuous reaction zone (fig. 6a), 20µm thick, over the entire surface. EPMA quantitative analyses did not indicate any change in the relative concentrations of the alloying elements between the specimen bulk and the reaction zone. Figure 6b shows an X-ray map for carbon, revealing a distinct carbon-rich layer in the top surface of the specimen. In addition, there are silicon-rich precipitates in the bulk material (fig. 6c) that dissolved in the reaction zone (top layer in the micrograph).
+
+9
+
+a
+
+b
+
+c
+
+Figure 6 - Alloy 690 after exposure for 100h to the gas mixture 20H2/80CO at 650°C. a) SEM micrograph of the damaged surface beneath carbon deposit; b) EPMA X-ray map for carbon; c) EPMA X-ray map for silicon
+
+Alloy 890
+The specimens cut from the provided tube were covered on one side by an oxide layer, developed in the hot finishing process. Even after grinding off more than 500µm of material, the exposed surface still appeared to be affected by the previous treatment and the reaction rate was greater than for the other surfaces, where only a few pits were observed. Examinations of the specimens in cross section revealed the main differences between these two areas. On the side that had previously been covered by the oxide layer (fig. 7a), the grain size was finer (20µm) than on the other surfaces (60µm) (fig. 7b). Moreover, on the former surface, there were abundant whisker-like precipitates (fig. 7a) that penetrated over a wide area from the base of the reaction zone into the underlying surface. Such features were absent from
+
+10
+
+the other surfaces (fig. 7b). However, the reaction zones, surrounding the pits, were of similar thicknesses (10µm) over all the surfaces.
+
+a
+
+b
+
+Figure 7 ­ Optical micrographs of Alloy 890 after exposure for 100h to the 20H2/80CO gas mixture at 650°C. a) View of one pit in the surface that had been covered by an oxide layer and b) pit in a cut surface
+
+Discussion
+The present research programme uses two arrangements for locating alloy specimens in the mixed-gas rig. For the results reported in this paper, the specimens were placed in ceramic boats while, in the second arrangement, they were suspended freely by platinum wires from a silica support system. Carbon deposition and metal dusting occur readily for specimens in the ceramic boats, as described in the previous section and discussed for a different set of alloys previously [11]. However, there is much less carbon deposition on specimens using the second arrangement and the onset of damage occurs after much longer exposure periods, usually greater than 500 to 1000 [12] hours for the alloys described in the present paper. Analysis of the crucible, given in Table 2, shows that the specimen holder contains significant amounts of impurity species, such as Fe2O3, that may have a catalytic effect on carbon deposition [3].
+
+SiO2 Al2O3 K2O Fe2O3
+54.53 40.94 2.12 1.07
+
+C
+1.08
+
+TiO2 MgO P2O5 Na2O CaO
+0.34 0.32 0.13 0.11 0.09
+
+Table 2 - Composition of the ceramic crucible, wt%
+
+11
+
+However, in a series of experiments that will be published in a future paper, specimens of several alloys were exposed in various types of holders. The initial conclusion from that research is that the two main factors that may have been responsible for the observed carbon deposition within only 100 hours exposure are the presence of Fe2O3 in the porous ceramic material of the crucible and the possible evolution of vapour-phase species from the crucible that be deleterious to growth, retention or effectiveness of the protective oxide scale. The iron oxide is a strong catalyst for deposition of carbon via reactions such as: CO + H2 = H2O + C 2CO = CO2 + C There is, then, a competition between deposition of carbon on the adjacent solid surfaces and oxidation of the alloy specimens to form an oxide scale that can protect the specimens from deposition and ingress of carbon into the substrate. In this environment, the base metals, nickel and iron, should not oxidize, so the alloys rely on establishment of a Cr2O3 scale, possibly with an underlying layer, rich in Al2O3 or SiO2 (for those alloys that contain sufficient aluminium and silicon). However, as the oxygen partial pressure is low and the rates of growth of the oxide nuclei to establish the oxide scale, plus the rates of diffusion of chromium (and aluminium/silicon) to the surface from the substrate, are relatively low at 650°C (compared to higher temperatures), it is difficult to establish a complete, fullyprotective oxide scale, particularly in conditions where carbon deposition is catalyzed by impurities in the crucible specimen holders. In this respect, a high chromium concentration in the alloy would facilitate establishment of a Cr2O3-rich scale. This is the probable reason why Alloy 671 showed no visible signs of dusting damage in the present tests; it contains sufficient chromium (48%) to ensure rapid establishment of a chromia scale, even under these conditions. Nevertheless, the absence of iron from the alloy may be a possible reason for the decrease in reactivity of the alloy. The possibility of vapour evolution from the ceramic holder can be considered. Sodium-containing species may have influenced the effectiveness of the protective oxide scale and, in combination with the catalytic effect, may have
+
+12
+
+facilitated and accelerated the onset of dusting. Work is in progress to ascertain the actual role of any volatile substances in the system. For the other alloys, although some oxides were observed, carbon deposition, followed by carbon diffusion into the alloy substrate [2, 6], possibly via defect points [13], occurred. Here, it is apparent that the alloys containing up to 30% chromium, even with significant silicon or aluminium contents, were unable to develop oxide scales that were fully protective, even for the short, 100 hours exposure period. Apart from Alloy 603 XL, the main feature of the surface damage during the tests was development of a reaction zone and associated relatively shallow pits. Such zones were about 20µm thick for Alloys 601, 617 and 690 and about 10µm for Alloy 890. EPMA analyses confirmed that they contained detectable quantities of carbon, although there was little change in relative metal concentrations between the substrates and the zones. Nanoindentation tests indicated that the zones are significantly harder than the substrate [11]. Such data are consistent with Grabke's hypothesis [2, 6] that carbon diffuses into the alloy close to the surface and supersaturates the matrix. However, it has not yet been possible to determine whether or not graphitic planes break into the metal, initiating the dusting process, as proposed by Grabke. Moreover, transmission electron microscopy studies are currently being used to ascertain whether or not carbide precipitates form in the reaction zones. Following development of the reaction zone, the process of dusting involved detachment of relatively large metallic particles from the specimen surfaces, as observed for Alloys 601, 603 XL, 690 and 890 (figs. 4c, 4d and 6a). As explained by Szakalos [14], it is likely that further disintegration of the metallic particles occurred once they had become fully detached from the surface; in effect, the particles catalyzed further carbon deposition, leading to break-up of the particles and the formation of very fine metal clusters. Whisker-like precipitates were observed in the damaged areas for Alloys 601 and 890. These alloys have relatively high iron contents (16.9 and 27.4% respectively) and the precipitates appeared to have a pearlite-type structure. Such precipitates would form with a volume increase, leading to development of stresses. Further
+
+13
+
+research is needed to determine more precisely the composition of the whisker-like precipitates and their role in the dusting reaction.
+
+Conclusions
+The initiation of metal dusting of nickel-base alloys depends critically on the environmental conditions. Specimens of a range of alloys located in a porous ceramic crucible, containing various impurities, particularly Fe2O3, suffered significant damage in 100 hours exposure at 650°C, while freely suspended specimens from a quartz hanger were relatively undamaged, even after 1000 hours. The Fe2O3 impurities in the crucible, either as this phase or as reduced iron, catalyzed carbon deposition from the 20%H2 / 80%CO environment. Evolution from the crucible of a vapour phase, containing elements detrimental to the effectiveness of the protective oxide scale may also have played a role. For most alloys, the rate of establishment of a Cr2O3-rich scale was insufficient to prevent ingress of carbon to form hard, carbon-containing reaction zones at the surface of the alloys, although Alloy 671 contained sufficient chromium for a protective scale to be effective in suppressing carbon deposition. Following formation of the reaction zones in Alloys 601, 617, 690 and 890, relatively large metallic particles became detached from the specimen surfaces; thereafter, such particles disintegrated further, to form a fine dust. Alloy 603 XL, although not forming a clear reaction zone, showed detachment of large particles from the specimen surfaces and their subsequent disintegration into the carbon deposit to form a fine dust. There was some evidence for formation of whisker-like precipitates in the higher iron-containing Alloys 601 and 890; the accompanying stresses may have influenced the onset of dusting damage.
+
+Acknowledgments
+The authors are grateful to the Engineering and Physical Science Research Council for financial support and to Special Metals Wiggin Ltd, especially S. A.
+
+14
+
+McCoy, and to Synetix, especially J. A. Richardson and P. Farnell, for support, encouragement and advice. The alloys were provided by Special Metals Wiggin.
+
+References
+[1] `Microprocesses of metal dusting on Ni-base alloys', R. Schneider, E. Pippel, J. Woltersdorf, S, Strauss, H. J. Grabke, 68, 7, pp326, 332, 1997. [2] `Thermodynamics, mechanism and kinetics of metal dusting', H. J. Grabke, Materials and Corrosion, 49, pp303-308, 1998. [3] `Basic studies of metal deterioration ("Metal dusting") in carbonaceous environments at elevated temperatures', R. F. Hochman, Proceedings of the 4th International Congress on Metallic Corrosion, 1969, NACE, Amsterdam, The Nederland, pp258-263, 1972. [4] `Metal dusting', J. C. Nava, H. J. Grabke, Oxidation Of Metals, 39, 5/6, pp437-457, 1993. [5] `Metal dusting of low alloy steels', H. J. Grabke, C. B. Brancho-Troconis, E. M. Müller-Lorenz, Werkstoffe Und Korrosion, 45, pp215-221, 1994. [6] `Metal dusting of nickel-base alloys', H. J. Grabke, R. Krajak, E. M. MüllerLorenz, S. Strauß, Materials and Corrosion, 47, pp495-504, 1996. [7] `Orientation dependence of metal dusting nanoprocesses on nickel single crystals', Q. Wei, E. Pippel, J. Woltersdorf, S. Strauß, H. J. Grabke, Materials and Corrosion, 51, pp652-656, 2000. [8] `Selection of Nickel-base alloys for metal dusting resistance', B.A. Baker, G. D. Smith, S. A. McCoy, Proceedings of The 46th Annual Safety in Ammonia Plants and Related Facilities Symposium, paper n.4F, Montreal, Canada, 2001. [9] `Nickel-base materials solutions to metal dusting problems', B.A. Baker, G. D. Smith, V. W. Hartmann, L. E. Shoemaker, S. A. McCoy, Proceedings of Corrosion 2002, paper 02394, NACE 2002. [10] `Effect of cold work on the oxidation behaviour and carburisation resistance of Alloy 800', S. Leistikow, I. Wolf, H. J. Grabke, Werkstoffe Und Korrosion, 38, pp556-562, 1987.
+
+15
+
+[11]
+
+`Study of the metal dusting behaviour of high temperature alloys', F.
+
+Di Gabriele, J. R. Bernstein, M. Al-Qhatani, Z. Liu, M. P. Jordan, J. A. Richardson, F. H. Stott, Materials and Corrosion, in press. [12] `The effect of carbon and oxygen on the metal dusting of nickel-base alloys in carbon monoxide-rich gas at high temperature', F. H. Stott, F. Di Gabriele, J. R. Bernstein, Z. Liu, Proceedings of COM 2003: 2nd International Symposium on Environmental Degradation of Materials and Corrosion Control in Metals, Metallurgical Society of Canadian Institute of Mining, Metallurgy and Petroleum, in press. [13] `The role of carbon on the growth and adhesion of oxide scales', H. J. Grabke, Proceedings of the European Colloquium, Petten, The Nederland, pp299-314, 1988. [14] `An active corrosion mechanism for metal dusting on 304L stainless steel', P. Szakalos, R. Pettersson, S. Hertzman, Corrosion Science, 44, pp2253-2270, 2002.
+
+16
+

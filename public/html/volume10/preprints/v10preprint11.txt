@@ -1,0 +1,174 @@
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+Corrosion Inhibition in Paper and Pulp Industry by Some Organic Compounds. M.A. Quaraishia* B.Lalb and Vakil Singhb
+a: Corrosion Research Laboratory, Department of Applied Chemistry, b: Department of Metallurgical Engineering Institute of Technology, Banaras Hindu University, Varanasi-221 005.
+
+Abstract Paper industries in India face serious problems due to corrosion of structural components and their high cost of replacement and maintenance. Amongst the wide spectrum of preventive measures available, addition of inhibitors is considered to be a reliable and cost effective means for dealing with corrosion problems. The present investigation aims at evaluation of a few organic compounds, namely lauric hydrazide, undecenoic hydrazide, aniline and para anisidine on corrosion behavior of mild steel in simulated corrosive environment, encountered in paper industries, using weight loss and potentiodynamic methods. Key words: Corrosion inhibitor; potentiodynamic polarization; mild steel; paper and pulp industry; inhibitor efficiency.
+
+* Corresponding author Tel: 091-0542-2316527 E-mail: maquraishi@rediffmail.com
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+Introduction Paper is an important material in economic development of a country and its demand is continuously increasing day by day. Corrosion poses serious problem in the paper industry especially in the digester, bleaching and paper machine sections. A variety of stainless steels are being used to control corrosion problems in these sections of the paper industry, however, they suffer from pitting and crevice corrosion. Numerous investigators have worked on control of corrosion in the different sections of the paper industry. The properties of various polymorphic materials, polyvinyl chloride, natural and synthetic rubbers, polyester, epoxides and composites, used in paper industry to handle bleach plant chemicals like chlorine, alkali, hypochlorite, have been studied by Trivedi [1]. Muller [2] pointed out the influence of chloride ion concentration on pitting and suggested that corrosion might be reduced by increasing the pH above 3 and also proposed use of alternative materials such as titanium and fiberglass for cathodic protection. Studies by Garner [3] indicate that recycling of filtrates can cumulate corrosion problems. Garner [4] evaluated a number of bleaching plant material by exposing the section of pipe in a D1 washer seal tank. While the Haste alloy G30 experienced a significant attack the Haste alloys C-22, C276 and Inconel 625 did not show any localized attack. Bennet [5] has evaluated the localized corrosion behavior of 316L stainless steel in chlorine dioxide bleach stage washer environment with peroxide additions by potentiodynamic anodic polarization technique. Several investigators have shown that presence of thiosulphate ions enhances the corrosiveness of the environment and thereby causes severe damage to materials [6-8]. Among the available methods for control of corrosion, the use of inhibitors is one of the most reliable and cost effective methods of corrosion control. The present work was under taken to study the influence of a few organic compounds, namely, lauric hydrazide, undecenoic hydrazide, and aniline and para anisidine on corrosion behavior of mild steel in simulated corrosive environments encountered in paper industry. Experimental The efficiency of the inhibitors was evaluated in simulated corrosive environments of different sections of the paper industry. The compositions of the simulated corrosive
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+environments encountered in the different sections of the paper industries are given Table 1. Table 1 Simulated composition of the corrosive environments in different sections. S.N. 1 2 3 Section White Water Bleaching Water Washer NaCl 1000 ppm 1000 ppm 5500 ppm Na2SO4 1000 ppm 50 ppm 50 ppm Na2S2O3 50 ppm NaOCl 5000 ppm pH 3.5 8.5 1.8
+
+Weight loss experiments were carried out as per the standard method using mild steel strips of 2.5 x 2 x 0.25 cm and exposing the specimens for 3 days. The temperature of the corrosive medias was maintained at 550C in all the cases. Weight of the sample following corrosion, was measured precisely using an electronic balance of high sensitivity. Mild steel strips coated with lacquer, leaving an area of exposure of 1 cm2, were used for potentiodynamic polarization studies. Potentiodynamic polarization studies were carried out using EG & G PARC potentiostat (model 173), universal programmer (model 175) and x-y recorder (model RE0089). Platinum foil was used as an auxiliary electrode, and a saturated calomel was used as a reference electrode. The molecular structures of the inhibitors used in the present investigation are given in Table 2. Table 2 Molecular structures of the different inhibitors used. Structure Designation and abbreviation Lauric Hydrazide (LH)
+
+Undecenoic Hydrazide (UDH) Aniline (ANI)
+
+para-anisidine (PANI)
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+Results and Discussion Weight Loss Studies The present study deals with the assessment of corrosion inhibition efficiencies of aniline, para anisidine, lauric hydrazide and undecenoic hydrazide for mild steel in different corrosive environments encountered in paper industries, viz., white water, bleaching section and washer section. Tables 3-5 summarize the results of weight loss studies. Figure 1 & 2 show variation of inhibitor efficiency (IE) with concentration of the four different inhibitors in bleaching water and white water, respectively. It is evident from Figure 1 that efficiency of the inhibitor LH is highest and is followed in decreasing order by those of PAN, UDH and ANI over the entire range of the concentration except at the lowest ones ( 300 ppm), in the bleaching water. Further, the efficiency of the inhibitors LH and PANI is much higher even at the lower concentrations of  300 ppm. The efficiency of the inhibitor PANI is 80% at 200 ppm and increases marginally with increase in concentration and reaches to 82.3 % at 500 ppm. On the other hand, the efficiency of the inhibitors is quite different in the white water. The efficiency of PANI is highest at the lowest concentration of 200 ppm and remains highest even up to the concentration of 400 ppm. This behaviour is almost opposite to that seen in the bleaching water. The efficiency of PANI increases marginally at the highest concentration of 500 ppm. The efficiency of LH is lowest at the lower concentrations ( 300 ppm) but increases rapidly at higher concentrations and reaches to the highest value amongst the all, at 500 ppm. Intermediate type of behavior is exhibited by the other two inhibitors (UDH & ANI). The variation of IE and PANI in white water is similar to that in the bleaching water. However, the level of its efficiency curve is higher in bleaching water than that in the white water.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+90 85 80 IE (%) 75 70 65 60 55 150
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+LH UDH ANI PAN
+
+250
+
+350
+
+450
+
+550
+
+In h ib ito r c o n c e n tr a tio n ( p p m )
+
+Figure 1 Variation of inhibitor efficiency with concentration of inhibitors in bleaching water.
+
+90 85 80 75 I.E. % 70 65 60 55 50 45 150 250 350 450 550 Inhibitor concentration (ppm) LH UDH ANI PANI
+
+Figure 2 Variation of inhibitor efficiency with concentration of inhibitors in white water. Table 3 Weight loss behaviour of mild steel in bleaching water Inhibitor Nil LH Concentration (ppm) 200 300 400 500 Weight loss (mg) 30.6 7.2 5.8 4.9 3.9 I.E.(%) 76.4 81.0 83.9 87.2 Corrosion rate (mpy) 18.9 4.4 3.5 3.0 2.4
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+UDH
+
+200 300 400 500 200 300 400 500 200 300 400 500
+
+11.0 9.9 7.4 7.2 12.6 11.2 10.4 8.9 6.1 5.8 5.3 5.2
+
+64.0 67.6 75.8 76.4 58.8 63.3 66.0 70.9 80.0 81.0 82.6 82.3
+
+6.8 6.1 4.5 4.4 7.7 6.9 6.4 5.6 3.7 3.5 3.2 3.1
+
+ANI
+
+PANI
+
+Table 4 Weight loss behaviour of mild steel in white water Inhibitor Nil LH Concentration (ppm) 200 300 400 500 200 300 400 500 200 300 400 500 200 300 400 500 Weight loss (mg) 51.2 27.4 26.7 17.2 7.7 17.5 16.4 15.4 10.8 26.2 21.8 19.7 14.2 14.1 14.1 14.1 13.3 I.E. (%) 46.4 47.8 66.4 84.9 65.8 67.9 69.9 78.9 48.8 57.4 61.5 72.2 72.4 72.4 72.4 74.6 Corrosion rate (mpy) 31.6 19.6 16.5 10.6 4.7 10.8 10.1 9.5 6.6 16.2 13.4 12.1 8.7 8.7 8.7 8.7 8.27
+
+UDH
+
+ANI
+
+PANI
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+Table 5 Weight loss behaviour of mild steel in washer stage water Inhibitor Nil LH PANI Concentration (ppm) 500 500 Weight loss (mg) 58.4 7.7 24.9 I.E.(%) 86.6 57.3 Corrosion rate (mpy) 36.1 4.7 15.4
+
+It may be seen from Table 5 that in the washer stage water the efficiency of the inhibitor LH at 500 ppm is almost 50% higher than that of the inhibitor. It is seen that the corrosivity is maximum (corrosion rate 36.1) in washer stage water while the corrosion rate in white water and bleaching water section was 31.6 mpy and 18.9 mpy, respectively. The more corrosivity in washer stage water and bleaching water section is due to high salt concentration and low pH. Corrosion rate is comparatively less in bleaching environment. Potentiodynamic Polarization Studies
+
+Potential (mV)
+
+Current density (mA cm-2)
+Figure 3 Potentiodynamic polarization curves for corrosion of mild steel in simulated bleaching water containing 500 ppm of inhibitors. 1. No inhibitor, 2. UDH, 3. ANI, 4. PANI, 5. LH.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+Potential (mV)
+
+Current density (mA cm-2)
+Figure 4 Potentiodynamic polarization parameter for corrosion of mild steel in simulated white water containing 500 ppm of inhibitors. 1. No inhibitor, 2. ANI, 3. PANI, 4. UDH, 5.LH. Figure 3-4 show polarization behavior of mild steel in bleaching and white water without inhibitor and with different inhibitors. The values of the various electrochemical parameters are given in Table 6, 7 and 8. Table 6 Potentiodynamic polarization parameters for corrosion of mild steel in simulated bleaching water containing 500 ppm of inhibitors Inhibitor Nil UDH ANI UDH LH Ecorr (mV) -434 -404 -376 -390 -384 Icorr (µAcm-2) 50 4.5 2.5 25 7 I.E.(%) 91.0 95.0 83.3 95.3
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+Table 7 Potentiodynamic polarization parameters for corrosion of mild steel in simulated white water containing 500 ppm of inhibitors Inhibitor Nil ANI PANI UDH LH Ecorr (mV) -410 -424 -382 -390 -384 Icorr (µAcm-2) 150 50 40 25 7 I.E.(%) 66.6 73.3 83.3 95.3
+
+Table 8 Potentiodynamic polarization parameters for corrosion of mild steel in simulated washer stage water containing 500 ppm of inhibitors Inhibitor Nil PANI LH Ecorr (mV) -512 -520 -550 Icorr (Acm-2) 150 20 10 I.E.(%) 83.6 93.3
+
+It may be seen from Table 6 that in the bleaching water environment that all the inhibitor compounds have inhibited corrosion efficiency and all the compound have inhibited corrosion predominantly under anodic control. The corrosion inhibition efficiencies were excellent and 90 %. In white water environment lauric hydrazide showed maximum corrosion inhibition efficiency of 95.3% while inhibition efficiencies of other compounds were more or less in agreement with the results of weight loss studies. lauric hydrazide and para anisidine acted predominately as anodic inhibitor while aniline and undecenoic hydrazide acted as more or less as mixed inhibitor. In washer stage water lauric hydrazide exhibit 93.3% corrosion inhibition efficiency while para anisidine has shown corrosion inhibition efficiency of only 46%. lauric hydrazide has acted predominately as cathodic inhibitor. Corrosion of mild steel in acidic media such as simulated white water and washer section takes place as a result of two partial reactions while occur simultaneously at electrode surfaces.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+Anodic Fe Cathodic 2H+ + 2e-  H2 The proposed mechanism for the corrosion of mild steel in acidic media containing the inhibitors Lauric hydrazide (LH), Undecenoic acid (UDH), Aniline (ANI) and para-anisidine (PANI) can be explained on the basis of adsorption of inhibitors on electrode surfaces. In acidic media the protonated positive part of inhibitor is adsorbed on the surface of cathode and the negative part or the end having greater electron density i.e. benzene ring of the molecule of inhibitor is adsorbed on the surface of the anode and lead to decrease of cathodic and anodic reactions, respectively. Corrosion in basic media in presence of the inhibitors may also follow more or less similar mechanistic paths.  Fe++ + 2e-
+
+Conclusions Following conclusions are drawn from the present investigation: 1. The corrosivity of the washer stage for mild steel was maximum followed by those of white water and bleaching section. 2. In the bleaching section the corrosion inhibition efficiency, evaluated through weight loss study, was maximum for LH (87.2) and was followed in decreasing order by those of PANI (82.3), UDH (76.4) and ANI (70.9). 3. In the white water environment the corrosion inhibition efficiency, evaluated through weight loss study, was highest for lauric hydrazide (84.9) and decreases progressively for undecenoic hydrazide (78.9), para anisidine (74.6) and aniline (72.2). 4. In washer stage lauric hydrazide exhibited corrosion inhibition efficiency of 86.9% while para anisidine showed 57.3%, at concentration of 500 ppm. 5. Overall performance of LH as corrosion inhibitor was found to be best among all the corrosive environments encountered in pulp paper industry. Further, its effectiveness is quite high even at lowest concentration of 200 ppm.
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+
+ISSN 1466-8858
+
+Volume 10 Preprint 11
+
+14 September 2006
+
+References 1. Trivedi, M.K., IPPTA., 3, 24 (1991). 2. Muller, W.A., Trend (PPRIC)., 14, 9, (1969). 3. Garner, A., "Maintenance Conference Proceeding", TAPPI Press, Atlanta., 95. (1984) 4. Garner, A., Corrosion Protection of Bleach Plant Washer by electrochemical Potentional Control, TAPPI Press, 64, 1, (1981). 5. Bennet, D.C., Corrosion, 40, 1, (1984). 6. Garner, A., Corrosion, 41, 587, (1985). 7. Marger, I.J., Tappi Journal, 76, 167, (1992). 8. Newman, R.C., Corrosion, 41, 450, (1985).
+
+© University of Manchester and the authors 2006. This is a preprint of a paper that has been submitted for publication in the Journal of Corrosion Science and Engineering. It will be reviewed and, subject to the reviewers' comments, be published online at http://www.jcse.org in due course. Until such time as it has been fully published it should not normally be referenced in published work.
+

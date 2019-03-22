@@ -1,0 +1,217 @@
+Novel Cathodic Protection of Subsea Flowlines and Risers
+Grant Gibson a, Michael Walsh a, and Stephen Wolfson b
+a
+
+GIBSON APPLIED TECHNOLOGY AND ENGINEERING, LLC 5292 Memorial Dr., Suite B4 Houston, Tx. 77007 Phone: 800-256-7216 Email: gtgibson@gatellc.com
+b
+
+SHELL INTERNATIONAL EXPLORATION AND PRODUCTION, INC. 200 N. Dairy Ashford, Room 2384, Houston, Tx. 77079 Phone: 281-544-3074 Email: stephen.wolfson@shell.com Abstract
+
+A method for modeling cathodic protection potential attenuation on flowlines and risers is presented. The model takes into account anode, coating, polarization, and metallic path resistances, neglects the abrupt near anode potential shift. The method is unique in that is not limited to multiple equally spaced identical resistive spherical galvanic anodes, and can address the following situations: Ø Zero resistive source to a zero resistive source at two different potentials Ø Zero resistive source to a non-zero resistive source Ø Non-zero resistive source to a non-zero resistive source where the resistances are not identical The results are compared to those of a first-principles based potential attenuation equation 4,5,6 that takes into account the near anode potential shift and it is concluded that the two models are in agreement. Keywords : cathodic protection, flowline, attenuation, design, seawater, deepwater, galvanic anode Introduction Deepwater oil and gas production offers unique technical challenges which are not commonly found in shallow or warm water. Temperatures found in deepwater, defined as depths greater than 300 meters, are typically near 5°C. Excessive cooling of the produced fluids, once they reach the deepwater environment above the seabed, can result in the deposition of solids such as hydrates and paraffin within the flowline. Deposition of solids in the flowline can result in increased pressure drop through the flowline, blockage or excess pigging requirements. Pipeline design addresses these temperature concerns by using insulation coatings, which are used to keep the produced fluids above the hydrate dissociation and wax deposition temperature during steady-state operation. In addition, thermal insulation allows for a reaction time after a shut-down. Two flowline insulation strategies are commonly used today. The first is a pipe-in-pipe (PIP) system of two concentric pipes with an insulation material in the annulus. The internal pipe is the carrier of the produced fluids and the outer pipe protects the insulation and annulus from water ingress which would reduce or eliminate the thermal insulating properties. A PIP system is utilized when the required thermal properties of the insulation cannot be met by single insulated pipe (SIP), as discussed below. The advanced thermal properties of the PIP system are a factor of the air trapped in the foam and the annulus and also the conduction matrix of the foam. Due to the high hydrostatic pressure of the seawater as experienced in deepwater, the insulation requires the protection of the outer pipe. The outer pipe external corrosion control strategy is typically a fusion-bonded epoxy (FBE) coating in conjunction with cathodic protection (CP). The cathodic protection design for the outer pipe of a PIP system is common practice and follows industry standards1 concerning coating breakdown factors, anode spacing, current density, etc., and because of this will not be discussed further.
+
+The second insulation strategy is a singly insulated pipe (SIP). The insulation coating typically consists of a corrosion coating (FBE) followed by a transition tie-coat and the thermal insulation. The thermal insulation is then sheathed in a polypropylene coating to provide strength during handling and storage. Generally the maximum practical limit for insulation thickness is 0.1m. External corrosion control is accomplished via the FBE coating and CP. However CP of SIP requires special consideration. First, the insulation coating is considered to be 100% holiday free, due to the number, thickness and density of the coatings in the system, and does not have a breakdown factor over the design life. The only areas requiring protection are the field joints where the pipes must be welded. The field joint process can take place either onshore or offshore and under ideal circumstances the field joint coating should replace the coating system that was removed. There are many variations of the field joint system, however, they commonly employ a field applied FBE coating with an infill of insulation material. Installation of traditional bracelet anodes is undesired on insulated flowlines since the insulation integrity may be affected at the locations where it is removed and repaired for anode bonding cable attachments. Thus, the cathodic protection of the field joints must come from either end of the flowline. This type of novel cathodic protection has been used successfully on deepwater flowlines in excess of 10 miles in lengths. This is possible since the extremely thick thermal insulation coating is "holiday free" with cathodic protection only required at the field applied weld joint coating areas. Additionally, the very thick pipe wall (typically > 19mm) associated with high pressure flowlines provides for very little cathodic protection attenuation. The novel cathodic protection has also found use in sections of pipelines where vortex-induced-vibration (VIV) devices would not physically allow the installation of bracelet anodes and optimizing retrofit of cathodic protection along an existing pipeline. The present paper presents the development of a CP attenuation model and application of the model to evaluate this type of novel pipeline CP design basis. Background The objective of this study was to develop an engineering cathodic protection modeling tool that can predict the potential attenuation along a flowline/riser and current required to protect the flowline. The model had to take into account the IR drop surrounding the sacrificial anodes providing the protection. The model had to be able to address three separate cases experienced in flowline and riser design: Case 1: Zero resistive source to a zero resistive source at two different potentials, such as a jacket structure to a jacket structure Case 2: Zero resistive source to a non-zero resistive source, such as a jacket structure to a pipeline end manifold (PLEM) Case 3: Non-zero resistive source to a non-zero resistive source where the resistances are not identical, such as PLEM to PLEM A zero resistive source is defined as a structure with negligible total anode resistance to earth and will not polarize when delivering CP current to the flowline. A jacket or floating structure is considered a zero resistive source due to the large number of anodes electrically coupled in parallel, and the amount of anode material available. A non-zero resistive source is defined as an anode array which has a non-negligible resistance to earth, such as bracelet anodes on a pipeline or a PLEM with a small array of anodes. The first analytical analysis of pipeline CP attenuation was given by Morgan2 and then expanded upon by Uhlig and Revies3. Although the Morgan and Uhlig models addressed the metallic resistance of the flowline, they did not take into account the electrolyte IR drop surrounding the galvanic anode array providing the CP. Hartt et al4,56 developed a first principles based equation for potential attenuation along a pipeline/flowline or riser that considered both the electrolyte resistance and the metallic path resistance. Hartt compared his finite difference method (FDM) model to a boundary element model (BEM) and the Uhlig Model. The BEM model addresses the electrolyte resistance of the anode, but does not take into account the metallic
+
+resistance of the flowline. The Uhlig model does not take into account the electrolyte resistance, but the FDM model reduces to the Uhlig model when the electrolyte anode resistance reduces to zero. Hartt et al4 showed that at short anode separation distances (<1km), the metallic resistance of the flowline was negligible and the electrolyte resistance was constant for distances greater than approximately 10m. The attenuation modeling results indicated that the potential within the vicinity of the anode (first few meters) changed very abruptly due to the electrolyte IR drop and that beyond 10m the potential did not change much due to the negligible pipe resistance. For distances greater than 1km, the potential within the vicinity of the anode (first few meters) changed very abruptly, however beyond the first 10m the BEM method did not show attenuation along the flowline as opposed to the FDM which takes into account the metallic flowline resistance. Thus, the Hartt model provides an improvement over both the Uhlig Model as it takes into account the electrolyte resistance of the anodes and the BEM model because it takes into account of the flowline metallic resistance. The limitation of the Hartt model is that it is based on multiple equally spaced identical anode resistances. This is not usually the case in deepwater cathodic protection design where anodes may be unequally spaced and the anode resistances are not identical, such as Case (3) described above. In addition, the Hartt model does not address a flowline receiving protection from two zero resistive sources differing in potential nor a zero resistive source to a non-resistive source ­ Case (1) and Case (2) respectively. Another limitation of the Hartt model is that no consideration is given to the fact that the anodes that are used to protect the flowline are also required to protect the structure where they are located. This is very important for the non-zero resistive sources where the current to protect the structure (such as a PLEM) will increase the electrolyte IR drop surrounding the anodes. Table 1 summarizes the issues required to be addressed by a comprehensive attenuation model and respective limitations of the existing models. The table also lists the requirements needed by the proposed model. Table 1. Summary of modeling concerns and applicability by the Uhlig, Hartt, and proposed model. Issue Concerning CP Model Uhlig Hartt Proposed Metallic resistance of flowline/riser Yes Yes Yes Anode Resistance and IR drop in Seawater No Yes Yes Non-Equally Spaced Anodes along Pipeline No No Yes Current to Protect Structure where anodes are located No No Yes Near Anode Abrupt Potential Change No Yes Neglected Non-identical Anodes with different resistances No No Yes Development of Model The proposed model is based on the attenuation equation derived by Uhlig3. It is assumed that the Uhlig model accurately predicts attenuation along the flowline and that coating damage along the length of the flowline is uniform. It also assumes that the change in polarization is linearly proportional to the current density. The potential attenuation along a cathodically protected flowline is based on Uhlig's Equation 3:
+
+ L  E ( x ) = MPP  cosh  B   x -  + E corr 2  
+where
+
+Equation 1
+
+MPP = the mid-point polarization L = the length of the flowline between anodes or drain points Ecorr = Free corrosion potential of steel (typically ­630mV vs. AgCl seawater) B = the "pipeline attenuation constant"
+
+B is given by:
+
+B=
+where
+
+  d  RL  %b P
+
+Equation 2
+
+d = outer diameter of the flowline RL = linear Ohmic resistance of the flowline %b = surface area of damaged coating divided by total surface area to be protected. P = polarization resistance i.e. ratio of cathode polarization and cathode current density
+
+Hartt et al5 has expressed the inverse ratio of %b to P as . The utility of the ratio is that neither %b or P are truly known and design codes tend to be very conservative. The  term contains the current density, coating quality, and polarization resistance and can be measured in service. Thus, historical in-service measurements can be used to refine the inputs. The current at, I(x), can be given by:
+
+I ( x) =
+
+ MPP  B L   sinh  B   x -   RL 2  
+
+Equation 3
+
+Development of Case 1 Model Case 1 involves a flowline that is connected between two structures that have different CP potentials, the total resistance of the anodes on the structure is negligible, and the structure will not polarize when delivering current to the flowline. Solving Case 1 forms a basis for solving the Case 2 and 3 scenarios. The model uses the Uhlig model as a base case, but another factor is added to mathematically force fit a solution. Consider the scenario where a flowline is attached to a jacket structure of potential E1 and another jacket structure of potential E2. The flowline length between the jackets is L. The approach to solving this problem is to introduce a "length factor" to solve the Uhlig equation for a set of boundary conditions. The reasoning is to "stretch" the Uhlig equation until it fits through E2 at length L. The Uhlig model can be re-written as follows:
+
+   L  E ( x ) = MPP  cosh  B   x -  + Ecorr 2   
+
+Equation 4
+
+where  is the length factor. The solution to the problem is graphically shown in Figure 1. At x =0, the potential of the flowline is E1 and at x = L the flowline is at potential E2. If the Uhlig model is "stretched" past x =L by a factor of L, the potential will equal E2 at x=L. If the potentials at the ends of the flowline are known, then given other parameters,  can be solved for and the potential attenuation along the flowline can be calculated. To solve Equation 4 for , the following boundary conditions are used: Boundary Condition 1: At x=0, E(0)=E1, thus
+
+    L  E1 = MPP  cosh  B    + Ecorr   2 
+
+E1
+
+Stretch
+
+E2 MPP
+
+Ecorr 0 Distance Along Flowline, x L
+
+L
+
+Figure 1. Graph depicting Case 1 where flowline is connected to two zero resistive sources.
+
+Boundary Condition 2: At x=L, E(L)=E2, thus
+
+   L  E 2 = MPP  cosh  B   L -  + Ecorr 2   
+
+If Ecorr is subtracted from both sides of each equation and E1 is divided by E2, then MPP is removed and the following equation can be used to solve for :
+
+E1 - E corr E 2 - Ecorr
+
+   L  cosh  B   L -  2    =    L  cosh  B   L -  2   
+
+Equation 5
+
+MPP can then be calculated by the following:
+
+MPP =
+
+E1 - Ecorr    L cosh  B  2 
+
+Equation 6
+
+Thus, given the potentials at the end of the flowlines, the estimated corrosion potential, length of the flowline and criteria used to calculate B, the mid-point potential of the flowline can be calculated as well as its potential attenuation profile. By introducing  into Equation 3, the current required of each source can also be calculated.
+
+Case 1 Example Suppose a flowline with the design criteria listed in Table 2 may require cathodic protection from jacket structures located on each end of the flowline. Traditional bracelet anodes may not be applicable because the product temperature may be too high or there is a SIP insulation coating. Table 2. Design criteria for Case 1 flowline example. Design Criteria Design Value Design Life 20 years Length 5,000 m Coating Breakdown Factor 3% 25.4cm OD Pipe OD and Wall Thickness 1.27 cm WT E1 = -1011mV Source Potentials E2 = -950mV Current Capacity 1950 A hr/kg Anode Utilization Factor 0.90 Corrosion Potential, Ecorr -630mV Polarization Resistance 13.5 ohm-m2 Assuming steady state, the polarization resistance is estimated by the change in potential of the cathode due to the application of cathodic protection current density. For the purposes of this exercise, assume the steel has a corrosion potential of ­630mV AgCl and upon application of 20 mA/m2 the steel polarizes to ­ 800mV AgCl. The polarisation resistance is then 270mV/20mA/m2 which is 13.5 ohm-m2. Thus,  is equal to 450 ohm-m2. The cathodic protection potential profile is shown in Figure 2 with a calculated length factor of 1.42. The mid-point potential is ­938mV AgCl and occurs 1450 m from jacket E2. The current required for protection from E1 is 2.26 amps and 0.87 amps from E2. This translates into 225-kg and 87-kg of anode material from E1 and E2 respectively to protect the flowline for the life of the structure.
+
+Cathodic Protection Potential (-Volts vs. AgCl)
+
+1.050 E1 1.000 0.950 0.900 0.850 0.800 0.750 0.700 0.650 0 500 1000 1500 2000 2500 3000 3500 4000 4500 5000 Distance Along Flowline (m) Minimum Protection Level Mid-Point Potential E2
+
+Figure 2. Cathodic protection potential attenuation for Case 1 example.
+
+Development of Case 2 Model Case 2 involves a flowline that is connected between two structures in which one structure has zero resistance and the other does not. The Case 2 scenario may be encountered when designing a CP system for a riser where it is connected to a floating structure and has bracelet type anodes positioned in the touchdown region. The floating structure is typically uncoated and protected via a large number of anodes and thus the structure is considered a zero resistive source. It is assumed that the structure will not polarize due to the current required by the riser. Thus, the potential of the structure can be measured and that potential can be used for modeling purposes. The anodes in the touchdown region are typically several bracelet type anodes and are considered to be silted over. Because the surface area of the bracelet anodes are limited and they are silted over, they are considered as having a non-negligible resistance. It is assumed that the anodes delivering the current remain at a constant potential and do not polarize. The potential within the vicinity of the anodes (first few meters) will change very abruptly due to the electrolyte IR drop and that beyond 10m the potential change due to IR drop is negligible. The current pickup by the riser within the first 10m will be negligible compared to the current pickup over the whole riser. For development of the proposed model, the near anode potential change and near anode current pickup by the riser has been neglected. This was done by assuming that the anodes are remote from the pipeline and the potential at the drain point (EDP) is given by:
+
+E DP = E a - I a  Ra
+where
+
+Equation 7
+
+Ea = Potential of Anode Ia = current being delivered by the anodes at the drain point Ra = resistance of the anode array
+
+Ra can be calculated and Ea is considered constant. However, Ia depends on the level of polarization of the riser, the potential of the zero resistive source, physical size of the riser, and the quality of the coating on the riser. The solution to the problem was to use Equation 3 and 4 (with length factor) as a basis introduced
+
+in Case 1. The following constraints were imposed on the solution to the problem. First, the potential at the drain point must be equal to the potential of the anode minus the IR voltage drop in the seawater due the anode passing current. Second, the current calculated at the drain point of the anode must be equal to the current being delivered by the anode.
+
+Ea
+E1
+
+I a  Ra
+
+EDP
+MPP
+
+Ecorr 0 Distance Along Flowline, x L
+
+L
+
+Figure 3. Graph depicting Case 2 where riser is connected to a zero re istive source and a non-zero resistive source.
+
+The following boundary conditions were used to produce 3 equations and 3 unknowns:
+
+Boundary Condition 1: At x=0, E(0)=E1, thus
+
+    L  E1 = MPP  cosh  B    + Ecorr   2      L  Ea - I a  Ra = MPP  cosh  B     + Ecorr   2  Ia =  MPP  B   L   sinh  B   L -  RL 2   
+
+Boundary Condition 2: At x=L, E(L)=EDP, thus
+
+Boundary Condition 3: At x=L, Ia = I(L), thus
+
+The three unknowns from boundary conditions 1,2, and 3 are MPP, Ia, and . A mathematical algorithm was written in MathCadTM to solve the above equations. Thus, given the potential of the zero resistive source, the anode potential, the estimated corrosion potential, length of the flowline and criteria used to calculate B, the mid-point potential of the riser can be calculated along with its potential attenuation profile. The current required of each source can also be calculated. Case 2 Example A flowline with the design criteria listed in Table 3 may require cathodic protection from a floating structure at potential ­980mV AgCl and an array of bracelet anodes installed end-to-end with an effective resistance of 0.1 ohms. As in Case 1, the polarization resistance is estimated by the change in potential of the cathode due to the application of cathodic protection current density.
+
+Table 3. Design criteria for Case 2 flowline example. Design Criteria Design Value Design Life 20 years Length 5,000 m Coating Breakdown Factor 3% 25.4cm OD Pipe OD and Wall Thickness 1.27 cm WT Zero Resistive Source E1 = -980mV Potential Anode Potential Ea = -1050mV Anode Array Resistance Ra = 0.10 ohms Current Capacity 1950 A hr/kg Anode Utilization Factor 0.90 Corrosion Potential, Ecorr -630mV Polarization Resistance 13.5 ohm-m2 The cathodic protection potential profile is shown in Figure 4 with a calculated length factor of 1.263. The mid-point potential is ­0.925mV AgCl and occurs 3177 m from E1. The current required for protection from E1 is 1.9 amps and 1.07 amps from the sacrificial anodes. This translates into 190-kg and 107-kg of anode material from E1 and E2 respectively to protect the flowline for the life of the structure. The IR drop predicted by the model is 1.07 amps times 0.1 ohms which translates into a drain point potential of -943mV AgCl.
+
+Cathodic Protection Potential (-Volts vs. AgCl)
+
+1.050 1.000 0.950 0.900 0.850 Minimum Protection Level 0.800 0.750 0.700 0.650 0 1000 2000 3000 4000 5000 Distance Along Flowline (m) E 1 Mid Point Potential Drain Point Potential
+
+I a  Ra
+
+Figure 4. Cathodic protection potential attenuation for Case 2 example.
+
+Development of Case 3 Model Case 3 involves a flowline that is connected between two resistive sources. The Case 3 scenario may be encountered when designing a CP system for a flowline where it is connected to a PLEM at each end. The anodes on the PLEM are required to protect the entire length of the flowline. It is assumed that the anodes delivering the current remain at a constant potential and do not polarize. The potential within the vicinity of the anodes (first few meters) will change very abruptly due to the electrolyte IR drop and that beyond 10m the potential change due to electrolyte IR drop is negligible. The current pickup by the flowline within the first 10m will be negligible compared to the current pickup over the whole flowline. For development of the proposed model, the near anode potential change and near anode current pickup by the flowline has been neglected. This was done by assuming that the anodes are remote from the flowline and the potential at the drain point of each end is given by Equation 7. Figure 5 gives a graphically representation of Case 3.
+
+Ea
+E1
+
+Ia,1Ra,1 Ia,2Ra,2
+
+E2
+MPP
+
+Ecorr 0 Distance Along Flowline, x L
+
+L
+
+Figure 5. Graph depicting Case 3 where both ends of the flowline is connected to a non-zero resistive source.
+
+The following boundary conditions were used to produce 4 equations and 4 unknowns: Boundary Condition 1: At x=0, E(0)=E1, thus
+
+    L  E a - I a ,1  Ra ,1 = MPP  cosh  B    + E corr   2 
+Boundary Condition 2: At x=L, E(L)=E2, thus
+
+   L  E a - I a , 2  Ra, 2 = MPP  cosh  B   L -  + E corr 2   
+Boundary Condition 3: At x=0, Ia = I(0), thus
+
+I a ,1 =
+
+MPP  B     L   sinh  B    RL   2 
+
+Boundary Condition 4: At x=L, Ia = I(L), thus
+
+I a ,2 =
+
+MPP  B    L   sinh  B   L -  RL 2   
+
+The four unknowns from boundary conditions 1,2, 3 and 4 are MPP, Ia,1, Ia,2 and . A mathematical algorithm was written in MathCadTM to solve the above equations. If the resistance of each anode sled is identical, then the length factor will be equal to 1 and the potentials on either end of the flowline will be the same, as will the required anode mass. Case 3 Example A flowline with the design criteria listed in Table 4 may require cathodic protection from a PLEM on either end of the flowline. PLEM 1 has a anode array resistance (Ra,1) of 0.05 ohms and PLEM 2 has a resistance (Ra,2) of 0.1 ohms. As in Case 1, the polarization resistance is estimated by the change in potential of the cathode due to the application of a given CP current density. Table 4. Design criteria for Case 3 flowline example. Design Criteria Design Value Design Life 20 years Length 5,000 m Coating Breakdown Factor 3% 25.4cm OD Pipe OD and Wall Thickness 1.27 cm WT Anode Potential Ea = -1050mV Anode Array Resistance, Ra,1 Ra,1 = 0.1 ohms Anode Array Resistance, Ra,2 Ra,2 = 0.20 ohms Current Capacity 1950 A hr/kg Anode Utilization Factor 0.90 Corrosion Potential, Ecorr -630mV Polarization Resistance 13.5 ohm-m2 The cathodic protection potential profile is shown in Figure 5 with a calculated length factor of 1.196. The mid-point potential is ­0.916V AgCl and occurs 3009 m from PLEM 1. The current required for protection from PLEM 1 is 1.73 amps and 1.13 amps from PLEM 2. This translates into 174-kg and 113-kg of anode material from PLEM 1 and PLEM 2 respectively to protect the flowline for the life of the structure.
+
+1.050
+Cathodic Protection Potential (-Volts vs. AgCl)
+
+1.000
+PLEM 1
+
+PLEM Mid Point Potential
+
+0.950 0.900 0.850 0.800 0.750 0.700 0.650 0 1000 2000 3000 4000 5000 Distance Along Flowline (m)
+Minimum Protection Level
+
+Figure 5. Cathodic protection potential attenuation for Case 3 example. Applications to Design The design of deepwater steel catenary risers (SCR) considers the dynamic nature of the riser from movement with the ocean currents. Critical aspects of SCR construction include the integrity of the pipe material and of the welding. The coating in the critical sections of the riser should withstand movement of the riser against the sea floor, known as the touchdown region. This region is typically 1500 to 2000 ft long and is coated with an abrasion resistant three-layer polyethylene (TLPE). Anodes are not placed in this region due to the thicker (5 to 6.35mm) coating system. This particular system is employed on a PIP riser where FBE is the principal corrosion coating and TLPE is the touchdown coating. Additional anodes are placed either side of the TLPE system, however, one array of anodes is considered to be in the buried condition, whilst the other array is considered to be in seawater. Thus, the anodes on either side of the touchdown region will not have identical resistances due the difference in environment resistivity. Attenuation is carried out following the method given in Case 3. With consideration to cost and flow assurance properties some flowline systems employ a PIP flowline with SIP SCR. The reasons to maintain coating integrity have been stated previously. The potential attenuation is carried out to the method given in Case 2, due to the available CP from the host structure and the anode array placed at the base of the SIP SCR. Consideration to the extra current requirement must be taken into account when designing the host structure CP system. A SIP when utilized will generally comprise of a SCR and flowline. Attenuation is carried out to the method given in Case 2 because the SCR is attached to the host and at the opposite end the flowline is terminated at a PLEM. The PLEM itself will require substantial cathodic protection, thus the current requirement must be taken into account because it adds to the overall seawater IR drop. With the proposed model, the manifold current is taken into account by assuming it is constant and is added to the current required to protect the flowline. Thus, Equation 7 can be re-written as:
+
+E DP = E a - ( I a + I PLEM )  Ra
+
+Equation 8
+
+where IPLEM is the current required to protect the PLEM. The boundary conditions 1 and 2 in Case 2 and Case 3 can be updated to take into account the additional IR drop from the anode potential. The total anode mass required on the PLEM is then the sum of the mass to protect the PLEM and the mass required to protect the flowline and SCR. Comparison of Results The results of the Case 3 model will be compared to the recent model developed by Hartt et al6. The Hartt model is based on multiple equally spaced identical anodes. The model proposed in Case 3 must be updated to represent this scenario. In Case 3 presented above, the current was required to protect only the flowline between the two PLEMs. However, for comparison to Hartt, the current from the anodes must be doubled to account for current being delivered to either side of the anode. Effectively, this will increase the IR drop surrounding the anodes. To illustrate, the equation from Boundary Condition 1 in Case 3 will have to be changed to:
+
+    L  E a - 2  I a ,1  Ra,1 = MPP  cosh  B     + Ecorr   2 
+
+Equation 9
+
+Table 5 provides the parameters which form the basis for comparison with an anode spacing of 6,000 m and  = 100 ohm-m2. The results of the modeling are given in Table 6. The results of the modeling show agreement between the model developed by Hartt et al6 and the model proposed here. This also shows that neglecting the near anode potential change has minimal effect on midpoint potential and CP current required. This is taken as verification of the model and its application to CP design. Table 5. Model Comparison Parameters. Parameter Anode Spacing Coating Breakdown Factor Pipe OD and Wall Thickness Anode Potential Anode Array Resistance, Ra,1 Anode Array Resistance, Ra,2 Corrosion Potential, Ecorr
+
+Value 6,000 m 3% 27.1cm OD 0.75 cm WT Ea = -1050mV Ra,1 = 0.118 ohms Ra,2 = 0.118 ohms -650mV
+
+Table 6. Results of the Comparison between FDM and the Proposed CP Attenuation Model. Result FDM Proposed Mid-Point Potential (V vs. AgCl) -0.687 -0.688 Voltage drop due to Metallic 47 47 Resistance (mV) CP Current Required (amps) 2.65 2.67
+
+Conclusions 1. A method for modeling cathodic protection attenuation along flowlines and risers has been developed which is not limited to multiple equally spaced identical resistive spherical galvanic anodes. The model has been shown to have application in the following scenarios: a. Zero resistive source to a zero resistive source at two different potentials
+
+2. 3.
+
+Zero resistive source to a non-zero resistive source Non-zero resistive source to a non-zero resistive source where the resistances are not identical The model is in agreement with the FDM model developed by Hartt et al. Neglecting the abrupt near anode potential change had a negligible effect on mid-anode potential and CP current required.
+
+b. c.
+
+1. Cathodic Protection Design, DnV Recommended Practice RP401, Det Norske Veritas Industri Norge AS, 1993. 2. Morgan, J., Cathodic Protection, New York, NY, Macmillan, 1960, p. 140-143. 3. Uhlig, H.H. and Revie, R.W., Corrosion and Corrosion Control, 3rd Edition, New York, NY, John Wiley and Sons, 1985, p. 421-423. 4. Pierson, P., Bethune, K.P., Hartt, W.H., and Anathakrishnan, P., Corrosion, 56, no. 4, 2000, p. 350. 5. Bethune, K. and Hartt, W.H., Corrosion, 57, No. 1, 2001, p. 78. 6 . Lysogorski, D.K., Hartt, W.H., and Anathakrishnan, P., CORROSION 2003, San Diego, Paper No. 3077.
+

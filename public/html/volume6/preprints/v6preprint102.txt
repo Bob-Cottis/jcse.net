@@ -1,0 +1,336 @@
+Volume 6 Paper H062
+
+In situ ­ Investigation of Kinetics and Stresses in Alumina Scales on NiAl during the Phase Transformation Theta to Alpha
+N. Eisenreich, H. Fietzek, M.J. Garcia-Vargas, M. Juez-Lorenzo, V. Kolarik
+
+Fraunhofer-Institut für Chemische Technologie ICT, PO Box 1240, 76318 Pfinztal, Germany, vk@ict.fhg.de
+
+Abstract
+NiAl pure and NiAl doped with Hf were oxidised in air for 100 h at 950°C. The residual stresses and the oxide scale growth were measured in situ by high temperature X-ray diffraction and evaluated as a function of time. A mathematical model was applied to describe the alumina growth during the transformation and oxidation process. After the isothermal period the samples were cooled to room temperature, reheated to 950°C and cooled again. The residual stresses were measured every 200°C and plotted as a function of temperature. In the first 45 h for NiAl and 35 h for NiAl+Hf  -Al2O3 is observed, which transforms into  -Al2O3. In this time interval compressive stresses of -200 MPa were measured, and after the disappearance of the  -Al2O3 nearly constant tensile stresses of +500 MPa were detected. On cooling compressive stresses reaching -1500 MPa at room temperature were formed due to the different thermal expansion coefficients of the metal and the alumina. On reheating the stresses decreased again to +500 MPa as before cooling. On the second cooling again a compressive stress of -1500 MPa was found. Keywords: NiAl, Theta- to Alpha-alumina transformation, kinetic evaluation, residual stress analysis, in situ study by high temperature X-ray diffraction
+
+Introduction
+Alumina forming alloys, both Ni-based and Fe-based, are widely used materials for application at high temperatures, such as coatings for gas turbine blades in electric power generation or supports for automotive catalytic converters. Their oxidation resistance relies on the formation of thin protective oxide scales.
+
+For practically all alumina formers a critical temperature interval exists, in which the metastable  -Al2O3 is formed that on further
+
+exposure to temperature transforms into the stable  -Al2O3. This
+
+critical temperature interval is mostly found from 900 to 950°C. For achieving a well adherent and protective alumina scale on technical alumina formers  -Al2O3 shall quickly cover the surface in the initial state and grow slowly on further exposure to temperature avoiding cracking and spallation [#ref1-#ref4]. A spallation of the alumina scale however, has been often observed after exposure to 950°C. The assumption arose that the transformation of  -Al2O3 into  -Al2O3 could generate stresses in the oxide scale and play a role in the adherence properties. For a better understanding of the generation of stresses in the alumina scale and of the kinetics of the  -Al2O3 into  -Al2O3 transition in situ studies by high temperature X-ray diffraction have been performed. The laboratory alloys NiAl and NiAl+Hf have been chosen, because their oxidation behaviour was extensively studied before [#ref14] and the present research work could follow up the former results. High temperature X-ray diffraction is an efficient in situ method for the study of reaction kinetics as well as of stresses in oxide scales both during their growth as well as on cooling and heating [#ref6, #ref7].
+
+Experimental
+Specimen and Experimental Parameter The investigation was performed on  -NiAl and  -NiAl alloyed with Hf. The chemical composition of the samples is given in Tab. 1. Alloy Ni Al Hf Fe C S
+
+2
+
+NiAl NiAl+Hf
+
+68,5 65,3
+
+31,3 30,3
+
+3,9
+
+0,04 0,12
+
+0,0034 0,0095
+
+0,0006 0,0008
+
+Tab. 1 Chemical composition of the specimen in wt. %
+1000 900 800
+
+Temperature in °C
+
+700 600 500 400 300 200 100 0 0 50 100 150 200 250 300
+
+Time in h
+
+Fig. 1 Thermal cycle for the in situ analysis of residual stresses High Temperature X-Ray Diffraction The experimental set-up for the high temperature X-ray diffraction consists of an X-ray diffractometer and a high temperature device with a programmable temperature controller. Isothermal measurements and freely selectable temperature programs can be performed between room temperature and 1600°C. Series of X-ray diffraction patterns with defined time intervals or temperature steps are recorded in situ yielding the structural changes in the sample as a function of time or temperature. Phase changes, formation of new products and dilatation as well as contraction of the lattice are detected continuously during the experiment. For the residual stress measurements the X-ray diffractometer was equipped with a Göbel mirror for parallel beam geometry. The Göbel mirror, placed in the incident beam, is a parabolically bent multilayer with an appropriate gradient in the layer thickness designed to parallelize divergent X-rays [#ref5]. Using the Göbel mirror instead of a parallising the radiation with a collimator pipe avoids losses in
+
+3
+
+intensity. The parallel beam geometry with a Göbel mirror enables displacement. The measuring procedure is described in detail in [#ref6].
+
+correct angle detection despite asymmetric diffraction and sample
+
+Kinetic Evaluation For the kinetic evaluation of the oxide formation from a series of in situ X-ray diffraction patterns the intensities of the oxide peaks are determined as a function of time by a summing method. This procedure calculates the peak intensities summing the counts of each channel in the range of the peak. The background is subtracted to eliminate the influence of changing background intensity. The resulting intensity curves iz(t) for each oxide and its modification show their formation as a function of time taking into account the absorption of the X-ray beam in the growing oxide layer [#ref7]. For quantitative kinetic evaluation mathematical curves describing the physical and chemical processes are fitted to the measured curves iz(t). Residual Stress Measurement by X-Ray Diffraction The stress analysis by X-ray diffraction relies on the measurement of lattice strains  or more precisely speaking of lattice plane distances
+
+d . Due to the transverse strain the value of  depends on the angle
+between  and the applied stress  . Therefore in X-ray diffraction stress analysis the measured  changes with the tilting angle  of the sample. In a biaxial and surface-parallel stress state with rotational symmetry, which is likely in a thin oxide scale, the dependence function of the strain  to sin 2  is
+
+{   , = 1 s2 hkl } sin 2  + 2  s1{hkl } 2
+where  is the surface-parallel stress and
+
+1 {hkl }  {hkl } + 1 s2 = 2 E {hkl }
+
+and
+
+s1
+
+{ hkl }
+
+=-
+
+ {hkl }
+
+E {hkl }
+
+are the X-ray elastic constants describing reflection dependent modulus of elasticity and Poisson ratio [#ref11].
+
+4
+
+However, in X-ray stress analysis lattice plane distances are measured d - d0 and the lattice strain has to be calculated according to  = , d0 is difficult to get precise values for d 0 especially for higher where d 0 is the unstrained and d the strained lattice plane distance. It
+
+temperatures. This can be overcome in the flat stress state with rotational symmetry where  is determined by the gradient m and the intercept of the axis b of the sin 2  -diagram eliminating d 0 in the equations. A d to sin 2  -diagram is plotted, which in this case shows an equivalent linear behaviour
+
+d = m  sin 2  + b
+
+.
+
+Comparison with the  to sin 2  -dependence leads to the formula
+
+=
+
+1
+1 2
+
+{ hkl b { hkl s2 }  m - 2s1 }
+
+which was used to evaluate the measurements. The
+1 2
+
+{ hkl s2 } were calculated for the hexagonal lattice of corundum
+
+according to the Reuß-model taken from Sarioglu et al. [#ref8] using the single crystal elastic compliances of corundum given by Tefft [#ref12] from room temperature to 600°C and estimated for values { hkl above 600°C. The values of s1 } were taken from Eigenmann and Macherauch [#ref13]. The in situ stress analysis in the alumina scales was performed using the (116) reflexion as it is an acceptable compromise between sufficiently high peak intensity for allowing a fast measurement and sufficiently high 2 for tilting the sample.
+
+Results
+Isothermal phase transformation and oxidation kinetics NiAl forms at 950°C in the initial state  -Al2O3, which transforms immediately into  -Al2O3 with a maximum amount of  -Al2O3 at 18 h and its complete disappearance after 45 h. On further exposure only  -Al2O3 is formed with a significantly lower rate constant. The 5
+
+addition of Hf moves the time of maximum  -Al2O3 amount to 9 h and shortens the existence time interval of  -Al2O3 to 35 h. All in all less  -Al2O3 is formed and consequently, the oxide scale is thinner on NiAl+Hf. The oxidation behaviour is described in detail in [#ref14]. For the quantitative kinetic evaluation of the  - to  -Al2O3 transformation and the oxide scale formation the iz(t) curves of both phases were normalised to 1. The evaluation gave evidence that the observed oxidation behaviour can be described by simple chemical kinetics assuming the consecutive steps: NiAl ->  -Al2O3 ->  -Al2O3 with first order rates. Taking into account the X-ray absorption the calculated curves iz(t) take the following forms. For  -Al2O3:
+e  - P2 k iz (t , P , P2 , k , k ) = P 1 - e 1 1  
+- k t
+
+- e - k t k  - k
+
+   
+
+with k = rate constant of  -Al2O3 formation k = rate constant of
+
+ -Al2O3 formation.
+For  -Al2O3:
+ k e - k t  - P4  1+    k  - k  iz (t , P3 , P4 , k , k ) = P3 1 - e    - k e - k t k  - k     
+
+    
+
+P1 and P3 are fit parameters to normalize the curves iz(t) to 1. P2 and P4 are fit parameters that represent the X-ray absorption in the related oxide scales. For fitting calculated curves to the measured iz(t) curves the least squares fit procedure was applied to both curves simultaneously by minimizing the following function with respect to the fit parameters (N = number of x-ray patterns measured, X can be 1 or  and Y can be 2 or  , Pm = fit parameters (see above):
+
+6
+
+2( pk , pn ) = (izX,exp,j -izX,calc, (ti , pk )) + (izY,exp,j -izY,calc, (ti , pn ))
+N N i=1 i=1
+
+2
+
+2
+
+Al2O3 into  -Al2O3 transformation and simultaneous oxide scale
+
+The experimental and calculated intensity curves iz(t) showing the  formation are plotted for NiAl in Fig. 2 and for NiAl+Hf in Fig. 3. Both figures show that the assumed reaction model adequately describes the experimental curves iz(t). The reaction parameters are listed in Tab. 2.
+
+1.0
+
+0.8
+
+intensity
+
+0.6
+
+0.4
+
+0.2
+
+0.0 0 10 20 30 40 50 60 70
+
+time / h
+
+Fig. 2 Measured and calculated intensity curves iz(t) of  -Al2O3 and
+
+ -Al2O3 normalised to 1 for NiAl at 950°C.
+
+7
+
+1.0
+
+0.8
+
+0.6
+
+intensity
+
+0.4
+
+0.2
+
+0.0 0 10 20 30 40 50 60 70
+
+time / h
+
+Fig. 3 Measured and calculated intensity curves iz(t) of  -Al2O3 and
+
+ -Al2O3 normalised to 1 for NiAl+Hf at 950°C.
+k -Al2O3 [1/h] NiAl NiAl+Hf 0.0773 0.2115 0.03 0.05 P2 k
+-Al2O3
+
+[1/h] 0.0773 0.0661 0.06 0.65
+
+P4
+
+Standard deviation [%] 0.08 0.06
+
+Tab. 2 Kinetic parameters of the step reaction NiAl ->  -Al2O3 ->  Al2O3. It results from the in situ measurements by high temperature X-ray diffraction that after an oxidation time of 70 h no  -Al2O3 is present anymore (Figs. 2 and 3). The oxide scale surface however still shows the morphology, which is typical for  -Al2O3, although the whole oxide scale consists of  -Al2O3 (Figs. 4 and 5).
+
+8
+
+Fig. 4 Surphace of the oxide scale on NiAl after 70 h oxidation at 950°C in air
+
+Fig. 5 Surphace of the oxide scale on NiAl+Hf after 70 h oxidation at 950°C in air The Figs. 4 and 5 furthermore show that on NiAl the oxide scale grew homogeneously over the whole metal surphace, while on NiAl+Hf the  -Al2O3 formation started preferably in nuclei spreading then over the whole surface. Residual stress analysis During the isothermal oxidation of NiAl compressive stresses of -200 MPa are measured between 35 and 40 h. After 45 h tensile stresses are detected, which oscillate around +500 MPa on further oxidation (Fig. 6). The comparison with Fig. 2 shows that the time of the initial
+
+9
+
+compressive stresses coincides with the complete transformation of  -Al2O3 into  -Al2O3.
+
+-1000 -800 -600 -400
+
+NiAl, (116) Al 2 O 3
+
+stress in M Pa
+
+-200 0 200 400 600 800 1000 0 20 40 60
+
+time in h
+
+80
+
+100
+
+120
+
+140
+
+Fig. 6 Stresses in the alumina scale on NiAl measured in situ during the isothermal oxidation at 950°C in air An analogous stress effect in the time interval of the  -Al2O3 into  Al2O3 transformation was observed on NIAl+Hf (Figs. 3 and 7). The results show low tensile stresses in the initial state, higher tensile stresses at 40 h and a tensile stress around 600 MPa on further oxidation (Fig. 7). At times shorter than 30 h the (116) alumina reflex was still too low for being used for stress measurement.
+-1 0 0 0
+
+N iA l H f , (1 1 6 ) A l 2 O 3
+-5 0 0
+
+stress in M Pa
+
+0
+
+500
+
+1000
+
+1500
+0 10 20 30 40
+
+t im e in h
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+110
+
+Fig. 7 Stresses in the alumina scale on NiAl+Hf measured in situ during the isothermal oxidation at 950°C in air 10
+
+On cooling, the stress in the alumina scale on NiAl increases into the region of negative values indicating compressive stresses due to the oxide scale is compressed up to -3000 MPa at room temperature higher thermal coefficient of the substrate than that of the oxide. The following an almost linear stress increase except a deviation between 200°C and 400°C that obviously is due to relaxation phenomena (Fig. 8). On reheating, a linear stress relaxation is observed reaching a value close to that measured at the end of the isothermal oxidation before cooling. On the second cooling, the compressive stress is generated again following nearly the same curve as on the first cooling. A relaxation between 200°C and 400°C can hardly be detected.
+
+-3500 -3000 -2500 -2000
+
+NiAl, (116) -Al2O3
+2nd cooling
+
+stress in M Pa
+
+-1500 -1000
+
+1st cooling heating
+
+-500 0 500 1000 0 100 200 300 400
+
+temperature in °C
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1000
+
+Fig. 8 Stresses in the alumina scale on NiAl measured in situ during cooling, reheating and 2nd cooling On NiAl+Hf an analogous residual stress generation on cooling and relaxation on reheating is observed (Fig. 9). An additional deviation of the linear behaviour to that between 200°C and 400°C is observed between 800°C and 900°C on both cooling cycles. The stress curves
+
+11
+
+show a reversible behaviour on both temperature cycles reaching a compressive stress that is with -2500 MPa lower than on NiAl.
+
+-3000 -2500 -2000
+
+NiAl+Hf, (116) -Al2O3
+
+stress in M Pa
+
+-1500 -1000 -500 0 500 1000 0 100 200 300 400 500 600 700 800 900 1000
+
+2nd cooling 1st cooling heating
+
+temperature in °C
+
+Fig. 9 Stresses in the alumina scale on NiAl+Hf measured in situ during cooling, reheating and 2nd cooling
+
+Discussion
+In both NiAl and NiAL+Hf a first period of the metastable  -Al2O3 formation is observed, which on further exposure is transformed into the stable  -Al2O3 until the complete disappearance of  -Al2O3. The quantitative kinetic evaluation of the oxidation during the  -Al2O3 into
+
+ -Al2O3 transition shows that the addition of 3,9 wt% Hf increases the  -Al2O3 formation by a factor 3. The rate constant for the  -Al2O3
+
+formation however, remains in the same magnitude as for pure NiAl (Tab. 2). The Hf accelerates the initial phase transition process, but it does not suppress it. The time period, in which the  -Al2O3 is observed is consequently shorter (Figs. 2 and 3). At the end of the experiment after 70 h the iz(t) curves for  -Al2O3 are at zero indicating that it disappeared completely (Figs. 2 and 3). The surface however shows a morphology that is typical for the  -Al2O3 (Figs. 4 and 5). This means that after the oxidation a picture is
+
+12
+
+observed on the surface, which does not correspond to the
+
+crystallographic structure, and it confirms the necessity of suitable in situ methods for the investigation of metastable alumina phases. The in situ stress measurement on isothermal oxidation reveals tensile stress generation during the phase transformation process (Figs. 6 and 7). This is obviously due to the volume change during the phase transformation and may be a possible explanation for the increased probability of scale spallation under such conditions.
+
+On thermal cycling after the isothermal oxidation residual stresses are formed on cooling due to the different thermal expansion coefficients of the metal and the alumina. They are completely relaxed on reheating and formed again on cooling. This stress formation is reversible as long as the scale is adherent. The slight deviations from the linear stress behaviour indicate relaxations, which could be due to sample deformation or creep processes in the material.
+
+Conclusions
+The Hf accelerates the initial phase transition process by increasing the rate constant for the  -Al2O3 formation, but it does not suppress it. After the oxidation the surface maintains the morphology typical for  -Al2O3, although the latter is completely transformed into  -Al2O3. On cooling and heating areversible residual stress generation and relaxation is observed indicating a good oxide scale adherence.
+
+References
+!ref1 `Stress generated during oxidation sequences and high temperature fractures', A.M. Huntz, M.Schütze, Materials at high temperatures, 12, 151-161, 1994 !ref2 `The oxidation behaviour of NiAl-I phase transformation in the alumina scale during oxidation of NiAl and NiAl-Cr alloys', M. W. Brumm and H. J. Grabke, Corrosion Science 33, 1677-1690, 1992
+
+13
+
+!ref3 `Materials and high temperature', H. E. Evans and A. M. Huntz, Vol 12, 11-117, 1994
+
+!ref4 `Stress effects in the temperature oxidation of materials' Internationas materials reviews. H. E. Evans, 40, 1-40, 1995
+
+!ref5 M. Schuster, H. Göbel, Journal of Physics D: Applied Physics 28, A270-A275, 1995 !ref6 `In situ measurement of stresses in alumina scales by high M. Groß, Mater. Sci. Forum 369-372, 547-554, 2001 !ref7 ,Kinetics of Growing Oxide Layers Studied by means of X-Ray Diffraction' V. Kolarik, W. Engel, N. Eisenreich, Mater, Sci. Forum, 133136, 563-568, 1993 !ref8 C. Sariouglu, J.R. Blachere, F.S. Pettit, G.H. Meier, Proc. 3rd Int. Conf. Microscopy of Oxidation, pp41-51, 1996 !ref11 B. Eigenmann, E. Macherauch, Mat.-wiss. Und Werkstofftech. 26, 148-160, 1995 !ref12 W.E. Teft, J. Research of the Nat. Bureau of Standards ­ A, 70A, 277-280, 1966 !ref13 B. Eigenmann, E. Macherauch, Mat.-wiss. Und Werkstofftech. 26, 199-216, 1995 !ref14 ,Oxidation of Beta-NiAl, undoped and doped with Ce, Y, Hf', I. Rommerskirchen, V. Kolarik, Materials and Corrosion 47, 625-630, 1996
+
+temperature X-ray diffraction', V. Kolarik, H. Fietzek, M. Juez-Lorenzo,
+
+14
+

@@ -1,0 +1,239 @@
+Volume 6 Paper H012 In advanced Creep Failure of H.P. Modified Reformer Tubes in an Ammonia Plant
+M.H. Shariat1, A.H. Faraji2, A. AshrafRiahy3, M. M.Alipour4
+1Department
+
+of Materials Engineering, Shiraz University, P.O. BOX 7134851154, Zand Blvd., Shiraz, Iran, shariat@shirazu.ac.ir 2General Engineering Department, Razi Petrochemical Co., P.O. BOX 161, Bandar Imam, Iran, hassan@razip.com 3Department of Materials Science and Engineering, Tarbaiat Modarres University, P.O. BOX 14115, Tehran, Iran, ariahy@yahoo.com 4Department of Materials Engineering, Shiraz University, P.O. BOX 7134851154, Zand Blvd., Shiraz, Iran, mehdi_malipour@yahoo.com
+
+Abstract
+Ammonia plant in Razi petrochemical complex has been recently revamped by M.W. Kellogg. This work involved the replacement of HK40 tubes with HP Modified (Manaurite XM) supplied by Manoir industries, France. After 18 months of operation, one of the tubes failed. Because of in advanced failure, an investigation to find the causes of this failure started in joint effort with Tarbiat Modarres University and Shiraz University, Metallurgical studies showed that tube failure and creep occurred as a result of excessive temperature investigation is presented. Keywords: reformer furnace, HP-modified Alloys, catalyst, overheating, creep due to chocking in this particular tube. In this paper the results of this
+
+Steam Methane Reformer Furnaces
+The steam-gas reformer is a common but critical piece of equipment in ammonia and methanol plants. In most plants, methane is used as feedstock. It reacts with steam in catalyst-packed tubes at high
+
+temperature. The process is highly endothermic. The tubes have inside diameters of 60-120 mm (2.5 in.) and are 10-14 m (33-46 ft.) long. The pressure is 15-30 bar (218-435 psi) and the temperature between 900 to 1000°C (1652-1832°F). The tube wall thickness ranges from 8 to 20 mm (0.31-0.79 in.) depending on the tube diameter, temperature and pressure. Excess steam is used to reduce the formation of carbon. The reforming reactions are favored by high temperature but retarded by high pressure. A typical steam methane When synthesis gas is used in the production of ammonia the
+
+reformer for hydrogen and methanol production is shown in Figure 1. conditions are considerably different. Nitrogen is provided by the injection of air into the primary reformer effluent and a secondary reforming step is carried out in a separate catalyst- filled vessel. Because of the balanced load between the two reformers, the temperature in the primary reformer tends to be lower, 815°C (1500°F) and the pressure between 15 and 40 bar (218-580 psi) [1].
+
+HP Modified Alloys
+Since the catalyst tubes assembly can amount to 25% of the total cost of the furnace, there is a great incentive to optimize the design chemically. There are many approaches in satisfying the process and operational requirements. One of the most dramatic improvements in reformer cost has been the increased application of stronger, proprietary tube materials such as HP-Mod alloys. In new reformer design, the HP-Mod alloys have allowed the size of the reformer tube to increase, particularly those designed for the high-pressure ammonia process. With the HK-40 alloy the reformer tube diameter was limited by the tube wall thickness. Excessively thick tubes are candidates for accelerated creep damage resulting from large temperature differences across the thick tube wall. The use of HP-40 Mod Nb has allowed the internal volume of tubes to grow dramatically, without increase in the tube wall thickness, producing capacity increase of 30% to 40% for the same tube count, with only marginally higher cost.
+
+2
+
+Basically, the alloys used for high temperature purposes rely upon (Figure 2). There are two main forms of carbide: · during solidification (Figure 2.a). · during service (Figure 2.b).
+
+creep strengthening by the formation of carbides in the microstructure
+
+Primary Carbides, which form as a grain boundary network
+
+Secondary Carbides, which form as fine particles within grains
+
+The secondary carbides are the main contributors to creep strength. Within just the first few hours of service, the microstructure of new tubes will change as secondary carbides precipitate inside the austenitic grains (a process known as "ageing"). Each small carbide particle acts as a barrier to prevent the movement of creep damage through the microstructure. Therefore, the finer this dispersion of secondary carbides, the greater the creep strength. As service time and/or service temperatures increases, the secondary carbides diffuse and become coarser. With the loss of secondary carbides from the austenite matrix, the creep strength is reduced. Whilst this loss of secondary carbides occurs slowly at normal operating temperatures (below 950°C (1742°F)), it occurs more quickly at higher temperatures, thus overheating for just a short time can be so damaging to tube life. This sensitivity to overheating is most common with the older type alloys such as "HK 40". Alloy development has therefore concentrated upon producing alloy grades that have elements like nickel and niobium in new grades ensure that the secondary carbides were finer and more stable for longer times at elevated temperatures and thus have greater creep strength than the more simple, Nb-free "HK 40" which was the first to be developed 40 years ago (Table 1). greater resistance to loss of secondary carbides. Addition of alloying
+
+As mentioned earlier, the improved metallurgy of the new alloy grades allow steam reforming furnaces to operate at increasingly higher levels of temperature, pressure and heat flux. In general, the advantages of using a micro alloyed grade such as HP-40 Mod Nb are:
+
+3
+
+· · · ·
+
+Lower tube skin temperatures Thinner tube walls Lower thermal stress More efficient fuel utilization
+
+This is because the higher strength material requires a smaller minimum wall thickness for the same operating conditions. Tube wall thickness is normally calculated using the design standard API RP530. This recommends that the allowable stress should be the statistical minimum stress (the lower line of normal scatter band). Once the design temperature is known, it is possible to define the mean 100,000 hour stress at that temperature. Some engineers will use a percentage of the mean stress (say 80% of the mean value) as the allowable stress. This three dimensional study of temperature/stress/life is, however, a complex matter and usually computer aided statistical study based on the Larson-Miller extrapolation is used to give the true minimum value of sound wall. The definition of temperature is important. The gas temperature is the normal basis for controlling the process (catalyst and feedstock). It is, however, the tube skin temperature that is the basis for the design performance of the tubes themselves. The hotter the tube, the lower the creep strength and vice versa. These can be significantly different depending on the tube thickness and furnace operation. In practice, the stresses imposed on the tube. the life of the tube not only depends on the skin temperature but also
+
+The most important property of a reformer tube alloy is the 100,000 hour Creep Rupture Strength which is defined as "The stress which alloy can withstand for a lifetime of 100,000 hours at design temperature before creep failure". As stronger alloys have been developed, this resulted in a large increase in the 100,000 hour Creep Rupture values [2].
+
+Common Damage Mechanisms in Reformer Tubes
+
+4
+
+Overheating It is well known that the main damage mechanism, which reduces tube life, is creep. This occurs in metals under stress at high temperature followed, creep occurs slowly over a period of about 11 years (100,000) or more. If, however, the tubes are overheated the tube life will certainly result in a reduction in life. Depending on the degree of overheating the reduction can be dramatic. This has been displayed will be affected. This does not generally result in immediate failure but and is designed into the operation. If the recommended conditions are
+
+of the logarithmic relationship between temperature and life according to API R530. It can be seen that quite small increase in tube temperature over a long period of time will still reduce the life significantly. This is often not appreciated when temperatures are increased to maintain yields when catalyst becomes less active. The much greater effect, however, is the rapid increases which occur during feedstock or steam supply failures. The absence of the cooling effect of the endothermic reaction can result in very high temperatures which will give a very short theoretical life. At temperatures around 1235°C, incipient melting of the carbide eutectic occurs and the material becomes plastic. It is also important to realize that the effects of overheating are cumulative. Once creep life is lost it can not be regenerated. If, however, the tubes are operated below design conditions, the remaining life will be extended through slower creep rate. Thermal Cycling This is a further contributing factor to accelerated creep. When tubes are heated and cooled, through wall stresses are temporarily increased and consequently a proportion of life is lost. Tube wall temperature gradients can be significant. During normal operation the stress produced by different expansion relaxes through creep. Temperature changes up or down will reintroduce some stress.
+
+extremely well by the data in Table 2, which shows the dramatic effect
+
+5
+
+Tube Bending This is another relatively common problem. Heating to operating temperature results in linear expansion, which must be accommodated in the furnace design. Some older designs of furnace are known to be susceptible as a result of inadequate or non-existing top tensioning which results in an effective restraint at the furnace roof. Modern furnaces are generally much better designed. With tensioning based on about 80% of tube weight, vertical expansion is encouraged without unduly increasing the stress. In some designs, a spring system will help prevent stress to be created as a result of bending. Thermal Shock Thermal shock creates extremely high stresses as the tube attempts to contract under restraint. This will result in circumferential tearing and in extreme cases, shattering of the tube. This has been shown to occur through boiler water carry over on the inside of hot tubes or rainwater on the outside above the furnace roof. Stress Corrosion Cracking Some designs of furnace having a cooler dead space at the tube top and/or bottom can be susceptible to stress corrosion cracking. If steam is allowed to condense and re-evaporated in these areas there evaporation. This can be particularly severe in designs having refractory in contact with the steam [3]. can be significant amount of impurities which are concentrated by the
+
+Razi Reformer Tube Failure
+The Ammonia plant at Razi Petrochemical Company has been recently revamped by M. W. Kellogg Ltd. This work involved replacement of the existing centrifugally cast HK-40 reformer tubes with new HPModified ones (Manaurite XM), supplied by Manoir Industries, France. There was a failure of one tube after 16 months operation. Subsequently samples of this tube were collected from various locations including the failure position and metallurgical investigation was done to make an assessment of the failure mechanism [4]. 6
+
+Reformer and Catalyst Tube Details The reformer is a top fired design with 360 vertical, top hung tubes. Design calculations advise that the hottest position on the tubes is near the base. A schematic of the heater showing the layout of the tubes are filled with a nickel based ring catalyst that reforms the natural gas/steam feed at a pressure about 31-33 bar(g). radiant section of the tube is shown in Figure 3. In operation, the
+
+Three Manaurite XM spool pieces are joined to make the bottom section of each reformer tube, the top section being fabricated from A335 ­ Gr. P11. A number of such tubes are welded directly to an outlet header to form a harp. These harps, prefabricated at Manoir, are shipped to site where they are assembled into tube rows [5]. Samples and Visual Examination The split are of the tube showed a large local bulging. A rough measure of tube circumference in the bulged area showed a 350 mm value compared to 337 mm in adjacent visually non damaged area. Nominal tube OD is 104.8 (+0.2) mm which gives a nominal circumference of 329 to 335 mm. Visually the failure has a typical creep aspect with numerous longitudinally oriented cracks. Obviously it is not a brittle failure (Figures 4,5). Five samples labeled A, B, C, D1 and D2 (Figure 6) were collected for
+
+evaluation. The locations from which the samples were taken are
+
+shown in Figure 7. Visual examination of samples A and B did not
+
+reveal anything untoward. Examination of samples C and D2 revealed a smooth inner surface to the tube typical of a machined finish. Sample D1 showed undulations oriented in the axial direction typical of macrostrain accumulation (Figure 8). The outer surfaces of samples D1
+
+and D2 appeared unusually smooth for centicast tubes; however, the area machined as part of the manufacturing process for this section of tube. Analysis and Results The analysis and results of assessment are given below: 7
+
+discussions with manufacturer revealed that the failure occurred within
+
+according to Manoir Industries Manaurite XM specification. Details of the specification together with the results of the analysis on a section that the analysis of the tube sample lies within the manufacturer's of the tube from D2 are given in Table 3. From the table it can be seen specification. The elements Nb, Ti, Zr and others will have a significant effect on creep strength of the material, and this analysis indicates that these elements are present. However it is not possible to compare the sample D2 microalloy content against any detailed specification, since this is Manoir's proprietary information.
+
+Chemical Analysis of Sample D2. The tubes have been fabricated
+
+Minimum Sound Wall for each Sample. Through wall thickness
+measurements were taken on all samples using a traveling microscope, one measurements were taken across each sample A and B, measurements were taken every centimeter around samples C, D1 and D2. The results are given below. Examination of all samples showed an absence of any casting porosity or other bore related manufacturing defect. Thus measured wall thickness can be taken as equivalent to actual sound wall. Samples A, B, C, and D2 are slightly above specification with regard to minimum sound wall thickness. Sample D1, which is adjacent to the failure, shows reading lower than the other tubes and within specification. This is almost certainly a result of the strain accumulation associated with the failure, rather than a difference in original wall thickness.
+
+Metallographic Examination of all samples and the failure mode of sample D1. All etchings were carried out electrolytically with 5% oxalic
+the orientation of cracking. Comments on the findings of the microstructural examination are given below. Examination of the through wall samples revealed typical centricast structures with columnar grains adjacent to the outer surface and equiaxed grains near to the inner surface.
+
+acid. The samples were examined in the radial plane, at right angles to
+
+8
+
+Sample A ­ A network of primary carbides was apparent on the grain on entering service (Figure 9).
+
+boundaries, consistent in appearance with an HP Modified furnace tube
+
+Sample B ­ The network of primary carbides was still clearly apparent. A fine dispersion of secondary carbides has precipitated within the grains (Figure 10).
+
+Sample C ­ Examination of this sample revealed large primary carbides on the grain boundaries and large secondary carbides within the grains. Creep cavities were also apparent on the grain boundaries on this sample (Figure 11).
+
+Sample D2 - Examination of this sample revealed large primary carbides on the grain boundaries and large secondary carbides within the grains. Microcracking was apparent in the outer third of the tube wall oriented in the through wall direction; oriented cavitation was apparent through the sample (Figure 12).
+
+Sample D1 - Examination of this sample revealed large primary carbides on the grain boundaries and large secondary carbides within the grains. Macrocracking, microcracking and cavitation were apparent through the tube wall oriented in the through wall direction. There was heavy precipitation of secondary carbides associated with some of the larger cracks. Again the highest concentration of cracking was seen in the outer third of the tube wall (Figure 13).
+
+Both the location of the damage in the tube wall and its appearance are typical of creep damage resulting from high temperature operation under an internal pressure stress. The lower levels of microstructural degradation in samples A and B, when compared with samples C, D1 and D2, indicate that damage is unlikely to occur at these locations in the short term.
+
+Estimation of Temperature Inducing Creep Rupture after 13,000 hours in the Tube at Design Pressure
+Design Pressure: P = 32 bar(g) = 3.2 MPa Tube Data: OD 105 mm 9
+
+Thickness t = 12.5 mm API 530: Stress in tube section =  :
+
+=
+
+P × OD P 3.2 × 105 3.2 -= - 2t 2 2 × 12.5 2
+
+ = 13.44 - 1.6 = 11.84 MPa
+According to XM Larsen Miller curve in Figure 14:
+
+ = 11.84 MPa
+
+ LMP = 35.80
+
+35.8 = T[22.96 + log(13,000)] × 10-3 35800 = T(22.96 + 4.114) T = 1322 K = 1049°C
+
+Remarks on the Observed Failure
+The examination carried out here indicates that the tube failed as a result of the application of the operating pressure stress under excessive temperatures. The tube composition is consistent with the manufacturer's specification and the tube microstructure in sample A is consistent in appearance with an HP Modified alloy in its virgin state. Possible causes of overheating in the reformer furnace tube are listed below: 1. Burner misalignment resulting in over temperature tubes. 2. Restricted flow of process through tube due to catalyst choking.
+
+Conclusion
+1. The tube failure occurred as a result of excessive operating temperatures (1049°C). Samples C, D1 and D2 all contain significant creep damage, distributed in a manner indicative of pressure stress loading under overheat conditions rather than through wall thermal stress loading under normal conditions. 2. Chemical analysis revealed sample D2 to be consistent in composition with Manaurite XM. 10
+
+3. Thickness Measurements indicate that all the tube walls measured, apart from that immediately adjacent to the failure, are above maximum specified in the design. 4. Samples A and B, taken from higher positions in the tube, represent material appropriate for further extensive service. They show no significant creep damage.
+
+References
+1. C. M. Schillmoller, HP-Modified Furnace Tubes for Steam Reformers and Steam Crackers , NiDi Technical Series No 10 058,
+Canada, 2000
+
+2. Manaurite 40 X Product info, Manoir Industries, France. 3. David Pool and John J. Jones, Metallurgy and Material Selection for Steam Reforming Furnace in Ammonia & Urea Plants,
+DONCASTERS Industries, United Kingdom, 1999
+
+4. G. Verdier, Catalyst Tube Failure, Report No. 1376, Manoir
+Industries, France, 2000.
+
+5. T. Lant, Metallurgical Investigation of Reformer Tube Failure,
+ERA Technology, United Kingdom, 2001.
+
+Table 1. Nominal composition of Principal Reformer Tube Alloys
+Common Name "HK 40" "IN 519" "HP Nb Mod." "IN 519 TZ" %C 0.4 0.3 0.4 0.3 % Cr 25 24 25 24 % Ni 20 24 35 24 % Nb 1 1 1
+
+11
+
+Table 2. Decrease in tube life with increase in temperature for HP Nb Mod. Alloy
+Temperature 860°C 880°C 900°C 925°C 950°C 975°C 1000°C 1050°C 1100°C 1150°C 1200°C Life 10 years 5 years 2 ½ years 11 months 4 ½ months 2 months 4 weeks 5 ½ days 1 day 8 hours 2 hours
+
+Table 3. chemical Analysis of Sample D2, comparison with Manaurite XM Spec.
+Element Manaurite XM Sample D2 %C
+0.35/0. 60
+
+% Si
+1.00/2. 00
+
+%Mn
+1.00/1. 50
+
+% Cr
+23/2 8
+
+% Ni
+33/3 8
+
+% Co
+
+% Nb
+
+% Ti
+
+% Zr
+
+Nb, Ti, Zr and others
+
+0.42
+
+1.66
+
+1.14
+
+25.6
+
+33.5
+
+0.04
+
+0.75
+
+0.05
+
+<0.0 1
+
+12
+
+Figure 1. Steam methane reformer, typical for hydrogen production
+
+Figure 2. (a) Primary Carbides, (b) Primary and Secondary Carbides
+
+13
+
+Figure 3. The Radiant Section of Reformer Furnace
+
+Figure 4. Local Bulging at the Split Area of the Tube
+
+14
+
+Figure 5. Longitudinal Cracks at the Bulged Area of the Tube
+
+Figure 6. Samples Collected From the Failed Tube
+
+15
+
+Figure 7. Sketch Showing sample locations from catalyst tube
+
+16
+
+Figure 8. Inner surface of sample D1 with strain lines apparent
+
+Figure 9. Sample A with primary carbides clearly visible
+
+17
+
+Figure 10. Sample B with Primary and Secondary Carbides
+
+Figure 11. Primary and Secondary Carbides and oriented cavities in Sample C
+
+18
+
+Figure 12. Microcracking and oriented cavitation in Sample D2
+
+Figure 13. Sample D1 showing Macrocracks
+
+19
+
+Figure 14.Lason-Miller Curve for Manaurite XM
+
+20
+

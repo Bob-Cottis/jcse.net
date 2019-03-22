@@ -1,0 +1,247 @@
+Volume 6 Paper H043
+
+Metal dusting of binary Fe-Al alloys in CO-H2H2O gas mixtures
+A. Schneider, J. Zhang, G. Inden
+
+Max-Planck-Institut für Eisenforschung GmbH, Max-Planck-Str. 1, 40237 Düsseldorf, Germany, schneider@mpie.de
+
+Abstract
+
+Iron aluminium alloys are reasonably resistant against high temperature oxidation and sulphidation. There is only little information available about carburisation and metal dusting of iron aluminium alloys. In this work metal dusting of Fe-Al alloys was investigated in CO-H2-H2O gas mixtures at different temperatures. The effect of temperature on metal dusting was investigated on
+
+Fe-26Al alloys (compositions are given in at. %). By thermogravimetric analysis it was found that the carburisation rate reaches its maximum at about 600 °C. With increasing temperature and with increasing aluminium content from 15 to 40 at. % the tendency of the formation of a protective aluminium oxide layer on Fe-Al alloys becomes 26Al sample carburised at 700 °C. In this case no metal dusting was observed for at least 72 h. By X-ray diffraction analysis (XRD) stronger. An alumina (Al2O3) layer was observed at the surface of a Fe-
+
+cementite (Fe3C) was detected in the coke. The -phase Fe3AlCx was identified as a precipitate in the matrix. The graphite on the surface of the carburised samples was determined to consist mainly of fine filaments with iron-containing particles.
+
+Keywords: Iron aluminides, metal dusting, carburisation, oxide layer, cementite,  phase.
+
+Introduction
+
+Iron aluminium based alloys are generally regarded as promising for materials for high-temperature applications. High temperature iron aluminides exhibit a reasonable corrosion resistance to high temperature oxidation and sulphidation due to the formation of a dense protective alumina (Al2O3) scale. However, there is only little information about carburisation and metal dusting of iron aluminium alloys [#ref1, #ref3-4]. Metal dusting is a high temperature corrosion process which attacks iron, low and high alloy steels and Co- or Ni-based alloys in strongly carburising gas atmospheres with carbon activities aC >> 1 at temperatures between 400 and 1000 °C [#ref5]. Metal dusting of iron and steels at various conditions such as temperature and carbon gas mixtures. The metal dusting of iron and low alloyed steels during aC(Fe/Fe3C) has been explained by the following reaction mechanism [#ref6-10]: (i) rapid supersaturation of the metal phase with dissolved carbon by transfer from the gas phase, (ii) growth of a cementite layer at the surface, (iii) graphite deposition, (iv) subsequent cementite decomposition Fe3C  3 Fe + C into graphite and fine metal particles, which (v) act as catalysts for coke deposition. Catalytic coke deposition can be observed in thermogravimetric experiments by a drastic acceleration of the mass gain kinetics. exposure to CO-H2-H2O mixtures with carbon activities aC > activity has been studied by [#ref6-17] using CO-H2-H2O and CH4-H2 corrosion studies of Klöwer [#ref1] and Stott et al. [#ref2] showed that
+
+2
+
+particles [#ref10] or carbide particles [#ref13-14, #ref17].
+
+The coke layer contains graphite and finely dispersed iron
+
+(Cr2O3) layers was tested by [#ref18-20]. Chromium-containing steels surface areas which are covered with Cr2O3, while at defects of the chromia layers local metal dusting was observed.
+
+Protection of steels against metal dusting using chromium oxide
+
+are to a large extent resistant against metal dusting. This holds for the
+
+Alumina (Al2O3) forming iron aluminium alloys are promising high-temperature materials for application in the petrochemical industry. Here the gaseous environments can have very low oxygen partial pressures. Thus only a very thermodynamically stable oxide such as Al2O3 can be considered to form a protective scale. First by Grabke et al. [#ref3]. The constitution of the Fe-Al-C was experiments on the metal dusting behaviour of Fe3Al were performed
+
+suggested by Grabke [#ref3], but his first experiments revealed only the presence of cementite after metal dusting treatment of Fe3Al alloys. The mechanisms of metal dusting of iron aluminium alloys are still not understood. The resistance of Fe-Al-Cr alloys against metal good resistance against corrosive attack in CH4-H2 gas mixtures at 850, 1000 and 1100 °C. dusting was studied by Klöwer [#ref1]. The investigated alloys showed
+
+phase) exists in this system which might play an important role as
+
+investigated by Palm and Inden [#ref21]. A ternary carbide Fe3AlCx (-
+
+In this work investigations on metal dusting of binary iron aluminium alloys are presented. Generally it can be expected that the process of metal dusting of iron aluminium alloys includes surface oxidation and carburisation reactions at defects of an oxide layer. The aim of the present work is to investigate metal dusting processes, which may occur at such defects or at the whole surface. The effect of pre-oxidation is not investigated.
+
+3
+
+2. Experimental
+
+melting. The melts were cast into cylindrical copper moulds (32 mm in diameter by 186 mm in length). The as-cast alloys were then cut by spark-erosion to obtain disks with d = 1 mm in thickness. Quarter
+
+The iron aluminium alloys were processed by vacuum induction
+
+segments of the disks were used for the metal dusting experiments. Before starting the experiment the samples were ground (1000 grit). Thermogravimetric analysis (TGA) was carried out by measuring the The samples were fixed at the mass balance by quartz filaments. At the end of the treatment the quartz filaments holding the sample were broken so that the sample fell on a quartz plate in the cold region of the TGA apparatus. Gas mixtures of CO-H2-H2O were used for the metal dusting through a mixture of oxalic acid and its dihydrate at a certain temperature [#ref22]. The gas velocities were controlled by capillary flow meters. The flow rate of the gas mixtures was fixed at 2 ml/s and the total pressure of the gas mixture was 1 bar. The diameter of the reaction tube is 27 mm. The phases on the carburised samples were determined by X-ray treatment. The water vapour pressure was established by passing H2 mass gain versus time using a microbalance with an accuracy of 1µg.
+
+diffraction (XRD) using Co-K radiation. The carburised samples were coated with nickel and then analysed by means of metallographic cross-sections. Surface analysis of the carburised samples was performed by scanning electron microscopy (SEM).
+
+4
+
+3. Results
+
+represent the mass gain kinetics of the carburisation of binary Fe-26Al samples (alloy compositions are given in at.%) in a 50%CO-49.3%H20.7%H2O gas mixture at temperatures from 500 to 700 °C.
+
+The results of the thermogravimetric analysis (TGA) in Fig. 1
+
+Fig. 1. Thermogravimetric analysis of Fe-26Al samples carburised in a 50%CO-49.3%H2-0.7%H2O gas mixture at different temperatures.
+
+about 600 °C. Below 600 °C the rate of mass gain increases with
+
+Fig. 1 shows that the rate of mass gain reaches its maximum at increasing temperature. However, above 600 °C this rate decreases with increasing temperature. At 700 °C the mass gain is negligible even after 72 h. Metallographic cross-sections of the corresponding samples are shown in Fig. 2. After 17.4 h reaction at 500 °C the matrix/coke interface is coarsely serrated, indicating a more or less general metal wastage (Fig. 2a). After 2.5 h at 600 °C, large pits are formed (Fig. 2b). 5
+
+Fig. 2. Metallographic cross-sections of Fe-26Al samples carburised in a 50%CO-49.3%H2-0.7%H2O gas mixture at (a) 500 °C for 17.4 h (aC = 1720), (b) 600 °C for 2.5 h (aC = 153), (c) 650 °C for 22.25 h (aC = 55), and (d) 700 °C for 72 h (aC = 22).
+
+of about 200 µm in diameter. Each pit is filled with many carbon filaments (Fig. 3b). At the surface area which shows no pits, the
+
+The SEM micrograph in Fig. 3a shows these pits of circular form
+
+scratches stemming from the sample grinding can be seen (Fig. 3c). Also at this surface area, which shows no pits carbon filaments are observed.
+
+6
+
+Fig. 3. SEM surface observation of a Fe-26Al sample carburised in a 50%CO-49.3%H2-0.7%H2O gas mixture at 600 °C for 2.5 h.
+
+Fig. 2c shows the metallographic cross-section of a Fe-26Al sample carburised for 22.25 h at 650 °C. A thin carbide layer has formed underneath the sample surface which is covered with graphite or coke. The carbide layer is observed by light optical microscopy of an etched cross-section. Without etching no layer can be seen. The top-view of this sample by SEM shows the presence of some large pits (Fig. 4a). Carbon filaments are detected at both pitted and non-pitted areas (Figs. 4b and 4c). After metal dusting treatment for 72 h at 700 °C a very thin oxide layer is observed at the sample surface (Fig. 2d). This layer appears coloured by light optical microscopy which is typical for oxides. In this case metal dusting did not yet set on, but a few filaments have already formed on the surface (Fig. 5).
+
+7
+
+Fig. 4. SEM surface observation of a Fe-26Al sample carburised in a 50%CO-49.3%H2-0.7%H2O gas mixture at 650 °C for 22.25 h.
+
+Fig. 5. SEM surface observation of a Fe-26Al sample carburised in a 50%CO-49.3%H2-0.7%H2O gas mixture at 700 °C for 72 h.
+
+In Fig. 6 results of X-ray diffraction analysis (XRD) of some carburised Fe-26Al samples are presented. For the sample carburised at 500 °C besides the Fe3Al peaks strong peaks for the -phase (Fe3AlCx) and also for cementite (Fe3C) are detected. For the sample
+
+carburised at 600 °C smaller peaks for both cementite and  phase are 8
+
+detected. The XRD analysis of the sample carburised at 650 °C does not reveal the presence of any carbide, whereas the more detailed (Fig. 7). For the sample carburised at 700 °C no carbide was detected. For all temperatures oxides could not be detected by XRD. analysis of the coke separated from this sample shows Fe3C peaks
+
+Fig. 6. XRD spectra of Fe-26Al samples carburised in a 50%CO49.3%H2-0.7%H2O gas mixture at (a) 500 °C for 17.4 h, (b) 600 °C for 2.5 h, (c) 650 °C for 22.25 h, and (d) 700 °C for 72 h.
+
+9
+
+Fig. 7. XRD spectra of the coke removed from the surface of Fe-Al samples carburised in a 50%CO-49.3%H2-0.7%H2O gas mixture at 650 °C for 22.25 h (Fe-26Al) and at 700 °C for 23 h (Fe-15Al).
+
+The effect of gas composition on the carburisation rate was investigated by TGA experiments on Fe-26Al samples carburised at 650 °C in CO-H2-H2O gas mixtures with different compositions. Here the H2O content was fixed at 0.7 %. Fig. 8 shows that with an increasing CO content from 15% to 50%, that means with increasing carbon activity from aC = 28.4 to 55.3, the carburisation reaction becomes faster.
+
+10
+
+Fig. 8. TGA of Fe-26Al samples carburised in 15%CO-84.3%H2mixtures at 650°C. 0.7%H2O (aC = 28.4) and 50%CO-49.3%H2-0.7%H2O (aC = 55.3) gas
+
+The effect of Al content of the iron aluminium alloys and temperature on the formation of protecting Al2O3 layers was also investigated.
+
+11
+
+Fig. 9. Effect of aluminium content on the kinetics of the metal dusting process of Fe-Al alloys in CO-H2-H2O gas mixtures at (a) 500 °C, (b) 650 °C and (c) 700 °C. 12
+
+In Fig 9. it is shown that an increase of the aluminium content all temperatures the onset of metal dusting, which is represented by a periods with increasing Al content. Unexpectedly, at 500 °C metal generally leads to a lowered kinetics of the metal dusting process. For
+
+drastic change in the mass gain kinetics, is suppressed for certain time dusting sets on fairly quick after about 20 h for an alloy with a high aluminium concentration of 40 at. %. The metallographic cross-section in Fig. 10 shows large pits at the surface. At 700 °C the Fe-26Al alloy is resistant against metal dusting for at least 72 h. However, at the same temperature the Fe-15Al sample is seriously attacked by a general metal wastage after 18.8 h at 700 °C in a 50%CO-49.3%H2Fig. 11a shows plate-like carbides close to the decomposition interface. Similar precipitates were also found in a Fe-15Al sample carburised for 4 h at 650 °C in a 15%CO-84.3%H2-0.7%H2O gas mixture (Fig. 11b). 0.7%H2O gas mixture (Fig. 11a). The metallographic cross-section in
+
+Fig. 10. Metallographic cross-sections of a Fe-40Al sample carburised in a 50%CO-49.3%H2-0.7%H2O gas mixture at 500 °C for 20 h.
+
+13
+
+Fig. 11. Cross-section observation of Fe-15Al alloys carburised in (a) 50%CO-49.3%H2-0.7%H2O for 18.8 h at 700 °C (light optical microscopy) and (b) 15%CO-84.3%H2-0.7%H2O for 4 h at 650°C (SEM).
+
+The plate-like precipitates were identified to be the  phase Fe3AlCx [#ref4]. XRD analysis of the coke removed from the Fe-15Al 0.7%H2O gas mixture shows that besides graphite only cementite is present in the coke (Fig. 7). sample carburised for 18.8 h at 700 °C in the 50%CO-49.3%H2-
+
+4. Discussion
+
+Generally it can be expected that the process of metal dusting of iron aluminium alloys includes surface oxidation and the onset of metal dusting via carburisation reactions at defects of an oxide layer. As mentioned above, the aim of the present work is to investigate metal dusting processes and not the effect of preoxidation on the resistance against metal dusting. Regarding Al2O3 formation the following information is relevant for an understanding of metal dusting experiments of Fe-Al alloys in carburising and oxidising CO-H2-H2O atmospheres. Although 14
+
+aluminium oxide was not detected by XRD analysis due to very small volume fractions its presence can be assumed because the oxygen than the value necessary for alumina formation. For example the equilibrium partial pressure of oxygen of the 50%CO-49.3%H2partial pressure in the CO-H2-H2O gas mixtures is significantly higher
+
+0.7%H2O gas mixture is 5.05×10-32 bar at 500 °C and 3.77×10-25 bar at 700 °C. However, the oxygen partial pressure required for Al2O3 formation is only 2.77×10-65 bar at 500 °C and 8.99×10-50 bar at 700
+
+°C. As it is shown for chromia forming alloys [#ref18-20] the formation of an oxide layer generally retards the carburisation process. Metal subsequent pit formation (see Figs. 3a, 4a, and 10). At present, conclusions concerning details of the pit formation during metal dusting of iron aluminium alloys can not be drawn. Also the influence of size and distribution of defect in the oxide layer on the metal dusting kinetics is not yet understood. From the TGA results shown in Fig. 9 it can be deduced that an increase of the aluminium content leads to a retardation of the onset of metal dusting. The metal dusting attack is differently characterised as pitting (Figs. 2b, 3a, 4a, and 10) or general metal wastage (see Figs. 2a, 11a and 11b). Concerning this simple distinction it should be mentioned that local attack with many fast growing pits and general metal wastage might be the same. Some results of the present work confirm the assumption that the alumina formation depends on temperature, gas composition and aluminium content. At 500, 600 and 650 °C no oxides were detected in this work. However, the light optical microscopic observation of a thin oxide layer (Fig. 2d) on the Fe-26Al sample carburised at 700 °C indicates that an increase of the temperature enhances the formation of aluminium oxide. For this sample no metal dusting was detected (see also the TGA curves in Figs. 1 and 9c). Thus it can be concluded that the presence of the fairly dense oxide layer formed at a relatively high temperature of 700 °C leads to a significant protection against metal dusting. However, decreasing the aluminium content to 15 at. % leads to a serious attack (Fig. 9c). dusting attack occurs preferentially at defects of the oxide layer with
+
+15
+
+At temperatures below 700°C no significant protection against metal dusting of Fe-Al alloys is observed. Thus it can be concluded that at relatively low temperatures there is no distinctive formation of protecting Al2O3 layers. This result confirms the reports that with increasing temperature the formation of a dense aluminium oxide layer is favoured [#ref23]. The formation of -Al2O3 is optimal for materials protection because of its very dense crystal structure.
+
+However, -Al2O3 formation occurs at temperatures around 1000 °C or is required in order to protect iron aluminium alloys from metal higher [#ref24]. Therefore, a pre-treatment for oxide layer formation
+
+dusting. The aspect of protective scales will be treated in future. At those locations where carburisation can take place the formation of carbon profiles with decreasing carbon content from the surface to the matrix can be assumed. Supersaturation of the matrix with carbon will lead to carbide formation. Thermodynamic calculations showed that for a binary Fe-15Al alloy the formation of the -phase Fe3AlCx and for increased carbon contents additional cementite Fe3C precipitation can be expected during carburisation at 650 °C [#ref4]. In this work, -phase with Perovskite structure was detected by XRD on Fe-26Al samples carburised at 500 and 600 °C (Fig. 6). Plate- or needle-like Fe3AlCx precipitates are directly observed in the matrix close to the surface of a carburised Fe-15Al alloy (see Fig. 11). Cross-section analysis by light optical and scanning electron microscopy does not reveal the presence of cementite in the matrix, but with XRD analysis of the coke removed from this sample cementite was detected (Fig. 7). The experimental observation of cementite present in the coke leads to the assumption that there are similarities between metal dusting of iron and of iron aluminium. The mechanism of metal dusting of iron aluminium alloys will be studied in more detail in the future. The TGA curves in Fig. 1 show that for Fe-26Al alloys the metal
+
+dusting rate reaches its maximum at about 600°C. This result is very report the rate of metal dusting has its maximum at 575°C. This of Fe and of Fe-Al. 16 similar to that of pure iron reported by Chun et al. [#ref25]. In their
+
+finding supports the assumption of similarities between metal dusting
+
+5. Conclusions
+
+alloys was investigated in CO-H2-H2O gas mixtures at temperatures from 500 to 700 °C. Generally it can be expected that the main processes of metal dusting of Fe-Al alloys are oxide formation and carburisation at defects of the oxide at the surface. The effect of preoxidation was not investigated.
+
+In this work metal dusting of Fe-15Al, Fe-26Al, and Fe-40Al
+
+metal dusting depends on temperature and alloy composition for a given gas composition. The metal dusting attack is characterised as pitting or general metal wastage. The investigation of the influence of temperature on metal dusting on Fe-26Al reveals a maximum carburisation rate at about 600 °C. With increasing temperature and with increasing Al content the formation of an Al2O3 layer is favoured. In the case of a Fe-26Al alloy carburised at 700 °C an Al2O3 layer was detected. For this sample metal dusting was prevented from starting for at least 72 h. Cementite Fe3C and also the -phase were (SEM). The role of carbides in the decomposition process still remains unclear. The coke on the surface of the carburised samples was determined to consist mainly of fine filaments with iron-containing particles at both pitted and non pitted areas. detected by X-ray diffraction (XRD) and scanning electron microscopy
+
+Thermogravimetric analysis (TGA) reveals that the onset time of
+
+17
+
+6. Acknowledgements
+
+Nellesen for SEM analysis and Mrs. H. Falkenberg for preparing the Forschungsgemeinschaft is greatly acknowledged.
+
+The authors would like to thank Mrs. K. Angenendt and Mrs. M.
+
+metallographic cross-sections. Support of this work by the Deutsche
+
+7. References
+
+!ref1 `High temperature corrosion behaviour of iron aluminides and iron aluminium-chromium alloys', J. Klöwer, Oxidation of intermetallics, H. J. Grabke and M. Schütze (Eds.), Wiley-VCH, Weinheim, pp203-220, 1997. !ref2 `Oxidation-sulphidation of iron aluminides', F. H. Stott, K. T. Chuah, L. B. Bradley, Oxidation of intermetallics, H. J. Grabke and M. Schütze (Eds.), Wiley-VCH, Weinheim, pp221-232, 1997. !ref3 `Metal dusting of Fe3Al and (Fe, Ni)3Al', S. Strauß R. Krajak, M. Palm, H. J. Grabke, Mater. Corros., 47, pp701-702, 1996.
+
+!ref4 `Metal dusting of ferritic Fe-Al-M-C (M = Ti, V, Nb, Ta) alloys in to Mater. Corros.. CO-H2-H2O gas mixtures at 650 °C', A. Schneider, J. Zhang, submitted
+
+and means for protection', H. J. Grabke, Proceedings of EUROCORR ´97, Vol. II, E. Bardal (Ed.), European Federation of Corrosion, Trondheim, pp1-8, 1997. H. J. Grabke, R. Krajak, J. C. Nava Paz, Corros. Sci., 35, pp1141-1150, !ref6 `On the mechanism of catastrophic carburization: metal dusting',
+
+!ref5 `Mechanisms of carburisation, metal dusting and coking ­ ways
+
+1993.
+
+18
+
+!ref7 `Metal dusting', J. C. Nava Paz, H. J. Grabke, Oxid. Met., 39, pp437-456, 1993.
+
+Krajak, Härterei-Tech. Mitt., 49, pp150-156, 1994. Grabke, Solid State Phen., 41, pp3-15, 1995.
+
+!ref8 `Metal Dusting - eine korrosive Aufkohlung', H. J. Grabke, R.
+
+!ref9 `Mechanisms of metal dusting of low and high alloy steels', H. J.
+
+Woltersdorf, H. J. Grabke, S. Strauß, Steel Res., 66, pp217-221, 1995. H. J. Grabke, Mater. Corros., 49, pp303-308, 1998. !ref11 `Thermodynamics, mechanisms and kinetics of metal dusting',
+
+!ref10 `Microprocesses of metal dusting on iron', E. Pippel, J.
+
+!ref12 `Carburization and metal dusting on iron', H. J. Grabke, E. M. Müller-Lorenz, A. Schneider, ISIJ Int. (Suppl.), 41, ppS1-S8, 2001.
+
+!ref13 `Effect of H2S on formation and decomposition of Fe3C and Grabke, Q. Wei, E. Pippel, J. Woltersdorf, Steel Res., 71, pp179-184, 2000. Fe5C2 under metal dusting conditions', A. Schneider, G. Inden, H. J.
+
+H2S mixtures', A. Schneider, H. Viefhaus, G. Inden, Mater. Corros., 51, pp338-343, 2000.
+
+!ref14 `Surface analytical studies of metal dusting of iron in CH4-H2-
+
+carburising atmospheres', A. Schneider, Corros. Sci., 44, pp23532365, 2002.
+
+!ref15 `Iron layer formation during cementite decomposition in
+
+45, pp283-299, 2003.
+
+coke formation on iron', J. Zhang, A. Schneider, G. Inden, Corros.Sci.,
+
+!ref16 `Effect of gas composition on cementite decomposition and
+
+!ref17 `Characterisation of the coke formed during metal dusting of iron in CO-H2-H2O gas mixtures', J. Zhang, A. Schneider, G. Inden,
+
+Corros. Sci., 45, pp1329-1341, 2003.
+
+19
+
+!ref18 `Resistance of 9-20%Cr-steels against metal dusting', H. J.
+
+Grabke, E. M. Müller-Lorenz, B. Eltester, M. Lucas, D. Monceau, Steel
+
+Res., 68, pp179-185, 1997.
+
+!ref19 `Carburization of high chromium alloys', T. A. Ramanarayanan, R. A. Petkovic, J. D. Mumford, A. Ozekcin, Mater. Corros., 49, pp226230, 1998.
+
+705, 1999.
+
+tubes', B. Ganser, K. A. Wynns, A. Kurlekar, Mater. Corros., 50, pp700-
+
+!ref20 `Operational experience with diffusion coating on steam cracker
+
+!ref21 `Experimental determination of phase equilibria in the Fe-Al-C system', M. Palm, G. Inden, Intermetallics, 3, pp443-454, 1995.
+
+strontium chloride and sodium sulfate', G. P. Baxter, J. E. Lansing, J.
+
+!ref22 `The aqueous pressure of some hydrated crystals. Oxalic acid,
+
+Amer. Chem. Soc., 42, pp419-426, 1920.
+
+formation', M. P. Brady, B. Gleeson, I. G. Wright, JOM, 52, pp16-21, 2000.
+
+!ref23 `Alloy design strategies for promoting protective oxide-scale
+
+!ref24 `The oxidation of NiAl and FeAl', H. J. Grabke, M. W. Brumm, B. Wagemann, Oxidation of intermetallics, H. J. Grabke and M. Schütze (Eds.), Wiley-VCH, Weinheim, pp79-83, 1997. !ref25 `Relationship between coking and metal dusting', C. M. Chun, T. A. Ramanarayanan, J. D. Mumford, Mater Corros., 50, pp634-639, 1999.
+
+20
+

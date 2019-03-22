@@ -1,0 +1,403 @@
+Volume 6 Paper C077
+
+RED MUD AS A CORROSION INHIBITOR FOR REINFORCED CONCRETE
+M. Cabeza, A. Collazo; X. R. Nóvoa, M. C. Pérez
+
+University of Vigo, E.T.S.E.I, Lagoas ­ Marcosende, 9. 36200 VIGO. SPAIN, rnovoa@uvigo.es
+
+Abstract
+The effectiveness of red mud as corrosion inhibitor of carbon steel embedded in concrete was evaluated using cyclic voltammetry and electrochemical impedance spectroscopy. The testing media were red mud solutions (pH=12), alkaline solutions having the same pH (NaOH 0.08M and Ca(OH)2 0.04M), and reinforced mortar. In all cases chloride additions were used for evaluating the inhibition effectiveness. The results show that red muds are able to maintain steel passivity in presence of high chloride concentration, i.e., in mortar 3% CaCl2 by weight of cement, and in solution a ratio Cl-/OH- equal to 5 (maximum tested values). Keywords: Red Mud, Corrosion inhibitors, Concrete, Electrochemical Techniques
+
+Introduction
+The alumina plants based on the Bayer Process generate great amounts of caustic slurries. For each ton of Al2O3 produced almost two tons of residues have to be stocked [1]. These residues are constituted mainly by iron oxides, titanium oxide and "bayer sodalite", an alumino-silicate, along with caustic soda. The name "Red Mud", RM, comes from to their reddish colour due to iron oxides. The huge volume of RM produced and their alkaline character (pH  13)
+
+represent an important environmental problem in the areas were these
+
+industries are installed, as it is the case of the ALCOA factory in San Cibrao (Lugo, N.W of Spain) which generates daily 1200 tons of RM. So, the problem is of major importance in the area and different solutions are currently in study to reuse and valorise those wastes [2]. Sodalites are zeolite-type compounds with an extremely high ion exchange capacity, which makes RM a good adsorbent of for heavy metals (as oxyanions) [3] and influences the surface properties of RM slurries [4]. Concrete, due to its high pH, protects steel by formation of a passive film that hinders corrosion. However, in presence of chlorides, the breakdown of the passive layer occurs and rebars on electrode potential [5]. Numerous studies have been carried out to redox/buffering power as nitrites [6], or organics that block the steel's surface [7]. In this context RM can be considered as good candidate for inhibitor of chloride action because of the proved redox activity and buffering power [4,8], and complexing properties [3] that reduce Cl- to OH- ratio at the metal-concrete interface. In the present is aimed to analyse the possible use of red mud as corrosion inhibitor of chloride attack reinforcing steel. The study is developed in two parts: a first one where the inhibiting properties are studied in solutions simulating concrete pore solution, and a second one focused on the behaviour of steel embedded in mortar prepared with RM additions. corrode actively, although the chloride level (Cl- to OH- ratio) depends
+
+hinder chlorides depassivation by using inhibitors either inorganic, of
+
+Experimental
+Red Mud slurry was supplied by ALCOA-Europe factory in San Cibrao (Lugo, Spain). The chemical characterization was made by chemical analysis of cations and X-Ray diffraction of RM powder. Figure 1 corresponds identifying the different iron oxo-hydroxides present (goethite and hematite) as well as titanium oxide (rutile) and aluminium hidroxides (gibbsite, sodalite. The chemical analysis allows obtaining quantitative results boehmite) together with the above-mentioned Bayer to the obtained diffraction spectrum that allows
+
+2
+
+Al2O3 (12%), CaO (6%), Na2O (5%), H2O (1000 ºC).
+
+that, given as upper oxides, are (in %w/w): Fe2O3 (37%), TiO2 (20%),
+
+H H A G B A S S H RB SG A A B H A R H HG BA H H
+
+A: Gibbsite B: Boehmite G: Goethite H: Hematite R: Rutile S: Sodalite
+
+A
+
+B H
+
+Figure 1: X-ray diffraction analysis of red mud powder showing the identified species present. X-axis corresponds to Bragg's angle 2.
+
+The RM suspensions were prepared by adding 20g of dry powder to one litre of distilled water. Once vigorously shacked, the overnightdecanted suspensions were taken for testing. The decanted suspensions have about 30 mg.L-1 of fine particles and their pH is close to 12. The behaviour of carbon steel in these suspensions was compared with that in an alkaline solution of similar pH (NaOH 0.08M). This pH is also close to that found in concrete pore solution after 28 days curing [9]. In order to induce passive film breakdown, chloride (as NaCl) was added to those solutions up to a upper limit Cl-/OH- =5. Electrochemical experiments (cyclic voltammetry and EIS) were
+
+performed in solution using a conventional three-electrode cell, where the working electrode was carbon steel of standard construction quality (AISI1023). The same material was employed for preparing sheet mesh was used as large area counter electrode, and the reference electrode was Hg/HgO 0.1M KOH. In the experiments, the potential was scanned from ­0.6V to 0.6V vs. Hg/HgO, 0.1M KOH, at 3 mortar specimens. The exposed surface was 0.53 cm2. A graphite
+
+1mVs-1 scan rate. Just before the voltammetric tests, electrochemical impedance spectra were registered from 10 kHz to 1 mHz at the corresponding open circuit potential. Mortar was prepared using ordinary Portland cement with water to
+
+cement ratio of 0.5, and normalized sand (UNE-EN 196-1:1996), using three parts of sand by one of cement. The mixed were made with powder (3% by weight of cement). Mixes were cast in cylindrical rotation axis in order to guarantee proper electric field distribution when performing impedance measurements [10]. The specimens were demoulded after one day and stored in humid chamber until performing measurements (after one month ageing). An AUTOLAB 30 Potentiostat (from EcoChemie) was used for cyclic voltammetry and electrochemical impedance measurements. moulds with the rebar (13 cm2 exposed surface) placed along the tested additions of CaCl2 (1 and 3% by weight of cement) and red mud's
+
+Results and discussion
+a) Carbon steel in NaOH 0.08M and red mud solutions Cyclic Voltammetry
+The voltammograms obtained for the carbon steel in NaOH 0.08M, and red mud solutions at one day and 25 days of immersion time are depicted in figure 2a and 2b. As it can be observed in Figure 2a, the corrosion potential is about
+
+-0.4V in both cases (although slightly lower for RM), and both show high current values in the theoretical passive domain (0 to 0.5V); however, the measured current density is higher for the RM system. The high current observed here can be attributed to the oxidation of Fe(II) species remaining at the metallic surface after mechanical cleaning (no electrochemical reduction was performed). However, RM system correspond to oxidation of RM particles adhered to the metallic substrate. RM particles can be oxidised at those potentials, as demonstrated elsewhere [8]. 4 gives higher current than NaOH system, which shall
+
+The effect of ageing in both solutions appears in Figure 2. The
+
+measured current decreases by about one order of magnitude although now the passivity current is lower for the RM system indicating the formation of a better (more resistive) passive layer, so hindering RM particles oxidation and oxygen evolution (at about 0.6V).
+40 Red Mud 0.08M NaOH (a)
+
+Current Density / µA cm
+
+-2
+
+30 20 10 0 -10 -0.6
+
+-0.4
+
+-0.2
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+Potential / V vs. Hg/HgO
+
+3
+
+(b)
+
+Current Density / µA cm
+
+-2
+
+0
+
+-3
+
+Red Mud 0.08M NaOH
+-6 -0.6 -0.4 -0.2 0.0 0.2 0.4 0.6
+
+Potential / V vs. Hg/HgO
+Figure 2: Cyclic Voltammograms obtained for carbon steel in unstirred NaOH 0.08M and red mud solutions at one day (a) and 25 days (b) of immersion time, from ­0.6V to 0.6V vs. Hg/HgO at 1mVs-1.
+
+5
+
+The effect of chlorides is summarised in figure 3. Sodium chloride was added to both solutions so that Cl-/OH-=5 was reached. The cathodic continues being lower for the RM solution. At +75 mV the carbon steel chloride concentration) the anodic current remains steady.
+10 10 10
+-2
+4 3 2 1 0
+
+domain is similar for both systems, but the corrosion potential pits in NaOH 0.08M + 0.4M NaCl while in RM solution (same pH, same
+
+log |i| / µA. cm
+
+10 10 10 10 10 10
+
+-1 -2 -3 -4
+
+Red Mud solution + 0.4 M NaCl NaOH 0.08M + 0.4 M NaCl
+
+-0.6
+
+-0.4
+
+-0.2
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+Potential / V vs. Hg/HgO, 0.1M KOH
+Figure 3: Cyclic Voltammograms obtained for carbon steel in NaOH 0.08M and red mud solution with 0.4 mol/l of NaCl added.
+
+Figure 4: Optical images (100X) of carbon steel obtained after potentiodynamic cycling (figure 3) in NaOH 0.08M + 0.4M NaCl (left) and Red Mud + 0.4M NaCl solution (right). Figure 4 shows the aspect of both carbon steel surfaces after performing the electrochemical test depicted in figure 3. It can be seen that the sample immersed in NaOH+NaCl solution suffers severe 6
+
+corrosion while no signs of attack are observed in RM+NaCl solution, in accordance with electrochemical results.
+
+Red muds maintain the corrosion potential more cathodic than NaOH solution which, according to reported results [5] increases the critical Cl-/OH- due to hydration of the iron oxides layer [11].
+
+Electrochemical Impedance Spectroscopy
+The impedance spectra were recorded at the corresponding rest potentials as a function of immersion time. Figure 5 and 6 show the solutions at one day and twenty-five days of immersion. The measured corrosion potential at one day of immersion was ­0.31 V and ­0.37 V, respectively for NaOH and red mud solutions. With immersion time the rest potentials shift anodically to -0.15 V and -0.20 V.
+750
+0.08M NaOH Red Mud
+
+spectra obtained for carbon steel in NaOH 0.08M and red mud
+
+- Imaginary part
+
+500
+
+1 mHz
+
+10 mHz 250 1 mHz
+
+0
+
+10 KHz 0 250 500
+2
+
+750
+
+Real Part / k . cm
+
+Figure 5: Nyquist diagrams obtained for carbon steel in NaOH 0.08M and red mud solution at one day of immersion time. The observed shift in open circuit potential is associated to an important variation in the low frequency impedance limit. As figures 5 and 6 show, this limit increases for the RM solution, while it decreases for the NaOH solution, although both remain in resistance values 7
+
+typical of passive state [12]. This result agrees with cyclic voltammetry
+
+experiments that show lower current level in RM solution after 25 days ageing (see figure 2b). The only apparent discrepancy concerns data presented in figures 2a and 5 (one day ageing). Carbon steel in RM solution shows higher low frequency limit than in NaOH solution (figure 5), while the corresponding recorded current is higher (figure to the measured current (I=C dE/dt): for the same sweep rate (dE/dt), figure 5, the low frequency capacitance is higher for the RM system, so 2a). This effect can be understood in terms of capacitive contribution the measured current will be higher for higher capacitance, C. From the measured current will be higher when the sweep rate approaches the time constant of the system. Details on this effect have been reported elsewhere [13].
+2500
+10 mHz
+
+0.08M NaOH Red Mud
+
+2000
+
+- Imaginary part
+
+1500
+
+50 40 30 20
+10 mHz
+
+1000
+a Are d rg e
+
+500
+la En
+
+10 0 0
+
+10 kHz
+
+10
+
+20
+
+30
+
+40
+
+50
+
+0
+
+0
+
+500
+
+1000
+
+1500
+2
+
+2000
+
+2500
+
+Real Part/ k . cm
+
+Figure 6: Nyquist diagrams obtained for carbon steel in NaOH 0.08M and red mud solution at 25 days of immersion time. The Nyquist impedance spectra obtained for carbon steel in RM and NaOH solutions with NaCl added are presented in Figures 7 and 8, respectively for one and twenty five days of immersion. The recorded OCP were for one day of immersion about ­0.45V in NaOH solution and ­0.48V for red mud solution. The obtained impedances are similar 8
+
+(figure 7) although the low frequency limit is slightly higher for the
+
+RM+NaCl system, the corresponding Rp value gives corrosion currents considered as the limit of the practical passive state [12].
+
+(icorr = 26 mV/Rp) one order of magnitude higher than the 0.1 µA.cm-2 Nevertheless, this is the initial situation that can be considered as normal for the passive layer build up in the initial stages of immersion. More important is the evolution on immersion time.
+24 20
+0.08M NaOH + 0.4M NaCl Red Mud + 0.4M NaCl
+
+- Imaginary Part
+
+16 12 8
+100 mHz 10 mHz 1 mHz
+
+4
+10 kHz
+
+0
+
+1 mHz
+
+0
+
+4
+
+8
+
+12
+
+16
+2
+
+20
+
+24
+
+Real Part/ k  . cm
+
+Figure 7: Nyquist diagrams obtained for carbon steel in NaOH 0.08M and red mud solution with NaCl added, at one day of immersion. At 25 days of immersion, the potential shifted anodically when the electrode is immersed in red mud solution (it reaches -0.5 V); however the potential shift in NaOH solution follows the opposite direction and reached ­0.78V. The corresponding impedances (figure 8) are now very different: while for the RM+NaCl system the low frequency limit is very high indicating passive state, in NaOH+NaCl the measured impedance is very small which can be related to active corrosion. In fact, plenty of pits were visually observed on the surface, result consistent with polarisation data given in figure 3. The problem of whether a shift in the electrode potential below the magnetite formation peak (toward the cathodic protection domain) leads or not to active corrosion is still an unresolved problem. If there is no change in the cathodic reaction and the corrosion potential decreases only as a consequence of a lack of oxygen, the measured 9
+
+resistance will be smaller and not corresponding to the corrosion occurs because of changes in the cathodic reaction (from oxygen to
+
+kinetics but to redox processes [14]; nevertheless, if the potential shift proton reduction, formed in the present case as a consequence of correspond to corrosion kinetics. Some aspects of this problem have been discussed elsewhere [15].
+28
+
+hydrolysis processes inside pits), the measured small resistance will
+
+0.08M NaOH + 0.4M NaCl 1 mHz Red Mud + 0.4M NaCl
+
+21
+
+- Imaginary Part
+
+14
+10 mHz
+
+3
+
+100 mHz
+2
+
+7 10 kHz
+En la d rg e A re a
+
+1 mHz
+1
+
+10 kHz
+0 0 1 2 3
+
+0
+
+0
+
+7
+
+14
+
+21
+2
+
+28
+
+Real Part / k  . cm
+
+Figure 8: Nyquist diagrams obtained for carbon steel in NaOH 0.08M and red mud solution with NaCl added, at twenty five days of immersion.
+
+b) Carbon steel embedded in concrete
+In order to compare results in solution with the possible behaviour in real structures, specimens of reinforced mortar were prepared with different additions of CaCl2 (1% and 3%) and red mud powder (3%). Figure 6 and 7 correspond to the voltammograms obtained for the specimens without additives (reference) and with CaCl2 (1% and 3%) red mud (3%), after one month aging. No pitting potentials were found, however, some interesting features can be noticed. In the anodic sweeps, the voltammograms show a cathodic displacement of corrosion potential in the specimens with chlorides respect to the specimen without additives however the specimens with red mud keep 10
+
+the corrosion potential close to that of the reference specimen. This
+
+fact suggests (according to the result in solution) an activation of the metal surface in absence of RM. The inhibiting effect of RM is also noticed in the recorded passivity currents, much higher in presence of chlorides, but close to the reference values when RM is present. 3 10
+10 10
+-2 2 1 0
+
+With 1% CaCl2 With 1% CaCl2 + 3% Red Mud Without additives
+
+log |i| / µA cm
+
+10 10 10 10 10 10
+
+-1 -2 -3 -4 -5
+
+-600
+
+-400
+
+-200
+
+0
+
+200
+vs. Hg/HgO
+
+400
+
+600
+
+Potential / mV
+
+Figure 6: Cyclic voltammograms obtained on rebars embedded in different mortars: without additives, with 1% CaCl2 and with 1%CaCl2+3% Red Mud, at 30 days ageing. The scan rate was 1mV s-1
+
+10 10 10 log |i| / µA cm
+-2
+
+2
+
+1
+
+With 3% CaCl2 With 3% CaCl2 + 3% Red Mud Without additives
+
+0
+
+10 10 10 10 10
+
+-1
+
+-2
+
+-3
+
+-4
+
+-5
+
+-600
+
+-400
+
+-200
+
+0
+
+200
+vs. Hg/HgO
+
+400
+
+600
+
+Potential / mV
+
+11
+
+Figure 7: Cyclic voltammograms obtained on rebars embedded in different mortars: without additives, with 3% CaCl2 and with 3%CaCl2+3% Red Mud, at 30 days ageing. The scan rate was 1mV s-1. Non-linear fitting of the polarisation curves to the Butler-Volmer equation around the corrosion potential allows obtaining corrosion rate values that, from data in figure 7 result: 0.027, 0.028 and 0.051 µAcm-2, respectively for the reference sample, that with RM + Cl-, and that with Cl-. All values are, at this age of the samples, below the referred limit for passive state, but it is clear also from these data that red muds are able to inhibit the action of chlorides in mortar specimens. Conclusions The effectiveness of red mud as inhibitor corrosion was examined in model solutions and in reinforced mortar specimens, with and without added chlorides, using cyclic voltammetry and EIS. In the model solution, the results evidence that red muds are good inhibitors of the chlorides attack. It has been verified that, in presence of chlorides, the surface of the electrodes immersed in red mud's containing solutions do not evidences signs of corrosion, while generalised pitting was observed in alkaline solution of the same pH and voltammetry and EIS results. Red muds are also effective corrosion inhibitors of reinforcing steel embedded in chloride contaminated mortar. According to the obtained results, it can be said that red muds constitute a promising way to improve the rebar protection in chloride-contaminated concrete. References [1] Hawley's condensed Chemical Dictionary, Van Nostrand Reinhold Company Inc., NY, 1987 (Spanish version revised, Ed. Omega, Barcelona, Spain, pp.120, 1993. 12 same Clconcentration. The visual observations confirm
+
+[2] "Utilización de los lodos rojos como inhibidores de la corrosión en el hormigón armado". J. J. Pérez Rodríguez, MSC thesis, Mining School, University of Vigo. 2000. [3] "Surface properties of red mud particles from potentiometric titration"D. Chvedov, S. Ostap, T. Le, Colloids Surf. A, 182, 1-3, pp131- 141, 2001.
+
+[4] "Adsorbent properties of red mud and its use for wastewater treatment", E. López, B. Soto, M. Arias, A. Nuñez, A.; D. Rubinos, M.T. Barral, Water Res. 32, 4, pp.1314-1322, 1998. [5] C. Alonso, M. Castellote, C. Andrade, Proc. 2nd International RILEM Workshop Concrete. Testing C. and Modelling and J. the Chloride Ingress into Eds. PRO 19, RILEM Andrade Kropp,
+
+Publications, Bagneux, France, pp415-425, 2000. [6] "Effect of Nitrite as a Corrosion Inhibitor in Contaminated and Chloride-Free Carbonated Mortar" C. Alonso, C. Andrade, ACI Mater. J., 87, 2, pp87-M15, 1990.D. Chvedov, S. Ostap, T. Le, Colloids Surf. A, 182, pp131- ,2001. [7] "The use of corrosion inhibitors in concrete. An approach to the inhibition mechanism", J. El Hassane, A. Shriri, M. F. Montemor, 9/May/2003. [8] "Passivity of iron in red mud's water solutions", S. Joiret, M. Keddam, X.R. Nóvoa, M.C. Pérez, H. Takenouti, Proc. EMCR 2003, Acta. [9] "Cement Chemistry" 2nd edition, H.F.W. Taylor, Thomas Telford Ed., London, pp214, 1998. [10] "The importance of geometrical considerations in the Ysermonde, Belgium, 5-9/May/2003. Submitted to Electrochim. M.G. S. Ferreira, Proc. EMCR 2003, Ysermonde, Belgium, 5-
+
+measurement of steel corrosion in concrete by means of A.C.
+
+13
+
+Impedance" C. Andrade, L. Soler, C. Alonso, X.R. Nóvoa, M. Keddam, Corros. Sci. 37, 12, pp.2013-2023, 1995. [11] "Use of EIS, ring-disk electrode, EQCM and Raman spectroscopy to study the film of oxides formed on iron in 1 M NaOH", S. Joiret, M. Keddama, X. R. Nóvoa, M. C. Pérez, C. Rangel, H. Takenouti, Cem. Conc. Composites, 24, 1, pp.7-15, 2002.
+
+[12] "The Determination of the Corrosion Rate of Steel Embedded in Concrete by the Polarization Resistance and AC Impedance Methods", C. Andrade, V. Castelo, C. Alonso, J.A. González, in "Corrosion Effect of Stray Currents and the Techniques for Evaluating Corrosion of Rebars in Concrete", ASTM STP906, V. Chaker Ed., ASTM, Philadelphia, USA, pp43-63, 1986. [13] "Measurement of Steel Corrosion in Concrete by Electrochemical Techniques: Influence of the Redox Processes in Oxide Scales", C. Andrade, F. Bolzoni, M. Cabeza, X. R. Nóvoa, M. C. Pérez, in "Electrochemical Approach to Selected Corrosion and Corrosion Control Studies", EFC pub. Series No 28, The Institute of Materials, London, pp. 332-343, 2000. [14] "Electrochemical behaviour of steel rebars in concrete: Influence Keddam X. R. Nóvoa, M. C. Pérez, C. M. Rangel, H. Takenouti, Electrochim. Acta, 46, 24-25, pp3905-3912, 2001.
+
+of environmental factors and cement chemistry", C. Andrade, M.
+
+[15] "Passivity verification technique applied to cathodically protected structures", C. Andrade, I. Martínez, X.R. Nóvoa, 15th International Corrosion Congress, Granada, Spain 22-27/09/2002 (Paper 359)
+
+14
+
