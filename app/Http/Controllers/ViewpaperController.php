@@ -4,6 +4,8 @@ namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Storage;
+use App\Models\Paper;
+use App\Models\Comment;
 
 
 class ViewpaperController extends Controller
@@ -14,7 +16,7 @@ class ViewpaperController extends Controller
         if ($rev==null) {
             // find highest revision
             // get paper record
-            $paper = \App\Models\Paper::where([['volume', '=', $vol], ['paperNumber', '=', $pap]])
+            $paper = Paper::where([['volume', '=', $vol], ['paperNumber', '=', $pap]])
                 ->orderBy('revisionNumber','desc')
                 ->first();
             //return view('varDump',['s'=>$paper]);
@@ -24,23 +26,10 @@ class ViewpaperController extends Controller
             }
             // $paper should have highest revision number
             $rev=$paper['revisionNumber'];
-/*            $r_max = 0;
-            $pap_id = 0;
-            $n = 0;
-            foreach ($paper as $p) {
-                if ($p['revisionNumber'] >= $r_max) {
-                    $pap_id = $p['id'];
-                    $r_max = $p['revisionNumber'];
-                    $n_max = $n;
-                }
-                $n += 1;
-            }
-            $rev = $r_max;
-            $paper = $paper[$n_max];*/
         }
         else
         {
-            $paper = \App\Models\Paper::where([['volume', '=', $vol], ['paperNumber', '=', $pap], ['revisionNumber','=',$rev]])
+            $paper = Paper::where([['volume', '=', $vol], ['paperNumber', '=', $pap], ['revisionNumber','=',$rev]])
                 ->first();
             if ($paper == null) {
                 // no such paper go process the error
@@ -49,6 +38,8 @@ class ViewpaperController extends Controller
         }
         // uncomment next line to check contents of $paper
         // return view('viewParams', ['paper'=>$paper]);
+        // check whether there are any comments
+        $commentCount = Comment::where([['paper_id',$paper['id']],['editorConfirmed',1]])->count();
         // Check for Paper or Preprint published
         if ($paper['paperPublished'] || $paper['preprintPublished']) {
             // check for PDF, HTML and TEXT files and pass appropriate filenames for view
@@ -83,7 +74,7 @@ class ViewpaperController extends Controller
                 $htmlname = '';
                 $htmlURL = '';
             } else {
-                $htmlURL = route('showHTML', ['typ'=>$typ, 'vol'=>$vol, 'pap'=>$pap]);
+                $htmlURL = route('showHTML', ['typ'=>$typ, 'vol'=>$vol, 'pap'=>$pap, 'pap_id'=>$paper['id'],'count'=>$commentCount ]);
             }
             $txtExists = file_exists($txtname);
             if (!$txtExists) {
@@ -118,8 +109,9 @@ class ViewpaperController extends Controller
 
             if ($htmlExists || $pdfExists) {
                 // one or both files exist - go to display them
-                // return view('varDump', ['s'=>['paper' => $paper, 'htmlURL' => $htmlURL, 'pdfURL' => $pdfURL, 'txtname' => $txtname, 'typ' => $typ]]);
-                return view('viewPaper', ['paper' => $paper, 'htmlURL' => $htmlURL, 'pdfURL' => $pdfURL, 'txtname' => $txtname, 'typ' => $typ]);
+                // return view('varDump', ['s'=>['paper' => $paper, 'htmlURL' => $htmlURL, 'pdfURL' => $pdfURL, 'txtname' => $txtname, 'typ' => $typ, 'count'=>$commentCount]]);
+                if ($htmlExists) {$pageOrPara = 'Paragraph';} else {$pageOrPara = 'Page';}
+                return view('viewPaper', ['paper' => $paper, 'htmlURL' => $htmlURL, 'pdfURL' => $pdfURL, 'txtname' => $txtname, 'typ' => $typ, 'pageOrPara'=>$pageOrPara,'count'=>$commentCount]);
             } else {
                 //return view('showString',['s'=>'File '.$pdfname.' found']);
                 // PDF exists - check for TEXT file for guests
@@ -133,6 +125,7 @@ class ViewpaperController extends Controller
 
     // show paper or preprint for PDF versions
     public function showPDF($typ, $vol, $pap, $rev=1)
+
     {
         // download pdf file
         // files stored at /storage/pdf
@@ -142,7 +135,7 @@ class ViewpaperController extends Controller
         return response()->download($pathToFile);
     }
 
-    public function showHTML($typ, $vol, $pap)
+    public function showHTML($typ, $vol, $pap, $pap_id, $commentCount)
     {
         // show HTML file
         // files stored at /resource/views/htm
@@ -153,10 +146,19 @@ class ViewpaperController extends Controller
         $fname = (sprintf('htm.v%02d%s%03d', $vol, $typ, $pap));
         //return $fname;
         // need to construct comment list to append to HTML
-        return view('showHTML',['fname'=>$fname]);
+
+        $comments=\DB::table('comments')->
+            where([['editorConfirmed',1],['paper_id',$pap_id]])->
+            join('users','comments.author_id','=','users.id')->
+            select('users.givenName as givenName','users.familyName as familyName','comments.subject as subject',
+            'comments.paragraph as paragraph','comments.commentText as text','comments.paper_id as pap_id',
+            'comments.created_at as creationDate','comments.updated_at as updateDate')->
+            get();
+        // return view('varDump',['s'=>$comments]);
+        return view('showHTML',['fname'=>$fname,'comments'=>$comments]);
     }
 
-    public function convertHTML($htmlname, $htmltyp, $vol, $pap)
+    protected function convertHTML($htmlname, $htmltyp, $vol, $pap)
     {
         // called if PDF file doesn't exists and HTML file has not yet been converted
         $oldfname = public_path() . sprintf('/html/volume%d/paper%d/v%d%s%d.php', $vol, $pap, $vol, $htmltyp, $pap);
@@ -220,5 +222,4 @@ class ViewpaperController extends Controller
         //return $doc;
         return file_put_contents($htmlname, $doc);
     }
-
 }

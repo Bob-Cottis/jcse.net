@@ -35,8 +35,4 @@ class UserProfile extends Model
         return $this->hasOne('OrganizationType', 'orgType_id');
     }
 
-    public function language()
-    {
-        return $this->hasOne('Language');
-    }
 }

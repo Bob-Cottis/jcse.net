@@ -19,14 +19,21 @@
             {!! __('vpmessages.VP_HTML_MSG') !!}
         @endif
         @if ($pdfURL !== '' || $htmlURL !=='')
-            <h2>
+            <h4>
                 @if ($pdfURL !== '')
-                    <a href="{!! $pdfURL !!}">View PDF {{ucfirst($typ)}}</a>
+                    <a class="btn btn-primary" href="{!! $pdfURL !!}">View PDF {{ucfirst($typ)}}</a>
+                    @if ($count>0 && $htmlURL !== '')
+                        <a class="btn btn-primary" href="{!! route('viewComments',['pap_id'=>$paper['id']]) !!}">View [{{$count}}] comments </a>
+                    @endif
                 @endif
                 @if ($htmlURL !== '')
-                    <a href="{!! $htmlURL !!}">View Web {{ucfirst($typ)}}</a>
+                    <a class="btn btn-primary" href="{!! $htmlURL !!}">View Web {{ucfirst($typ)}}</a>
+                        @if ($count>0)
+                            <a class="btn btn-primary" href="{!! route('viewComments',['pap_id'=>$paper['id'], 'pageOrPara'=>1]) !!}">View [{{$count}}] comments </a>
+                        @endif
                 @endif
-            </h2>
+                <a class="btn btn-primary" href="{!! route('addComment',['pap_id'=>$paper['id'],'pageOrPara'=>$pageOrPara]) !!}">Add Comment</a>
+            </h4>
         @endif
     @endauth
     @guest

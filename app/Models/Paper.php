@@ -12,7 +12,12 @@ class Paper extends Model
 
     public function editor()
     {
-        return $this->hasOne('User', 'editor_id');
+        return $this->belongsTo('User', 'editor_id');
+    }
+
+    public function comments()
+    {
+        return $this->hasMany('comment');
     }
 
 }

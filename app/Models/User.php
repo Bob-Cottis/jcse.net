@@ -1,27 +1,15 @@
 <?php
+
 namespace App\Models;
-use Illuminate\Notifications\Notifiable;
-use Illuminate\Contracts\Auth\MustVerifyEmail;
-use Illuminate\Foundation\Auth\User as Authenticatable;
-class User extends Authenticatable implements MustVerifyEmail
+
+use Illuminate\Database\Eloquent\Model;
+
+class User extends Model 
 {
-    use Notifiable;
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array
-     */
-    protected $fillable = [
-        'title_id', 'givenName', 'familyName', 'email', 'password',
-    ];
-    /**
-     * The attributes that should be hidden for arrays.
-     *
-     * @var array
-     */
-    protected $hidden = [
-        'password', 'remember_token',
-    ];
+
+    protected $table = 'users';
+    public $timestamps = true;
+    protected $fillable = array('title_id', 'familyName', 'organisation');
 
     public function profile()
     {
@@ -37,5 +25,5 @@ class User extends Authenticatable implements MustVerifyEmail
     {
         return $this->belongsToMany('User', 'editor_id');
     }
-}
 
+}

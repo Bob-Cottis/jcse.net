@@ -16,115 +16,124 @@ class dbXferController extends Controller
     public function xfr()
 
     {
-        $sql = 'select * from categories;';
-        $rst = \DB::connection('mysql_old')->select($sql);
-        // change column names in new catergory to match old columns
-        $newRst = [];
-        foreach ($rst as $r) {
-            array_push($newRst, ['id' => $r->ID, 'category' => $r->Category]);
-        }
-        \DB::table('categories')->delete();
-        \DB::table('categories')->insert($newRst);
+        \DB::statement('SET FOREIGN_KEY_CHECKS=0');
 
-        $sql = 'select * from countries;';
-        $rst = \DB::connection('mysql_old')->select($sql);
-        // change column names in new table to match old columns
-        $newRst = [];
-        foreach ($rst as $r) {
-            if ($r->Code === null) {$r->Code = 'XX';}
-            array_push($newRst, ['id' => $r->ID, 'country' => $r->Country, 'telCode' => $r->Code, 'code' => $r->CCode]);
-        }
-        \DB::table('countries')->delete();
-        \DB::table('countries')->insert($newRst);
-
-        $sql = 'select * from languages;';
-        $rst = \DB::connection('mysql_old')->select($sql);
-        // change column names in new table to match old columns
-        $newRst = [];
-        foreach ($rst as $r) {
-            array_push($newRst, ['id' => $r->ID, 'language' => $r->Language, 'code' => '']);
-        }
-        \DB::table('languages')->delete();
-        \DB::table('languages')->insert($newRst);
-
-        $sql = 'select * from organization_types;';
-        $rst = \DB::connection('mysql_old')->select($sql);
-        // change column names in new table to match old columns
-        $newRst = [];
-        foreach ($rst as $r) {
-            // Organization Type	ID
-            array_push($newRst, ['id' => $r->ID, 'organizationType' => $r->{'Organization Type'}]);
-        }
-        \DB::table('organizationtypes')->delete();
-        \DB::table('organizationtypes')->insert($newRst);
-
-        $sql = 'select * from sources;';
-        $rst = \DB::connection('mysql_old')->select($sql);
-        // change column names in new table to match old columns
-        $newRst = [];
-        foreach ($rst as $r) {
-            // OLD -> Source	ID
-            // NEW -> id 	created_at 	updated_at 	source
-            array_push($newRst, ['id' => $r->ID, 'source' => $r->Source]);
-        }
-        \DB::table('sources')->delete();
-        \DB::table('sources')->insert($newRst);
-
-        $sql = 'select * from titles;';
-        $rst = \DB::connection('mysql_old')->select($sql);
-        // change column names in new table to match old columns
-
-        $newRst = [];
-        foreach ($rst as $r) {
-            // OLD -> Title	ID
-            // NEW -> id 	title
-            array_push($newRst, ['id' => $r->ID, 'title' => $r->Title]);
-        }
-        \DB::table('titles')->delete();
-        \DB::table('titles')->insert($newRst);
-
-        \DB::table('users')->delete();
-        \DB::table('userprofiles')->delete();
-
-        \DB::connection('mysql_old')->table('mailing_list')->where('ValidEmail','1')->orderBy('PrimaryKey')->chunk(5, function ($mailing_list) {
+            $sql = 'select * from categories;';
+            $rst = \DB::connection('mysql_old')->select($sql);
+            // change column names in new catergory to match old columns
             $newRst = [];
-            $newRst2 = [];
-            foreach ($mailing_list as $r) {
-                // OLD -> PrimaryKey Initials	Surname	Salutation	Address	Organization	Address1	Address2	Address3	Post Code	Telephone	Telex	email
-                //Fax	UMIST_Student	Send_RIP	Comment	Deletion_Year	Categories_ID	Titles_ID	Organization_Types_ID	Countries_ID	Languages_ID
-                //Sources_ID	JCSEPassword	JCSEReg	JCSEConfirm	JCSEMail	JCSEAdminUser	CPCMail	AlumniMail	JCSEEditor	rev_reg	ValidationCode	upsize_ts
-                //ecg_comon	ValidEmail	remember_token
-                // NEW user -> id 	created_at 	updated_at 	email 	password 	remember_token 	userProfile_id
-                // New USer_profile -> id 	created_at 	updated_at 	initials 	surname 	salutation 	organization 	address1 	address2
-                //address3 	postCode 	telephone 	telex 		fax 	category_id 	title_id 	orgType_id 	country_id 	language_id 	source_id 	jrnlMail
-                // if ($r->Titles_ID === null) {$r->Titles_ID = 1;}
-                if ($r->Categories_ID === null) {$r->Categories_ID = 1;}
-                if ($r->Languages_ID === null) {$r->Languages_ID = 1;}
-                // $hashedPassword = Hash::make($r->JCSEPassword);
-                // if ($r->email === null) {$r->email = '';}
-                // if ($r->JCSEPassword === null) {$r->JCSEPassword = '';}
-
-                array_push($newRst, ['id' => $r->PrimaryKey, 'email' => $r->email, 'plainTextPassword' => $r->JCSEPassword,
-                    'userProfile_id' => $r->PrimaryKey, 'organisation' => $r->Organization, 'givenName' => $r->Initials,
-                    'familyName' => $r->Surname, 'country_id' => $r->Countries_ID, 'title_id' => $r->Titles_ID ]);
-                array_push($newRst2, ['id' => $r->PrimaryKey, 'salutation' => $r->Salutation,
-                    'address1' => $r->Address1, 'address2' => $r->Address2, 'address3' => $r->Address3, 'postCode' => $r->{'Post Code'},
-                    'telephone' => $r->Telephone, 'telex' => $r->Telex, 'fax' => $r->Fax, 'category_id' => $r->Categories_ID,
-                    'orgType_id' => $r->Organization_Types_ID, 'language_id' => $r->Languages_ID, 'source_id' => $r->Sources_ID, 'jrnlMail' => $r->JCSEMail]);
+            foreach ($rst as $r) {
+                array_push($newRst, ['id' => $r->ID, 'category' => $r->Category]);
             }
-            \DB::table('users')->insert($newRst);
-        });
+            \DB::table('categories')->delete();
+            \DB::table('categories')->insert($newRst);
 
-        $sql = 'select * from special_volumes;';
-        $rst = \DB::connection('mysql_old')->select($sql);
+            $sql = 'select * from countries;';
+            $rst = \DB::connection('mysql_old')->select($sql);
+            // change column names in new table to match old columns
+            $newRst = [];
+            foreach ($rst as $r) {
+                if ($r->Code === null) {
+                    $r->Code = 'XX';
+                }
+                array_push($newRst, ['id' => $r->ID, 'country' => $r->Country, 'telCode' => $r->Code, 'code' => $r->CCode]);
+            }
+            \DB::table('countries')->delete();
+            \DB::table('countries')->insert($newRst);
 
-        $newRst = [];
-        foreach ($rst as $r) {
-            // OLD -> id	vol_name	vol_desc	vol_year	vol_num
-            // NEW -> id 	created_at 	updated_at 	name 	description 	year 	number
+            $sql = 'select * from languages;';
+            $rst = \DB::connection('mysql_old')->select($sql);
+            // change column names in new table to match old columns
+            $newRst = [];
+            foreach ($rst as $r) {
+                array_push($newRst, ['id' => $r->ID, 'language' => $r->Language, 'code' => '']);
+            }
+            \DB::table('languages')->delete();
+            \DB::table('languages')->insert($newRst);
 
-            array_push($newRst, ['id' => $r->id + 1, 'name' => $r->vol_name, 'description' => $r->vol_desc, 'year' => $r->vol_year, 'number' => $r->vol_num,]);
-        }
+            $sql = 'select * from organization_types;';
+            $rst = \DB::connection('mysql_old')->select($sql);
+            // change column names in new table to match old columns
+            $newRst = [];
+            foreach ($rst as $r) {
+                // Organization Type	ID
+                array_push($newRst, ['id' => $r->ID, 'organizationType' => $r->{'Organization Type'}]);
+            }
+            \DB::table('organizationtypes')->delete();
+            \DB::table('organizationtypes')->insert($newRst);
+
+            $sql = 'select * from sources;';
+            $rst = \DB::connection('mysql_old')->select($sql);
+            // change column names in new table to match old columns
+            $newRst = [];
+            foreach ($rst as $r) {
+                // OLD -> Source	ID
+                // NEW -> id 	created_at 	updated_at 	source
+                array_push($newRst, ['id' => $r->ID, 'source' => $r->Source]);
+            }
+            \DB::table('sources')->delete();
+            \DB::table('sources')->insert($newRst);
+
+            $sql = 'select * from titles;';
+            $rst = \DB::connection('mysql_old')->select($sql);
+            // change column names in new table to match old columns
+
+            $newRst = [];
+            foreach ($rst as $r) {
+                // OLD -> Title	ID
+                // NEW -> id 	title
+                array_push($newRst, ['id' => $r->ID, 'title' => $r->Title]);
+            }
+            \DB::table('titles')->delete();
+            \DB::table('titles')->insert($newRst);
+
+            \DB::table('users')->delete();
+            \DB::table('userprofiles')->delete();
+
+            \DB::connection('mysql_old')->table('mailing_list')->where('ValidEmail', '1')->orderBy('PrimaryKey')->chunk(5, function ($mailing_list) {
+                $newRst = [];
+                $newRst2 = [];
+                foreach ($mailing_list as $r) {
+                    // OLD -> PrimaryKey Initials	Surname	Salutation	Address	Organization	Address1	Address2	Address3	Post Code	Telephone	Telex	email
+                    //Fax	UMIST_Student	Send_RIP	Comment	Deletion_Year	Categories_ID	Titles_ID	Organization_Types_ID	Countries_ID	Languages_ID
+                    //Sources_ID	JCSEPassword	JCSEReg	JCSEConfirm	JCSEMail	JCSEAdminUser	CPCMail	AlumniMail	JCSEEditor	rev_reg	ValidationCode	upsize_ts
+                    //ecg_comon	ValidEmail	remember_token
+                    // NEW user -> id 	created_at 	updated_at 	email 	password 	remember_token 	userProfile_id
+                    // New USer_profile -> id 	created_at 	updated_at 	initials 	surname 	salutation 	organization 	address1 	address2
+                    //address3 	postCode 	telephone 	telex 		fax 	category_id 	title_id 	orgType_id 	country_id 	language_id 	source_id 	jrnlMail
+                    // if ($r->Titles_ID === null) {$r->Titles_ID = 1;}
+                    if ($r->Categories_ID === null) {
+                        $r->Categories_ID = 1;
+                    }
+                    if ($r->Languages_ID === null) {
+                        $r->Languages_ID = 1;
+                    }
+                    // $hashedPassword = Hash::make($r->JCSEPassword);
+                    // if ($r->email === null) {$r->email = '';}
+                    // if ($r->JCSEPassword === null) {$r->JCSEPassword = '';}
+
+                    array_push($newRst, ['id' => $r->PrimaryKey, 'email' => $r->email, 'plainTextPassword' => $r->JCSEPassword,
+                        'userprofile_id' => $r->PrimaryKey, 'organisation' => $r->Organization, 'givenName' => $r->Initials,
+                        'familyName' => $r->Surname, 'country_id' => $r->Countries_ID, 'title_id' => $r->Titles_ID]);
+                    array_push($newRst2, ['id' => $r->PrimaryKey, 'salutation' => $r->Salutation,
+                        'address1' => $r->Address1, 'address2' => $r->Address2, 'address3' => $r->Address3, 'postCode' => $r->{'Post Code'},
+                        'telephone' => $r->Telephone, 'telex' => $r->Telex, 'fax' => $r->Fax, 'category_id' => $r->Categories_ID,
+                        'orgType_id' => $r->Organization_Types_ID, 'language_id' => $r->Languages_ID, 'source_id' => $r->Sources_ID, 'jrnlMail' => $r->JCSEMail]);
+                }
+                \DB::table('userProfiles')->insert($newRst2);
+                \DB::table('users')->insert($newRst);
+            });
+
+            $sql = 'select * from special_volumes;';
+            $rst = \DB::connection('mysql_old')->select($sql);
+
+            $newRst = [];
+            foreach ($rst as $r) {
+                // OLD -> id	vol_name	vol_desc	vol_year	vol_num
+                // NEW -> id 	created_at 	updated_at 	name 	description 	year 	number
+
+                array_push($newRst, ['id' => $r->id + 1, 'name' => $r->vol_name, 'description' => $r->vol_desc, 'year' => $r->vol_year, 'number' => $r->vol_num,]);
+            }
 
         \DB::table('specialVolumes')->delete();
         \DB::table('specialVolumes')->insert($newRst);
@@ -142,7 +151,9 @@ class dbXferController extends Controller
                 //preprintDate	preprintPublished	publicationDate	paperPublished	enableComments	acknowledgedPreprint
                 //revisionRequired	preprintURL	paperURL	keywords	revisionMessage	notes	abstract	status	admin_attn_rqd
                 //ed_attn_rqd pp_conf_date	revisionReceived	refs_assigned
-                if ($r->Editor == 0) {$r->Editor = null;}
+                if ($r->Editor == 0) {
+                    $r->Editor = null;
+                }
                 array_push($newRst, ['id' => $r->PaperID, 'volume' => $r->Volume, 'paperNumber' => $r->PaperNumber, 'title' => $r->Title, 'authors' => $r->Authors,
                     'authorEmail' => $r->AuthorEmail, 'editor_id' => $r->Editor, 'submissionDate' => $r->SubmissionDate, 'preprintDate' => $r->PreprintDate,
                     'preprintPublished' => $r->PreprintPublished, 'publicationDate' => $r->PublicationDate, 'paperPublished' => $r->PaperPublished,
@@ -227,8 +238,9 @@ class dbXferController extends Controller
         }
         \DB::table('notifies')->delete();
         \DB::table('notifies')->insert($newRst);
+        \DB::statement('SET FOREIGN_KEY_CHECKS=1');
 
-        return view('categories');
+        return view('phpInfo');
     }
 
 }

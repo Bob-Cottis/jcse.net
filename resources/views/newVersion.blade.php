@@ -1,5 +1,5 @@
 @extends('templates.layout')
 @section('content')
-    {!! __($msg); !!}
+    {!! __('jrnl.newVersion'); !!}
 @endsection
 
