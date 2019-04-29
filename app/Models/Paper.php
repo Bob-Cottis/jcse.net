@@ -9,6 +9,7 @@ class Paper extends Model
 
     protected $table = 'papers';
     public $timestamps = true;
+    protected $dates = ['submissionDate','preprintDate','publicationDate'];
 
     public function editor()
     {

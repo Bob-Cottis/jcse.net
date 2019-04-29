@@ -49,8 +49,8 @@ return [
         '<p>Permission is automatically granted to include JCSE in bibliographic databases, but we would appreciate being '.
         'informed (by means of an email to the Editor) when this is done, so that we can keep this page up to date.</p>',
     'submission'=>'<h2>Submission requirements</h2>'.
-        '<p><strong>Authors should now upload their papers directly using the <a href="submission_form">submission form</a>'.
-        '(but after having read the instructions that follow), and they will appear in JCSE as soon as they have been '.
+        '<p><strong>Authors should now upload their papers directly using the <a href="/subForm1">submission form</a> '.
+        '(but after having read the instructions that follow), and they will appear in JCSE as a preprint as soon as they have been '.
         'checked by the editor to ensure that they do not contain unacceptable material. If you are in the process of '.
         'preparing a paper, then you should download and read the new <a href="jcsepapertemplatev2.doc">JCSE Template '.
         'for MS Word</a>. Note that JCSE is an &quot;electronic only&quot; Journal, and it is of no use to us to '.

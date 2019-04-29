@@ -93,14 +93,14 @@
                         </div>
 
                         <div class="form-group row">
-                            <label for="organisation" class="col-md-4 col-form-label text-md-right">{{ __('Organisation') }}</label>
+                            <label for="organization" class="col-md-4 col-form-label text-md-right">{{ __('Organisation') }}</label>
 
                             <div class="col-md-6">
-                                <input id="organisation" type="text" class="form-control{{ $errors->has('organisation') ? ' is-invalid' : '' }}" name="organisation" value="{{ old('organisation') }}" required autofocus>
+                                <input id="organization" type="text" class="form-control{{ $errors->has('organization') ? ' is-invalid' : '' }}" name="organization" value="{{ old('organization') }}" required autofocus>
 
-                                @if ($errors->has('organisation'))
+                                @if ($errors->has('organization'))
                                     <span class="invalid-feedback" role="alert">
-                                        <strong>{{ $errors->first('organisation') }}</strong>
+                                        <strong>{{ $errors->first('organization') }}</strong>
                                     </span>
                                 @endif
                             </div>

@@ -7,6 +7,7 @@ use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Foundation\Auth\RegistersUsers;
+use App\models\Title;
 
 class RegisterController extends Controller
 {
@@ -54,7 +55,7 @@ class RegisterController extends Controller
             'familyName' => ['required', 'string', 'max:255'],
             'email' => ['required', 'string', 'email', 'max:255', 'unique:users'],
             'password' => ['required', 'string', 'min:8', 'confirmed'],
-            'organisation' => ['required', 'string', 'max:255'],
+            'organization' => ['required', 'string', 'max:255'],
             'country_id' => ['required','integer','min:1']
         ]);
     }
@@ -81,8 +82,38 @@ class RegisterController extends Controller
             'familyName' => $data['familyName'],
             'email' => $data['email'],
             'password' => Hash::make($data['password']),
-            'organisation' => $data['organisation'],
+            'organization' => $data['organization'],
             'country_id' => $data['country_d']
         ]);
+    }
+
+    public static function title_select($option) {
+        // return option list for html select
+        $titles = \App\Models\Title::select('title','id')->get();
+        $s = '';
+        foreach ($titles as $title) {
+            if ($title->id == $option) {
+                $s .= '<option value="'.$title->id.'" selected>'.$title->title.'</option>';
+            }
+            else {
+                $s .= '<option value="'.$title->id.'">'.$title->title.'</option>';
+            }
+        }
+        return $s;;
+    }
+
+    public static function country_select($option) {
+        $countries = \App\Models\Country::select('country','id')->get();
+        $s = '';
+        foreach ($countries as $country) {
+            if ($country->id == $option) {
+                $s .= '<option value="'.$country->id.'" selected>'.$country->country.'</option>';
+            }
+            else {
+                $s .= '<option value="'.$country->id.'">'.$country->country.'</option>';
+            }
+        }
+        return $s;;
+
     }
 }

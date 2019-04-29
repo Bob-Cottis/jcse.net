@@ -113,7 +113,7 @@ class dbXferController extends Controller
                     // if ($r->JCSEPassword === null) {$r->JCSEPassword = '';}
 
                     array_push($newRst, ['id' => $r->PrimaryKey, 'email' => $r->email, 'plainTextPassword' => $r->JCSEPassword,
-                        'userprofile_id' => $r->PrimaryKey, 'organisation' => $r->Organization, 'givenName' => $r->Initials,
+                        'userprofile_id' => $r->PrimaryKey, 'organization' => $r->Organization, 'givenName' => $r->Initials,
                         'familyName' => $r->Surname, 'country_id' => $r->Countries_ID, 'title_id' => $r->Titles_ID]);
                     array_push($newRst2, ['id' => $r->PrimaryKey, 'salutation' => $r->Salutation,
                         'address1' => $r->Address1, 'address2' => $r->Address2, 'address3' => $r->Address3, 'postCode' => $r->{'Post Code'},

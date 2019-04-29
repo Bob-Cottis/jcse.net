@@ -11,10 +11,10 @@ $logged_in=is_loggedin();
 <meta name="ProgId" content="FrontPage.Editor.Document">
 <link rel="schema.DC" href="http://purl.org/dc"> 
 <link rel="schema.Corrosion" href="http://corrosiontest.its.manchester.ac.uk/ocean/OSIS_1.0_doc" title="OCEAN Service Information Sheet">
-<meta name="DC.Creator" scheme="OCEANName" content="personName=S.H. Zhang;organisationName=Corrosion and Protection Centre, UMIST;
+<meta name="DC.Creator" scheme="OCEANName" content="personName=S.H. Zhang;organizationName=Corrosion and Protection Centre, UMIST;
 
 address=P.O.Box 88, Manchester, M60 1QD, UK">
-<meta name="DC.Contributor" scheme="OCEANName" content="personName=S.B. Lyon;organisationName=Corrosion and Protection Centre, UMIST;
+<meta name="DC.Contributor" scheme="OCEANName" content="personName=S.B. Lyon;organizationName=Corrosion and Protection Centre, UMIST;
 
 address=P.O.Box 88, Manchester, M60 1QD, UK;email=S.B.Lyon@umist.ac.uk">
 <meta name="DC.Title" content="JCSE Volume 1, Paper 1, Retention of Passivity on Iron After Several Months Atmospheric Exposure">

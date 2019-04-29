@@ -18,7 +18,7 @@ $logged_in=is_loggedin();
 <meta name="DC.Contributor" scheme="OCEANName" content="personName=J.D. Scantlebury;
                                                     address=Corrosion and Protection Centre, UMIST, P.O. Box 88, Manchester M60 1QD, UK;
                                                     email=David.Scantlebury@manchester.ac.uk">
-<meta name="DC.Publisher" content="organisationName=UMIST"> 
+<meta name="DC.Publisher" content="organizationName=UMIST">
 <meta name="DC.Date.created" scheme="W3CDTF" content="1995-04-20"> 
 <meta name="DC.Date.issued" scheme="W3CDTF" content="1995-06-28"> 
 <meta name="DC.Type" scheme="DCMIType" content="Text"> 

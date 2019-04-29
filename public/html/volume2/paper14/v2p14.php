@@ -11,8 +11,8 @@ $logged_in=is_loggedin();
 <meta name="Originator" content="Microsoft Word 9">
 <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" title="Dublin Core Metadata Element Set">
 <link rel="schema.Corrosion" href="http://www.oceancorrosion.org/OSIS/1.0" title="OCEAN Service Information Sheet">
-<meta name="DC.Creator" lang="en" content="personName=W.J van Ooij; organisationName=Department of Materials Science and Engineering University of Cincinnati; email=wvanooij@uceng.uc.edu">
-<meta name="DC.Publisher" lang="en" content="organisationName=UMIST; email=Admin@jcse.org">
+<meta name="DC.Creator" lang="en" content="personName=W.J van Ooij; organizationName=Department of Materials Science and Engineering University of Cincinnati; email=wvanooij@uceng.uc.edu">
+<meta name="DC.Publisher" lang="en" content="organizationName=UMIST; email=Admin@jcse.org">
 <meta name="DC.Rights" scheme="OCEANRights" content="access=free; address=http://www.jcse.org/details.php">
 <meta name="DC.Title" lang="en" content="Silane Coatings for Replacement of Phosphate/Chromate Pretreatments of Automotive Metal Sheets">
 <meta name="DC.Subject" scheme="OCEANDictionary-V101" content="silanes; phosphates; chromates; steel; automotive components">

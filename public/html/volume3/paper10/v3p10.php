@@ -2844,7 +2844,7 @@ Sado. Afnor Technique</p>
 
 <p>29&nbsp;&nbsp;&nbsp; </span>Introduction
 aux Plan d�exp�rience par la m�thode Taguchi. M.Pillet, les Editions
-d�organisation Universit�.</p>
+d�organization Universit�.</p>
 
 <p>30&nbsp;&nbsp;&nbsp; </span>Statistics
 for experimenters. An introduction to design data. Analysis and Model Building

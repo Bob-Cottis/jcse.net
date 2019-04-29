@@ -9,7 +9,7 @@ class User extends Model
 
     protected $table = 'users';
     public $timestamps = true;
-    protected $fillable = array('title_id', 'familyName', 'organisation');
+    protected $fillable = array('title_id', 'familyName', 'organization');
 
     public function profile()
     {
