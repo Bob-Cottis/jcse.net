@@ -1,13 +1,13 @@
 <?php
 
-namespace App\Models;
+namespace App/Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class SpecialVolume extends Model 
+class Specialvolume extends Model 
 {
 
-    protected $table = 'specialVolumes';
+    protected $table = 'specialvolumes';
     public $timestamps = true;
 
 }

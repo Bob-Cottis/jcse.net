@@ -12,7 +12,7 @@ class Source extends Model
 
     public function source()
     {
-        return $this->belongsTo('UserProfile');
+        return $this->belongsTo('Userprofile');
     }
 
 }

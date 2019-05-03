@@ -9,9 +9,10 @@ return [
     'NO_COMMENT'=>'<h2>No Comments to this paper</h2>'.
         'There are no comments to this paper',
     'CA_CONFIRM_EMAIL_SUBJ'=>':jrnlShortName Comment on Volume :vol, Paper :pap',
-    'CA_CONFIRM_EMAIL_BODY'=>'<p>A comment has been recorded in your name about Paper :pap in Volume :vol of :jrnlShortName. '.
+    'CA_CONFIRM_EMAIL_BODY'=>'<p>The comment given below has been recorded in your name about Paper :pap in Volume :vol of :jrnlShortName. '.
         'Please go to <a href=":link">:link</a> within 5 days to confirm the submission. If you '.
-        'did not make this comment or do not wish to proceed with its publication, you may ignore this message.</p>',
+        'did not make this comment or do not wish to proceed with its publication, you may ignore this message.</p><HR>'.'
+        <p>Comment on :pageOrPara </p>',
     'CA_REMIND_EMAIL_SUBJ'=>':jrnlShortName Confirmation Reminder, Comment on Volume :vol, Paper :pap',
     'CA_REMIND_EMAIL_BODY'=>'<p>This is a reminder that your comment on Paper :pap, Volume :vol of :jrnlShortName has been prepared. '.
         'We have not yet received your confirmation that you submitted this comment and are happy with it. please go to '.

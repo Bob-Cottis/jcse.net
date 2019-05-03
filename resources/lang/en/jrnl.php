@@ -15,6 +15,6 @@ return ['WELCOME_GUEST'=>'<p>Editor: <i> :mailToEditor </i></p>'.
     'WELCOME_USER'=>'<p>Editor: <i> :mailToEditor </i></p>'.
         '<p>This is the new version of the JCSE system, see :jrnlURL/newVersion . </p>'.
         '<p>Please notify any  problems in accessing the new version by email to :mailToAdmin',
-    'ADMIN_SIG'=>'<a href="mailto:Admin@jcse.org">JCSE Admin</a>',
+    'ADMIN_SIG'=>'<a href="mailto:Admin@jcse.org">JCSE Admin</a>'
 ];
 

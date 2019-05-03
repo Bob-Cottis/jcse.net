@@ -4,15 +4,15 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class OrganizationType extends Model 
+class Organizationtype extends Model 
 {
 
-    protected $table = 'organizationTypes';
+    protected $table = 'organizationtypes';
     public $timestamps = false;
 
     public function orgType()
     {
-        return $this->belongsTo('UserProfile', 'orgType_id');
+        return $this->belongsTo('Userprofile', 'orgType_id');
     }
 
 }

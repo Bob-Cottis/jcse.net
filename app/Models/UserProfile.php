@@ -4,25 +4,15 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class UserProfile extends Model 
+class Userprofile extends Model 
 {
 
-    protected $table = 'userProfiles';
+    protected $table = 'userprofiles';
     public $timestamps = true;
-
-    public function title()
-    {
-        return $this->hasOne('Title');
-    }
 
     public function category()
     {
         return $this->hasOne('Category');
-    }
-
-    public function country()
-    {
-        return $this->hasOne('Country');
     }
 
     public function source()
@@ -32,7 +22,12 @@ class UserProfile extends Model
 
     public function orgType()
     {
-        return $this->hasOne('OrganizationType', 'orgType_id');
+        return $this->hasOne('Organizationtype', 'orgType_id');
+    }
+
+    public function language()
+    {
+        return $this->hasOne('Language');
     }
 
 }

@@ -11,5 +11,6 @@ return ['url'=>env('JRNL_URL','http://www.jcse.org'),
     'issn'=>env('JRNL_ISSN','1466-8858'),
     'description'=>env('JRNL_DESC','The electronic journal for all aspects of corrosion'),
     'mailToAdmin'=>env('JRNL_MAIL_TO_ADMIN','<a href="mailto:Admin@jcse.org">JCSE Administration</a>'),
+    'adminEmail'=>'admin@jcse.org',
     'mailToEditor'=>env('JRNL_MAIL_TO_EDITOR','<a href="mailto:Editor@jcse.org">Bob Cottis</a>'),
     'maxVol'=>env('JRNL_MAX_VOL','22')];

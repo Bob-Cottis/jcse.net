@@ -11,8 +11,10 @@
 <body>
 <p>Dear {{ $data['salutation'] }}</p>
 {!! __('comments.CA_CONFIRM_EMAIL_BODY',$data) !!}
+<hr />
+<p>{{ $data['comment'] }}</p>
+<hr />
 {!! __('jrnl.ADMIN_SIG') !!}
-{!! __('jrnl.DO_NOT_REPLY') !!}
 </body>
 </html>
 

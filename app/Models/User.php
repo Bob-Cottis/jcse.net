@@ -2,28 +2,40 @@
 
 namespace App\Models;
 
-use Illuminate\Database\Eloquent\Model;
-
-class User extends Model 
+use Illuminate\Notifications\Notifiable;
+use Illuminate\Contracts\Auth\MustVerifyEmail;
+use Illuminate\Foundation\Auth\User as Authenticatable;
+class User extends Authenticatable implements MustVerifyEmail
 {
+    use Notifiable;
 
     protected $table = 'users';
     public $timestamps = true;
-    protected $fillable = array('title_id', 'familyName', 'organization');
+    protected $fillable = array('familyName', 'organization');
 
     public function profile()
     {
-        return $this->hasOne('UserProfile', 'userProfile_id');
+        return $this->belongsTo('Userprofile', 'userProfile_id');
     }
 
-    public function author()
+    public function papers()
     {
-        return $this->belongsToMany('User', 'author_id');
+        return $this->belongsToMany('Paper', 'paperauthors', 'author_id', 'paper_id');
     }
 
     public function editor()
     {
-        return $this->belongsToMany('User', 'editor_id');
+        return $this->hasMany('Paper', 'editor_id');
+    }
+
+    public function title()
+    {
+        return $this->belongsTo('Title');
+    }
+
+    public function country()
+    {
+        return $this->belongsTo('Country');
     }
 
 }

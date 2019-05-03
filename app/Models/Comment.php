@@ -12,17 +12,17 @@ class Comment extends Model
 
     public function author()
     {
-        return $this->belongsTo('User', 'author_id');
+        return $this->hasOne('User', 'author_id');
     }
 
     public function editor()
     {
-        return $this->belongsTo('User', 'editor_id');
+        return $this->hasOne('User', 'editor_id');
     }
 
     public function paper()
     {
-        return $this->belongsTo('Paper', 'paper_id');
+        return $this->hasOne('Paper', 'paper_id');
     }
 
 }

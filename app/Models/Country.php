@@ -10,9 +10,9 @@ class Country extends Model
     protected $table = 'countries';
     public $timestamps = false;
 
-    public function country()
+    public function users()
     {
-        return $this->belongsTo('UserProfile');
+        return $this->belongsToMany('User');
     }
 
 }

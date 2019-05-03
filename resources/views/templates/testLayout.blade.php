@@ -11,7 +11,7 @@
     <title>
         @yield('title')
         @section('title')
-            {{ config('jrnl.shortName') }}
+            JCSE
         @endsection
     </title>
 </head>

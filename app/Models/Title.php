@@ -10,4 +10,9 @@ class Title extends Model
     protected $table = 'titles';
     public $timestamps = false;
 
+    public function users()
+    {
+        return $this->hasMany('User');
+    }
+
 }

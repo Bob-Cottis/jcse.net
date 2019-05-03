@@ -10,4 +10,9 @@ class Category extends Model
     protected $table = 'categories';
     public $timestamps = false;
 
+    public function user()
+    {
+        return $this->hasMany('Userprofile');
+    }
+
 }

@@ -12,7 +12,7 @@ class Language extends Model
 
     public function language()
     {
-        return $this->belongsTo('UserProfile');
+        return $this->hasMany('Userprofile');
     }
 
 }

@@ -9,7 +9,7 @@
                 <div class="card">
                     <div class="card-header">{{ config('jrnl.shortName') }} Comment on Volume {{ $vol }}, Paper {{ $pap }}</div>
                     <div class="card-body">
-                        <form method="POST" action="{{ route('createComment') }}">
+                        <form method="POST" action="{!! route('createComment') !!}">
                             @csrf
 
                             <div class="form-group row">
@@ -58,7 +58,7 @@
                             <div class="form-group row mb-0">
                                 <div class="col-md-6 offset-md-3">
                                     <button type="submit" class="btn btn-primary">
-                                        {{ __('Submit') }}
+                                        {{ __('submit.Submit') }}
                                     </button>
                                 </div>
                             </div>
