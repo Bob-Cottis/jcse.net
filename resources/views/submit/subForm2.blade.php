@@ -17,7 +17,7 @@
                     <div class="card-body">
                         <form method="POST" action="{!! url('/createPaper') !!}">
                             @csrf
-
+                            <input type="hidden" id="leadAuthor" name="leadAuthor" value="{{ auth()->user()->id }}">
                             <div class="form-group row">
                                 <label for="title"
                                        class="col-md-2 col-form-label text-md-right">{{ __('submit.paperTitle') }}</label>
@@ -70,7 +70,7 @@
                             <div>
                                 {!! __('submit.authorHelp') !!}
                             </div>
-                            @if (is_null(old('email')))
+                            @if (is_null(old('authemail')))
                                 <div class="repeat-role">
                                     <div class="card bg-light">
                                         <div class="card-header h4">{!! __('submit.Author') !!} 1
@@ -92,6 +92,7 @@
                                                 </button>
                                             </div>
                                         </div>
+                                        <input type="hidden" class="auth_id" name="auth_id[]" value="{{ auth()->user()->id }}">
                                         <div class="auth-details d-none">
                                             <div class="col-md-8 offset-md-2">{{ __('submit.EnterAuthDetails') }}
                                             </div>
@@ -141,18 +142,6 @@
                                                     </select>
                                                 </div>
                                             </div>
-                                            <div class="form-group row">
-                                                <label for="authcountry_id[]"
-                                                       class="col-md-2 col-form-label text-md-right">{{ __('submit.country') }}</label>
-                                                <div class="col-md-8">
-                                                    <select type="text"
-                                                            class="authcountry_id" name="authcountry_id[]"
-                                                            autofocus>
-                                                        {!! \App\Http\Controllers\Auth\RegisterController::country_select(0) !!}
-                                                        }
-                                                    </select>
-                                                </div>
-                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -161,7 +150,7 @@
                                     $count = 0;
                                     $old_email = old('authemail.0');
                                 @endphp
-                                @while (!is_null($old_email) || $errors->has('authemail.'.$count))
+                                @while (!is_null(old('authemail.'.$count)) || $errors->has('authemail.'.$count))
                                     <div class="repeat-role">
                                         <div class="card bg-light">
                                             <div class="card-header h4">{{ __('submit.Author') }} {{ $count+1 }}
@@ -173,7 +162,7 @@
                                                     <input type="email"
                                                            class="authemail form-control{{ $errors->has('authemail.'.$count) ? ' is-invalid' : '' }}"
                                                            name="authemail[{{ $count }}]"
-                                                           value="{{ old('authemail.'.$count) }} required autofocus>
+                                                           value="{{ old('authemail.'.$count) }}" required autofocus>
                                                 @if ($errors->has('authemail.'.$count))
                                                                    <span class="invalid-feedback" role="alert">
                                                     <strong>{{ $errors->first('authemail.'.$count) }}</strong>
@@ -189,11 +178,13 @@
                                                     </button>
                                                 </div>
                                             </div>
-                                            @if (is_null( old('authemail')))
+                                            @if (is_null( old('auth_id.'.$count)))
+                                                <input type="hidden" name="auth_id[{{ $count }}]" value="">
                                                 <div class="auth-details d-all">
-                                            @else
-                                                <div class="auth-details d-none">
-                                            @endif
+                                                @else
+                                                        <input type="hidden" name="auth_id[{{ $count }}]" value="">
+                                                        <div class="auth-details d-none">
+                                                    @endif
                                                     <div class="col-md-8 offset-md-2">{{ __('submit.EnterAuthDetails') }}
                                                     </div>
                                                     <div class="form-group row">
@@ -221,7 +212,7 @@
                                                                    class="authgivenName form-control{{ $errors->has('authgivenName.'.$count) ? ' is-invalid' : '' }}"
                                                                    autofocus
                                                                    name="authegivenName[{{ $count }}]"
-                                                                   value="{{ old('authgivenName.'.$count) }} required autofocus>
+                                                                   value="{{ old('authgivenName.'.$count) }}" required autofocus>
                                                                     @if ($errors->has('authgivenName.'.$count))
                                                                            <span class=" invalid-feedback"
                                                                                 role="alert">
@@ -238,7 +229,7 @@
                                                                            class="authfamilyName form-control{{ $errors->has('authfamilyName.'.$count) ? ' is-invalid' : '' }}"
                                                                            autofocus
                                                                            name="authfamilyName[{{ $count }}]"
-                                                                           value="{{ old('authfamilyName.'.$count) }} required autofocus>
+                                                                           value="{{ old('authfamilyName.'.$count) }}" required autofocus>
                                                 @if ($errors->has('authfamilyName.'.$count))
                                                                                    <span class=" invalid-feedback"
                                                                     role="alert">
@@ -255,8 +246,8 @@
                                                                            class="organization form-control{{ $errors->has('organization.'.$count) ? ' is-invalid' : '' }}"
                                                                            autofocus
                                                                            name="organization[{{ $count }}]"
-                                                                           value="{{ old('organization.'.$count) }} required autofocus>
-                                                @if ($errors->has('organization.'.$count))
+                                                                           value="{{ old('organization.'.$count) }}" required autofocus>
+                                                                    @if ($errors->has('organization.'.$count))
                                                                                    <span class=" invalid-feedback"
                                                                     role="alert">
                                                                     <strong>{{ $errors->first('organization.'.$count) }}</strong>
@@ -273,7 +264,7 @@
                                                                             class="authcountry_id" name="authcountry_id[{{ $count }}]"
                                                                             autofocus>
                                                                         {!! \App\Http\Controllers\Auth\RegisterController::country_select(old('authcountry_id.'.$count)) !!}
-                                                                        }
+
                                                                     </select>
                                                                     @if ($errors->has('authcountry_id.'.$count))
                                                                         <span class=" invalid-feedback"
@@ -288,6 +279,9 @@
                                                 </div>
                                         </div>
                                     </div>
+                                    @php
+                                    $count++;
+                                    @endphp
                                 @endwhile
                             @endif
                             <div class="form-group row mb-0">
@@ -323,12 +317,12 @@
                 var dat = JSON.parse(data);
                 var $details = $block.find('.auth-details');
                 if (dat.status == 1) {
-                    $block.find('.auth-id').val(dat.id);
+                    $block.find('.auth_id').val(dat.id);
                     $block.find('.email-check').text("{{ __('submit.AuthReg') }}").addClass('text-success').removeClass('text-primary');
                     $details.removeClass('d-all').addClass('d-none');
                     $details.find('input').removeAttr('required', 'required');
                 } else {
-                    $block.find('.auth-id').val('0');
+                    $block.find('.auth_id').val('');
                     $block.find('.email-check').text("{{ __('submit.NotReg') }}").addClass('text-primary').removeClass('text-success');
                     $block.find('input').attr('required', 'required');
                     $details.removeClass('d-none').addClass('d-all');
@@ -354,11 +348,14 @@
             lastRepeatingGroup.removeClass('current-role');
             newSection.find('.card-header').text('{{ __('submit.Author') }} ' + newCount);
             newSection.find('.auth-details').removeClass('d-all').addClass('d-none');
+            newSection.find('.auth_id').val('');
             newSection.find('.authemail').val('').html('');
-            newSection.find('.authtitle').val(0);
+            newSection.find('.authtitle').val(1);
             newSection.find('.authgivenName').val('');
             newSection.find('.authfamilyName').val('');
-            newSection.find('.email-check').text('{{ __('NotReg') }}').removeClass('text-success').addClass('text-primary');
+            newSection.find('.authorganization').val('');
+            newSection.find('.authcountry').val(1);
+            newSection.find('.email-check').text('{{ __('submit.Check') }}').removeClass('text-success').addClass('text-primary');
             newSection.insertAfter(lastRepeatingGroup).hide().addClass('current-role new-role').slideDown(1000);
             return false;
         });

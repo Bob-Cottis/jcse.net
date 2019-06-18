@@ -10,14 +10,14 @@ class Referee extends Model
     protected $table = 'referees';
     public $timestamps = true;
 
-    public function referee()
+    public function user()
     {
-        return $this->hasOne('User', 'user_id');
+        return $this->belongsTo('App\Models\User');
     }
 
     public function paper()
     {
-        return $this->hasOne('Paper', 'paper_id');
+        return $this->belongsTo('App\Models\Paper');
     }
 
 }

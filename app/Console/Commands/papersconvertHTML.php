@@ -42,10 +42,10 @@ class papersconvertHTML extends Command
         foreach ($papers as $paper) {
             $vol = $paper->volume;
             $pap = $paper->paperNumber;
-            $oldHtmlPaperName = base_path(sprintf('resources/views/htm/volume%d/paper%d/v%dp%d.php',$vol,$pap,$vol,$pap));
-            $oldHtmlPreprintName = base_path(sprintf('resources/views/htm/volume%d/paper%d/v%dpreprint%d.php',$vol,$pap,$vol,$pap));
-            $newHtmlPaperName = base_path(sprintf('htm/%03d/%03d/JCSE_Volume_%03d_Paper_%03d_Rev_01.pdf',$vol,$pap,$vol,$pap));
-            $newHtmlPreprintName =  base_path(sprintf('htm/%03d/%03d/JCSE_Volume_%03d_Preprint_%03d_Rev_01.pdf',$vol,$pap,$vol,$pap));
+            $oldHtmlPaperName = base_path(sprintf('public/html/volume%d/paper%d/v%dp%d.php',$vol,$pap,$vol,$pap));
+            $oldHtmlPreprintName = base_path(sprintf('public/html/volume%d/paper%d/v%dpreprint%d.php',$vol,$pap,$vol,$pap));
+            $newHtmlPaperName = resource_path(sprintf('views/htm/%03d/JCSE_Volume_%03d_Paper_%03d_Rev_01.blade.php',$vol,$vol,$pap));
+            $newHtmlPreprintName =  resource_path(sprintf('views/htm/%03d/JCSE_Volume_%03d_Preprint_%03d_Rev_01.blade.php',$vol,$vol,$pap));
             if (!file_exists($oldHtmlPaperName)) {
                 // mark format as not html
                 $paper->paperHTML = 0;
@@ -54,7 +54,7 @@ class papersconvertHTML extends Command
                 $paper->paperHTML = 1;
 
                 // now convert paper
-                $this->convertHTML($newHtmlPaperName,$oldHtmlPaperName);
+                $this->convertHTML($newHtmlPaperName,$oldHtmlPaperName,$vol,$pap);
             }
             if (!file_exists($oldHtmlPreprintName)) {
                 // mark format as not html
@@ -64,15 +64,17 @@ class papersconvertHTML extends Command
                 $paper->preprintHTML = 1;
 
                 // now convert paper
-                $this->convertHTML($newHtmlPreprintName, $oldHtmlPreprintName);
+                $this->convertHTML($newHtmlPreprintName, $oldHtmlPreprintName,$vol,$pap);
             }
+            $paper->save();
 
         }
     }
 
-    protected function convertHTML($htmlname, $oldName)
+    protected function convertHTML($htmlName, $oldName, $vol, $pap)
     {
         // load file
+        $this->line('Converting '.$oldName.' to '.$htmlName);
         $doc = file_get_contents($oldName);
         //return $doc;
         if (!$doc)
@@ -85,7 +87,7 @@ class papersconvertHTML extends Command
         $newdoc='';
         $pos = strpos($doc,$search);
         while ($pos !== false) {
-            $newdoc = $newdoc.substr($doc,0,$pos+9).'&sect;'.$count;
+            $newdoc = $newdoc.substr($doc,0,$pos+9).$count;
             $doc = substr($doc,$pos+9);
             $pos = strpos($doc,$search);
             $count++;
@@ -111,7 +113,7 @@ class papersconvertHTML extends Command
             '',
             '',
             '$2&sect;$1 ',
-            '$1' . asset(sprintf('/html/volume%d/paper%d', $vol, $pap)) . '/$2$3',
+            '$1' . asset(sprintf('html/volume%d/paper%d', $vol, $pap)) . '/$2$3',
             '$1',
             '',
             '',
@@ -121,7 +123,7 @@ class papersconvertHTML extends Command
         //return ['s'=>['search' => $search, 'replace' => $replace]];
         $doc = preg_replace($search, $replace, $doc);
         //return $doc;
-        return file_put_contents($htmlname, $doc);
+        return file_put_contents($htmlName, $doc);
     }
 
 }

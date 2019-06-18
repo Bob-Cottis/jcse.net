@@ -27,7 +27,7 @@
                             </div>
 
                             <div class="form-group row">
-                                <label for="givenName" class="col-md-3 col-form-label text-md-right">{{ $pageOrPara }}</label>
+                                <label for="para" class="col-md-3 col-form-label text-md-right">{{ $html?'Paragraph':'Page' }}</label>
 
                                 <div class="col-md-2">
                                     <input id="para" type="number" class="form-control{{ $errors->has('para') ? ' is-invalid' : '' }}" name="para" value="{{ old('para') }}" required autofocus>

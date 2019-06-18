@@ -10,19 +10,19 @@ class Comment extends Model
     protected $table = 'comments';
     public $timestamps = true;
 
-    public function author()
+    public function commAuthor()
     {
-        return $this->hasOne('User', 'author_id');
+        return $this->belongsTo('\App\Models\User','commAuthor_id');
     }
 
     public function editor()
     {
-        return $this->hasOne('User', 'editor_id');
+        return $this->belongsTo('\App\Models\User');
     }
 
     public function paper()
     {
-        return $this->hasOne('Paper', 'paper_id');
+        return $this->belongsTo('\App\Models\Paper');
     }
 
 }

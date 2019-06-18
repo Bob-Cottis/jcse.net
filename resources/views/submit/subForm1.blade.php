@@ -3,9 +3,9 @@
     @lang('submit.ttl')
     @endsection
 @section('content')
-    @lang('submit.header1')
+    @lang('submit.header1',['PDFAdviceLink'=>url('/PDFAdvice')])
     @auth
-        <a href="{!! route('subForm2') !!}" class="btn btn-info" role="button">Start Submission</a>
+        <a href="{!! route('subForm2') !!}" class="btn btn-primary" role="button">Start Submission</a>
     @endauth
     @guest
         <p><strong>{{ __('submit.mustRegister') }}</strong></p>

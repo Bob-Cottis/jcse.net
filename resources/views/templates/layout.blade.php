@@ -7,6 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
     <meta name="author" content="">
+    @yield('header')
 
     <title>
         @yield('title')
@@ -21,7 +22,13 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <!-- Custom styles for this template -->
     <link href="{{ asset('css/jcseStyle.css') }}" rel="stylesheet">
-
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+        (adsbygoogle = window.adsbygoogle || []).push({
+            google_ad_client: "ca-pub-2798773881058093",
+            enable_page_level_ads: true
+        });
+    </script>
 </head>
 
 <body>
@@ -47,7 +54,7 @@
                     <input type="submit" name="submit" value="Go" />
                 </form>
             </div>
-            <a href="{{route('showPage',['msg'=>'jmMessages.submission'])}}" class="list-group-item list-group-item-action ">Paper Submission</a>
+            <a href="{{route('subForm1')}}" class="list-group-item list-group-item-action ">Paper Submission</a>
             <a href="{{route('showPage',['msg'=>'jmMessages.FAQ'])}}" class="list-group-item list-group-item-action ">FAQ</a>
             @yield('sidebar')
             <a href="{{route('showPage',['msg'=>'jmMessages.contactUs'])}}" class="list-group-item list-group-item-action ">Contact Us</a>

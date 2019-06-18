@@ -1,7 +1,7 @@
-@extends('templates.TestLayout')
+@extends('templates.layout')
 @section('title')
-    Comment Submitted
+    Comment Confirmed
 @endsection
 @section('content')
-    {!! __('comment.CA_CONFIRM') !!}
+    {!! __('comments.CA_CONFIRM') !!}
 @endsection

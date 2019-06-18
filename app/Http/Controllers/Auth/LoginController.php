@@ -39,6 +39,9 @@ class LoginController extends Controller
 
     public function authenticate(Request $request)
     {
+        if (!session()->has('url.intended')) {
+            redirect()->setIntendedUrl(session()->previousUrl());
+        }
         $credentials = $request->only('email', 'password');
 
         if (Auth::attempt($credentials)) {

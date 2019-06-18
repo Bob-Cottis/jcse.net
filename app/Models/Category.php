@@ -12,7 +12,7 @@ class Category extends Model
 
     public function user()
     {
-        return $this->hasMany('Userprofile');
+        return $this->hasManyThrough('App\Models\User','App\Models\Userprofile');
     }
 
 }

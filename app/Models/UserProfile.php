@@ -12,22 +12,26 @@ class Userprofile extends Model
 
     public function category()
     {
-        return $this->hasOne('Category');
+        return $this->hasOne('App\Models\Category','id','category_id');
     }
 
     public function source()
     {
-        return $this->hasOne('Source');
+        return $this->hasOne('App\Models\Source','id','source_id');
     }
 
     public function orgType()
     {
-        return $this->hasOne('Organizationtype', 'orgType_id');
+        return $this->hasOne('App\Models\Organizationtype', 'id', 'orgType_id');
     }
 
     public function language()
     {
-        return $this->hasOne('Language');
+        return $this->hasOne('App\Models\Language','id','language_id');
     }
 
+    public function user()
+    {
+        return $this->hasOne('App\Models\User');
+    }
 }

@@ -1,4 +1,4 @@
 @extends('templates.layout')
 @section('content')
-@include($fname)
+    {!! __('comments.ED_CONFIRM') !!}
 @endsection

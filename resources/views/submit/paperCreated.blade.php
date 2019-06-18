@@ -4,7 +4,11 @@
         <div class="row justify-content-center">
             <div class="col-md-10">
                 <div class="card">
-                    <div class="card-header">{!! __('submit.paperCreated') !!}
+                    @if ($modify==1)
+                        <div class="card-header">{!! __('submit.paperModified') !!}
+                    @else
+                        <div class="card-header">{!! __('submit.paperCreated') !!}
+                    @endif
                     </div>
                     <div class="card-body">
                         <form method="POST" action="{{ route('/loadPaper') }}" enctype="multipart/form-data">
@@ -16,6 +20,7 @@
                             <span class="invalid-feedback" role="alert"><strong>{{ $errors->first('file') }}</strong></span>
                             @endif
                             <input hidden name="paper_id" value="{{ $paper_id }}">
+                            <input hidden name="confirmCode" value="{{ $confirmCode }}">
                             <button type="submit">Upload</button>
                         </form>
                     </div>

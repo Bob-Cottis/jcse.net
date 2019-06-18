@@ -56,4 +56,6 @@ return [
         '(if you have not already done so) and <a href="/login">Login</a>. Registration is completely free.</p></strong>',
     'VP_HTML_MSG'=>'<p>Early papers in JCSE were published as web pages, and comments in these paper reference the paragraph numbers. '.
         'For this reason paragraph numbers have been embedded in the web page in the form &sect;1. You can view comments '.
-        '(if there are any) via the button below.</p>'];
+        '(if there are any) via the button below.</p>',
+    'VP_PDF_MSG'=>''
+    ];
