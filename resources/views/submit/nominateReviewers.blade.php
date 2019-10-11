@@ -5,12 +5,42 @@
 @section('title')
     config('jrnl.shortName') {{ __('submit.Nominate Reviewers') }}
     @endsection
+@section('header')
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/css/bootstrap-select.min.css">
+    @endsection
 @section('content')
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-10">
             <div class="card">
-                <div class="card-header"><h4>{{ __('submit.Nominate Reviewers',['shortName'=>$shortName,'vol'=>$vol,'pap'=>$pap]) }}</h4>
+                <div class="card-header"><h4 class="jrnl-text">{{ __('submit.Nominate Reviewers',['shortName'=>$shortName,'vol'=>$vol,'pap'=>$pap]) }}</h4>
+                </div>
+                <form method="post" action="{{ route('paUpdateRevs') }}">
+                    @csrf
+                    <input type="hidden" name="paper_id" value="{{ $id }}">
+                    <input type="hidden" name="confirmCode" value="{{ $confirmCode }}">
+                    {!! __('submit.selectTopics') !!}
+                    {{--select with multiple checkboxes--}}
+                    @php( $old_group = '' )
+                    @foreach($topics as $topic)
+                        @if ($topic['topicGroup']!= $old_group)
+                            <h5 class="jrnl-text">{{ $topic['topicGroup'] }}</h5>
+                            @php($old_group = $topic['topicGroup'])
+                        @endif
+                        <div class="form-check-inline col-md-3">
+                            <label class="form-check-label">
+                                <input type="checkbox" class="form-check-input" name="topics[]" value="{{ $topic['id'] }}">{{ $topic['topic'] }}
+                            </label>
+                        </div>
+                    @endforeach
+                    <div class="card-body">
+                   {{-- --}}{{--display multiple select for topics--}}{{--
+                    <select class="selectpicker show-tick" data-icon-base="fas" data-tick-icon="fa-check" multiple>
+                        @foreach ($topics as $topic)
+                            <option class="topic" value="{{ $topic->id }}">{{ $topic->name }}</option>
+                        @endforeach
+                    </select>
+--}}
                 </div>
                 <div class="card-body">
                     {!! __('submit.NomRevHeader',['shortName'=>$shortName]) !!}
@@ -18,7 +48,7 @@
                         <div class="form-row rev-row d-none">
                             <div class="col-md-1">&nbsp;</div>
                             <div class="col-md-3 text-md-right">
-                                <input type="hidden" class="rev-id" value="0">
+                                <input type="hidden" class="rev-id" name="revs[]" value="0">
                                 <button class="btn btn-primary delete"><i class="far fa-trash-alt"></i></button>
                             </div>
                             <div class="col-md-6">
@@ -32,7 +62,7 @@
                             <div class="form-row rev-row">
                                 <div class="col-md-1">&nbsp;</div>
                                 <div class="col-md-3 text-md-right">
-                                    <input type="hidden" class="rev-id" value="{{ $rev['id'] }}">
+                                    <input type="hidden" class="rev-id" name="revs[]" value="{{ $rev['id'] }}">
                                     <button class="btn btn-primary delete"><i class="far fa-trash-alt"></i></button>
                                 </div>
                                 <div class="col-md-6">
@@ -48,15 +78,10 @@
                     </div>
                     <div class="alert alert-success d-none"></div>
                     <div class="new-rev" line-height="150%">
-                        <div class="form-row">
-                            <div class="col-md-4 text-md-right">
-                                <button class="btn btn-primary" id="add-rev">{{ __('submit.addRev') }}</button>
-                            </div>
-                        </div>
-                        <div class="d-none" id="new-email-box">
+                        <div class="d-all" id="new-email-box">
                             <div class="form-row">
                                 <div class="col-md-2 offset-md-2">
-                                    <label for="new-title" class="col-form-label text-align:right">{{ __('submit.EmailAddress') }}</label>
+                                    <label for="new-email" class="col-form-label text-align:right">{{ __('submit.EmailAddress') }}</label>
                                 </div>
                                 <div class="col-md-6">
                                     <input type="email" class="new-email" placeholder="{{ __('submit.EmailAddress') }}" id="new-email">
@@ -66,7 +91,7 @@
                     </div>
                     <div class="form-row">
                         <div class="col-md-4 text-md-right">
-                            <button type="button" class="btn btn-primary d-none" id="check-and-add-btn">{{ __('submit.checkNewrev') }}</button>
+                            <button type="button" class="btn btn-primary d-all" id="check-and-add-btn">{{ __('submit.checkNewrev') }}</button>
                         </div>
                     </div>
 
@@ -132,10 +157,11 @@
                     </div>
                     <div class="form-row">
                         <div class="col-md-4 text-md-right">
-                            <button type="button" class="btn btn-primary" id="save-btn">{{ __('submit.submitRev') }}</button>
+                            <button type="submit" class="btn btn-primary" id="save-btn">{{ __('submit.submitRev') }}</button>
                         </div>
                     </div>
                 </div>
+                </form>
             </div>
         </div>
     </div>
@@ -143,6 +169,7 @@
 </div>
 @endsection
 @section('scripts')
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.9/dist/js/bootstrap-select.min.js"></script>
     <script>
 
         function hideEntryForm(){
@@ -189,7 +216,7 @@
                     // add new rev
                     addNewrev(dat.id,$('#new-email').val());
                     // hide address entry form
-                    hideEntryForm();
+                    // hideEntryForm();
                 }
                 else
                 {
@@ -200,32 +227,48 @@
             });
         });
 
+/*
         $('#save-btn').on('click', function() {
-            var data = '{"paper_id":{{ $id }},"confirmCode":"{{ $confirmCode }}","revs":[';
+            var data = {paper_id:{{ $id }},confirmCode:"{{ $confirmCode }}"};
+            var r = [];
             $('.rev-row').each(function (i, el) {
                 rev = $(this).find('.rev-id').val();
                 if (rev!=0) {
-                    data += '{"id":' + rev + '},';
+                    r.push({id:rev});
                 }
             });
-            // remove the lst comma
-            data = data.slice(0,-1);
-            data += ']}';
-            dat = JSON.parse(data);
+
+            data["revs"] = r;
+            var t = [];
+            $.each($("input[name='topic']:checked"), function(){
+                t.push($(this).val());
+            });
+            data["topics"] = t;
+            if (t==[]) {
+                alert('You must selet at least one topic');
+                return false
+            }
+            dat = JSON.stringify(data);
+            alert(dat);
             $.ajax({
                 headers: {'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')},
                 method: "POST",
-                url: "{{ route('updateRevs') }}",
+                url: "{{ route('paUpdateRevs') }}",
+                contentType : "application/json",
                 data: dat,
                 success: function (result) {
-                    $('.alert').html(result.success).addClass('d-all').removeClass('d-none');
+                    $('.alert').html(result.success).addClass('d-all').removeClass('d-none').addClass('alert-success').removeClass('alert-danger');
+                    window.location.replace("/paConfirmRevNom/"+paper_id);
+                },
+                error: function (xhr,textStatus,errorThrown) {
+                    $('.alert').html(xhr.statusText).addClass('d-all').removeClass('d-none').addClass('alert-danger').removeClass('alert-success');
                 }
             });
             //alert(result.success);
             //alert(document.referrer + '?t=' + Date());
-            // window.location = document.referrer;
-            return false;
+            return false
         });
+*/
 
         $('#save-add-btn').on('click', function() {
             var email = $('#new-email').val();
@@ -247,7 +290,7 @@
                     addNewrev(result.id,email);
                 }
             });
-            hideEntryForm();
+            // hideEntryForm();
         })
 
         $(document).on('click','.delete',function() {

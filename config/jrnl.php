@@ -14,3 +14,4 @@ return ['url'=>env('JRNL_URL','http://www.jcse.org'),
     'adminEmail'=>'admin@jcse.org',
     'mailToEditor'=>env('JRNL_MAIL_TO_EDITOR','<a href="mailto:Editor@jcse.org">Bob Cottis</a>'),
     'maxVol'=>env('JRNL_MAX_VOL','22')];
+

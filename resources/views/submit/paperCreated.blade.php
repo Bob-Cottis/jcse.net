@@ -21,7 +21,7 @@
                             @endif
                             <input hidden name="paper_id" value="{{ $paper_id }}">
                             <input hidden name="confirmCode" value="{{ $confirmCode }}">
-                            <button type="submit">Upload</button>
+                            <p><button type="submit">Upload</button></p>
                         </form>
                     </div>
                 </div>

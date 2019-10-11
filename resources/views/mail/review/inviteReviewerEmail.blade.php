@@ -9,6 +9,7 @@
 </head>
 
 <body>
-{!! __('submit.adConfirmRevsBody',$data) !!}
+{!! __('review.inviteReviewerEmailBody',$data) !!}
+
 </body>
 </html>

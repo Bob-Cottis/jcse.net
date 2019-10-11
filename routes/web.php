@@ -1,12 +1,14 @@
 <?php
 
 Route::get('/', 'ViewvolController@show')->name('home');
+Route::get('/error/{msg}', function($msg) {return view('error',['msg'=>$msg]);})->name('error');
 Route::get('/phpinfo', function() {return view('phpinfo');});
 Route::any('/dummy/{src}','DummyController@show')->name('dummy');
 Route::any('/viewAllVol','ViewvolController@showAll')->name('viewAllVol');
 Route::get('/viewvol/{vol}', 'ViewvolController@viewvolget')->name('viewVolget');
 Route::post('/viewvol', 'ViewvolController@viewvolpost')->name('viewVolpost');
-Route::get('/viewPaper/{vol}/{pap}/{typ?}/{rev?}','ViewpaperController@viewPaper',['middleware'=>'auth']);
+Route::get('/viewPaper/{vol}/{pap}/{typ?}/{rev?}','ViewpaperController@viewPaper',['middleware'=>'auth'])->name('viewPaper');
+//Route::get('/viewPaperByID/{id}','ViewpaperController@viewPaper',['middleware'=>'auth'])->name('viewPaperByID');
 Route::get('showPDF/{typ}/{vol}/{pap}/{rev?}','ViewpaperController@showPDF',['middleware'=>'auth'])->name('showPDF');
 Route::get('showHTML/{typ}/{vol}/{pap}/{rev}/{commentCount}', 'ViewpaperController@showHTML',['middleware'=>'auth'])->name('showHTML');
 Route::get('showPage/{page}', 'ShowPageController@show')->name('showPage');
@@ -31,7 +33,6 @@ Route::get('/CheckEmail/{email?}', 'SubmitController@checkEmail')->name('CheckEm
 Route::post('/createPaper', 'SubmitController@createPaper',['middleware'=>'auth'])->name('createPaper');
 Route::post('/postDump', function() {return view('submit.postDump');});
 Route::get('/testSubmit', function() {return view('submit.testSubmit');});
-Route::post('/postTest', 'SubmitController@postTest')->name('postTest');
 Route::get('/testSelects', function() {return view('/testSelects');});
 Route::post('/loadPaper','SubmitController@loadPaper',['middleware'=>'auth'])->name('/loadPaper');
 //Route::get('/paperSaved/{paper_id}','SubmitController@paperSaved')->name('paperSaved');
@@ -52,9 +53,26 @@ Route::get('/remindLoadPaper/{paper_id}/{confirmCode}/{modify}', function($paper
 Route::get('/PDFAdvice', function() {return view('submit.PDFAdvice');})->name('PDFAdvice');
 Route::post('/adApprove', 'SubmitController@adApprove')->middleware('auth')->name('adApprove');
 Route::get('/nominateReviewers/{id}/{confirmCode}', 'SubmitController@nominateReviewers')->middleware('auth')->name('nominateReviewers');
-Route::post('/updateRevs','SubmitController@updateRevs')->name('updateRevs');
-Route::get('/adConfirmRevs/{id}/{confirmCode}','SubmitController@adConfirmRevs')->middleware('auth')->name('adConfirmRevs');
-Route::post('/showPost','TestController@showPost')->name('showPost');
+Route::post('/paUpdateRevs','SubmitController@paUpdateRevs')->middleware('auth')->name('paUpdateRevs');
+Route::post('/edUpdateRevs','SubmitController@edUpdateRevs')->middleware('auth')->name('edUpdateRevs');
+Route::get('/edConfirmRevs/{id}/{confirmCode}','ReviewController@edConfirmRevs')->middleware('auth')->name('edConfirmRevs');
+Route::get('/edNotAvailable/{id}/{confirmCode}','ReviewController@edNotAvailable')->middleware('auth')->name('edNotAvailable');
+Route::get('/getAuthors/{paper_id}', 'ReviewController@getAuthors')->name('getAuthors');
+Route::get('/testEmail/{paper_id}','SubmitController@testEmail')->name('testEmail');
+Route::get('/paConfirmRevNom/{paper_id}','SubmitController@paConfirmRevNom')->middleware('auth')->name('paConfirmRevNom');
+Route::get('/adNominateEditor/{id}/{confirmCode}','SubmitController@adNominateEditor')->middleware('auth')->name('adNominateEditor');
+Route::post('/edSaveRevs','ReviewController@edSaveRevs')->middleware('auth')->name('edSaveRevs');
+Route::get('/getReviewerTopics','UserController@getReviewerTopics')->middleware('auth')->name('getReviewerTopics');
+Route::post('/saveReviewerTopics','UserController@saveReviewerTopics')->middleware('auth')->name('saveReviewerTopics');
+Route::get('/revReplyRequest/{id}/{confirmCode}/{answer}','ReviewController@revReplyRequest')->middleware('auth')->name('revReplyRequest');
+Route::get('/reviewPaper/{id}/{confirmCode}','ReviewController@reviewPaper')->middleware('auth')->name('reviewPaper');
+Route::get('/myJrnl','UserController@myJrnl')->middleware('auth')->name('myJrnl');
+Route::get('/reviewAdvice','ReviewController@reviewAdvice')->middleware('auth')->name('reviewAdvice');
+Route::get('/submissionProcess', function() {return view('submit.submissionProcess');})->name('submissionProcess');
+Route::get('/keywords',function () {return view('submit.keywords');})->name('keywords');
+Route::get('/autocomplete/{st}/{preferred?}','SubmitController@autocomplete')->name('autocomplete');
+Route::get('/testKeywordSubmit','SubmitController@testKeywordSubmit')->name('testKeywordSubmit');
+
 
 Auth::routes();
 

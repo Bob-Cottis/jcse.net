@@ -11,7 +11,7 @@ class papersconvertHTML extends Command
      *
      * @var string
      */
-    protected $signature = 'papers:convertHTML';
+    protected $signature = 'papers:convertHTML {--convert}';
 
     /**
      * The console command description.
@@ -37,7 +37,7 @@ class papersconvertHTML extends Command
      */
     public function handle()
     {
-        //
+        // updates database to indicate whether paper is HTML or PDF, and converts HTML if --convert option is given
         $papers = \App\Models\Paper::distinct('volume','paperNumber')->get();
         foreach ($papers as $paper) {
             $vol = $paper->volume;
@@ -64,7 +64,9 @@ class papersconvertHTML extends Command
                 $paper->preprintHTML = 1;
 
                 // now convert paper
-                $this->convertHTML($newHtmlPreprintName, $oldHtmlPreprintName,$vol,$pap);
+                if ($this->argument('convert')) {
+                    $this->convertHTML($newHtmlPreprintName, $oldHtmlPreprintName,$vol,$pap);
+                }
             }
             $paper->save();
 

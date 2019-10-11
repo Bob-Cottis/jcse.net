@@ -6,13 +6,11 @@
  * Time: 16:52
  */
 
-$mailAdmin = '<a href="mailto:admin@jcse.org">JCSE Admin</a>';
-
 return [
     'VP_NO_ID'=>'<H2>Program Error - :Type Not in Database</H2>'.
 		'<p>The requested :type is not in our database. This should not happen. '.
 		'If you got here from a link on another page on JCSE, then there has been a program error - if the fault is '.
-		'reproducible, then please contact '.$mailAdmin.' with as much information as possible about '.
+		'reproducible, then please contact :mailAdmin with as much information as possible about '.
 		'to the sequence of events that got you here. If you got here from a page on another site, then please contact '.
 		'the Administrator of that site - we would prefer it if they link to the index page, rather than linking '.
 		'directly to the :type, as the latter may change. '.
@@ -22,7 +20,7 @@ return [
 		'<p>This page has been opened without the volume and/or :type number being specified. This should not happen. '.
 		'If you got here from a link on another page on the journal, then there has been a '.
 		'program error - if the fault is '.
-		'reproducible, then please contact '.$mailAdmin.' with as much information as possible about '.
+		'reproducible, then please contact :mailAdmin with as much information as possible about '.
 		'to the sequence of events that got you here. If you got here from a page on another site, then please contact '.
 		'the Administrator of that site - we would prefer it if they link to the index page, rather than linking '.
 		'directly to the :type, as the latter may change. If you typed the '.
@@ -32,7 +30,7 @@ return [
 		'<p>The requested :type does not exist. This should not happen. '.
 		'If you got here from a link on another page on the journal, '.
 		'then there has been a program error - if the fault is '.
-		'reproducible, then please contact <a href="mailto:admin@jcse.org">Journal Admin</a> with as much information as possible about '.
+		'reproducible, then please contact :mailAdmin with as much information as possible about '.
 		'the sequence of events that got you here. If you got here from a page on another site, then please contact '.
 		'the Administrator of that site - we would prefer it if they link to the index page, rather than linking '.
 		'directly to the :type, as the address of the latter may change. If you typed the '.
@@ -57,5 +55,12 @@ return [
     'VP_HTML_MSG'=>'<p>Early papers in JCSE were published as web pages, and comments in these paper reference the paragraph numbers. '.
         'For this reason paragraph numbers have been embedded in the web page in the form &sect;1. You can view comments '.
         '(if there are any) via the button below.</p>',
-    'VP_PDF_MSG'=>''
+    'VP_PDF_MSG'=>'',
+    'VP_FILE_NOT_FOUND'=>'<h3>File not found</h3><p>The file requested has not been found. There are several possible '.
+        'reasons for this:<ol><li>The paper or preprint has not been published yet,</li>'.
+        '<li>The paper or preprint has been withdrawn or rejected,</li>'.
+        '<li>The URL has been copied incorrectly,</li>'.
+        '<li>There has been an internal error</li></ol></p>'.
+        '<p>This error has been recorded  and journal administration has been advised, but if you continue to have '.
+        'problems please feel free to contact :mailAdmin.</p>'
     ];

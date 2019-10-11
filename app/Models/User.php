@@ -49,6 +49,9 @@ class User extends Authenticatable implements MustVerifyEmail
         return $this->hasMany('App\Models\Comment', 'commAuthor_id');
     }
 
+    public function keywords() {
+        return $this->belongsToMany('App\Models\Keyword');
+    }
     /*public function getUserDetailsAttribute()
     {
         $details = ['title'=>$this->title(),
@@ -63,3 +66,8 @@ class User extends Authenticatable implements MustVerifyEmail
     }*/
 
 }
+
+// SQL query to get users with relevant keywords, but who are not authors of paper (76 in the example)
+// SELECT * FROM `users` join keyword_user on `users`.`id` = `keyword_user`.`user_id` WHERE `keyword_user`.`keyword_id`
+//in (SELECT `keyword_paper`.`keyword_id` FROM `keyword_paper` WHERE `keyword_paper`.`paper_id` = 76) AND `users`.`id`
+// NOT IN (SELECT `author_id` FROM `paperauthors` WHERE `paperauthors`.`paper_id` = 76)

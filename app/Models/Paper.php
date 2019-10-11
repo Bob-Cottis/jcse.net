@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Paper extends Model 
+class Paper extends Model
 {
 
     protected $table = 'papers';
@@ -38,6 +38,10 @@ class Paper extends Model
 
     public function referees() {
         return $this->hasMany('App\Models\Referee');
+    }
+
+    public function keywords() {
+        return $this->belongsToMany('App\Models\Keyword');
     }
 
 }

@@ -13,33 +13,39 @@ class ViewpaperController extends Controller
     //
     public function viewPaper($vol, $pap, $typ=null, $rev=null )
     {
-        if ($rev==null) {
-            // find highest revision
-            // get paper record
-            $paper = Paper::where([['volume', '=', $vol], ['paperNumber', '=', $pap]])
-                ->orderBy('revisionNumber','desc')
-                ->first();
-            //return view('varDump',['s'=>$paper]);
-            if ($paper == null) {
-                // no such paper go process the error
-                return view('error', ['msg' => 'vpMessages.VP_NO_ID', 'param' => ['type' => 'Paper or Preprint']]);
-            }
-            // $paper should have highest revision number
-            $rev=$paper['revisionNumber'];
+        // if $vol == "ID" then get paper/preprint with id = $pap
+        // else get Paper $pap in Volume $vol
+        if ($vol == "ID") {
+            $paper = Paper::where('id',$pap)->orderBy('revisionNumber','desc')->first();
+            $rev = $paper->revisionNumber;
         }
-        else
-        {
-            $paper = Paper::where([['volume', '=', $vol], ['paperNumber', '=', $pap], ['revisionNumber','=',$rev]])
-                ->first();
-            if ($paper == null) {
-                // no such paper go process the error
-                return view('error', ['msg' => 'vpMessages.VP_NO_ID', 'param' => ['type' => 'Paper or Preprint with that revision']]);
+        else {
+            if ($rev == null) {
+                // find highest revision
+                // get paper record
+                $paper = Paper::where([['volume', '=', $vol], ['paperNumber', '=', $pap]])
+                    ->orderBy('revisionNumber', 'desc')
+                    ->first();
+                //return view('varDump',['s'=>$paper]);
+                if ($paper == null) {
+                    // no such paper go process the error
+                    dd($paper);
+                    return view('error', ['msg' => __('vpMessages.VP_NO_ID',['type' => 'Paper or Preprint','mailAdmin'=>config('mailToAdmin')])]);
+                }
+                // $paper should have highest revision number
+                $rev = $paper['revisionNumber'];
+            } else {
+                $paper = Paper::where([['volume', '=', $vol], ['paperNumber', '=', $pap], ['revisionNumber', '=', $rev]])
+                    ->first();
+                if ($paper == null) {
+                    // no such paper go process the error
+                    // dd($paper);
+                    return view('error', ['msg' => __('vpMessages.VP_NO_ID',['type' => 'Paper or Preprint with that revision','mailAdmin'=>config('mailToAdmin')])]);
+                }
             }
         }
         $vol = $paper['volume'];
         $pap = $paper['paperNumber'];
-        // uncomment next line to check contents of $paper
-        // return view('viewParams', ['paper'=>$paper]);
         // check whether there are any comments
         $commentCount = Comment::where([['paper_id',$paper['id']],['editorConfirmed',1]])->count();
         // Check for Paper or Preprint published
@@ -50,7 +56,7 @@ class ViewpaperController extends Controller
             } elseif ($paper['preprintPublished']) {
                     $typ = 'preprint';
             } else {
-                return view('error', ['s' => 'vpMessages.FILE_NOT_FOUND']);
+                return view('error', ['msg' => __('vpMessages.VP_FILE_NOT_FOUND')]);
             }
         }
         //return view('showString',['s'=>'$typ = '.$typ]);
@@ -113,6 +119,7 @@ class ViewpaperController extends Controller
         if ($paper[$typ.'HTML']) {
             return view('viewPaper', ['html' => 1, 'paper' => $paper, 'URL' => $URL, 'txtname' => $txtname, 'typ' => $typ, 'count'=>$commentCount]);
         } else {
+            // dd(['html' => 0, 'paper' => $paper, 'URL' => $URL, 'txtname' => $txtname, 'typ' => $typ, 'count'=>$commentCount]);
             return view('viewPaper', ['html' => 0, 'paper' => $paper, 'URL' => $URL, 'txtname' => $txtname, 'typ' => $typ, 'count'=>$commentCount]);
         }
         // nothing published

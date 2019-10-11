@@ -1,4 +1,7 @@
 @extends('templates.layout')
+@section('headercss')
+    <link href=" {{ asset('css/typeaheadjs.css') }}" rel="stylesheet">
+    @endsection
 @section('content')
     @guest
         <H4>Paper Submission</H4>
@@ -18,6 +21,7 @@
                         <form method="POST" action="{!! url('/createPaper') !!}">
                             @csrf
                             <input type="hidden" id="leadAuthor" name="leadAuthor" value="{{ auth()->user()->id }}">
+                            <button type="submit" disabled style="display: none"></button> {{--prevents Enter from submitting form--}}
                             <div class="form-group row">
                                 <label for="title"
                                        class="col-md-2 col-form-label text-md-right">{{ __('submit.paperTitle') }}</label>
@@ -55,7 +59,9 @@
                                 <label for="keywords"
                                        class="col-md-2 col-form-label text-md-right">{{ __('submit.Keywords') }}</label>
                                 <div class="col-md-10">
-                                    <textarea rows="3" id="keywords" type="text"
+                                    <input type="text" class="typeahead tt-query" autocomplete="off" spellcheck="false" id="keywd">
+                                    <button type="button" id="set-keywd" class="btn-primary">Use Keyword</button>
+                                    <textarea rows="3" id="keywords" type="text" readonly
                                               class="form-control{{ $errors->has('keywords') ? ' is-invalid' : '' }}"
                                               name="keywords" placeholder="{{ __('submit.Enter') }} {{__('submit.keywordsOrPhrases') }}"
                                               required autofocus>{{ old('keywords') }}</textarea>
@@ -64,6 +70,7 @@
                                         <strong>{{ $errors->first('keywords') }}</strong>
                                     </span>
                                     @endif
+                                    <button type="button" id="copy-keywords" class="btn-primary">Copy Keywords</button>
                                 </div>
                             </div>
 
@@ -310,6 +317,50 @@
     @endauth
 @endsection
 @section('scripts')
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/corejs-typeahead/1.2.1/typeahead.bundle.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Set the Options for "Bloodhound" suggestion engine
+            var keywords = new Bloodhound({
+                datumTokenizer: Bloodhound.tokenizers.whitespace,
+                queryTokenizer: Bloodhound.tokenizers.whitespace,
+                prefetch: "http://192.168.10.10/autocomplete/1",
+                remote:
+                    {
+                        url: "http://192.168.10.10/autocomplete/0/%QUERY",
+                        wildcard: "%QUERY"
+                    }
+                //local: keywords
+            });
+
+            $("#keywd").typeahead({
+                    hint: true,
+                    highlight: true,
+                    minLength: 1
+                },
+                {
+                    name: 'keywords',
+                    source: keywords
+                });
+        });
+
+        $("#set-keywd").click(function() {
+            if ($("#keywords").val()=="") {
+                var $key = $("#keywd").val();
+                $("#keywords").val($key.charAt(0).toUpperCase() + $key.slice(1));
+            }
+            else {
+                $("#keywords").val($("#keywords").val() + ', ' + $("#keywd").val());
+            }
+            $("#keywd").val("");
+        })
+        $("#copy-keywords").click(function() {
+            $("#keywords").focus();
+            $("#keywords").select();
+            document.execCommand('copy');
+        })
+
+    </script>
     <script>
         $(document).on('change', '.authemail', function () {
             var $block = $(this).closest('.repeat-role');
