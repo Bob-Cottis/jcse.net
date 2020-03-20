@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>
+        {{ config('jrnl.shortName') }}
+    </title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    {{--Font Awesome--}}
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <!-- Custom styles for this template -->
+    <link href="css/jcseStyle.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="d-flex" id="wrapper">
+
+    <!-- Sidebar -->
+    <div class=" border-right col-md-2" id="sidebar-wrapper">
+        <div class="sidebar-heading "><h3>{{ config('jrnl.shortName') }} </h3> </div>
+        <div class="list-group list-group-flush ">
+            <a href="{{route('dummy',['src'=>'newVersion'])}}" class="list-group-item list-group-item-action ">New Version</a>
+            <a href="{{route('dummy',['src'=>'indexing'])}}" class="list-group-item list-group-item-action ">Indexing Services</a>
+            <a href="{{route('dummy',['src'=>'paperSubmission'])}}" class="list-group-item list-group-item-action ">Paper Submission</a>
+            <a href="{{route('dummy',['src'=>'FAQ'])}}" class="list-group-item list-group-item-action ">FAQ</a>
+            <a href="{{route('viewAllVol')}}" class="list-group-item list-group-item-action ">List Volumes</a>
+            @yield('sidebar')
+            <a href="{{route('dummy',['src'=>'Contact Us'])}}" class="list-group-item list-group-item-action ">Contact Us</a>
+        </div>
+    </div>
+    <!-- /#sidebar-wrapper -->
+
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+            <button class="btn btn-primary" id="menu-toggle"><i class="fas fa-align-justify"></i></button>
+            <h2 style="color:#ff7127">&nbsp;{{config('jrnl.longName')}}</h2>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                    @auth
+                        <li class="nav-item active">
+                        <a class="nav-link" href="#">My {{config('jrnl.shortName')}}</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ route('logout') }}" onclick="event.preventDefault();
+                        document.getElementById('logout-form').submit();">>Logout</a>
+                        <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                            {{ csrf_field() }}
+                        </form>
+                    </li>
+
+                    @endauth
+                    @guest
+                    <li class="nav-item active">
+                        <a class="nav-link" href="{{ route('login') }}">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{'register'}}">Register</a>
+                    </li>
+                    @endguest
+                 </ul>
+            </div>
+        </nav>
+
+        <div class="container-fluid">
+            @yield('content')
+            <div id="comments-list">
+
+            </div>
+            <button>Get Comments</button>
+
+        </div>
+    </div>
+    <!-- /#page-content-wrapper -->
+
+</div>
+<!-- /#wrapper -->
+
+<!-- Bootstrap core JavaScript -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+<!-- Menu Toggle Script -->
+<script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+</script>
+    <script>
+        $(document).ready(function(){
+            $("button").click(function(){
+                var win = window.location;
+                var url = win.replace(/showHTML/i,"commentHTML");
+                $("#comments-list").text(url);
+                // $("#div1").load("demo_test.txt");
+            });
+        });
+    </script>
+    </body>
+
+</html>

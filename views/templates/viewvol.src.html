@@ -1,0 +1,158 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>
+        JCSE
+    </title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css"
+          integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <!-- Custom styles for this template -->
+    <link href="css/jcseStyle.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+<div class="d-flex" id="wrapper">
+
+    <!-- Sidebar -->
+    <div class=" border-right col-md-2" id="sidebar-wrapper">
+        <div class="sidebar-heading jrnl-text"><h3>JCSE </h3></div>
+        <div class="list-group list-group-flush ">
+            <a href="http://192.168.10.10/showPage/jmMessages.newVersion"
+               class="list-group-item list-group-item-action ">New Version</a>
+            <a href="http://192.168.10.10/showPage/jmMessages.mission" class="list-group-item list-group-item-action ">Mission</a>
+            <a href="http://192.168.10.10/showPage/jmMessages.indexing" class="list-group-item list-group-item-action ">Indexing
+                Services</a>
+            <a href="http://192.168.10.10/viewAllVol" class="list-group-item list-group-item-action ">List All
+                Volumes</a>
+            <div class="list-group-item list-group-item-action ">
+                <form method="post" action="http://192.168.10.10/viewVol">
+                    <input type="hidden" name="_token" value="qlAcRhN4gvTvqeQwHAXDJixAmnbXOoiBfxRIr27t"> <select
+                        name="vol">
+                    <option value="22">List Volume 22</option>
+                    <option value="21">List Volume 21</option>
+                    <option value="20">List Volume 20</option>
+                    <option value="19">List Volume 19</option>
+                    <option value="18">List Volume 18</option>
+                    <option value="17">List Volume 17</option>
+                    <option value="16">List Volume 16</option>
+                    <option value="15">List Volume 15</option>
+                    <option value="14">List Volume 14</option>
+                    <option value="13">List Volume 13</option>
+                    <option value="12">List Volume 12</option>
+                    <option value="11">List Volume 11</option>
+                    <option value="10">List Volume 10</option>
+                    <option value="9">List Volume 9</option>
+                    <option value="8">List Volume 8</option>
+                    <option value="7">List Volume 7</option>
+                    <option value="6">List Volume 6</option>
+                    <option value="5">List Volume 5</option>
+                    <option value="4">List Volume 4</option>
+                    <option value="3">List Volume 3</option>
+                    <option value="2">List Volume 2</option>
+                    <option value="1">List Volume 1</option>
+                </select>
+                    <input type="submit" name="submit" value="Go"/>
+                </form>
+            </div>
+            <a href="http://192.168.10.10/showPage/jmMessages.paperSubmission"
+               class="list-group-item list-group-item-action ">Paper Submission</a>
+            <a href="http://192.168.10.10/showPage/jmMessages.FAQ"
+               class="list-group-item list-group-item-action ">FAQ</a>
+            <a href="http://192.168.10.10/showPage/jmMessages.contactUs"
+               class="list-group-item list-group-item-action ">Contact Us</a>
+        </div>
+    </div>
+    <!-- /#sidebar-wrapper -->
+
+    <!-- Page Content -->
+    <div id="page-content-wrapper">
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light border-bottom">
+            <a href="#" id="menu-toggle"><i class="fas fa-align-justify jrnl-text"></i></a>
+            <h2 class="jrnl-text">&nbsp;Journal of Corrosion Science and Engineering</h2>
+
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">My JCSE</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="http://192.168.10.10/logout" onclick="event.preventDefault();
+                        document.getElementById('logout-form').submit();">>Logout</a>
+                        <form id="logout-form" action="http://192.168.10.10/logout" method="POST"
+                              style="display: none;">
+                            <input type="hidden" name="_token" value="qlAcRhN4gvTvqeQwHAXDJixAmnbXOoiBfxRIr27t">
+                        </form>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+
+        <div class="container-fluid">
+            <h2>Volume 21 Preprint 16</h2>
+            <hr>
+            <h2>Corrosion Inhibition of Mild Steel by using Banana Peel Extract</h2>
+            <p>C. Bala Manikandan, S.Balamurugan, P.Balamurugan, C.Thanga Priya}</p>
+            <p>Keywords: Mild steel, Banana peel extract, Corrosion inhibition, Corrosion rate, Weight loss
+                measurements, Electrochemical techniques</p>
+            <p>Abstract:<br/>
+                Corrosion is the deterioration of metal by chemical attack or reaction with its environment. It is a
+                continuous problem, diï¬ƒcult to eliminate completely. The cost of metallic corrosion to the total
+                economy is in billions of rupees per year. The inhibiting action of the banana peel extract as a
+                corrosion inhibitor in controlling corrosion of mild steel in 0.1M HCl solution was studied. Corrosion
+                inhibition was identified by employing weight loss measurements and electrochemical techniques. Five
+                samples of mild steel specimen were taken and they are subjected to varying concentration of banana peel
+                extract solution for analyzing the inhibitory properties. The protective film has been analyzed using
+                FTIR spectroscopic techniques. The results indicated that the corrosion rate is decreasing as the
+                concentration of banana peel increases and simultaneously it enhances the inhibition efficiency of the
+                mild steel.</p>
+
+
+            <h2>
+                <a href="http://192.168.10.10/showPDF/preprint/21/16/1">View PDF Preprint</a>
+            </h2>
+        </div>
+    </div>
+    <!-- /#page-content-wrapper -->
+
+</div>
+<!-- /#wrapper -->
+
+<!-- Bootstrap core JavaScript -->
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+        integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+        crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+      integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<!-- Menu Toggle Script -->
+<script>
+    $("#menu-toggle").click(function (e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+</script>
+</body>
+
+</html>

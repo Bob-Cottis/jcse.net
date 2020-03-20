@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="37add812-a8fd-4b73-b19b-5e1c8acb77f7" name="jcse.net" url="http://127.0.0.1:8080">
+        <fileTransfer host="127.0.0.1" port="2222" privateKey="C:\Users\mjpssrc\Downloads\id2-rsa.prv" rootFolder="/var/code" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="4b434f3d-7912-4604-9fe1-e534ec973efd" name="192.168.0.57" url="http://192.168.0.57">
+        <fileTransfer host="192.168.0.57" port="22" rootFolder="/var/code/jcse.net" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
