@@ -147,7 +147,7 @@ have been proposed.</p>
   </table>
   <SCRIPT>comment(7)</SCRIPT><p><b>Table 1: Exposure Solutions for Powder-Coated Panels</b></p>
   <h3>Results and Discussion</h3>
-  <p><img src="../paper9/Image287.gif" WIDTH="455" HEIGHT="360"></p>
+  <p><img src="{{ $htmURL }}Image287.gif" WIDTH="455" HEIGHT="360"></p>
   <SCRIPT>comment(8)</SCRIPT><p><b>Figure 1: Typical Potential Responses of FBE-Panels Exposed to Test
   Solutions</b></p>
   <SCRIPT>comment(9)</SCRIPT><p>Typical potential/time responses of FBE-coated panels with a 3mm holiday
@@ -155,10 +155,10 @@ have been proposed.</p>
   <SCRIPT>comment(10)</SCRIPT><p>All the FBE-coated panels in solution with no chloride have potentials
   suggesting their passivity or near-passivity. Exposed steel remained bright
   and untarnished, and no corrosion products were visible (Figure 2).</p>
-  <p><img src="../paper9/Image288.gif" WIDTH="375" HEIGHT="375">&nbsp;</p>
+  <p><img src="{{ $htmURL }}Image288.gif" WIDTH="375" HEIGHT="375">&nbsp;</p>
   <SCRIPT>comment(11)</SCRIPT><p><b>Figure 2: Appearance of FBE-Panel Exposed to Test Solution without
   Chloride</b></p>
-  <p><img src="../paper9/Image289.gif" WIDTH="375" HEIGHT="375"></p>
+  <p><img src="{{ $htmURL }}Image289.gif" WIDTH="375" HEIGHT="375"></p>
   <SCRIPT>comment(12)</SCRIPT><p><b>Figure 3: Appearance of FBE-Panel Exposed to Test Solution Containing
   Chloride</b></p>
   <SCRIPT>comment(13)</SCRIPT><p>The effect of the addition of 0.6M chloride to the solutions that FBE-coated
@@ -173,10 +173,10 @@ have been proposed.</p>
   substrate was not being caused by anodic undermining. Closer examination by
   SEM confirmed that there was no visual evidence of substrate degradation there
   in either passive or corroding systems (Figures 4 and 5).</p>
-  <p><img src="../paper9/Image290.gif" WIDTH="375" HEIGHT="375"></p>
+  <p><img src="{{ $htmURL }}Image290.gif" WIDTH="375" HEIGHT="375"></p>
   <SCRIPT>comment(14)</SCRIPT><p><b>Figure 4: Morphology of Q-Panel Substrate Beneath Delaminated Coating
   (Passive System)</b></p>
-  <p><img src="../paper9/Image291.gif" WIDTH="450" HEIGHT="375"></p>
+  <p><img src="{{ $htmURL }}Image291.gif" WIDTH="450" HEIGHT="375"></p>
   <SCRIPT>comment(15)</SCRIPT><p><b>Figure 5: Morphology of Q-Panel Substrate Beneath Delaminated Coating
   (Corroding System)</b></p>
   <SCRIPT>comment(16)</SCRIPT><p>The presence of a cathode region at the coating/substrate disbondment front
@@ -192,7 +192,7 @@ have been proposed.</p>
   encapsulating epoxy araldite resin is poor does evidence of crevice corrosion
   appear. It is suggested that corrosion initiates in a crevice between the FBE-coating
   and mild steel substrate, caused by the passive current density on the steel.</p>
-  <p><img src="../paper9/Image292.gif" WIDTH="375" HEIGHT="327"></p>
+  <p><img src="{{ $htmURL }}Image292.gif" WIDTH="375" HEIGHT="327"></p>
   <SCRIPT>comment(17)</SCRIPT><p><b>Figure 6:Tafel Plots Illustrating the Effect of Poor Polymer Adhesion</b></p>
   <SCRIPT>comment(18)</SCRIPT><p>The delamination data derived for each exposure condition was averaged.
   These values are plotted in Figure 7, where the average radial delamination of
@@ -210,7 +210,7 @@ have been proposed.</p>
   [10,11,14]. If transport of this delamination parameter was through the
   coating, then a linear relationship between radial delamination and time of
   immersion would be encountered.</p>
-  <p><img src="../paper9/Image293.gif" WIDTH="438" HEIGHT="399"></p>
+  <p><img src="{{ $htmURL }}Image293.gif" WIDTH="438" HEIGHT="399"></p>
   <SCRIPT>comment(20)</SCRIPT><p><b>Figure 7: Effect of Test Solution on Delamination of FBE-Panels</b></p>
   <SCRIPT>comment(21)</SCRIPT><p>Referral to Table 2 informs us that delamination rates in corroding systems
   tend to be greater than those in passive. It is therefore likely that the
@@ -385,7 +385,7 @@ have been proposed.</p>
   </table>
   <SCRIPT>comment(24)</SCRIPT><p><b>Table 2: Calculated Equation of Line and Delay Time for FBE-Coated
   Panels at Open Circuit</b></p>
-  <p><img src="../paper9/Image294.gif" WIDTH="307" HEIGHT="285"></p>
+  <p><img src="{{ $htmURL }}Image294.gif" WIDTH="307" HEIGHT="285"></p>
   <SCRIPT>comment(25)</SCRIPT><p><b>Figure 8: Linear Relationship between Soltn. pH and K<sub>d</sub> of
   Non-Corroding FBE-Panels</b></p>
   <SCRIPT>comment(26)</SCRIPT><p>Extrapolation of the pH / K<sub>d</sub> graph to the point of zero
@@ -417,7 +417,7 @@ have been proposed.</p>
   increasing hydrated cation mobility in the test solution results in an
   increased rate of coating delamination, an observation made by other workers
   [10,13,14,21,22].</p>
-  <p><img src="../paper9/Image295.gif" WIDTH="351" HEIGHT="296"></p>
+  <p><img src="{{ $htmURL }}Image295.gif" WIDTH="351" HEIGHT="296"></p>
   <SCRIPT>comment(28)</SCRIPT><p><b>Figure 9: Relationship Between Delamination Rate and Cation Mobility</b></p>
   <SCRIPT>comment(29)</SCRIPT><p>When the delamination rate constants created with the relevant cations in
   the corrosion-inducing solutions are plotted on the best-line fit generated by
@@ -428,7 +428,7 @@ have been proposed.</p>
   that delamination of an FBE coating from a corroding substrate is
   predominantly due to hydroxyl ions. The estimated pHs are shown in Table 3
   below:</p>
-  <p><img src="../paper9/Image296.gif" WIDTH="471" HEIGHT="367"></p>
+  <p><img src="{{ $htmURL }}Image296.gif" WIDTH="471" HEIGHT="367"></p>
   <SCRIPT>comment(30)</SCRIPT><p><b>Figure 10: Estimation of pH at Delamination Front of Corroding Test
   Specimens</b></p>
   <table border="1" cellspacing="2" bordercolor="#000000" cellpadding="8" width="563">
@@ -533,10 +533,10 @@ have been proposed.</p>
   including Leidheiser and co-workers [21,26] and Sharman, Sykes and Handyside
   [14]. This is independent of both hydrated cation mobility and solution pH
   (Figures 11 and 12).</p>
-  <p><img src="../paper9/Image297.gif" WIDTH="320" HEIGHT="287"></p>
+  <p><img src="{{ $htmURL }}Image297.gif" WIDTH="320" HEIGHT="287"></p>
   <SCRIPT>comment(36)</SCRIPT><p><b>Figure 11: Effect of Cationic Mobility on Delay Time of FBE-Panels in
   Passivating Solution</b></p>
-  <p><img src="../paper9/Image298.gif" WIDTH="325" HEIGHT="292"></p>
+  <p><img src="{{ $htmURL }}Image298.gif" WIDTH="325" HEIGHT="292"></p>
   <SCRIPT>comment(37)</SCRIPT><p><b>Figure 12: Effect of Solution pH on Delay Time of FBE-Panels in
   Passivating Solution</b></p>
   <SCRIPT>comment(38)</SCRIPT><p>Leidheiser, Wang and Igetoft [21] linked delay time to ion ingress into the

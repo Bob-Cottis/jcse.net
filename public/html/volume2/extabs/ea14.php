@@ -59,7 +59,7 @@ W.J van Ooij<sup>*</sup> and Guru Prasad Sundararajan<b><br>
 <b><u>
 <p>Table1:</u>                                               <u>Hot Salt Soak Test Results<br>
 </u>
-(Immersion of Scribed panels in 3% NaCl for 5 days at 55 <font FACE="Symbol">±</font>
+(Immersion of Scribed panels in 3% NaCl for 5 days at 55 <font FACE="Symbol">ï¿½</font>
  5<sup>o</sup>C).
 
 </b>
@@ -79,19 +79,19 @@ EGS</td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Phosphated</td>
 <td WIDTH="50%" VALIGN="TOP">
-1.2 <font FACE="Symbol">±</font>
+1.2 <font FACE="Symbol">ï¿½</font>
  0.9</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Blank</td>
 <td WIDTH="50%" VALIGN="TOP">
-22.6 <font FACE="Symbol">±</font>
+22.6 <font FACE="Symbol">ï¿½</font>
  10.1</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1170 (0.5%, pH=8.5, baked<sup>*</sup>)</td>
 <td WIDTH="50%" VALIGN="TOP">
-5.1 <font FACE="Symbol">±</font>
+5.1 <font FACE="Symbol">ï¿½</font>
  2.1</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
@@ -102,31 +102,31 @@ Negligible<sup>**</sup></td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1170 (3.0%, pH=8.5, baked)</td>
 <td WIDTH="50%" VALIGN="TOP">
-3.9 <font FACE="Symbol">±</font>
+3.9 <font FACE="Symbol">ï¿½</font>
  1.1</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1170 (4.0%, pH=8.5, baked)</td>
 <td WIDTH="50%" VALIGN="TOP">
-6.2 <font FACE="Symbol">±</font>
+6.2 <font FACE="Symbol">ï¿½</font>
  4.3</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1170 (5.0%, pH=8.5, baked)</td>
 <td WIDTH="50%" VALIGN="TOP">
-7.0 <font FACE="Symbol">±</font>
+7.0 <font FACE="Symbol">ï¿½</font>
  1.2</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Sulfane (5%, natural pH, as-cured)</td>
 <td WIDTH="50%" VALIGN="TOP">
-1 <font FACE="Symbol">±</font>
+1 <font FACE="Symbol">ï¿½</font>
  0.8</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Sulfane (2%, natural pH, as-cured)</td>
 <td WIDTH="50%" VALIGN="TOP">
-                                         12.1 <font FACE="Symbol">±</font>
+                                         12.1 <font FACE="Symbol">ï¿½</font>
  6.6</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">&nbsp;</td>
@@ -149,7 +149,7 @@ Negligible Delamination</td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Sulfane (2%, nat. pH as-cured)</td>
 <td WIDTH="50%" VALIGN="TOP">
-3.8<font FACE="Symbol">±</font>
+3.8<font FACE="Symbol">ï¿½</font>
 0.4</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
@@ -172,7 +172,7 @@ CRS</td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Blank</td>
 <td WIDTH="50%" VALIGN="TOP">
-6.8 <font FACE="Symbol">±</font>
+6.8 <font FACE="Symbol">ï¿½</font>
  1.7</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
@@ -183,13 +183,13 @@ Negligible delamination</td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1170 (2%, pH=8, baked)</td>
 <td WIDTH="50%" VALIGN="TOP">
-4.7 <font FACE="Symbol">±</font>
+4.7 <font FACE="Symbol">ï¿½</font>
  2.5</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1170 (2%, pH=5, baked)</td>
 <td WIDTH="50%" VALIGN="TOP">
-5 <font FACE="Symbol">±</font>
+5 <font FACE="Symbol">ï¿½</font>
  1.7</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
@@ -200,13 +200,13 @@ Complete delamination</td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1289 + A-1170 (2% conc. Each prehydrolysed &amp; vol. ratio of mixing is 1:3), pH=8, as-cured</td>
 <td WIDTH="50%" VALIGN="TOP">
-1.1 <font FACE="Symbol">±</font>
+1.1 <font FACE="Symbol">ï¿½</font>
  0.4</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1289 + A-1170 (2% conc. Each prehydrolysed &amp; vol. ratio of mixing is 1:9), pH=8, as-cured</td>
 <td WIDTH="50%" VALIGN="TOP">
-3.5 <font FACE="Symbol">±</font>
+3.5 <font FACE="Symbol">ï¿½</font>
  2.0</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">&nbsp;</td>
@@ -252,7 +252,7 @@ Negligible Delamination</td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Blank</td>
 <td WIDTH="50%" VALIGN="TOP">
-6.0  <font FACE="Symbol">±</font>
+6.0  <font FACE="Symbol">ï¿½</font>
  1.5</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
@@ -268,7 +268,7 @@ Negligible delamination</td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1170 (2.0%, pH=5,baked)</td>
 <td WIDTH="50%" VALIGN="TOP">
-2.8  <font FACE="Symbol">±</font>
+2.8  <font FACE="Symbol">ï¿½</font>
  2.2</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
@@ -286,7 +286,7 @@ Negligible delamination</td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Blank</td>
 <td WIDTH="50%" VALIGN="TOP">
-4.7 <font FACE="Symbol">±</font>
+4.7 <font FACE="Symbol">ï¿½</font>
  2.6</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
@@ -319,31 +319,31 @@ Negligible delamination</td>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Blank</td>
 <td WIDTH="50%" VALIGN="TOP">
-27.0 <font FACE="Symbol">±</font>
+27.0 <font FACE="Symbol">ï¿½</font>
  10.1</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 Phosphated</td>
 <td WIDTH="50%" VALIGN="TOP">
-3.5 <font FACE="Symbol">±</font>
+3.5 <font FACE="Symbol">ï¿½</font>
  0.7</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1170 (2%, pH=8, baked)</td>
 <td WIDTH="50%" VALIGN="TOP">
-18.6 <font FACE="Symbol">±</font>
+18.6 <font FACE="Symbol">ï¿½</font>
  5.4</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1289 (5%, nat. pH, as-cured)</td>
 <td WIDTH="50%" VALIGN="TOP">
-19.5 <font FACE="Symbol">±</font>
+19.5 <font FACE="Symbol">ï¿½</font>
  3.6</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">
 A-1170 + A-1289 mix. (2%, 9:1 vol.ratio, pH=8, as-cured)</td>
 <td WIDTH="50%" VALIGN="TOP">
-6.5 <font FACE="Symbol">±</font>
+6.5 <font FACE="Symbol">ï¿½</font>
  1.7</td>
 </tr>
 <tr><td WIDTH="50%" VALIGN="TOP">&nbsp;</td>
@@ -512,9 +512,9 @@ A-1170 coated</td>
 
 &nbsp;
 <b>Fig.1 [HSS.DOC]</b>
-<p><img SRC="../extabs/Image126.gif" WIDTH="573" HEIGHT="297">
+<p><img SRC="../extabs/image126.gif" WIDTH="573" HEIGHT="297">
 <p><b>Fig. 2: IR- Spectra of A-1170 (2%, pH= 8.5) on polished Chrome Steel</b>
-<p><img SRC="../extabs/Image127.gif" WIDTH="573" HEIGHT="289">
+<p><img SRC="../extabs/image127.gif" WIDTH="573" HEIGHT="289">
 <p><b>Fig.3 IR- Spectra of A-1289 (5%, natural pH) on polished Chrome Steel</b><h4>Conclusions</h4>
  A process consisting of coating thin films of organofunctional silanes on automotive substrates have been proposed to replace the conventional phosphating pretreatments. EIS, HSS and GM Tests have been successfully used to demonstrate the effect of deposition parameters on metal. RA-IR has been used for characterizing these silane films.
 <h4>References</h4>

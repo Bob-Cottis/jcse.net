@@ -257,7 +257,7 @@ this are given in the text.</p>
   this system. The resistance of the chromate system may be explained by a
   variety of mechanisms including enhanced adhesion [6], resistance to cathodic
   reduction [7], improved cross linking of the adjacent coating [8].</p>
-  <p><img src="../paper6/Image311.jpg" WIDTH="679" HEIGHT="427"></p>
+  <p><img src="{{ $htmURL }}Image311.jpg" WIDTH="679" HEIGHT="427"></p>
 <SCRIPT>comment(11)</SCRIPT>  <p><b>Figure 1: Cathodic disbonding as radial delamination versus time for
   various coating samples at -1000 mV (SCE) in 3% NaCl.</b></p>
 <SCRIPT>comment(12)</SCRIPT>  <p><b>Table 1: corrosion performance of the scratched samples after a 1000h

@@ -1,4 +1,7 @@
 @extends('templates.layout')
+{{--@php
+dd($randRevs)
+@endphp--}}
 @section('title')
     {{ __('submit.Confirm Reviewers',['shortName'=>$shortName]) }}
 @endsection
@@ -23,7 +26,7 @@
                                         <input class="form-check-input" type="checkbox" value="{{ $authRev['id'] }}"
                                                name="authRevs[]" checked>
                                         <label class="form-check-label" for="defaultCheck1">
-                                            {{ $authRev['person'] }}
+                                            {{ $authRev['name'].', '.$authRev['organization'] }}
                                         </label>
                                     </div>
                                 </div>
@@ -39,29 +42,16 @@
                                     <input class="form-check-input" type="checkbox" value="{{ $randRev['id'] }}"
                                            name="revs[]">
                                     <label class="form-check-label" for="defaultCheck1">
-                                        {{ $randRev['person'] }}
+                                        {{ $randRev['name'].', '.$randRev['organization'] }}<br>Keywords:
+                                        @foreach ($randRev['keywords'] as $k)
+                                            @if ($k['keyword']!="")
+                                            {{ $k['keyword'].', ' }}
+                                            @endif
+                                            @endforeach
                                     </label>
                                 </div>
                             </div>
                         @endforeach
-{!! __('review.edConfRevHeader4') !!}
-                        @php( $old_group = '' )
-                        @foreach($topics as $topic)
-                            @if ($topic['topicGroup']!= $old_group)
-                                <h5 class="jrnl-text">{{ $topic['topicGroup'] }}</h5>
-                                @php($old_group = $topic['topicGroup'])
-                            @endif
-                            <div class="form-check-inline col-md-3">
-                                <label class="form-check-label">
-                                    <input type="checkbox" class="form-check-input" name="topics[]" value="{{ $topic['id'] }}"
-                                       @if ($topic['checked'])
-                                           checked
-                                        @endif
-                                    >{{ $topic['topic'] }}
-                                </label>
-                            </div>
-                        @endforeach
-                            <p>&nbsp;</p>
                         <div class="form-row">
                             <div class="col-md-4 text-md-right">
                                 <button type="submit" class="btn btn-primary"

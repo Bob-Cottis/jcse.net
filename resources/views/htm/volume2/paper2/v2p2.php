@@ -250,7 +250,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   the presence of not reacted organic linked to the zirconia matrix. Increasing
   the maximum temperature from 150 to 250 �C the reduction of organic load is
   remarkable in the spectra of the samples 1 and 3 of Figure 1.
-  <p>&nbsp; <img src="../paper2/Image204.gif" WIDTH="766" HEIGHT="411"></p>
+  <p>&nbsp; <img src="{{ $htmURL }}Image204.gif" WIDTH="766" HEIGHT="411"></p>
 <SCRIPT>comment(8)</SCRIPT>  <p><b>Figure 1. Spectra IR of zirconia samples 1 and 3.&nbsp;</b></p>
 <SCRIPT>comment(9)</SCRIPT>  <h4>Salt Fog Chamber (First Part)&nbsp;</h4>
   <p>The results obtained in Salt Fog Chamber test are shown in Table II. The
@@ -515,10 +515,10 @@ getcommentmode();</SCRIPT></HEAD><body>
   referring to C=O bonds. So, it seems that the remotion of the organic
   components of the zirconia thin film by the NMP affects the results of this
   test.</p>
-  <p><img src="../paper2/Image205.gif" WIDTH="758" HEIGHT="409"></p>
+  <p><img src="{{ $htmURL }}Image205.gif" WIDTH="758" HEIGHT="409"></p>
 <SCRIPT>comment(15)</SCRIPT>  <p><b>Figure 2. FTIR spectra of series 1 before (A) and after immersion in NMP
   (B).</b></p>
-  <p>&nbsp;<img src="../paper2/Image206.gif" WIDTH="764" HEIGHT="406"></p>
+  <p>&nbsp;<img src="{{ $htmURL }}Image206.gif" WIDTH="764" HEIGHT="406"></p>
 <SCRIPT>comment(16)</SCRIPT>  <p><b>Figure 3. FTIR spectra of series 5 before (A) and after immersion in NMP
   (B).</b></p>
   <p>There was no total detachment of the coating on the samples pre-treated
@@ -562,14 +562,14 @@ getcommentmode();</SCRIPT></HEAD><body>
   consequence the size of the defect was shown a relevant and important
   parameter in the corrosion processes and further efforts have to be addressed
   to explain both small and large defects affect impedance response.&nbsp;</p>
-  <p><img border="0" src="../paper2/v2p2.h1.gif" WIDTH="532" HEIGHT="347">&nbsp;</p>
+  <p><img border="0" src="{{ $htmURL }}v2p2.h1.gif" WIDTH="532" HEIGHT="347">&nbsp;</p>
 <SCRIPT>comment(19)</SCRIPT>  <p><b>Figure 4. Detail (high frequency zone) of the Nyquist diagram of a
   coated zirconia samples with an artificial defect (150 &mu;m); 
   the whole diagram is showed in Figure 5.&nbsp;&nbsp;</b></p>
-  <p><img border="0" src="../paper2/v2p2.h2.gif" WIDTH="549" HEIGHT="348"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p2.h2.gif" WIDTH="549" HEIGHT="348"></p>
 <SCRIPT>comment(20)</SCRIPT>  <p><b>Figure 5. Nyquist diagram of a coated zirconia sample with an artificial
   defect (150 &mu;m).</b></p>
-  <p><img border="0" src="../paper2/v2p2.h3.gif" WIDTH="519" HEIGHT="354"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p2.h3.gif" WIDTH="519" HEIGHT="354"></p>
 <SCRIPT>comment(21)</SCRIPT>  <p><b>Figure 6. Nyquist diagram of the coated zirconia sample with an
   artificial defect (300 &mu;m).</b></p>
 <SCRIPT>comment(22)</SCRIPT>  <h3>Conclusions</h3>

@@ -254,10 +254,10 @@ getcommentmode();</SCRIPT></HEAD><body>
   was very difficult to confirm a failure visually.</p>
   <SCRIPT>comment(17)</SCRIPT><p align="center"><b>Table 2 Conventional ANSI artificial perspiration
   exposure test results.</b></p>
-  <p><img src="../paper25/Image111.gif" WIDTH="487" HEIGHT="295"></p>
+  <p><img src="{{ $htmURL }}Image111.gif" WIDTH="487" HEIGHT="295"></p>
   <SCRIPT>comment(18)</SCRIPT><p><b>Figure 1 EIS response for zinc electroplated steel coated with lacquer
   C, after exposure to ANSI artificial test solution for 60 minutes.</b></p>
-  <p><img src="../paper25/Image112.gif" WIDTH="495" HEIGHT="296"></p>
+  <p><img src="{{ $htmURL }}Image112.gif" WIDTH="495" HEIGHT="296"></p>
   <SCRIPT>comment(19)</SCRIPT><p><b>Figure 2 Mean values of coating resistance against exposure time for the
   three lacquer coatings A, B and C, examined in triplicate.</b></p>
 <SCRIPT>footer()</SCRIPT></html>

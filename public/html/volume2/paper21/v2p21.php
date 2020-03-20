@@ -108,9 +108,9 @@ calcium ion-exchanged silica pigment could act through formation of Ca<SUP>2+</S
 zinc phosphate/molybdate/calcium ion-exchanged silica mixture, shown in Figure 5 (left picture), shows intense corrosion activity at the scribe, with an uneven distribution of relatively negative (anodic) and positive (cathodic) sites along the scribe length. Isaacs and co-workers have previously observed these non-symmetrical distributions at mechanically produced artificial scribes on painted zinc and zinc alloy coated steels [18]. The effect was attributed to the localised film breakdown at certain areas on the mostly passive zinc surface, which subsequently lead to intense pitting corrosion. Figure 5 (right picture) shows the area map of solution potential after 7 days, with a clear reduction in the measured activity. </p>
 <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=638>
 <TR><TD WIDTH="50%" VALIGN="TOP">
-<p><a href="../paper21/image5.gif"><IMG SRC="../paper21/Image5_small.gif" border="2" width="235" height="200"></a></p></TD>
+<p><a href="../paper21/image5.gif"><IMG SRC="../paper21/image5_small.gif" border="2" width="235" height="200"></a></p></TD>
 <TD WIDTH="50%" VALIGN="TOP">
-<p><a href="../paper21/image6.gif"><IMG SRC="../paper21/Image6_small.gif" border="2" width="234" height="200"></a></p></TD>
+<p><a href="../paper21/image6.gif"><IMG SRC="../paper21/image6_small.gif" border="2" width="234" height="200"></a></p></TD>
 </TR>
 <TR><TD VALIGN="TOP" COLSPAN=2>
 <SCRIPT>comment(24)</SCRIPT><p ALIGN="CENTER"><b><A NAME="_Ref447107287">Figure </A>5: SVET maps of local solution potentials for
@@ -126,9 +126,9 @@ zinc phosphate/molybdate and calcium ion-exchanged silica separately.  However, 
 zinc phosphate/molybdate plus calcium ion-exchanged silica combination was the highest of all the samples, Figure 6 (b) illustrates that the corrosion activity in this sample decreased rapidly up to 96 hours after which it was comparable to that of strontium chromate.<B> </p></B>
 <TABLE CELLSPACING=0 BORDER=0 CELLPADDING=7 WIDTH=638>
 <TR><TD WIDTH="50%" VALIGN="TOP">
-<p><a href="../paper21/image7.gif"><IMG SRC="../paper21/Image7_small.gif" border="2" width="277" height="200"></a></p></TD>
+<p><a href="../paper21/image7.gif"><IMG SRC="../paper21/image7_small.gif" border="2" width="277" height="200"></a></p></TD>
 <TD WIDTH="50%" VALIGN="TOP">
-<p><a href="../paper21/image8.gif"><IMG SRC="../paper21/Image8_small.gif" border="2" width="319" height="200"></a></p></TD>
+<p><a href="../paper21/image8.gif"><IMG SRC="../paper21/image8_small.gif" border="2" width="319" height="200"></a></p></TD>
 </TR>
 <TR><TD VALIGN="TOP" COLSPAN=2>
 <SCRIPT>comment(26)</SCRIPT><p ALIGN="CENTER"><b><A NAME="_Ref447187030">Figure</A> 6: Summed local anodic potential versus time for the period:<br>

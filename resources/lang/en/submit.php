@@ -72,7 +72,7 @@ return [
         'be effective.</strong> As before the processed paper will be emailed to you for checking.</p>',
     'adConfirmPDFSubj'=>'New Paper Submitted to :jrnlShortName',
     'adConfirmPDFBody'=>'<p>Dear Administrator</p><strong>Paper Submitted to :jrnlShortName.</strong>'.
-    '<p>:leadAuthor has submitted the paper :title to :jrnlShortName. Go to <a href=":link">Check Paper</a> to check the submission.</p>',
+    '<p>:leadAuthor has submitted the paper :title to :shortName. Go to <a href=":link">Check Paper</a> to check the submission.</p>',
     'checkPaper'=>'<h4>Check the Processed Paper</h4><p>The paper has now had the :shortName information superimposed on it. '.
         'A copy of the processed paper has been sent to each author for whom an email address has been provided. As '.
         'corresponding author you should check that the paper is acceptable to all authors, and ensure that the :shortName '.
@@ -145,14 +145,13 @@ return [
         'processing is in progress, for this reason the paper can no longer be modified. You may be asked to revise it if '.
         'there are formatting or similar problems, and you may also have a chance to revise it after the review is completed.</p>',
     'paPDFConfirmed'=>'<h4>Paper Confirmed</h4><p>You have now completed the main paper submission process. Your paper '.
-        'will be checked by the journal administration for acceptable formatting. You will then be sent an email asking '.
-        'you to provide the appropriate topics for the paper, and giving you the opportunity to nominate one or two '.
-        'reviewers. Once you have done this and the editor has confirmed the topics and reviewer selection your paper '.
-        'will be published as a preprint and the review process will commence.</p>',
+        'will be checked by the journal administration for acceptable formatting. You will then be sent an email giving '.
+        'you the opportunity to nominate one or two reviewers. Once you have done this and the editor has confirmed the '.
+        'reviewer selection your paper will be published as a preprint and the review process will commence.</p>',
     'adminCheckPaperHeader'=>'<h4>Check Paper</h4>',
-    'adminCheckPaperBody'=>'<p>:leadAuthor has submitted the paper :title to :jrnlShortName. Please check '.
+    'adminCheckPaperBody'=>'<p>:leadAuthor has submitted the paper :title to :shortName. Please check '.
         'the converted PDF file (a copy was enclosed in the email, or you can download a copy <a href=":link">here</a>), '.
-        'CHeck the list below and check any points that need to be addresses by the author. You are reminded that this is '.
+        'Check the list below and check any points that need to be addresses by the author. You are reminded that this is '.
         '<strong>not</strong> a technical review, you should just check that the appearance of the converted PDF file is '.
         'acceptable.</p><p>Select the relevant checkboxes and the associated message wil be send to the author. Leave all '.
         'the checkboxes unchecked to approve the paper.</p>',
@@ -165,10 +164,10 @@ return [
     'PaperApproved'=>'Paper Approved',
     'approvalMsg'=>'<h4>Select Topics</h4>'.
         '<p>Your paper has been approved for publication as a preprint. This is based purely on the appearance of '.
-        'the converted document, and does not imply any technical assessment of the content of the paper. In order to '.
-        'publish the preprint and initiate the formal review process you should now select the appropriate topics for the '.
-        'paper; this will be used to gude the selection of revviewers. You may optionally propose one or two reviewers. '.
-        'These should not be members of the organizations of any of the authors.</p><p><a href=":link">Select Topics</a></p>',
+        'the converted document, and does not imply any technical assessment of the content of the paper. You may now '.
+        'propose one or two reviewers. These should not be members of the organizations of any of the authors. Nomination '.
+        'of reviewers is optional; additional reviewers will be selected from a panel based on prior authors.'.
+        '</p><p><a href=":link">Nominate Reviewers</a></p>',
     'reviseHeader'=>'<h4>Paper format needs to be revised</h4>'.
         '<p>The administrator has checked the formatting of the submitted paper, and they have suggested that some '.
         'modification is needed. Please <a href=":link">submit a revised PDF file</a> after taking care of the following point(s);</p>',
@@ -191,7 +190,7 @@ return [
         'you feel that none of the topics are appropriate, select <strong>Other Topic</strong>). The topics that you '.
         'select will be used to guide the selection of the paper editor and reviewers, so it is important that you are '.
         'as accurate as possible in your selection.</p>',
-    'topicsSaved'=>'<h4>Topics Saved</h4><p>The list of suggested topics has been saved. The paper editor will now '.
+    'reviewersSaved'=>'<h4>Reviewers Saved</h4><p>The list of suggested reviewers has been saved. The paper editor will now '.
         'nominate additional reviewers and the review process will commence. We hope that the review process will be '.
         'completed within 30 days, but we are dependent on a quick response from the nominated reviewers. If you want '.
         'to check on the progress of the paper, please go to :myJrnl.</p>',

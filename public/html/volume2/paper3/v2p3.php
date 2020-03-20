@@ -1,4 +1,4 @@
-<?php 
+<?php
 session_start();
 require_once('/home/jcsete5/public_html/jcse.org/jcse/php_inc/jrnl_subs.php');
 $logged_in=is_loggedin();
@@ -199,7 +199,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   the feed. One may conclude that plasma-polymerised coatings obtained from
   HMDSO/O<sub>2</sub> could be considered as polymer like or silica like as a
   function of O<sub>2</sub> content in the feed.&nbsp;</p>
-  <p>&nbsp;<img src="../paper3/Image99.gif" width="428" height="366"></p>
+  <p>&nbsp;<img src="{{ $htmURL }}image99.gif" width="428" height="366"></p>
 <SCRIPT>comment(8)</SCRIPT>  <p><b>Figure 1 : Infrared spectra of plasma polymerized coating deposited from
   various HMDSO/O<sub>2</sub> ratios : (a) HMDSO/O<sub>2</sub> 100/0 ; (b) HMDSO/O<sub>2</sub>
   80/20 ; (c) HMDSO/O<sub>2</sub> 50/50 ; (d) HMDSO/O<sub>2</sub> 20/80.</b></p>
@@ -222,7 +222,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   R<sub>sol</sub> : the electrolyte resistance due to ohmic drop within the
   electrolyte which is negligible in the case of coatings immersed in 0,1 mol.L<sup>-1</sup>
   NaCl.</p>
-  <p><img src="../paper3/Image100.gif" WIDTH="342" HEIGHT="241"></p>
+  <p><img src="{{ $htmURL }}image100.gif" WIDTH="342" HEIGHT="241"></p>
 <SCRIPT>comment(10)</SCRIPT>  <p><b>Figure 2 : The equivalent circuit used to model coated
   electrode&nbsp;&nbsp;</b></p>
 <SCRIPT>comment(11)</SCRIPT>  <p>The initial coating capacitance C<sub>c</sub> is the lowest for silica-like
@@ -329,7 +329,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   the mixture with a thickness of 1 <font face="Symbol">m</font>m. However the
   results obtained for coating at 50% and 20% HMDSO lead nearly to similar
   protective properties.
-  <p>&nbsp;<img src="../paper3/Image102.gif" WIDTH="645" HEIGHT="473"></p>
+  <p>&nbsp;<img src="{{ $htmURL }}image102.gif" WIDTH="645" HEIGHT="473"></p>
 <SCRIPT>comment(15)</SCRIPT>  <p><b>Figure 3 : Time dependence of Cc (a), Rpor (b), Cdl (c) and Rpol (d) for
   plasma-polymerised coating on iron substrates for various HMDSO/O2 ratios :
   (circle) HMDSO/O<sub>2</sub> 100/0 ; (square) HMDSO/O<sub>2</sub> 80/20 ;

@@ -10,7 +10,7 @@
 {{--        </div>--}}
     <ul>
         @foreach ($vols as $vol)
-            <li><a href="/viewvol/{{ $vol->volume }}">Volume {{ $vol->volume }}</a>
+            <li><a href="/viewVol/{{ $vol->volume }}">Volume {{ $vol->volume }}</a>
                 {{$vol->description }}        </li>
         @endforeach
     </ul>

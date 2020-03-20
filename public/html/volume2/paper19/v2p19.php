@@ -83,7 +83,7 @@ Accordingly, higher values of the film capacitance, C, may be determined from
 impedance measurements recorded at increasing immersion times. C being related
 to the polymer permittivity, <font face="Symbol"> e</font><sub>p</sub>, by:</p>
 
-<p><img width=201 height=41 src="../paper19/v2p19rev2_image002.gif"></p>
+<p><img width=201 height=41 src="{{ $htmURL }}v2p19rev2_image002.gif"></p>
 
 <p>Where <font face="Symbol">
 e</font><sub>o</span></sub> is the permittivity of vacuum, A is the area
@@ -97,7 +97,7 @@ between the coating capacitance and the volume fraction of water in the coating
 layer, as already described by de Witt et al [7]:</span></p>
 
 <p><img width=243 height=45
- src="../paper19/v2p19rev2_image004.gif"><br clear=ALL>Where <font face="Symbol"> f</font> is the volume fraction of water in the coating, C(t) is the capacitance
+ src="{{ $htmURL }}v2p19rev2_image004.gif"><br clear=ALL>Where <font face="Symbol"> f</font> is the volume fraction of water in the coating, C(t) is the capacitance
 at time t and C(0) is the capacitance at t&nbsp;=&nbsp;0, 80 is the relative permittivity
 of water.</p>
 
@@ -133,7 +133,7 @@ into account eq.(2), the following expression may be derived[7],
 valid at long immersion times:</span></p>
 
 <p><img width=432 height=83
- src="../paper19/v2p19rev2_image007.gif"><br clear=ALL></p>
+ src="{{ $htmURL }}v2p19rev2_image007.gif"><br clear=ALL></p>
 
 <SCRIPT>comment(14)</SCRIPT><p>The
 simulation of experimental C(t) values, in terms of eq. (3) allows the
@@ -370,7 +370,7 @@ the ZRP layer, giving rise to the electric contact among the Zn particles and
 with the steel substrate. In this way the cathodic protection mechanism period
 is established, at relatively short immersion times. </p>
 
-<p><img src="../paper19/v2p19rev2_image009.gif" width="417" height="442"> </p>
+<p><img src="{{ $htmURL }}v2p19rev2_image009.gif" width="417" height="442"> </p>
 
 <SCRIPT>comment(25)</SCRIPT><p><b>Figure 1.������� E<sub>corr</sub> dependence on exposure time
 in artificial seawater for the tested samples</b></p>
@@ -405,7 +405,7 @@ whole corrosion process of active Zn is also hindered by the smallest rate in
 the oxygen diffusion process. </p>
 
 <p>
- <img width=528 height=440 src="../paper19/v2p19rev2_image011.gif">
+ <img width=528 height=440 src="{{ $htmURL }}v2p19rev2_image011.gif">
 
 <SCRIPT>comment(30)</SCRIPT><p><b>Figure 2������� Nyquist plots for samples
 S1, S2 and S3 at different immersion time.</b></p>
@@ -419,18 +419,18 @@ information related to the characteristic coating parameters as well as to the
 kinetics of corrosion process. Impedance spectra were analyzed using a non
 linear fit routine according to the following transfer function:</p>
 
-<p><img width=478 height=108 src="../paper19/v2p19rev2_image013.gif"></p>
+<p><img width=478 height=108 src="{{ $htmURL }}v2p19rev2_image013.gif"></p>
 
 <SCRIPT>comment(33)</SCRIPT><p>The transfer function described by eqs. (4) and (5)
 corresponds to the dynamic behaviour of the equivalent circuit:</p>
 
 <p>
- <img width=195 height=194 src="../paper19/v2p19rev2_image015.jpg">
+ <img width=195 height=194 src="{{ $htmURL }}v2p19rev2_image015.jpg">
 
 <p><b>Zi </b>corresponds
 to:</p>
 
-<p><img width=194 height=194 src="../paper19/v2p19rev2_image017.jpg"></p>
+<p><img width=194 height=194 src="{{ $htmURL }}v2p19rev2_image017.jpg"></p>
 
 <p>Where Rs is the electrolyte resistence, C is the top-paint
 film capacitance and R<sub>p </sub>the pore resistance in the top-coat. Z<sub>i
@@ -442,7 +442,7 @@ the Zn/electrolyte interface. A finite diffusion impedance, Zd, was considered
 in order to account for the transport process involved in the cathodic partial
 reaction: </p>
 
-<p><img width=185 height=27 src="../paper19/v2p19rev2_image019.gif"></p>
+<p><img width=185 height=27 src="{{ $htmURL }}v2p19rev2_image019.gif"></p>
 
   <p>Zd=R<sub>D0 </sub>(jS)<sup>-1/2 </sup>tanh(jS)<sup>�</sup>,
 where&nbsp;</p>
@@ -450,7 +450,7 @@ where&nbsp;</p>
 <p><font face="Symbol">d</font> and
 D<sub>o</sub> being the diffusion length and diffusion coefficient of oxygen. </p>
 
-<p><img width=506 height=557 src="../paper19/v2p19rev2_image021.gif"></p>
+<p><img width=506 height=557 src="{{ $htmURL }}v2p19rev2_image021.gif"></p>
 
 <SCRIPT>comment(34)</SCRIPT><p align=left><b>&nbsp;Figure 3���� Experimental and simulated
 Bode and Nyquist plots, for the samples S1, S2 and S3 at different
@@ -471,7 +471,7 @@ as t&nbsp;<font face="Symbol">�</font>&nbsp;0, and a plateau in the C vs t cur
 is depicted in Figure 4.</span></p>
 
 <p>
- <img width=554 height=576 src="../paper19/v2p19rev2_image023.gif">
+ <img width=554 height=576 src="{{ $htmURL }}v2p19rev2_image023.gif">
 <br clear=ALL>
 <SCRIPT>comment(38)</SCRIPT><b>Figure 4.���� Dependence of
 C on� t<sup>1/2 </sup>��for sample S2.</b>
@@ -486,7 +486,7 @@ considered as the capacitance at infinite time.</p>
 [log(C(t)/C<sub>0</sub>)/log(C<sub><font face="Symbol">�</font></sub>/C<sub>0</sub>)] vs t plots</p>
 
 <p>
- <img width=531 height=547 src="../paper19/v2p19rev2_image025.gif">
+ <img width=531 height=547 src="{{ $htmURL }}v2p19rev2_image025.gif">
 
 <SCRIPT>comment(41)</SCRIPT><p align=left><b>Figure 5.����� Experimental and
 theoretical [log(C(t)/Co) / log (C<font face="Symbol">�</font>/Co)] vs t plot, corresponding
@@ -518,7 +518,7 @@ d</font>, due
 to the presence of the top-layer.</p>
 
 <p>
- <img width=470 height=477 src="../paper19/v2p19rev2_image029.gif">
+ <img width=470 height=477 src="{{ $htmURL }}v2p19rev2_image029.gif">
   <SCRIPT>comment(46)</SCRIPT><p align="left"><b>Figure 6.���
 Dependence of fitting parameters C,� C<sub>dl</sub> , R<sub>A</sub>� and� R<sub>c</sub> on exposure time for samples S1, S2 and S3.</b><h3 align=left><b>Conclusions</b></h3>
 

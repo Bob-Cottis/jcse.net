@@ -92,7 +92,7 @@ TiOOH. Toressi et al.<sup>9-10</sup>
 have derived an expression for calculation of anodic passive film thickness,</p>
 
 <p align="center"><sub><img
-src="../paper7/v3p7f002.gif" width="72" height="47"></sub></p>
+src="{{ $htmURL }}v3p7f002.gif" width="72" height="47"></sub></p>
 
 <SCRIPT>comment(8)</SCRIPT><p>The
 mechanism of hydrogen evolution reaction on titanium electrodes was also
@@ -201,7 +201,7 @@ temperature influence was investigated in the range 25 and 55<b>�</b>C.</p>
     </tr>
     <tr>
       <td width="50%"><a href="v3p7f1a.jpg"><img border="2" src="v3p7f1a_small.jpg" alt="fig1left.jpg (24923 bytes)" width="200" height="134"></a></td>
-      <td width="50%"><a href="../paper7/v3p7f1b.jpg"><img border="2" src="../paper7/v3p7f1b_small.jpg" alt="Fig1RIGHT.jpg (24041 bytes)" width="200" height="134"></a></td>
+      <td width="50%"><a href="../paper7/v3p7f1b.jpg"><img border="2" src="{{ $htmURL }}v3p7f1b_small.jpg" alt="Fig1RIGHT.jpg (24041 bytes)" width="200" height="134"></a></td>
     </tr>
   </table>
   </center>
@@ -222,7 +222,7 @@ mV/s, t =25�C; a) freshly prepared electrode; b) third repeated cycle (note
     </tr>
     <tr>
       <td width="50%"><a href="../paper7/v3p7f2a.jpg"><img border="2" src="v3p7f2a_small.jpg" alt="Fig2 LEFT.jpg (24609 bytes)" width="200" height="145"></a></td>
-      <td width="50%"><a href="../paper7/v3p7f2b.jpg"><img border="2" src="../paper7/v3p7f2b_small.jpg" alt="Fig2 RIGHT.jpg (24890 bytes)" width="200" height="146"></a></td>
+      <td width="50%"><a href="../paper7/v3p7f2b.jpg"><img border="2" src="{{ $htmURL }}v3p7f2b_small.jpg" alt="Fig2 RIGHT.jpg (24890 bytes)" width="200" height="146"></a></td>
     </tr>
   </table>
 

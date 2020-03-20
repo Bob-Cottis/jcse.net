@@ -10,8 +10,11 @@ class CreateKeywordsTable extends Migration {
 		Schema::create('keywords', function(Blueprint $table) {
 			$table->increments('id');
 			$table->timestamps();
-			$table->string('keyword', 255)->index();
-			$table->text('log');
+			$table->string('keyword', 255)->index()->default('NULL');
+			$table->text('log')->nullable();
+			$table->boolean('preferred')->default(False);
+			$table->mediumInteger('count')->default('1');
+			$table->integer('synonym_id')->unsigned()->nullable();
 		});
 	}
 

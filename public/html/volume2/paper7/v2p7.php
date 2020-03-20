@@ -257,36 +257,36 @@ Investigaci�n Cient�fica (PB97-0130) and to the Generalitat Valenciana
 </ol>
 <b>
 <h3>Figures</h3>
-<p><img border="0" src="../paper7/figure1.gif" width="500" height="377"></p>
+<p><img border="0" src="{{ $htmURL }}figure1.gif" width="500" height="377"></p>
 </b>
 <SCRIPT>comment(30)</SCRIPT><p><b>Figure 1.- Cyclic voltammograms for a stainless steel electrode immersed
 in: 0.1 M Na<sub>2</sub>CO<sub>3 </sub>solution. (<font face="Courier New">-<font face="Symbol">�</font>
 -</font>) first, (<font face="Courier New">-</font> <font face="Courier New">-</font>
 <font face="Courier New">-</font> ) second and (<font face="Courier New">---</font>
 ) fifth cycle up to 1.7 V. (Click for a higher resolution image)</b></p>
-<p><a href="../paper7/figure2.gif"><img border="0" src="../paper7/figure2.gif" width="500" height="352"></a></p>
+<p><a href="../paper7/figure2.gif"><img border="0" src="{{ $htmURL }}figure2.gif" width="500" height="352"></a></p>
 <SCRIPT>comment(31)</SCRIPT><p><b>Figure 2.- Cyclic voltammograms for a stainless steel electrode immersed
 in 0.1 M Na<sub>2</sub>CO<sub>3 </sub>+ 6�10<sup>-2</sup> M phenol solution. .
 (<font face="Courier New">-<font face="Symbol">�</font> --</font> ) first, (<font face="Courier New">-</font>
 <font face="Courier New">-</font> <font face="Courier New">-</font> ) second and
 (<font face="Courier New">---</font>) fifth cycle up to 2.05 V. (Click for a
 higher resolution image)</b></p>
-<p><a href="../paper7/figure3.gif"><img border="0" src="../paper7/figure3.gif" width="500" height="186"></a></p>
+<p><a href="../paper7/figure3.gif"><img border="0" src="{{ $htmURL }}figure3.gif" width="500" height="186"></a></p>
 <SCRIPT>comment(32)</SCRIPT><p><b>Figure 3 .- Cyclic voltammogram for a stainless steel electrode (bare
 surface) immersed in CAC filtering solution. Cycle 10. (Click for a higher
 resolution image)</b></p>
-<p><a href="../paper7/figure4.gif"><img border="0" src="../paper7/figure4.gif" width="500" height="187"></a></p>
+<p><a href="../paper7/figure4.gif"><img border="0" src="{{ $htmURL }}figure4.gif" width="500" height="187"></a></p>
 <SCRIPT>comment(33)</SCRIPT><p><b>Figure 4 .- Cyclic voltammogram for a stainless steel electrode (coated)
 immersed in CAC filtering solution. (<font face="Symbol">�</font> <font face="Symbol">�</font>
 ) first, (<font face="Courier New">-</font> <font face="Courier New">-</font> <font face="Courier New">-</font>
 ) second, (&#133;&#133;&#133;.) fifth and (--------) tenth cycle. </b><b>(Click for a
 higher resolution image)</b></p>
-<p><a href="../paper7/figure5.gif"><img border="0" src="../paper7/figure5.gif" width="500" height="342"></a></p>
+<p><a href="../paper7/figure5.gif"><img border="0" src="{{ $htmURL }}figure5.gif" width="500" height="342"></a></p>
 <SCRIPT>comment(34)</SCRIPT><p><b>Figure 5. FTIR-ATR spectrum of polymer film created on stainless steel
 electrode by electrooxidation of 6�10<sup>-2</sup> M phenol in 0.1 M Na<sub>2</sub>CO<sub>3
 </sub>solution during seven minutes at a fixed potential of 1.9 V. (Click for a
 higher resolution image)</b></p>
-<p><img border="0" src="../paper7/figure6.jpg" WIDTH="560" HEIGHT="354"></p>
+<p><img border="0" src="{{ $htmURL }}figure6.jpg" WIDTH="560" HEIGHT="354"></p>
 <SCRIPT>comment(35)</SCRIPT><p><b>Figure 6. Scanning electron micrographs of polymeric film created on
 stainless steel 0.1 M Na<sub>2</sub>CO<sub>3</sub> + 6�10<sup>-2</sup> M phenol
 solution. Left region: polymer film surface. Right region: bare steel surface.</b></p>

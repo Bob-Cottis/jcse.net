@@ -1,4 +1,4 @@
-<?php 
+<?php
 session_start();
 include_once('jrnl_subs.php');
 $logged_in=is_loggedin();
@@ -26,10 +26,10 @@ $logged_in=is_loggedin();
   of Final Coatings on Naval Steel.</h2>
   <p>E.C. Bucharsky<sup>#</sup>, E.B. Castro and S.G. Real</p>
   <i>
-  <p>Instituto de Investigaciones Fisicoquímicas Teóricas y Aplicadas (INIFTA),<br>
+  <p>Instituto de Investigaciones Fisicoquï¿½micas Teï¿½ricas y Aplicadas (INIFTA),<br>
   Suc. 4, C.C.16 (1900) La Plata, Argentina.</p>
   <sup>
-  <p>#</sup>Universidad Nacional de Quilmes, Roque Saenz Peña 180, (1876)
+  <p>#</sup>Universidad Nacional de Quilmes, Roque Saenz Peï¿½a 180, (1876)
   Bernal, Argentina</p>
   </i>
   <h3>Abstract</h3>
@@ -77,7 +77,7 @@ $logged_in=is_loggedin();
   related to the polymer permitivity, <font face="Symbol">e</font> <sub>p</sub>,
   by:</p>
   <p>&nbsp;</p>
-  <p><img src="../paper19/Image221.gif" WIDTH="201" HEIGHT="41"></p>
+  <p><img src="{{ $htmURL }}image221.gif" WIDTH="201" HEIGHT="41"></p>
   <p>Where <font face="Symbol">e</font> <sub>o</sub> is the permittivity of
   vacuum, A is the area of the polymer film and l is the thickness.</p>
   <p>In this way impedance measurements may be used as a method to monitore the
@@ -86,7 +86,7 @@ $logged_in=is_loggedin();
   relationship between the coating capacitance and the volume fraction of water
   in the coating layer, as already described by de Witt et al [7]:</p>
   <p>&nbsp;</p>
-  <p><img src="../paper19/Image222.gif" WIDTH="242" HEIGHT="45"></p>
+  <p><img src="{{ $htmURL }}image222.gif" WIDTH="242" HEIGHT="45"></p>
   <p>Where <font face="Symbol">f</font> is the volume fraction of water in the
   coating, C(t) is the capacitance at time t and C(0) is the capacitance at t=0,
   80 is the relative permittivity of water.</p>
@@ -95,11 +95,11 @@ $logged_in=is_loggedin();
   may be derived from impedance data recorded at different immersion times. For
   this purpose the transport equation of water in the coating must be solved
   with the adequate boundary conditions.</p>
-  <p>As a first approximation water diffusion may be described by Fick´s laws.
+  <p>As a first approximation water diffusion may be described by Fickï¿½s laws.
   The solution of Fick&#146;s second law, for a free film taking up water from the
   environment, was given by Crank and Park [8,9], considering as boundary
   conditions:</p>
-  <p>- For t <font face="Symbol">£</font> 0, The concentration of water in the
+  <p>- For t <font face="Symbol">ï¿½</font> 0, The concentration of water in the
   coating is uniform (or zero).</p>
   <p>- For t &gt; 0, The surface concentrations of water at x=0 and x= l are
   equal and</p>
@@ -111,27 +111,27 @@ $logged_in=is_loggedin();
   <p>Taking into account eq.(2), the following expression may be derived<sup> </sup>[7],
   valid at long immersion times:</p>
   <p>&nbsp;</p>
-  <p><img src="../paper19/Image223.gif" WIDTH="432" HEIGHT="82"></p>
+  <p><img src="{{ $htmURL }}image223.gif" WIDTH="432" HEIGHT="82"></p>
   <p>The simulation of experimental C(t) values, in terms of eq. (3) allows the
   determination of the diffusion coefficient, D, if the polymer layer exhibits
   ideal Fickean behavior even at long immersion times.</p>
   <p>This procedure requires good estimated values of the initial coating
-  capacitance, C<sub>0</sub>, and of the capacitance at infinite time, C<font face="Symbol">¥</font>
+  capacitance, C<sub>0</sub>, and of the capacitance at infinite time, C<font face="Symbol">ï¿½</font>
   .</p>
   <p>The solution of Fick&#146;s laws indicates a linear dependence of C(t) vs t<sup>1/2</sup>,
-  for t<font face="Symbol">®</font> 0 [11], so C<sub>0 </sub>may be calculated
+  for t<font face="Symbol">ï¿½</font> 0 [11], so C<sub>0 </sub>may be calculated
   from the extrapolation of this plot at t=0.</p>
-  <p>C<font face="Symbol">¥</font> may be determined from capacitance values at
+  <p>C<font face="Symbol">ï¿½</font> may be determined from capacitance values at
   very long immersion times, provided that no swelling of the coating takes
-  place, <i>ie </i>C(t) is constant for t<font face="Symbol">®</font> <font face="Symbol">¥</font>
+  place, <i>ie </i>C(t) is constant for t<font face="Symbol">ï¿½</font> <font face="Symbol">ï¿½</font>
   .</p>
   <h3>Experimental</h3>
   <p>SAE 1020 (UNS G10200) steel plates 20x8x0.2 cm were used as metallic
   substrate. Metal surfaces were initially sandblasted to A Sa 2 1/2&#150;3 degree
   (SIS Standard 05 59 00/ 67), degreased with vapor toluene, and finally coated
   with different ZRP and top-coating alkyd resins; in all the cases panels were
-  prepared in duplicate and stored seven days for curing at 20<font face="Symbol">±</font>
-  2 <font face="Symbol">°</font> C before beginning the tests. The primer
+  prepared in duplicate and stored seven days for curing at 20<font face="Symbol">ï¿½</font>
+  2 <font face="Symbol">ï¿½</font> C before beginning the tests. The primer
   compositions and dry film thickness are assembled in Table 1. ZRP formulations
   included spherical zinc as unique pigment, whose physical properties are given
   in Table 2. For the sake of comparison, some steel samples were covered with
@@ -148,7 +148,7 @@ $logged_in=is_loggedin();
       <td width="14%" valign="TOP">&nbsp;</td>
       <td width="19%" valign="TOP">
         <p>Thickness<br>
-        µm</p>
+        ï¿½m</p>
       </td>
     </tr>
     <tr>
@@ -287,14 +287,14 @@ $logged_in=is_loggedin();
   gauge employing bare sanded plates and standards of known thickness as
   reference. Potentials were measured and referred to in the text against a
   saturated calomel electrode (SCE). Electrochemical impedance Spectroscopy (EIS)
-  measurements in the 3 mHz <font face="Symbol">£</font> f <font face="Symbol">£</font>
+  measurements in the 3 mHz <font face="Symbol">ï¿½</font> f <font face="Symbol">ï¿½</font>
   65 kHz frequency range were performed in the potentiostatic mode at the
   corresponding corrosion potential attained after different exposure times in
   artificial sea water using a frequency response analyzer and an
   electrochemical interface (Solartron, FRA 1250 and EI 1186, respectively)
   integrated with a PC system. The exposed geometrical area of samples was 16 cm<sup>2</sup>.
   For impedance measurements, an activated Pt probe was coupled to the SCE
-  through a 10 µF capacitor to reduce phase shift errors at high frequencies.
+  through a 10 ï¿½F capacitor to reduce phase shift errors at high frequencies.
   Artificial sea water was prepared according to the ASTM Standard D 1141-90.
   Detailed descriptions of the experimental setup and data processing have been
   described elsewhere [12-14].</p>
@@ -317,7 +317,7 @@ $logged_in=is_loggedin();
   ZRP layer, giving rise to the electric contact among the Zn particles and with
   the steel substrate. In this way the cathodic protection mechanism period is
   established, at relatively short immersion times.</p>
-  <p><img src="../paper19/Image225.gif" WIDTH="253" HEIGHT="239"></p>
+  <p><img src="{{ $htmURL }}image225.gif" WIDTH="253" HEIGHT="239"></p>
   <p><b>Figure 1. E<sub>corr</sub> dependence on exposure time in artificial
   seawater for the tested samples</b></p>
   <p>The fast initial transport of water into the ZRP layer must occur by
@@ -333,7 +333,7 @@ $logged_in=is_loggedin();
   depicted in fig.1, shows a longer period of cathodic protection for the
   samples with top-coating. This fact can be interpreted considering that the
   top-coat acts as a barrier for the transport of both water and oxygen.</p>
-  <p><img src="../paper19/Image226.gif" WIDTH="666" HEIGHT="623"></p>
+  <p><img src="{{ $htmURL }}image226.gif" WIDTH="666" HEIGHT="623"></p>
   <p><b>Figure 2 Nyquist plots for samples S1, S2 and S3 at different immersion
   time.</b></p>
   <p>Impedance spectra at different immersion times for sample S1, S2 and S3 are
@@ -356,13 +356,13 @@ $logged_in=is_loggedin();
   process. Impedance spectra were analyzed using a non linear fit routine
   according to the following transfer function:</p>
   <p>&nbsp;</p>
-  <p><img src="../paper19/Image227.gif" WIDTH="477" HEIGHT="108"></p>
+  <p><img src="{{ $htmURL }}image227.gif" WIDTH="477" HEIGHT="108"></p>
   <p>The transfer function described by eqs. (4) and (5) corresponds to the
   dynamic behaviour of the equivalent circuit:</p>
-  <p><img src="../paper19/Image228.gif" width="194" height="194"></p>
+  <p><img src="{{ $htmURL }}image228.gif" width="194" height="194"></p>
   <p>Zi corresponds to:</p>
   <p>&nbsp;</p>
-  <p><img src="../paper19/Image229.gif" width="194" height="194"></p>
+  <p><img src="{{ $htmURL }}image229.gif" width="194" height="194"></p>
   <p>Where Rs is the electrolyte resistence, C is the top-paint film capacitance
   and R<sub>p </sub>the pore resistance in the top-coat. Z<sub>i </sub>corresponds
   to the impedance related to the whole corrosion process taking place in the
@@ -372,13 +372,13 @@ $logged_in=is_loggedin();
   capacitance associated with the Zn/electrolyte interface. A finite diffusion
   impedance, Zd, was considered in order to account for the transport process
   involved in the cathodic partial reaction; being Zd=R<sub>D0 </sub>(jS)<sup>-1/2
-  </sup>tanh(jS)<sup>½</sup>, were S=<font face="Symbol">d</font> <sup>2</sup>??D<sub>o</sub>,
+  </sup>tanh(jS)<sup>ï¿½</sup>, were S=<font face="Symbol">d</font> <sup>2</sup>??D<sub>o</sub>,
   ???<font face="Symbol">p</font> f, <font face="Symbol">d</font> and D<sub>o</sub>
   being the diffusion length and diffusion coefficient of oxygen.</p>
   <p>Figure 3 shows a fairly good agreement between experimental and fitted
   results obtained according to the transfer function described by equations (4)
   and (5).</p>
-  <p><img src="../paper19/Image230.gif" WIDTH="662" HEIGHT="814"></p>
+  <p><img src="{{ $htmURL }}image230.gif" WIDTH="662" HEIGHT="814"></p>
   <p><b>Figure 3 Experimental and simulated Bode and Nyquist plots, for the
   samples S1, S2 and S3 at different exposure time.</b></p>
   <p>The C values obtained from the fitting procedures were used to determine
@@ -386,22 +386,22 @@ $logged_in=is_loggedin();
   theoretical analysis presented above. Equation (3) is valid when the transport
   of water is properly described in terms of Fick&#146;s laws. If this is the case,
   two limiting conditions must be observed: a linear dependence of C vs t<sup>1/2</sup>
-  as t <font face="Symbol">®</font> 0, and a plateau in the C vs t curve as t <font face="Symbol">®</font>
-  <font face="Symbol">¥</font> , indicating the value of C<font face="Symbol">¥</font>
+  as t <font face="Symbol">ï¿½</font> 0, and a plateau in the C vs t curve as t <font face="Symbol">ï¿½</font>
+  <font face="Symbol">ï¿½</font> , indicating the value of C<font face="Symbol">ï¿½</font>
   .</p>
   <p>The plot C vs t <sup>1/2</sup> corresponding to the system S<sub>2</sub>,
   is depicted in Figure 4.</p>
-  <p><img src="../paper19/Image231.gif" width="552" height="574"></p>
+  <p><img src="{{ $htmURL }}image231.gif" width="552" height="574"></p>
   <p><b>Figure 4. Dependence of C on t<sup>1/2 </sup>for sample S2</b>.</p>
   <p>From the extrapolation to t=0, a value of C<sub>0</sub>= 3x10<sup>-9</sup>/
-  F cm<sup>-2</sup>, may be obtained. A value of C<font face="Symbol">¥</font>
+  F cm<sup>-2</sup>, may be obtained. A value of C<font face="Symbol">ï¿½</font>
   =4 x10<sup>-7</sup>/ F cm<sup>-2</sup>, corresponding to the experimental
   capacitance after 28 days of immersion, was considered as the capacitance at
   infinite time.</p>
-  <p>Figure 5 depicts experimental and theoretical [log(C(t)/C<sub>0</sub>)/log(C<font face="Symbol">¥</font>
+  <p>Figure 5 depicts experimental and theoretical [log(C(t)/C<sub>0</sub>)/log(C<font face="Symbol">ï¿½</font>
   /C<sub>0</sub>)] vs t plots</p>
-  <p><img src="../paper19/Image232.gif" WIDTH="589" HEIGHT="573"></p>
-  <p><b>Figure 5. Experimental and theoretical [log(C(t)/Co) / log (C<font face="Symbol">¥</font>
+  <p><img src="{{ $htmURL }}image232.gif" WIDTH="589" HEIGHT="573"></p>
+  <p><b>Figure 5. Experimental and theoretical [log(C(t)/Co) / log (C<font face="Symbol">ï¿½</font>
   /Co)] vs t plot, corresponding to sample S2.</b></p>
   <p>The theoretical curve was calculated in terms of Eq.3 .</p>
   <p>The theoretical curve was calculated in terms of eq.(3), taking into
@@ -422,7 +422,7 @@ $logged_in=is_loggedin();
   the increse of C<sub>dl </sub>. Higher values of R<sub>DO</sub> are also
   related to higher values of the diffusion length for oxygen transport, <font face="Symbol">d</font>
   , due to the presence of the top-layer.</p>
-  <p><img src="../paper19/Image233.gif" WIDTH="583" HEIGHT="523"></p>
+  <p><img src="{{ $htmURL }}image233.gif" WIDTH="583" HEIGHT="523"></p>
   <p><b>Figure 6. Dependence of fitting parameters C, Cdl , R<sub>A</sub> and Rc
   on exposure time for samples S1, S2 and S3.</b></p>
   <h3>Conclusions</h3>
@@ -442,9 +442,9 @@ $logged_in=is_loggedin();
   metal/coating interface.</p>
   <h3>Acknowledgments</h3>
   <p>This research project was financially supported by Consejo de
-  Investigaciones Ciéntificas y Técnicas (CONICET), Comisión de
-  Investigaciones Ciéntificas de la Provincia de Buenos Aires (CIC), and
-  Fundación Antorchas. Part of the equipment used in this work was provided by
+  Investigaciones Ciï¿½ntificas y Tï¿½cnicas (CONICET), Comisiï¿½n de
+  Investigaciones Ciï¿½ntificas de la Provincia de Buenos Aires (CIC), and
+  Fundaciï¿½n Antorchas. Part of the equipment used in this work was provided by
   the DAAD and the Alexander von Humboldt-Stifung.</p>
   <h3>References</h3>
   <p>[1] E.C. Bucharsky, S.G. Real and J.R. Vilche, <i>Corrosion Reviews</i>,14,
@@ -469,11 +469,11 @@ $logged_in=is_loggedin();
   <p>[11] F. Belluci and L. Nicodemo, <i>Corrosion</i>, 49,235(1993).</p>
   <p>[12] R.A. Armas, C.A. Gervasi, A.R. Di Sarli, S.G. Real and J.R.Vilche, <i>Corrosion</i>
   48,379(1992).</p>
-  <p>[13] S.G. Real, A.C. Elías,C.A. Gervasi, A.R. Di Sarli and J.R. Vilche,
+  <p>[13] S.G. Real, A.C. Elï¿½as,C.A. Gervasi, A.R. Di Sarli and J.R. Vilche,
   Electr<i>ochim.Acta </i>38,2029(1993).</p>
   <p>[14] E.B. Castro,S.G. Real, R.H. Milocco and J.R. Vilche, <i>Elctrochim.Acta,
   </i>36,117(1991).</p>
-  <p>[15] M. Pourbaix <i>, Atlas d´Equilibres Electrochemiques</i>,
+  <p>[15] M. Pourbaix <i>, Atlas dï¿½Equilibres Electrochemiques</i>,
   Ganthier-Villars, Paris, p. 312, (1963)</p>
   <hr>
   <p><a href="http://www.jcse.org/Background.htm">Comment</a> on this

@@ -695,91 +695,91 @@ getcommentmode();</SCRIPT></HEAD><body>
     </ol>
   </ol>
   <p>&nbsp;</p>
-  <p><img src="../paper27/image234.gif" WIDTH="600" HEIGHT="595"></p>
+  <p><img src="{{ $htmURL }}image234.gif" WIDTH="600" HEIGHT="595"></p>
   <b>
   <SCRIPT>comment(28)</SCRIPT><p>Figure 1. Typical Equivalent Circuit</p>
   </b>
   <p>&nbsp;</p>
-  <p><img src="../paper27/image235.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image235.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(29)</SCRIPT><p>Figure 2. Bode magnitude plots for foodcans filled with synthetic vegetable
   medium, and processed at 121 �C for various times.</p>
   </b>
-  <p><img src="../paper27/image236.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image236.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(30)</SCRIPT><p>Figure 3. Lacquer Capacitance ratio for foodcans filled with synthetic
   vegetable medium, and processed at 121 �C for various times.</p>
   </b>
-  <p><img src="../paper27/image237.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image237.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(31)</SCRIPT><p>Figure 4. Pore resistance after processing for foodcans filled with
   synthetic vegetable medium, and processed at 121 �C for various times.</p>
   </b>
-  <p><img src="../paper27/image238.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image238.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(32)</SCRIPT><p>Figure 5. Bode magnitude plot for poor-performing can packed with chicken
   soup, measured using in-can electrodes.</p>
   </b>
-  <p><img src="../paper27/image239.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image239.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(33)</SCRIPT><p>Figure 6. Bode phase angle plot for poor-performing can packed with chicken
   soup, measured using in-can electrodes.</p>
   </b>
-  <p><img src="../paper27/image240.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image240.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(34)</SCRIPT><p>Figure 7. Bode magnitude plot for good-performing can packed with chicken
   soup, measured using in-can electrodes.</p>
-  <p><img src="../paper27/image241.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image241.gif" WIDTH="977" HEIGHT="600"></p>
   <SCRIPT>comment(35)</SCRIPT><p>Figure 8. Bode phase angle plot for good-performing can packed with chicken
   soup, measured using in-can electrodes.</p>
-  <p><img src="../paper27/image242.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image242.gif" WIDTH="977" HEIGHT="600"></p>
   <SCRIPT>comment(36)</SCRIPT><p>Figure 9. Time dependence of lacquer capacitance of solvent-based lacquered
   foodcans packed with chicken soup, measured using in-can electrodes.</p>
   </b>
-  <p><img src="../paper27/image243.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image243.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(37)</SCRIPT><p>Figure 10. Time dependence of pore resistance of solvent-based lacquered
   foodcans packed with chicken soup, measured using in-can electrodes.</p>
   </b>
-  <p><img src="../paper27/image244.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image244.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(38)</SCRIPT><p>Figure 11. White-lined cans - lacquer A. Time dependence of pore
   resistance.</p>
   </b>
-  <p><img src="../paper27/image245.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image245.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(39)</SCRIPT><p>Figure 12. White-lined cans - lacquer B. Time dependence of pore
   resistance.</p>
   </b>
-  <p><img src="../paper27/image246.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image246.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(40)</SCRIPT><p>Figure 13. White-lined cans - lacquer C. Time dependence of pore
   resistance.</p>
-  <p><img src="../paper27/image247.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image247.gif" WIDTH="977" HEIGHT="600"></p>
   <SCRIPT>comment(41)</SCRIPT><p>Figure 14. White-lined cans - lacquer A. Time dependence of lacquer
   capacitance.</p>
   </b>
-  <p><img src="../paper27/image248.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image248.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(42)</SCRIPT><p>Figure 15. White-lined cans - lacquer B. Time dependence of lacquer
   capacitance.</p>
-  <p><img src="../paper27/image249.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image249.gif" WIDTH="977" HEIGHT="600"></p>
   <SCRIPT>comment(43)</SCRIPT><p>Figure 16. White-lined cans - lacquer C. Time dependence of lacquer
   capacitance.</p>
   </b>
-  <p><img src="../paper27/image250.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image250.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(44)</SCRIPT><p>Figure 17. White lined cans. Plot of lacquer capacitance ratio vs. pore
   resistance after 1 day. High tin coating weight variables.</p>
   </b>
-  <p><img src="../paper27/image251.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image251.gif" WIDTH="977" HEIGHT="600"></p>
   <b>
   <SCRIPT>comment(45)</SCRIPT><p>Figure 18. White lined cans. Plot of lacquer capacitance ratio vs. pore
   resistance after 3 months. High tin coating weight variables.</p>
-  <p><img src="../paper27/image252.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image252.gif" WIDTH="977" HEIGHT="600"></p>
   <SCRIPT>comment(46)</SCRIPT><p>Figure 19. White lined cans. Time dependence of charge transfer resistance
   for high tin coating weight variables.</p>
-  <p><img src="../paper27/image253.gif" WIDTH="977" HEIGHT="600"></p>
+  <p><img src="{{ $htmURL }}image253.gif" WIDTH="977" HEIGHT="600"></p>
   <SCRIPT>comment(47)</SCRIPT><p>Figure 20. White lined cans. Time dependence of charge transfer resistance
   for lacquer A.</p>
 

@@ -679,31 +679,31 @@ getcommentmode();</SCRIPT></HEAD><body>
   Mode of Action of Chromate Inhibitor in Epoxy Primer on Galvanised Steel</i>&#146;
   Prog. in Org. Ctgs, <i>in press</i>.</p>
   <h3>Figures</h3>
-  <p><img border="0" src="../paper15/v2p15f1.gif" width="767" height="544"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f1.gif" width="767" height="544"></p>
   <SCRIPT>comment(85)</SCRIPT><p><b>Figure 1 : Section Through&nbsp; Edge of Pre- Coated Steel Sheet (Not to
   scale)</b></p>
-  <p><img border="0" src="../paper15/v2p15f2.gif" width="789" height="691"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f2.gif" width="789" height="691"></p>
   <SCRIPT>comment(86)</SCRIPT><p><b>Figure 2 : Failure modes on Precoated Steel .Source [2]</b></p>
-  <p><img border="0" src="../paper15/v2p15f3.jpg" width="901" height="585"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f3.jpg" width="901" height="585"></p>
   <SCRIPT>comment(87)</SCRIPT><p><b>Figure 3 : Drip Edge, West Pitch</b></p>
-  <p><img border="0" src="../paper15/v2p15f4.jpg" width="895" height="595"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f4.jpg" width="895" height="595"></p>
   <SCRIPT>comment(88)</SCRIPT><p><b>Figure 4 : Drip Edge, East Pitch</b></p>
-  <p><img border="0" src="../paper15/v2p15f5a.jpg" width="446" height="308"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f5a.jpg" width="446" height="308"></p>
   <SCRIPT>comment(89)</SCRIPT><p>Figure 5a : Saltspray 1000 hours</p>
-  <p><img border="0" src="../paper15/v2p15f5b.jpg" width="441" height="336"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f5b.jpg" width="441" height="336"></p>
   <SCRIPT>comment(90)</SCRIPT><p>Figure 5b : Prohesion<sup>�</sup> 1000 hours</p>
-  <p><img border="0" src="../paper15/v2p15f5c.jpg" width="441" height="331"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f5c.jpg" width="441" height="331"></p>
   <SCRIPT>comment(91)</SCRIPT><p>Figure 5c : 3 � Years Scab Corrosion Test</p>
-  <p><img border="0" src="../paper15/v2p15f5d.jpg" width="445" height="339"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f5d.jpg" width="445" height="339"></p>
   <SCRIPT>comment(92)</SCRIPT><p>Figure 5d : Hook of Holland&nbsp; 5 Years</p>
-  <p><img border="0" src="../paper15/v2p15f5e.jpg" width="443" height="321"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f5e.jpg" width="443" height="321"></p>
   <SCRIPT>comment(93)</SCRIPT><p>Figure 5e :&nbsp; Cyclic Fog/UV Exposure Test,&nbsp;&nbsp; 1500&nbsp; hours
   total exposure</p>
   <SCRIPT>comment(94)</SCRIPT><p><b>Figure 5 : Accelerated Testing : Edge Corrosion Patterns (x 8
   magnification)</b></p>
-  <p><img border="0" src="../paper15/v2p15f6a.jpg" width="598" height="391"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f6a.jpg" width="598" height="391"></p>
   <SCRIPT>comment(95)</SCRIPT><p>Figure 6a&nbsp; Roof South West Pitch, Overlap Edge
-  <p><img border="0" src="../paper15/v2p15f6b.jpg" width="589" height="389"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f6b.jpg" width="589" height="389"></p>
   <SCRIPT>comment(96)</SCRIPT><p>Figure 6b&nbsp; Roof North East, Overlap Edge</p>
   <SCRIPT>comment(97)</SCRIPT><p><b>Table 1 :&nbsp; Characteristics of&nbsp; Different Roof Pitches</b></p>
 <div align="center">
@@ -963,22 +963,22 @@ getcommentmode();</SCRIPT></HEAD><body>
   </table>
   </center>
 </div>
-  <p><img border="0" src="../paper15/v2p15f7a.jpg" width="450" height="339">
+  <p><img border="0" src="{{ $htmURL }}v2p15f7a.jpg" width="450" height="339">
   <SCRIPT>comment(98)</SCRIPT><p>Figure 7a. Saltspray Test - 1000 hours Continuous Fog</p>
-  <p><img border="0" src="../paper15/v2p15f7b.jpg" width="432" height="322"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f7b.jpg" width="432" height="322"></p>
   <SCRIPT>comment(99)</SCRIPT><p>Figure 7b. Prohesion<sup>� </sup>Test 1000 hours wet/dry cycling</p>
-  <p><img border="0" src="../paper15/v2p15f7c.jpg" width="259" height="302"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f7c.jpg" width="259" height="302"></p>
   <SCRIPT>comment(100)</SCRIPT><p>Figure 7c. Cyclic Wet Dry/ UV Exposure Test 1500 hours&nbsp;</p>
-  <p><img border="0" src="../paper15/v2p15f7d.jpg" width="440" height="323"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f7d.jpg" width="440" height="323"></p>
   <SCRIPT>comment(101)</SCRIPT><p>Figure 7d. SCAB Corrosion Test 5 years Exposure</p>
   <SCRIPT>comment(102)</SCRIPT><p><b>Figure 7 : Case Study 3 : Accelerated Exposure Tests&nbsp; (x 0.54)</b></p>
-  <p><img border="0" src="../paper15/v2p15f7e.jpg" width="426" height="305"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f7e.jpg" width="426" height="305"></p>
   <SCRIPT>comment(103)</SCRIPT><p>Figure 7e&nbsp; Hook of Holland, 90� North Facing 5 Years</p>
-  <p><img border="0" src="../paper15/v2p15f7f.jpg" width="429" height="329"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f7f.jpg" width="429" height="329"></p>
   <SCRIPT>comment(104)</SCRIPT><p>Figure 7f&nbsp; Hook of Holland, 5� South Facing&nbsp; 5 Years</p>
-  <p><img border="0" src="../paper15/v2p15f7g.jpg" width="435" height="341"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f7g.jpg" width="435" height="341"></p>
   <SCRIPT>comment(105)</SCRIPT><p>Figure 7g&nbsp; Hendaye, France, 90� North Facing&nbsp; 5 Years</p>
-  <p><img border="0" src="../paper15/v2p15f7h.jpg" width="436" height="314"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f7h.jpg" width="436" height="314"></p>
   <SCRIPT>comment(106)</SCRIPT><p>Figure 7h&nbsp; Hendaye, France, 5� South Facing&nbsp; 5 Years</p>
   <SCRIPT>comment(107)</SCRIPT><p><b>Figure 7 : Case Study 3 : Natural Exposure Tests . (x 0.54)</b></p>
   <SCRIPT>comment(108)</SCRIPT><p><b>Table 2 :&nbsp; Case Study 3 : Corrosion Test Details</b></p>
@@ -1173,20 +1173,20 @@ getcommentmode();</SCRIPT></HEAD><body>
   </table>
   </center>
 </div>
-  <p><img border="0" src="../paper15/v2p15f8.jpg" width="462" height="339"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f8.jpg" width="462" height="339"></p>
   <SCRIPT>comment(109)</SCRIPT><p><b>Figure 8 :&nbsp; Cut Edge Corrosion Mode (x 8 magnification)</b></p>
   <p><b>&nbsp;&nbsp; b) Edge peel /Zn Corrosion</b></p>
   <b>&nbsp;&nbsp; c)&nbsp; Fe Corrosion &nbsp;Exposure</b>
   <p><b>&nbsp;&nbsp; a) Initiation</b></p>
   <p><b>&nbsp; d)&nbsp; Coating detachment</b></p>
-  <p><img border="0" src="../paper15/v2p15f9.jpg" width="463" height="343"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f9.jpg" width="463" height="343"></p>
   <SCRIPT>comment(110)</SCRIPT><p>Figure 9 :&nbsp; Reproducing Cut Edge Corrosion (x 8 magnification)</p>
   <p>Scab Corrosion&nbsp; Test&nbsp; 3 Yrs</p>
   <p>Hook of Holland 6 Yrs</p>
   <p>Scab Corrosion&nbsp; Test Exposure</p>
   <p>Prohesion<sup>�</sup>&nbsp; Test 1000 hrs</p>
   <p>Saltspray&nbsp; Test 1000 hours</p>
-  <p><img border="0" src="../paper15/v2p15f10.gif" width="641" height="818"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p15f10.gif" width="641" height="818"></p>
   <SCRIPT>comment(111)</SCRIPT><p><b>Figure 10 : Corrosion Prediction Methodology</b></p>
   <SCRIPT>comment(112)</SCRIPT><p><b>Table 4a&nbsp; Case Study 4 : Systems Evaluated</b></p>
   <p><b><u>System A</u></b><u>: <i>Chromate-free Polyester primer on HDG</i>:</u></p>

@@ -87,7 +87,7 @@ level of success of corrosion protection stipulated by Evans &amp; Mayne [3,4]
 that is not fully understood and the purpose of this study is to examine this
 adventitious performance.</p>
 
-<p align=center><img border="0" src="../paper24/Figure%201.gif" width="622" height="531"></p>
+<p align=center><img border="0" src="{{ $htmURL }}Figure%201.gif" width="622" height="531"></p>
 
 <SCRIPT>comment(6)</SCRIPT><p align=center><b>Figure 1 Progress of steel at shipyard</b></p>
 
@@ -317,15 +317,15 @@ rust. ZS18 began to exhibit iron rust at 650 hours while ZS36 showed sites at
 colour is a slightly different tone in places compared to pre-exposure at 1200
 hours.</p>
 
-<p align=center><img border="0" src="../paper24/Figure%202.gif" width="481" height="337"></p>
+<p align=center><img border="0" src="{{ $htmURL }}Figure%202.gif" width="481" height="337"></p>
 
 <SCRIPT>comment(19)</SCRIPT><p align=left><b>Figure 2 � Potential vs Time for ZS18, ZS36, ZS46
 &amp; ZS63 under continuous immersion in 3.5% w/w sodium chloride solution</b></p>
-<p align="left"><img border="0" src="../paper24/Figure%203.gif" width="482" height="332">
+<p align="left"><img border="0" src="{{ $htmURL }}Figure%203.gif" width="482" height="332">
 <SCRIPT>comment(20)</SCRIPT><br clear=ALL><b>Figure 3 � Potential vs Time for
 ZS18, ZS36, ZS46 &amp; ZS63 under continuous immersion in AMR solution</b>
 
-<p align="left"><img border="0" src="../paper24/FIgure%204.jpg" width="404" height="303"></p>
+<p align="left"><img border="0" src="{{ $htmURL }}FIgure%204.jpg" width="404" height="303"></p>
 
 <SCRIPT>comment(21)</SCRIPT><p align=left><b>Figure 4 � ZS36 after 700 hours continuous immersion
 in 3.5%w/w sodium chloride solution<br clear=all></b></p>
@@ -653,31 +653,31 @@ particles and the substrate along with localised corrosion on the zinc. This
 could be explained by the fundamental differences in the coatings (zinc-rich
 and low zinc); by the thickness of the dry film (50-60mm compared to 20mm); or by the protective mechanism of the
 coating. �This piece of work forms part
-of the evidence in investigating the last point.</p><img border="0" src="../paper24/Figure%205.jpg" align="left" width="983" height="137"><br clear=all>
+of the evidence in investigating the last point.</p><img border="0" src="{{ $htmURL }}Figure%205.jpg" align="left" width="983" height="137"><br clear=all>
 
 <SCRIPT>comment(32)</SCRIPT><br clear=ALL><b>Figure 5 � ZS63 coating, Zinc X-Ray
 map</b>
 
-<p align=left><img border="0" src="../paper24/Figure%206.jpg" width="965" height="155"><br clear=ALL><b>Figure 6 � ZS46 coating, Zinc X-Ray
+<p align=left><img border="0" src="{{ $htmURL }}Figure%206.jpg" width="965" height="155"><br clear=ALL><b>Figure 6 � ZS46 coating, Zinc X-Ray
 map</b></p>
 
-<p align=left><img border="0" src="../paper24/Figure%207.jpg" width="975" height="137"><br clear=ALL><b>Figure 7 � ZS36 coating, Zinc X-Ray
+<p align=left><img border="0" src="{{ $htmURL }}Figure%207.jpg" width="975" height="137"><br clear=ALL><b>Figure 7 � ZS36 coating, Zinc X-Ray
 map&nbsp;</b></p>
 
-<p align=left><img border="0" src="../paper24/Figure%208.jpg" width="947" height="125"><br clear=ALL><b>Figure 8 � ZS18 coating, Zinc X-Ray
+<p align=left><img border="0" src="{{ $htmURL }}Figure%208.jpg" width="947" height="125"><br clear=ALL><b>Figure 8 � ZS18 coating, Zinc X-Ray
 map&nbsp;</b></p>
 
-<p align=left><img border="0" src="../paper24/Figure%209.jpg" width="525" height="375"></p>
+<p align=left><img border="0" src="{{ $htmURL }}Figure%209.jpg" width="525" height="375"></p>
 
 <SCRIPT>comment(33)</SCRIPT><p align=left><b>Figure 9 � SEM photograph of ZS46 coating after 240
 hours exposure</b></p>
 
-<p align=left><img border="0" src="../paper24/Figure%2010.jpg" width="525" height="375"></p>
+<p align=left><img border="0" src="{{ $htmURL }}Figure%2010.jpg" width="525" height="375"></p>
 
 <SCRIPT>comment(34)</SCRIPT><p align=left><b>Figure 10 � SEM photograph of ZS36 coating after 240
 hours exposure</b></p>
 
-<p><img border="0" src="../paper24/Figure%2011.jpg" width="525" height="375"></p>
+<p><img border="0" src="{{ $htmURL }}Figure%2011.jpg" width="525" height="375"></p>
 <SCRIPT>comment(35)</SCRIPT><p><b>Figure 11 - SEM photograph of ZS63
 coating after 240 hours exposure</b></p>
 

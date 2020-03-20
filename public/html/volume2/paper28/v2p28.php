@@ -1,4 +1,4 @@
-<?php 
+<?php
 session_start();
 require_once('/home/jcsete5/public_html/jcse.org/jcse/php_inc/jrnl_subs.php');
 $logged_in=is_loggedin();
@@ -292,7 +292,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   diameter of 40 to 90 &mu;m
   m (for 1008 h ageing) situated around blisters. These cracks showed tendency
   to become larger with ageing time. However, cracks generated under the
-  influence of other media were in the shape of bands 150 to 190 &mu;m long and 2.5 to 10 &mu;m wide. 
+  influence of other media were in the shape of bands 150 to 190 &mu;m long and 2.5 to 10 &mu;m wide.
   In the case of ultraviolet
   radiation action, number and size of the cracks increased with ageing time.
   Moreover, these cracks were characterised by silver shines in the reflected
@@ -307,7 +307,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   (Fig.&nbsp;1) were found for these ageing kinds in the whole ageing range (the
   measurements were done after 240, 360, 744 and 1008 hours).</p>
   <p>&nbsp;</p>
-  <p><img src="../paper28/Image254.gif" WIDTH="663" HEIGHT="458"></p>
+  <p><img src="{{ $htmURL }}image254.gif" WIDTH="663" HEIGHT="458"></p>
   <SCRIPT>comment(12)</SCRIPT><p><b>Fig.&nbsp;1.&nbsp;Influence of ageing for 1008 h on the temperature of
   thermal decomposition (T<sub>u</sub>) of the 5,&nbsp;10,&nbsp;40% of the
   epoxide coating mass (0 &#150; unaged coating)</b></p>
@@ -317,9 +317,9 @@ getcommentmode();</SCRIPT></HEAD><body>
   glass transition temperature was found for 1008 hour ageing (Fig.&nbsp;2). A
   decrease of the glass transition temperature &#150; on the average by 10-15% -
   was found for the other ageing kinds (Fig.&nbsp;2).</p>
-  <p><b>1) </b><img src="../paper28/Image255.gif" align="top" WIDTH="446" HEIGHT="319"></p>
-  <p><b>2)</b>&nbsp; <img src="../paper28/Image256.gif" align="top" WIDTH="446" HEIGHT="319"></p>
-  <SCRIPT>comment(14)</SCRIPT><p><b>Fig.&nbsp;2.&nbsp;Influence of temperature on loss factor (tan &delta;) 
+  <p><b>1) </b><img src="{{ $htmURL }}image255.gif" align="top" WIDTH="446" HEIGHT="319"></p>
+  <p><b>2)</b>&nbsp; <img src="{{ $htmURL }}image256.gif" align="top" WIDTH="446" HEIGHT="319"></p>
+  <SCRIPT>comment(14)</SCRIPT><p><b>Fig.&nbsp;2.&nbsp;Influence of temperature on loss factor (tan &delta;)
   during dynamical tension of the epoxide coating aged for 1008 hours</b></p>
   <SCRIPT>comment(15)</SCRIPT><p>Action of 5% sulphuric acid water solution caused an increase of waviness
   depth from 1.9 &mu;m (for the unaged coating) to
@@ -327,10 +327,10 @@ getcommentmode();</SCRIPT></HEAD><body>
   [1]. The greatest changes of the coating roughness, estimated with arithmetic
   mean roughness (R<sub>a</sub>) and mean peak-to-valley height (R<sub>z</sub>)
   were caused by the action of ultraviolet radiation (Fig. 3, 4).</p>
-  <p><img src="../paper28/Image257.gif" WIDTH="370" HEIGHT="198"></p>
+  <p><img src="{{ $htmURL }}image257.gif" WIDTH="370" HEIGHT="198"></p>
   <SCRIPT>comment(16)</SCRIPT><p><b>Fig.&nbsp;3.&nbsp;Arithmetic mean roughness (R<sub>a</sub>) of the
   epoxide coating in dependence of the kind of ageing for 1008 hours</b></p>
-  <p><img src="../paper28/Image258.gif" WIDTH="370" HEIGHT="198"></p>
+  <p><img src="{{ $htmURL }}image258.gif" WIDTH="370" HEIGHT="198"></p>
   <SCRIPT>comment(17)</SCRIPT><p><b>Fig.&nbsp;4.&nbsp;Mean peak-to-valley height (R<sub>z</sub>) of the
   epoxide coating in dependence of the kind of ageing for 1008 hours</b></p>
   <SCRIPT>comment(18)</SCRIPT><p>This was connected with pigment and filler spalling from the coating
@@ -340,12 +340,12 @@ getcommentmode();</SCRIPT></HEAD><body>
   than 25%. In case of other ageing kinds the observed hardness decrease was
   from 5 to 13% - except for the ageing with thermal shocks, when the hardness
   had almost the constant value.</p>
-  <p><img src="../paper28/Image259.gif" WIDTH="664" HEIGHT="606"></p>
+  <p><img src="{{ $htmURL }}image259.gif" WIDTH="664" HEIGHT="606"></p>
   <SCRIPT>comment(19)</SCRIPT><p><b>Fig.&nbsp;5.&nbsp;Influence of ageing on the coating hardness (according
   to the Polish Standard PN-79/C-81530)</b></p>
   <SCRIPT>comment(20)</SCRIPT><p>Ageing of the coating contributes to the decrease of its tensile strength
   (Fig. 6) [1].</p>
-  <p><img src="../paper28/Image260.gif" WIDTH="447" HEIGHT="287"></p>
+  <p><img src="{{ $htmURL }}image260.gif" WIDTH="447" HEIGHT="287"></p>
   <SCRIPT>comment(21)</SCRIPT><p><b>Fig.&nbsp;6.&nbsp;Influence of ageing on the tensile strength of the
   epoxide coating.</b></p>
   <SCRIPT>comment(22)</SCRIPT><p>Kind of the ageing factor:</p>
@@ -367,7 +367,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   this case the highest unit elongation at maximal tensile stress and at rupture
   (Fig.7) [1].</p>
   <p>&nbsp;</p>
-  <p><img src="../paper28/Image261.gif" WIDTH="449" HEIGHT="288"></p>
+  <p><img src="{{ $htmURL }}image261.gif" WIDTH="449" HEIGHT="288"></p>
   <SCRIPT>comment(24)</SCRIPT><p><b>Fig.&nbsp;7.&nbsp;Influence of ageing on the unit elongation at rupture
   of the epoxide coating</b></p>
   <SCRIPT>comment(25)</SCRIPT><p>Ruptureability of epoxide coatings, estimated by means of dynamic
@@ -377,12 +377,12 @@ getcommentmode();</SCRIPT></HEAD><body>
   with 5% sulphuric acid water solution (Fig.&nbsp;8) [1]. On the contrary, the
   coatings aged for 744 and 1008 hours did not rupture in the temperature range
   from 0 to 200<sup>o</sup>C (Fig.&nbsp;9) [1].</p>
-  <p><b>1)</b>&nbsp; <img src="../paper28/Image262.gif" align="top" WIDTH="460" HEIGHT="327"></p>
-  <p><b>2) </b><img src="../paper28/Image263.gif" align="top" WIDTH="460" HEIGHT="327"></p>
+  <p><b>1)</b>&nbsp; <img src="{{ $htmURL }}image262.gif" align="top" WIDTH="460" HEIGHT="327"></p>
+  <p><b>2) </b><img src="{{ $htmURL }}image263.gif" align="top" WIDTH="460" HEIGHT="327"></p>
   <SCRIPT>comment(26)</SCRIPT><p><b>Fig.&nbsp;8.&nbsp;Influence of kind of ageing for 360 hours on the
   epoxide coating elongation</b></p>
-  <p><b>1)&nbsp; </b><img src="../paper28/Image264.gif" align="top" WIDTH="467" HEIGHT="327"></p>
-  <p><b>2)</b>&nbsp; <img src="../paper28/Image265.gif" align="top" WIDTH="467" HEIGHT="327"></p>
+  <p><b>1)&nbsp; </b><img src="{{ $htmURL }}image264.gif" align="top" WIDTH="467" HEIGHT="327"></p>
+  <p><b>2)</b>&nbsp; <img src="{{ $htmURL }}image265.gif" align="top" WIDTH="467" HEIGHT="327"></p>
   <SCRIPT>comment(27)</SCRIPT><p><b>Fig.&nbsp;9.&nbsp;Influence of kind of ageing for 1008 hours on the
   epoxide coating elongation</b></p>
   <SCRIPT>comment(28)</SCRIPT><p>In case of the coatings aged with the most destructive factors, such as
@@ -394,8 +394,8 @@ getcommentmode();</SCRIPT></HEAD><body>
   E&#146; &#150; in the high-elastic state of the epoxide (Fig.&nbsp;10) and an
   increase of the glass transition temperature (Fig.&nbsp;2) what gives the
   evidence of increased crosslinking of such aged coatings [5,6].</p>
-  <p><b>1)</b>&nbsp; <img src="../paper28/Image266.gif" align="top" WIDTH="464" HEIGHT="327"></p>
-  <p><b>2)</b>&nbsp; <img src="../paper28/Image267.gif" align="top" WIDTH="464" HEIGHT="327"></p>
+  <p><b>1)</b>&nbsp; <img src="{{ $htmURL }}image266.gif" align="top" WIDTH="464" HEIGHT="327"></p>
+  <p><b>2)</b>&nbsp; <img src="{{ $htmURL }}image267.gif" align="top" WIDTH="464" HEIGHT="327"></p>
   <SCRIPT>comment(29)</SCRIPT><p><b>Fig.&nbsp;10.&nbsp; Influence of temperature on the value of dynamic
   storage modulus E&#146; during dynamic tension of the coating aged for 1008 hours</b></p>
   <h3>Conclusions</h3>

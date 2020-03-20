@@ -13,10 +13,12 @@ class HelperServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        $file = app_path('Helpers/Kwds.php');
-        if (file_exists($file)) {
-            require_once($file);
-        }
+        $file = app_path('Helpers/Keywords.php');
+        require_once($file);
+        $file = app_path('Helpers/Papers.php');
+        require_once($file);
+        $file = app_path('Helpers/Users.php');
+        require_once($file);
     }
 
     /**

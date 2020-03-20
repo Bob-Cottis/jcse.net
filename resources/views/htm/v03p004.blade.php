@@ -50,7 +50,7 @@
   potential noise is measured relative to a quiet reference electrode (in the
   case of this simulation the reference electrode is, of course, ideally
   quiet!).</p>
-  <p>&sect;4 
+  <p>&sect;4
   A shot noise model is assumed for the corrosion process. The anodic
   reaction is assumed to consist of instantaneous pulses of charge
   (mathematically they are Dirac delta functions, current pulses with zero width
@@ -112,7 +112,7 @@
   processing time as a function of the expected number of pulses for a fixed
   time record duration of 65536 seconds. These results were obtained using a
   computer based on a 350 MHz Pentium II running Windows NT.</p>
-  <p><a href="v3p4_fig1.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig1_small.gif" width="400" height="273"></a></p>
+  <p><a href="v3p4_fig1.gif"><img border="2" src="{{ $htmURL }}v3p4_fig1_small.gif" width="400" height="273"></a></p>
   <p>&sect;9 <b>Figure 1 Processing time for a simulation over 65536 seconds as a
   function of the expected number of pulses for a constant pulse amplitude. </b>(click
   on the image for an enlarged view)</p>
@@ -133,10 +133,10 @@
   which leads to the conclusion that the standard deviation of potential should
   be a good indicator of localized corrosion (see also the characteristic
   frequency below).</p>
-  <p><a href="v3p4_fig2a.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig2a_small.gif" width="400" height="245"></a></p>
+  <p><a href="v3p4_fig2a.gif"><img border="2" src="{{ $htmURL }}v3p4_fig2a_small.gif" width="400" height="245"></a></p>
   <p>&sect;12 <b>Figure 2a Effect of electrode asymmetry on coefficient of
   variation&nbsp;</b></p>
-  <p><a href="v3p4_fig2b.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig2b_small.gif" width="400" height="245"></a></p>
+  <p><a href="v3p4_fig2b.gif"><img border="2" src="{{ $htmURL }}v3p4_fig2b_small.gif" width="400" height="245"></a></p>
   <p>&sect;13 <b>Figure 2b Effect of electrode asymmetry on coefficient of variation
   (enlargement of y axis)</b></p>
   <h4>&sect;14 Localization Index</h4>
@@ -156,7 +156,7 @@
   general case the large amplitude of both potential and current noise that is
   required to obtain a large characteristic charge are still expected to be an
   indicator of the severity of the corrosion process.</p>
-  <p><a href="v3p4_fig3.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig3_small.gif" alt="v3p4_fig3.gif (9427 bytes)" width="400" height="245"></a>&nbsp;</p>
+  <p><a href="v3p4_fig3.gif"><img border="2" src="{{ $htmURL }}v3p4_fig3_small.gif" alt="v3p4_fig3.gif (9427 bytes)" width="400" height="245"></a>&nbsp;</p>
   <p>&sect;16 <b>Figure 3 Effect on sampling frequency (and hence measurement bandwidth)
   on estimated charge and pulse frequency</b></p>
   <p>&sect;17 Note that a large characteristic charge does not, of itself, indicate that
@@ -199,9 +199,9 @@
   will tend to zero, and will not be a reliable indicator. This is illustrated
   in Figures 4 and 5. The measured skew is also strongly sensitive to the nature
   of any drift in the signal [<script>crossref(6)</script>].&nbsp;</p>
-  <p><a href="v3p4_fig4.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig4_small.gif" width="400" height="245"></a></p>
+  <p><a href="v3p4_fig4.gif"><img border="2" src="{{ $htmURL }}v3p4_fig4_small.gif" width="400" height="245"></a></p>
   <p>&sect;22 <b>Figure 4 Effect of electrode asymmetry on skew&nbsp;</b></p>
-  <p><a href="v3p4_fig5.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig5_small.gif" width="400" height="246"></a></p>
+  <p><a href="v3p4_fig5.gif"><img border="2" src="{{ $htmURL }}v3p4_fig5_small.gif" width="400" height="246"></a></p>
   <p>&sect;23 <b>Figure 5 Effect of mean inter-pulse interval on skew&nbsp;</b></p>
   <p>Where the skew does provide information about a localized corrosion process
   (e.g. in the case of potential noise), it does have interesting
@@ -223,11 +223,11 @@
   current kurtosis (if measured over the optimal frequency range) is effectively
   an indicator of few, large transients, and as such appears to be a good
   indicator of the occurrence of localized corrosion.&nbsp;</p>
-  <p><a href="v3p4_fig6.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig6_small.gif" width="400" height="245"></a></p>
+  <p><a href="v3p4_fig6.gif"><img border="2" src="{{ $htmURL }}v3p4_fig6_small.gif" width="400" height="245"></a></p>
   <p>&sect;25 <b>Figure 6 Effect of electrode asymmetry on normalized kurtosis</b></p>
-  <p><a href="v3p4_fig7a.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig7a_small.gif" width="400" height="246"></a></p>
+  <p><a href="v3p4_fig7a.gif"><img border="2" src="{{ $htmURL }}v3p4_fig7a_small.gif" width="400" height="246"></a></p>
   <p>&sect;26 <b>Figure 7a Effect of mean inter-pulse interval on kurtosis</b></p>
-  <p><a href="v3p4_fig7b.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig7b_small.gif" width="400" height="246"></a></p>
+  <p><a href="v3p4_fig7b.gif"><img border="2" src="{{ $htmURL }}v3p4_fig7b_small.gif" width="400" height="246"></a></p>
   <p>&sect;27 <b>Figure 7b Effect of mean inter-pulse interval on kurtosis (enlarged y
   axis)</b></p>
   <h4>&sect;28 Noise Resistance and Impedance</h4>
@@ -245,7 +245,7 @@
   <p>&sect;29 Figure 8 shows a comparison of the measured electrochemical noise
   impedance, the set value of the double-layer capacitance, <i>C</i><sub><i>dl</i></sub>,
   and the expected value of <i>R<sub>ct</sub></i>.</p>
-  <p><a href="v3p4_fig8.gif"><img border="2" src="http://192.168.10.10/html/volume3/paper4/v3p4_fig8_small.gif" width="400" height="245"></a></p>
+  <p><a href="v3p4_fig8.gif"><img border="2" src="{{ $htmURL }}v3p4_fig8_small.gif" width="400" height="245"></a></p>
   <p>&sect;30 <b>Figure 8 Comparison of amplitude of impedance (average of 6 MEM spectra
   with order 50) derived from electrochemical noise analysis and from equivalent
   circuit analysis</b></p>
@@ -289,4 +289,3 @@
   Processing Facility&quot;, E.E. Barr, R. Goodfellow and L.M. Rosenthal, Paper
   414, Corrosion 2000, NACE International, 2000.</p>
   </SCRIPT>
-  

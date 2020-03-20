@@ -18,11 +18,14 @@ class CreateUserprofilesTable extends Migration {
 			$table->string('telephone', 30)->nullable();
 			$table->string('telex', 30)->nullable();
 			$table->string('fax', 30)->nullable();
-			$table->integer('category_id')->unsigned();
+			$table->integer('category_id')->unsigned()->default('1');
 			$table->boolean('willReview')->nullable()->default(True);
 			$table->integer('orgType_id')->unsigned()->nullable();
 			$table->boolean('admin')->default(False);
-			$table->integer('language_id')->unsigned();
+			$table->integer('user_id')->unsigned();
+			$table->integer('language_id')->unsigned()->default('1');
+			$table->boolean('editor')->default(False);
+			$table->string('alternateEmail', 255)->nullable();
 			$table->integer('source_id')->unsigned()->nullable();
 			$table->boolean('jrnlMail')->nullable()->default(NULL);
 		});

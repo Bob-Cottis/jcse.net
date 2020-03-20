@@ -1,4 +1,4 @@
-<?php 
+<?php
 session_start();
 include_once('jrnl_subs.php');
 $logged_in=is_loggedin();
@@ -26,7 +26,7 @@ $logged_in=is_loggedin();
 Paris Sud 91 405 ORSAY Cedex (France)
 </i><b>
   <p>Keywords: protective coating , HMDSO precursor , microwave plasma , electrochemical impedance spectroscopy.
-  
+
 </b>
   <h4>Introduction</h4>
 
@@ -164,7 +164,7 @@ The structure and bondings in the deposited films have been studied by means of 
   Si-(CH<sub>3</sub>)<sub>2</sub>), 835 cm<sup>-1</sup> (Si-C stretching and CH<sub>3</sub> rocking in Si-(CH<font SIZE="2"><sub>3</sub></font>)<font SIZE="2"><sub>3</sub></font>), 880 cm<font SIZE="2"><sup>-1</sup></font> (Si-(CH<font SIZE="2"><sub>3</sub></font>)<font SIZE="2"><sub>2</sub></font> rocking and bending), 1000-1100 cm<font SIZE="2"><sup>-1</sup> </font>(Si-O asymmetric stretching), 1260 cm<sup>-1
   </sup> (CH<sub>3</sub> symmetric bending in Si-(CH<sub>3</sub>)<sub>X</sub>), a weak band at 1350 cm<font SIZE="2"><sup>-1</sup></font> (-CH<font SIZE="2"><sub>2</sub></font>- scissoring and wagging vibrations in disilymethylene  Si-CH<font SIZE="2"><sub>2</sub></font>-Si), 1408 cm<font SIZE="2"><sup>-1</sup>  </font>( CH<font SIZE="2"><sub>3</sub>  </font>symmetric  bending  in<font SIZE="2"> </font>Si-(CH<font SIZE="2"><sub>3</sub></font>)<font SIZE="2">X</font>),  1458  cm<font SIZE="2"><sup>-1</sup> </font>((CH)<font SIZE="2"><sub>X</sub></font> asymmetric bending), 1710 cm<font SIZE="2"><sup>-1</sup> </font>(C=O groups), 2900-2960 cm<font SIZE="2"><sup>-1</sup> </font>(CH<font SIZE="2"><sub>X</sub></font> symmetric and asymmetric stretching), 2100-2250 cm<sup>-1</sup> (Si-H stretching vibration).
 With increasing O<sub>2</sub> in the HMDSO/O<sub>2</sub> mixture, the relative intensities of the absortion band at 1260 cm<font SIZE="2"><sup>-1</sup> </font>(characteristic of<font SIZE="2"> </font>Si-(CH<font SIZE="2"><sub>3</sub></font>)<font SIZE="2"><sub>X</sub></font>) is seen to decrease and the one of the band at 1000-1100 cm<font SIZE="2"><sup>-1</sup> </font>(Si-O) increase. We consider that this is because of a decrease in the relative amount of organic content and to the high degree of crosslinking in the coating. This view is supported by measurement of the film density. The highest density is obtained at high O<font SIZE="2">2</font> content in the feed. One may conclude that plasma-polymerised coatings obtained from HMDSO/O<font SIZE="2"><sub>2</sub></font> could be considered as polymer like or silica like as a function of O<sub>2</sub> content in the feed.
-<img SRC="../extabs/Image99.gif" WIDTH="428" HEIGHT="366">
+<img SRC="../extabs/image99.gif" WIDTH="428" HEIGHT="366">
 <font SIZE="2"><blockquote ALIGN="CENTER">
   <h4>Figure 1 :&nbsp;&nbsp;&nbsp; Infrared spectra of plasma polymerized coating deposited from various
   HMDSO/O<sub>2</sub> ratios :<br>
@@ -174,10 +174,10 @@ With increasing O<sub>2</sub> in the HMDSO/O<sub>2</sub> mixture, the relative i
 </font>The RAIR spectra of coatings, obtained from several HMDSO/O<sub>2</sub> mixture after exposure of the iron coated samples to NaCl for eight days, didn't show any change in the films. This fact demonstrates the chemical stability of these plasma-polymerised coatings.
 <i>Corrosion protection properties by EIS</i>
 The frequency dependence of the electrochemical impedance usually can be modeled by an equivalent circuit shown in Figure 2 [14 - 17]. The non-conducting organic coating appears as a capacitor C<font SIZE="2">c</font> called coating capacitance. Ionically conducting paths either due to the presence of defects or pores, or due to the slight degree of solvatation of water and ions by the coating, produce finite resistance R<font SIZE="2">por</font> (pore resistance), that short the coating. In series with this resistive element is a parallel resistance R<font SIZE="2">pol</font> (polarisation resistance) and the double layer capacitance C<font SIZE="2">dl</font>, representing the corrosion process at the electrolyte-saturated coating/metal interface. Finally, in serie with the entire network representing the coated surface is R<font SIZE="2">sol</font> : the electrolyte resistance due to ohmic drop within the electrolyte which is negligible in the case of coatings immersed in 0,1 mol.L<font SIZE="2">-1</font> NaCl.
-<img SRC="../extabs/Image100.gif" WIDTH="342" HEIGHT="241">
+<img SRC="../extabs/image100.gif" WIDTH="342" HEIGHT="241">
 <b><p> ALIGN="CENTER">Figure 2 :&nbsp;&nbsp;&nbsp;</b>The equivalent circuit used to model coated electrode</p>
 
-<img SRC="../extabs/Image101.gif" WIDTH="380" HEIGHT="296">
+<img SRC="../extabs/image101.gif" WIDTH="380" HEIGHT="296">
 <b><p ALIGN="CENTER">Figure 3 :&nbsp;&nbsp;&nbsp; </font></b>Water uptake trend of plasma-polymerized coatings as a function of exposure time to
 <font SIZE="2">NaCl 0,1 mol.L-1 for various HMDSO/O<sub>2</sub> ratios : (square)
 HMDSO/O<sub>2</sub> 100/0 ; (cross) HMDSO/O<sub>2</sub> 80/20 ; (bold circle)
@@ -188,24 +188,24 @@ The initial coating capacitance C<sub>c</sub> is the lowest for silica-like coat
   <p align="center">v = log(C<font SIZE="2">c</font>(t)/C<font SIZE="2">c</font>(0))/log80
 where C<font SIZE="2">c</font>(t) is the coating capacitance at time t and C<font SIZE="2">c</font>(0) is the initial coating capacitance. The results are reported in Figure 3. The plasma-polymerised coating obtained from pur HMDSO in the feed shows the higher saturation water uptake value than the other samples. This fact could be correlated to the excited species present in the plasma during deposition [10]. The low atomic oxygen concentration in the plasma provide to a coating less crosslinked. And hence this coating possesses the lower barrier properties.
 Figure 4(b) shows that the pore resistance R<font SIZE="2">por</font> decreased the most for coating A. At the end of exposure, R<font SIZE="2">por</font> was the lowest for sample A but the R<font SIZE="2">por</font> values of B, C and D coatings were similar.
-The increase of C<font SIZE="2">dl</font> (Figure 4(c)) can be considered as evidence that the area at which delamination was increasing. This increase occured first and was the largest for sample A. The initial C<font SIZE="2">dl </font>value of the silica-like coating (D) is the lowest but it doesn't vary very much with time exposure. 
+The increase of C<font SIZE="2">dl</font> (Figure 4(c)) can be considered as evidence that the area at which delamination was increasing. This increase occured first and was the largest for sample A. The initial C<font SIZE="2">dl </font>value of the silica-like coating (D) is the lowest but it doesn't vary very much with time exposure.
 The decrease of R<font SIZE="2">pol </font>(Figure 4(d)), which suggests an increase of the delaminated area at the metal/coating interface is the largest for sample A.
 This analysis of EIS data for this four coatings systems shows qualitatively that the polymer-like coating A suffer the higher degradation and corrosion at the metal/coating interface during exposure to NaCl for eight days while B, C and D samples seem to have similar protective properties and show good performance relatively to the low thicknesses of all the coatings.
-To improve the barrier properties of the plasma-polymerised coatings, we have increased the thickness to 0,5 <font FACE="Symbol">m</font>m to 4 <font FACE="Symbol">m</font>m (samples B, E, F and G). This serie of coating were synthezised from a HMDSO/O<font SIZE="2">2</font> 80/20 mixture. The EIS results for the 0,5 <font FACE="Symbol">m</font>m thick coating were bad probably due to pinholes. In the case of 3 <font FACE="Symbol">m</font>m and 4 <font FACE="Symbol">m</font>m thick coatings, the initial value of C<font SIZE="2">c</font>, R<font SIZE="2">por</font>, R<font SIZE="2">pol</font> and C<font SIZE="2">dl</font> were in the same magnitude order than the results of sample B (1<font FACE="Symbol">m</font>m). It is well known that the increasing of thickness of plasma-polymerised coating provide to the increasing of the strains and could favorise microcracks formation. This fact could explain the best properties obtained only for 1 <font FACE="Symbol">m</font>m thick coating when the exposure time increase. 
-<blockquote ALIGN="CENTER"><img SRC="../extabs/Image102.gif" WIDTH="645" HEIGHT="473">
+To improve the barrier properties of the plasma-polymerised coatings, we have increased the thickness to 0,5 <font FACE="Symbol">m</font>m to 4 <font FACE="Symbol">m</font>m (samples B, E, F and G). This serie of coating were synthezised from a HMDSO/O<font SIZE="2">2</font> 80/20 mixture. The EIS results for the 0,5 <font FACE="Symbol">m</font>m thick coating were bad probably due to pinholes. In the case of 3 <font FACE="Symbol">m</font>m and 4 <font FACE="Symbol">m</font>m thick coatings, the initial value of C<font SIZE="2">c</font>, R<font SIZE="2">por</font>, R<font SIZE="2">pol</font> and C<font SIZE="2">dl</font> were in the same magnitude order than the results of sample B (1<font FACE="Symbol">m</font>m). It is well known that the increasing of thickness of plasma-polymerised coating provide to the increasing of the strains and could favorise microcracks formation. This fact could explain the best properties obtained only for 1 <font FACE="Symbol">m</font>m thick coating when the exposure time increase.
+<blockquote ALIGN="CENTER"><img SRC="../extabs/image102.gif" WIDTH="645" HEIGHT="473">
   <h4><b><font SIZE="2">Figure 4 :&nbsp;&nbsp;&nbsp; </font></b><font SIZE="2">Time dependence of Cc (a), Rpor (b), Cdl (c) and Rpol (d) for plasma-polymerised coating on iron
   substrates for various HMDSO/O<sub>2</sub> ratios :</font> (<font SIZE="2">circle</font>) <font SIZE="2">HMDSO/O<sub>2</sub> 100/0</font> ; (<font SIZE="2">square</font>) <font SIZE="2">HMDSO/O<sub>2</sub> 80/20</font> ;
   (<font SIZE="2">cross</font>) <font SIZE="2">HMDSO/O<sub>2</sub> 50/50</font> ; (<font SIZE="2">bold circle</font>) <font SIZE="2">HMDSO/O2 20/80.</h4>
-  
+
 </font><b>
   <h4>Conclusions</h4>
 
 </b>In this work, plasma-polymerized coatings deposited on iron were synthesized in microwave plasma reactor. We have studied the influence of the HMDSO/O<font SIZE="2"><sub>2</sub></font> ratio mixture on the film structure (RAIR spectroscopy) and on the protective properties (electrochemical impedance spectroscopy).
 The structure of the plasma-polymerised coatings has been found close to the thermal silica for low HMDSO content in the feed (HMDSO/O<font SIZE="2"><sub>2</sub></font> : 20/80) and polymeric for higher HMDSO/O<font SIZE="2"><sub>2</sub></font> ratios mixture.
 From the results obtained by EIS measurements for different plasma-polymerised coatings, deposited on iron, exposed in NaCl during eight days, the following conclusions were drawn :
-- An efficient corrosion protection of iron has been obtained by these coatings synthesized in the microwave plasma reactor. Nevertheless, the quality of the protection depends on the HMDSO content in the feed gas. 
+- An efficient corrosion protection of iron has been obtained by these coatings synthesized in the microwave plasma reactor. Nevertheless, the quality of the protection depends on the HMDSO content in the feed gas.
 - The plasma-polymerised coating from pur HMDSO had the lowest barrier and protective properties.
-- The best protection is achieved for the plasma-polymerized coating at 80% HMDSO in the mixture with a thickness of 1 <font FACE="Symbol">m</font>m. However the results obtained for coating at 50% and 20% HMDSO lead nearly to similar protective properties. 
+- The best protection is achieved for the plasma-polymerized coating at 80% HMDSO in the mixture with a thickness of 1 <font FACE="Symbol">m</font>m. However the results obtained for coating at 50% and 20% HMDSO lead nearly to similar protective properties.
 <b>
   <h4>References</h4>
 

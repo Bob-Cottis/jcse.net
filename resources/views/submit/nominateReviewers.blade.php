@@ -19,28 +19,7 @@
                     @csrf
                     <input type="hidden" name="paper_id" value="{{ $id }}">
                     <input type="hidden" name="confirmCode" value="{{ $confirmCode }}">
-                    {!! __('submit.selectTopics') !!}
-                    {{--select with multiple checkboxes--}}
-                    @php( $old_group = '' )
-                    @foreach($topics as $topic)
-                        @if ($topic['topicGroup']!= $old_group)
-                            <h5 class="jrnl-text">{{ $topic['topicGroup'] }}</h5>
-                            @php($old_group = $topic['topicGroup'])
-                        @endif
-                        <div class="form-check-inline col-md-3">
-                            <label class="form-check-label">
-                                <input type="checkbox" class="form-check-input" name="topics[]" value="{{ $topic['id'] }}">{{ $topic['topic'] }}
-                            </label>
-                        </div>
-                    @endforeach
                     <div class="card-body">
-                   {{-- --}}{{--display multiple select for topics--}}{{--
-                    <select class="selectpicker show-tick" data-icon-base="fas" data-tick-icon="fa-check" multiple>
-                        @foreach ($topics as $topic)
-                            <option class="topic" value="{{ $topic->id }}">{{ $topic->name }}</option>
-                        @endforeach
-                    </select>
---}}
                 </div>
                 <div class="card-body">
                     {!! __('submit.NomRevHeader',['shortName'=>$shortName]) !!}
@@ -175,9 +154,9 @@
         function hideEntryForm(){
             // hide data entry section and clear fields
             // hide new rev form
-            $('#new-email-box').addClass('d-none').removeClass('d-all');
+            //$('#new-email-box').addClass('d-none').removeClass('d-all');
             $('#list-add-btn').addClass('d-none').removeClass('d-all');
-            $('#check-and-add-btn').addClass('d-none').removeClass('d-all');
+            //$('#check-and-add-btn').addClass('d-none').removeClass('d-all');
             $('#new-address').addClass('d-none').removeClass('d-all');
             // and clear data fields
             $('#new-email').val('');

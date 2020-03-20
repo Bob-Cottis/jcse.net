@@ -27,18 +27,23 @@ return [
         'incur a small cost), but checking and refinement of translations will be desirable. Currently we plan to provide '.
         'translation only for journal messages and abstracts of papers.</dd></dl></p>',
     'mission'=>'<h2>The JCSE Mission</h2>'.
-        '<p>JCSE was established in about 1995 in response to dissatisfaction with the very large profits being made by commercial '.
-        'scientific publishers, necessarily at the expense of the scientific community, whether in the form of charges for '.
+        '<p>JCSE was established in about 1995 in response to dissatisfaction with the high cost of the conventional publication '.
+        'process to the scientific community, whether in the form of charges to buy or read '.
         'journals or page charges to authors, coupled with the possibilities for cost reduction offered by electronic '.
         'publication over the Internet.</p>'.
         '<p>Thus the mission of JCSE is to provide an electronic-only journal that is free of charge for both authors and '.
         'readers. This depends on a number of conditions:'.
         '<ul><li>Papers supplied by readers in a form suitable for publication without further processing.</li>'.
-        '<li>Review by peers free of charge (this is in any case how most commercial publishers operate).</li>'.
+        '<li>Review by peers free of charge (this is in any case how most existing publishers operate).</li>'.
         '<li>Management at no charge; with the previous version of the management software this has proved difficult, and '.
-        'it has meant that aspects of the operation, notable the review process, have not been optimal.</li>'.
+        'it has meant that aspects of the operation, notable the review process, have not been optimal. The new '.
+        'version will provide more robust software for editors, such that many editors can be active, reducind the burden on '.
+        'individuals.</li>'.
         '<li>Open-source software development and use. An objective of the new development is to facilitate the use of '.
-        'the software for other journal titles.</li>',
+        'the software for other journal titles.</li>'.
+        '<li>Costs covered by advertising. There are some unavoidable costs of the order of a few hundred pounds per year in running the '.
+        'journal, notably charges for the file server and maintenance of the domain name. It is hoped that these can '.
+        'be covered by the income from advertising, although sponsorship would also be welcome.</li>'.
         '</ul> </p>',
     'indexing'=>'<h2>Indexing Services that include JCSE</h2>'.
         '<p>JCSE is currently included in the Elsevier Bibliographic Databases (see <a href="http://www.elsevier.com">www.elsevier.com</a>). '.

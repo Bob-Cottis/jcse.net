@@ -679,7 +679,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   Microscopy: Mastic 0, Mastic 10A and Mastic 10G. Cross sections were cut with
   an emery disc, embedded in epoxy, ground and coated with carbon by vapour
   deposition. Images were taken with element contrast at 200x magnification.</p>
-  <p><img src="../paper13/Image303.gif" width="554" height="681"></p>
+  <p><img src="{{ $htmURL }}Image303.gif" width="554" height="681"></p>
   <SCRIPT>comment(18)</SCRIPT><p><b><a name="_Ref457212361">Figure 1</a>. Test setup for cathodic disbonding.
   A: Long term test: Blast cleaned substrate, natural seawater, 8-13�C, -1050
   mV (SCE). B: Short term test: Ground substrate, substitute seawater, 25�C,
@@ -696,7 +696,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   two years Epoxy 10 had some disbonding, and about 3 mm of the coating around
   the holiday could be removed. Epoxy 5 disbonded about 20 mm and Epoxy 0
   disbonded about 65 mm in the same period of time.</p>
-  <p><a href="../paper13/Knudsen%20part%201%20fig2.gif"><img src="../paper13/Image304.gif" width="488" height="299"></a></p>
+  <p><a href="../paper13/Knudsen%20part%201%20fig2.gif"><img src="{{ $htmURL }}Image304.gif" width="488" height="299"></a></p>
   <SCRIPT>comment(20)</SCRIPT><p><b><a name="_Ref457212386">Figure 2</a>. Cathodic disbonding of epoxy
   coating with various concentrations of aluminium pigments. Coatings applied on
   blast cleaned steel (Sa 21/2). Experimental conditions: Natural seawater,
@@ -717,7 +717,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   in Figure 2B was coated with Epoxy 0 and exposed for one year. The radius of
   the disbonded circle is about 120 mm. For this coating only 4% of the
   disbonded area was covered with remainings of the binder.</p>
-  <p><a name="_Ref408998562" href="../paper13/Knudsen%20part%201%20fig3.jpg"><img src="../paper13/Image305.jpg" width="450" height="251"></a></p>
+  <p><a name="_Ref408998562" href="../paper13/Knudsen%20part%201%20fig3.jpg"><img src="{{ $htmURL }}Image305.jpg" width="450" height="251"></a></p>
   <SCRIPT>comment(23)</SCRIPT><p><b><a name="_Ref457212468"></a>Figure 3. Pictures of the disbonded area
   after removing the disbonded coating taken with an electronic image analyser.
   The white spots are remainings of the binder. A: Epoxy 5 exposed for 18
@@ -752,7 +752,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   only, the disbonded distance was always larger along the abrasion lines. Jin<i>
   et al. </i>found the same [16]. This observation favours the mechanism
   suggested by Watts and Castle.</p>
-  <p><a href="../paper13/Knudsen%20part%201%20fig%204.gif"><img src="../paper13/Image306.gif" width="488" height="299"></a></p>
+  <p><a href="../paper13/Knudsen%20part%201%20fig%204.gif"><img src="{{ $htmURL }}Image306.gif" width="488" height="299"></a></p>
   <SCRIPT>comment(26)</SCRIPT><p><b><a name="_Ref457212493">Figure 4</a>. Cathodic disbonding of epoxy
   coating with various concentrations of aluminium pigments. Coatings applied on
   ground steel substrate. Experimental conditions: Artificial seawater, 25�C,
@@ -783,7 +783,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   the disbonded coating from a mechanical damage in the film. For the epoxy
   mastic coatings the aluminium pigments had a positive effect on both types of
   failure.</p>
-  <p><a href="../paper13/Knudsen%20part%201%20fig5.gif"><img src="../paper13/Image307.gif" width="488" height="299"></a></p>
+  <p><a href="../paper13/Knudsen%20part%201%20fig5.gif"><img src="{{ $htmURL }}Image307.gif" width="488" height="299"></a></p>
   <SCRIPT>comment(29)</SCRIPT><p><b><a name="_Ref457212556">Figure 5</a>. Cathodic disbonding of epoxy
   mastic coating with various concentrations of aluminium and glass pigments.
   Coatings applied on blast cleaned steel (Sa 21/2). Natural seawater, 8-13�C,
@@ -841,15 +841,15 @@ getcommentmode();</SCRIPT></HEAD><body>
   the glass pigments since they are so large that one pigment flake may
   penetrate the whole film. Coatings with such pigments must therefore always be
   applied thicker than the diameter of the largest pigments.</p>
-  <p><a href="../paper13/Knudsen%20part%201%20fig6.jpg"><img src="../paper13/Image308.jpg" width="335" height="260"></a></p>
+  <p><a href="../paper13/Knudsen%20part%201%20fig6.jpg"><img src="{{ $htmURL }}Image308.jpg" width="335" height="260"></a></p>
   <SCRIPT>comment(35)</SCRIPT><p><a name="_Ref457212638">Figure 6</a>. SEM micrograph of cross section of
   an epoxy mastic coating without barrier pigments. Element contrast.<b>
   <script>ifscreen('(Click for a larger image)')</script></b></p>
-  <p><a href="../paper13/Knudsen%20part%201%20fig7.jpg"><img src="../paper13/Image309.jpg" width="337" height="258"></a></p>
+  <p><a href="../paper13/Knudsen%20part%201%20fig7.jpg"><img src="{{ $htmURL }}Image309.jpg" width="337" height="258"></a></p>
   <SCRIPT>comment(36)</SCRIPT><p><b><a name="_Ref457212676">Figure 7</a>. SEM micrograph of cross section of
   an epoxy mastic coating with 10 wt% aluminium pigments. Element contrast.
   <script>ifscreen('(Click for a larger image)')</script></b></p>
-  <p><a href="../paper13/Knudsen%20part%201%20fig8.jpg"><img src="../paper13/Image310.jpg" width="326" height="248"></a></p>
+  <p><a href="../paper13/Knudsen%20part%201%20fig8.jpg"><img src="{{ $htmURL }}Image310.jpg" width="326" height="248"></a></p>
   <SCRIPT>comment(37)</SCRIPT><p><b><a name="_Ref457275052">Figure 8</a>. SEM micrograph of cross section of
   an epoxy mastic coating with 10 wt% glass flakes. Element contrast. <script>ifscreen('(Click for a larger image)')</script></b></p>
   <SCRIPT>comment(38)</SCRIPT><p>Pigments in general, and flake shaped pigments in particular, may also

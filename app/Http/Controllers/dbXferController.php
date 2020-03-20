@@ -98,7 +98,7 @@ class dbXferController extends Controller
                     //Fax	UMIST_Student	Send_RIP	Comment	Deletion_Year	Categories_ID	Titles_ID	Organization_Types_ID	Countries_ID	Languages_ID
                     //Sources_ID	JCSEPassword	JCSEReg	JCSEConfirm	JCSEMail	JCSEAdminUser	CPCMail	AlumniMail	JCSEEditor	rev_reg	ValidationCode	upsize_ts
                     //ecg_comon	ValidEmail	remember_token
-                    // NEW user -> id 	created_at 	updated_at 	email 	password 	remember_token 	userProfile_id
+                    // NEW user -> id 	created_at 	updated_at 	email 	password 	remember_token 	userprofile_id
                     // New USer_profile -> id 	created_at 	updated_at 	initials 	surname 	salutation 	organization 	address1 	address2
                     //address3 	postCode 	telephone 	telex 		fax 	category_id 	title_id 	orgType_id 	country_id 	language_id 	source_id 	jrnlMail
                     // if ($r->Titles_ID === null) {$r->Titles_ID = 1;}
@@ -135,8 +135,8 @@ class dbXferController extends Controller
                 array_push($newRst, ['id' => $r->id + 1, 'name' => $r->vol_name, 'description' => $r->vol_desc, 'year' => $r->vol_year, 'number' => $r->vol_num,]);
             }
 
-        \DB::table('specialVolumes')->delete();
-        \DB::table('specialVolumes')->insert($newRst);
+        \DB::table('specialvolumes')->delete();
+        \DB::table('specialvolumes')->insert($newRst);
 
         \DB::table('papers')->delete();
         \DB::connection('mysql_old')->table('papers')->orderBy('PaperID')->chunk(100, function ($papers) {
@@ -178,7 +178,7 @@ class dbXferController extends Controller
         \DB::table('paperauthors')->insert($newRst);
 
 
-        \DB::table('referees')->delete();
+        \DB::table('reviews')->delete();
 
         \DB::connection('mysql_old')->table('refereelink')->orderBy('ID')->chunk(100, function ($refereelink) {
             $newRst = [];

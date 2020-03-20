@@ -77,16 +77,16 @@ bursts of corrosion during wet episodes.</p>
 </pre>
     <hr>
 <p>
-<img src="http://192.168.10.10/html/volume1/paper1/p1-fig1.gif" align="bottom" width="243" height="186"> 
+<img src="{{ $htmURL }}p1-fig1.gif" align="bottom" width="243" height="186">
 <br>&sect;8 Figure 1 and <br>
 </SCRIPT>
-<img src="http://192.168.10.10/html/volume1/paper1/p1-fig2.gif" align="bottom" width="236" height="194">
+<img src="{{ $htmURL }}p1-fig2.gif" align="bottom" width="236" height="194">
 <br>&sect;9 Figure 2
   show, respectively, low magnification images of a corroded (i.e. rusty) and an
   apparently uncorroded (i.e. bright) sample after the 4 month exposure period.</p>
   <p>
 <SCRIPT>comment(10)</SCRIPT>
-<img src="http://192.168.10.10/html/volume1/paper1/p1-fig3.gif" align="bottom" width="236" height="194"> 
+<img src="{{ $htmURL }}p1-fig3.gif" align="bottom" width="236" height="194">
 <br>&sect;11 Figure 3 shows the other bright sample at higher magnification. The bright samples all
   show scratches from the initial grinding (it should be remembered that the
   samples were not polished). On close inspection it can be seen that the

@@ -227,6 +227,12 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
 
+        // jrnl helpers
+        'Keywords' => App\Helpers\Keywords::class,
+        'Papers' => App\Helpers\Papers::class,
+        'Users' => App\Helpers\Users::class,
+        'MailTo' => App\Helpers\Users::class
+
     ],
 
 ];

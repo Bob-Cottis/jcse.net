@@ -4,10 +4,10 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Referee extends Model 
+class Review extends Model
 {
 
-    protected $table = 'referees';
+    protected $table = 'reviews';
     public $timestamps = true;
 
     public function user()

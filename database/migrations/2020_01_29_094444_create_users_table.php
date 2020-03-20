@@ -13,7 +13,7 @@ class CreateUsersTable extends Migration {
 			$table->string('email', 255)->nullable()->index();
 			$table->string('password')->nullable();
 			$table->string('remember_token', 100)->nullable()->default('NULL');
-			$table->integer('userProfile_id')->unsigned()->nullable();
+			$table->integer('userprofile_id')->unsigned()->nullable();
 			$table->string('plainTextPassword', 100)->nullable();
 			$table->integer('title_id')->unsigned();
 			$table->string('givenName', 255)->nullable();
@@ -21,6 +21,7 @@ class CreateUsersTable extends Migration {
 			$table->string('organization', 255)->nullable();
 			$table->integer('country_id')->unsigned();
 			$table->string('source', 10)->nullable()->default('NULL');
+			$table->timestamp('email_verified_at')->nullable();
 		});
 	}
 

@@ -1,4 +1,4 @@
-<?php 
+<?php
 session_start();
 include_once('/home/jcsete5/public_html/jcse.org/jcse/php_inc/jrnl_subs.php');
 $logged_in=is_loggedin();
@@ -32,12 +32,12 @@ Scanning Reference Electrode (SRET) and Electrochemical Noise Techniques (ENM)</
   D J Mills*, S Mabbutt* and R Akid<sup>+
 </sup><i>
   <p>*School of Technology and Design, University College Northampton, Northampton NN2 6JD     E-Mail : <SCRIPT>mailto2('Douglas.Mills','Northampton.ac.uk')</SCRIPT>
-  
+
 <sup>
 <p>+</sup>Centre for Corrosion Technology,   Sheffield Hallam, University, Sheffield,  SD1 1WB    E-mail :  <SCRIPT>mailto2('R.Akid','shu.ac.uk');</SCRIPT>
 </i><b>
   <p>Keywords:   Electrochemical techniques, anti-corrosive coatings, scribe protection
-  
+
 </b>
 
 <h4>Introduction</h4>
@@ -100,7 +100,7 @@ Scanning Reference Electrode (SRET) and Electrochemical Noise Techniques (ENM)</
   <p>&nbsp;
 
 
-  <img SRC="../extabs/Image116.gif" WIDTH="496" HEIGHT="303">
+  <img SRC="../extabs/image116.gif" WIDTH="496" HEIGHT="303">
   <p><b>Figure 1</b></p>
 
 
@@ -108,33 +108,33 @@ Scanning Reference Electrode (SRET) and Electrochemical Noise Techniques (ENM)</
 
 
 
-  <img SRC="../extabs/Image117.gif" WIDTH="491" HEIGHT="291">
+  <img SRC="../extabs/image117.gif" WIDTH="491" HEIGHT="291">
   <p><b>Figure 2</b></p>
 
 
 
-<img SRC="../extabs/Image118.gif" WIDTH="474" HEIGHT="269">
+<img SRC="../extabs/image118.gif" WIDTH="474" HEIGHT="269">
 
 <p>&nbsp;
 
 <b>Figure 3</b>
 &nbsp;</p>
 <p>
-<img SRC="../extabs/Image119.gif" WIDTH="600" HEIGHT="480">
+<img SRC="../extabs/image119.gif" WIDTH="600" HEIGHT="480">
 </p>
   <p><b>Figure 4 (Editor's note: in this and following figures, the scribe corresponds to the central vertical
   'shadow')</b></p>
-  <p><img SRC="../extabs/Image120.gif" WIDTH="600" HEIGHT="480"></p>
+  <p><img SRC="../extabs/image120.gif" WIDTH="600" HEIGHT="480"></p>
   <p><b>Figure 5</b></p>
-  <p><img SRC="../extabs/Image121.gif" WIDTH="600" HEIGHT="480"></p>
+  <p><img SRC="../extabs/image121.gif" WIDTH="600" HEIGHT="480"></p>
   <p><b>Figure 6</b></p>
 
 
-  <p><img SRC="../extabs/Image122.gif" WIDTH="600" HEIGHT="480"></p>
+  <p><img SRC="../extabs/image122.gif" WIDTH="600" HEIGHT="480"></p>
   <p><b>Figure 7</b></p>
-  <p><img SRC="../extabs/Image123.gif" WIDTH="600" HEIGHT="480"></p>
+  <p><img SRC="../extabs/image123.gif" WIDTH="600" HEIGHT="480"></p>
   <p><b>Figure 8</b></p>
-  <p><img SRC="../extabs/Image124.gif" WIDTH="600" HEIGHT="480"></p>
+  <p><img SRC="../extabs/image124.gif" WIDTH="600" HEIGHT="480"></p>
   <p><b>Figure 9</b></p>
 <hr>
 <p>Send Mail to the <script>mailtoeditor()</script></p>

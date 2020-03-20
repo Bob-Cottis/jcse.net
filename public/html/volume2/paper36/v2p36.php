@@ -1,4 +1,4 @@
-<?php 
+<?php
 session_start();
 include_once('/home/jcsete5/public_html/jcse.org/jcse/php_inc/jrnl_subs.php');
 $logged_in=is_loggedin();
@@ -307,20 +307,20 @@ getcommentmode();</SCRIPT></HEAD><body>
     </ol>
   </ol>
   <h3>Figures</h3>
-  <p><img src="../paper36/Image276.gif" width="582" height="469"></p>
+  <p><img src="{{ $htmURL }}image276.gif" width="582" height="469"></p>
   <SCRIPT>comment(24)</SCRIPT><p><b>Figure 1 Filiform corrosion of epoxy coated aluminium alloy 3003 H14,
   after 8 weeks exposure to 84% RH (Left - 20&mu;m
   coating, Right - 40&mu;m coating).</b></p>
-  <p><img src="../paper36/Image278.gif" width="192" height="285"><img src="../paper36/Image277.gif" width="195" height="287"></p>
+  <p><img src="{{ $htmURL }}image278.gif" width="192" height="285"><img src="{{ $htmURL }}image277.gif" width="195" height="287"></p>
   <SCRIPT>comment(25)</SCRIPT><p><b>Figure 2 Filiform corrosion of epoxy coated aluminium alloy 3003 H14,
   after exposure to 10:1 water:glycerol (Left - 7 days, Right - 14 days).</b></p>
-  <p><img src="../paper36/Image280.gif" width="187" height="264"><img src="../paper36/Image279.gif" width="186" height="263"></p>
+  <p><img src="{{ $htmURL }}image280.gif" width="187" height="264"><img src="{{ $htmURL }}image279.gif" width="186" height="263"></p>
   <SCRIPT>comment(26)</SCRIPT><p><b>Figure 3 Filiform corrosion of epoxy coated aluminium alloy 3003 H14,
   after exposure to 1% sodium chloride solution (Left-14 days, Right-35 days).</b></p>
-  <p><img src="../paper36/Image281.gif" width="563" height="336"></p>
+  <p><img src="{{ $htmURL }}image281.gif" width="563" height="336"></p>
   <SCRIPT>comment(27)</SCRIPT><p><b>Figure 4 Filiform corrosion of cross-cut epoxy coated aluminium alloy
   3003 H14, after exposure to 1% sodium chloride solution for 35 days.</b></p>
-  <p><img src="../paper36/Image282.gif" width="537" height="369"></p>
+  <p><img src="{{ $htmURL }}image282.gif" width="537" height="369"></p>
   <SCRIPT>comment(28)</SCRIPT><p><b>Figure 5 Filiform corrosion of dual circle cut epoxy coated aluminium
   alloy 3003 H14, after exposure to 1% hydrogen chloride solution for 21 days.
   The sample was partly immersed. The section shown is just above the immersion

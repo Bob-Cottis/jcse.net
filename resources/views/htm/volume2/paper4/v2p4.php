@@ -136,10 +136,10 @@ because E<sup>0</sup> of Ru<sup>2+/3+</sup> on Nd-Fe-B magnets, occurs before
 <table cellspacing="0" border="0" cellpadding="7" width="590">
   <tr>
     <td width="50%" valign="TOP">
-      <p><a href="../paper4/image283.jpg"><img src="../paper4/Image283.jpg" width="291" height="197"></a></p>
+      <p><a href="../paper4/image283.jpg"><img src="{{ $htmURL }}Image283.jpg" width="291" height="197"></a></p>
       </td>
     <td width="50%" valign="TOP">
-      <p><a href="../paper4/image284.jpg"><img src="../paper4/Image284.jpg" width="291" height="198"></a></p>
+      <p><a href="../paper4/image284.jpg"><img src="{{ $htmURL }}Image284.jpg" width="291" height="198"></a></p>
       </td>
   </tr>
   <tr>
@@ -172,7 +172,7 @@ resistance decreased, as indicated in fig.2, probably due to cracks or other
 kinds of degradation.</p>
 <SCRIPT>comment(14)</SCRIPT><p>Based on these results the electrodepositions on Nd-Fe-B were carried out by
 CV up to 30 cycles in the potential range between 0.2 and &#150;2.8V vs. SCE.</p>
-<p><img border="0" src="../paper4/Fig2.gif" WIDTH="772" HEIGHT="517"></p>
+<p><img border="0" src="{{ $htmURL }}Fig2.gif" WIDTH="772" HEIGHT="517"></p>
 <SCRIPT>comment(15)</SCRIPT><p><b>Figure 2: Nyquist diagrams obtained during the polymerisation of
 trans-[RuCl<sub>2</sub>(vpy)<sub>4</sub>] on Nd-Fe-B magnets by CV from 0.2 to
 &#150;2.8V vs. SCE. Applied potential: -2.8V.</b>&nbsp; <b>Frequency range: 100 kHz
@@ -213,7 +213,7 @@ behaviour can be rationalised in terms of the electronic resistance of the film
 (electrons transport between the redox centres Ru<sup>2+/3+</sup>) which are
 associated in series with R<sub>S</sub>, producing that ohmic drop.</p>
 
-<p><img border="0" src="../paper4/Fig3.gif" WIDTH="721" HEIGHT="456"></p>
+<p><img border="0" src="{{ $htmURL }}Fig3.gif" WIDTH="721" HEIGHT="456"></p>
 <SCRIPT>comment(20)</SCRIPT><p><b>Figure 3: Nyquist diagrams of poly-{<i>trans</i>-[RuCl<sub>2</sub>(vpy)<sub>4</sub>]}coated
 (<font face="Marlett">g</font> ) and uncoated Nd-Fe-B magnets (<font face="Monotype Sorts">9</font>
 ) in Na<sub>2</sub>SO<sub>4</sub> 0.5mol.dm<sup>-3</sup> solution at open
@@ -223,7 +223,7 @@ immersed in the sulphate medium. The poly-{<i>trans</i>-[RuCl<sub>2</sub>(vpy)<s
 film did not improve considerably the corrosion resistance of the Nd-Fe-B
 magnets. This was likely due to the low thickness of the polymeric film
 associated to its high permeability to ions from the solution.</p>
-<p><img src="../paper4/Image286.gif" WIDTH="463" HEIGHT="321"></p>
+<p><img src="{{ $htmURL }}Image286.gif" WIDTH="463" HEIGHT="321"></p>
 <SCRIPT>comment(22)</SCRIPT><p><b>Figure 4: Gravimetric tests in Na<sub>2</sub>SO<sub>4</sub> 0.5 mol.dm<sup>-3</sup>
 solution.</b><i></p>
 </i>

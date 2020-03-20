@@ -3,6 +3,7 @@
 namespace App\Http\Controllers\Auth;
 
 use App\Models\User;
+use App\Models\Userprofile;
 use App\Http\Controllers\Controller;
 use Illuminate\Support\Facades\Hash;
 use Illuminate\Support\Facades\Validator;
@@ -72,19 +73,29 @@ class RegisterController extends Controller
      * Create a new user instance after a valid registration.
      *
      * @param  array  $data
-     * @return \App\User
+     * @return \App\Models\User
      */
     protected function create(array $data)
     {
-        return User::create([
-            'title_id' => $data['title_id'],
-            'givenName' => $data['givenName'],
-            'familyName' => $data['familyName'],
-            'email' => $data['email'],
-            'password' => Hash::make($data['password']),
-            'organization' => $data['organization'],
-            'country_id' => $data['country_d']
-        ]);
+        $user = new User;
+        $user->title_id = $data['title_id'];
+        $user->givenName = $data['givenName'];
+        $user->familyName = $data['familyName'];
+        $user->email = $data['email'];
+        $user->password = Hash::make($data['password']);
+        $user->organization = $data['organization'];
+        $user->country_id = $data['country_id'];
+        $user->source = 'User';
+        $user->save();
+        $id = $user->id;
+        $userprofile = new Userprofile;
+        $userprofile->user_id = $id;
+        $userprofile->salutation = $user->title->title.' '.$user->familyName;
+        $userprofile->save();
+        $user->userprofile_id = $userprofile->id;
+        $user->save();
+
+        return $user;
     }
 
     public static function title_select($option) {
@@ -99,7 +110,7 @@ class RegisterController extends Controller
                 $s .= '<option value="'.$title->id.'">'.$title->title.'</option>';
             }
         }
-        return $s;;
+        return $s;
     }
 
     public static function country_select($option) {

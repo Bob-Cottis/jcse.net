@@ -37,13 +37,15 @@ class CreatePapersTable extends Migration {
 			$table->boolean('refs_assigned')->default(False);
 			$table->timestamp('revisionReceived')->nullable();
 			$table->boolean('paperHTML')->default(False);
-			$table->boolean('preprintHTML')->default(True);
+			$table->boolean('preprintHTML')->default(False);
 			$table->smallInteger('revisionNumber')->unsigned()->default('1');
 			$table->integer('correspondingAuthor_id')->unsigned()->nullable();
-			$table->enum('state', array('submit_1', 'submit_2', 'paRevise', 'submitted', 'preprintOK', 'revNominated', 'adRevCheck', 'revApproved', 'revOK', 'editorReview', 'published', 'reviseDisplay', 'reviseHidden', 'deleted', 'withdrawn'));
+			$table->char('state', 20)->nullable()->default('submit_1');
 			$table->text('log')->nullable();
 			$table->timestamp('state_updated_at')->nullable();
 			$table->string('confirmCode', 30)->nullable()->default('NULL');
+			$table->timestamp('editorContacted')->nullable();
+			$table->smallInteger('version')->unsigned()->default('3');
 		});
 	}
 

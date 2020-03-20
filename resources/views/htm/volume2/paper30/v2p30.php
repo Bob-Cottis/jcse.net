@@ -119,7 +119,7 @@ getcommentmode();</SCRIPT></HEAD><body>
     �black� blisters.&nbsp; LEIM was used on examples of such blisters in
     order to evaluate the electrochemical differences between them.&nbsp; Maps
     of a red and black blister are shown in Figure 1.&nbsp;
-    <p><img src="../paper30/v2p30f1.gif" width="576" height="215">
+    <p><img src="{{ $htmURL }}v2p30f1.gif" width="576" height="215">
     <SCRIPT>comment(9)</SCRIPT><p><b>Figure 1</b>:&nbsp; LEIM plots showing the differences in
     electrochemical activity between black (left) and red (right)
     blisters.&nbsp; Note the higher electrochemical activity of the red
@@ -136,7 +136,7 @@ getcommentmode();</SCRIPT></HEAD><body>
     indeed incurred significant metal loss, whereas the black blister had caused
     little damage.&nbsp; An example of the pitting caused by a red blister is
     shown in an electron micrograph in Figure 2.&nbsp;</p>
-    <p><img src="../paper30/v2p30f2.jpg" width="248" height="205"></p>
+    <p><img src="{{ $htmURL }}v2p30f2.jpg" width="248" height="205"></p>
     <SCRIPT>comment(11)</SCRIPT><p><b>Figure 2</b>:&nbsp; Electron micrograph of a pitted region of the
     substrate beneath the initiation site of a red blister.&nbsp; This substrate
     had previously been coated with a 10mm thick polyester polyurethane
@@ -149,7 +149,7 @@ getcommentmode();</SCRIPT></HEAD><body>
     mapping in early, still microscopic stages.&nbsp; The results are shown in
     Figure 3. The defect which would later become a red blister was even then
     significantly more electrochemically active than the eventual black blister.</p>
-    <p><img src="../paper30/v2p30f3.gif" width="299" height="240"></p>
+    <p><img src="{{ $htmURL }}v2p30f3.gif" width="299" height="240"></p>
     <SCRIPT>comment(13)</SCRIPT><p><b>Figure 3</b>:&nbsp; LEIS shows that even in early stages, the red
     blister is more electrochemically active than the black blister.&nbsp; The
     smaller circle diameter on this Nyquist plot represents a lower pore
@@ -187,7 +187,7 @@ getcommentmode();</SCRIPT></HEAD><body>
     detail.&nbsp; Defects were monitored over time using LEIM to detect changes
     in electrochemical activity.&nbsp; A representative time series of maps for
     a single defect is shown in Figure 4.
-    <p><img src="../paper30/v2p30f4.gif" width="576" height="462">
+    <p><img src="{{ $htmURL }}v2p30f4.gif" width="576" height="462">
     <SCRIPT>comment(16)</SCRIPT><p><b>Figure 4</b>:&nbsp; LEIM of the evolution of a red blister.&nbsp; Note
     the fluctuation in electrochemical activity representative of metastability.&nbsp;
     At 52 hours, the open circuit potential dropped dramatically, suggesting a
@@ -222,7 +222,7 @@ getcommentmode();</SCRIPT></HEAD><body>
     solution on the activity of red blisters.&nbsp; In Figure 5, LEIM shows the
     change in electrochemical activity before and after chromate solution is
     added.</p>
-    <p><img src="../paper30/v2p30f5.gif" width="575" height="350"></p>
+    <p><img src="{{ $htmURL }}v2p30f5.gif" width="575" height="350"></p>
     <SCRIPT>comment(20)</SCRIPT><p><b>Figure 5</b>:&nbsp; LEIM of a red blister before and after a chromate
     solution was added to the bulk electrolyte.&nbsp; 1.2 M Na<sub>2</sub>CrO<sub>4</sub>
     was added to 0.6 M NaCl.&nbsp; After chromate is added, the admittance
@@ -250,7 +250,7 @@ getcommentmode();</SCRIPT></HEAD><body>
     from the initiation site.&nbsp; LEIM showed that the initiation site is
     electrochemically active, while the secondary lobes are relatively
     inactive.&nbsp; An example of this is shown in Figure 6.</p>
-    <p><img src="../paper30/v2p30f6.gif" width="575" height="318"></p>
+    <p><img src="{{ $htmURL }}v2p30f6.gif" width="575" height="318"></p>
     <SCRIPT>comment(23)</SCRIPT><p><b>Figure 6</b>:&nbsp; An optical micrograph of a red blister with
     initiation site (lighter region to right) and secondary lobe (darker region
     to left).&nbsp; LEIM shows the higher activity in the initiation
@@ -277,7 +277,7 @@ getcommentmode();</SCRIPT></HEAD><body>
     initiation.&nbsp; During this early stage of development, it was found that
     the impedance had actually increased relative to the surrounding
     region.&nbsp; LEIM of an example of this is shown in Figure 7.&nbsp;</p>
-    <p><img src="../paper30/v2p30f7.gif" width="466" height="247"></p>
+    <p><img src="{{ $htmURL }}v2p30f7.gif" width="466" height="247"></p>
     <SCRIPT>comment(26)</SCRIPT><p><b>Figure 7:</b>&nbsp; An example of the initial decrease in admittance,
     or increase in impedance, in earliest stages of defects.&nbsp; This
     AA2024-T3 panel was coated with vinyl VYHH to 10 mm thickness and exposed to
@@ -301,7 +301,7 @@ getcommentmode();</SCRIPT></HEAD><body>
     plots of defects did not display any of these features.&nbsp; Two additional
     explanations for the increased impedance are water nucleation under the
     coating and build-up of corrosion product at the initiation site [15].</p>
-    <h1><a href="../paper30/v2p30f8.gif"><img border="0" src="../paper30/v2p30f8.gif" width="473" height="474"></a></h1>
+    <h1><a href="../paper30/v2p30f8.gif"><img border="0" src="{{ $htmURL }}v2p30f8.gif" width="473" height="474"></a></h1>
     <SCRIPT>comment(28)</SCRIPT><p><b>Figure 8</b>:&nbsp; The normal field is calculated theoretically for
     an equipotential disk at various heights (z) from the surface relative to
     the radius of the disk (a).&nbsp; Note that a dip does occur when the probe

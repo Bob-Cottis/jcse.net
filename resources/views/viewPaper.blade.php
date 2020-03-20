@@ -12,10 +12,10 @@
 
     <SCRIPT>comment(1)</SCRIPT>
 --}}
-
+    @php $htmURL = asset(''); @endphp
     @auth
         @if ($html)
-            {!! __('vpmessages.VP_HTML_MSG') !!}
+            {!! __('vpMessages.VP_HTML_MSG') !!}
             <a class="btn btn-primary" href="{!! $URL !!}">View Web {{ucfirst($typ)}}</a>
             @if ($count>0)
                 <a class="btn btn-primary" href="{!! route('viewComments',['pap_id'=>$paper['id']]) !!}">View [{{$count}}] comments </a>

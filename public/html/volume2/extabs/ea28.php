@@ -1,4 +1,4 @@
-<?php 
+<?php
 session_start();
 include_once('jrnl_subs.php');
 $logged_in=is_loggedin();
@@ -38,20 +38,20 @@ Submitted 26<sup>th</sup> August 1999<hr ALIGN="LEFT">
 7) hardness investigations.</p>
 
 <h4>Effect of Ultraviolet Radiation on Chemical Ageing of the Epoxide Coating</h4>
-<p>The changes occuring with time in the chemical structure of the epoxide coating superficial layer were studied in infrared spectroscopy investigations. It was found an increase of absorption of infrared radiation in the range 1800-1392&nbsp;cm<sup>-1</sup> what indicates ageing processes of the epoxide. The band 1800-1552&nbsp;cm<sup>-1</sup> included in this range represents oxidation products [1÷3]. It contains the band that represents carbonyl group vibration. In case of the epoxide coatings aged with thermal shocks, weathering and with 5% water solutions of sodium chloride or potassium hydroxide it was stated an increase in carbonyl group intensity in the band 1807-1700 cm<sup>-1</sup> &#150; with the maximum at 1740 cm<sup>-1</sup>. Coatings aged with ultraviolet radiation were characterised  by the highest carbonyl group intensity (in the whole measured range) and the band representing these groups was 1807-1640&nbsp;cm<sup>-1</sup> &#150; with the maximum at 1717 cm<sup>-1</sup> [1]. The band of carbonyl groups was not found in the range of 1807-1640&nbsp;cm<sup>-1</sup> in case of unaged coatings and coatings aged with 5% water solution of sulphuric acid [1]. </p>
-<p>It results from the total absorbance  characteristics obtained with the use of infrared spectroscopic investigations that the ageing changes in the chemical structure of the superficial layers of the epoxide coating are non-homogenous. The most intensive ageing is due to ultraviolet radiation. The profilometric and microscopic investigations proves, however, a non-homogenous physical wear (cracking, pigment and filler spalling) of the epoxide coating surface under the influence of ambient factors. The results of microscopic investigations allow to state that number and size of the cracks depend on the ageing kind. For instance, cracks generated under the influence of 5% water solution of sulphuric acid were in the shape of rings with the diameter of 40<font FACE="Symbol">¸</font>
-90&nbsp;µm (for 1008 h ageing) tending to become larger with ageing time. However, cracks generated under the influence of other media were in the shape of bands 150<font FACE="Symbol">¸</font>
-190 µm long and 2.5<font FACE="Symbol">¸</font>
-10 µm wide. In the case of ultraviolet radiation action, number and size of the cracks increased with ageing time. Moreover, these cracks were characterised by silver shines in the reflected light of an optical microscope what was observed in case of weathering. Shape and shine of these cracks were similar to the &quot;silver cracks&quot; described by I.&nbsp;Narisava [4] but they were ten times wider. Substantial chemical and physical ageing of investigated epoxide coatings was caused by the action of 5% water solution of sulphuric acid what, in particular, can be seen analysing the courses of thermogravimetric characteristics. One of the greatest decreases of the decomposition start temperature as well as one of the most intensive thermal decomposition were found in the whole ageing range (the measurements were done after 240, 360, 744 and 1008 hours).</p>
+<p>The changes occuring with time in the chemical structure of the epoxide coating superficial layer were studied in infrared spectroscopy investigations. It was found an increase of absorption of infrared radiation in the range 1800-1392&nbsp;cm<sup>-1</sup> what indicates ageing processes of the epoxide. The band 1800-1552&nbsp;cm<sup>-1</sup> included in this range represents oxidation products [1ï¿½3]. It contains the band that represents carbonyl group vibration. In case of the epoxide coatings aged with thermal shocks, weathering and with 5% water solutions of sodium chloride or potassium hydroxide it was stated an increase in carbonyl group intensity in the band 1807-1700 cm<sup>-1</sup> &#150; with the maximum at 1740 cm<sup>-1</sup>. Coatings aged with ultraviolet radiation were characterised  by the highest carbonyl group intensity (in the whole measured range) and the band representing these groups was 1807-1640&nbsp;cm<sup>-1</sup> &#150; with the maximum at 1717 cm<sup>-1</sup> [1]. The band of carbonyl groups was not found in the range of 1807-1640&nbsp;cm<sup>-1</sup> in case of unaged coatings and coatings aged with 5% water solution of sulphuric acid [1]. </p>
+<p>It results from the total absorbance  characteristics obtained with the use of infrared spectroscopic investigations that the ageing changes in the chemical structure of the superficial layers of the epoxide coating are non-homogenous. The most intensive ageing is due to ultraviolet radiation. The profilometric and microscopic investigations proves, however, a non-homogenous physical wear (cracking, pigment and filler spalling) of the epoxide coating surface under the influence of ambient factors. The results of microscopic investigations allow to state that number and size of the cracks depend on the ageing kind. For instance, cracks generated under the influence of 5% water solution of sulphuric acid were in the shape of rings with the diameter of 40<font FACE="Symbol">ï¿½</font>
+90&nbsp;ï¿½m (for 1008 h ageing) tending to become larger with ageing time. However, cracks generated under the influence of other media were in the shape of bands 150<font FACE="Symbol">ï¿½</font>
+190 ï¿½m long and 2.5<font FACE="Symbol">ï¿½</font>
+10 ï¿½m wide. In the case of ultraviolet radiation action, number and size of the cracks increased with ageing time. Moreover, these cracks were characterised by silver shines in the reflected light of an optical microscope what was observed in case of weathering. Shape and shine of these cracks were similar to the &quot;silver cracks&quot; described by I.&nbsp;Narisava [4] but they were ten times wider. Substantial chemical and physical ageing of investigated epoxide coatings was caused by the action of 5% water solution of sulphuric acid what, in particular, can be seen analysing the courses of thermogravimetric characteristics. One of the greatest decreases of the decomposition start temperature as well as one of the most intensive thermal decomposition were found in the whole ageing range (the measurements were done after 240, 360, 744 and 1008 hours).</p>
 <p>Essential ageing changes, in case of action of 5% sulphuric acid water solution, were confirmed in the investigations by the means of dynamic mechanical thermal analyse (DMTA). A substantial increase (by 30%) of the glass transition temperature was found for 1008 hour ageing. A decrease of the glass transition temperature &#150; on the average by 10-15% - was found for the other ageing kinds.</p>
-<p>Action of 5% sulphuric acid water solution caused an increase of waviness depth from 1.9&nbsp;µm (for the unaged coating) to 63&nbsp;µm (for the coating aged for 1008 hours) [1]. The greatest changes of the coating roughness, estimated with
+<p>Action of 5% sulphuric acid water solution caused an increase of waviness depth from 1.9&nbsp;ï¿½m (for the unaged coating) to 63&nbsp;ï¿½m (for the coating aged for 1008 hours) [1]. The greatest changes of the coating roughness, estimated with
 arithmetic mean roughness (R<sub>a</sub>) and mean paek-to-valley height (R<sub>z</sub>) were caused by the action of ultraviolet radiation).This was connected with pigment and filler spalling from the coating structure as a result of the loss of coherence with the epoxide. This kind of ageing contributes to the greatest decrease of the coating hardness (Fig. 1). </p>
 <p>&nbsp;</p>
-<p ALIGN="CENTER"><img SRC="../extabs/Image103.gif" width="664" height="606"></p>
+<p ALIGN="CENTER"><img SRC="../extabs/image103.gif" width="664" height="606"></p>
 <p>&nbsp;</p>
 <p ALIGN="left"><b>Fig.&nbsp;1.&nbsp;Influence of ageing on the coating hardness (according to the Polish Standard PN-79/C-81530)&nbsp;
 Ageing of the coating contributes to the decrease of its tensile strength (Fig. 2) [1].</b></p>
-<p><img SRC="../extabs/Image104.gif" width="447" height="287" align="left"></p>
+<p><img SRC="../extabs/image104.gif" width="447" height="287" align="left"></p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
@@ -80,7 +80,7 @@ Ageing of the coating contributes to the decrease of its tensile strength (Fig. 
 
 <p>The highest tensile strength was obtained after ageing with ultraviolet radiation for 650 hours. This should be explained by additional after-bake curing of the coating. After 800 hours of ageing, the coating showed high embrittlement what made carrying on the investigation impossibile because the coating ruptured when being fixed in the tensile testing machine. The lowest tensile strength &#150; in almost the whole range of investigation &#150; was obtained in case of weathering. It was also observed in this case the highest unit elongation at maximal tensile stress and at rupture [1].</p>
 <p>Ruptureability of epoxide coatings, estimated by means of dynamic mechanical thermal analyse (DMTA),  has changed with ageing time. The unaged coating and the coatings aged for 240 and 360 hours ruptured in the temperature range from 120 to 150<sup>o</sup>C &#150; except for the coating aged with 5% sulphuric acid water solution (Fig.&nbsp;3) [1]. On the contrary, the coatings aged for 744 and 1008 hours did not rupture in the temperature range from 0 to 200<sup>o</sup>C (Fig.&nbsp;4) [1].</p>
-<p>1)<img SRC="../extabs/Image105.gif" align="left" WIDTH="460" HEIGHT="327"></p>
+<p>1)<img SRC="../extabs/image105.gif" align="left" WIDTH="460" HEIGHT="327"></p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
@@ -91,7 +91,7 @@ Ageing of the coating contributes to the decrease of its tensile strength (Fig. 
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="left">2)</p>
-<p ALIGN="CENTER"><img SRC="../extabs/Image106.gif" align="left" WIDTH="460" HEIGHT="327"></p>
+<p ALIGN="CENTER"><img SRC="../extabs/image106.gif" align="left" WIDTH="460" HEIGHT="327"></p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
@@ -101,7 +101,7 @@ Ageing of the coating contributes to the decrease of its tensile strength (Fig. 
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="left"><b>Fig.&nbsp;3.&nbsp;Influence of ageing for 360 hours on the epoxide coating elongation</b></p>
-<p>1)<img SRC="../extabs/Image107.gif" align="left" WIDTH="467" HEIGHT="327"></p>
+<p>1)<img SRC="../extabs/image107.gif" align="left" WIDTH="467" HEIGHT="327"></p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
@@ -111,7 +111,7 @@ Ageing of the coating contributes to the decrease of its tensile strength (Fig. 
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
-<p ALIGN="left">2)<img SRC="../extabs/Image108.gif" align="left" WIDTH="467" HEIGHT="327"></p>
+<p ALIGN="left">2)<img SRC="../extabs/image108.gif" align="left" WIDTH="467" HEIGHT="327"></p>
 <p>&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
@@ -122,11 +122,11 @@ Ageing of the coating contributes to the decrease of its tensile strength (Fig. 
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="CENTER">&nbsp;</p>
 <p ALIGN="left"><b>Fig.&nbsp;4.&nbsp;Influence of ageing for 1008 hours on the epoxide coating elongation</b></p>
-<p>In case of the coatings aged with the most destructive factors, such as ultraviolet radiation or 5% sulphuric acid water solution, it was stated in DMTA measurements that elongation increased with ageing time and with temperature. In case of other ageing kinds, the coating elongation decreased in the temperature range of 0÷160<sup>o</sup>C. The coating aged with 5% water solution of sulphuric acid showed an increase in dynamic storage modulus E&#146; &#150; in the high-elastic state of the epoxide (Fig.&nbsp;5) and an increase of the glass transition temperature what gives the evidence of increased crosslinking of such aged coatings [5,6].</p>
+<p>In case of the coatings aged with the most destructive factors, such as ultraviolet radiation or 5% sulphuric acid water solution, it was stated in DMTA measurements that elongation increased with ageing time and with temperature. In case of other ageing kinds, the coating elongation decreased in the temperature range of 0ï¿½160<sup>o</sup>C. The coating aged with 5% water solution of sulphuric acid showed an increase in dynamic storage modulus E&#146; &#150; in the high-elastic state of the epoxide (Fig.&nbsp;5) and an increase of the glass transition temperature what gives the evidence of increased crosslinking of such aged coatings [5,6].</p>
 <p>1)<br>
-<img SRC="../extabs/Image109.gif" WIDTH="464" HEIGHT="327"></p>
+<img SRC="../extabs/image109.gif" WIDTH="464" HEIGHT="327"></p>
 <p>2)<br>
-    <img SRC="../extabs/Image110.gif" WIDTH="464" HEIGHT="327"></p>
+    <img SRC="../extabs/image110.gif" WIDTH="464" HEIGHT="327"></p>
 <p ALIGN="left"><b>Fig.&nbsp; 5. Influence of dynamic tension on the value of dynamic storage modulus E&#146; for the coating aged for 1008 hours</b></p>
 <h4 ALIGN="left"><b>Conclusions</h4>
 </b>
@@ -150,7 +150,7 @@ Ageing of the coating contributes to the decrease of its tensile strength (Fig. 
 <li>L.A.&nbsp;Kazicyna, N.B.&nbsp;Kupletska: Methods of spectroscopic determination of the organic compound structure, Warszawa , PWN 1976.</li>
 <li>I. Narisava, Resistance of polymeric materials, Moscow, Chemistry 1987.</li>
 <li>Z.  Brojer, Z. Hertz, P. Penczek, Epoxide resins, Warszawa, WNT 1982.</li>
-  <li>W. Schlesing:  Dynamische  thermomechanische  Analyse  an freien Lackfilmen. Farbe und Lack  1993   N. 11   S.&nbsp;918<font FACE="Symbol">¸</font>
+  <li>W. Schlesing:  Dynamische  thermomechanische  Analyse  an freien Lackfilmen. Farbe und Lack  1993   N. 11   S.&nbsp;918<font FACE="Symbol">ï¿½</font>
 923.</li>
 </ol>
 <hr>

@@ -11,8 +11,11 @@ use App\Models\Comment;
 class ViewpaperController extends Controller
 {
     //
-    public function viewPaper($vol, $pap, $typ=null, $rev=null )
+    public function viewPaper($vol, $pap, Request $request )
     {
+        $typ = $request->typ;
+        $rev = $request->rev;
+        $confirmCode = $request->confirmCode;
         // if $vol == "ID" then get paper/preprint with id = $pap
         // else get Paper $pap in Volume $vol
         if ($vol == "ID") {
@@ -29,7 +32,7 @@ class ViewpaperController extends Controller
                 //return view('varDump',['s'=>$paper]);
                 if ($paper == null) {
                     // no such paper go process the error
-                    dd($paper);
+                    // dd($paper);
                     return view('error', ['msg' => __('vpMessages.VP_NO_ID',['type' => 'Paper or Preprint','mailAdmin'=>config('mailToAdmin')])]);
                 }
                 // $paper should have highest revision number
@@ -53,38 +56,38 @@ class ViewpaperController extends Controller
             // show paper if available
             if ($paper['paperPublished']) {
                 $typ = 'paper';
-            } elseif ($paper['preprintPublished']) {
-                    $typ = 'preprint';
+            } elseif ($paper['preprintPublished'] || $confirmCode == $paper->confirmCode) {
+                $typ = 'preprint';
             } else {
                 return view('error', ['msg' => __('vpMessages.VP_FILE_NOT_FOUND')]);
             }
         }
         //return view('showString',['s'=>'$typ = '.$typ]);
-        $txtdir = base_path().sprintf('/txt/');
-        $jrnlName = config('jrnl.shortName');
+        $txtdir = base_path().sprintf('/txt/%03d',$vol);
+        $shortName = config('jrnl.shortName');
         if ($typ == 'paper') {
             if ($paper['paperHTML']) {
-                $htmlname = resource_path() . sprintf('/views/htm/%03d/%s_Volume_%03d_Paper_%03d_Rev_%02d.blade.php',$vol, config('jrnl.shortName'), $vol, $pap, $rev);
-                $txtname = $txtdir . sprintf('%03d/JCSE_Volume_%03d_Paper_%03d_Rev_%02d.txt', $vol, $vol, $pap, $rev);
-                $URL = route('showHTML', ['typ' => $typ, 'vol' => $vol, 'pap' => $pap, 'rev'=>$rev, 'pap_id' => $paper['id'], 'count' => $commentCount]);
+                $htmlname = resource_path() . sprintf('/views/htm/%03d/%s_Volume_%03d_Paper_%03d_Rev_%02d.blade.php',$vol, $shortName, $vol, $pap, $rev);
+                $txtname = $txtdir . sprintf('%03d/%s_Volume_%03d_Paper_%03d_Rev_%02d.txt', $vol, $shortName, $vol, $pap, $rev);
+                $URL = route('showHTML', ['typ' => $typ, 'vol' => $vol, 'pap' => $pap, 'rev'=>$rev, 'commentCount' => $commentCount]);
             } else {
                 // must be pdf
                 $pdfname = base_path() . sprintf('/pdf/%03d/%s_Volume_%03d_Paper_%03d_Rev_%02d.pdf',
-                        $vol, $jrnlName, $vol, $pap, $rev);
-                $txtname = $txtdir . sprintf('%03d/%s_Volume_%03d_Paper_%03d_Rev_%02d.txt', $vol, $jrnlName, $vol, $pap, $rev);
+                        $vol, $shortName, $vol, $pap, $rev);
+                $txtname = $txtdir . sprintf('%03d/%s_Volume_%03d_Paper_%03d_Rev_%02d.txt', $vol, $shortName, $vol, $pap, $rev);
                 $URL = route('showPDF', ['typ' => $typ, 'vol' => $vol, 'pap' => $pap, 'rev' => $rev]);
             }
         }
         else {
             // must be preprint
             if ($paper['preprintHTML']) {
-                $htmlname = resource_path() . sprintf('/views/htm/%03d/%s_Volume_%03d_Preprint_%03d_Rev_%02d.blade.php', $vol, $jrnlName, $vol, $pap,$rev);
-                $txtname = $txtdir . sprintf('%03d/%s_Volume_%03d_Preprint_%03d_Rev_%02d.txt', $vol, $jrnlName, $vol, $pap, $rev);
-                $URL = route('showHTML', ['typ' => $typ, 'vol' => $vol, 'pap' => $pap, 'pap_id' => $paper['id'], 'count' => $commentCount]);
+                $htmlname = resource_path() . sprintf('/views/htm/%03d/%s_Volume_%03d_Preprint_%03d_Rev_%02d.blade.php', $vol, $shortName, $vol, $pap,$rev);
+                $txtname = $txtdir . sprintf('/%s_Volume_%03d_Preprint_%03d_Rev_%02d.txt', $shortName, $vol, $pap, $rev);
+                $URL = route('showHTML', ['typ' => $typ, 'vol' => $vol, 'pap' => $pap, 'commentCount' => $commentCount]);
             } else {
                 $pdfname = base_path() . sprintf('/pdf/%03d/%s_Volume_%03d_Preprint_%03d_Rev_%02d.pdf',
-                        $vol, $jrnlName, $vol, $pap, $rev);
-                $txtname = $txtdir . sprintf('%03d/%s_Volume_%03d_Preprint_%03d_Rev_%02d.txt', $vol, $jrnlName, $vol, $pap, $rev);
+                        $vol, $shortName, $vol, $pap, $rev);
+                $txtname = $txtdir . sprintf('/%s_Volume_%03d_Preprint_%03d_Rev_%02d.txt', $shortName, $vol, $pap, $rev);
                 $URL = route('showPDF', ['typ' => $typ, 'vol' => $vol, 'pap' => $pap, 'rev' => $rev]);
             }
         }
@@ -99,6 +102,7 @@ class ViewpaperController extends Controller
                 //return view('showString', ['s' => 'txtname=' . $txtname]);
                 $pdffile = new \App\Libraries\Pdftotext\PdfToText ($pdf);
                 $txtdoc = $pdffile->Text;
+                //dd($txtdoc);
             }
             else {
                 // html must exist
@@ -123,7 +127,7 @@ class ViewpaperController extends Controller
             return view('viewPaper', ['html' => 0, 'paper' => $paper, 'URL' => $URL, 'txtname' => $txtname, 'typ' => $typ, 'count'=>$commentCount]);
         }
         // nothing published
-        return view('error', ['msg' => 'vpmessages.VP_PAPER_MISSING', 'param' => ['type' => 'Paper or Preprint']]);
+        return view('error', ['msg' => 'vpMessages.VP_PAPER_MISSING', 'param' => ['type' => 'Paper or Preprint']]);
     }
 
     // show paper or preprint for PDF versions
@@ -142,6 +146,7 @@ class ViewpaperController extends Controller
         // show HTML file
         // files stored at /resource/views/htm
         // file location is /resource/views/htm/vvv/JCSE_Volume_vvv_Paper_nnn_Rev_rr.blade.php
+        $htmURL = sprintf('/html/volume%d/paper%d/',$vol,$pap);
         $fname = sprintf('htm.%03d.JCSE_Volume_%03d_%s_%03d_Rev_%02d',$vol,$vol,ucfirst($typ),$pap,$rev);
         // return $fname;
         // need to construct comment list to append to HTML
@@ -155,7 +160,7 @@ class ViewpaperController extends Controller
             'comments.created_at as creationDate','comments.updated_at as updateDate')->
             get();
         // return view('varDump',['s'=>$comments]);
-        return view('showHTML',['fname'=>$fname]);
+        return view('showHTML',['fname'=>$fname,'htmURL'=>$htmURL]);
     }
 
 /*    protected function convertHTML($htmlname, $htmltyp, $vol, $pap)

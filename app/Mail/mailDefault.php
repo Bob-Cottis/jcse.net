@@ -11,7 +11,8 @@ class mailDefault extends Mailable
 {
     use Queueable, SerializesModels;
 
-    protected $data;
+    // public $subject;
+    public $data;
     /**
      * Create a new message instance.
      *
@@ -31,6 +32,7 @@ class mailDefault extends Mailable
     public function build()
     {
         $this->subject = $this->data['subject'];
-        return $this->view('mail.Default');
+
+        return $this->view('mail.mailDefault',$this->data);
     }
 }

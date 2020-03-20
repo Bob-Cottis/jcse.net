@@ -1,4 +1,4 @@
-<?php 
+<?php
 session_start();
 require_once('/home/jcsete5/public_html/jcse.org/jcse/php_inc/jrnl_subs.php');
 $logged_in=is_loggedin();
@@ -313,10 +313,10 @@ getcommentmode();</SCRIPT></HEAD><body>
   length of the filament to a cathode region just behind the growing anodic
   head. This process becomes more difficult as the length increases and as the
   corrosion product dries out.&nbsp;
-  <p align="center"><b><a href="../paper1/Image210.jpg"><img src="../paper1/Image210.jpg" width="50%" height="50%"></a></b></p>
+  <p align="center"><b><a href="../paper1/image210.jpg"><img src="{{ $htmURL }}image210.jpg" width="50%" height="50%"></a></b></p>
 <SCRIPT>comment(10)</SCRIPT>  <p align="center"><b>Fig 1. Filiform corrosion on non-chromated
   panels&nbsp;<script>ifscreen('(Click for a larger image)')</script></b></p>
-  <p align="center">&nbsp; <img src="../paper1/Image196.gif" width="565" height="355"></p>
+  <p align="center">&nbsp; <img src="{{ $htmURL }}image196.gif" width="565" height="355"></p>
 <SCRIPT>comment(11)</SCRIPT>  <p align="center">&nbsp; <b>Fig 2. Comparison of filament growth rates on
   chromated panels&nbsp;</b></p>
 <SCRIPT>comment(12)</SCRIPT>  <p>It was found that the most useful measure of the extent of filiform
@@ -335,10 +335,10 @@ getcommentmode();</SCRIPT></HEAD><body>
   length occurred when the surface was chromated. It is interesting to note the
   extent of this improvement when it is considered that the conversion coating
   is discontinuous [8] as shown in the TEM micrograph in Fig 4.</p>
-  <p align="center">&nbsp; <img src="../paper1/Image197.gif" width="456" height="241"> &nbsp;</p>
+  <p align="center">&nbsp; <img src="{{ $htmURL }}image197.gif" width="456" height="241"> &nbsp;</p>
 <SCRIPT>comment(14)</SCRIPT>  <p align="center"><b>Fig 3. Effect of cleaning and chromate pretreatment on
   filament lengths on 3003A</b></p>
-  <p align="center"><img src="../paper1/Image198.gif" width="367" height="175"> &nbsp;</p>
+  <p align="center"><img src="{{ $htmURL }}image198.gif" width="367" height="175"> &nbsp;</p>
 <SCRIPT>comment(15)</SCRIPT>  <p align="center"><b>Fig 4. Chromate conversion coating on alloy 3003B&nbsp;</b></p>
   <p><u>Cleaning treatments </u>The effectiveness of the different cleaning
   treatments for each of the alloys can be seen in more detail in Fig 5.
@@ -346,7 +346,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   contrast, the additional step of cleaning for 20s in 1M NaOH solution removed
   a thickness of approximately 200 nm and this resulted in reduced relative
   filament lengths.</p>
-  <p align="center">&nbsp; <img src="../paper1/Image199.gif" width="485" height="272"></p>
+  <p align="center">&nbsp; <img src="{{ $htmURL }}image199.gif" width="485" height="272"></p>
 <SCRIPT>comment(16)</SCRIPT>  <p align="center"><b>Fig 5. Comparison of the effects of different cleaning
   methods&nbsp;</b></p>
 <SCRIPT>comment(17)</SCRIPT>  <p><u>Chromating time </u>In each case, longer chromating times slightly
@@ -361,7 +361,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   are sites at which corrosion initiation will occur. It is believed that the
   effectiveness of chromating is due, in part, to the improved paint adhesion.
   &nbsp;</p>
-  <p align="center"><img src="../paper1/Image200.gif" width="456" height="267"> &nbsp;</p>
+  <p align="center"><img src="{{ $htmURL }}image200.gif" width="456" height="267"> &nbsp;</p>
 <SCRIPT>comment(18)</SCRIPT>  <p align="center"><b>Fig 6. Comparison of the effects of different chromating
   and Cr VI rinse times</b></p>
 <SCRIPT>comment(19)</SCRIPT>  <p>Chromating is usually followed by a chromium VI rinse and this gave a
@@ -378,7 +378,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   developed on contaminated and non-contaminated regions of chromated alloys are
   compared in Fig 7. Similar increases in filament lengths occurred on panels
   that had been mechanically abraded but not pretreated.</p>
-  <p align="center">&nbsp; <img src="../paper1/Image201.gif" width="552" height="210">
+  <p align="center">&nbsp; <img src="{{ $htmURL }}image201.gif" width="552" height="210">
   &nbsp;</p>
 <SCRIPT>comment(21)</SCRIPT>  <p align="center"><b>Fig 7. Influence of NaCl contamination on the filament
   lengths on chromated panels</b></p>
@@ -402,10 +402,10 @@ getcommentmode();</SCRIPT></HEAD><body>
   polishing had a beneficial effect in reducing the filament length and these
   results appear to support the view that filiform corrosion is enhanced by
   surface topography.</p>
-  <p align="center"><img src="../paper1/Image202.gif" width="394" height="223"> &nbsp;</p>
+  <p align="center"><img src="{{ $htmURL }}image202.gif" width="394" height="223"> &nbsp;</p>
 <SCRIPT>comment(24)</SCRIPT>  <p align="center"><b>Fig 8. Effect of mechanical polishing using different
   sizes of abrasive particles</b></p>
-<SCRIPT>comment(25)</SCRIPT>  <p>Although the corrosion filaments (typically 70 &mu;m 
+<SCRIPT>comment(25)</SCRIPT>  <p>Although the corrosion filaments (typically 70 &mu;m
   diameter) are larger than the surface irregularities [6,9], it is likely
   that the occluded cell at the head of the filament can propagate more easily
   along the irregularities and finer polishing would have the effect of reducing
@@ -492,7 +492,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   materials</b>
 <SCRIPT>comment(28)</SCRIPT>  <p><u>Effect of substrate recrystallisation </u>The above conclusion was
   confirmed by conducting tests in which panels were recrystallised by heat
-  treatment at 535&deg;C prior to abrading down to 4000 grit paper (5 &mu;m 
+  treatment at 535&deg;C prior to abrading down to 4000 grit paper (5 &mu;m
   particle size), followed by painting. The results in Fig 9 show that the
   same relative filament length occurred in as-received and recrystallised
   material, again indicating that filiform corrosion was not controlled by the
@@ -501,7 +501,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   from all the tests occurred on panels that were electropolished. The results
   for non-chromated 3003B are shown in Fig 9. There was only a small difference
   between the results of tests on as-received and recrystallised material.</p>
-  <p align="center"><img src="../paper1/Image203.gif" width="566" height="211"> &nbsp;</p>
+  <p align="center"><img src="{{ $htmURL }}image203.gif" width="566" height="211"> &nbsp;</p>
 <SCRIPT>comment(30)</SCRIPT>  <p align="center"><b>Fig 9. Effect of recrystallisation and electropolishing
   on non-chromated 3003B</b></p>
 <SCRIPT>comment(31)</SCRIPT>  <p>It appears that the excellent performance of the electropolished surface
@@ -510,7 +510,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   irregularities but it also involves the removal of more of the surface. The
   electropolished panels, which were the least susceptible to filiform
   corrosion, had more material removed during preparation. In a similar way,
-  sequential mechanical polishing (45 &mu;m - 22 &mu;m - 5 &mu;m), 
+  sequential mechanical polishing (45 &mu;m - 22 &mu;m - 5 &mu;m),
   that was shown in Fig 8 to reduce the
   relative filament lengths, also required removing successively more material.
   However, the mechanical and electropolishing treatments removed approximately

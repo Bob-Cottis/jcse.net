@@ -146,7 +146,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   coating.&nbsp; A drop of pH 13.5 buffer solution was placed on the surface of
   the coating.&nbsp; Within a minute, the droplet had turned pink as seen in
   figure 2.</p>
-  <p align="left"><img src="../paper26/images/photo001.jpg" width="487" height="354"><br clear="ALL">
+  <p align="left"><img src="{{ $htmURL }}images/photo001.jpg" width="487" height="354"><br clear="ALL">
   <SCRIPT>comment(17)</SCRIPT><b>Figure 2 Effect of a phenolphthalein loaded coating upon a droplet of pH
   13.5 buffer solution</b></p>
   <SCRIPT>comment(18)</SCRIPT><p>The average DFT of the final coatings was 22mm.&nbsp; A 2mm hole was
@@ -162,7 +162,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   <SCRIPT>comment(19)</SCRIPT><p>Figure 3 shows the progression of the alkalinity of a typical panel.&nbsp;
   Note that after 10 days the alkaline front has progressed under the cylinder
   and along the panel for a short way.</p>
-  <p align="left"><img src="../paper26/images/2-5_grouped.jpg" width="538" height="369"><br clear="ALL">
+  <p align="left"><img src="{{ $htmURL }}images/2-5_grouped.jpg" width="538" height="369"><br clear="ALL">
   <SCRIPT>comment(20)</SCRIPT><b>Figure 3: Stages in blistering process as indicated by phenolphthalein</b></p>
   <SCRIPT>comment(21)</SCRIPT><p>In all cases, the movement of the pink areas followed the lines of the
   rolling marks on the surface of the panel.&nbsp; Although this method provided
@@ -182,9 +182,9 @@ getcommentmode();</SCRIPT></HEAD><body>
   (3.3 Mb) size.&nbsp;</p>
   <table border="0">
     <tr>
-      <td><a href="../paper26/images/rim00001.jpg"><img border="2" src="../paper26/rim00001_small.jpg" alt="rim00001.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td><a href="../paper26/images/rim00001.jpg"><img border="2" src="{{ $htmURL }}rim00001_small.jpg" alt="rim00001.jpg (172032 bytes)" width="200" height="150"></a></td>
       <td>
-        <p align="center"><a href="../paper26/images/rim00041.jpg"><img border="2" src="../paper26/rim00041_small.jpg" alt="rim00041.jpg (172032 bytes)" width="200" height="150"></a></p>
+        <p align="center"><a href="../paper26/images/rim00041.jpg"><img border="2" src="{{ $htmURL }}rim00041_small.jpg" alt="rim00041.jpg (172032 bytes)" width="200" height="150"></a></p>
       </td>
       <td></td>
     </tr>
@@ -194,9 +194,9 @@ getcommentmode();</SCRIPT></HEAD><body>
       <td align="center"></td>
     </tr>
     <tr>
-      <td><a href="../paper26/images/rim00090.jpg"><img border="2" src="../paper26/rim00090_small.jpg" alt="rim00090.jpg (172032 bytes)" width="200" height="150"></a></td>
-      <td><a href="../paper26/images/rim00135.jpg"><img border="2" src="../paper26/rim00135_small.jpg" alt="rim00135.jpg (172032 bytes)" width="200" height="150"></a></td>
-      <td><a href="../paper26/images/rim00180.jpg"><img border="2" src="../paper26/rim00180_small.jpg" alt="rim00180.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td><a href="../paper26/images/rim00090.jpg"><img border="2" src="{{ $htmURL }}rim00090_small.jpg" alt="rim00090.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td><a href="../paper26/images/rim00135.jpg"><img border="2" src="{{ $htmURL }}rim00135_small.jpg" alt="rim00135.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td><a href="../paper26/images/rim00180.jpg"><img border="2" src="{{ $htmURL }}rim00180_small.jpg" alt="rim00180.jpg (172032 bytes)" width="200" height="150"></a></td>
     </tr>
     <tr>
       <td align="center">t=30 hr</td>
@@ -209,7 +209,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   a larger view)</b></p>
   <SCRIPT>comment(25)</SCRIPT><p>Once the exposure had finished, the coating was scraped off the substrate
   to reveal the state of the metal beneath, shown in figure 5.</p>
-  <p align="center"><img src="../paper26/images/Before_after.jpg" width="600" height="238"></p>
+  <p align="center"><img src="{{ $htmURL }}images/Before_after.jpg" width="600" height="238"></p>
   <SCRIPT>comment(26)</SCRIPT><p align="left"><b>Figure 5: 10mm coated panel at the end of the exposure
   trial before and after the removal of the coating</b></p>
   <SCRIPT>comment(27)</SCRIPT><p>The steel underneath the coating, although corroded, had no corrosion
@@ -225,10 +225,10 @@ getcommentmode();</SCRIPT></HEAD><body>
   present at the interface.</p>
   <table border="0" width="100%">
     <tr>
-      <td width="25%"><a href="../paper26/images/0000001.jpg"><img border="2" src="../paper26/0000001_small.jpg" alt="0000001.jpg (172032 bytes)" width="200" height="150"></a></td>
-      <td width="25%"><a href="../paper26/images/0000081.jpg"><img border="2" src="../paper26/0000081_small.jpg" alt="0000081.jpg (172032 bytes)" width="200" height="150"></a></td>
-      <td width="25%"><a href="../paper26/images/0000150.jpg"><img border="2" src="../paper26/0000150_small.jpg" alt="0000150.jpg (172032 bytes)" width="200" height="150"></a></td>
-      <td width="25%"><a href="../paper26/images/0000156.jpg"><img border="2" src="../paper26/0000156_small.jpg" alt="0000156.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td width="25%"><a href="../paper26/images/0000001.jpg"><img border="2" src="{{ $htmURL }}0000001_small.jpg" alt="0000001.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td width="25%"><a href="../paper26/images/0000081.jpg"><img border="2" src="{{ $htmURL }}0000081_small.jpg" alt="0000081.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td width="25%"><a href="../paper26/images/0000150.jpg"><img border="2" src="{{ $htmURL }}0000150_small.jpg" alt="0000150.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td width="25%"><a href="../paper26/images/0000156.jpg"><img border="2" src="{{ $htmURL }}0000156_small.jpg" alt="0000156.jpg (172032 bytes)" width="200" height="150"></a></td>
     </tr>
     <tr>
       <td width="25%" align="center">t=0</td>
@@ -237,10 +237,10 @@ getcommentmode();</SCRIPT></HEAD><body>
       <td width="25%" align="center">t=53 hr</td>
     </tr>
     <tr>
-      <td width="25%"><a href="../paper26/images/0000213.jpg"><img border="2" src="../paper26/0000213_small.jpg" alt="0000213.jpg (172032 bytes)" width="200" height="150"></a></td>
-      <td width="25%"><a href="../paper26/images/0000243.jpg"><img border="2" src="../paper26/0000243_small.jpg" alt="0000243.jpg (172032 bytes)" width="200" height="150"></a></td>
-      <td width="25%"><a href="../paper26/images/0000300.jpg"><img border="2" src="../paper26/0000300_small.jpg" alt="0000300.jpg (172032 bytes)" width="200" height="150"></a></td>
-      <td width="25%"><a href="../paper26/images/0000375.jpg"><img border="2" src="../paper26/0000375_small.jpg" alt="0000375.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td width="25%"><a href="../paper26/images/0000213.jpg"><img border="2" src="{{ $htmURL }}0000213_small.jpg" alt="0000213.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td width="25%"><a href="../paper26/images/0000243.jpg"><img border="2" src="{{ $htmURL }}0000243_small.jpg" alt="0000243.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td width="25%"><a href="../paper26/images/0000300.jpg"><img border="2" src="{{ $htmURL }}0000300_small.jpg" alt="0000300.jpg (172032 bytes)" width="200" height="150"></a></td>
+      <td width="25%"><a href="../paper26/images/0000375.jpg"><img border="2" src="{{ $htmURL }}0000375_small.jpg" alt="0000375.jpg (172032 bytes)" width="200" height="150"></a></td>
     </tr>
     <tr>
       <td width="25%" align="center">t=71 hr</td>
@@ -278,7 +278,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   constructed of the percentage area of the exposed surface that was indicated
   as being alkaline.&nbsp; The results of this plot are given in figure 7,
   below.</p>
-  <p align="center"><img border="0" src="../paper26/images/alkgraph.gif" width="638" height="436"></p>
+  <p align="center"><img border="0" src="{{ $htmURL }}images/alkgraph.gif" width="638" height="436"></p>
   <SCRIPT>comment(32)</SCRIPT><p align="left"><b>Figure 7: Percentage area of the exposed panel covered by
   blistering and delamination.</b></p>
   <h3 align="left">Discussion</h3>

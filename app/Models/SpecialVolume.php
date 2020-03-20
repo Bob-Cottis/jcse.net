@@ -4,7 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Specialvolume extends Model 
+class SpecialVolume extends Model
 {
 
     protected $table = 'specialvolumes';

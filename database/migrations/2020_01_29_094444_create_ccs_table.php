@@ -3,19 +3,19 @@
 use Illuminate\Database\Migrations\Migration;
 use Illuminate\Database\Schema\Blueprint;
 
-class CreateKeywordUserTable extends Migration {
+class CreateCcsTable extends Migration {
 
 	public function up()
 	{
-		Schema::create('keyword_user', function(Blueprint $table) {
+		Schema::create('ccs', function(Blueprint $table) {
 			$table->increments('id');
-			$table->integer('keword_id')->unsigned();
+			$table->integer('message_id')->unsigned();
 			$table->integer('user_id')->unsigned();
 		});
 	}
 
 	public function down()
 	{
-		Schema::drop('keyword_user');
+		Schema::drop('ccs');
 	}
 }

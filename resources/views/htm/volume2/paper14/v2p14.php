@@ -978,22 +978,22 @@ getcommentmode();</SCRIPT></HEAD><body>
   </table>
   </center>
 </div>
-  <p><img border="0" src="../paper14/fig1.jpg" width="782" height="456"></p>
+  <p><img border="0" src="{{ $htmURL }}fig1.jpg" width="782" height="456"></p>
   <SCRIPT>comment(25)</SCRIPT><p><b>Figure 1: Hot salt soak test of e-coated EGS</b></p>
-  <p><img border="0" src="../paper14/fig2.gif" width="569" height="290"></p>
+  <p><img border="0" src="{{ $htmURL }}fig2.gif" width="569" height="290"></p>
   <SCRIPT>comment(26)</SCRIPT><p><b>Figure 2: Model for a corroding automotive metal with an electrocoat</b></p>
-  <p><img border="0" src="../paper14/v2p14_image004.jpg" width="648" height="367"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p14_image004.jpg" width="648" height="367"></p>
   <SCRIPT>comment(27)</SCRIPT><p><b>Fig. 3: IR Spectrum of bis-amino (2%, pH= 8.5) on polished Chrome Steel</b></p>
-  <p><b><img border="0" src="../paper14/v2p14_image006.jpg" width="648" height="371"></b></p>
+  <p><b><img border="0" src="{{ $htmURL }}v2p14_image006.jpg" width="648" height="371"></b></p>
   <SCRIPT>comment(28)</SCRIPT><p><b>Fig. 4: IR spectrum of bis-polysulfur (5%, natural pH) on polished
   stainless steel</b></p>
-  <p><img border="0" src="../paper14/v2p14_image008.jpg" width="672" height="351"></p>
+  <p><img border="0" src="{{ $htmURL }}v2p14_image008.jpg" width="672" height="351"></p>
   <SCRIPT>comment(29)</SCRIPT><p><b>Fig. 5: IR spectrum of bis-amino and bis-sulfur mixture (3:1) on
   polished stainless steel</b></p>
-  <p><img border="0" src="../paper14/fig6.jpg" width="579" height="320"></p>
+  <p><img border="0" src="{{ $htmURL }}fig6.jpg" width="579" height="320"></p>
   <SCRIPT>comment(30)</SCRIPT><p><b>Figure 6: AFM image of a bis-polysulfur silane coated Zn surface</b></p>
-  <p><img border="0" src="../paper14/fig7.jpg" width="579" height="316"></p>
+  <p><img border="0" src="{{ $htmURL }}fig7.jpg" width="579" height="316"></p>
   <SCRIPT>comment(31)</SCRIPT><p><b>Figure 7: AFM image of a bis-amino silane coated Zn surface</b></p>
-  <p><img border="0" src="../paper14/fig8.jpg" width="573" height="321"></p>
+  <p><img border="0" src="{{ $htmURL }}fig8.jpg" width="573" height="321"></p>
   <SCRIPT>comment(32)</SCRIPT><p><b>Figure 8: AFM image of a bis-polysulfur silane coated Zn surface</b></p>
 <SCRIPT>footer()</SCRIPT></html>

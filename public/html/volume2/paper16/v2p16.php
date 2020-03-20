@@ -24,13 +24,13 @@ $logged_in=is_loggedin();
 here - leave comments such as this in angle brackets as we shall replace these
 with the relevant HTML codes&gt;</p>
 
-<p> (at http://www.jcse.org/)</p>
+<p>ï¿½(at http://www.jcse.org/)</p>
 
 <p>Volume 2 Paper 16</p>
 
 <p>Submitted 2<sup>nd</sup> November 1999</p>
 
-<p><img width=629 height=5 src="../paper16/v2p16_image001.gif"></span>&nbsp;</p>
+<p><img width=629 height=5 src="{{ $htmURL }}v2p16_image001.gif"></span>&nbsp;</p>
 
 <br clear=ALL>
 
@@ -54,54 +54,54 @@ AC sensor, Pores in coatings, chromate pigments, </b></p>
 <p>In early work on intact polystyrene
 lacquers on mild steel immersed in sodium chloride solutions, Mayne [1] showed
 that the corrosion under the lacquer was electrochemical with spacial
-separation of anodic and cathodic areas. 
+separation of anodic and cathodic areas.ï¿½
 Cathodic reactions led to underfilm blistering, the blisters being
-filled with sodium hydroxide solution. 
+filled with sodium hydroxide solution.ï¿½
 The anodic reaction was iron oxidation and iron ions were thought to
-migrate across the film at regions where ionic induction was easier.  These easy conduction pathways were further
+migrate across the film at regions where ionic induction was easier.ï¿½ These easy conduction pathways were further
 investigated by Mayne and his co-workers [2] and it was found that such areas
 had ionic resistance values which decreased as the bathing solution
-concentration increased and Mayne coined the term “D” area to stand for these
-paths of easy conduction.  This early
-work was concerned with unpigmented polymer lacquers but such “D” areas were
+concentration increased and Mayne coined the term ï¿½Dï¿½ area to stand for these
+paths of easy conduction.ï¿½ This early
+work was concerned with unpigmented polymer lacquers but such ï¿½Dï¿½ areas were
 also observed with polymers pigmented with iron oxide [3] and zinc oxide
-[4].  “D” areas were subsequently
+[4].ï¿½ ï¿½Dï¿½ areas were subsequently
 correlated with underfilm corrosion with the classical study undertaken by
 Mayne and Mills [5].</p>
 
-<p>Since “D” areas were first proposed, there
+<p>Since ï¿½Dï¿½ areas were first proposed, there
 has been many attempts to explain the presence of D areas in terms of polymer
-structure and currently there are three likely explanations.  Firstly, most paints and organic polymer
+structure and currently there are three likely explanations.ï¿½ Firstly, most paints and organic polymer
 films cure by a chemical reaction after application that cross links the
-polymer to form a three dimensional network. 
+polymer to form a three dimensional network.ï¿½
 This cross-linking reaction can either be driven by atmospheric oxygen
 in the case of air-drying systems or by the reaction of two prepolymer
 components that are mixed just before application in the case of 2-pack epoxy
-systems.  In such a polymerisation
+systems.ï¿½ In such a polymerisation
 process, there will be a spread of cross linking density and one possible
-explanation of “D” areas in regions of very low cross link density in the
-polymer film.  This hypothesis was shown
-to be true using a solvent-swelling technique in previously identified “D”
+explanation of ï¿½Dï¿½ areas in regions of very low cross link density in the
+polymer film.ï¿½ This hypothesis was shown
+to be true using a solvent-swelling technique in previously identified ï¿½Dï¿½
 areas (6).</p>
 
-<p>A second explanation of “D” areas may be
-applied to polymers which carry polar side chains.  The most common example of such polymers used as the basis for
+<p>A second explanation of ï¿½Dï¿½ areas may be
+applied to polymers which carry polar side chains.ï¿½ The most common example of such polymers used as the basis for
 organic coatings is the air drying alkyd which has a high concentration of
-fixed acid groups.  The explanation
+fixed acid groups.ï¿½ The explanation
 involves a high concentration of polar groups which might aggregate around a
 specific volume in the film and ion conduction would proceed more readily
-through these “pipes”.  Correlation
+through these ï¿½pipesï¿½.ï¿½ Correlation
 between these features and conduction has been reported [7].</p>
 
 <p>Shortly before his death, Mayne [8] had
 been studying solvent-free epoxy systems and investigating the role of solvent
-and solvent retention on coating performance in general and the presence of “D”
-areas in particular.  He concluded that
-“in the absence of solvents, the films have much higher electrolytic resistance
+and solvent retention on coating performance in general and the presence of ï¿½Dï¿½
+areas in particular.ï¿½ He concluded that
+ï¿½in the absence of solvents, the films have much higher electrolytic resistance
 and a more homogenous structure consequently the elimination of solvents leads
-to films of increased protective value”.</p>
+to films of increased protective valueï¿½.</p>
 
-<p>Such paths of easy ion conduction or “D”
+<p>Such paths of easy ion conduction or ï¿½Dï¿½
 areas are one of the most important features of a corrosion protective film and
 the knowledge of their location and increase in number with time provides
 useful information on the mechanism of breakdown.</p>
@@ -115,13 +115,13 @@ pipelines. [9]. </p>
 <p>Experimental</p>
 
 <p>The AC signal at 2HK<sub>z</sub> amplitude
-2V from a signal generator was connected to the metal substrate.  The other connector from the signal
-generator was fed through a resistor to a specially constructed probe.  The probe was a felt tipped pen where the
+2V from a signal generator was connected to the metal substrate.ï¿½ The other connector from the signal
+generator was fed through a resistor to a specially constructed probe.ï¿½ The probe was a felt tipped pen where the
 ink had been extracted with repeated flushing with methanol and replaced with
-3% NaCl.  The detector was a cathode ray
+3% NaCl.ï¿½ The detector was a cathode ray
 oscilloscope across the resistor. The felt-tipped pen was gently moved manually
-in the X and Y directions across the whole surface of the coated specimen.  Where conduction was negligible, there was
-no response from the oscilloscope. 
+in the X and Y directions across the whole surface of the coated specimen.ï¿½ Where conduction was negligible, there was
+no response from the oscilloscope.ï¿½
 Where there was detectable conduction, a characteristic signal was
 observed on the oscilloscope. Paths of conduction were located on graph paper
 photocopied onto transparent paper.</p>
@@ -156,7 +156,7 @@ mild steel and platinum</b> </p>
   </tr>
   <tr>
    <td></td>
-   <td><img width=472 height=614 src="../paper16/v2p16_image003.jpg"></td>
+   <td><img width=472 height=614 src="{{ $htmURL }}v2p16_image003.jpg"></td>
   </tr>
  </table>
 <br clear=ALL>&nbsp;
@@ -172,7 +172,7 @@ less than ten, in the pigmented systems less than five. Within five days, these
 regions had increased and this change is probably due to entry of water into
 the film, Mayne's so called fast change.</p>
 
-<p> The second interesting feature of these data is that they are
+<p>ï¿½The second interesting feature of these data is that they are
 grouped into three sets according to the pigmentation used in the coating. The
 change in substrate from steel to platinum make no difference to the initial
 behaviour with time. The greatest rate of change of number of spots occurs in
@@ -226,36 +226,36 @@ an alkyd medium is proposed.</p>
 
 <p>References</p>
 
-<p>[1]  J.E.O.
+<p>[1]ï¿½ J.E.O.
 Mayne, <i>J.O.C.C.A.,</i> <b>32</b>, 481 (1949).</p>
 
-<p>[2]  E.M.
+<p>[2]ï¿½ E.M.
 Kinsella, J.E.O Mayne, <i>Br. Polymer J.,</i>
 <b>1</b>, 173 (1969).</p>
 
-<p>[3]  E.M.
+<p>[3]ï¿½ E.M.
 Kinsella, J.E.O. Mayne, J.D. Scantlebury, <i>Br.
 Polymer J.,</i><b> 2<u>,</u></b> 240
 (1970).</p>
 
-<p>[4]  J.E.O.
+<p>[4]ï¿½ J.E.O.
 Mayne, D.J. Mills, <i>J.O.C.C.A.,</i> <b>65</b>, 138 (1982).</p>
 
 <p>[5].J.E.O.
 Mayne, D.J. Mills, <i>J.O.C.C.A.,</i> <b>66</b>, 88 (1983).</p>
 
-<p>[6]  E.M.
+<p>[6]ï¿½ E.M.
 Kinsella, J.E.O. Mayne, J.D. Scantlebury, <i>Br.
 Polymer J.,</i><b> 3</b>, 237 (1982).</p>
 
-<p>[7]  U.
+<p>[7]ï¿½ U.
 Ulfvarsson, U., M.L. Khullar, <i>J.O.C.C.A.,</i>
 <b>50</b>, 254 (1967).</p>
 
-<p>[8]  J.E.O.
+<p>[8]ï¿½ J.E.O.
 Mayne, <i>Br. Corros. J.,</i> <b>25(3),</b> 189 (1990).</p>
 
-<p>[9]  J.M.Pearson,
+<p>[9]ï¿½ J.M.Pearson,
 <i>Trans. Electrochem. Soc.</i>, <b>81</b>, 485, (1942).</p>
 
 <p>[10]J.D.Scantlebury, <i>Corrosion

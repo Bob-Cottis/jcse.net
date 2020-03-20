@@ -162,7 +162,7 @@ getcommentmode();</SCRIPT></HEAD><body>
       <td width="14%" valign="TOP">&nbsp;</td>
       <td width="74%" valign="TOP">
         <blockquote align="CENTER">
-          <img src="../paper37/image299.gif" width="222" height="44">
+          <img src="{{ $htmURL }}image299.gif" width="222" height="44">
         
       </td>
       <td width="12%" valign="TOP">
@@ -182,7 +182,7 @@ getcommentmode();</SCRIPT></HEAD><body>
       <td width="14%" valign="TOP">&nbsp;</td>
       <td width="74%" valign="TOP">
         <blockquote align="CENTER">
-          <img src="../paper37/image300.gif" width="126" height="53">
+          <img src="{{ $htmURL }}image300.gif" width="126" height="53">
         
       </td>
       <td width="12%" valign="TOP">
@@ -219,7 +219,7 @@ getcommentmode();</SCRIPT></HEAD><body>
       <td width="14%" valign="TOP">&nbsp;</td>
       <td width="74%" valign="TOP">
         <blockquote align="CENTER">
-          <img src="../paper37/image301.gif" width="96" height="48">
+          <img src="{{ $htmURL }}image301.gif" width="96" height="48">
         
       </td>
       <td width="12%" valign="TOP">
@@ -458,7 +458,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   difference between Epoxy 0 and Epoxy 5 is statistically significant on the 5%
   level. The difference between Epoxy 10 and Epoxy 20 is also statistically
   significant on the 5% level.</p>
-  <p><a href="../paper37/fig2.gif"><img src="../paper37/fig2.gif" width="510" height="304"></a></p>
+  <p><a href="../paper37/fig2.gif"><img src="{{ $htmURL }}fig2.gif" width="510" height="304"></a></p>
   <SCRIPT>comment(21)</SCRIPT><p><b><a name="_Ref457265272">Figure 2</a>. Water desorption rates for amide
   cured epoxy with various concentrations of aluminium at 23�C. Three parallels
   of each system. (Click the image to view an enlarged version)</b></p>
@@ -485,7 +485,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   [8]. Converted to this unit, Epoxy 0 had a permeability of 98&nbsp;cm<sup>3</sup>&nbsp;100
   �m (m<sup>2</sup>&nbsp;day&nbsp;atm)<sup>-1</sup>. The permeability
   coefficients we have found therefore seem reasonable.</p>
-  <p><a href="../paper37/fig3.gif"><img src="../paper37/fig3.gif" width="510" height="291"></a></p>
+  <p><a href="../paper37/fig3.gif"><img src="{{ $htmURL }}fig3.gif" width="510" height="291"></a></p>
   <SCRIPT>comment(24)</SCRIPT><p><b><a name="_Ref457265327">Figure 3</a>. Oxygen diffusion delay time for
   three parallels of Epoxy 5. Current transient after changing the gas in the
   electrolyte from nitrogen to air. Exposed area 19.6 cm<sup>2</sup>.
@@ -504,7 +504,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   agent. The pigments may also be surrounded by water filled voids with high
   conductivity. The decrease in the resistivity is large. The resistivity of
   Epoxy 0 and Epoxy 20 differed by more than two decades.</p>
-  <p><a href="../paper37/fig4.gif"><img src="../paper37/fig4.gif" width="510" height="291"></a></p>
+  <p><a href="../paper37/fig4.gif"><img src="{{ $htmURL }}fig4.gif" width="510" height="291"></a></p>
   <SCRIPT>comment(26)</SCRIPT><p><b><a name="_Ref457265420">Figure 4</a>. Polarisation curves obtained for
   painted steel samples. Substitute seawater, 21�C, DFT 300 �m, exposed area
   19.6 cm<sup>2</sup>, average of 3 parallels. (Click the image to view an
@@ -591,7 +591,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   films as function of aluminium pigment concentration. The disbonding rates are
   taken from the disbonding experiments on ground steel substrate in Part 1. The
   responses are normalised to the results for Epoxy 0.</p>
-  <p><a href="../paper37/fig5.gif"><img src="../paper37/fig5.gif" width="491" height="304"></a></p>
+  <p><a href="../paper37/fig5.gif"><img src="{{ $htmURL }}fig5.gif" width="491" height="304"></a></p>
   <SCRIPT>comment(30)</SCRIPT><p><b><a name="_Ref457265692">Figure 5</a>. Cathodic disbonding and transport
   properties as function of aluminium pigment concentration. The responses are
   normalised to the result for Epoxy 0. (Click the image to view an enlarged
@@ -624,10 +624,10 @@ getcommentmode();</SCRIPT></HEAD><body>
   barrier effect, then system 4 will perform best, system 2 and 3 will perform
   equally and system 1 will perform worst. The disbonding rates are given in
   Figure 7.</p>
-  <p><a href="../paper37/fig6.gif"><img src="../paper37/fig6.gif" width="510" height="291"></a></p>
+  <p><a href="../paper37/fig6.gif"><img src="{{ $htmURL }}fig6.gif" width="510" height="291"></a></p>
   <SCRIPT>comment(33)</SCRIPT><p><b><a name="_Ref457265745">Figure 6</a>. Application of Epoxy 0 and Epoxy
   10 in two-coat films. (Click the image to view an enlarged version)</b></p>
-  <p><img src="../paper37/fig7.gif" width="417" height="356"></p>
+  <p><img src="{{ $htmURL }}fig7.gif" width="417" height="356"></p>
   <SCRIPT>comment(34)</SCRIPT><p><b><a name="_Ref457265756">Figure 7</a>. Cathodic disbonding for two coat
   films with and without aluminium pigments applied on top of each other. Test
   conditions: Substitute seawater, -1050 mV SCE, 25�C, 4 parallels.</b></p>
@@ -675,7 +675,7 @@ getcommentmode();</SCRIPT></HEAD><body>
   take place mainly after the coating has disbonded. Under an intact and
   adhering film, the cathodic reaction is probably too slow to give significant
   corrosion of the aluminium pigments.</p>
-  <p><img src="../paper37/fig8.jpg" width="661" height="231"></p>
+  <p><img src="{{ $htmURL }}fig8.jpg" width="661" height="231"></p>
   <SCRIPT>comment(38)</SCRIPT><p><b><a name="_Ref457265800">Figure 8</a>. Micrograph of a cross section of
   Epoxy 10 after disbonding.</b></p>
   <SCRIPT>comment(39)</SCRIPT><p>We also prepared thin cross sections of the disbonded film by
@@ -704,12 +704,12 @@ getcommentmode();</SCRIPT></HEAD><body>
   formed in the cathodic reaction at the steel/coating interface. The corrosion
   of the pigments is therefore another strong indication for that the aluminium
   pigments reduce cathodic disbonding by a buffer mechanism.</p>
-  <p><img src="../paper37/fig9.jpg" width="631" height="1251"></p>
+  <p><img src="{{ $htmURL }}fig9.jpg" width="631" height="1251"></p>
   <SCRIPT>comment(42)</SCRIPT><p><b><a name="_Ref457265843">Figure 9</a>. TEM micrographs of aluminium
   pigments. A: Aluminium pigments near the steel surface, less than 1 mm from
   the disbonding front. B: Aluminium pigments near the steel surface, about 5 mm
   from the disbonding front</b></p>
-  <p><a name="_Ref401718315"><img src="../paper37/fig10.gif" width="551" height="721"></p>
+  <p><a name="_Ref401718315"><img src="{{ $htmURL }}fig10.gif" width="551" height="721"></p>
   <SCRIPT>comment(43)</SCRIPT><p></a><b><a name="_Ref457274325"></a>Figure 10. Chemical composition of
   aluminium pigment particles after cathodic disbonding. A: Pigment from Figure
   9A. B: Pigment 2 in Figure 9B.</b></p>

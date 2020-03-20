@@ -18,7 +18,7 @@
                     <div class="card-header"><h4>{{ __('submit.form_header') }}</h4></div>
 
                     <div class="card-body">
-                        <form method="POST" action="{!! url('/createPaper') !!}">
+                        <form method="POST" action="{!! url('createPaper') !!}">
                             @csrf
                             <input type="hidden" id="leadAuthor" name="leadAuthor" value="{{ auth()->user()->id }}">
                             <button type="submit" disabled style="display: none"></button> {{--prevents Enter from submitting form--}}
@@ -324,10 +324,10 @@
             var keywords = new Bloodhound({
                 datumTokenizer: Bloodhound.tokenizers.whitespace,
                 queryTokenizer: Bloodhound.tokenizers.whitespace,
-                prefetch: "http://192.168.10.10/autocomplete/1",
+                prefetch: "{{ config('jrnl.URL') }}/autocomplete/1",
                 remote:
                     {
-                        url: "http://192.168.10.10/autocomplete/0/%QUERY",
+                        url: "{{ config('jrnl.URL') }}/autocomplete/0/%QUERY",
                         wildcard: "%QUERY"
                     }
                 //local: keywords

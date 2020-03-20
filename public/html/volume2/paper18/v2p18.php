@@ -266,24 +266,24 @@ getcommentmode();</SCRIPT></HEAD><body>
     p&nbsp;&nbsp;&nbsp;&nbsp; (1948)</p>
     <h3><b>Figures</b></h3>
     <p>&nbsp;</p>
-    <p><img src="../paper18/v2p18_image001.gif" width="387" height="244"></p>
+    <p><img src="{{ $htmURL }}v2p18_image001.gif" width="387" height="244"></p>
     <SCRIPT>comment(15)</SCRIPT><p><b>Figure 1.&nbsp; Experimental set up for EN measurements.</b></p>
-    <img src="../paper18/v2p18_image003.jpg" width="487" height="332">
+    <img src="{{ $htmURL }}v2p18_image003.jpg" width="487" height="332">
     <SCRIPT>comment(16)</SCRIPT><p><b>Figure 2.&nbsp; SRET experimental arrangement</b></p>
-    <p><img src="../paper18/v2p18_image005.jpg" width="480" height="265"></p>
+    <p><img src="{{ $htmURL }}v2p18_image005.jpg" width="480" height="265"></p>
     <SCRIPT>comment(17)</SCRIPT><p><b>Figure 3. Noise Resistance (R<sub>n</sub>) values for scribed CM(1-4)
     and IC 152 (5,6)&nbsp; coatings after 2h in 10 % Harrison�s solution</b></p>
-    <p><img src="../paper18/v2p18_image007.jpg" width="509" height="291"></p>
+    <p><img src="{{ $htmURL }}v2p18_image007.jpg" width="509" height="291"></p>
     <SCRIPT>comment(18)</SCRIPT><p><b>Figure 4. Effect of time on R<sub>n</sub>, Scribed CM epoxy coating
     and RH alkyd coating in 10% Harrison's Solution.</b></p>
-    <p><img src="../paper18/v2p18_image009.jpg" width="499" height="275"></p>
+    <p><img src="{{ $htmURL }}v2p18_image009.jpg" width="499" height="275"></p>
     <SCRIPT>comment(19)</SCRIPT><p><b>Figure 5. Effect of time on R<sub>n</sub> for scribed red lead samples
     in 10% Harrison's solution. (Non-inhibited) immediate immersion. (Soaked)
     0-192h in 10% Harrison's solution, 192-350h in 55% Harrison's solution.</b></p>
-    <p><img src="../paper18/v2p18_image011.jpg" width="499" height="288">
+    <p><img src="{{ $htmURL }}v2p18_image011.jpg" width="499" height="288">
     <SCRIPT>comment(20)</SCRIPT><p><b>Figure 6. Effect of time on R<sub>n</sub> for CM, RH and Pre-soaked
     Red Lead Scribed Coatings.</b></p>
-    <p><img src="../paper18/v2p18_image013.gif" width="333" height="250"></p>
+    <p><img src="{{ $htmURL }}v2p18_image013.gif" width="333" height="250"></p>
     <SCRIPT>comment(21)</SCRIPT><p><b>Figure 7. SRET map showing corrosion at the scratch location after 4
     hours immersion</b></p>
     <table border="1">
@@ -328,11 +328,11 @@ getcommentmode();</SCRIPT></HEAD><body>
     of +20 mV after 26h. (click for a larger image)</b></p>
     <table border="0" width="100%" cellspacing="0" cellpadding="0">
       <tr>
-        <td width="33%" align="center"><b><img border="0" src="../paper18/v2p18f10a.gif" width="250" height="234"><br>
+        <td width="33%" align="center"><b><img border="0" src="{{ $htmURL }}v2p18f10a.gif" width="250" height="234"><br>
           a) 15 min</b></td>
-        <td width="33%" align="center"><b><img border="0" src="../paper18/v2p18f10b.gif" width="252" height="233"><br>
+        <td width="33%" align="center"><b><img border="0" src="{{ $htmURL }}v2p18f10b.gif" width="252" height="233"><br>
           b) 5 hr</b></td>
-        <td width="34%" align="center"><b><img border="0" src="../paper18/v2p18f10c.gif" width="250" height="236"><br>
+        <td width="34%" align="center"><b><img border="0" src="{{ $htmURL }}v2p18f10c.gif" width="250" height="236"><br>
           c) 9 hr</b></td>
       </tr>
     </table>
@@ -340,11 +340,11 @@ getcommentmode();</SCRIPT></HEAD><body>
     immersion in 10% Harrison�s; scribe mark indicated by arrow</b></p>
     <table border="0" width="100%" cellspacing="0" cellpadding="0">
       <tr>
-        <td width="33%" align="center"><b><img border="0" src="../paper18/v2p18f11a.gif" width="250" height="234"><br>
+        <td width="33%" align="center"><b><img border="0" src="{{ $htmURL }}v2p18f11a.gif" width="250" height="234"><br>
           a) 2 hr</b></td>
-        <td width="33%" align="center"><b><img border="0" src="../paper18/v2p18f11b.gif" width="259" height="233"><br>
+        <td width="33%" align="center"><b><img border="0" src="{{ $htmURL }}v2p18f11b.gif" width="259" height="233"><br>
           b) 3 hr</b></td>
-        <td width="34%" align="center"><b><img border="0" src="../paper18/v2p18f11c.gif" width="254" height="231"><br>
+        <td width="34%" align="center"><b><img border="0" src="{{ $htmURL }}v2p18f11c.gif" width="254" height="231"><br>
           c) 25 hr</b></td>
       </tr>
     </table>

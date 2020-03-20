@@ -26,15 +26,15 @@ Electrode (SRET) and Electrochemical Noise Techniques(ENM)</h2>
 Mills*, S Mabbutt* and R Akid<sup>+</sup></b></p>
 
 <p><i>*School of
-Technology and Design, University College Northampton, Northampton NN2 6JD     E-Mail :
+Technology and Design, University College Northampton, Northampton NN2 6JDï¿½ï¿½ï¿½ï¿½ E-Mail :
 <SCRIPT>mailto2('Douglas.Mills','Northampton.ac.uk')</SCRIPT> </i></p>
 
-<p><i><sup>+</sup></i><i>Centre for Corrosion Technology,   Materials Research Institute, Sheffield
-Hallam, University, Sheffield,  S1
-1WB    E-mail :  <SCRIPT>mailto2('R.Akid','shu.ac.uk')</SCRIPT> </i></p>
+<p><i><sup>+</sup></i><i>Centre for Corrosion Technology,ï¿½ï¿½ Materials Research Institute, Sheffield
+Hallam, University, Sheffield,ï¿½ S1
+1WBï¿½ï¿½ï¿½ E-mail :ï¿½ <SCRIPT>mailto2('R.Akid','shu.ac.uk')</SCRIPT> </i></p>
 
 <p><b>Keywords</b>&nbsp;&nbsp; Electrochemical Noise, Scanning Reference
-Electrode Technique (SRET), 
+Electrode Technique (SRET),ï¿½
 anti-corrosive coatings, scribe protection</p>
 
 <h3><b>Abstract</b></h3>
@@ -52,7 +52,7 @@ results. The effect of a pre-soak in de-mineralised water was also
 investigated. It is suggested that the two methods when used together can
 provide the means by which paint manufacturers can quickly and easily assess
 the effectiveness of their systems in preventing corrosion at a break in the
-coating.   </p>
+coating.ï¿½ï¿½ </p>
 
 <h3><b>Introduction</b></h3>
 
@@ -101,11 +101,11 @@ steel using the Electrochemical Noise Method. Reported here are results for two
 proprietary primers, an epoxy (CM) and an alkyd (RH). Red Lead in linseed oil
 has also been investigated along with a control (water-borne unpigmented
 epoxy). All apart from the control contain inhibitive pigments in the coatings.
-Defects were produced mainly by scribing. 
+Defects were produced mainly by scribing.ï¿½
 Resistance (R<sub>n</sub>) measurements were monitored as a function of
 time in either de-mineralised water or 10% Harrison's solution. It was found
 that none of the inhibitive coatings were successful in preventing corrosion
-upon immediate immersion in 10% Harrison’s solution. So coatings were given a
+upon immediate immersion in 10% Harrisonï¿½s solution. So coatings were given a
 pre-soak by immersing for a time of 24 or 96 h in de-mineralised water. SRET
 has also been used to examine scribed (deliberately damaged) areas in the same
 solutions over a similar period of time. The expectation is that SRET would be
@@ -122,7 +122,7 @@ amine portion in the unpigmented epoxy (IC 152) was water. This coating would
 not be expected to contain any components that would lead to effective
 inhibition at a scribe. The red lead was in linseed oil. It was used because it
 was expected to be effective. Coatings were applied by spreader bar to Q panels
-and by dipping for SRET specimens. Harrison’s solution (3.5% ammonium sulphate,
+and by dipping for SRET specimens. Harrisonï¿½s solution (3.5% ammonium sulphate,
 0.5% NaCl) was used unless indicated otherwise at 10% dilution for the tests
 reported here. </p>
 
@@ -158,9 +158,9 @@ details can be found elsewhere [3,8].</p>
 area of 1cm by 1.5cm that included the scribe. The specimen was rotated at
 100rpm and the measurements were taken over a period of up to about thirty
 hours. A diagram showing the experimental set-up is shown in Figure 2. Further
-details on the experimental set-up can be found [9,10].  </p>
+details on the experimental set-up can be found [9,10].ï¿½ </p>
 
-<h3><b>Results and discussion  </b></h3>
+<h3><b>Results and discussionï¿½ </b></h3>
 
 <h4>Electrochemical Noise</h4>
 
@@ -170,21 +170,21 @@ than the scribed sample results. Thus all values here are attributed to the
 scribe. Figure 3 shows the comparison between the clear epoxy and the CM
 coating after just 2 h in solution. It can be seen that the R<sub>n </sub>value
 of the CM coating is approximately an order of magnitude higher than the
-unpigmented epoxy.  Reproducibility
+unpigmented epoxy.ï¿½ Reproducibility
 among the four different pairs was very good. Figure 4 shows the effect of time
-over a 24 h period for both CM and RH coatings in 10% Harrison’s solution.
+over a 24 h period for both CM and RH coatings in 10% Harrisonï¿½s solution.
 Initially the CM coating provided a level of inhibition (corresponding to an
 increase in the R<sub>n</sub> value). However within 24h both coatings were failing
 to inhibit although the nature of the corrosion product was somewhat different
 in the two cases. Nevertheless some degree of reduction in corrosion rate,
 based on R<sub>n</sub> beyond that shown by the unpigmented epoxy, was evident.
 Results for the red lead coating are shown in Figure 5. When immersed in 10%
-Harrison’s solution this system was not very effectively in providing
+Harrisonï¿½s solution this system was not very effectively in providing
 inhibition, as shown by the ferricyanide test and low R<sub>n</sub> values.
-However when pre-soaked for 96 h in water and then transferred to Harrison’s
+However when pre-soaked for 96 h in water and then transferred to Harrisonï¿½s
 solution, it maintained a sustained high value of R<sub>n</sub> and no visible
 corrosion was seen at the scribe. This graph also shows that when the
-Harrison’s solution was increased to 55% of full strength this overwhelmed the
+Harrisonï¿½s solution was increased to 55% of full strength this overwhelmed the
 inhibitor and visible corrosion ensued along with a drop in the R<sub>n</sub>
 value to the levels of the non-inhibiting situation. Figure 6 shows a
 comparison of R<sub>n </sub>value between red lead and the CM and RH coatings.
@@ -221,7 +221,7 @@ Note the darker the shade the higher the current density. </p>
 <p>Although both sequences were obtained with CM
 specimens in 10% Harrison's solution, the results in Figure 10 were obtained
 after preliminary immersion in de-mineralised (DM) water for 2-3 h whereas
-those shown in Figure 11 were obtained after immediate immersion in Harrison’s
+those shown in Figure 11 were obtained after immediate immersion in Harrisonï¿½s
 solution. Corrosion can be seen to increase/decrease over 24h and corresponds
 approximately with the R<sub>n</sub> results for the CM coatings as shown in
 Figure 2. However note that there is somewhat decreased activity overall in the
@@ -241,7 +241,7 @@ value of about 2 - 4.5 x 10<sup>6</sup> is necessary for effective inhibition
 on a 0.02cm<sup>2</sup> area in 10% Harrison's solution. This translates to a
 value of about 4 x 10<sup>4</sup> to 9 x 10<sup>4 </sup>ohms-cm<sup>2</sup>
 i.e. somewhat lower than the Bacon, Smith and Rugg criteria [15] for a
-protective intact coating of 1 x 10<sup>6</sup> ohms-cm<sup>2</sup>). </li>
+protective intact coating of 1 x 10<sup>6</sup> ohms-cm<sup>2</sup>).ï¿½</li>
   <li>Results show that the CM and RH
 coatings provide partial inhibition after about the first 24 hours where the CM
 coating appears more effective than RH coating for immersion in 10% Harrison's
@@ -251,16 +251,16 @@ in the absence of a top-coat.</li>
 Reference Electrode Technique has proved useful in providing direct evidence of
 electrochemical activity. The technique is very sensitive and can provide both
 quantitative and spatial information. The anodic/cathodic activity along the
-scribe over a period of 24–48 hours as indicated by SRET illustrated the
+scribe over a period of 24ï¿½48 hours as indicated by SRET illustrated the
 effectiveness in retarding corrosion, of a coating containing active pigments.</li>
   <li>In this work the
 effect of a pre-soak in de-mineralised water was successfully investigated
 using both ENM and SRET. Hence using these two methods in combination, the
-effect of different environments e.g. de-mineralised water, 10% Harrison’s
+effect of different environments e.g. de-mineralised water, 10% Harrisonï¿½s
 solution and 3% NaCl can be easily investigated.</li>
   <li>Further work is
 currently being conducted with top-coated systems to assess whether the effects
-observed here (particularly the effect of pre-soak) will still pertain. </li>
+observed here (particularly the effect of pre-soak) will still pertain.ï¿½</li>
 </ul>
 
 <h3>References </h3>
@@ -269,30 +269,30 @@ observed here (particularly the effect of pre-soak) will still pertain. </li>
 Progress in Organic Coatings, June, (1997)</p>
 
 <p>[2] H. Xiao and
-F. Mansfeld   J. Electrochem. Soc.  <u>141</u> 9, p 2332-2337 (1994) </p>
+F. Mansfeldï¿½ï¿½ J. Electrochem. Soc.ï¿½ <u>141</u> 9, p 2332-2337 (1994) </p>
 
 <p>[3] S. Mabbutt
-and D. J. Mills, Surface Coatings International,<i>  </i><u>80</u><b>,</b>1, p18-25, (1997) [4]  B. S. Skerry and D. A. Eden, Prog. Org.
-Coat., <b> </b><u>15</u><b>,</b>
+and D. J. Mills, Surface Coatings International,<i>ï¿½ </i><u>80</u><b>,</b>1, p18-25, (1997) [4]ï¿½ B. S. Skerry and D. A. Eden, Prog. Org.
+Coat., <b>ï¿½</b><u>15</u><b>,</b>
 p269-285, (1987)</p>
 
 <p>[5] C. T. Chen
-and B. S. Skerry, Corrosion <b> </b><u>47</u><b>,</b> p598-61, (1991)</p>
+and B. S. Skerry, Corrosion <b>ï¿½</b><u>47</u><b>,</b> p598-61, (1991)</p>
 
-<p>[6]  G. P. Bierwagen, D. J. Mills,  D.E. Tallman , B. S. Skerry,   Proc. Conf. Electrochemical Noise for
-Corrosion Applications<i>, </i> May 1994 
-Montreal pub. ASTM  STP No. 1277,
+<p>[6]ï¿½ G. P. Bierwagen, D. J. Mills,ï¿½ D.E. Tallman , B. S. Skerry,ï¿½ï¿½ Proc. Conf. Electrochemical Noise for
+Corrosion Applications<i>, </i>ï¿½May 1994ï¿½
+Montreal pub. ASTMï¿½ STP No. 1277,
 (1996)</p>
 
-<p>[7]  D.J. Mills, G. P. Bierwagen, B. Skerry and
-D. Tallman,  Materials Performance <b>  </b><u>34</u>,
+<p>[7]ï¿½ D.J. Mills, G. P. Bierwagen, B. Skerry and
+D. Tallman,ï¿½ Materials Performance <b>ï¿½ï¿½</b><u>34</u>,
 5, p33-38, (1995) </p>
 
 <p>[8] D. J. Mills
 and S. Mabbutt, EFC Publication No 20, pub Institute of Materials (Ed L
 Fedrizzi and P L Bonora) p83-93, (1997)</p>
 
-<p>[9] 
+<p>[9]ï¿½
 R. Akid, Materials World, November, p 522-525, (1995),</p>
 
 <p>[10] R. Akid, Corrosion Management,
@@ -313,61 +313,61 @@ Coatings,18, p299-312, (1990)</p>
 Corrosion Science <u>35</u>, p1311-1318, (1993)</p>
 
 <p>[15] RC Bacon, J Smith and Rugg, Ind. Eng.
-Chem. <u>40</u>, p     (1948)</p>
+Chem. <u>40</u>, pï¿½ï¿½ï¿½ï¿½ (1948)</p>
 
 <h3><b>Figures</b></h3>
 
-<h3><img border="0" src="../paper18/image001.gif" width="387" height="244"></h3>
+<h3><img border="0" src="{{ $htmURL }}image001.gif" width="387" height="244"></h3>
 
-<p><b>Figure 1. 
+<p><b>Figure 1.ï¿½
 Experimental set up for EN measurements.</b></p>
 
-<p><img border="0" src="../paper18/image003.jpg" width="487" height="332"></p>
+<p><img border="0" src="{{ $htmURL }}image003.jpg" width="487" height="332"></p>
 
-<p><b>Figure 2.  SRET
+<p><b>Figure 2.ï¿½ SRET
 experimental arrangement</b></p>
 
-<p><img border="0" src="../paper18/image005.jpg" width="480" height="265"></p>
+<p><img border="0" src="{{ $htmURL }}image005.jpg" width="480" height="265"></p>
 
 <p><b>Figure 3. Noise Resistance (R<sub>n</sub>) values for scribed CM(1-4)
-and IC 152 (5,6)  coatings after 2h in
-10 % Harrison’s solution</b></p>
+and IC 152 (5,6)ï¿½ coatings after 2h in
+10 % Harrisonï¿½s solution</b></p>
 
-<p><img border="0" src="../paper18/image007.jpg" width="509" height="291"></p>
+<p><img border="0" src="{{ $htmURL }}image007.jpg" width="509" height="291"></p>
 
 <p><b>Figure 4. Effect of time on Rn, Scribed CM epoxy coating and RH alkyd
 coating in 10% Harrison's Solution.</b></p>
 
-<p><img border="0" src="../paper18/image009.jpg" width="499" height="275"></p>
+<p><img border="0" src="{{ $htmURL }}image009.jpg" width="499" height="275"></p>
 
 <p><b>Figure 5.
 Effect of time on Rn for scribed red lead samples in 10% Harrison's solution.
 (Non-inhibited) immediate immersion. (Soaked) 0-192h in10% Harrison's solution,
 192-350h in 55% Harrison's solution.</b></p>
-<p><img border="0" src="../paper18/image011.jpg" width="499" height="288"></p>
+<p><img border="0" src="{{ $htmURL }}image011.jpg" width="499" height="288"></p>
 
 <p><b>Figure 6. Effect of time on Rn for CM, RH and Pre-soaked Red Lead
 Scribed Coatings.</b></p>
 
-<p><img border="0" src="../paper18/image013.gif" width="333" height="250"></p>
+<p><img border="0" src="{{ $htmURL }}image013.gif" width="333" height="250"></p>
 
 <p><b>Figure 7. SRET map showing corrosion at the scratch location after
     4 hours immersion</b></p>
 
-<p><img border="0" src="../paper18/image018.gif" width="408" height="268"></p>
+<p><img border="0" src="{{ $htmURL }}image018.gif" width="408" height="268"></p>
 
-<p><b>Figure 8. CM specimens in 10% Harrison’s solution. Note coating
+<p><b>Figure 8. CM specimens in 10% Harrisonï¿½s solution. Note coating
     re-scribed after 27h.</b></p>
 
 <p>&nbsp;</p>
 
-<p><b>Figure 9. RH specimens in 10% Harrison’s solution. Note
+<p><b>Figure 9. RH specimens in 10% Harrisonï¿½s solution. Note
 imposed potential of +20mV after 26h.</b></p>
 
 <p class="MsoNormal"><span lang="EN-GB" style="font-size:12.0pt;mso-bidi-font-size:
 10.0pt"><b>Figure 10<span style="mso-spacerun: yes">&nbsp; </span>CM Coating
 after 2 hr pre-soak in demineralised water, followed by immersion in 10%<span style="mso-spacerun: yes">&nbsp;
-</span>Harrison’s for a) 15 min, b) 5 hr and c) 9 hr<o:p>
+</span>Harrisonï¿½s for a) 15 min, b) 5 hr and c) 9 hr<o:p>
 </o:p>
 </b></span></p>
 <p class="MsoNormal"><span lang="EN-GB" style="font-size:12.0pt;mso-bidi-font-size:
@@ -376,7 +376,7 @@ after 2 hr pre-soak in demineralised water, followed by immersion in 10%<span st
 </span></p>
 <p class="MsoNormal"><span lang="EN-GB" style="font-size:12.0pt;mso-bidi-font-size:
 10.0pt"><b>Figure 11 CM Coating after immersion in 10%<span style="mso-spacerun:
-yes">&nbsp; </span>Harrison’s for<span style="mso-spacerun: yes">&nbsp; </span>a)
+yes">&nbsp; </span>Harrisonï¿½s for<span style="mso-spacerun: yes">&nbsp; </span>a)
 2hr, b) 3 hr </b><b>and c) 25 hr</b></span></p>
 
 <p>&nbsp;</p>

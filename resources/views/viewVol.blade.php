@@ -1,6 +1,6 @@
 @extends('templates.layout')
 @section('content')
-        <h2>Volume {{ $vol }}:</h2>
+    <h2>Volume {{ $vol }}:</h2>
 {{ $vol_desc }}
 <p>Please note that papers are published in preprint form as PDF
     files while they are being refereed. Papers may also be published in preprint

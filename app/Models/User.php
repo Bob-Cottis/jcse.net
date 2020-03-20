@@ -5,6 +5,7 @@ namespace App\Models;
 use Illuminate\Notifications\Notifiable;
 use Illuminate\Contracts\Auth\MustVerifyEmail;
 use Illuminate\Foundation\Auth\User as Authenticatable;
+
 class User extends Authenticatable implements MustVerifyEmail
 {
     use Notifiable;
@@ -15,7 +16,7 @@ class User extends Authenticatable implements MustVerifyEmail
 
     public function userprofile()
     {
-        return $this->belongsTo('App\Models\Userprofile', 'userProfile_id' );
+        return $this->belongsTo('App\Models\Userprofile', 'userprofile_id' );
     }
 
     public function papers()
@@ -49,9 +50,34 @@ class User extends Authenticatable implements MustVerifyEmail
         return $this->hasMany('App\Models\Comment', 'commAuthor_id');
     }
 
+    public function reviews()
+    {
+        return $this->hasMany('App\Models\Review');
+    }
+
     public function keywords() {
         return $this->belongsToMany('App\Models\Keyword');
     }
+
+    public function fullName() {
+        return $this->title->title.' '.$this->givenName.' '.$this->familyName;
+    }
+
+    public function recipients()
+    {
+        return $this->belongsToMany('App\Models\Message', 'recipient', 'user_id');
+    }
+
+    public function ccs()
+    {
+        return $this->belongsToMany('App\Models\Message', 'cc', 'user_id');
+    }
+
+    public function bccs()
+    {
+        return $this->belongsToMany('App\Models\Message', 'bcc', 'user_id');
+    }
+
     /*public function getUserDetailsAttribute()
     {
         $details = ['title'=>$this->title(),
@@ -67,7 +93,3 @@ class User extends Authenticatable implements MustVerifyEmail
 
 }
 
-// SQL query to get users with relevant keywords, but who are not authors of paper (76 in the example)
-// SELECT * FROM `users` join keyword_user on `users`.`id` = `keyword_user`.`user_id` WHERE `keyword_user`.`keyword_id`
-//in (SELECT `keyword_paper`.`keyword_id` FROM `keyword_paper` WHERE `keyword_paper`.`paper_id` = 76) AND `users`.`id`
-// NOT IN (SELECT `author_id` FROM `paperauthors` WHERE `paperauthors`.`paper_id` = 76)

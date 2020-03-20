@@ -19,7 +19,7 @@ $logged_in=is_loggedin();
 </font><h2>Volume 2 Extended Abstract 35</h2>
 Submitted 8<sup>th</sup> September 1999<hr ALIGN="LEFT" WIDTH="90%">
 <h2>Performance Testing of Coatings Using a Reflecting Sensor in a Laser Reflection Photometer</h2>
-Jörg Vogelsang<sup>1</sup>, Berthold Völkel<sup>2</sup>  and Michael Grunze<sup>3<br>
+Jï¿½rg Vogelsang<sup>1</sup>, Berthold Vï¿½lkel<sup>2</sup>  and Michael Grunze<sup>3<br>
 <i>1</i></sup><i>Sika Chemie GmbH, Kornwestheimer Str. 107, D-70439 Stuttgart&nbsp;<br>
 <sup>2</sup>Development of Scientific Instruments, Thomas-Mann-Str. 90, D-67071 Ludwigshafen<br>
 <sup>3</sup>Inst. of Applied Physical Chemistry, University of Heidelberg, Germany</i><b>
@@ -30,7 +30,7 @@ Our new short term test for coatings using a vapor deposited metal film on a gla
 Furthermore this new test can also be applied in the case of corrosion studies. A corrosive environment attacks the metal film and causes its dissolution, whereby the required time until the dissolution gives a measuring value for the corrosiveness of the media. 
 
 <h4>Experimental Setup</h4>
-<img SRC="../extabs/Image149.gif" WIDTH="382" HEIGHT="295">
+<img SRC="../extabs/image149.gif" WIDTH="382" HEIGHT="295">
 <p><b>Fig. 1: Schematic diagram of the experimental setup.</b></p>
 <p>
 The mirror like vapor deposited metal film reflects the laser beam and the reflected intensity is measured with a light detector. This metal film can be overcoated with the coating material and after curing immersed into a test solution which is fitted in the laser reflection photometer. This photometer measures the reflectivity of the metal film from the back (Fig. 1). The decrease in reflectivity is connected with the corrosion of the metal film under the coating due to permeation and diffusion of the corrosive media to the substrate. 
